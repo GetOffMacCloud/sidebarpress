@@ -1,0 +1,11 @@
+# Obsidian housekeeping
+.obsidian/workspace.json
+.obsidian/hotkeys.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*~
+*.bak
