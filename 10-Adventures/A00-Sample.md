@@ -12,7 +12,7 @@ fg_module: ""
 tags: [sample]
 ---
 
-# Sample — How This Template Works
+# Test Sample — How This Template Works
 
 > Delete this note when you start your first real adventure. It exists to show how the pieces link together.
 
