@@ -8,7 +8,7 @@ party_size: "4-5"
 estimated_hours: 4
 setting: Greyhawk
 region: "Perrenland — Canton of Clatspurgen, high Clatspur valleys"
-in_world_date: "Patchwall, 576 CY"
+in_world_date: "Patchwall, 576 CY" # deliberate exception to the 598 CY house default
 created: 2026-10-08
 fg_module: ""
 tags: [one-shot, undead, wilderness, tactical, story-arc, flan, nerull, perrenland, clatspurgen]
@@ -21,7 +21,10 @@ tags: [one-shot, undead, wilderness, tactical, story-arc, flan, nerull, perrenla
 > A Story Arc / Tactical / Wilderness one-shot for **average party level 1–4** (scaled per APL throughout). A highland hamlet in the Clatspurs of Perrenland, with the Vesve Forest and the lands of Iuz beyond the eastern ridges, is losing people to a pack of skeletal beasts. The pack is not the villain. It is the hunting pack of a Flan chieftain, woken when a frightened young man stole her burial torc, and now steered by a priest of Nerull who wears her antler crown. The night ends at three standing stones, with three captives bound to them and a rite running against the clock. The party can win by destroying the pack, killing the priest, or giving the dead back what was taken from them.
 
 ## Adventure Code
-`SP-PBS-02` — never reuse codes, even for scrapped adventures. *(Code follows the `SP-PBS-01 — The False Arrow` series pattern; rename if this belongs to a different line.)*
+`SP-PBS-02` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
+
+## Date
+**Patchwall, 576 CY.** This is a deliberate exception to the 598 CY house default, logged in [[Timeline]]. It puts the adventure before Perrenland's 583 CY pact with Iuz, when Iuz is an open threat over the ridges, and within living memory of Iggwilv's reign.
 
 ## Design Frame
 - **Thesis:** The dead were robbed first. The fastest way to end the haunting is restitution, not destruction.
@@ -31,14 +34,15 @@ tags: [one-shot, undead, wilderness, tactical, story-arc, flan, nerull, perrenla
 - **Tone:** folk-horror wilderness. It is cold, wet, and dark, and the threat is the moor itself and what walks on it.
 
 ## Perrenland Color
-*Canon framing; see Canon Check. Use these touches to make Waycombe feel Perrender rather than generic.*
+*Canon framing; see Canon Check and the linked Lore notes. Use these touches to make Waycombe feel Perrender rather than generic.*
 
 - **Iuz is the first suspect.** Waycombe lies under the Clatspur ridges with the Vesve Forest and the Old One's lands beyond. Every villager assumes the bone beasts are Iuz's work. Ashlock encourages this, and it is a **red herring**. Let the table chase it for a beat, then let the ash circles and the torc pull them back.
-- **Iggwilv is the old fear.** Perrenders remember that the witch Iggwilv once took their country with an army of the dead. Wenna Cobb's grandmother "saw the Witch's dead march." Old folk make a warding sign against Iggwilv, not against Nerull. Ashlock knows this and calls his pack "the Witch's hounds come home" when he wants a village to despair.
+- **Iggwilv is the old fear.** The witch Iggwilv ruled Perrenland from 481 to 491 CY. Her legions were humanoid and fiendish, but ninety years of village retelling have turned them into "**the Witch's dead**." Wenna Cobb's grandmother "saw the Witch's dead march." Old folk make a warding sign against Iggwilv, not against Nerull. Ashlock knows this and calls his pack "the Witch's hounds come home" when he wants a village to despair. *(Folk memory, not canon fact; see [[Iggwilvs-Conquest-of-Perrenland]].)*
 - **Highland militia.** Clatspurgen raises longbowmen, and every Waycombe household keeps a bow and a pike. **Brannoc Brennan served a season as a militia longbowman.** The hamlet's three militia pikes come out in Scene 1.
 - **Language.** Highland Perrenders speak Common, and Stamtaal (the Common–Flan creole) at home. Old Flan words survive in place-names: *Dreadverge* is a Stamtaal corruption of the Flan for "the Mother's verge."
 - **Money.** Perrenders count in **marks** (gp) and **kleinmarks** (sp). Prices in this adventure are given in gp for the DM. NPCs say "marks."
 - **Mercenary culture.** Young Perrenders go south with the free companies. Pell's dice-debt was run up in Schwartzenbruin while he waited to sign with one.
+- **Nerull in Perrenland.** The Old Kerk counts Nerull among its gods, and roadside shrines to appease him are tolerated. Ashlock's crime is not his god but **raising the dead**, which is heresy in any canton.
 
 ## Background (the hidden truth)
 *Homebrew; see Canon Check.*
@@ -120,6 +124,9 @@ See [[Scene 05 — The Three Sisters]] for the full run. The PCs can derive ever
 - [[The-Dreadverge|The Dreadverge]] — A peat heath between Waycombe and the high Clatspurs. Features include the Weeping Beck, the cut-trenches, and the cutters' camp.
 - [[The-Three-Sisters|The Three Sisters]] — Three standing stones on the Hound-Mother's barrow mound.
 
+## Maps
+Simple Layout battlemaps (DM and Player) are in `99-Assets/SP-PBS-02/`. See [[SP-PBS-02 — Map Assets]].
+
 ## Encounters
 Difficulty is calculated for **4 PCs** with 2014 DMG thresholds and multipliers. **For 5 PCs, add one bone hound. For 3 PCs, remove one creature (never the leader).** Full statblocks are in [[SP-PBS-02 — Bestiary]].
 
@@ -129,9 +136,9 @@ Difficulty is calculated for **4 PCs** with 2014 DMG thresholds and multipliers.
 | 2 | Counting the Missing (S2) | social / investigation | — | — | — | — | Clues, the torc negotiation, and Pell's confession |
 | 3 | The Pack Tests You (Howl 3) | combat (wandering) | 2 hounds — Easy | 3 hounds — Easy | 4 hounds — Easy | 5 hounds — Easy | Triggered by the Howl track. The hounds break off after two are destroyed. |
 | 4 | The Pack Hunts (Howl 6) | combat (wandering) | 3 hounds — Hard | 3 hounds + 2 elk — Medium | 4 hounds + 2 elk — Medium | Barrow Stag + 6 hounds — Medium | After this fight, the Howl resets to 3 |
-| 5 | The Cut-Trenches (S3) | tactical combat | 2 boars — Easy | 3 boars + 1 elk — Medium | 4 boars + 2 elk — Medium | 4 boars + 2 elk + 2 hounds — Medium | Terrain: 10-ft trenches, bog, turf stacks |
+| 5 | The Cut-Trenches (S3) | tactical combat | 2 boars — Easy | 3 boars + 1 elk — Medium | 4 boars + 2 elk — Medium | 4 boars + 2 elk + 2 hounds — Medium | Terrain: 10-ft trenches, bog, turf stacks. Map: Cut-Trenches. |
 | 6 | The Cutters' Camp (S4) | combat / exploration | 2 zombies — Easy | 3 zombies — Easy | 3 zombies + Corran (ghoul) — Medium | 4 zombies + 2 ghouls — Medium | Optional. Holds the letter and the unmasking. |
-| 7 | The Three Sisters (S5) | climax | Ashlock (acolyte) + 2 hounds — Hard | Ashlock (acolyte) + Barrow Stag + 2 hounds — Hard | Ashlock (cult fanatic) + Barrow Stag + 2 hounds — Hard | Ashlock (cult fanatic) + Barrow Stag + 4 hounds — Hard | The rite consumes Ashlock's action. The torc ends it. |
+| 7 | The Three Sisters (S5) | climax | Ashlock (acolyte) + 2 hounds — Hard | Ashlock (acolyte) + Barrow Stag + 2 hounds — Hard | Ashlock (cult fanatic) + Barrow Stag + 2 hounds — Hard | Ashlock (cult fanatic) + Barrow Stag + 4 hounds — Hard | The rite consumes Ashlock's action. The torc ends it. Map: Three Sisters. |
 
 **Adventuring-day check (APL 1, 4 PCs):** The likely path costs about 750–1,050 adjusted XP against a daily budget of 1,200. That leaves room for one Howl encounter, so it is a hard night but survivable. At APL 4, the climax (1,700 adjusted) sits between Hard and Deadly, and the rite-action rule keeps Ashlock out of the fight for most rounds.
 
@@ -157,33 +164,34 @@ Threads this adventure **advances**: —
 Threads this adventure **closes**: —
 Dangling hooks left for future adventures: [[Pell Marsh's Debt]]; Ashlock (if he escapes); the Antler Crown (if it leaves the barrow); the barrow's open side (if the torc was not returned).
 
-> **Vault housekeeping:** Add both threads to the **Open** and **Dangling** tables in [[Plot-Threads]], and add *Patchwall 576 CY — the Dreadverge haunting (Clatspurgen)* to [[Timeline]].
+Both threads are logged in [[Plot-Threads]], and both 576 CY events are in [[Timeline]].
 
 ## Canon Check
-- [ ] All Greyhawk references verified against Lore notes (none exist yet in `20-World/Greyhawk-Canon`; create them from the table below)
-- [ ] Deviations from canon documented below
+- [x] Greyhawk references have Lore notes: [[Perrenland]], [[Canton-of-Clatspurgen]], [[Clatspur-Range]], [[Iggwilvs-Conquest-of-Perrenland]]
+- [ ] Page numbers verified against print (currently from the Encyclopedia Greyhawkania Index)
+- [ ] Lore notes still needed: the Flan, Nerull and Wee Jas, Luna and Celene / Common Year calendar
+- [x] Deviations from canon documented below
 - [x] No 5.5e-only lore used
 
 | Canon element used | Sources to cite (page to verify) | How it is used |
 |---|---|---|
-| Perrenland: eight cantons between the Yatils and Lake Quag; capital Schwartzenbruin; mercenaries as chief export; Oeridian–Flan population; Stamtaal | *Living Greyhawk Gazetteer* (3e, 2000) p. 85; *WoG* boxed set (1e, 1983) pp. 29–31 | Nation, culture, hooks |
-| Canton of Clatspurgen; highland longbowmen | *LGG* (2000) p. 85 (verify canton detail) | Waycombe's canton and militia |
-| Clatspur Range, between the cantons and the Vesve Forest | *From the Ashes* (2e, 1992) Atlas pp. 46, 57; *LGG* (2000) pp. 53, 85; *WoG* (1983) | The barrow-strewn highlands |
-| The High Gallery road; Traft | *LGG* (2000) p. 85 | Hook geography |
-| Iggwilv's conquest of Perrenland with undead; Iuz on the eastern border | *LGG* (2000); *WoG* (1983) (verify pages) | Folk fear and red herring |
+| Perrenland: eight cantons between the Yatils and Lake Quag; capital Schwartzenbruin; mercenaries as chief export; Oeridian–Flan population; Stamtaal; Old Kerk tolerates Nerull shrines | *Living Greyhawk Gazetteer* (3e, 2000) pp. 85–86; *WoG* boxed set (1e, 1983) pp. 29–32 | Nation, culture, hooks. See [[Perrenland]]. |
+| Canton of Clatspurgen; highland longbowmen | *LGG* (2000) p. 85 | Waycombe's canton and militia. See [[Canton-of-Clatspurgen]]. |
+| Clatspur Range, between the cantons and the Vesve Forest; the High Gallery | *From the Ashes* (2e, 1992) Atlas pp. 46, 57; *LGG* (2000) pp. 53, 85; *WoG* (1983) | The highlands and hook roads. See [[Clatspur-Range]]. |
+| Iggwilv's conquest 481–491 CY (humanoid legions; "the Witch's dead" is Perrender folk memory, not canon); Iuz on the eastern border | *S4* (1e, 1982); *LGG* (2000) pp. 85–86; *Dungeon* #151 (2007) | Folk fear and red herring. See [[Iggwilvs-Conquest-of-Perrenland]]. |
 | Perrender coinage: mark (gp), kleinmark (sp) | *LGG* (2000) p. 85 | In-world prices |
-| The Flan as the oldest human people of the Flanaess; Flan tribes of the Yatils absorbing later migrants | *WoG* (1983), Guide; *LGG* (2000) | Kethra's culture |
+| The Flan as the oldest human people of the Flanaess; Flan tribes of the Yatils absorbing later migrants | *WoG* (1983), Guide; *LGG* (2000) p. 85 | Kethra's culture |
 | Nerull, god of death; Wee Jas, Suel death goddess | *PHB* (5e 2014), App. B; *WoG* (1983); *Greyhawk Adventures* (1e, 1988) | Ashlock's true god and his cover |
 | Luna and Celene; Common Year reckoning; month of Patchwall | *WoG* (1983), Guide | Deadline and in-world date |
 
-**Deviations (homebrew):** Waycombe, the Dreadverge, the Three Sisters, Kethra and her pack, the torc and crown, and Ashlock and the Nerullite barrow-cell in Schwartzenbruin are all invented. Flan chieftain-barrows in the Clatspurs are a Sidebar Press extrapolation from the Flan history of the Yatil highlands. The title "reeve" for an elected hamlet warden is house usage, not a canon Perrender office. See [[The-Hound-Mother-of-the-Dreadverge]] in `20-World/Homebrew`. The default date is 576 CY (*WoG* baseline), when Iuz is a live threat over the Clatspurs and the villagers' fear is sharpest. At 591 CY or later, Perrenland's non-aggression treaty with Iuz is in force; keep the red herring, but villagers then blame Iuz for breaking the treaty.
+**Deviations (homebrew):** Waycombe, the Dreadverge, the Three Sisters, Kethra and her pack, the torc and crown, and Ashlock and the Nerullite barrow-cell in Schwartzenbruin are all invented. Flan chieftain-barrows in the Clatspurs are a Sidebar Press extrapolation from the Flan history of the Yatil highlands. The title "reeve" for an elected hamlet warden is house usage, not a canon Perrender office. (If we adopt Living Greyhawk canton detail, the levy is owed to the Roodberg Phalzgraf; see [[Canton-of-Clatspurgen]].) See [[The-Hound-Mother-of-the-Dreadverge]] in `20-World/Homebrew`. The date, 576 CY, is a deliberate exception to the 598 CY house default (see Date, above). At 591 CY or later, Perrenland's pact with Iuz would be in force; keep the red herring, but villagers then blame Iuz for breaking the pact.
 
 ## Fantasy Grounds Build
 - [ ] Story entries written (one per scene)
 - [ ] Encounters built and linked to story (7, with APL variants as separate encounters)
 - [ ] NPCs created/linked (Bone Hound, Bone Boar, Bone Elk, Barrow Stag, Ashlock ×2 variants)
 - [ ] Parcels (treasure) assigned (per APL band)
-- [ ] Maps/images added with pins and LOS (Waycombe, Cut-Trenches, Three Sisters)
+- [ ] Maps/images added with pins and LOS (Cut-Trenches and Three Sisters PNGs at 100 px/sq; Waycombe still needed)
 - [ ] Player handouts flagged shareable ([[SP-PBS-02 — Handout — Ashlock's Letter]])
 - [ ] Reference manual chapter drafted
 - [ ] Module exported and versioned
@@ -201,4 +209,5 @@ Watch for: whether tables find the torc before the climax (target is 70% or more
 - [[SP-PBS-02 — The Howl and the Rite]] — the signature mechanics and table trackers
 - [[SP-PBS-02 — Bestiary]] — every statblock, paste-ready
 - [[SP-PBS-02 — Handout — Ashlock's Letter]]
+- [[SP-PBS-02 — Map Assets]]
 - [[00 — Scene Index]]
