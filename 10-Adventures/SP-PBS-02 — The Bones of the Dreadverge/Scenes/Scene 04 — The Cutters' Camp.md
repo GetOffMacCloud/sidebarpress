@@ -11,7 +11,7 @@ publish: false
 [[00 — Scene Index]] · ← [[Scene 03 — Crossing the Dreadverge]] · Next → [[Scene 05 — The Three Sisters]]
 
 ## Purpose
-This optional scene costs time and pays in certainty. The party learns who Ashlock serves, what the crown does, and what Celene-set means, and they find the sequel hook. It is also where the town's guess ("the cutters ran off") is overturned.
+This optional scene costs time and pays in certainty. The party learns who Ashlock serves, what the crown does, and what Celene-set means, and they find the sequel hook. It is also where the town's guesses ("the cutters ran off," "it's Iuz") are overturned.
 **Budget:** 30 minutes. **Cost:** +1 Rite Clock to reach, and +1 more to search thoroughly.
 
 ## Arrival
@@ -32,7 +32,7 @@ Then, one at a time:
 
 Statblocks: [[SP-PBS-02 — Bestiary#Zombie (CR 1/4, 50 XP), MM p. 316 — the risen peat-cutters]] · [[SP-PBS-02 — Bestiary#Ghoul (CR 1, 200 XP), MM p. 148 — Corran the foreman (APL 3), and his second (APL 4)]]
 
-- The zombies are the Hardby cutters. They sit inside the huts and rise when anyone crosses the bone-ring. They are slow, so a party that stays outside the ring can leave without a fight.
+- The zombies are the Traft cutters. They sit inside the huts and rise when anyone crosses the bone-ring. They are slow, so a party that stays outside the ring can leave without a fight.
 - **Corran** (APL 3–4) is in the big hut, eating a ewe. He is the foreman, and he rose wrong. He comes out fast.
 - **Paralysis guard:** if two PCs are paralyzed at once, Corran turns to his meal for a round. Never let a ghoul end the night on the detour.
 - **Talk-first note:** zombies cannot be talked down. But a PC who reads the **tally-board** nailed to the big hut finds the crew's names and the advance Odila paid them, and may want to bring the names home. That is worth something in the denouement.
@@ -41,10 +41,11 @@ Statblocks: [[SP-PBS-02 — Bestiary#Zombie (CR 1/4, 50 XP), MM p. 316 — the r
 **Quick look (no clock cost):**
 - Ashlock's **bedroll** in the smallest hut, with a whetstone and a **sickle** (APL 1–2; at APL 3–4 he carries it)
 - A pot of **ash, tallow, and bone-meal**, the same mix as the door circles
-- The **tally-board:** six names, and *"Adv. from the Reeve — 6 gp"*
+- The **tally-board:** six names, and *"Adv. from the Reeve — 6 marks"*
+- **No sign of Iuz.** No orc-sign, no fiend-marks, nothing from over the ridges. *(If the table is still chasing Iuz, this is where you say so plainly.)*
 
 **Thorough search (+1 Rite Clock):**
-- Wrapped in oilcloth under the bedroll: **[[SP-PBS-02 — Handout — Ashlock's Letter|Ashlock's letter]]**, a draft to his superior in Greyhawk City. **Hand this to the players.**
+- Wrapped in oilcloth under the bedroll: **[[SP-PBS-02 — Handout — Ashlock's Letter|Ashlock's letter]]**, a draft to his superior in Schwartzenbruin. **Hand this to the players.**
 - Ashlock's purse (if he did not carry it): see Treasure in [[SP-PBS-02-The-Bones-of-the-Dreadverge]].
 - A **bone whistle** carved from a stag's tine. Blowing it makes every bone beast within 300 ft stop and face the sound for 1 round (once per night). *It is a tool of the crown, but it works without it.*
 - APL 3–4: a *potion of healing* and the *spell scroll of lesser restoration*.

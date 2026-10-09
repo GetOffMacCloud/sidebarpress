@@ -26,8 +26,10 @@ Then, one at a time:
 - **Ashlock** speaks without turning, if the party is seen:
 > **Ashlock:** *"You are welcome. Every rite wants witnesses."*
 
+If a PC names Iuz or Iggwilv, Ashlock laughs once: *"The Old One has his own dead. These are mine."*
+
 ## The Ground (map notes)
-- **The mound:** 120 ft long and 60 ft wide, gentle slopes on all sides (normal terrain), with a **10-ft peat-cut face** on the south side.
+- **The mound:** 120 ft long and 60 ft wide, gentle slopes on all sides (normal terrain), with a **10-ft peat-cut face** on the south side. Behind it, the Clatspur ridges block out half the sky.
 - **The ring:** a 30-ft triangle of stones, each 15 ft tall. The captives are bound at the stones' bases. The green fire at the center casts dim light out to 20 ft. **Everything else is darkness.**
 - **The barrow mouth:** in the south cut face, 30 ft from the ring's center. A 5-ft passage leads 20 ft to a round chamber with a stone bier. **Kethra** lies on it in rotted leather and amber. Her breast is bare where the torc was.
 - **The bog path:** north of the mound. Ashlock's escape route, a 5-ft causeway through difficult terrain. The beasts avoid it.
@@ -83,6 +85,7 @@ A PC at a stone cuts ropes with an action, or with a bonus action on a **Sleight
 > **Ashlock:** *"Eight more chiefs sleep under these hills. I was only the first one sent."*
 - **Escaped:** he leaves a trail of grey wool into the bog. If he has the crown and the torc went home, the crown is dead. He will find that out later, and he will want to know who did it.
 - **Killed:** his sickle, his letter, and the jet scythe-pendant (APL 3–4) on the body.
+- **Perrender justice:** a captured Ashlock goes before a cantonal **Rechter** (judge). If the party delivers him with the letter, the court's thanks are worth a favor in Schwartzenbruin.
 
 ## Treasure in the Barrow
 Kethra's grave goods are amber beads, bronze spear-blades, and a boar-tusk helm, about 150 gp. **Taking any of it sends the Howl to 6 at once.** If the torc has gone home, the pack does not rise, but the PC who took the goods hears clicking at the edge of every campfire until the goods are returned. *(See [[Torc-of-the-Hound-Mother]], Continuity.)* This is the adventure's last test. Do not warn the players. Hild will, if she is present: *"That's hers."*
@@ -92,11 +95,11 @@ Kethra's grave goods are amber beads, bronze spear-blades, and a boar-tusk helm,
 
 Play these as short, separate beats. Answer questions through people and papers, never by narration.
 - **Reunions.** Hild and Brannoc; Wenna and the miller's wife; Odila and Tam. *Do not describe Odila's face.* Describe what she does with her hands (she reaches for the tally-stick and does not cut it).
-- **Odila's levy.** She asks the party what to tell the Domain clerk. The party's answer decides her shame. If they tell the truth for her, she pays the cloak-pin as well and never asks them for anything again.
-- **Pell.** If he has not confessed to his mother, he asks the party whether he should. Do not resolve this for them. His debt in Greyhawk City still stands → [[Pell Marsh's Debt]].
-- **The cutters' names.** If the party brought the tally-board, Odila sends the names and the unspent advance to Hardby. That is worth a Waycombe debt of honor.
+- **Odila's levy.** She asks the party what to tell the canton's levy-clerk. The party's answer decides her shame. If they tell the truth for her, she pays the cloak-pin as well and never asks them for anything again.
+- **Pell.** If he has not confessed to his mother, he asks the party whether he should. Do not resolve this for them. His debt in Schwartzenbruin still stands → [[Pell Marsh's Debt]].
+- **The cutters' names.** If the party brought the tally-board, Odila sends the names and the unspent advance to Traft. That is worth a Waycombe debt of honor.
 - **The song.** If the torc went home, Mother Gest sings the song that night and stops at the last line. She says the words *came out wrong* and sings it again. Let the players ask what the last line means. *Do not answer.*
-- **The open question.** Ashlock's letter and his last words point at the Cairn Hills → [[The Nine Chiefs of the Cairn Hills]].
+- **The open question.** Ashlock's letter and his last words point deeper into the Clatspurs → [[The Nine Chiefs of the Clatspurs]].
 
 ## Rewards
 - Gold and items per the main note's Treasure section, scaled by APL.

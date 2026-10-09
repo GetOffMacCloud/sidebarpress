@@ -19,21 +19,25 @@ This is an open investigation of a frightened hamlet. The party leaves knowing *
 
 The tally-stick records livestock losses: 31 sheep and 6 cattle in a month. Three people are missing: **Brannoc Brennan**, **Wenna Cobb**, and **Tam Marsh**, Odila's younger son. Odila speaks of Tam's absence once and never again.
 
-**Price.** Odila offers 40 gp, all of the levy chest, plus lodging. *Persuasion DC 13* gets her silver cloak-pin added. Characters see her glance at the chest and away.
+**Price.** Odila offers 40 marks (40 gp), all of the levy chest, plus lodging. *Persuasion DC 13* gets her silver cloak-pin added. Characters see her glance at the chest and away.
+
+## What Waycombe Believes
+Before the party asks anything, someone says it: *"It's the Old One's work. Iuz, over the ridges."* An old man makes the sign against Iggwilv and says the Witch's dead have come home. **Both are wrong.** Let the table chase Iuz for a beat. Nothing here supports it: no orcs, no fiends, no demands. The ash circles and the torc pull them back.
 
 ## The Townsfolk (who knows what)
 Run these as answers to questions, never as monologues. Each NPC's richest line is in prose. Use it.
 
 ### [[Hild-Brennan|Hild Brennan]] — the witness
-Hild was on the heath four nights ago, looking for strays, when Brannoc was taken.
+Hild was on the heath four nights ago, looking for strays, when Brannoc was taken. Brannoc's longbow still hangs over their door; he never reached it.
 > **Hild:** *"They had him by the coat and walked him like a calf. There was a man with them. He had antlers. Not on his head like a beast's. On his head like a crown."*
 
 - The pack went **toward the Three Sisters** (*"the stones on the old mound"*), along the line of the peat-cutters' track.
 - *"The smith's hammer broke one like a pot."* (bludgeoning, if not already learned)
 - She knows the **Weeping Beck** crossing and the ford-stones. If she is asked or offered protection, she will guide (see Scene 3).
+- If asked about Iuz: *"Iuz sends orcs. These came for sheep and walked home."*
 
 ### Mother Gest, the miller's wife — the song
-She sings it to calm the children. She does not know it is a warning.
+She sings it to calm the children, half in Stamtaal. She does not know it is a warning.
 > *Three sisters keep the Mother's door,*
 > *her hounds asleep upon the floor.*
 > *Bring back the ring, bring back the band,*
@@ -55,16 +59,16 @@ The marks were made by *"the good brother, for blessing. He does every house tha
 ### [[Pell-Marsh|Pell Marsh]] — the guilty one
 Pell is 19, sits on the woodpile outside, and will not come in. He rubs his left wrist, which has a raw green-tinged chafe mark.
 - *Insight DC 10:* he flinches whenever the cart is mentioned.
-- He confesses to whoever approaches without his mother present and offers him an out (a debtor, a criminal-background PC, anyone who says "we can fix this").
+- He confesses to whoever approaches without his mother present and offers him an out (a debtor, a criminal-background PC, a mercenary PC, anyone who says "we can fix this").
 
 > **Pell:** *"I wore it under my sleeve two days. It was cold the whole time. It never once got warm. Then I sold it, and then they came for Tam."*
 
-- He tells the full story: the cutters opened the mound on Odila's leave; he went in alone at night and took the ring off "her" neck; he sold it to the tinker for twelve silver toward a debt in Greyhawk City.
+- He tells the full story: the cutters opened the mound on Odila's leave; he went in alone at night and took the ring off "her" neck; he sold it to the tinker for twelve kleinmarks toward a dice-debt in Schwartzenbruin, run up while he waited to sign with a free company.
 - He begs them not to tell his mother. **Whether they tell her is a story choice, and a story-XP objective.** Do not make it for them.
 
 ### [[Ysolde-the-Tinker|Ysolde]] — the torc
 Behind the boarded hatch is a **green-bronze neck-ring, thick as a thumb, cut with a triple spiral, cold to the touch at any hour**: the [[Torc-of-the-Hound-Mother|Torc of the Hound-Mother]].
-- Ysolde knows it is worth 250 gp to a Greyhawk collector. She opens at **200 gp** and is a talk-first obstacle:
+- Ysolde knows it is worth 250 marks to a Schwartzenbruin collector. She opens at **200 gp** and is a talk-first obstacle:
   - *Persuasion DC 15* lowers the price to 25 gp (she paid 12 sp).
   - *Intimidation DC 12* gets it free, and she curses the party's names on every road she drives.
   - **Reasoning with her** works best. Pointing out that the hounds will come for her cart every night it holds the torc gets it for her cost (12 sp) with no roll.
@@ -72,9 +76,9 @@ Behind the boarded hatch is a **green-bronze neck-ring, thick as a thumb, cut wi
 - *History or Religion DC 13 on the torc:* this is a binding-ring, laid on the dead to hold something down. It was not meant to be worn or sold. A natural 20 adds that rings like this were laid **on the breast**, never the neck.
 
 ## Odila's Secret
-If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hiding something, or Pell's confession), she admits she leased the turf on the Sisters' slope to a crew from Hardby to meet the levy, over the old folks' grumbling. The cutters have not been seen in a week. *"They'll have run off with the advance."* *(They did not. See Scene 4.)*
+If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hiding something, or Pell's confession), she admits she leased the turf on the Sisters' slope to a crew from Traft to meet the levy, over the old folks' grumbling. The cutters have not been seen in a week. *"They'll have run off with the advance."* *(They did not. See Scene 4.)*
 
-> **Odila:** *"Forty gold a year we owe the Domain. It was turf. It was only turf."*
+> **Odila:** *"Forty marks a year we owe the canton. It was turf. It was only turf."*
 
 ## Checks Summary
 | Check | DC | Result |
@@ -95,8 +99,9 @@ If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hidi
 - **Taste:** thin broth with too much salt
 
 ## Alternates & Re-hooks
-- **The party skips the torc.** Ysolde leaves at midnight with her cart on the Hardby road, and the Howl starts at **2** for the pack-split (the pack goes after her). At the Sisters, the party finds the bone elk dragging Ysolde's cart-hatch into the ring, with the torc lying in the heather 20 ft from the barrow mouth. The climax key is still reachable, but it costs a run under fire.
+- **The party skips the torc.** Ysolde leaves at midnight with her cart on the High Gallery, and the Howl starts at **2** for the pack-split (the pack goes after her). At the Sisters, the party finds the bone elk dragging Ysolde's cart-hatch into the ring, with the torc lying in the heather 20 ft from the barrow mouth. The climax key is still reachable, but it costs a run under fire.
 - **The party wants to wait for dawn.** Rowan is taken from the mill at midnight. Start the Rite Clock at **2**. The barrow then holds four captives; add Rowan after Tam on the Rite Track.
+- **The party goes looking for Iuz.** The ridge-paths east show no orc sign, no burned steadings, nothing. Hild meets them on the way back with the song. Cost: +1 Rite Clock.
 - **The party confronts Ashlock's absence.** The wayside shrine is a mile east: a cairn with a bowl. The bowl holds ash and a bent sickle-tooth. *Religion DC 10:* sickles are the sign of **Nerull**, not Wee Jas.
 
 ## Transition

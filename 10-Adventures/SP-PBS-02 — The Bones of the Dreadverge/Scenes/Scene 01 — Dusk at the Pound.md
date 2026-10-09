@@ -18,6 +18,7 @@ This scene shows the pack, teaches the party that bludgeoning breaks bone, and p
 > *Waycombe is eleven houses, a mill, and a stone sheep-pound built against the wind. Every shutter on the lane is closed, though the sun has not yet set. Gray ash marks a hand-sized circle on four of the doors. At the pound, a woman stands with a pitchfork, watching the heath to the east, where the heather goes brown and then black.*
 
 Then deliver these one at a time, as their attention finds them:
+- Above the heath, the Clatspur ridges stand dark against the last light. Beyond them, everyone in Waycombe knows, lie the Vesve and the Old One's lands.
 - A tinker's cart, painted red and yellow, stands with its shafts down beside the pound. Its owner is nailing a board across its back hatch.
 - Near the mill, a man in a grey robe sits on a bench beside a woman with a bandaged leg, praying aloud. *(This is **Ashlock**, playing the mendicant of Wee Jas.)*
 - The woman at the pound is **[[Hild-Brennan|Hild Brennan]]**. She says one thing without turning around: *"If you're for hire, you're late. If you're passing through, pass quick."*
@@ -50,11 +51,14 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 
 **Bludgeoning.** Describe bludgeoning hits as shattering ("the skull goes like a dropped crock"). Describe piercing hits as slipping between ribs. Tables learn fast.
 
+**Perrender color.** A shutter bangs open and an old man shouts something in Stamtaal, then in Common: *"The Witch's dead! Bar the doors!"* He means Iggwilv. Nobody answers him.
+
 ## Aftermath
 - **The remains:** loose bone, black sinew that crumbles like old bark, and a **green-bronze collar-ring** with a triple spiral. *History DC 12:* Flan work, very old, and the kind of thing laid in graves. *Religion DC 12:* undead raised as a guardian pack, not by an ordinary necromancer's art. Something is binding them to a place.
 - **Ashlock** arrives promptly, kneels by the wounded (Hild's arm, or a PC), and heals.
   - APL 1–2 (Acolyte): he casts *cure wounds* in plain view. *"Wee Jas keeps the gate. She is generous to those who keep her rites."*
   - APL 3–4 (Cult Fanatic): he binds wounds with Medicine. If asked why he does not use magic, he says, *"Wee Jas grants her servants the dead, not the dying."*
+- If anyone mentions Iuz, Ashlock nods gravely and lets it stand.
 - He asks the party one thing: which of the dead have no bodies to bury. Then he says the deadline line, gently, to Hild:
 
 > **Ashlock:** *"The dark of the moon is a kind night for the dead, sister. Tonight they will be easy."*
@@ -77,4 +81,4 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 - **The party never touches the cart.** Hild brings it up in Scene 2: *"Your fighting dogs went for the tinker's cart like it owed them money."*
 
 ## Transition
-Odila Marsh comes down the lane with a lamp and the town's last three spears. *"You'll want supper,"* she says. *"And I'll want to know your price."* → [[Scene 02 — Counting the Missing]]
+Odila Marsh comes down the lane with a lamp and the hamlet's three militia pikes. *"You'll want supper,"* she says. *"And I'll want to know your price."* → [[Scene 02 — Counting the Missing]]
