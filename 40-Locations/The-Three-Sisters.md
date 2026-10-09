@@ -35,7 +35,9 @@ tags: [barrow, standing-stones, flan, perrenland, SP-PBS-02]
 - Open side re-sealed? ☐
 
 ## Map Reference
-`99-Assets/SP-PBS-02/` — climax battlemap needed (mound, ring, cut face, barrow chamber inset).
+- **Three Sisters battlemap** (Encounter 7): `99-Assets/SP-PBS-02/SP-PBS-02 - Three-Sisters - DM.svg` and `- Player.svg`. The grid is 36 × 30 squares (180 × 150 ft); the PNG export is 100 px/sq.
+  - The **DM copy** marks the captives' rite order (1 Brannoc, 2 Wenna, 3 Tam), Ashlock, the Barrow Stag, hound starts on the 60-ft pack ring, the 20-ft dim-light radius, and the bog escape path. It also has a barrow-chamber inset.
+  - See [[SP-PBS-02 — Map Assets]].
 
 ## Canon Notes
 Homebrew, one of the "nine chiefs." See [[The Nine Chiefs of the Clatspurs]] and [[The-Hound-Mother-of-the-Dreadverge]].

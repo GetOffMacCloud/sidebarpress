@@ -34,7 +34,6 @@ tags: [perrenland, iggwilv, history, iuz, grazzt]
 
 ## Sidebar Press Stance
 - In our adventures, Perrender villagers remember "**the Witch's dead**." Treat this as **folk memory, not canon fact**. Ninety years of retelling has turned humanoid legions and demon-haunted valleys into a march of the dead. That suits [[SP-PBS-02-The-Bones-of-the-Dreadverge]], where the villagers' Iggwilv fear is a red herring and Ashlock exploits it. Never state in DM-facing canon text that her army was undead.
-- *Correction to log:* the Canon Check table in SP-PBS-02 lists "Iggwilv's conquest of Perrenland with undead." On the next edit pass, reword it to "Iggwilv's conquest 481–491 CY (humanoid legions; 'the Witch's dead' is folk memory)."
 - In 576 CY, the oldest Perrenders (born before 491) remember her reign firsthand or through their parents. By 598 CY, it is grandparents' stories.
 
 ## Linked Adventures
