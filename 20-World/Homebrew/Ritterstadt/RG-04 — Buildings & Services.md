@@ -27,7 +27,7 @@ Buildings marked **(canon)** have full notes in the campaign import (`03 Buildin
 | The Smithy (canon) | [[Brunhilde Hammerschlag]] | Repairs; the coffer she won't open | Who's broke, who's building, who's been fighting | — | Tools, nails, repairs; weapons after 2–4 days |
 | The Mill (canon) | [[Hanz Korngut]] | The grain discrepancy | Old Flan names and paths; the Kammer | — | Flour; the grain log |
 | The Beckenhaus Farmstead · The Farmsteads · The McCockin Orchard (canon) | [[Kurt Beckenhaus]] and others | Stock lost to the Bloom; boundary disputes | Field-edge sightings | — | Grain, mutton, apples, brandy |
-| The Kettenhaus (canon) | see its note | see its note | — | — | — |
+| The Kettenhaus (canon) | the watch | — | Who the Vogt is holding, and what they were doing | — | — | — |
 | **The Station House** (new) | [[Rektor Albrecht Weissmantel]] | University contracts too sensitive for the Board; Regents' errands | The Warden's correspondence | — | Credits paid out; grants assessed |
 | **The Archive** (new) | [[Saelithan Verenwyr]], Archivist | Lost documents; the Hassenrath problem | Maps, field reports, Publications, the sealed stacks | **Research** (see RG-08) | Fair copies, map copies |
 | **The Long Dormitory** (new) | Proctor [[Mathias Grell]] | Student trouble; the Ramblers; the gate rota | What students saw in the field | — | A bunk, for the enrolled |
@@ -63,6 +63,8 @@ Buildings marked **(canon)** have full notes in the campaign import (`03 Buildin
 **The Burrows.** Gnome-cut rooms under Market Hill, dry and warm, where the Seam-Finders keep their charts and Pim Wobblewright keeps his lathe. The University buys every compass he makes.
 
 **The Larch Camp.** Three family-groups of sylvan elves in bark-and-felt shelters at the tree line, with a watch on the Hush. They are not enrolled on the Moot Roll and are not asked to the wall, and turn out when the horn sounds anyway.
+
+**The Hush.** A stretch of the Mire margin east of town where sound dies — no birdsong, no wind; even footsteps land soft. Karet's ledger maps six "stress points" where the quiet runs deepest. The Larch keep a watch on its edge, and the Fiend's Rest owes a free pint to anyone who walks through. Few collect.
 
 ## Services at a Glance
 - **Healing:** St. Erika's (herbal; advantage on death saves within the hour) · the Infirmary (potions at cost for the enrolled, full price otherwise)

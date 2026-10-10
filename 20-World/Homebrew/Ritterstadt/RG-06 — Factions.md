@@ -19,7 +19,7 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 | **The Wolf Nomads** | Territorial herders on ancestral routes | The moor sites acknowledged; someone to take the Wachturm seriously | Outriders on the high moor; [[Elif Kayim]] (arriving) |
 | **The Druid Enclave at Ehlonna's Mount** | Neutral observers of the land's cycles | The binding network stabilized; a formal relationship; the clay tablet translated | Giseth, the enclave's Ur-Flan reader |
 | **Agents of Iuz** | Travellers, traders, a scholar, a soldier | The Fiend's Embrace; anything about the Wachturm; the town weak enough to take it | [[Ewald Wennerberg]]; a handler at Kottsmort |
-| **The Hanselmann Consortium** (Traft) | A mercantile house holding the Ritter's debt | 1,000 gp or the timber rights | [[Vethkar Graun]] |
+| **The Hanselmann Consortium** (Traft) | A mercantile house holding the Ritter's debt | 1,000 gp — 800 borrowed in 573, the rest interest and fees — or, preferably, the timber rights: a reusable commodity worth far more than 1,000 gp over the years | [[Vethkar Graun]] |
 | **Varek Doss** | An Eru Tovar scholar of the Prior Period | Access to the Wachturm's sub-floor and the tablet, for study | Arriving after Graun's report |
 | **The Velvet Shadow / Winter Vanguard** | A bad winter with a war in it | Not yet known in Ritterstadt | The rumours Elif Kayim carries |
 
@@ -74,6 +74,12 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 | **Grey Sickle** | useful | unaware | — | unaware | enemy | useful | unaware | enemy | enemy |
 | **Bargemen** | indifferent | wary | unaware | — | wary | *compromised* | rival | indifferent | indifferent |
 | **Old Kerk** | rival | unaware | enemy | wary | — | enemy | cautious | wary | wary |
+| **Wolf Nomads** | indifferent | unaware | enemy (neither knows) | indifferent | unaware | unaware | indifferent | indifferent | — |
+| **Druid Enclave** | rival | indifferent | enemy (neither knows) | indifferent | wary | enemy | unaware | — | indifferent |
+| **Agents of Iuz** | enemy | competitor | useful | *leverage* | enemy | — | unaware | enemy | unaware |
+| **Hanselmann Consortium** | useful | watching | unaware | rival | cautious | unaware | — | unaware | indifferent |
+| **Varek Doss** | useful | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware |
+| **Velvet Shadow** | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware |
 
 ## Hooks
 - Commissioner Dray's crate: what goes in it this year, and who decides.

@@ -51,9 +51,9 @@ From the campaign canon (`00 — Department Index`). Each offers a Major, two Mi
 | Natural Sciences | Professor Berthold Grasmeyer | Natural Philosophy | Zoology & Beastmastery · Astronomy & Weatherlore |
 | Physic & Alchemy | Doktor Agathe Sauerbrunn | Medicine & Herbalism | Practical Alchemy · Necrology |
 | Antiquities | Professor Casimir Vogelsang | Archaeology | Epigraphy & Iconography · Appraisal & Provenance |
-| Exploration & Cartography | [[Magister-Roswitha-Kartner]] | Cartography | Subterranean Studies · Wilderness Fieldcraft |
+| Exploration & Cartography | [[Magister Roswitha Kartner]] | Cartography | Subterranean Studies · Wilderness Fieldcraft |
 | War Studies & Engineering | Professor Dietrich Mauerbrecher | Military Theory | Fortification & Engineering · Logistics & Quartermastery |
-| Letters & Cultures | [[Professor-Ilsabet-Federkiel]] | Anthropology & Cultural Studies | Linguistics & Philology · Theology & Religion |
+| Letters & Cultures | [[Professor Ilsabet Federkiel]] | Anthropology & Cultural Studies | Linguistics & Philology · Theology & Religion |
 | Statecraft & Commerce | Professor Aldemar Goldwaage | Political Philosophy & Diplomacy | Economics & Trade · Law & Heraldry |
 
 **Frontier Studies** is not a ninth department but the station's **imprint**: the name under which the Warden's office publishes the Gazetteer and the Field Reports. Faculty of all eight departments contribute.
