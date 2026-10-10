@@ -8,7 +8,7 @@ party_size: "4-5"
 estimated_hours: 4
 setting: Greyhawk
 region: "Perrenland — Canton of Clatspurgen, high Clatspur valleys"
-in_world_date: "Patchwall, 576 CY" # deliberate exception to the 598 CY house default
+in_world_date: "Patchwall, 576 CY"
 created: 2026-10-08
 fg_module: ""
 tags: [one-shot, undead, wilderness, tactical, story-arc, flan, nerull, perrenland, clatspurgen]
@@ -24,7 +24,7 @@ tags: [one-shot, undead, wilderness, tactical, story-arc, flan, nerull, perrenla
 `SP-PBS-02` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
 
 ## Date
-**Patchwall, 576 CY.** This is a deliberate exception to the 598 CY house default, logged in [[Timeline]]. It puts the adventure before Perrenland's 583 CY pact with Iuz, when Iuz is an open threat over the ridges, and within living memory of Iggwilv's reign.
+**Patchwall, 576 CY** — the house default year (see [[Timeline]]). It puts the adventure before Perrenland's 583 CY pact with Iuz, when Iuz is an open threat over the ridges, and within living memory of Iggwilv's reign. It follows [[SP-PBS-01-The-False-Arrow]] (Needfest–Fireseek 576 CY) by most of a year.
 
 ## Design Frame
 - **Thesis:** The dead were robbed first. The fastest way to end the haunting is restitution, not destruction.
@@ -184,7 +184,7 @@ Both threads are logged in [[Plot-Threads]], and both 576 CY events are in [[Tim
 | Nerull, god of death; Wee Jas, Suel death goddess | *PHB* (5e 2014), App. B; *WoG* (1983); *Greyhawk Adventures* (1e, 1988) | Ashlock's true god and his cover |
 | Luna and Celene; Common Year reckoning; month of Patchwall | *WoG* (1983), Guide | Deadline and in-world date |
 
-**Deviations (homebrew):** Waycombe, the Dreadverge, the Three Sisters, Kethra and her pack, the torc and crown, and Ashlock and the Nerullite barrow-cell in Schwartzenbruin are all invented. Flan chieftain-barrows in the Clatspurs are a Sidebar Press extrapolation from the Flan history of the Yatil highlands. The title "reeve" for an elected hamlet warden is house usage, not a canon Perrender office. (If we adopt Living Greyhawk canton detail, the levy is owed to the Roodberg Phalzgraf; see [[Canton-of-Clatspurgen]].) See [[The-Hound-Mother-of-the-Dreadverge]] in `20-World/Homebrew`. The date, 576 CY, is a deliberate exception to the 598 CY house default (see Date, above). At 591 CY or later, Perrenland's pact with Iuz would be in force; keep the red herring, but villagers then blame Iuz for breaking the pact.
+**Deviations (homebrew):** Waycombe, the Dreadverge, the Three Sisters, Kethra and her pack, the torc and crown, and Ashlock and the Nerullite barrow-cell in Schwartzenbruin are all invented. Flan chieftain-barrows in the Clatspurs are a Sidebar Press extrapolation from the Flan history of the Yatil highlands. The title "reeve" for an elected hamlet warden is house usage, not a canon Perrender office. (If we adopt Living Greyhawk canton detail, the levy is owed to the Roodberg Phalzgraf; see [[Canton-of-Clatspurgen]].) See [[The-Hound-Mother-of-the-Dreadverge]] in `20-World/Homebrew`. The date, 576 CY, is the house default. At 591 CY or later, Perrenland's pact with Iuz would be in force; keep the red herring, but villagers then blame Iuz for breaking the pact.
 
 ## Fantasy Grounds Build
 - [ ] Story entries written (one per scene)

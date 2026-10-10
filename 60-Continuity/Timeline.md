@@ -2,24 +2,24 @@
 
 In-world chronology for the Sidebar Press continuity, in Greyhawk reckoning (Common Year).
 
-> Sidebar Press adventures are set in **598 CY** unless a specific adventure says otherwise. This is post–Greyhawk Wars, pre–anything we invent.
+> Sidebar Press adventures are set in **576 CY** unless a specific adventure says otherwise. This is the *World of Greyhawk* (1983) baseline: before Perrenland's 583 CY pact with Iuz, before the Greyhawk Wars, and with Ilkhan Cligir still ruling the Tiger Nomads.
 
-## 598 CY
+## 576 CY
 | Date | Event | Source |
 |------|-------|--------|
-| | | |
+| Sunsebb 575 CY | A five-rider Chakyik patrol is ambushed in the Yatil foothills by Kezrin's Wolf-dressed riders; Tsolmon reaches Yecha and dies. *(Homebrew)* | [[SP-PBS-01-The-False-Arrow]] |
+| Needfest–Fireseek 576 CY | A Greyhawk University field party carries Father Brennin's parley to Yecha; the three trials and the war council before Ilkhan Cligir. *(Homebrew; outcome per table)* | [[SP-PBS-01-The-False-Arrow]] |
+| Goodmonth 576 CY | Traft peat-cutters, on Reeve Odila Marsh's lease, open the Hound-Mother's barrow at the Three Sisters; Kester Marsh steals the torc; Kethra's pack wakes. *(Homebrew)* | [[SP-PBS-02-The-Bones-of-the-Dreadverge]] |
+| Patchwall 576 CY, dark of Luna | The Dreadverge haunting, Waycombe, Canton of Clatspurgen: Brother Ashlock's rite at Celene-set. *(Homebrew; outcome per table)* | [[SP-PBS-02-The-Bones-of-the-Dreadverge]] |
 
-## Adventures Set Outside 598 CY
+## Adventures Set Outside 576 CY
 Deliberate exceptions to the house default. Each one states its year in its frontmatter (`in_world_date`).
 
 | Date | Event | Source |
 |------|-------|--------|
-| Sunsebb 575 CY | A five-rider Chakyik patrol is ambushed in the Yatil foothills by Kezrin's Wolf-dressed riders; Tsolmon reaches Yecha and dies. *(Homebrew)* | [[SP-PBS-01-The-False-Arrow]] |
-| Needfest–Fireseek 576 CY | Greyhawk University field party carries Father Brennin's parley to Yecha; the three trials and the war council before Ilkhan Cligir. *(Homebrew; outcome per table)* | [[SP-PBS-01-The-False-Arrow]] |
-| Goodmonth 576 CY | Traft peat-cutters, on Reeve Odila Marsh's lease, open the Hound-Mother's barrow at the Three Sisters; Kester Marsh steals the torc; Kethra's pack wakes. *(Homebrew)* | [[SP-PBS-02-The-Bones-of-the-Dreadverge]] |
-| Patchwall 576 CY, dark of Luna | The Dreadverge haunting, Waycombe, Canton of Clatspurgen: Brother Ashlock's rite at Celene-set. *(Homebrew; outcome per table)* | [[SP-PBS-02-The-Bones-of-the-Dreadverge]] |
+| | | |
 
-> **Why 576 CY for *The Plains of Blood and Steel*:** It is the *World of Greyhawk* baseline, before Perrenland's 583 CY pact with Iuz, when Iuz is an open threat over the Clatspurs. It is also close enough to Iggwilv's reign (481–491 CY) for living grandparents to remember it. For SP-PBS-01 it keeps **Ilkhan Cligir** alive and ruling the Chakyik; the *Living Greyhawk Gazetteer* (591 CY) has him dead after the Greyhawk Wars and succeeded by Ilkhan Gajtak. Any sequel that moves to 598 CY should treat these events as 22 years past and swap in Gajtak.
+> **Moving past 576 CY:** a sequel set after the Greyhawk Wars should treat these events as history. By 591 CY the *Living Greyhawk Gazetteer* has Cligir dead and Ilkhan Gajtak ruling the Chakyik, and Perrenland bound by its 583 CY pact with Iuz.
 
 ## Earlier History
 Reference only — link to Lore notes for the deep canon.
