@@ -35,9 +35,9 @@ The three-clue rule applies. Each conclusion has at least three routes.
 - [ ] Ashlock's letter (S4)
 
 **The torc woke them and returning it ends it**
-- [ ] The hounds claw Ysolde's cart (S1)
-- [ ] Ysolde's green-bronze neck-ring with the same spiral (S2)
-- [ ] Pell's chafed wrist and confession (S2)
+- [ ] The hounds claw Tamsin's cart (S1)
+- [ ] Tamsin's green-bronze neck-ring with the same spiral (S2)
+- [ ] Kester's chafed wrist and confession (S2)
 - [ ] History/Religion DC 13 on the torc: "a binding, not a treasure" (S2)
 - [ ] Ashlock's letter: "the boy took the seal and spared me the work" (S4)
 

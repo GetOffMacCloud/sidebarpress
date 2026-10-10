@@ -5,9 +5,10 @@ canon: false
 faction: "Waycombe"
 location: "Waycombe"
 tags: [waycombe, perrenland, SP-PBS-02]
+aliases: [Kester]
 ---
 
-# Pell Marsh
+# Kester Marsh
 
 > Odila's elder son, 19. He stole the Hound-Mother's torc to pay a dice-debt and woke what took his little brother.
 
@@ -21,8 +22,8 @@ He will not come indoors and sits on the woodpile. He is quick to confess to any
 
 ## Goals & Secrets
 - **Wants:** Tam home, and his mother never to know.
-- **Secret:** he entered the opened barrow alone, took the [[Torc-of-the-Hound-Mother|torc]] from Kethra, and sold it to [[Ysolde-the-Tinker|Ysolde]] for 12 kleinmarks (sp).
-- **Debt:** he owes a dice-runner in Schwartzenbruin, run up while waiting to sign with a mercenary company. See [[Pell Marsh's Debt]].
+- **Secret:** he entered the opened barrow alone, took the [[Torc-of-the-Hound-Mother|torc]] from Kethra, and sold it to [[Tamsin-the-Tinker|Tamsin]] for 12 kleinmarks (sp).
+- **Debt:** he owes a dice-runner in Schwartzenbruin, run up while waiting to sign with a mercenary company. See [[Kester Marsh's Debt]].
 
 ## Stat Block
 Commoner (MM p. 345).
@@ -31,7 +32,7 @@ Commoner (MM p. 345).
 - [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 2 (confession), denouement
 
 ## Canon Notes
-Homebrew.
+Homebrew. Renamed (formerly "Pell") to keep the series' names distinct.
 
 ## Continuity
 Whether he confesses to Odila is a story choice the PCs own. His debt is a dangling hook. If ignored, the debt's collector comes to Waycombe in the spring.

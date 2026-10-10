@@ -5,9 +5,10 @@ canon: false
 faction: ""
 location: "Waycombe (passing through)"
 tags: [merchant, tinker, perrenland, SP-PBS-02]
+aliases: [Tamsin]
 ---
 
-# Ysolde the Tinker
+# Tamsin the Tinker
 
 > A road-tinker with a red-and-yellow cart. She bought the Hound-Mother's torc for twelve kleinmarks and has had her cart attacked twice since.
 
@@ -30,7 +31,7 @@ Commoner (MM p. 345). Armed with a hammer (club numbers).
 - [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scenes 1 and 2 (the torc negotiation)
 
 ## Canon Notes
-Homebrew.
+Homebrew. Renamed (formerly "Ysolde") to keep the series' names distinct.
 
 ## Continuity
 She works the High Gallery and the Traft road. She is a useful recurring merchant or rumor-carrier. If the PCs bullied her, she spreads their names on every road she drives.

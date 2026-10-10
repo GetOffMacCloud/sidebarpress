@@ -22,7 +22,7 @@ She is brisk and arithmetical, and she thinks in notches. She answers questions 
 ## Goals & Secrets
 - **Wants:** her son Tam back, and the levy to the cantonal council of Clatspurgen paid.
 - **Secret:** she leased the turf on the Three Sisters' slope to a Traft peat crew against the old folks' warnings. She tells herself the cutters ran off with the advance.
-- **Does not know:** her elder son [[Pell-Marsh|Pell]] took the torc.
+- **Does not know:** her elder son [[Kester-Marsh|Kester]] took the torc.
 
 ## Stat Block
 Commoner (MM p. 345). She will not fight unless Tam is in reach.

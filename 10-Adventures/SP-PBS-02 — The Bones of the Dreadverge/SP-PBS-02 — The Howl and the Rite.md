@@ -49,7 +49,7 @@ The pack has no noses. It hunts by sound and by the pull of its stolen torc. The
 **Lowers by:**
 - **−1** for crossing the **Weeping Beck** (the pack will not cross running water except at the ford-stones; see Scene 3)
 - **−1** once per leg for a successful **group Stealth check, DC 12** (wrapping buckles, walking in single file, keeping talk to signs)
-- **−2** once per night if a PC with the torc wraps it in running-water cloth (a garment soaked in the Beck and kept wet): **Survival or Religion DC 13** to think of it, or Ysolde or Hild suggests it as old practice
+- **−2** once per night if a PC with the torc wraps it in running-water cloth (a garment soaked in the Beck and kept wet): **Survival or Religion DC 13** to think of it, or Tamsin or Hild suggests it as old practice
 
 **Thresholds (check after each change):**
 

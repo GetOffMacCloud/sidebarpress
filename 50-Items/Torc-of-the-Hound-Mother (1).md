@@ -19,10 +19,10 @@ tags: [torc, flan, binding, cursed, SP-PBS-02]
 **Curse (if kept or sold after the adventure).** No attunement is required, and *remove curse* ends it only if the torc is then returned. The bearer, or the last PC to profit from it, hears clicking at the edge of every campfire. Each time that PC finishes a long rest outdoors, roll a d20. On a 1, a pack of 1d4 + 1 bone hounds arrives before dawn.
 
 ## History
-*Homebrew.* It was laid on Kethra's breast at her burial. [[Pell-Marsh]] stole it in Goodmonth 576 CY and sold it to [[Ysolde-the-Tinker]] for 12 kleinmarks (sp).
+*Homebrew.* It was laid on Kethra's breast at her burial. [[Kester-Marsh]] stole it in Goodmonth 576 CY and sold it to [[Tamsin-the-Tinker]] for 12 kleinmarks (sp).
 
 ## Found In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Ysolde's cart, Waycombe (Scene 2)
+- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Tamsin's cart, Waycombe (Scene 2)
 
 ## Continuity
 It is the key to the climax. Returning it lays the pack to rest for good. If it is kept, the curse makes it a recurring liability.

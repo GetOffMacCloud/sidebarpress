@@ -48,9 +48,9 @@ No gore. Undead are **clean bone and sinew**, never rotting flesh. Captives are 
 | **ASHLOCK** | `a spare soft-spoken man in his fifties, close-cropped grey hair, clean-shaven hollow cheeks, plain undyed grey wool mendicant's robe, ash-grey fingertips` |
 | **ASHLOCK-NIGHT** | ASHLOCK + `wearing a crown of dark weathered antler bone, a sickle at his belt` |
 | **ODILA** | `a broad-shouldered woman in her late forties, iron-grey braid, ink-stained right forefinger, brown wool dress and apron, silver cloak-pin` |
-| **PELL** | `a lanky unshaven young man of nineteen, sandy hair, raw green-tinged chafe mark around his left wrist` |
+| **KESTER** | `a lanky unshaven young man of nineteen, sandy hair, raw green-tinged chafe mark around his left wrist` |
 | **HILD** | `a weathered narrow woman in a grey shawl holding a shepherd's crook taller than she is` |
-| **YSOLDE** | `a sunburned woman in her thirties, braid threaded with small tin rings, hammer in her belt` |
+| **TAMSIN** | `a sunburned woman in her thirties, braid threaded with small tin rings, hammer in her belt` |
 | **KETHRA** | `the ancient remains of a bronze-skinned Flan chieftain in rotted leather and amber beads, lying on a stone bier` |
 | **HOUND** | `a skeletal wolfhound of yellowed bone strung with black sinew and old leather, green-bronze collar ring cut with a triple spiral` |
 | **STAG** | `an enormous skeletal white stag, chalk-pale bones bound with black sinew, antler tines capped in green bronze` |
@@ -119,7 +119,7 @@ a spare soft-spoken man in his fifties, close-cropped grey hair, clean-shaven ho
 ```
 a broad-shouldered woman in her late forties, iron-grey braid, ink-stained right forefinger, brown wool dress and apron, silver cloak-pin, holding a notched tally-stick by a hearth, guarded expression, half-length portrait, oil painting on gessoed board, folk-horror old-master chiaroscuro, muted palette of peat brown, heather black, bone white and green bronze, cold aquamarine moonlight, visible brushwork, aged varnish --ar 4:5 [SREF] --s 250 --seed 5760 --no text, letters, watermark, signature, frame, modern clothing --v 8.1
 ```
-- [ ] **C4 — Pell Marsh**
+- [ ] **C4 — Kester Marsh**
 ```
 a lanky unshaven young man of nineteen, sandy hair, raw green-tinged chafe mark around his left wrist, sitting hunched on a woodpile at dusk, rubbing his wrist, half-length portrait, oil painting on gessoed board, folk-horror old-master chiaroscuro, muted palette of peat brown, heather black, bone white and green bronze, cold aquamarine moonlight, visible brushwork, aged varnish --ar 4:5 [SREF] --s 250 --seed 5760 --no text, letters, watermark, signature, frame, modern clothing --v 8.1
 ```
@@ -127,7 +127,7 @@ a lanky unshaven young man of nineteen, sandy hair, raw green-tinged chafe mark 
 ```
 a weathered narrow woman in a grey shawl holding a shepherd's crook taller than she is, standing at a drystone wall watching the dark heath, a longbow hung on the door behind her, half-length portrait, oil painting on gessoed board, folk-horror old-master chiaroscuro, muted palette of peat brown, heather black, bone white and green bronze, cold aquamarine moonlight, visible brushwork, aged varnish --ar 4:5 [SREF] --s 250 --seed 5760 --no text, letters, watermark, signature, frame, modern clothing --v 8.1
 ```
-- [ ] **C6 — Ysolde the Tinker**
+- [ ] **C6 — Tamsin the Tinker**
 ```
 a sunburned woman in her thirties, braid threaded with small tin rings, hammer in her belt, leaning on a red-and-yellow painted tinker's cart hung with pans, shrewd half-smile, half-length portrait, oil painting on gessoed board, folk-horror old-master chiaroscuro, muted palette of peat brown, heather black, bone white and green bronze, cold aquamarine moonlight, visible brushwork, aged varnish --ar 4:5 [SREF] --s 250 --seed 5760 --no text, letters, watermark, signature, frame, modern clothing --v 8.1
 ```

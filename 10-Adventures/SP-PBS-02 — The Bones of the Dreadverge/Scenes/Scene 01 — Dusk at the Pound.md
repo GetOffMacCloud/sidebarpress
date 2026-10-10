@@ -42,7 +42,7 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 **Map (theater of the mind is fine):** The pound is a 40-ft square of waist-high drystone wall (half cover; climbing costs 5 ft of movement). The cart is 10 ft east of the pound gate, the lane runs west, and the mill bench is 60 ft away.
 
 **Tactics (run them strangely; this is the seed):**
-- **Round 1:** Half the pack (rounded up) goes **straight for Ysolde's cart** and claws at the boarded hatch, ignoring anyone who is not in the way. The rest go for the sheep.
+- **Round 1:** Half the pack (rounded up) goes **straight for Tamsin's cart** and claws at the boarded hatch, ignoring anyone who is not in the way. The rest go for the sheep.
 - Hounds attack PCs who block them or hit them, using Pack Tactics.
 - **One hound seizes a ewe** and drags it east at half speed. It does not fight unless it is stopped.
 - When half the pack is destroyed, the rest break off east, dragging what they can. **At APL 4, the elk leaves last,** walking, not running.
@@ -65,8 +65,8 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 
 - He excuses himself "to pray at the wayside shrine" east of town, takes a hooded lantern, and leaves along the Dreadverge track. *(He is going to the Sisters. If the party follows him immediately, see Alternates.)*
 
-## Ysolde's Cart
-**[[Ysolde-the-Tinker|Ysolde]]** comes out from under her cart with a hammer. She is grateful in coin-terms: *"That's twice they've come for my wagon. Twice. What's a dog want with pans?"* She does not mention the torc yet. She suspects, but she wants to sell it before anyone tells her it is worth nothing. Scene 2 handles the negotiation.
+## Tamsin's Cart
+**[[Tamsin-the-Tinker|Tamsin]]** comes out from under her cart with a hammer. She is grateful in coin-terms: *"That's twice they've come for my wagon. Twice. What's a dog want with pans?"* She does not mention the torc yet. She suspects, but she wants to sell it before anyone tells her it is worth nothing. Scene 2 handles the negotiation.
 
 ## Sensory Palette
 - **Sight:** copper dusk, black heather, and green bronze bright against grey bone

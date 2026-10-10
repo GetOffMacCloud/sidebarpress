@@ -41,7 +41,7 @@ tags: [one-shot, undead, wilderness, tactical, story-arc, flan, nerull, perrenla
 - **Highland militia.** Clatspurgen raises longbowmen, and every Waycombe household keeps a bow and a pike. **Brannoc Brennan served a season as a militia longbowman.** The hamlet's three militia pikes come out in Scene 1.
 - **Language.** Highland Perrenders speak Common, and Stamtaal (the Common–Flan creole) at home. Old Flan words survive in place-names: *Dreadverge* is a Stamtaal corruption of the Flan for "the Mother's verge."
 - **Money.** Perrenders count in **marks** (gp) and **kleinmarks** (sp). Prices in this adventure are given in gp for the DM. NPCs say "marks."
-- **Mercenary culture.** Young Perrenders go south with the free companies. Pell's dice-debt was run up in Schwartzenbruin while he waited to sign with one.
+- **Mercenary culture.** Young Perrenders go south with the free companies. Kester's dice-debt was run up in Schwartzenbruin while he waited to sign with one.
 - **Nerull in Perrenland.** The Old Kerk counts Nerull among its gods, and roadside shrines to appease him are tolerated. Ashlock's crime is not his god but **raising the dead**, which is heresy in any canton.
 
 ## Background (the hidden truth)
@@ -49,7 +49,7 @@ tags: [one-shot, undead, wilderness, tactical, story-arc, flan, nerull, perrenla
 
 Fifteen centuries ago, before the Oeridian clans came over the passes, a Flan chieftain named [[Kethra-the-Hound-Mother|Kethra, the Hound-Mother]] was buried under a turf mound on the heath now called [[The-Dreadverge|the Dreadverge]]. Her hunting beasts were killed and laid down with her: hounds, boar, elk, and her great white stag. Her people bound the pack to the barrow with a green-bronze **torc** laid on her breast. As long as the torc rests on her, the pack sleeps. Three standing stones, [[The-Three-Sisters|the Three Sisters]], mark the mound. Waycombe still sings a fragment of the warning without knowing what it means.
 
-Last Goodmonth, Reeve [[Odila-Marsh|Odila Marsh]], Waycombe's elected warden, could not meet the autumn levy owed to the cantonal council of Clatspurgen. She let a crew of hired peat-cutters work the common turf on the Sisters' slope, against the old folk's grumbling. The cutters opened the barrow's side. Her son [[Pell-Marsh|Pell]], who owes a dice-debt in Schwartzenbruin, crept in alone and took the torc. He sold it within the week to [[Ysolde-the-Tinker|Ysolde the tinker]] for twelve silver, less than a tenth of its worth.
+Last Goodmonth, Reeve [[Odila-Marsh|Odila Marsh]], Waycombe's elected warden, could not meet the autumn levy owed to the cantonal council of Clatspurgen. She let a crew of hired peat-cutters work the common turf on the Sisters' slope, against the old folk's grumbling. The cutters opened the barrow's side. Her son [[Kester-Marsh|Kester]], who owes a dice-debt in Schwartzenbruin, crept in alone and took the torc. He sold it within the week to [[Tamsin-the-Tinker|Tamsin the tinker]] for twelve silver, less than a tenth of its worth.
 
 That night, the pack woke. At first it did what it did in life: it hunted. It took sheep and cattle and dragged the carcasses back to the mound, and it scratched at every place the torc had lain.
 
@@ -72,7 +72,7 @@ Each objective has more than one way to succeed. Objectives 5–7 are optional.
 
 1. **Survive Waycombe's dusk** and learn what the beasts are. *(Fight them, study the remains, or question the survivors.)*
 2. **Find where the pack goes.** *(Hild's account, drag trails, the collar-spirals matched to the old song, or tracking on the Dreadverge.)*
-3. **Discover why the pack woke.** *(Pell's confession, Ysolde's wares, the hounds' fixation on the cart, or the cutters' camp.)*
+3. **Discover why the pack woke.** *(Kester's confession, Tamsin's wares, the hounds' fixation on the cart, or the cutters' camp.)*
 4. **Rescue the captives before Celene sets.** *(Fight through, sneak in and cut ropes, break Ashlock's rite, or return the torc.)*
 5. *(Optional)* **Unmask Brother Ashlock.** *(The ash circles, Hild's "man with antlers," his camp and letter, or catching him on the moor.)*
 6. *(Optional)* **Lay the Hound-Mother to rest.** *(Return the torc to her bier. This ends the pack permanently.)*
@@ -82,7 +82,7 @@ Each objective has more than one way to succeed. Objectives 5–7 are optional.
 - **Cleric, acolyte, or paladin:** Ashlock speaks to this PC as a fellow servant of the gods and asks for help with "the rites." Each honest favor done for him (such as reading a funeral psalm at a marked door) is later revealed as help in choosing a victim. Payoff: this PC gets advantage on the Insight check that unmasks him.
 - **Outlander, ranger, or anyone proficient in Survival:** Waycombe has no guide but grieving Hild. This PC can lead the Dreadverge crossing. Every navigation success saves a Rite segment.
 - **Sage, scholar, or anyone proficient in History:** The collar-spirals, the song, and the barrow are all Flan. This PC can identify the torc as a *binding* rather than treasure (DC 13 History or Religion), which is the key to the climax.
-- **Criminal, guild artisan, or urchin:** Pell's dice-debt is owed to someone in Schwartzenbruin this PC knows of. Pell will confess to them first, as one debtor to another. This PC also gets the best price from Ysolde.
+- **Criminal, guild artisan, or urchin:** Kester's dice-debt is owed to someone in Schwartzenbruin this PC knows of. Kester will confess to them first, as one debtor to another. This PC also gets the best price from Tamsin.
 - **Folk hero:** Waycombe's children follow this PC around. Tam's small sister, Bett, gives them a carved wooden stag "so it knows you're friends." *(If it is shown to the Barrow Stag, the stag hesitates for one round. Never explain why.)*
 
 ## Act Structure
@@ -90,7 +90,7 @@ Likely path: Scenes 1 → 2 → 3 → 4 → 5. Each scene note lists alternates 
 
 ### Act 1 — Waycombe (≈75 min)
 - [[Scene 01 — Dusk at the Pound]]: The party arrives as the shutters close. The pack hits the sheep-pound and claws at the tinker's cart, which is the incidental-looking seed of the climax. Ashlock tends the wounded.
-- [[Scene 02 — Counting the Missing]]: This is an open investigation of the hamlet. It covers the ash circles, Hild's account, the song, Ysolde's cart, and Pell's guilt. It ends with the deadline (Celene-set) and a choice about the torc.
+- [[Scene 02 — Counting the Missing]]: This is an open investigation of the hamlet. It covers the ash circles, Hild's account, the song, Tamsin's cart, and Kester's guilt. It ends with the deadline (Celene-set) and a choice about the torc.
 
 ### Act 2 — The Dreadverge (≈90 min)
 - [[Scene 03 — Crossing the Dreadverge]]: A night crossing of the heath runs on the Howl and Rite Clock. It features the Weeping Beck, the peat cuttings, and a bone-boar ambush in the cut-trenches.
@@ -104,7 +104,7 @@ See [[Scene 05 — The Three Sisters]] for the full run. The PCs can derive ever
 
 | Solution | What it takes | Seeded in |
 |---|---|---|
-| **Return the torc** | Carry it into the barrow (20 ft passage) and lay it on Kethra's bier (action). The pack turns on Ashlock, then sleeps forever. | S1 (hounds claw the cart), S2 (Ysolde, Pell, History check) |
+| **Return the torc** | Carry it into the barrow (20 ft passage) and lay it on Kethra's bier (action). The pack turns on Ashlock, then sleeps forever. | S1 (hounds claw the cart), S2 (Tamsin, Kester, History check) |
 | **Break the rite** | Damage Ashlock; each hit forces a DC 10 Con save (or DC = half damage) or the Rite Track does not advance that round. | S2 (Hild's "man with antlers"), S4 (camp, letter) |
 | **Take the crown** | Knock it off (DC 13 Str/Dex contest, or Ashlock drops to 0). The wearer can steer one beast per round as a bonus action. | S2 (Hild), S4 (letter describes the crown) |
 | **Cut them loose** | Reach a stone and use an action to cut ropes (or Sleight of Hand DC 10 to do it as a bonus action). A freed captive no longer counts for the rite. | S3/S4 (scouting the ring) |
@@ -112,9 +112,9 @@ See [[Scene 05 — The Three Sisters]] for the full run. The PCs can derive ever
 
 ## Key NPCs
 - [[Odila-Marsh|Odila Marsh]] — Reeve of Waycombe. She opened the barrow to pay the levy and is still keeping the books.
-- [[Pell-Marsh|Pell Marsh]] — Her son, 19. He stole the torc, and his little brother Tam is a captive.
+- [[Kester-Marsh|Kester Marsh]] — Her son, 19. He stole the torc, and his little brother Tam is a captive.
 - [[Brother-Ashlock|Brother Ashlock]] — A Nerullite traveling as a mendicant of Wee Jas. He wears the Antler Crown at night. He is the villain.
-- [[Ysolde-the-Tinker|Ysolde the Tinker]] — She bought the torc, knows it is worth more, and is stuck in town as the pack keeps returning to her cart.
+- [[Tamsin-the-Tinker|Tamsin the Tinker]] — She bought the torc, knows it is worth more, and is stuck in town as the pack keeps returning to her cart.
 - [[Hild-Brennan|Hild Brennan]] — Shepherd and survivor. She saw the man with antlers. Her husband Brannoc is a captive.
 - [[Kethra-the-Hound-Mother|Kethra, the Hound-Mother]] — The dead Flan chieftain on the bier. She has no statblock and needs none.
 - **Captives:** Brannoc Brennan (drover and former militia longbowman, 40s), Wenna Cobb (herbwife, 70s), Tam Marsh (9). These are minor NPCs, kept inline.
@@ -133,7 +133,7 @@ Difficulty is calculated for **4 PCs** with 2014 DMG thresholds and multipliers.
 | # | Name | Type | APL 1 | APL 2 | APL 3 | APL 4 | Notes |
 |---|---|---|---|---|---|---|---|
 | 1 | The Pound at Dusk (S1) | combat | 2 hounds — Easy | 3 hounds — Easy | 4 hounds — Easy | 4 hounds + 1 elk — Easy | A teaching fight: bludgeoning vulnerability and pack tactics. The hounds go for the cart first. |
-| 2 | Counting the Missing (S2) | social / investigation | — | — | — | — | Clues, the torc negotiation, and Pell's confession |
+| 2 | Counting the Missing (S2) | social / investigation | — | — | — | — | Clues, the torc negotiation, and Kester's confession |
 | 3 | The Pack Tests You (Howl 3) | combat (wandering) | 2 hounds — Easy | 3 hounds — Easy | 4 hounds — Easy | 5 hounds — Easy | Triggered by the Howl track. The hounds break off after two are destroyed. |
 | 4 | The Pack Hunts (Howl 6) | combat (wandering) | 3 hounds — Hard | 3 hounds + 2 elk — Medium | 4 hounds + 2 elk — Medium | Barrow Stag + 6 hounds — Medium | After this fight, the Howl resets to 3 |
 | 5 | The Cut-Trenches (S3) | tactical combat | 2 boars — Easy | 3 boars + 1 elk — Medium | 4 boars + 2 elk — Medium | 4 boars + 2 elk + 2 hounds — Medium | Terrain: 10-ft trenches, bog, turf stacks. Map: Cut-Trenches. |
@@ -143,18 +143,18 @@ Difficulty is calculated for **4 PCs** with 2014 DMG thresholds and multipliers.
 **Adventuring-day check (APL 1, 4 PCs):** The likely path costs about 750–1,050 adjusted XP against a daily budget of 1,200. That leaves room for one Howl encounter, so it is a hard night but survivable. At APL 4, the climax (1,700 adjusted) sits between Hard and Deadly, and the rite-action rule keeps Ashlock out of the fight for most rounds.
 
 ## Treasure & Items
-- [[Torc-of-the-Hound-Mother]] — Found in Ysolde's cart. Its worth is 250 gp as art, but it is the climax key. If the PCs keep it, it is cursed (see the item note).
+- [[Torc-of-the-Hound-Mother]] — Found in Tamsin's cart. Its worth is 250 gp as art, but it is the climax key. If the PCs keep it, it is cursed (see the item note).
 - [[Antler-Crown-of-Kethra]] — Worn by Ashlock. Uncommon. It is quiet once the pack sleeps.
 - **Ashlock's belongings** (S4 camp and his person): a purse (APL 1–2: 18 gp in mixed Perrender coin; APL 3–4: 40 gp and a small jet scythe-pendant worth 25 gp), a *potion of healing* (APL 1–2: 1; APL 3–4: 2), and at APL 3–4 a *spell scroll of lesser restoration* taken from a looted shrine.
 - **The barrow's grave goods** (S5): amber beads, bronze spear-blades, and a boar-tusk helm, about 150 gp in total. *Taking any of it raises the Howl to 6 at once,* and the item note's curse rules apply. This is a test, and the denouement should notice whether the PCs looted.
 - **Waycombe's thanks:** Odila offers 40 marks (40 gp) from the levy chest (all she has), two smoked hams, free lodging forever, and the hamlet's debt. If she is forced to admit the cutters were her doing, she also offers her own silver cloak-pin (15 gp).
-- **Story XP (milestone note):** Award objective XP equal to one Medium encounter at the party's APL for each of the following: torc returned, all three captives saved, Ashlock unmasked before the climax, and Pell's confession reaching his mother.
+- **Story XP (milestone note):** Award objective XP equal to one Medium encounter at the party's APL for each of the following: torc returned, all three captives saved, Ashlock unmasked before the climax, and Kester's confession reaching his mother.
 
 ## Denouement
 The pack sleeps. Ashlock is dead, captured, or fled into the bog with or without the crown, which makes him a recurring asset either way. At dawn, Waycombe counts what came back.
 
 - Odila must decide what to tell the levy-office. The party's word decides whether she is shamed or quietly forgiven.
-- Pell's debt is still owed in Schwartzenbruin. *(This is a dangling hook.)*
+- Kester's debt is still owed in Schwartzenbruin. *(This is a dangling hook.)*
 - Ashlock's letter names a Sister of the cell and a count of **eight more chieftain-barrows** under the Clatspurs. See [[The Nine Chiefs of the Clatspurs]].
 - If the torc went back, Hild hears the old song differently the next time she sings it. Let the players ask what the last line means. Do not answer.
 
@@ -162,7 +162,7 @@ The pack sleeps. Ashlock is dead, captured, or fled into the bog with or without
 Threads this adventure **opens**: [[The Nine Chiefs of the Clatspurs]]
 Threads this adventure **advances**: —
 Threads this adventure **closes**: —
-Dangling hooks left for future adventures: [[Pell Marsh's Debt]]; Ashlock (if he escapes); the Antler Crown (if it leaves the barrow); the barrow's open side (if the torc was not returned).
+Dangling hooks left for future adventures: [[Kester Marsh's Debt]]; Ashlock (if he escapes); the Antler Crown (if it leaves the barrow); the barrow's open side (if the torc was not returned).
 
 Both threads are logged in [[Plot-Threads]], and both 576 CY events are in [[Timeline]].
 

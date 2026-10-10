@@ -56,19 +56,19 @@ The marks were made by *"the good brother, for blessing. He does every house tha
 
 **DM direction.** Let the players do the arithmetic. Do not have an NPC say "the marked houses are the ones that lose people." If the table is stuck after 10 minutes, Rowan asks the cleric PC whether the brother will bless her too.
 
-### [[Pell-Marsh|Pell Marsh]] — the guilty one
-Pell is 19, sits on the woodpile outside, and will not come in. He rubs his left wrist, which has a raw green-tinged chafe mark.
+### [[Kester-Marsh|Kester Marsh]] — the guilty one
+Kester is 19, sits on the woodpile outside, and will not come in. He rubs his left wrist, which has a raw green-tinged chafe mark.
 - *Insight DC 10:* he flinches whenever the cart is mentioned.
 - He confesses to whoever approaches without his mother present and offers him an out (a debtor, a criminal-background PC, a mercenary PC, anyone who says "we can fix this").
 
-> **Pell:** *"I wore it under my sleeve two days. It was cold the whole time. It never once got warm. Then I sold it, and then they came for Tam."*
+> **Kester:** *"I wore it under my sleeve two days. It was cold the whole time. It never once got warm. Then I sold it, and then they came for Tam."*
 
 - He tells the full story: the cutters opened the mound on Odila's leave; he went in alone at night and took the ring off "her" neck; he sold it to the tinker for twelve kleinmarks toward a dice-debt in Schwartzenbruin, run up while he waited to sign with a free company.
 - He begs them not to tell his mother. **Whether they tell her is a story choice, and a story-XP objective.** Do not make it for them.
 
-### [[Ysolde-the-Tinker|Ysolde]] — the torc
+### [[Tamsin-the-Tinker|Tamsin]] — the torc
 Behind the boarded hatch is a **green-bronze neck-ring, thick as a thumb, cut with a triple spiral, cold to the touch at any hour**: the [[Torc-of-the-Hound-Mother|Torc of the Hound-Mother]].
-- Ysolde knows it is worth 250 marks to a Schwartzenbruin collector. She opens at **200 gp** and is a talk-first obstacle:
+- Tamsin knows it is worth 250 marks to a Schwartzenbruin collector. She opens at **200 gp** and is a talk-first obstacle:
   - *Persuasion DC 15* lowers the price to 25 gp (she paid 12 sp).
   - *Intimidation DC 12* gets it free, and she curses the party's names on every road she drives.
   - **Reasoning with her** works best. Pointing out that the hounds will come for her cart every night it holds the torc gets it for her cost (12 sp) with no roll.
@@ -76,7 +76,7 @@ Behind the boarded hatch is a **green-bronze neck-ring, thick as a thumb, cut wi
 - *History or Religion DC 13 on the torc:* this is a binding-ring, laid on the dead to hold something down. It was not meant to be worn or sold. A natural 20 adds that rings like this were laid **on the breast**, never the neck.
 
 ## Odila's Secret
-If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hiding something, or Pell's confession), she admits she leased the turf on the Sisters' slope to a crew from Traft to meet the levy, over the old folks' grumbling. The cutters have not been seen in a week. *"They'll have run off with the advance."* *(They did not. See Scene 4.)*
+If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hiding something, or Kester's confession), she admits she leased the turf on the Sisters' slope to a crew from Traft to meet the levy, over the old folks' grumbling. The cutters have not been seen in a week. *"They'll have run off with the advance."* *(They did not. See Scene 4.)*
 
 > **Odila:** *"Forty marks a year we owe the canton. It was turf. It was only turf."*
 
@@ -86,10 +86,10 @@ If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hidi
 | History, collar-ring | 12 | Flan grave-work |
 | History/Religion, torc | 13 | A binding, not treasure |
 | Investigation, mill ash | 10 | Tallow and bone-meal |
-| Insight, Pell | 10 | He knows about the cart |
+| Insight, Kester | 10 | He knows about the cart |
 | Insight, Odila | 13 | She is hiding the lease |
 | Persuasion, Odila's pay | 13 | Cloak-pin added |
-| Persuasion / Intimidation, Ysolde | 15 / 12 | Torc for 25 gp / free |
+| Persuasion / Intimidation, Tamsin | 15 / 12 | Torc for 25 gp / free |
 
 ## Sensory Palette
 - **Sight:** a tally-stick notched to the bottom, untouched bowls, ash circles on dark wood
@@ -99,7 +99,7 @@ If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hidi
 - **Taste:** thin broth with too much salt
 
 ## Alternates & Re-hooks
-- **The party skips the torc.** Ysolde leaves at midnight with her cart on the High Gallery, and the Howl starts at **2** for the pack-split (the pack goes after her). At the Sisters, the party finds the bone elk dragging Ysolde's cart-hatch into the ring, with the torc lying in the heather 20 ft from the barrow mouth. The climax key is still reachable, but it costs a run under fire.
+- **The party skips the torc.** Tamsin leaves at midnight with her cart on the High Gallery, and the Howl starts at **2** for the pack-split (the pack goes after her). At the Sisters, the party finds the bone elk dragging Tamsin's cart-hatch into the ring, with the torc lying in the heather 20 ft from the barrow mouth. The climax key is still reachable, but it costs a run under fire.
 - **The party wants to wait for dawn.** Rowan is taken from the mill at midnight. Start the Rite Clock at **2**. The barrow then holds four captives; add Rowan after Tam on the Rite Track.
 - **The party goes looking for Iuz.** The ridge-paths east show no orc sign, no burned steadings, nothing. Hild meets them on the way back with the song. Cost: +1 Rite Clock.
 - **The party confronts Ashlock's absence.** The wayside shrine is a mile east: a cairn with a bowl. The bowl holds ash and a bent sickle-tooth. *Religion DC 10:* sickles are the sign of **Nerull**, not Wee Jas.

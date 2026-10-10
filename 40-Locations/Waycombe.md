@@ -21,10 +21,10 @@ tags: [hamlet, perrenland, clatspurgen, SP-PBS-02]
 - **The wayside shrine:** a cairn and bowl a mile east on the Dreadverge track.
 
 ## Inhabitants
-- [[Odila-Marsh]] (reeve), [[Pell-Marsh]], Tam Marsh (9), Bett Marsh (5)
+- [[Odila-Marsh]] (reeve), [[Kester-Marsh]], Tam Marsh (9), Bett Marsh (5)
 - [[Hild-Brennan]] and Brannoc Brennan (former militia longbowman)
 - Wenna Cobb (herbwife), Mother Gest (miller's wife), and Rowan Gest (12)
-- [[Ysolde-the-Tinker]] (passing through)
+- [[Tamsin-the-Tinker]] (passing through)
 
 ## History
 *Homebrew.* A highland herding hamlet that owes a 40-mark (gp) annual levy to the cantonal council of Clatspurgen. Folk speak Common and Stamtaal. They fear Iuz over the ridges and remember Iggwilv's dead. Its folk song is the last remnant of a warning about the Hound-Mother's barrow.

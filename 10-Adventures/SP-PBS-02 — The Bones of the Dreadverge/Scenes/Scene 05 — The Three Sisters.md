@@ -96,14 +96,14 @@ Kethra's grave goods are amber beads, bronze spear-blades, and a boar-tusk helm,
 Play these as short, separate beats. Answer questions through people and papers, never by narration.
 - **Reunions.** Hild and Brannoc; Wenna and the miller's wife; Odila and Tam. *Do not describe Odila's face.* Describe what she does with her hands (she reaches for the tally-stick and does not cut it).
 - **Odila's levy.** She asks the party what to tell the canton's levy-clerk. The party's answer decides her shame. If they tell the truth for her, she pays the cloak-pin as well and never asks them for anything again.
-- **Pell.** If he has not confessed to his mother, he asks the party whether he should. Do not resolve this for them. His debt in Schwartzenbruin still stands → [[Pell Marsh's Debt]].
+- **Kester.** If he has not confessed to his mother, he asks the party whether he should. Do not resolve this for them. His debt in Schwartzenbruin still stands → [[Kester Marsh's Debt]].
 - **The cutters' names.** If the party brought the tally-board, Odila sends the names and the unspent advance to Traft. That is worth a Waycombe debt of honor.
 - **The song.** If the torc went home, Mother Gest sings the song that night and stops at the last line. She says the words *came out wrong* and sings it again. Let the players ask what the last line means. *Do not answer.*
 - **The open question.** Ashlock's letter and his last words point deeper into the Clatspurs → [[The Nine Chiefs of the Clatspurs]].
 
 ## Rewards
 - Gold and items per the main note's Treasure section, scaled by APL.
-- **Story XP:** one Medium encounter at APL for each of: torc returned · all three captives saved · Ashlock unmasked before the climax · Pell's confession reaching his mother.
+- **Story XP:** one Medium encounter at APL for each of: torc returned · all three captives saved · Ashlock unmasked before the climax · Kester's confession reaching his mother.
 - **Debts:** the Hound-Mother's (if the torc went home: once, in a future adventure, a pack of ordinary hounds refuses to attack the party) and Waycombe's (lodging, supplies, and a guide whenever they pass).
 
 ## Sensory Palette
@@ -114,7 +114,7 @@ Play these as short, separate beats. Answer questions through people and papers,
 - **Taste:** ash on the wind from the green fire
 
 ## Between-Sessions Bookkeeping
-- Log thread statuses in [[Plot-Threads]]: *The Nine Chiefs* (Open) and *Pell Marsh's Debt* (Dangling).
+- Log thread statuses in [[Plot-Threads]]: *The Nine Chiefs* (Open) and *Kester Marsh's Debt* (Dangling).
 - Note Ashlock's fate and the crown's location in [[Brother-Ashlock]] and [[Antler-Crown-of-Kethra]].
 - Record whether the torc went home and whether the barrow was looted, in [[The-Three-Sisters]].
 - Add a session log in `80-Sessions` for playtest validation.
