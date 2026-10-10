@@ -31,7 +31,7 @@ Then deliver these one at a time:
 - Temur stands before them all.
 - The moment you duck through the flap, fifty faces turn — and the talking dies, the way talking dies before weather.
 
-**Translation.** The council runs in Baklunish. Sarnai murmurs Common to the party under the roar and softens Temur's worst lines. A PC who studied Baklunish with [[Master-Haddad]] follows it unaided and catches what she leaves out.
+**Translation.** The council runs in Baklunish. Sarnai murmurs Common to the party under the roar and softens Temur's worst lines. A PC who attended [[Professor-Ilsabet-Federkiel]]'s Baklunish lectures follows it unaided and catches what she leaves out.
 
 ## Temur Speaks First
 Let him have it; he's good at this. He draws Tsolmon's arrow from his sash and holds it up.
@@ -129,10 +129,12 @@ Result: **Truth without trust.**
 
 **Kezrin (any ending).** Captured, escaped without his papers, or gone. Recovered papers bear Iuz's skull seal and name **Yulbar** of the Wolf. → [[The War Iuz Wants]]
 
-**Halya (any ending).** At the hospice gate, she reads their faces and writes to Greyhawk University that night. Spied: 25 credits each. Didn't: 10 each, "for the report I didn't get." *"The report will say 'strength: sufficient.'"*
+**Halya (any ending).** At the hospice gate, she reads their faces and writes to the Field Station that night. Spied: 25 credits each. Didn't: 10 each, "for the report I didn't get." *"The report will say 'strength: sufficient.'"*
+
+**Back at Ritterstadt.** Brennin's report reaches [[Magister-Roswitha-Kartner]] before the party does. If they bring Kezrin's papers to the Historical Society, Professor Federkiel's people log it as a documented discovery: 50 bonus credits each.
 
 ## Rewards
-See the main note's Treasure & Rewards: the tiger-claw token, the stallion, ponies and Cligir's silver (parley passes), Brennin's field credits by ending, Halya's extra credit.
+See the main note's Treasure & Rewards: the tiger-claw token, the stallion, ponies and Cligir's silver (parley passes), Brennin's field credits by ending, Halya's and the Historical Society's extra credit.
 
 ## Sensory Palette
 - **Sight:** a broken arrow held high; two arrows side by side on red felt

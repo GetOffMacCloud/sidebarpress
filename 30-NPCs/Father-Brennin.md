@@ -34,4 +34,4 @@ He wrings his hands when he's worried, which is always. He holds things — lett
 Homebrew. St. Cuthbert's church is canon.
 
 ## Continuity
-He sends the party's field-credit report to [[Master-Fenwick]] (60/50/40/30/20 by ending) and gives them free healing at the hospice forever. If Cligir refused the parley, he plans to go to Yecha himself in spring and asks the party to come.
+He posted his request on the Job Board at the Fiend's Rest in Ritterstadt, and he sends the party's field-credit report to [[Magister-Roswitha-Kartner]] (60/50/40/30/20 by ending). The party has free healing at the hospice forever. If Cligir refused the parley, he plans to go to Yecha himself in spring and asks the party to come.

@@ -29,8 +29,8 @@ If they refuse, six bows come to full draw, unhurried: *"Open it, or we open you
 
 *(Batzorig's Common is rough: "Perrender" is his word, not a typo.)*
 
-### Dame Ysolde's guest-craft
-A PC who studied fieldcraft remembers [[Dame-Ysolde]]'s first lecture: *"In another people's country you are a guest from the moment they see you. Put your steel down before you're asked. Let their taster drink first. Eat what they put in front of you."* If that PC lays their blades on the snow before Batzorig finishes the word *Now*, or hands them over hilt-first, the **restraint bonus (Favor +1) is earned on the spot**. Batzorig's lip uncurls, a little. Nothing else in this scene can cost it, short of steel drawn in the pavilion.
+### Kartner's guest-craft
+A PC who attended [[Magister-Roswitha-Kartner]]'s Wilderness Fieldcraft lectures remembers her first one: *"In another people's country you are a guest from the moment they see you. Put your steel down before you're asked. Let their taster drink first. Eat what they put in front of you."* If that PC lays their blades on the snow before Batzorig finishes the word *Now*, or hands them over hilt-first, the **restraint bonus (Favor +1) is earned on the spot**. Batzorig's lip uncurls, a little. Nothing else in this scene can cost it, short of steel drawn in the pavilion.
 
 ### Disarmed
 A rider collects swords, axes, bows, and daggers with surprising care and ties them in a hide bundle that Batzorig hangs from his own saddle. **Holy symbols, component pouches, and arcane foci he leaves alone:** *"Your gods are yours."* The weapons stay with Batzorig until the Trial of the Horse.
@@ -77,8 +77,8 @@ The pavilion laughs, and there's warmth in it. Temur doesn't laugh.
 Now, out of character, put the card on the table: [[SP-PBS-01 — The Favor Tracker]]. Tell them it starts at 0, that 5 earns a voice at the council, and that everything they do in Yecha moves it. Then move it for the restraint bonus if they earned it.
 
 ## Favor This Scene
-- **+1** handled Batzorig without drawing steel (or locked in by guest-craft)
-- **−1** a weapon drawn in the pavilion, and disadvantage on the first check of the Horse trial
+- **+1** handled Batzorig without drawing steel (or locked in by Kartner's guest-craft)
+- **−1** a weapon drawn in the pavilion (Favor never drops below 0), and disadvantage on the first check of the Horse trial
 
 ## Sensory Palette
 - **Sight:** a crescent of drawn bows; tiger skulls; a robe the color of old blood
@@ -88,7 +88,7 @@ Now, out of character, put the card on the table: [[SP-PBS-01 — The Favor Trac
 - **Taste:** the taster's brandy, if anyone is offered a sip
 
 ## Alternates & Re-hooks
-- **A PC refuses to surrender a weapon.** Six bows to full draw. If they still refuse, Batzorig takes them to Yecha under guard and the pavilion starts at Favor −1. Sarnai sets the trials anyway: *"Even the rude may try."*
+- **A PC refuses to surrender a weapon.** Six bows to full draw. If they still refuse, Batzorig takes them to Yecha under guard, and the party starts the trials having lost the restraint bonus. Sarnai sets the trials anyway: *"Even the rude may try."*
 - **The party tries to bluff Cligir.** He lets them finish, says nothing, and gestures for the trials. No Favor change; Sarnai remembers the face.
 
 ## Transition

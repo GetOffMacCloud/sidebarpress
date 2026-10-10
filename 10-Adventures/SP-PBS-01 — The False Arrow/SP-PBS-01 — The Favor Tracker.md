@@ -17,7 +17,7 @@ The party starts at **0**: strangers, tolerated because they came under a parley
 
 | When | Earned | Lost |
 |---|---|---|
-| Scene 2 — the Cold Welcome | **+1** handle Batzorig without drawing steel (Ysolde's guest-craft locks it in) | **−1** draw a weapon in the pavilion |
+| Scene 2 — the Cold Welcome | **+1** handle Batzorig without drawing steel (Kartner's guest-craft locks it in) | **−1** draw a weapon in the pavilion |
 | Scene 3 — Trial of the Horse | **+2** success · **+1** partial | — |
 | Scene 4 — Trial of the Bow | **+2** success (horn-bow killing blow) · **+1** partial (tiger dies another way) | — |
 | Scene 4 — the ravine dead | **+1** bring the bodies and evidence back openly | — |

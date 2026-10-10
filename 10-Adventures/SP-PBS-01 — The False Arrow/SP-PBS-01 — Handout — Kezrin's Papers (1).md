@@ -10,7 +10,9 @@ given_in: "Scene 07 — The War Council (if recovered)"
 
 Back to [[SP-PBS-01-The-False-Arrow]] · Recovered in [[Scene 07 — The War Council]] · Opens [[The War Iuz Wants]]
 
-> **DM:** an oilskin packet. One letter under black wax pressed with a grinning skull, in Common. One folded ledger page in Ekbiri merchant's shorthand: a PC who studied Baklunish with [[Master-Haddad]] reads it on Intelligence DC 12, or Sarnai reads it for them.
+> **DM:** an oilskin packet. One letter under black wax pressed with a grinning skull, in Common. One folded ledger page in Ekbiri merchant's shorthand: a PC who has attended [[Professor-Ilsabet-Federkiel]]'s Baklunish lectures reads it on Intelligence DC 12, or Sarnai reads it for them.
+>
+> **Extra credit:** if the papers reach the Field Station's Historical Society, it counts as a documented, historically significant discovery — **50 bonus credits** each, outside the 600-credit limit.
 
 ---
 

@@ -13,6 +13,7 @@ region: "The Chakyik steppe (Tiger Nomads) — Yecha, under the Yatils"
 in_world_date: "Needfest–Fireseek, 576 CY"
 created: 2026-10-10
 premise_source: "GHR-CORE21-01 'Nomad's Land' by John Lent (Greyhawk Reborn catalog)"
+campaign_frame: "Greyhawk University — Ritterstadt Field Station (A Tourist In Greyhawk canon)"
 fg_module: ""
 tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nomads, iuz, greyhawk-university]
 ---
@@ -21,13 +22,16 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 
 > *You have been hired to travel to Yecha, at the base of the Yatil Mountains, and earn the trust of the Chakyik Horde by a group of Oeridian priests. The cold weather and colder welcome you expect to receive make this quite the undertaking indeed.*
 >
-> A Social / Wilderness one-shot for **4–6 level-3 characters**, Part 1 of *The Plains of Blood and Steel*. A Greyhawk University field party carries a priest's parley into the winter camp of the Tiger Nomads. To be heard, they must pass the horde's three trials while the old Ilkhan's heir calls for war against the Wolf Nomads. The war cry was written by someone else: an agent of Iuz has been arming the war faction and staging murders with false Wolf arrows. Everything the party does moves a visible **Favor** track, and the war council at the end plays out on what they earned.
+> A Social / Wilderness one-shot for **4–6 level-3 characters**, Part 1 of *The Plains of Blood and Steel*. A party of Greyhawk University freshmen from the Ritterstadt Field Station carries a priest's parley into the winter camp of the Tiger Nomads. To be heard, they must pass the horde's three trials while the old Ilkhan's heir calls for war against the Wolf Nomads. The war cry was written by someone else: an agent of Iuz has been arming the war faction and staging murders with false Wolf arrows. Everything the party does moves a visible **Favor** track, and the war council at the end plays out on what they earned.
 
 ## Adventure Code
 `SP-PBS-01` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
 
 ## Date
-**Needfest–Fireseek, 576 CY** — the house default year, at midwinter. Ilkhan Cligir still rules the Chakyik. [[SP-PBS-02-The-Bones-of-the-Dreadverge]] follows in Patchwall of the same year. See [[Timeline]].
+**Needfest–Fireseek, 576 CY** — the house default year, at midwinter, before the A Tourist In Greyhawk campaign's recorded sessions (Planting 576 onward). Ilkhan Cligir still rules the Chakyik. [[SP-PBS-02-The-Bones-of-the-Dreadverge]] follows in Patchwall of the same year. See [[Timeline]].
+
+## Campaign Frame
+The party are **Freshmen (level 3, undeclared)** at [[Greyhawk-University|Greyhawk University's Ritterstadt Field Station]]. The station, the hamlet, its faculty and residents follow the A Tourist In Greyhawk canon imported to `00-Inbox/Greyhawk University Import (A Tourist In Greyhawk)/`. Where this adventure and that canon disagree, the canon wins.
 
 ## Design Frame
 - **Thesis:** Trust is earned in front of witnesses, and the party is offered a reason to betray it at every step.
@@ -42,7 +46,7 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 - **Custom is law.** Guests set down steel, the taster drinks first, letters belong to their bearers, and a shaman's word outranks a khan's in matters of custom.
 - **Women ride to war.** Among the Chakyik, women are a larger share of the fighters than among other nomads. Batzorig's riders are mixed, and so is Temur's war camp.
 - **The art of beguilement.** By Ogobanuk's old decree, the ilkhan studies illusion. Cligir never uses it on the party, but a PC who knows the tradition (History DC 15) reads his stillness differently.
-- **Language.** Most Chakyik speak no Common. Sarnai translates and softens; Batzorig and Chuluun speak it badly; Naran knows three words. A PC who studied Baklunish with [[Master-Haddad]] hears what Sarnai leaves out.
+- **Language.** Most Chakyik speak no Common. Sarnai translates and softens; Batzorig and Chuluun speak it badly; Naran knows three words. A PC who attended [[Professor-Ilsabet-Federkiel]]'s Baklunish lectures hears what Sarnai leaves out.
 - **Istus.** The Lady of Fate is the horde's center. Sarnai speaks of threads, cloth, and the loom.
 - **The Wolves.** The Wegwiur raid the Tigers' herds every winter. They are known for keeping their word, which makes a staged Wolf massacre easier to believe and worse to discover.
 
@@ -60,9 +64,9 @@ What Brennin doesn't know:
 **If the PCs never come:** Temur rides east at the thaw with the horde's young riders and Kezrin's steel. Tiger and Wolf bleed each other white through the spring, and Iuz's agents walk into the gap.
 
 ## Hook
-The default is the Greyhawk University frame (see [[Scene 00 — Greyhawk University]]). For tables outside it:
+The default is the Field Station frame (see [[Scene 00 — Greyhawk University]]). For tables outside it:
 
-1. **The field board (default).** Master Fenwick posts Brennin's request at [[Greyhawk-University]] in Ritterstadt: field credit for winter term, and Brennin's report on the party goes straight to his desk.
+1. **The Job Board (default).** Brennin's request is pinned to the Job Board at the Fiend's Rest Public House in Ritterstadt, and [[Magister-Roswitha-Kartner]] reads it aloud: field credit, and Brennin's report on the party comes to her.
 2. **The caravan master.** A Perrender caravan master who lost two wagons in the pass pays the party to carry Brennin's letter.
 3. **Personal stake.** A PC owes Brennin a life: the hospice nursed them through a winter fever.
 
@@ -71,16 +75,17 @@ Each has more than one route. Objectives 5–7 are optional.
 
 1. **Reach Yecha alive** and get an audience. *(Restraint with Batzorig, guest-craft, gifts.)*
 2. **Pass the three trials:** the Horse, the Bow, the Fire. *(Ride or gentle the stallion; kill the tiger; answer honestly.)*
-3. **Find out who killed the patrol.** *(The ravine evidence, the beaster's testimony, Tsolmon's arrow, Kezrin's papers.)*
+3. **Find out who killed the patrol.** *(The ravine evidence, the beater's testimony, Tsolmon's arrow, Kezrin's papers.)*
 4. **Win voice at the war council** (Favor 5+) and make the case. *(Persuasion, evidence, or a champion's duel.)*
 5. *(Optional)* **Stop Kezrin.** *(Warn Sarnai, spot him, stop him, or chase him.)*
 6. *(Optional)* **Decide what to do with Halya's letter.** *(Spy, refuse, or tell Sarnai.)*
 7. *(Optional)* **Earn the tiger-claw token** (Favor 7+).
 
 ## Subplots (keyed to PCs; assign at the table)
-- **Fieldcraft student (Dame Ysolde):** knows guest-craft, which locks in the Scene 2 restraint bonus; recognizes Wolf sinew-fletching in the ravine.
-- **Baklunish student (Master Haddad):** follows the council without Sarnai's softening; reads Kezrin's ledger.
-- **History student:** recognizes the fletching without a roll; knows the beguilement tradition.
+- **Kartner's Wilderness Fieldcraft lectures:** guest-craft locks in the Scene 2 restraint bonus; recognizes Wolf sinew-fletching in the ravine.
+- **Federkiel's Baklunish lectures:** follows the council without Sarnai's softening; reads Kezrin's ledger.
+- **Antiquities or history lectures (Vogelsang):** recognizes the fletching without a roll; knows the beguilement tradition.
+- **Scouts & Surveyors member:** carries the terrain log for the Yatil road (advantage on the Scene 1 journey check).
 - **Animal Handling or Survival:** the natural candidate to gentle the black stallion, which earns Sarnai's endorsement.
 - **Cleric or paladin:** Brennin's faith is Cuthbertine; Sarnai's is Istus. She will ask this PC what their god thinks of fate.
 - **Honest face:** Halya chooses this PC for her letter.
@@ -89,7 +94,7 @@ Each has more than one route. Objectives 5–7 are optional.
 Likely path: Scenes 00 → 07. See [[00 — Scene Index]] for the run sheet.
 
 ### Act 1 — The Road (≈50 min)
-- [[Scene 00 — Greyhawk University]] (5 min): the posting; each player names their course of study.
+- [[Scene 00 — Greyhawk University]] (5 min): the Job Board at the Fiend's Rest; each player names whose lectures they attend.
 - [[Scene 01 — The High Pass]] (20 min): Brennin's letter, Halya's sealed letter, the descent, an earned hazard.
 - [[Scene 02 — The Cold Welcome]] (25 min): Batzorig disarms them; Cligir's question; the three trials are set.
 
@@ -121,12 +126,12 @@ Likely path: Scenes 00 → 07. See [[00 — Scene Index]] for the run sheet.
 - [[Father-Brennin|Father Brennin]] — keeper of the hospice; the patron.
 - [[Sister-Halya|Sister Halya]] — Brennin's junior; the sealed letter.
 - **Minor, inline:** Naran (tent-guard, 16), Chuluun (scarred rider who jeers), Tsolmon (dead before the adventure), the ravine beater.
-- **University frame:** [[Master-Fenwick]], [[Master-Haddad]], [[Dame-Ysolde]]; Mistress Pell (registrar, optional color).
+- **Field Station (canon, A Tourist In Greyhawk):** [[Magister-Roswitha-Kartner]] (Exploration & Cartography), [[Professor-Ilsabet-Federkiel]] (Letters & Cultures), Professor Casimir Vogelsang (Antiquities).
 
 ## Key Locations
 - [[Hospice-of-St-Cuthbert|The Hospice of St. Cuthbert]] — stone hospice in a high Yatil pass.
 - [[Yecha]] — the Chakyik capital: a walled hill town with the horde's winter tent-city around it.
-- [[Greyhawk-University]] — on Lake Quag's north shore at Ritterstadt.
+- [[Greyhawk-University]] — the Ritterstadt Field Station, in the frontier hamlet of Ritterstadt.
 
 ## Maps
 Simple Layout battlemaps (DM and Player) are in `99-Assets/SP-PBS-01/`. See [[SP-PBS-01 — Map Assets]].
@@ -152,8 +157,9 @@ Difficulty for **level 3** with 2014 DMG thresholds and multipliers. Full statbl
 - **The black stallion** — kept by the PC who gentled him (warhorse stats).
 - **Steppe ponies** — one per PC if the parley passes.
 - **Cligir's parley-gift** — 150 gp each in silver ingots and furs, if the parley passes.
-- **Brennin's report (field credits per PC):** The parley holds 60 · A year bought 50 · Truth without trust 40 · Heard and refused 30 · Cast out 20. Counts toward the 600-credit limit. Plus free healing at the hospice forever.
+- **Brennin's report to Magister Kartner (field credits per PC):** The parley holds 60 · A year bought 50 · Truth without trust 40 · Heard and refused 30 · Cast out 20. Counts toward the 600-credit limit. Plus free healing at the hospice forever.
 - **Halya's letter of field expertise (extra credit):** 25 credits each if they spied, 10 if not. Outside the 600-credit limit.
+- **Historical Society discovery (extra credit):** Kezrin's papers delivered to the Field Station's Historical Society (Letters & Cultures) — 50 bonus credits each. Outside the 600-credit limit.
 - **Kezrin's bribe** — 200 gp (plus 300 promised) if a PC takes it. Sarnai will ask about it.
 - [[SP-PBS-01 — Handout — Kezrin's Papers|Kezrin's papers]] — if recovered.
 
@@ -163,10 +169,10 @@ Threads this adventure **advances**: —
 Threads this adventure **closes**: —
 Dangling hooks: the Spring Return (non-best endings; see [[Plot-Threads]]); Kezrin (if he escapes); Yulbar of the Wolf; Halya's report to Perrenland; Temur's riders on "patrol."
 
-Both events are in [[Timeline]].
+Both events are in [[Timeline]]. Campaign-frame continuity: the A Tourist In Greyhawk Wolf Nomad trader formerly named Temür Bayan is being renamed **Elif Kayim** to avoid a clash with Khan Temur.
 
 ### Continuity Ledger (record after play)
-Favor total · council result · tiger-claw token (who holds it) · Sarnai's endorsement and the stallion's name · Kezrin captured / escaped with papers torn / escaped with papers · Temur's disposition and how many riders rode east · whether the party spied, and whether they told Sarnai · Yulbar named?
+Favor total · council result · tiger-claw token (who holds it) · Sarnai's endorsement and the stallion's name · Kezrin captured / escaped with papers torn / escaped with papers · Temur's disposition and how many riders rode east · whether the party spied, and whether they told Sarnai · Yulbar named? · papers delivered to the Historical Society?
 
 ## Canon Check
 - [ ] Greyhawk references have Lore notes: [[Chakyik]] (new), [[Perrenland]] ✓
@@ -174,6 +180,7 @@ Favor total · council result · tiger-claw token (who holds it) · Sarnai's end
 - [ ] Lore notes still needed: the Wolf Nomads (Wegwiur), Istus, Ekbir
 - [x] Deviations from canon documented below
 - [x] No 5.5e-only lore used
+- [x] Campaign frame checked against the A Tourist In Greyhawk import (faculty, hamlet, Job Board)
 
 | Canon element used | Sources (page to verify) | How it is used |
 |---|---|---|
@@ -187,7 +194,7 @@ Favor total · council result · tiger-claw token (who holds it) · Sarnai's end
 | Istus, Baklunish goddess of fate | *WoG* (1983); *Greyhawk Adventures* (1988) | Sarnai |
 | Perrenland trade and barter with the nomads | *LGG* (2000) pp. 85, 114 | Brennin's brandy and the parley |
 
-**Deviations (homebrew):** the hospice and its priests, Temur, Sarnai, Kezrin and the false-flag murders, Tsolmon, Yulbar's payments, the three trials, the parley terms, the Favor track, the tiger-claw token, the Wolf sinew-fletching tell, and the Greyhawk University frame are invented. The tent-city is the horde's winter camp around canon Yecha's walls. Horde size (70,000+) is uncited and is not used in play.
+**Deviations (homebrew):** the hospice and its priests, Temur, Sarnai, Kezrin and the false-flag murders, Tsolmon, Yulbar's payments, the three trials, the parley terms, the Favor track, the tiger-claw token, and the Wolf sinew-fletching tell are invented. The tent-city is the horde's winter camp around canon Yecha's walls. Horde size (70,000+) is uncited and is not used in play. Kartner's and Federkiel's personalities and lines are Sidebar Press elaborations of placeholder department heads from the A Tourist In Greyhawk vault.
 
 ## Fantasy Grounds Build
 See [[SP-PBS-01 — VTT and Fantasy Grounds Kit]].
