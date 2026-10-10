@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480">
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#56606b" stroke-width="0.5" opacity="0.6"/></pattern></defs>
+<title>SP-PBS-01 - Night-Camp - Player (24x24 sq, 1 sq = 5 ft)</title>
+<rect width="480" height="480" fill="#1f2a36"/>
+<rect width="480" height="480" fill="#dfe6ec" opacity="0.18"/>
+<circle cx="240" cy="240" r="60" fill="#7f5539" stroke="#e76f51" stroke-width="6"/>
+<circle cx="240" cy="240" r="8" fill="#f4a261"/>
+<g fill="#5e4b3c" stroke="#3a2e25"><circle cx="80" cy="90" r="36"/><circle cx="400" cy="80" r="32"/><circle cx="90" cy="390" r="34"/></g>
+<line x1="320" y1="340" x2="440" y2="340" stroke="#a68a64" stroke-width="3"/>
+<g fill="#8d7b68"><rect x="330" y="344" width="16" height="26"/><rect x="370" y="344" width="16" height="26"/><rect x="410" y="344" width="16" height="26"/></g>
+<g fill="#f4a261"><circle cx="470" cy="200" r="5"/><circle cx="470" cy="260" r="5"/><circle cx="470" cy="320" r="5"/></g>
+<rect width="480" height="480" fill="url(#g)"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" font-family="Georgia, serif">
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#5c4a3a" stroke-width="0.5" opacity="0.5"/></pattern></defs>
+<title>SP-PBS-01 - Duel-Ring - DM (20x20 sq, 1 sq = 5 ft)</title>
+<rect width="400" height="400" fill="#3b2f26"/>
+<!-- pavilion floor -->
+<circle cx="200" cy="200" r="190" fill="#8c6d4f"/>
+<!-- crowd ring -->
+<circle cx="200" cy="200" r="150" fill="none" stroke="#5a4636" stroke-width="22" stroke-dasharray="8 6"/>
+<!-- ring floor: tiger skins -->
+<circle cx="200" cy="200" r="120" fill="#c9893f"/>
+<g stroke="#3b2f26" stroke-width="4"><line x1="140" y1="150" x2="170" y2="170"/><line x1="230" y1="240" x2="260" y2="255"/><line x1="150" y1="250" x2="175" y2="235"/></g>
+<!-- throne north -->
+<rect x="176" y="22" width="48" height="26" fill="#7b1e1e"/>
+<!-- braziers -->
+<g fill="#f4a261"><circle cx="70" cy="200" r="8"/><circle cx="330" cy="200" r="8"/></g>
+<rect width="400" height="400" fill="url(#g)"/>
+<!-- DM ONLY LAYER -->
+<g font-size="12" font-weight="bold" fill="#fff">
+<circle cx="200" cy="270" r="11" fill="#2d6a4f"/><text x="194" y="274">C</text>
+<circle cx="200" cy="130" r="11" fill="#9b2226"/><text x="194" y="134">B</text>
+<circle cx="236" cy="40" r="9" fill="#0077b6"/><text x="231" y="44">S</text>
+<text x="230" y="20">Cligir's throne · S Sarnai</text>
+<text x="8" y="392" font-weight="normal">C party champion · B Temur's champion (berserker) · ring 30 ft across; crowd is a wall (no exit)</text>
+<text x="40" y="186" font-weight="normal">brazier</text>
+</g>
+</svg>

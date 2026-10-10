@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="720" height="320">
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#7a8a96" stroke-width="0.5" opacity="0.6"/></pattern></defs>
+<title>SP-PBS-01 - Ravine - Player (36x16 sq, 1 sq = 5 ft)</title>
+<rect width="720" height="320" fill="#e9eef2"/>
+<path d="M0 0H720V40H600L560 60H420L380 50H240L200 64H80L0 52Z" fill="#4b5560"/>
+<path d="M0 320H720V272H640L600 252H460L420 266H280L240 256H120L0 268Z" fill="#4b5560"/>
+<path d="M0 162C120 150 200 176 320 160S520 146 640 160" fill="none" stroke="#a9c6d8" stroke-width="18" stroke-linecap="round"/>
+<ellipse cx="180" cy="100" rx="60" ry="22" fill="#ffffff" stroke="#b8c4cc"/>
+<ellipse cx="430" cy="220" rx="70" ry="24" fill="#ffffff" stroke="#b8c4cc"/>
+<path d="M640 110L720 90V230L640 210Q660 160 640 110Z" fill="#1d2328"/>
+<g fill="#cfc6b0"><circle cx="600" cy="130" r="4"/><circle cx="612" cy="196" r="3"/><circle cx="585" cy="205" r="3"/></g>
+<rect width="720" height="320" fill="url(#g)"/>
+</svg>

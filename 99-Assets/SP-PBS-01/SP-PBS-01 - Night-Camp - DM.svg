@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480" font-family="Georgia, serif">
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#56606b" stroke-width="0.5" opacity="0.6"/></pattern></defs>
+<title>SP-PBS-01 - Night-Camp - DM (24x24 sq, 1 sq = 5 ft)</title>
+<rect width="480" height="480" fill="#1f2a36"/>
+<rect width="480" height="480" fill="#dfe6ec" opacity="0.18"/>
+<!-- guest tent (burning) -->
+<circle cx="240" cy="240" r="60" fill="#7f5539" stroke="#e76f51" stroke-width="6"/>
+<circle cx="240" cy="240" r="8" fill="#f4a261"/>
+<!-- neighbour yurts -->
+<g fill="#5e4b3c" stroke="#3a2e25"><circle cx="80" cy="90" r="36"/><circle cx="400" cy="80" r="32"/><circle cx="90" cy="390" r="34"/></g>
+<!-- picket line with mules -->
+<line x1="320" y1="340" x2="440" y2="340" stroke="#a68a64" stroke-width="3"/>
+<g fill="#8d7b68"><rect x="330" y="344" width="16" height="26"/><rect x="370" y="344" width="16" height="26"/><rect x="410" y="344" width="16" height="26"/></g>
+<!-- war camp torches, east edge -->
+<g fill="#f4a261"><circle cx="470" cy="200" r="5"/><circle cx="470" cy="260" r="5"/><circle cx="470" cy="320" r="5"/></g>
+<rect width="480" height="480" fill="url(#g)"/>
+<!-- DM ONLY LAYER -->
+<g font-size="12" font-weight="bold" fill="#fff">
+<circle cx="240" cy="240" r="11" fill="#2d6a4f"/><text x="234" y="244">P</text>
+<circle cx="200" cy="420" r="11" fill="#9b2226"/><text x="195" y="424">A</text>
+<circle cx="250" cy="430" r="11" fill="#9b2226"/><text x="245" y="434">A</text>
+<circle cx="300" cy="420" r="11" fill="#9b2226" opacity="0.7"/><text x="295" y="424">A</text>
+<circle cx="150" cy="300" r="11" fill="#bc6c25"/><text x="145" y="304">L</text>
+<circle cx="240" cy="20" r="11" fill="#0077b6"/><text x="235" y="24">N</text>
+<text x="8" y="474" font-weight="normal">P party (asleep in tent) · A thugs (3rd A: 5–6 PCs) · L scout lookout · N Naran + 2 riders + bucket line (round 3; round 1 with endorsement)</text>
+<text x="300" y="300" font-weight="normal">tent burns: 5-ft ring of fire, 1d6 fire on entering</text>
+<text x="356" y="200" font-weight="normal">war camp (torches)</text>
+</g>
+</svg>
