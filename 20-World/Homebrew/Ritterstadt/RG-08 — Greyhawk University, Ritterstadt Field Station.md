@@ -35,12 +35,12 @@ In return the University owes the town a physician, a forge, a share of its maps
 | **Bursar** | [[Tobrin Fennelwick]] (gnome) | the Station House | The purse: grants in, credits out, the Fiend's Rest chits redeemed at the quarter. |
 | **Proctor of Students** | [[Mathias Grell]] | the Long Dormitory | Discipline, the gate rota, the student organizations' charters. |
 | **Archivist** | [[Saelithan Verenwyr]] (high elf) | the Archive | Maps, reports, Publications, and the stacks the Registrar seals. |
-| **Infirmarian** | [[Doktor Agathe Sauerbrunn]] | the Infirmary | Held by the head of Physic & Alchemy as part of that office; keeps students alive. |
-| **Quartermaster** | [[Ulf Hadric]] (half-orc) | the Station House yard | Expedition kit: bog poles, cold-weather bedrolls, lamp-oil, the ration ledger. |
-| **Master of the Forge** | [[Hogar Irongrip]] | the University Forge | Arms and repairs for expeditions and the watch. Counted with Forge Row, where he lives. |
 | **Drill-Sergeant** | [[Garrok Stonebrow]] (goliath) | the Drill Yard | War Studies practicals; the shield wall; Field Day. |
+| **Infirmarian** | [[Doktor Agathe Sauerbrunn]] | the Infirmary | Held by the head of Physic & Alchemy as part of that office; keeps students alive. |
+| **Quartermaster** | [[Lecturer Dagny Holmgard]] | the Station House yard | Held by the Logistics & Quartermastery lecturer as part of that post: bog poles, cold-weather bedrolls, lamp-oil, the ration ledger. Her kit store is kept by the student [[Ulf Hadric]]. |
+| **Master of the Forge** | [[Hogar Irongrip]] | the University Forge | Arms and repairs for expeditions and the watch. Counted with Forge Row, where he lives. |
 
-**Headcount:** 22 on the University's pay — six administrators (Warden, Registrar, Bursar, Proctor, Archivist, Quartermaster), the Drill-Sergeant, eight department heads (one also Infirmarian), and eight lecturers — plus the Master of the Forge, counted with Forge Row.
+**Headcount: 22** on the University's pay — six administrators (Warden, Registrar, Bursar, Proctor, Archivist, Drill-Sergeant), eight department heads (one also Infirmarian), and eight lecturers (one also Quartermaster). The Master of the Forge is counted with Forge Row; the Chancellor and the Commission are paid in the City of Greyhawk.
 
 ## The Eight Departments
 From the campaign canon (`00 — Department Index`). Each offers a Major, two Minors, and hosts student organizations.
@@ -67,7 +67,7 @@ From the campaign canon (`00 — Department Index`). Each offers a Major, two Mi
 - **Freshman** — level 3. Undeclared. Attends lectures anywhere.
 - **Sophomore** — level 4. Declares a **Major**; first boon.
 - **Junior** — level 5. May declare one **Minor** from another department.
-- **Senior and beyond** — the station has had nine. Three teach here now.
+- **Senior and beyond** — the station has had nine. Three hold posts here now.
 
 **Credits.** Students are paid in credits, never coin. Commissions award credits by mission class; maps earn 25 per submission; majors add 10% on related quests. The **credit limit is 600**. **Extra credit** — a Historical Society discovery (50), a patron's letter of field expertise, a Publication the home campus prints — sits outside the limit. Credits buy tuition, infirmary care at cost, forge work at cost, and standing. They do not buy ale. The Bursar redeems Karet's chits at the quarter.
 

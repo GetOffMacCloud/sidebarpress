@@ -10,11 +10,11 @@ tags: [ritterstadt, greyhawk-university, faculty, staff, roster, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-08 — Greyhawk University, Ritterstadt Field Station]] · Next → [[RG-10 — DM Companion]]
 
-Twenty-two people draw the University's pay at Ritterstadt, plus the Master of the Forge, who lives on Forge Row and is counted there. The eight department heads are campaign canon (`00 — Department Index`), where they are placeholders; this book gives each a line of voice and a second lecturer. Everyone else is new.
+**Twenty-two** people draw the University's pay at Ritterstadt: **6** in the administration (including the Drill-Sergeant), the **8** department heads, and their **8** lecturers. Two posts are doubled rather than staffed: the head of Physic & Alchemy is also Infirmarian, and the Logistics lecturer is also Quartermaster. The Master of the Forge lives on Forge Row and is counted there. The eight department heads are campaign canon (`00 — Department Index`), where they are placeholders; this book gives each a line of voice and a second lecturer. Everyone else is new.
 
 **Canon rule:** a head promoted to a full NPC note in the campaign vault overrides anything below.
 
-## Administration (7)
+## Administration (6)
 
 | Office | Name | People | Age | Voice |
 |---|---|---|---|---|
@@ -23,8 +23,9 @@ Twenty-two people draw the University's pay at Ritterstadt, plus the Master of t
 | Bursar | [[Tobrin Fennelwick]] | gnome | 71 | *"Forty gold short is not a crisis. Forty gold short twice is a pattern."* Honest, anxious, counts in his sleep. |
 | Proctor of Students | [[Mathias Grell]] | human (Flan) | 36 | *"I am not your mother. I am the man who decides whether your mother hears about this."* Former Traft watchman; fair, humourless, respected. |
 | Archivist | [[Saelithan Verenwyr]] | high elf | 212 | *"Paper burns. That is why I have a slate roof and no patience."* Knows what is in the sealed stacks because she shelved them. Wants to know why. |
-| Quartermaster | [[Ulf Hadric]] | half-orc | 40 | *"Two bog poles a party. Not one. The one you lose is the one you needed."* Keeps the ration ledger and has never lost a student to cold he could have prevented. |
 | Drill-Sergeant | [[Garrok Stonebrow]] | goliath (Yatil Mountaineer clan) | 33 | *"The shield wall holds or the town does not. Again."* Stayed when his caravan left; teaches War Studies practicals and Stahlwulf's drill. |
+
+*The Chancellor, [[Chancellor Adalwin Adenauer]], sits in the City of Greyhawk and is not on the station's pay.*
 
 ## Faculty (16)
 
@@ -32,18 +33,19 @@ Twenty-two people draw the University's pay at Ritterstadt, plus the Master of t
 |---|---|---|---|---|
 | Arcane Studies | **Magistra Odilia Sternwald** (human) | *"Magic is a tool. The Rain was a tool. Sit down."* Severe; distrusts sorcerers on principle; wants the Bloom crystals under her lock. | [[Lecturer Perenna Dolz]] (human, Baklunish, Ket-born) | *"The omen says yes. The omen always says yes. Ask it a better question."* Divination & Omenry; reads the weather for the Landing. |
 | Natural Sciences | **Professor Berthold Grasmeyer** (human) | *"Everything in the Mires is adapting to the cold. Including the things that were already dead."* Field naturalist; keeps a live bog-adder in his rooms. | [[Lecturer Ilvadriel]] (high elf) | *"Count the legs before you name it."* Zoology & Beastmastery; the Larch kin-band's only friend at the station. |
-| Physic & Alchemy | **Doktor Agathe Sauerbrunn** (human) | *"You may pray. I will cauterize. We will see who is thanked."* Infirmarian; blunt, tireless, charges the Bursar for everything. | [[Lecturer Jorund Vesk]] (dwarf, Clan Brock) | *"The dead do not lie. They do, however, get up."* Necrology; the Grave-cleric of Wee Jas the Chapel pretends not to notice. |
+| Physic & Alchemy | **Doktor Agathe Sauerbrunn** (human) — also **Infirmarian** | *"You may pray. I will cauterize. We will see who is thanked."* Blunt, tireless, charges the Bursar for everything. | [[Lecturer Jorund Vesk]] (dwarf, Clan Brock) | *"The dead do not lie. They do, however, get up."* Necrology; the Grave-cleric of Wee Jas the Chapel pretends not to notice. |
 | Antiquities | **Professor Casimir Vogelsang** (human) | *"Provenance is the only morality a relic has."* Ambitious; the Regents' favourite; feuds with Brandt and Sternwald. | [[Lecturer Fennimore Tock]] (gnome) | *"Letters first. Pictures lie; letters only mislead."* Epigraphy & Iconography; the one person at the station who can read some Ur-Flan. |
 | Exploration & Cartography | **[[Magister-Roswitha-Kartner]]** (human) | *"Know the exits before you enter."* Never lost, never hurried. | [[Lecturer Hamlin Dreel]] (human, Perrender) | *"Up is where the air moves. Down is where it doesn't. Remember which you want."* Subterranean Studies; lost two fingers to a Clatspur deep and will tell you how. |
-| War Studies & Engineering | **Professor Dietrich Mauerbrecher** (human) | *"A wall is a promise the town makes to itself."* Designed the eastern gate's repair; the Ritter's unofficial engineer. | [[Lecturer Dagny Holmgard]] (human, Oeridian) | *"Logistics is the art of being there with bread."* Logistics & Quartermastery; works with Hadric and argues with him. |
+| War Studies & Engineering | **Professor Dietrich Mauerbrecher** (human) | *"A wall is a promise the town makes to itself."* Designed the eastern gate's repair; the Ritter's unofficial engineer. | [[Lecturer Dagny Holmgard]] (human, Oeridian) — also **Quartermaster** | *"Logistics is the art of being there with bread. Two bog poles a party. Not one."* Logistics & Quartermastery; keeps the kit store and the ration ledger and has never lost a student to cold she could have prevented. |
 | Letters & Cultures | **[[Professor-Ilsabet-Federkiel]]** (human) | *"You did not insult the khan. You insulted his horse."* Eleven languages; gossip in all of them. | [[Lecturer Aerendil Vaethis]] (high elf) | *"A word is a fossil. Dig."* Linguistics & Philology; the Polyglot Circle's quiet centre. |
 | Statecraft & Commerce | **Professor Aldemar Goldwaage** (human) | *"The Cantons will not send a garrison. They will send a form. Learn to read forms."* Teaches the Vogt's clerks; drafted the Moot Roll's wording. | [[Lecturer Bertram Falk]] (half-elf) | *"Heraldry is just law that learned to dress."* Law & Heraldry; identified the unfamiliar arms on the Ritter's Hall shield and has not said whose they are. |
 
-## Senior Students Who Teach (3)
-Counted among the 36 students; they lodge in town.
+## Students Who Hold Posts
+Counted among the 36 students, not the 22 staff.
 - **Oswin Kettler** (human, Senior, Cartography) — runs the Scouts & Surveyors' map archive.
 - **Rook Ashveil** (half-elf, Senior, Anthropology) — leads Polyglot Circle sessions; the Grugach student the Vesve has not forgotten.
 - **Dagmar Brockdottir** (dwarf, Senior, Military Theory) — Garrok's second on the Drill Yard; named for a Founder she has never been told was kin.
+- **[[Ulf Hadric]]** (half-orc, Junior, Logistics minor) — keeps Holmgard's kit store on the Station House yard. *"Two bog poles a party. She says so, I hand them out, you bring them back."*
 
 ## Visiting
 - [[Professor Wilhelmina Brandt]] (canon) — Antiquarian Wardcraft, City of Greyhawk. Outranks no one here and finds it intolerable.
@@ -54,10 +56,11 @@ Counted among the 36 students; they lodge in town.
 | | |
 |---|---|
 | Chancellor Adenauer (City of Greyhawk) | ← Warden Weissmantel |
-| Warden | ← Registrar · Bursar · Proctor · Archivist · Quartermaster · the eight heads |
+| Warden | ← Registrar · Bursar · Proctor · Archivist · the eight heads |
 | Heads | ← their lecturers · their student organizations |
 | Proctor | ← the Drill-Sergeant (on student matters) · the gate rota |
-| Infirmarian | ← nobody; she reports to the Warden and overrules him on medical grounds |
+| Infirmarian (Sauerbrunn) | ← nobody; she reports to the Warden and overrules him on medical grounds |
+| Quartermaster (Holmgard) | ← Ulf Hadric at the kit store |
 | Master of the Forge | ← the Warden by charter; Clan Irongrip by blood; neither in practice |
 
 ## Hooks

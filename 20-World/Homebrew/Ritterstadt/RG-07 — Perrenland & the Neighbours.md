@@ -47,7 +47,6 @@ The sylvan elves at the Larch camp came down from the Vesve border in 575 after 
 | **Vostren** | ~4 days E | ~150 | Valley settlement; gnome trade point | The Seam-Finders' charts come through here |
 | **Traft** | ~4 days S | ~400 | Last market town before the Clatspurs | Everything goes through Traft, and the Consortium takes a cut |
 | **Eru Tovar** | far S | — | Where the Founders left from | Varek Doss's home; the Regents' post goes through it |
-| **Königsruh** | *see the campaign vault's Königsruh roster* | — | Schultheiss Theodor Landros, Ratsherr Jan Turbrandt, Hauptmann Mia Desarn | Placement to confirm with the campaign vault |
 
 ## The Wolf Nomads
 The eastern Sepia is their ancestral ground; their routes run south in autumn and north in late spring along the network nodes they no longer have words for. They have never traded at Ritterstadt. **Elif Kayim**'s arrival would be the first time, and the kin-band's rumours would come with the furs. See the campaign Faction Dossiers for how to bring them in — through the standing stones at G5, respectfully, overnight.

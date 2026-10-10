@@ -22,7 +22,7 @@ The Vogt's midsummer count of 576 CY: **200 souls** inside the palisade, at the 
 | Dwarves | 30 | 15% | Forge Row under the eastern wall (24): Clan Irongrip and Clan Brock tradesfolk, the Mining Consortium, the Assay House. Six at the University. |
 | Elves | 20 | 10% | The **Larch kin-band** (sylvan elves, 14) at the forest edge beyond the east gate; **six high elves** at the University — the Archivist, two lecturers, three students. |
 | Gnomes | 20 | 10% | The Burrows under Market Hill (13): prospectors and instrument-makers. Seven at the University, the Bursar among them. |
-| Others | 10 | 5% | Four halflings at the landing; two Rhennee-born tieflings nobody discusses; two half-elves, a half-orc quartermaster and a goliath drill-sergeant at the University. |
+| Others | 10 | 5% | Four halflings at the landing; two Rhennee-born tieflings nobody discusses; two half-elves (a lecturer and a student), a half-orc student who keeps the kit store, and a goliath drill-sergeant at the University. |
 
 ## By Sector
 
@@ -63,6 +63,7 @@ Existing notes from the campaign vault are marked **(canon)** and keep their own
 - [[Old Hebe Strasser]] — midwife and layer-out; delivered half the town's children **(new)**
 - [[Yusuf al-Rashad]] — Baklunish cloth-and-salt merchant up from Ket; the market's only stone-built stall **(new)**
 - [[Hesta Varnholm]] — Suel "exile," letter-writer and copyist; see [[RG-06 — Factions]] **(new)**
+- [[Dominie Anselm Roth]] — Old Kerk priest, lodging at the Grey Wolf **(new)**
 - [[Vethkar Graun]] — Hanselmann Consortium assessor, lodging at the Grey Wolf **(canon)**
 
 ### Forge Row (dwarves)
@@ -84,7 +85,7 @@ Existing notes from the campaign vault are marked **(canon)** and keep their own
 - [[Dorrin Hollin]] — halfling ferryman; Tam Hollin's nephew **(new)**
 
 ### Faculty and Staff
-See [[RG-09 — Faculty & Staff Roster]], which includes the Bursar [[Tobrin Fennelwick]] (gnome) and the Quartermaster. Visiting: [[Professor Wilhelmina Brandt]] **(canon)**.
+See [[RG-09 — Faculty & Staff Roster]], which includes the Bursar [[Tobrin Fennelwick]] (gnome) and the Quartermaster, Lecturer [[Lecturer Dagny Holmgard]]. Visiting: [[Professor Wilhelmina Brandt]] **(canon)**.
 
 ### Not Yet Arrived
 - [[Elif Kayim]] — Wolf Nomad trader (renamed from Temür Bayan); a planned arrival **(canon)**
