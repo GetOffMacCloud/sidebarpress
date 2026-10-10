@@ -32,6 +32,27 @@ Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]
 - The handler meets no one and is seen by everyone.
 - They do not kill in Ritterstadt. They leave.
 
+## Origin
+The Scarlet Brotherhood plants counting-houses the way other powers plant garrisons: quietly, years before they matter. In the early 570s the Brotherhood's readers decided the Sepia Uplands would matter — iron, a university, Iuz's couriers using the northern roads — and sent three Suel north, one by one, to count it. They arrived over 574–575, as the town grew past 150 souls and stopped noticing newcomers.
+
+## History
+- **574–575 CY.** Hesta Varnholm arrives first and sets up as letter-writer and copyist; the tailor follows; the "retired factor" takes rooms behind the Grey Wolf and begins his evening walks on the palisade. None of them are what they seem, and none of them meet.
+- **575 CY.** Hesta wins copy work from the Illuminators' Guild and a seat at their copy-table. From then on, everything fair-copied in Ritterstadt passes under her eyes.
+- **576 CY.** Yusuf al-Rashad's cloth trade gives the cell its courier route: the pale ledger goes south twice a year sewn into a bolt of cloth. He never knows.
+- **576 CY.** Three Bloom crystals logged at the Assay House never reach the University vault. Brunna suspects the Curio Club. The Ledger has them — and the Brotherhood's scholars have asked whether crystals can be grown.
+- **576 CY.** Hesta fair-copies a Historical Society borrowing and makes a second copy for the Ledger: the Grey Sickle's barrow list.
+
+## Goals
+**Major:**
+- Keep the count: a complete, current picture of everything moving through the Sepia — iron, students, maps, couriers, Iuz's agents.
+- Answer the scholars' question: can Bloom crystals be grown?
+- Be the power holding the map when the north breaks, as the Brotherhood expects it will.
+**Minor:**
+- Keep Yusuf's cloth route open and Yusuf ignorant.
+- Read everything the Illuminators fair-copy.
+- Stay beneath the notice of Vethkar Graun and Hauptmann Stahlwulf.
+- Price Ewald Wennerberg: the Ledger would sell Iuz's soldier to the watch for the right consideration.
+
 ## Relationships
 - **Competitors:** Iuz's agents. The Ledger would sell Ewald to Stahlwulf for the right price.
 - **Watched by:** Vethkar Graun, who has noticed them. They have noticed him noticing.

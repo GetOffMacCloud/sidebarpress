@@ -35,6 +35,27 @@ Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]
 ## Ranks and Recognition
 Students who submit relics and maps earn **Regents' Commendations** (extra credit, 25 each) and are noticed in the City of Greyhawk. Students who hide finds are noticed too.
 
+## Origin
+The Commission is the Board of Regents' standing committee on field stations and antiquities — older than the Ritterstadt station itself, created to keep the University's far-flung outposts productive, loyal, and generous with their finds. Its interest in Ritterstadt began the day Magistra Wren Calloway returned to the City of Greyhawk in 568 with a charter request and a promise: the Fiend's Embrace would come south "when safely movable."
+
+## History
+- **568 CY.** Calloway's charter is granted on the strength of her promise. The Commission opens its Ritterstadt ledger: every grant thereafter carries the 10% antiquities clause.
+- **571 CY.** Calloway takes a seat on the Commission itself. The station's first Warden, Albrecht Weissmantel, is confirmed by the Board.
+- **573 CY.** The five-year underwriting lapses. The station survives on credits, grants, and Konrad's loan — and the Commission's purse becomes its lifeline. Its patience starts to price itself.
+- **574 CY onward.** Commissioner Lucan Dray's biennial audits begin: every second Patchwall he arrives, inspects, and leaves with a crate. Professor Casimir Vogelsang is cultivated as the Commission's man on the faculty.
+- **576 CY.** Dray carries a drafted commission — *recover and convey the object held at Ritterstadt under the Founders' Compact* — and the second seal. The Chancellor has not yet said the word. He waits on Varek Doss.
+
+## Goals
+**Major:**
+- Bring the Fiend's Embrace to the City of Greyhawk under the Founders' Compact.
+- Secure the Regents' tenth of every object of antiquarian value recovered under a University commission.
+- Keep the Ritterstadt station productive, audited, and loyal — a field station, not a freehold.
+**Minor:**
+- Decide what goes in Dray's crate each audit year, and who decides.
+- Position Vogelsang to succeed Weissmantel when the Warden resigns.
+- Grow the Curio Club as an unofficial collection arm.
+- Obtain Doss's assessment of whether the Embrace can be moved.
+
 ## Relationships
 - **Allies:** the Chancellor's office; Professor Vogelsang; the Curio Club (unofficially).
 - **Rivals:** the druid enclave (over the Uplands' future); the Old Kerk Mission (over who claims the town).
