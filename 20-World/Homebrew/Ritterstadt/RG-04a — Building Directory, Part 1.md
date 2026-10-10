@@ -22,12 +22,12 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 **Outside.** *A long, low hall of dark timber and river stone behind its own stout palisade of sharpened pine, iron-bracketed by the village smithy. One iron-banded gate faces the village square. Smoke rises from the roof at every hour.*
 
 **Inside.**
-- **The great hall.** Blackened roof-beams hung with antlers and the smoke-darkened banners of a dozen forgotten campaigns. A great hearth that has not gone cold in living memory. The Ritter's chair — more throne than seat — on a low dais between two iron braziers.
-- **The Ritter's quarters** and **the locked study** at the back: the old Ritter's room. Nobody goes in, Konrad included.
+- **The great hall.** Blackened roof-beams hung with antlers and the smoke-darkened banners of a dozen forgotten campaigns — the von Eisfeld banners, brought north by Ritter Gerhard. A great hearth that has not gone cold in living memory. The Ritter's chair — more throne than seat — on a low dais between two iron braziers.
+- **The Ritter's quarters** and **the locked study** at the back: old Ritter Gerhard's room, then Edmund's. Nobody goes in, Konrad included.
 - **The armory, the grain store, the stable** (three of the town's nine horses), **the Vogt's quarters.**
-- **The inner palisade:** a fighting platform along the inside. In an attack, it is the town's last wall.
+- **The inner palisade:** Gerhard's original wall, with a fighting platform along the inside. In an attack, it is the town's last wall.
 
-**Proprietor.** [[Ritter Konrad von Eisfeld]], with [[Vogt Ruprecht Ackermann]] keeping the ledgers and the grain-store key. Two war-wolfhounds lie by the hearth; one of them has started growling at the Vogt.
+**Proprietor.** [[Ritter Konrad von Eisfeld]], third of his line, with [[Vogt Ruprecht Ackermann]] keeping the ledgers and the grain-store key. Two war-wolfhounds lie by the hearth. One of them, **Grauer**, has started growling at the Vogt.
 
 **Hours.** Court every tenday at midday. Urgent matters at the gate, any hour.
 
@@ -54,7 +54,7 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 - **The back room** behind the hearth: one long table, tallow candles, and Drunik Runevault's survey map pinned to the wall with a mining pick. Briefings and debriefs happen here.
 - **Rooms** upstairs for travellers and pack-merchants (Mistress Vehlda Brett of Verbobonc when she's in town).
 
-**Proprietor.** [[Karet]] — observant, dry, unflappable. She pours, cooks, lets the rooms, and runs the Board. She coined "Sharkenbearnado," which the University has formally deprecated and failed to suppress.
+**Proprietor.** [[Karet]] — observant, dry, unflappable. She pours, cooks, lets the rooms, and runs the Board. She coined "Sharkenbearnado," which the University has formally deprecated and failed to suppress. Her ale comes from Malzer's Brewhouse on Market Hill.
 
 **Hours.** From midmorning until the last party home.
 
@@ -77,21 +77,22 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 - **Two rooms upstairs,** one overlooking the square.
 - **The stable** behind, tended by Lotte's boy.
 
-**Proprietor.** [[Lotte Kesselring]], 34, widow (her husband Tobias died of a fever five years ago). She owns it, brews the ale, cooks the stew, changes the beds, and keeps the peace with a hand the size of a dinner plate. Warm, blunt, funny, and the first to know anything. Her dog **Grauer** lies by the fire.
+**Proprietor.** [[Lotte Kesselring]], 34, widow (her husband Tobias died of a fever five years ago). She owns it, brews the ale, cooks the stew, changes the beds, and keeps the peace with a hand the size of a dinner plate. Warm, blunt, funny, and the first to know anything.
 
 **Hours.** Dawn to the last villager home.
 
 **What it offers.** The locals' house: quiet, fair-priced, and where village news and grievances circulate.
-| Menu | Price | | Rooms | Price/night |
-|---|---|---|---|---|
-| Ritterstadt Dark Ale | 3 cp | | Common room pallet | 3 cp |
-| Birch-sap mead (spring) | 5 cp | | Small room upstairs | 4 sp |
-| Pine resin wine | 4 cp | | Large room (overlooks square) | 7 sp |
-| Elk stew | 4 cp | | Stable (horse, straw, lock) | 2 sp |
-| Black bread | 1 cp | | | |
-| Salted fish (Lake Quag) | 2 cp | | | |
-| Traveller's Board | 8 cp | | | |
-| Grain spirit | 2 sp | | *DC 13 Con or disadvantage on Wisdom checks for 1 hour* | |
+
+| Menu | Price | Rooms | Price/night |
+|---|---|---|---|
+| Ritterstadt Dark Ale | 3 cp | Common room pallet | 3 cp |
+| Birch-sap mead (spring) | 5 cp | Small room upstairs | 4 sp |
+| Pine resin wine | 4 cp | Large room (overlooks square) | 7 sp |
+| Elk stew | 4 cp | Stable (horse, straw, lock) | 2 sp |
+| Black bread | 1 cp | | |
+| Salted fish (Lake Quag) | 2 cp | | |
+| Traveller's Board | 8 cp | | |
+| Grain spirit | 2 sp | *DC 13 Con or disadvantage on Wisdom checks for 1 hour* | |
 
 **Goods behind the bar:** rope 50 ft (1 gp), candles ×10 (1 sp), tinderbox (5 sp), salt 1 lb (5 cp), a week's preserved meat (4 sp), wool blanket (5 sp), torches ×5 (1 sp).
 
@@ -105,9 +106,11 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 
 **Inside.**
 - **The nave:** four rows of rough pews and an altar of pale limestone where candles burn at all hours. Keeping them lit is the village's duty.
-- **The window:** Saint Erika of the Long Night, her lantern the only light in the dark.
-- **The sacristy:** the ledgers of every birth, death, and marriage in Ritterstadt — and, under the floorboards behind the altar, a locked box.
+- **The window:** Saint Erika of the Long Night, her lantern the only light in the dark — Hassenrath's gift, c. 536.
+- **The sacristy:** the ledgers of every birth, death, and marriage in Ritterstadt back to Erikasrast in 489 — and, under the floorboards behind the altar, a locked box.
 - **The north wing:** given to the University as [[The Infirmary]] (see Part 2).
+
+**History.** Raised in stone by old Ritter Gerhard von Eisfeld after the Great Blizzard of c. 520, on the site of Erikasrast's wooden chapel.
 
 **Proprietor.** [[Vater Sigmund Wolfherz]], over thirty years in the post, nearly blind now and still reading the old ledgers. A listener; come with problems.
 
@@ -124,7 +127,7 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 | Village records | At the Vater's discretion; some pages are sealed |
 | Prayer and sanctuary | Free |
 
-**Hooks.** There is a year in the records with no entries at all. The Vater calls it "a hard winter," and he is lying. He was heard to say *"Hassenrath was right."*
+**Hooks.** Eleven years in the records have no entries at all. The Vater calls it "a hard winter," and he is lying. He was heard to say *"Hassenrath was right."*
 
 ---
 
@@ -157,7 +160,7 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 
 **Inside.** Storage on the ground floor; a worn stone stair to the watch floors; the bell on the roof, which carries to the outlying farms in still weather. On the ground floor, a trapdoor to the sub-floor, **iron-barred by the Captain herself.** Nobody asked her why.
 
-**Proprietor.** The watch. The duty soldier spends the shift wrapped in furs, staring north.
+**Proprietor.** The garrison. The duty soldier spends the shift wrapped in furs, staring north.
 
 **What it offers.** The bell; the view across the Sepia Uplands; nothing else for sale.
 
@@ -176,18 +179,18 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 **Hours.** First light to after dark; the glow under her door runs well past midnight.
 
 **What it offers.**
-| Selling | Cost | | Services | Cost | Time |
-|---|---|---|---|---|---|
-| Dagger | 2 gp | | Weapon repair (minor / major) | 5 sp / 2 gp | same day / 2 days |
-| Handaxe | 5 gp | | Armour repair (minor / major) | 8 sp / 3–5 gp | 1 day / 3–5 days |
-| Spearhead (unshafted) | 8 sp | | Custom weapon | PHB +25% | 3–7 days |
-| Horseshoes (4) | 2 gp | | Tool repair | 2 sp | same day |
-| Iron tools | 1–5 gp | | Horseshoeing | 5 sp | same day |
-| Fittings, brackets, hinges | 5 sp each | | Iron-shod boots refit | 1 sp | same day |
-| Watertight ration tin | 3 sp | | | | |
-| Chain | 1 sp/ft | | | | |
+| Selling | Cost | Services | Cost | Time |
+|---|---|---|---|---|
+| Dagger | 2 gp | Weapon repair (minor / major) | 5 sp / 2 gp | same day / 2 days |
+| Handaxe | 5 gp | Armour repair (minor / major) | 8 sp / 3–5 gp | 1 day / 3–5 days |
+| Spearhead (unshafted) | 8 sp | Custom weapon | PHB +25% | 3–7 days |
+| Horseshoes (4) | 2 gp | Tool repair | 2 sp | same day |
+| Iron tools | 1–5 gp | Horseshoeing | 5 sp | same day |
+| Fittings, brackets, hinges | 5 sp each | Iron-shod boots refit | 1 sp | same day |
+| Watertight ration tin | 3 sp | | | |
+| Chain | 1 sp/ft | | | |
 
-*Expedition arms and the watch's steel are made at [[The University Forge]] on Forge Row; Bruni's smithy is the village's.*
+*Expedition arms are made at [[The University Forge]] on Forge Row; Bruni's smithy is the village's.*
 
 **Hooks.** She refused the Vogt's commission for an iron chest. The hunters who tracked Dietrich's wolves found something else in the cave above the snowline.
 
@@ -199,7 +202,7 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 
 **Inside.** The millstones; the grain store; the chalk log on the mill wall behind a wooden hatch, every bushel in and out, never once wrong; the hand-querns for the freeze.
 
-**Proprietor.** [[Hanz Korngut]], 68, nearly toothless, enormous hands, a back bent like a wind-worked pine. He knows more about the uplands' old paths, old names, and old dangers than anyone alive, and answers every question with a story that eventually contains the answer.
+**Proprietor.** [[Hanz Korngut]], 68, nearly toothless, enormous hands, a back bent like a wind-worked pine. He knows more about the uplands' old paths, old names, and old dangers than anyone alive, and answers every question with a story that eventually contains the answer. He was a young man in the Silent Years.
 
 **What it offers.**
 | Service | Cost |
@@ -211,7 +214,7 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 | Beeswax (per block; from a beekeeping family) | 8 cp |
 | The uplands paths | Not for sale — but shareable over a flask |
 
-**Hooks.** The grain log shows three months of slightly too much drawn. Hanz was a young man here during the eleven years the chapel records are blank.
+**Hooks.** The grain log shows three months of slightly too much drawn. Hanz is the only one left who knows what happened in the Silent Years.
 
 ---
 
@@ -221,9 +224,9 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 
 **Inside.** One room around a central hearth, sleeping lofts, a back store-room, and the animals through the wall — in deep winter their warmth is not a luxury. The **Big Barn** is the communal stable, festival hall, site of the autumn slaughter, and the shelter for anyone who can't reach the palisade when the Wachturm bell rings.
 
-**Families.** Renner, Brauer, Voigt, Gerold, and the [[Kurt Beckenhaus|Beckenhaus]] household among them. Rye bread, turnips, parsnips, smoked meat, Lake Quag fish brought up the road, and forage. Enough. Most years.
+**Families.** Renner (the Reeve's household, [[Jakob Renner]]), Brauer, Voigt, Gerold, and the [[Kurt Beckenhaus|Beckenhaus]] household among them. Rye bread, turnips, parsnips, smoked meat, Lake Quag fish from the quay, and forage. Enough. Most years.
 
-**Hooks.** A milch cow and a pig dead without cause. The hay didn't dry before the frost. The Voigts mean to leave for the south in spring.
+**Hooks.** A milch cow (the Renners') and a pig (the Brauers') dead without cause. The hay didn't dry before the frost. The Voigts mean to leave for the south in spring.
 
 ### The Beckenhaus Farmstead
 Roughly central, slightly east of the Big Barn. **Gottfried** (≈60) and **Ilse** (≈57), their son [[Kurt Beckenhaus|Kurt]] (≈28) and his wife **Marta-elder** (≈25), and the children **Marta** (6) and **Pieter** (7). Up from Edgerton two years ago after three bad harvests. Little Marta has been sick since midsummer. Kurt leaves through the byre door on moonless nights; Ilse hears it and does not move. On the mantle, behind Pelor's carved sun-disc, a Flan *wundstein*.
@@ -240,7 +243,7 @@ Roughly central, slightly east of the Big Barn. **Gottfried** (≈60) and **Ilse
 
 **Proprietors.** **Grant McCockin** runs the orchard and the cider trade: generous, shrewd, and unapologetic about being both, and the **largest financial supporter of the University's Field Station**. His wife **Winifred Simmons** manages the trade contracts and ledgers. Their daughter is **Bethany McCockin-Simmons**, who grew up hauling crates in these rows.
 
-**What it offers.** **McCockin Cider**, the hamlet's one genuinely valuable export, carried on the Sepia route as far as Verbobonc and the City of Greyhawk. Apples in season. Work at the press from first frost.
+**What it offers.** **McCockin Cider**, the hamlet's one genuinely valuable export, carried south by barge and pack-train as far as Verbobonc and the City of Greyhawk. Apples in season. Work at the press from first frost.
 
 **Hooks.** See the campaign's McCockin Orchard note and its GM note.
 
@@ -248,20 +251,21 @@ Roughly central, slightly east of the Big Barn. **Gottfried** (≈60) and **Ilse
 
 ## 11. The Kettenhaus *(not a building in Ritterstadt)*
 
-The Kettenhaus — *Haus Hanselmann van Traft*, the House of the Chain — is a Perrender lending house seated in **Traft**. It holds the Eisfeld *Schuldbrief* on [[Ritter Konrad von Eisfeld]]. In Ritterstadt it is present only in the person of its assessor, [[Vethkar Graun]], who lodges at an inn. Motto: *Ketten binden beide Enden* — "a chain binds at both ends."
+The Kettenhaus — *Haus Hanselmann van Traft*, the House of the Chain — is a Perrender lending house seated in **Traft**. It holds the Eisfeld *Schuldbrief* on [[Ritter Konrad von Eisfeld]]. In Ritterstadt it is present only in the person of its assessor, [[Vethkar Graun]]. Motto: *Ketten binden beide Enden* — "a chain binds at both ends."
 
 ---
 
 ## Canon Corrections Made in This Directory
 
-Reading the canon notes showed where earlier gazetteer chapters drifted. This directory follows canon; the chapters listed will be corrected to match.
+The directory follows the campaign's building notes. Earlier gazetteer chapters have been corrected to match.
 
-| Earlier chapter said | Canon says | Directory now says |
+| Earlier chapter said | Canon says | Now |
 |---|---|---|
-| Weapon drill at the Guardhouse, 2 sp (RG-04) | The Guardhouse is not open to civilians | Training only at the Drill Yard |
-| Grey Wolf beds 3 sp / 5 sp (RG-04) | Pallet 3 cp; rooms 4 sp / 7 sp | Canon prices |
-| A Market Hill brewer supplies both inns (RG-04, RG-05) | Lotte brews the Grey Wolf's own ale | The brewer supplies the Fiend's Rest only |
-| McCockin orchard brandy (RG-05) | McCockin **Cider**, the town's prime export | Cider |
-| The Wachturm has a lamp in its top window (RG-04) | An iron bell on the roof | The bell |
-| St. Erika's raised in 489 by Erikasrast fisher-families (RG-01) | Built two generations ago by the current Ritter's grandfather | **Flagged for your decision** (see Part 2) |
-| Ritterstadt sits on the lake shore (RG-04) | Lake Quag fish are "traded up the road" | **Flagged for your decision** (see Part 2) |
+| Weapon drill at the Guardhouse | The Guardhouse is not open to civilians | Training only at the Drill Yard (RG-04 corrected) |
+| Grey Wolf beds 3 sp / 5 sp | Pallet 3 cp; rooms 4 sp / 7 sp | Canon prices (RG-04 corrected) |
+| A Market Hill brewer supplies both inns | Lotte brews the Grey Wolf's own ale | Malzer supplies the Fiend's Rest only (RG-05 corrected) |
+| McCockin orchard brandy | McCockin **Cider**, the town's prime export | Cider (RG-05 corrected) |
+| The Wachturm has a lamp in its top window | An iron bell on the roof | The bell (RG-04 corrected) |
+| The Four Founders built the town in 565 | The current Ritter's grandfather built St. Erika's; "the old Ritter held this village" | **Decided:** the von Eisfelds held Ritterstadt from c. 510; the Founders re-founded it in 565 (RG-01 rewritten) |
+| — | Lake fish "traded up the road" | **Decided:** Ritterstadt is a lake port on Lake Quag's shore; the quay is below the palisade |
+| Kurt Beckenhaus, Reeve of Fields | The Beckenhauses arrived two years ago | **Decided:** [[Jakob Renner]] is Reeve (RG-02, RG-03 corrected) |

@@ -9,25 +9,32 @@ aliases: [the Drill Yard]
 
 # The Drill Yard
 
-> A packed-earth square behind the Guardhouse with a pell, a butts, and a shield-wall line painted in whitewash. War Studies practicals and the watch's drill share it.
+> A packed-earth square behind the Guardhouse where the garrison drills at dawn and War Studies students learn to hold a line. The town's only place to train with weapons.
 
-## Description
-*Mud in spring, dust in summer, ice in winter. The pell is hacked to half its width. On the fence someone has carved the names of every student who held the line on 18 Planting.*
+## Outside
+*Mud in spring, dust in summer, ice in winter. A pell hacked to half its width, a turf butts, and a shield-wall line painted in whitewash. On the fence, carved names: every student who held the line on 18 Planting.*
 
-## Who's Here
-[[Garrok Stonebrow]] (Drill-Sergeant) · Senior student Dagmar Brockdottir (his second) · the watch at drill
+## Proprietor
+[[Garrok Stonebrow]], Drill-Sergeant — seven and a half feet of grey-mottled goliath of the Yatil Mountaineer clan, scree-mark tattoos, a practice shield always on his back. Loud on the yard, quiet off it. *"The shield wall holds or the town does not. Again."* Senior student **Dagmar Brockdottir** is his second.
+
+## Hours
+The garrison at dawn; students from the second bell to midday; open practice in the afternoon.
 
 ## What It Offers
-- **Training — Weapons:** weapon drill (also at the Guardhouse with Stahlwulf, 2 sp a session); shield-wall and formation work for War Studies.
-- **Events:** the Scouts' Field Day (Reaping–Harvester).
-- **Missions:** Field Day trouble; the Fencing Club's debts.
+| Training | Who | Cost |
+|---|---|---|
+| Weapon drill | Students; villagers with the Hauptmann's leave | 2 sp a session (free to the enrolled) |
+| Shield-wall and formation work | War Studies & Engineering | part of the curriculum |
+| Field Day | the Scouts & Surveyors and the Fencing Club | each Reaping |
+
+*The Guardhouse itself is not open to civilians; the Drill Yard is where the town trains.*
 
 ## Hooks
 - Field Day ends in a wager the Fencing Club can't pay.
-- A sergeant of the Yatil Mountaineers asks to drill with the students — and watches the eastern gate the whole time.
+- A Yatil Mountaineer sergeant asks to drill with the students and watches the eastern gate the whole time.
 
 > [!danger] DM Eyes Only
 > That sergeant is the Grey Sickle's first man in Ritterstadt.
 
 ## Source
-[[Ritterstadt — Gazetteer (Book)]] — RG-04
+[[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-04a Part 2
