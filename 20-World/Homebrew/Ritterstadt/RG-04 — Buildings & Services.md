@@ -16,29 +16,112 @@ Buildings marked **(canon)** have full notes in the campaign import (`03 Buildin
 
 ## What Each Building Offers
 
-| Building | Run by | Missions | Information | Training | Trade |
-|---|---|---|---|---|---|
-| The Fiend's Rest Public House (canon) | [[Karet]] | **The Job Board** — every University commission; the Map Room back room for briefings | Road rumour; Karet's ear; pack-merchants' news | — | Rooms, ale, the only hot meal after dark |
-| The Grey Wolf (canon) | [[Lotte Kesselring]] | Private hires from townsfolk who won't post on the Board | Village gossip; what the Moot thinks | — | Fair-priced rooms; locals' prices |
-| The Ritter's Hall (canon) | [[Ritter Konrad von Eisfeld]], [[Vogt Ruprecht Ackermann]] | The Ritter's own errands: debt, timber, the eastern gate | Court day; the Vogt's ledgers (with leave) | — | The grain store in a siege |
-| St. Erika's Chapel (canon) | [[Vater Sigmund Wolfherz]] | Burials, the missing, the chapel's own secrets | 87 years of ledgers; Hassenrath's notes (earned) | Medicine, by apprenticeship | Healing (herbal); oaths on the stone |
-| The Guardhouse (canon) | [[Hauptmann Hildegard Stahlwulf]] | Escorts, the empty bunk, the gate rota | Watch reports; who came and went | **Weapon drill** (Stahlwulf, 2 sp a session) | — |
-| The Wachturm (canon) | the watch (above); the University (below) | Expeditions into what's beneath | What the Hush ledger points at | — | — |
-| The Smithy (canon) | [[Brunhilde Hammerschlag]] | Repairs; the coffer she won't open | Who's broke, who's building, who's been fighting | — | Tools, nails, repairs; weapons after 2–4 days |
-| The Mill (canon) | [[Hanz Korngut]] | The grain discrepancy | Old Flan names and paths; the Kammer | — | Flour; the grain log |
-| The Beckenhaus Farmstead · The Farmsteads · The McCockin Orchard (canon) | [[Kurt Beckenhaus]] and others | Stock lost to the Bloom; boundary disputes | Field-edge sightings | — | Grain, mutton, apples, brandy |
-| The Kettenhaus (canon) | the watch | — | Who the Vogt is holding, and what they were doing | — | — | — |
-| **The Station House** (new) | [[Rektor Albrecht Weissmantel]] | University contracts too sensitive for the Board; Regents' errands | The Warden's correspondence | — | Credits paid out; grants assessed |
-| **The Archive** (new) | [[Saelithan Verenwyr]], Archivist | Lost documents; the Hassenrath problem | Maps, field reports, Publications, the sealed stacks | **Research** (see RG-08) | Fair copies, map copies |
-| **The Long Dormitory** (new) | Proctor [[Mathias Grell]] | Student trouble; the Ramblers; the gate rota | What students saw in the field | — | A bunk, for the enrolled |
-| **The Assay House** (new) | [[Brunna Deepdelve]] | Ore and relic appraisal; the Consortium's claims | What came out of the ground and where | **Appraisal & Provenance** lectures held here | Assay for a fee; Bloom crystals logged |
-| **The University Forge** (new) | [[Hogar Irongrip]] | Clan Irongrip's unspoken business | Dwarf-hold politics (never ask) | **Smithing**, for Forge Row only | Expedition arms and armour; repairs at cost for the enrolled |
-| **The Drill Yard** (new) | [[Garrok Stonebrow]], goliath drill-sergeant | The Scouts' Field Day | — | **War Studies** practicals; weapons and shield-wall drill | — |
-| **The Infirmary** (new, a wing of St. Erika's) | [[Doktor Agathe Sauerbrunn]] | Plague-rumour, poison, the Bloom-sick | Who came back hurt and how | **Medicine & Herbalism** | Healing, potions at cost to the enrolled |
-| **The Landing** (new) | [[Baba Yeska Marovna]] | Lake crossings; what the barges carry at night | Lake news; Traft prices | — | Fish, salt, passage; tolls |
-| **Market Hill** (new) | [[Mathilde Tauber]] | Fair-day trouble | Everything, on market day | — | Cloth, salt, candles, leather, bread, ale |
-| **The Burrows** (new) | [[Nessa Quillfeather]] | Prospecting claims in the eastern valleys | Mineral geography; the Seam-Finders' charts | **Instruments** (Pim Wobblewright) | Compasses, bog-sounders, lamp-oil |
-| **The Larch Camp** (new, outside the east gate) | [[Caelith of the Larch]] | The Hush; the forest edge; the Vesve road | What moves at the tree line | **Archery** and woodcraft, for a price in grain | Bow-staves, never arrows |
+**The Fiend's Rest Public House** (canon) — run by [[Karet]]
+- **Missions:** **The Job Board** — every University commission; the Map Room back room for briefings
+- **Information:** Road rumour; Karet's ear; pack-merchants' news
+- **Trade:** Rooms, ale, the only hot meal after dark
+
+**The Grey Wolf** (canon) — run by [[Lotte Kesselring]]
+- **Missions:** Private hires from townsfolk who won't post on the Board
+- **Information:** Village gossip; what the Moot thinks
+- **Trade:** Fair-priced rooms; locals' prices
+
+**The Ritter's Hall** (canon) — run by [[Ritter Konrad von Eisfeld]], [[Vogt Ruprecht Ackermann]]
+- **Missions:** The Ritter's own errands: debt, timber, the eastern gate
+- **Information:** Court day; the Vogt's ledgers (with leave)
+- **Trade:** The grain store in a siege
+
+**St. Erika's Chapel** (canon) — run by [[Vater Sigmund Wolfherz]]
+- **Missions:** Burials, the missing, the chapel's own secrets
+- **Information:** 87 years of ledgers; Hassenrath's notes (earned)
+- **Training:** Medicine, by apprenticeship
+- **Trade:** Healing (herbal); oaths on the stone
+
+**The Guardhouse** (canon) — run by [[Hauptmann Hildegard Stahlwulf]]
+- **Missions:** Escorts, the empty bunk, the gate rota
+- **Information:** Watch reports; who came and went
+- **Training:** **Weapon drill** (Stahlwulf, 2 sp a session)
+
+**The Wachturm** (canon) — run by the watch (above); the University (below)
+- **Missions:** Expeditions into what's beneath
+- **Information:** What the Hush ledger points at
+
+**The Smithy** (canon) — run by [[Brunhilde Hammerschlag]]
+- **Missions:** Repairs; the coffer she won't open
+- **Information:** Who's broke, who's building, who's been fighting
+- **Trade:** Tools, nails, repairs; weapons after 2–4 days
+
+**The Mill** (canon) — run by [[Hanz Korngut]]
+- **Missions:** The grain discrepancy
+- **Information:** Old Flan names and paths; the Kammer
+- **Trade:** Flour; the grain log
+
+**The Beckenhaus Farmstead · The Farmsteads · The McCockin Orchard** (canon) — run by [[Kurt Beckenhaus]] and others
+- **Missions:** Stock lost to the Bloom; boundary disputes
+- **Information:** Field-edge sightings
+- **Trade:** Grain, mutton, apples, brandy
+
+**The Kettenhaus** (canon) — run by the watch
+- **Information:** Who the Vogt is holding, and what they were doing — |
+**The Station House** (new) — run by [[Rektor Albrecht Weissmantel]]
+- **Missions:** University contracts too sensitive for the Board; Regents' errands
+- **Information:** The Warden's correspondence
+- **Trade:** Credits paid out; grants assessed
+
+**The Archive** (new) — run by [[Saelithan Verenwyr]], Archivist
+- **Missions:** Lost documents; the Hassenrath problem
+- **Information:** Maps, field reports, Publications, the sealed stacks
+- **Training:** **Research** (see RG-08)
+- **Trade:** Fair copies, map copies
+
+**The Long Dormitory** (new) — run by Proctor [[Mathias Grell]]
+- **Missions:** Student trouble; the Ramblers; the gate rota
+- **Information:** What students saw in the field
+- **Trade:** A bunk, for the enrolled
+
+**The Assay House** (new) — run by [[Brunna Deepdelve]]
+- **Missions:** Ore and relic appraisal; the Consortium's claims
+- **Information:** What came out of the ground and where
+- **Training:** **Appraisal & Provenance** lectures held here
+- **Trade:** Assay for a fee; Bloom crystals logged
+
+**The University Forge** (new) — run by [[Hogar Irongrip]]
+- **Missions:** Clan Irongrip's unspoken business
+- **Information:** Dwarf-hold politics (never ask)
+- **Training:** **Smithing**, for Forge Row only
+- **Trade:** Expedition arms and armour; repairs at cost for the enrolled
+
+**The Drill Yard** (new) — run by [[Garrok Stonebrow]], goliath drill-sergeant
+- **Missions:** The Scouts' Field Day
+- **Training:** **War Studies** practicals; weapons and shield-wall drill
+
+**The Infirmary** (new, a wing of St. Erika's) — run by [[Doktor Agathe Sauerbrunn]]
+- **Missions:** Plague-rumour, poison, the Bloom-sick
+- **Information:** Who came back hurt and how
+- **Training:** **Medicine & Herbalism**
+- **Trade:** Healing, potions at cost to the enrolled
+
+**The Landing** (new) — run by [[Baba Yeska Marovna]]
+- **Missions:** Lake crossings; what the barges carry at night
+- **Information:** Lake news; Traft prices
+- **Trade:** Fish, salt, passage; tolls
+
+**Market Hill** (new) — run by [[Mathilde Tauber]]
+- **Missions:** Fair-day trouble
+- **Information:** Everything, on market day
+- **Trade:** Cloth, salt, candles, leather, bread, ale
+
+**The Burrows** (new) — run by [[Nessa Quillfeather]]
+- **Missions:** Prospecting claims in the eastern valleys
+- **Information:** Mineral geography; the Seam-Finders' charts
+- **Training:** **Instruments** (Pim Wobblewright)
+- **Trade:** Compasses, bog-sounders, lamp-oil
+
+**The Larch Camp** (new, outside the east gate) — run by [[Caelith of the Larch]]
+- **Missions:** The Hush; the forest edge; the Vesve road
+- **Information:** What moves at the tree line
+- **Training:** **Archery** and woodcraft, for a price in grain
+- **Trade:** Bow-staves, never arrows
 
 ## The New Buildings
 
