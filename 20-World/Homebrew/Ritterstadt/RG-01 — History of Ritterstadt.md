@@ -22,7 +22,7 @@ Ritterstadt has two birthdays, and the town celebrates only one of them. The fou
 
 ## The Founding (player-safe)
 
-**565 CY — The Trek.** Four people leave Eru Tovar and strike north through the Quag Mire margin to the ruins of Cold Stone Keep. They come back to the thin hamlet after their failed attempt at recovering the **Fiend's Embrace**, an ancient demonic artifact, and building the town as a station for the Knights of the Hart against the dangers of the Uplands and the forces of Iuz while keeping watch on the distant Burneal Forest where their former companion, Eglantine.
+**565 CY — The Trek.** Four people leave Eru Tovar and strike north through the Quag Mire margin to the ruins of Cold Stone Keep. They come back to the thin hamlet after their failed attempt at recovering the **Fiend's Embrace**, an ancient demonic artifact, and building the town as a station for the Knights of the Hart against the dangers of the Uplands and the forces of Iuz while keeping watch on the distant Burneal Forest where their former companion, Eglantine, now is rumored to reside after stealing the Fiend's Embrace in a act of betrayal against her quest mates.
 
 The Four Founders:
 - **Ritter Edmund von Eisfeld** — a Perrender knight-errant with a cantonal land-grant he had never used. He gives the town his name and his line.
