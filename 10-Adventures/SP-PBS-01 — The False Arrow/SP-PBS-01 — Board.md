@@ -50,7 +50,7 @@ publish: false
 
 - [x] Manifest in [[00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file
 - [ ] Longform compile run; output saved as `SP-PBS-01 — Compiled.md`
-- [ ] Battlemaps (DM + Player) in `99-Assets/SP-PBS-01/`; Map Assets note written
+- [x] Battlemaps (DM + Player) in `99-Assets/SP-PBS-01/`; Map Assets note written
 - [x] Art brief / Midjourney prompt pack written
 - [x] Title block and cover art done
 - [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported
