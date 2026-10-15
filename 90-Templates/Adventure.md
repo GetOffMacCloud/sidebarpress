@@ -1,6 +1,9 @@
 ---
 type: adventure
-code: "A00"
+adventure: "SP-PBS-NN"
+section: overview
+publish_order: 10
+publish: true
 title: ""
 status: draft # draft | playtesting | editing | published
 levels: "1-3"
@@ -8,6 +11,8 @@ party_size: "4-5"
 estimated_hours: 4
 setting: Greyhawk
 region: ""
+in_world_date: "576 CY"
+created:
 fg_module: ""
 tags: []
 ---
@@ -17,7 +22,7 @@ tags: []
 > One-paragraph pitch. What is this adventure, and why should a DM run it?
 
 ## Adventure Code
-`A00` — never reuse codes, even for scrapped adventures.
+`SP-PBS-NN` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
 
 ## Background
 What happened before the PCs arrive. Keep canon facts linked, homebrew marked.
@@ -70,7 +75,14 @@ Deviations:
 ## Playtest Notes
 Link session logs: [[Session Log]]
 
+## Supporting Files
+- [[00 — Scene Index]] — manifest and Longform project
+- [[SP-PBS-NN — Board]] — definition of done
+- [[SP-PBS-NN — Bestiary]]
+- [[SP-PBS-NN — <Mechanic>]]
+- [[SP-PBS-NN — Handout — <Title>]]
+
 ## Publishing
 - [ ] Editing pass complete
 - [ ] Layout/art brief written
-- [ ] Listed in [[Release Tracker]]
+- [ ] Listed in [[Release-Tracker]]

@@ -42,6 +42,8 @@ SORT publish_order ASC
 
 **Scene status ladder:** `outline` → `drafted` → `edited` → `final`. The adventure cannot move to *Package* on its board until every shipping scene is `final`.
 
+## Run Sheet
+
 Back to [[SP-PBS-02-The-Bones-of-the-Dreadverge]] · Mechanics: [[SP-PBS-02 — The Howl and the Rite]] · Statblocks: [[SP-PBS-02 — Bestiary]]
 
 | # | Scene | Act | Budget | Core output |

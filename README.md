@@ -16,7 +16,7 @@ The Obsidian vault for **Sidebar Press, LLC** — adventure writing for D&D 2014
 | `60-Continuity` | The connective tissue: plot threads, timeline, dangling hooks. |
 | `70-Company` | Publishing checklists, release tracker, style guide. |
 | `80-Sessions` | Actual-play logs from your table, used to validate adventures. |
-| `90-Templates` | Templater-ready note templates. Don't edit notes here, copy from them. |
+| `90-Templates` | Note templates (Adventure, Scene, Scene-Index, Adventure-Board, NPC, Location, Item, Lore, Plot-Thread, Session-Log). Copy, don't edit. |
 | `99-Assets` | Maps, handouts, art. Subfolder per adventure code. |
 
 ## Core Rules
@@ -37,5 +37,16 @@ The Obsidian vault for **Sidebar Press, LLC** — adventure writing for D&D 2014
 - **Assets:** `99-Assets/SP-PBS-NN/`, with files prefixed `SP-PBS-NN - `.
 - **NPCs / Locations / Items:** natural names, e.g. `Mordenkainen.md`, `Greyhawk-City.md`.
 - **Canon lore:** topic-based, e.g. `The-Greyhawk-Wars.md`.
+
+## How an Adventure Is Built
+
+Pieces first, one book at the end. See [[Build-Pipeline]] for the full procedure.
+
+1. **Frame** — copy [[90-Templates/Adventure]], [[90-Templates/Scene-Index]] and [[90-Templates/Adventure-Board]] into the new folder; replace `SP-PBS-NN`.
+2. **Write** — one note per scene from [[90-Templates/Scene]]; NPCs, locations and items get their own notes outside the adventure folder.
+3. **Track** — the adventure's `Board` note is the definition of done (Frame → Write → Edit → Package → Release). The [[Pipeline-Dashboard]] shows every adventure at once.
+4. **Assemble** — the Scene Index is the **manifest** (`section` + `publish_order` + `publish` on every file) and the **Longform project**. Compile scenes with Longform, paste overview and appendices around them in manifest order.
+
+Plugins are kept to the minimum that serves this flow; see [[Plugin-Policy]].
 
 > The earlier `A01-The-Sunken-Crypt.md` pattern is retired. The `A00-Sample.md` note and the template placeholders still show it; read `A00`/`A01` there as `SP-PBS-NN`.

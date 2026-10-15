@@ -1,6 +1,9 @@
 ---
 type: adventure
-code: "A00"
+adventure: "A00"
+section: internal
+publish_order: 0
+publish: false
 title: "Sample — How This Template Works"
 status: draft
 levels: "1-3"
