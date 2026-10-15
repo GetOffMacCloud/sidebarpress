@@ -1,6 +1,6 @@
 ---
 type: scene-index
-adventure: "SP-PBS-02"
+adventure: SP-PBS-02
 section: internal
 publish_order: 0
 publish: false
@@ -10,11 +10,8 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Scene 01 — Dusk at the Pound
-    - Scene 02 — Counting the Missing
     - Scene 03 — Crossing the Dreadverge
     - Scene 04 — The Cutters' Camp
-    - Scene 05 — The Three Sisters
   ignoredFiles:
     - 00 — Scene Index
 ---

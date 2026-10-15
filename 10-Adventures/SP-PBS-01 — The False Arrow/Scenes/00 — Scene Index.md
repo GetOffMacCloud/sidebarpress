@@ -1,6 +1,6 @@
 ---
 type: scene-index
-adventure: "SP-PBS-01"
+adventure: SP-PBS-01
 section: internal
 publish_order: 0
 publish: false
@@ -10,14 +10,11 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Scene 00 — Greyhawk University
     - Scene 01 — The High Pass
-    - Scene 02 — The Cold Welcome
     - Scene 03 — Trial of the Horse
     - Scene 04 — Trial of the Bow
     - Scene 05 — Night in Yecha
     - Scene 06 — Trial of the Fire
-    - Scene 07 — The War Council
   ignoredFiles:
     - 00 — Scene Index
 ---

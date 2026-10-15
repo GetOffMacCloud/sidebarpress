@@ -1,6 +1,6 @@
 ---
 type: scene-index
-adventure: "SP-PBS-NN"
+adventure: SP-PBS-NN
 section: internal
 publish_order: 0
 publish: false
@@ -9,8 +9,7 @@ longform:
   title: "{{title}}"
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Scene 01 — Title
+  scenes: []
   ignoredFiles:
     - 00 — Scene Index
 ---

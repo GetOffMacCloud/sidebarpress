@@ -7,29 +7,23 @@
   "sessions": [
     {
       "start": "2026-10-15T06:17:22.725Z",
-      "total": 6653,
+      "total": 2067,
       "drafts": {
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
           "total": 0,
           "scenes": {
-            "Scene 00 — Greyhawk University": 0,
             "Scene 01 — The High Pass": 0,
-            "Scene 02 — The Cold Welcome": 0,
             "Scene 03 — Trial of the Horse": 0,
             "Scene 04 — Trial of the Bow": 0,
             "Scene 05 — Night in Yecha": 0,
-            "Scene 06 — Trial of the Fire": 0,
-            "Scene 07 — The War Council": 0
+            "Scene 06 — Trial of the Fire": 0
           }
         },
         "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
-          "total": 6653,
+          "total": 2067,
           "scenes": {
-            "Scene 01 — Dusk at the Pound": 1187,
-            "Scene 02 — Counting the Missing": 1480,
             "Scene 03 — Crossing the Dreadverge": 1233,
-            "Scene 04 — The Cutters' Camp": 834,
-            "Scene 05 — The Three Sisters": 1919
+            "Scene 04 — The Cutters' Camp": 834
           }
         },
         "90-Templates/Scene-Index.md": {
