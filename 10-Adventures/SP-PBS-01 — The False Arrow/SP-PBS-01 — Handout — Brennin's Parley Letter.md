@@ -1,6 +1,9 @@
 ---
 type: handout
 adventure: "SP-PBS-01"
+section: appendix-handouts
+publish_order: 220
+publish: true
 handout: 1
 shareable: true
 given_in: "Scene 01 — The High Pass"

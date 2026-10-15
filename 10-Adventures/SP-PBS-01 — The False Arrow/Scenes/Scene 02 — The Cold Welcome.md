@@ -1,9 +1,12 @@
 ---
 type: scene
-adventure_num: "SP-PBS-01"
+adventure: "SP-PBS-01"
+section: act-1
+publish_order: 120
 scene: 2
 session: 1
-publish: false
+publish: true
+status: drafted
 ---
 
 # Scene 02 — The Cold Welcome

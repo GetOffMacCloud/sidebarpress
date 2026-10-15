@@ -1,7 +1,9 @@
 ---
 type: adventure-mechanic
 adventure: "SP-PBS-02"
-publish: false
+section: appendix-mechanics
+publish_order: 200
+publish: true
 tags: [mechanic, tracker]
 ---
 

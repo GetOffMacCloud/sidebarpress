@@ -1,6 +1,9 @@
 ---
 type: art-brief
 adventure: "SP-PBS-02"
+section: internal
+publish_order: 0
+publish: false
 midjourney_version: "8.1"
 seed: 5760
 prompt_count: 34

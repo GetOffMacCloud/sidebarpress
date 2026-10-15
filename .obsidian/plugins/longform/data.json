@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": null,
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2026-10-15T06:17:22.725Z",
+      "total": 6653,
+      "drafts": {
+        "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — Greyhawk University": 0,
+            "Scene 01 — The High Pass": 0,
+            "Scene 02 — The Cold Welcome": 0,
+            "Scene 03 — Trial of the Horse": 0,
+            "Scene 04 — Trial of the Bow": 0,
+            "Scene 05 — Night in Yecha": 0,
+            "Scene 06 — Trial of the Fire": 0,
+            "Scene 07 — The War Council": 0
+          }
+        },
+        "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
+          "total": 6653,
+          "scenes": {
+            "Scene 01 — Dusk at the Pound": 1187,
+            "Scene 02 — Counting the Missing": 1480,
+            "Scene 03 — Crossing the Dreadverge": 1233,
+            "Scene 04 — The Cutters' Camp": 834,
+            "Scene 05 — The Three Sisters": 1919
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

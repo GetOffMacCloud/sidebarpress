@@ -1,6 +1,9 @@
 ---
 type: adventure
-code: "SP-PBS-02"
+adventure: "SP-PBS-02"
+section: overview
+publish_order: 10
+publish: true
 title: "The Bones of the Dreadverge"
 status: draft # draft | playtesting | editing | published
 levels: "1-4"

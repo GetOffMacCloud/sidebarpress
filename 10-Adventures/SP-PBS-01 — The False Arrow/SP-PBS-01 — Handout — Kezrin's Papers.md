@@ -1,6 +1,9 @@
 ---
 type: handout
 adventure: "SP-PBS-01"
+section: appendix-handouts
+publish_order: 222
+publish: true
 handout: 3
 shareable: true
 given_in: "Scene 07 — The War Council (if recovered)"

@@ -1,9 +1,12 @@
 ---
 type: scene
-adventure_num: "SP-PBS-01"
+adventure: "SP-PBS-01"
+section: act-2
+publish_order: 140
 scene: 4
 session: 1
-publish: false
+publish: true
+status: drafted
 ---
 
 # Scene 04 — Trial of the Bow

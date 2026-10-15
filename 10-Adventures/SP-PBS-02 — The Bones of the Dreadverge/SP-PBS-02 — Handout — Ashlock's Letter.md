@@ -1,6 +1,9 @@
 ---
 type: handout
 adventure: "SP-PBS-02"
+section: appendix-handouts
+publish_order: 220
+publish: true
 player_facing: true
 tags: [handout]
 ---

@@ -1,7 +1,9 @@
 ---
 type: bestiary
 adventure: "SP-PBS-02"
-publish: false
+section: appendix-bestiary
+publish_order: 210
+publish: true
 tags: [bestiary, statblocks, 2014-5e]
 ---
 

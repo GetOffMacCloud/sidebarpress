@@ -1,9 +1,12 @@
 ---
 type: scene
-adventure_num: "SP-PBS-01"
+adventure: "SP-PBS-01"
+section: act-2
+publish_order: 160
 scene: 6
 session: 1
-publish: false
+publish: true
+status: drafted
 ---
 
 # Scene 06 — Trial of the Fire

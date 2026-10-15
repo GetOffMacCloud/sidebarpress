@@ -1,10 +1,49 @@
 ---
 type: scene-index
 adventure: "SP-PBS-01"
+section: internal
+publish_order: 0
 publish: false
+longform:
+  format: scenes
+  title: The False Arrow
+  workflow: Default Workflow
+  sceneFolder: /
+  scenes:
+    - Scene 00 — Greyhawk University
+    - Scene 01 — The High Pass
+    - Scene 02 — The Cold Welcome
+    - Scene 03 — Trial of the Horse
+    - Scene 04 — Trial of the Bow
+    - Scene 05 — Night in Yecha
+    - Scene 06 — Trial of the Fire
+    - Scene 07 — The War Council
+  ignoredFiles:
+    - 00 — Scene Index
 ---
-
 # Scene Index — The False Arrow
+
+> [!info] This note is the **build manifest** for `SP-PBS-01` and the **Longform project index** (the `longform:` block in the frontmatter). The Dataview table below is the canonical paste order for the compiled book. To reorder, change `publish_order` in the file's frontmatter; to drop a file from the book, set `publish: false`.
+
+## Build Manifest
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "File",
+  section AS "Section",
+  publish_order AS "Order",
+  default(status, "—") AS "Status",
+  choice(publish, "✅", "—") AS "Ships"
+FROM "10-Adventures/SP-PBS-01 — The False Arrow" OR "99-Assets/SP-PBS-01"
+WHERE adventure = "SP-PBS-01" AND publish_order > 0
+SORT publish_order ASC
+```
+
+**Sections, in order:** `overview` (main note, with internal checklists stripped) → `act-1` → `act-2` → `act-3` → `appendix-mechanics` → `appendix-bestiary` → `appendix-handouts` → `appendix-maps`. Files tagged `internal` never ship.
+
+**Compile:** Longform → *Compile* on this project produces the scene prose (acts 1–3). The overview and appendices are pasted around it in manifest order. See [[Build-Pipeline]] for the full procedure and the strip list.
+
+**Scene status ladder:** `outline` → `drafted` → `edited` → `final`. The adventure cannot move to *Package* on its board until every shipping scene is `final`.
 
 Back to [[SP-PBS-01-The-False-Arrow]] · Mechanics: [[SP-PBS-01 — The Favor Tracker]] · Statblocks: [[SP-PBS-01 — Bestiary]]
 

@@ -1,9 +1,12 @@
 ---
 type: scene
-adventure_num: "SP-PBS-02"
+adventure: "SP-PBS-02"
+section: act-3
+publish_order: 150
 scene: 5
 session: 1
-publish: false
+publish: true
+status: drafted
 ---
 
 # Scene 05 — The Three Sisters

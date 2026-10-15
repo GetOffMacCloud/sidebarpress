@@ -1,6 +1,9 @@
 ---
 type: adventure
-code: "SP-PBS-01"
+adventure: "SP-PBS-01"
+section: overview
+publish_order: 10
+publish: true
 title: "The False Arrow"
 series: "The Plains of Blood and Steel"
 part: 1

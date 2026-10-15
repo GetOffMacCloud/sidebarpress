@@ -1,9 +1,12 @@
 ---
 type: scene
-adventure_num: "SP-PBS-01"
+adventure: "SP-PBS-01"
+section: act-3
+publish_order: 170
 scene: 7
 session: 1
-publish: false
+publish: true
+status: drafted
 ---
 
 # Scene 07 — The War Council

@@ -1,9 +1,12 @@
 ---
 type: scene
-adventure_num: "SP-PBS-02"
+adventure: "SP-PBS-02"
+section: act-2
+publish_order: 130
 scene: 3
 session: 1
-publish: false
+publish: true
+status: drafted
 ---
 
 # Scene 03 — Crossing the Dreadverge

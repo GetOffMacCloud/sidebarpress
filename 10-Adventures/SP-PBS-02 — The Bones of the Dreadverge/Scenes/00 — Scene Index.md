@@ -1,10 +1,46 @@
 ---
 type: scene-index
 adventure: "SP-PBS-02"
+section: internal
+publish_order: 0
 publish: false
+longform:
+  format: scenes
+  title: The Bones of the Dreadverge
+  workflow: Default Workflow
+  sceneFolder: /
+  scenes:
+    - Scene 01 — Dusk at the Pound
+    - Scene 02 — Counting the Missing
+    - Scene 03 — Crossing the Dreadverge
+    - Scene 04 — The Cutters' Camp
+    - Scene 05 — The Three Sisters
+  ignoredFiles:
+    - 00 — Scene Index
 ---
-
 # Scene Index — The Bones of the Dreadverge
+
+> [!info] This note is the **build manifest** for `SP-PBS-02` and the **Longform project index** (the `longform:` block in the frontmatter). The Dataview table below is the canonical paste order for the compiled book. To reorder, change `publish_order` in the file's frontmatter; to drop a file from the book, set `publish: false`.
+
+## Build Manifest
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "File",
+  section AS "Section",
+  publish_order AS "Order",
+  default(status, "—") AS "Status",
+  choice(publish, "✅", "—") AS "Ships"
+FROM "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge" OR "99-Assets/SP-PBS-02"
+WHERE adventure = "SP-PBS-02" AND publish_order > 0
+SORT publish_order ASC
+```
+
+**Sections, in order:** `overview` (main note, with internal checklists stripped) → `act-1` → `act-2` → `act-3` → `appendix-mechanics` → `appendix-bestiary` → `appendix-handouts` → `appendix-maps`. Files tagged `internal` never ship.
+
+**Compile:** Longform → *Compile* on this project produces the scene prose (acts 1–3). The overview and appendices are pasted around it in manifest order. See [[Build-Pipeline]] for the full procedure and the strip list.
+
+**Scene status ladder:** `outline` → `drafted` → `edited` → `final`. The adventure cannot move to *Package* on its board until every shipping scene is `final`.
 
 Back to [[SP-PBS-02-The-Bones-of-the-Dreadverge]] · Mechanics: [[SP-PBS-02 — The Howl and the Rite]] · Statblocks: [[SP-PBS-02 — Bestiary]]
 

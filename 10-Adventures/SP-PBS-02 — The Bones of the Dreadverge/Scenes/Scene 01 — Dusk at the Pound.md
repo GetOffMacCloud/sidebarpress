@@ -1,9 +1,12 @@
 ---
 type: scene
-adventure_num: "SP-PBS-02"
+adventure: "SP-PBS-02"
+section: act-1
+publish_order: 110
 scene: 1
 session: 1
-publish: false
+publish: true
+status: drafted
 ---
 
 # Scene 01 — Dusk at the Pound

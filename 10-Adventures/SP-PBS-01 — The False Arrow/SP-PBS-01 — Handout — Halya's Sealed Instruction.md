@@ -1,6 +1,9 @@
 ---
 type: handout
 adventure: "SP-PBS-01"
+section: appendix-handouts
+publish_order: 221
+publish: true
 handout: 2
 shareable: true
 share_to: "the PC holding the letter only"

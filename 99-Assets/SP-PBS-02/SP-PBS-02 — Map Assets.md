@@ -1,6 +1,9 @@
 ---
 type: asset-index
 adventure: "SP-PBS-02"
+section: appendix-maps
+publish_order: 230
+publish: true
 ---
 
 # SP-PBS-02 — Map Assets
