@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-15T06:17:22.725Z",
-      "total": 2067,
+      "total": 0,
       "drafts": {
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
           "total": 0,
@@ -29,6 +29,13 @@
         "90-Templates/Scene-Index.md": {
           "total": 0,
           "scenes": {}
+        },
+        "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index (1).md": {
+          "total": 0,
+          "scenes": {
+            "Scene 03 — Crossing the Dreadverge": 0,
+            "Scene 04 — The Cutters' Camp": 0
+          }
         }
       }
     }
