@@ -23,6 +23,7 @@ Courteous and unbothered. He speaks of people as prices. He never raises his voi
 - **Wants:** the Eisfeld timber rights. The [[The Kettenhaus|Kettenhaus]] has invited his firm to bid "should the instrument mature," and he means to be ready.
 - **Fears:** that the Hundred's swords or coin keep the Schuldbrief from foreclosing.
 - **Method:** he hired **Rudi Brack** to bait Konrad and **Little Fenna** to lift the Soldbrief. Both are in his tally-book.
+- **Escalation:** he hires the bait, orders the theft, and burns the Soldbrief. Cornered, he talks and offers 50 marks. He surrenders to the patrol rather than fight.
 - **The Kettenhaus is not party to any of this.** Its letter to him is ordinary business.
 
 ## Stat Block

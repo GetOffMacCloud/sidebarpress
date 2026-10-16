@@ -22,6 +22,7 @@ Precise and dignified, with no small talk. She says "the company" rather than "I
 ## Goals & Secrets
 - **Wants:** the 480 breach answered before the Council of Hetmen's winter review, so the rival company's petition fails.
 - **Believes:** the company's own record that it broke its contract. She brings "the banner we failed" to return it.
+- **Escalation:** she proceeds whatever happens. If Jost blocks her, she orders him out (he won't go). If the Soldbrief is lost, she asks the party to recover it, because she cannot leave the clerk. If steel is drawn, she voids the meeting and offers a dawn meeting at the chapter-house.
 - **Does not know:** the truth. Kammerer's release-copy lies in the company chest under a seal she has never had cause to break.
 
 ## Stat Block

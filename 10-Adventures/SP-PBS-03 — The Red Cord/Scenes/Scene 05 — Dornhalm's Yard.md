@@ -63,6 +63,7 @@ Statblocks: [[SP-PBS-03 — Bestiary]]. **[[Ulrich Dornhalm]]** (noble, noncomba
 
 ## Alternates & Re-hooks
 - **The party negotiates.** The hirelings will sell the case back for 20 marks and a head start. Dornhalm will not.
+- **The party is beaten.** The hirelings don't kill. They dump the PCs in the river shallows and leave. The Soldbrief burns (see below). Dornhalm is named only if the party comes back with the patrol, which is Ending E in the main note.
 - **The Soldbrief burns.** Ilse can still swear on the company's copy, but it takes a Bell segment to fetch it from the chapter-house.
 
 ## Transition

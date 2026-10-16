@@ -64,6 +64,7 @@ Three-clue rule: each conclusion has at least three routes.
 - [ ] The cutpurse moves the moment Rudi throws the first punch (S4)
 - [ ] The trail leads to Dornhalm's Yard, not to the Hundred's chapter-house (S5)
 - [ ] Dornhalm's tally-book lists "Brack — 10 marks — the Ritter's cord" (S5)
+- **Last resort:** if nobody has connected it by the yard, the dock sergeant arrives with Fenna in hand. She was caught running with the case, and she names Dornhalm on the spot.
 
 **The Hundred did not break its contract**
 - [ ] The "torn" banner in the Hall has a clean, straight cut (S1, Investigation DC 10 or just looking closely)
@@ -72,11 +73,13 @@ Three-clue rule: each conclusion has at least three routes.
 - [ ] Ilse's relic, "the banner we failed," is the other half (S3/S6)
 - [ ] Jost: "Some debts are paid by saying nothing. Mine is." (S3)
 - [ ] The halved-standard custom (History DC 13, Falk in S1, or Korporal Mattis of the Ernes if asked in S3)
+- **Last resort:** at the last quarter-bell, Mutter Ilka tells the whole room her grandmother's story and asks Konrad to lay his colours beside Ilse's. The cut does the rest.
 
 **The amends needs the Soldbrief, and the Soldbrief needs the bell**
 - [ ] Ilse explains the ceremony when the party sits down (S3)
 - [ ] The Council's clerk taps the bell-glass on his table (S3)
 - [ ] Ilka: "Clerk goes home at the bell. Always has." (S3)
+- **Last resort:** the clerk says it himself when the Soldbrief goes missing: *"Midnight, sirs. Then I go home."*
 
 ## Prose Checklist (applies to all scenes)
 - [ ] Every read-aloud ≤100 words, one paragraph, subject and verb early

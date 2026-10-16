@@ -22,6 +22,7 @@ Taciturn and stubborn. He drinks with soldiers, not officers. When he cannot ans
 ## Goals & Secrets
 - **Wants:** to keep the company from swearing to a guilt he knows is false, without breaking his grandfather's oath.
 - **Secret:** he holds Hauptmann Lorenz Kammerer's daybook, which records Ritter Wolfram von Eisfeld's written release, the halved standard, and the oath of silence "until the head of my house releases you."
+- **Escalation:** first silent refusal, then his one line, then a challenge under Kord. If the oath is forced through anyway, he walks out of the company that night.
 - **Released by:** Konrad speaking the words, the two half-standards matched (the proof speaks so he doesn't have to), or a lost bout under Kord.
 
 ## Stat Block

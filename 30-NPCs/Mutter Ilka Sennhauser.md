@@ -22,6 +22,7 @@ Dry and watchful. She sees everything that happens at the door and says nothing 
 ## Goals & Secrets
 - **Wants:** the peace of her house kept.
 - **Knows:** her grandmother came out of the southern valley on the Kalte Klamm road in 480 and always said *"the Ritter sent them to us."*
+- **Escalation:** she watches, and tells what she saw when asked. Her bouncers end any brawl at the end of round 3. She throws a cord-cutter into the lake herself.
 - **Knows:** she has never seen Rudi Brack with a company, and he pays in new coin.
 
 ## Stat Block

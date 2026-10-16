@@ -19,6 +19,8 @@ tags: [one-shot, social, intrigue, urban, brawl, perrenland, schwartzenbruin, ri
 
 # The Red Cord
 
+**APL 2–3 (levels 1–4) · 4–5 characters · one 2-hour session**
+
 > *In the mercenary taverns of Schwartzenbruin, every blade is tied into its sheath with a red cord at the door. Cut your cord and draw, and every company in the room becomes your enemy. Tonight, Perrenland's oldest free company will apologise to Ritter Konrad von Eisfeld for a contract it broke ninety-six years ago, and somebody in the room needs that apology to fail.*
 >
 > A Social / Intrigue / Urban one-shot for **average party level 1–4** (written for APL 2–3, with scaling tables for 1 and 4). Greyhawk University students cross Lake Quag with Ritterstadt's lord to serve as the scholars' witness at a sworn amends. They have to keep a proud man's hand off his sword, win back a stolen contract before the midnight bell, and learn what really happened the night the Witch came. The story is complete in one sitting: it opens no threads and leaves none dangling.
@@ -48,7 +50,12 @@ tags: [one-shot, social, intrigue, urban, brawl, perrenland, schwartzenbruin, ri
 - **Money.** Perrenders count in **marks** (gp) and **kleinmarks** (sp). NPCs say "marks."
 - **The patrol.** Schwartzenbruin is open to strangers and watches them closely. The border patrol writes down every answer and compares it with the next one.
 
-## Background (the hidden truth)
+## What the Locals Know
+- **In Ritterstadt:** the von Eisfelds came north because the Witch burned their old seat in the south, and the Hundred ran and left Ritter Wolfram on his wall. The half-banner in the Hall is "the torn one." Nobody asks Konrad about it.
+- **In Schwartzenbruin's hiring halls:** the Hundred carries an old unanswered breach. A rival company has petitioned to strike it from the charter-roll this winter. Gossip says the Hundred means to "buy off the Eisfeld debt" with swords or coin.
+- **Among Kalte Klamm families** (Mutter Ilka's among them): *"The Ritter sent them to us."* No one outside those families has ever asked them.
+
+## What's Really Happening
 *Homebrew; see Canon Check.*
 
 **480 CY.** The Witch's legions come out of the Yatils. The von Eisfelds hold a fortified manor at the head of a southern valley under the ice-fields that gave the family its name. **Ritter Wolfram von Eisfeld** has contracted [[The Hundred|the Hundertschaft]] ("the Hundred"), the oldest chartered free company in Perrenland, to hold the manor for a season. Their captain is **Hauptmann Lorenz Kammerer**.
@@ -62,6 +69,14 @@ On the last night, Wolfram sees that the manor cannot be held, but the **Kalte K
 The company's oldest serving man, **[[Feldwebel Jost Kammerer]]**, is Lorenz's grandson. He has his grandfather's daybook and knows the truth. Accepting false guilt is a lie, and saying why would break the oath. He opposes the amends and can't explain himself, which makes him look like the saboteur.
 
 **The real saboteur** is **[[Ulrich Dornhalm]]**, factor of Dornhalm & Söhne, a Schwartzenbruin timber concern. The Kettenhaus has approached his firm as the buyer for the Eisfeld timber rights if the Schuldbrief forecloses. Hiring-hall gossip says the Hundred is about to hand the Eisfeld debt a hundred swords or a purse of coin. Either would spoil the foreclosure. Dornhalm wants the meeting voided, and the cleanest way is to make Konrad cut his own cord. *(The Kettenhaus knows nothing of this. Per its own note it never threatens and never orders violence. Dornhalm is acting alone.)*
+
+## Dornhalm's Scheme
+What happens if nobody interferes:
+1. **Two weeks before:** Dornhalm hears the hiring-hall gossip (by way of Benedikt Roos's house) and pays **Rudi Brack** 10 marks and **Little Fenna** 3.
+2. **At the Red Cord:** Rudi baits Konrad with what Dornhalm told him, the timber remark included. If Konrad cuts his cord, the scheme is complete.
+3. **If Konrad holds:** Rudi starts a brawl, and Fenna lifts the 480 Soldbrief in the confusion.
+4. **At the yard:** the Soldbrief goes into Dornhalm's stove before the midnight bell.
+5. **Winter:** with no amends sworn, the Council strikes the Hundred from the roll. The Schuldbrief forecloses on schedule, and Dornhalm & Söhne bids for the timber.
 
 **If the PCs never come:** Konrad goes alone, is baited into drawing steel before the second round of drinks, and comes home in disgrace. The Hundred loses its charter that winter.
 
@@ -123,8 +138,10 @@ See [[Scene 06 — The Midnight Bell]] for the full run. Jost will not let the c
 - [[Feldwebel Jost Kammerer]] — 76, the Hundred's oldest serving man and grandson of the 480 captain. He is bound by an oath and looks guilty because of it. He is the red herring.
 - [[Ulrich Dornhalm]] — Timber factor of Dornhalm & Söhne. He is polite, well-booted, and the saboteur.
 - [[Mutter Ilka Sennhauser]] — Landlady of the Red Cord, keeper of the cords, and Kalte Klamm stock.
-- **Witnesses** (minor, inline): **Benedikt Roos**, a factor of Zilchus (the merchants' voice), and **Korporal Mattis of the Ernes**, Jürgen of Traft's company (the swords' voice).
-- **Dornhalm's people** (minor, inline): **Rudi Brack**, a cashiered sergeant and the hired provocateur, and **Little Fenna**, the cutpurse.
+- **Benedikt Roos**, factor of Zilchus (the merchants' voice). *Wants* a clean record for his house. *Knows* the hiring-hall gossip about the Eisfeld debt, and that it came from his own clerks. *Reacts:* he records everything, and he would rather leave than witness a cord cut.
+- **Korporal Mattis of the Ernes**, Jürgen of Traft's company (the swords' voice). *Wants* to get back to his beer. *Knows* the halved-standard custom. *Reacts:* he names the custom only if a soldier asks him, and he cheers anyone who disarms a knife bare-handed.
+- **Rudi Brack**, a cashiered sergeant and Dornhalm's provocateur. *Wants* his 10 marks. *Knows* who hired him. *Reacts:* he baits Konrad, then starts the brawl, then runs. Shown the tally-book, or beaten (Intimidation DC 13), he names Dornhalm.
+- **Little Fenna**, the cutpurse. *Wants* out of the city. *Knows* the way to the yard. *Reacts:* she runs, and if caught she trades the name "Dornhalm" for a head start.
 - **At Ritterstadt** (Scene 1 only): [[Rektor Albrecht Weissmantel]], Professor Aldemar Goldwaage, [[Lecturer Bertram Falk]], [[Hauptmann Hildegard Stahlwulf]] and [[Vater Sigmund Wolfherz]].
 
 ## Key Locations
@@ -164,6 +181,15 @@ The amends is sworn and Gerhard's complaint is withdrawn. The Hundred's name com
 - **The banner.** At home, Konrad has the two halves stitched together and hung back above his chair. Gerhard's grudge comes down from the beams with the old thread.
 - **Jost** gives the daybook to Konrad, which ends his grandfather's duty. He drinks one more cup with the party and goes back to the company.
 - **Nothing is left open.** If the players ask what happens next, the honest answer is *"winter."*
+
+### Endings at a Glance
+| Ending | Condition | Result |
+|---|---|---|
+| **A — The truth before the bell** | Any truth route taken, with Bell ≤ 6 | Full amends both ways; swords or coin (600 marks); 40 credits |
+| **B — The false oath** | The amends is sworn over Jost's objection | Charter saved; Jost walks out; the lie stands; the offer is still made; 30 credits |
+| **C — After the bell** | Bell 7+ | Dawn filing before the Hetmen; the truth can still come out; coin only (300 marks); 20 credits |
+| **D — The cord cut** | Temper 6, or a PC draws | The truth is available at the chapter-house at dawn; no offer; 10 credits |
+| **E — Beaten at the yard** | The party loses Encounter 5 | The hirelings dump them in the river shallows and leave. The Soldbrief burns, and the company copy costs Bell +1 to fetch. Dornhalm is named only if the party returns with the patrol. Otherwise run as A–C. |
 
 ## Continuity
 Threads this adventure **opens**: —
