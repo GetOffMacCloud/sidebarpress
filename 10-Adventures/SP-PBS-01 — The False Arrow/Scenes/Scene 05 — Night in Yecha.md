@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 05 — Night in Yecha
 
-[[00 — Scene Index]] · ← [[Scene 04 — Trial of the Bow]] · Next → [[Scene 06 — Trial of the Fire]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 04 — Trial of the Bow]] · Next → [[Scene 06 — Trial of the Fire]]
 
 ## Purpose
 The party learns two things: Kezrin is dirty, and the horde is closer to war than Brennin believes. Halya's letter forces a choice.

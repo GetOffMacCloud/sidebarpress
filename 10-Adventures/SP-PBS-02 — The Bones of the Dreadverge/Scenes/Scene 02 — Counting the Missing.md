@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 02 — Counting the Missing
 
-[[00 — Scene Index]] · ← [[Scene 01 — Dusk at the Pound]] · Next → [[Scene 03 — Crossing the Dreadverge]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 01 — Dusk at the Pound]] · Next → [[Scene 03 — Crossing the Dreadverge]]
 
 ## Purpose
 This is an open investigation of a frightened hamlet. The party leaves knowing **where** (the Three Sisters), **when** (Celene-set), and, if they push, **why** (the torc) and **who** (Ashlock). It also puts the torc in their hands.

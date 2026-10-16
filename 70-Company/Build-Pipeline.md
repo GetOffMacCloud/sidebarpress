@@ -4,7 +4,7 @@ type: process
 
 # Build Pipeline — from scene files to one book
 
-Every adventure is written as pieces and assembled once. The pieces live in `10-Adventures/SP-PBS-NN — Title/`; the assembly order lives in that adventure's [[00 — Scene Index]] (the **manifest**). Progress is tracked on `SP-PBS-NN — Board`.
+Every adventure is written as pieces and assembled once. The pieces live in `10-Adventures/SP-PBS-NN — Title/`; the assembly order lives in that adventure's [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] (the **manifest**). Progress is tracked on `SP-PBS-NN — Board`.
 
 ## 1. The manifest
 

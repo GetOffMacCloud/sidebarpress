@@ -7,23 +7,23 @@
   "sessions": [
     {
       "start": "2026-10-15T06:17:22.725Z",
-      "total": 0,
+      "total": 4176,
       "drafts": {
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 30,
           "scenes": {
-            "Scene 01 — The High Pass": 0,
-            "Scene 03 — Trial of the Horse": 0,
-            "Scene 04 — Trial of the Bow": 0,
-            "Scene 05 — Night in Yecha": 0,
-            "Scene 06 — Trial of the Fire": 0
+            "Scene 01 — The High Pass": 6,
+            "Scene 03 — Trial of the Horse": 6,
+            "Scene 04 — Trial of the Bow": 6,
+            "Scene 05 — Night in Yecha": 6,
+            "Scene 06 — Trial of the Fire": 6
           }
         },
         "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
-          "total": 2067,
+          "total": 4146,
           "scenes": {
-            "Scene 03 — Crossing the Dreadverge": 1233,
-            "Scene 04 — The Cutters' Camp": 834
+            "Scene 03 — Crossing the Dreadverge": 2472,
+            "Scene 04 — The Cutters' Camp": 1674
           }
         },
         "90-Templates/Scene-Index.md": {

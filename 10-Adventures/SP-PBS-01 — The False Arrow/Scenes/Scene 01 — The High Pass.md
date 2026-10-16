@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 01 — The High Pass
 
-[[00 — Scene Index]] · ← [[Scene 00 — Greyhawk University]] · Next → [[Scene 02 — The Cold Welcome]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 00 — Greyhawk University]] · Next → [[Scene 02 — The Cold Welcome]]
 
 ## Purpose
 Hand over the parley letter and the gift, plant Halya's sealed letter without explaining it, and show that the steppe itself is hostile.

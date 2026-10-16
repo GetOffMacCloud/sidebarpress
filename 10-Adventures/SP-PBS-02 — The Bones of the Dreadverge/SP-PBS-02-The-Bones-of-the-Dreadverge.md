@@ -213,4 +213,4 @@ Watch for: whether tables find the torc before the climax (target is 70% or more
 - [[SP-PBS-02 — Bestiary]] — every statblock, paste-ready
 - [[SP-PBS-02 — Handout — Ashlock's Letter]]
 - [[SP-PBS-02 — Map Assets]]
-- [[00 — Scene Index]]
+- [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]]

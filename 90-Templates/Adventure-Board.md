@@ -13,7 +13,7 @@ publish: false
 - [ ] In-world date set (`in_world_date`) and logged in [[Timeline]]
 - [ ] Hooks written (at least 3 variants)
 - [ ] PC Objectives listed, each with 2+ routes
-- [ ] Act structure and scene list in [[00 — Scene Index]] with time budgets
+- [ ] Act structure and scene list in [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] with time budgets
 - [ ] Climax-at-a-Glance table: every solution seeded in an earlier scene
 - [ ] Signature mechanic note created (`type: adventure-mechanic`)
 - [ ] Canon research done; every canon claim has a Lore note in `20-World/Greyhawk-Canon`
@@ -48,7 +48,7 @@ publish: false
 
 ## 4 · Package
 
-- [ ] Manifest in [[00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file
+- [ ] Manifest in [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file
 - [ ] Longform compile run; output saved as `SP-PBS-NN — Compiled.md`
 - [ ] Battlemaps (DM + Player) in `99-Assets/SP-PBS-NN/`; Map Assets note written
 - [ ] Art brief / Midjourney prompt pack written

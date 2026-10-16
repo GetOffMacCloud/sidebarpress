@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 00 — Greyhawk University
 
-[[00 — Scene Index]] · Next → [[Scene 01 — The High Pass]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · Next → [[Scene 01 — The High Pass]]
 
 ## Purpose
 Frame the party as Greyhawk University students at the **Ritterstadt Field Station**, learn which lectures each attends (every choice pays off later), and put the contract in front of them.

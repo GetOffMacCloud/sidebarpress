@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 07 — The War Council
 
-[[00 — Scene Index]] · ← [[Scene 06 — Trial of the Fire]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 06 — Trial of the Fire]]
 
 ## Purpose
 The climax. Three rounds decide two questions — does the parley pass, and does the war stop — and Kezrin tries to slip away.

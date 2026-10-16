@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 02 — The Cold Welcome
 
-[[00 — Scene Index]] · ← [[Scene 01 — The High Pass]] · Next → [[Scene 03 — Trial of the Horse]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 01 — The High Pass]] · Next → [[Scene 03 — Trial of the Horse]]
 
 ## Purpose
 Disarm the party, make them face Cligir's question, set the three trials, and **explain the Favor track out loud**. This scene is pure roleplay.

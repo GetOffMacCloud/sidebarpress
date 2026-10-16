@@ -94,7 +94,7 @@ Each has more than one route. Objectives 5–7 are optional.
 - **Honest face:** Halya chooses this PC for her letter.
 
 ## Act Structure
-Likely path: Scenes 00 → 07. See [[00 — Scene Index]] for the run sheet.
+Likely path: Scenes 00 → 07. See [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] for the run sheet.
 
 ### Act 1 — The Road (≈50 min)
 - [[Scene 00 — Greyhawk University]] (5 min): the Job Board at the Fiend's Rest; each player names whose lectures they attend.
@@ -226,4 +226,4 @@ Watch for: average Favor at the council (target 5–7), how often tables open Ha
 - [[SP-PBS-01 — Handout — Halya's Sealed Instruction]]
 - [[SP-PBS-01 — Handout — Kezrin's Papers]]
 - [[SP-PBS-01 — Map Assets]] · [[SP-PBS-01 — Midjourney Prompt Pack]] · [[SP-PBS-01 — VTT and Fantasy Grounds Kit]] · [[SP-PBS-01 — Homebrewery Export]]
-- [[00 — Scene Index]]
+- [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]]

@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 04 — The Cutters' Camp
 
-[[00 — Scene Index]] · ← [[Scene 03 — Crossing the Dreadverge]] · Next → [[Scene 05 — The Three Sisters]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 03 — Crossing the Dreadverge]] · Next → [[Scene 05 — The Three Sisters]]
 
 ## Purpose
 This optional scene costs time and pays in certainty. The party learns who Ashlock serves, what the crown does, and what Celene-set means, and they find the sequel hook. It is also where the town's guesses ("the cutters ran off," "it's Iuz") are overturned.

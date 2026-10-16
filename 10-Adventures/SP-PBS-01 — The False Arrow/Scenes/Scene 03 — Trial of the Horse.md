@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 03 — Trial of the Horse
 
-[[00 — Scene Index]] · ← [[Scene 02 — The Cold Welcome]] · Next → [[Scene 04 — Trial of the Bow]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 02 — The Cold Welcome]] · Next → [[Scene 04 — Trial of the Bow]]
 
 ## Purpose
 The table's first taste of nomad values: the horde honors the rider who masters a horse and despises the one who breaks it. Success returns their weapons; gentling earns Sarnai's endorsement.

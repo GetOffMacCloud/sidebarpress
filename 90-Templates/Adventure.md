@@ -76,7 +76,7 @@ Deviations:
 Link session logs: [[Session Log]]
 
 ## Supporting Files
-- [[00 — Scene Index]] — manifest and Longform project
+- [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] — manifest and Longform project
 - [[SP-PBS-NN — Board]] — definition of done
 - [[SP-PBS-NN — Bestiary]]
 - [[SP-PBS-NN — <Mechanic>]]

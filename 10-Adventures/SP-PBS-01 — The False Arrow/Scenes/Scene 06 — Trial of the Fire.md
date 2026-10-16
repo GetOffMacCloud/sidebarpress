@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 06 — Trial of the Fire
 
-[[00 — Scene Index]] · ← [[Scene 05 — Night in Yecha]] · Next → [[Scene 07 — The War Council]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 05 — Night in Yecha]] · Next → [[Scene 07 — The War Council]]
 
 ## Purpose
 Three honest answers. If the party tells Sarnai about the false flag, she becomes their ally — the key to Kezrin's capture and to the soft fail.

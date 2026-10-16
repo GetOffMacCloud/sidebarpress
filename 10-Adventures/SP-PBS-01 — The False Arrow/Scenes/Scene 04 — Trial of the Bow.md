@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 04 — Trial of the Bow
 
-[[00 — Scene Index]] · ← [[Scene 03 — Trial of the Horse]] · Next → [[Scene 05 — Night in Yecha]]
+[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 03 — Trial of the Horse]] · Next → [[Scene 05 — Night in Yecha]]
 
 ## Purpose
 A real fight, and the adventure's payload: the ambushed patrol's bodies and the false Wolf arrows.
