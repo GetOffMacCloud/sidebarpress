@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-15T06:17:22.725Z",
-      "total": 4176,
+      "total": 2109,
       "drafts": {
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
           "total": 30,
@@ -20,22 +20,15 @@
           }
         },
         "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
-          "total": 4146,
+          "total": 2079,
           "scenes": {
-            "Scene 03 — Crossing the Dreadverge": 2472,
-            "Scene 04 — The Cutters' Camp": 1674
+            "Scene 03 — Crossing the Dreadverge": 1239,
+            "Scene 04 — The Cutters' Camp": 840
           }
         },
         "90-Templates/Scene-Index.md": {
           "total": 0,
           "scenes": {}
-        },
-        "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index (1).md": {
-          "total": 0,
-          "scenes": {
-            "Scene 03 — Crossing the Dreadverge": 0,
-            "Scene 04 — The Cutters' Camp": 0
-          }
         }
       }
     }
