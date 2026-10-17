@@ -77,6 +77,6 @@ publish: false
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
+{"kanban-plugin":"board","list-collapse":[true,true,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
 ```
 %%
