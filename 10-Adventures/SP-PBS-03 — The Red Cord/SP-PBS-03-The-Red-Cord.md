@@ -175,7 +175,8 @@ Difficulty uses **4 PCs** and 2014 DMG thresholds and multipliers. **For 5 PCs, 
 ## Treasure & Rewards
 - **Field credits (Konrad's report to Goldwaage, per PC; counts toward the 600-credit limit):** Truth told and the amends sworn before the bell: 40. Amends sworn without the truth: 30. Sworn after the bell: 20. Steel drawn: 10.
 - **Extra credit (outside the limit):** a written account of the halved-standard custom, lodged with [[Lecturer Bertram Falk]] (Law & Heraldry), is worth 15 bonus credits each.
-- **The cord-knot:** Ilse gives each PC a red cord tied in the Hundred's knot. In any company tavern in Perrenland, it marks the bearer as someone who kept the peace when it mattered. *(This is a courtesy, not a hook.)*
+- [[The Hundred's Cord-Knot|The cord-knot]]: Ilse gives each PC a red cord tied in the Hundred's knot. In any company tavern in Perrenland, it marks the bearer as someone who kept the peace when it mattered. *(This is a courtesy, not a hook.)*
+- **Plot keys (not loot):** [[The Soldbrief of 480]], [[The Halved Standard]], [[Kammerer's Daybook]], [[Gerhard's Longsword]], and [[Dornhalm's Tally-Book]].
 - **Dornhalm's purse** (taken by the patrol as evidence unless the party pockets it first): APL 1–2: 30 gp. APL 3–4: 60 gp and a silver measuring-chain fob (25 gp).
 - **Konrad's choice:** the Hundred's 600 marks or its hundred swords go to Konrad, not the party. See the Denouement.
 - **Story XP (milestone note):** Award objective XP equal to one Medium encounter at the party's APL for each of these: the cord never cut, the Soldbrief back before the bell, the truth told, and Dornhalm in the patrol's hands.

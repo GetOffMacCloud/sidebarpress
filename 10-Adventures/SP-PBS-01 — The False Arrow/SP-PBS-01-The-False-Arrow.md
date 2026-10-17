@@ -159,7 +159,8 @@ Difficulty for **level 3** with 2014 DMG thresholds and multipliers. Full statbl
 
 ## Treasure & Rewards
 - [[Tiger-Claw-Token]] — Favor 7+, given when Cligir grants voice. Uncommon wondrous item.
-- **The black stallion** — kept by the PC who gentled him (warhorse stats).
+- [[The-Black-Stallion|The black stallion]] — kept by the PC who rides or gentles him (warhorse stats).
+- [[The-False-Wolf-Arrows|The false Wolf arrows]] — the ravine arrows, the black-steel arrowhead, and Tsolmon's arrow. Climax evidence, not loot.
 - **Steppe ponies** — one per PC if the parley passes.
 - **Cligir's parley-gift** — 150 gp each in silver ingots and furs, if the parley passes.
 - **Brennin's report to Magister Kartner (field credits per PC):** The parley holds 60 · A year bought 50 · Truth without trust 40 · Heard and refused 30 · Cast out 20. Counts toward the 600-credit limit. Plus free healing at the hospice forever.

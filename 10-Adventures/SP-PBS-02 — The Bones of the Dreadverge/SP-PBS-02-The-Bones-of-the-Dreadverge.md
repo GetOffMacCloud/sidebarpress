@@ -150,7 +150,8 @@ Difficulty is calculated for **4 PCs** with 2014 DMG thresholds and multipliers.
 - [[Torc-of-the-Hound-Mother]] — Found in Tamsin's cart. Its worth is 250 gp as art, but it is the climax key. If the PCs keep it, it is cursed (see the item note).
 - [[Antler-Crown-of-Kethra]] — Worn by Ashlock. Uncommon. It is quiet once the pack sleeps.
 - **Ashlock's belongings** (S4 camp and his person): a purse (APL 1–2: 18 gp in mixed Perrender coin; APL 3–4: 40 gp and a small jet scythe-pendant worth 25 gp), a *potion of healing* (APL 1–2: 1; APL 3–4: 2), and at APL 3–4 a *spell scroll of lesser restoration* taken from a looted shrine.
-- **The barrow's grave goods** (S5): amber beads, bronze spear-blades, and a boar-tusk helm, about 150 gp in total. *Taking any of it raises the Howl to 6 at once,* and the item note's curse rules apply. This is a test, and the denouement should notice whether the PCs looted.
+- [[Grave-Goods-of-Kethra|The barrow's grave goods]] (S5): amber beads, bronze spear-blades, and a boar-tusk helm, about 150 gp in total. *Taking any of it raises the Howl to 6 at once,* and the item note's curse rules apply. This is a test, and the denouement should notice whether the PCs looted.
+- [[Carved-Wooden-Stag|Bett's carved wooden stag]] — a folk-hero subplot gift; the Barrow Stag hesitates for one round.
 - **Waycombe's thanks:** Odila offers 40 marks (40 gp) from the levy chest (all she has), two smoked hams, free lodging forever, and the hamlet's debt. If she is forced to admit the cutters were her doing, she also offers her own silver cloak-pin (15 gp).
 - **Story XP (milestone note):** Award objective XP equal to one Medium encounter at the party's APL for each of the following: torc returned, all three captives saved, Ashlock unmasked before the climax, and Kester's confession reaching his mother.
 
