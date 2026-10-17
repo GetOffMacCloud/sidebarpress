@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 01 — Dusk at the Pound
 
-[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · Next → [[Scene 02 — Counting the Missing]]
+[[10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index]] · Next → [[Scene 02 — Counting the Missing]]
 
 ## Purpose
 This scene shows the pack, teaches the party that bludgeoning breaks bone, and plants the climax's key: **the hounds go for the tinker's cart, not the people.** Ashlock enters as a helper.

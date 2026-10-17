@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 03 — Crossing the Dreadverge
 
-[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 02 — Counting the Missing]] · Next → [[Scene 04 — The Cutters' Camp]] / [[Scene 05 — The Three Sisters]]
+[[10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index]] · ← [[Scene 02 — Counting the Missing]] · Next → [[Scene 04 — The Cutters' Camp]] / [[Scene 05 — The Three Sisters]]
 
 ## Purpose
 In this night crossing, the two trackers become the game. Every choice spends time (Rite Clock) or draws attention (Howl). It ends with a tactical fight in the cut-trenches, where terrain matters more than numbers.

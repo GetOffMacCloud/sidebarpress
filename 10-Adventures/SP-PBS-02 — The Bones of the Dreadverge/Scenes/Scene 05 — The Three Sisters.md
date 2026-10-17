@@ -11,7 +11,7 @@ status: drafted
 
 # Scene 05 — The Three Sisters
 
-[[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] · ← [[Scene 03 — Crossing the Dreadverge]] / [[Scene 04 — The Cutters' Camp]]
+[[10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index]] · ← [[Scene 03 — Crossing the Dreadverge]] / [[Scene 04 — The Cutters' Camp]]
 
 ## Purpose
 This is the climax. The outcome is genuinely in doubt, there are four ways to win, and the clock is visible. Then comes a quiet dawn that answers some questions and leaves others open.
