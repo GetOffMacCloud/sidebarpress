@@ -138,11 +138,12 @@ See [[Scene 06 — The Midnight Bell]] for the full run. Jost will not let the c
 - [[Feldwebel Jost Kammerer]] — 76, the Hundred's oldest serving man and grandson of the 480 captain. He is bound by an oath and looks guilty because of it. He is the red herring.
 - [[Ulrich Dornhalm]] — Timber factor of Dornhalm & Söhne. He is polite, well-booted, and the saboteur.
 - [[Mutter Ilka Sennhauser]] — Landlady of the Red Cord, keeper of the cords, and Kalte Klamm stock.
-- **Benedikt Roos**, factor of Zilchus (the merchants' voice). *Wants* a clean record for his house. *Knows* the hiring-hall gossip about the Eisfeld debt, and that it came from his own clerks. *Reacts:* he records everything, and he would rather leave than witness a cord cut.
-- **Korporal Mattis of the Ernes**, Jürgen of Traft's company (the swords' voice). *Wants* to get back to his beer. *Knows* the halved-standard custom. *Reacts:* he names the custom only if a soldier asks him, and he cheers anyone who disarms a knife bare-handed.
-- **Rudi Brack**, a cashiered sergeant and Dornhalm's provocateur. *Wants* his 10 marks. *Knows* who hired him. *Reacts:* he baits Konrad, then starts the brawl, then runs. Shown the tally-book, or beaten (Intimidation DC 13), he names Dornhalm.
-- **Little Fenna**, the cutpurse. *Wants* out of the city. *Knows* the way to the yard. *Reacts:* she runs, and if caught she trades the name "Dornhalm" for a head start.
-- **At Ritterstadt** (Scene 1 only): [[Rektor Albrecht Weissmantel]], Professor Aldemar Goldwaage, [[Lecturer Bertram Falk]], [[Hauptmann Hildegard Stahlwulf]] and [[Vater Sigmund Wolfherz]].
+- [[Benedikt Roos]], factor of Zilchus (the merchants' voice). *Wants* a clean record for his house. *Knows* the hiring-hall gossip about the Eisfeld debt, and that it came from his own clerks. *Reacts:* he records everything, and he would rather leave than witness a cord cut.
+- [[Korporal Mattis]] of the Ernes, Jürgen of Traft's company (the swords' voice). *Wants* to get back to his beer. *Knows* the halved-standard custom. *Reacts:* he names the custom only if a soldier asks him, and he cheers anyone who disarms a knife bare-handed.
+- [[Rudi Brack]], a cashiered sergeant and Dornhalm's provocateur. *Wants* his 10 marks. *Knows* who hired him. *Reacts:* he baits Konrad, then starts the brawl, then runs. Shown the tally-book, or beaten (Intimidation DC 13), he names Dornhalm.
+- [[Little Fenna]], the cutpurse. *Wants* out of the city. *Knows* the way to the yard. *Reacts:* she runs, and if caught she trades the name "Dornhalm" for a head start.
+- **Offstage or dead** (no notes, by rule): Ritter Wolfram von Eisfeld, Hauptmann Lorenz Kammerer, Gerhard and Edmund von Eisfeld, and Jürgen of Traft. See [[The Hundred]] and [[Perrenland-Mercenary-Companies]].
+- **At Ritterstadt** (Scene 1 only): [[Rektor Albrecht Weissmantel]], [[Professor Aldemar Goldwaage]], [[Lecturer Bertram Falk]], [[Hauptmann Hildegard Stahlwulf]] and [[Vater Sigmund Wolfherz]].
 
 ## Key Locations
 - [[The Ritter's Hall]] — Konrad's hall in Ritterstadt, hung with Gerhard's banners. *(See [[RG-04a — Building Directory, Part 1]].)*

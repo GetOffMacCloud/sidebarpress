@@ -128,8 +128,8 @@ Likely path: Scenes 00 → 07. See [[10-Adventures/SP-PBS-01 — The False Arrow
 - [[Batzorig]] — Temur's rider-captain; disarms the party and keeps their blades.
 - [[Father-Brennin|Father Brennin]] — keeper of the hospice; the patron.
 - [[Sister-Halya|Sister Halya]] — Brennin's junior; the sealed letter.
-- **Minor, inline:** Naran (tent-guard, 16), Chuluun (scarred rider who jeers), Tsolmon (dead before the adventure), the ravine beater.
-- **Field Station (canon, A Tourist In Greyhawk):** [[Magister-Roswitha-Kartner]] (Exploration & Cartography), [[Professor-Ilsabet-Federkiel]] (Letters & Cultures), Professor Casimir Vogelsang (Antiquities).
+- **Minor:** [[Naran]] (tent-guard, 16), [[Chuluun]] (scarred rider who jeers); inline only: Tsolmon (dead before the adventure), the ravine beater.
+- **Field Station (canon, A Tourist In Greyhawk):** [[Magister-Roswitha-Kartner]] (Exploration & Cartography), [[Professor-Ilsabet-Federkiel]] (Letters & Cultures), [[Professor Casimir Vogelsang]] (Antiquities).
 
 ## Key Locations
 - [[Hospice-of-St-Cuthbert|The Hospice of St. Cuthbert]] — stone hospice in a high Yatil pass.

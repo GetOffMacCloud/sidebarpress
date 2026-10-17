@@ -120,7 +120,8 @@ See [[Scene 05 — The Three Sisters]] for the full run. The PCs can derive ever
 - [[Tamsin-the-Tinker|Tamsin the Tinker]] — She bought the torc, knows it is worth more, and is stuck in town as the pack keeps returning to her cart.
 - [[Hild-Brennan|Hild Brennan]] — Shepherd and survivor. She saw the man with antlers. Her husband Brannoc is a captive.
 - [[Kethra-the-Hound-Mother|Kethra, the Hound-Mother]] — The dead Flan chieftain on the bier. She has no statblock and needs none.
-- **Captives:** Brannoc Brennan (drover and former militia longbowman, 40s), Wenna Cobb (herbwife, 70s), Tam Marsh (9). These are minor NPCs, kept inline.
+- **Captives:** [[Brannoc-Brennan|Brannoc Brennan]] (drover and former militia longbowman, 40s), [[Wenna-Cobb|Wenna Cobb]] (herbwife, 70s), [[Tam-Marsh|Tam Marsh]] (9).
+- **Minor:** [[Rowan-Gest|Rowan Gest]] (12, the miller's daughter; the marked mill door), [[Bett-Marsh|Bett Marsh]] (Tam's small sister; the carved stag), [[Corran]] (the cutters' foreman, risen as a ghoul; his second, Hob, is inline). Sister Morrow, named only in Ashlock's letter, is offstage.
 
 ## Key Locations
 - [[Waycombe]] — A highland hamlet of eleven houses, a mill, and a stone sheep-pound, with the Dreadverge to the east.

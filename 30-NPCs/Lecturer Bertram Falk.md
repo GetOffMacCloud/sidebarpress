@@ -30,3 +30,4 @@ Noncombatant. **Noble** (MM p. 348), Intelligence 16.
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-09
+- [[SP-PBS-03-The-Red-Cord]] — Scene 1 (optional consult: the halved-standard custom); extra credit for an account of the custom

@@ -37,3 +37,4 @@ Noncombatant. **Noble** (MM p. 348), Intelligence 16, expertise in Persuasion.
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-02, RG-08, RG-09
+- [[SP-PBS-03-The-Red-Cord]] — Scene 1 (posts the commission); Konrad's report to him sets the field credits

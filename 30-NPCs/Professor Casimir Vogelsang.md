@@ -37,3 +37,4 @@ Charming in public, cutting in faculty meetings. Praises every find and asks who
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-06, RG-08, RG-09 · [[Faction — The Regents' Commission]]
+- [[SP-PBS-01-The-False-Arrow]] — Scene 0 (Field Station frame); a student who took his Antiquities lectures recognises the fletching (Scene 4)

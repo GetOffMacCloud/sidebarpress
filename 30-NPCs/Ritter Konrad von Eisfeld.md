@@ -239,6 +239,10 @@ Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quest
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
 
+## Appearances
+Sidebar Press adventures this NPC appears in:
+- [[SP-PBS-03-The-Red-Cord]] — Scenes 1–6 (the noble; Temper and Trust tracks; swords or coin)
+
 # Relationships
 
 List important relationships here. 

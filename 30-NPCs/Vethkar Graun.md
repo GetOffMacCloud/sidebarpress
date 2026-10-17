@@ -330,6 +330,10 @@ Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quest
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
 
+## Appearances
+Sidebar Press adventures this NPC appears in:
+- [[SP-PBS-03-The-Red-Cord]] — referenced only (his unfiled Kettenhaus report; Konrad's choice of swords or coin bears on it)
+
 # Relationships
 
 List important relationships here. 
