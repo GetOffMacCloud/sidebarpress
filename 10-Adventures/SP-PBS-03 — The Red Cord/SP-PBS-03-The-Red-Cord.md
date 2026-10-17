@@ -149,6 +149,11 @@ See [[Scene 06 — The Midnight Bell]] for the full run. Jost will not let the c
 - [[The Ritter's Hall]] — Konrad's hall in Ritterstadt, hung with Gerhard's banners. *(See [[RG-04a — Building Directory, Part 1]].)*
 - [[The Red Cord]] — A company tavern in Schwartzenbruin's hiring-hall quarter, where blades are corded at the door.
 - [[Dornhalm's Yard]] — A timber yard on the Velverdyva quays below the lake mouth, with log stacks, a sawpit, a boom crane and the river.
+- [[The Fiend's Rest Public House]] — Ritterstadt's public house, where the Job Board holds the commission (Hook 1).
+- [[The Landing]] — Ritterstadt's quay, where the Rhennee lake-boat leaves (Scenes 1–2).
+- [[Schwartzenbruin]] — the city itself and its lake-gate, where the dock patrol writes everything down (Scene 2). Canon note in `20-World/Greyhawk-Canon`.
+- [[The Hundred's Chapter-House]] — the company's hall of Kord. It is used only if the cord is cut (the dawn meeting) or the Soldbrief burns (the company copy).
+- *Historical only, no note:* the Eisfeld manor and the Kalte Klamm gorge road (480 CY). See [[The Hundred]].
 
 ## Maps
 Battlemaps still to be made: the Red Cord (common room, Kord ring, cord-board at the door) and Dornhalm's Yard. They will go in `99-Assets/SP-PBS-03/`, with a [[SP-PBS-03 — Map Assets]] note.

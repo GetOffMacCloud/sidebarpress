@@ -128,6 +128,10 @@ views:
 - **[[Jobs, Quests, and Inquiries|The Job Board]]** — the corkboard where formal commissions are posted
 - **[[The Heat Map|The Map Room]]** — the pinned-map back room used for briefings
 
+## Adventure Use
+- [[SP-PBS-01-The-False-Arrow]] — Scene 0 (Kartner reads Brennin's request from the Job Board)
+- [[SP-PBS-03-The-Red-Cord]] — Hook 1 (Goldwaage's commission under the Warden's seal)
+
 # Rumours
 
 The Fiend's Rest is the default surface for Ritterstadt rumours — roll on or draw from the active [[Rumor Dashboard]] when the party lingers in the common room. On market days, the room fills and gossip runs hot.

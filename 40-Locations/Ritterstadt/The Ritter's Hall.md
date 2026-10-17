@@ -122,6 +122,9 @@ views:
 | Hire of a village soldier (escort) | 1 gp/day | Requires Ritter's approval; 2 soldiers maximum |
 | Right of shelter in the palisade | Civic duty / No cost | Opens during attacks, extreme weather, or Ritter's declaration |
 
+## Adventure Use
+- [[SP-PBS-03-The-Red-Cord]] — Scene 1 (the Hundred's letter; the "torn" half-banner among Gerhard's standards, which is cut clean and is the climax key)
+
 # Rumours
 
 | d6 | Rumour |

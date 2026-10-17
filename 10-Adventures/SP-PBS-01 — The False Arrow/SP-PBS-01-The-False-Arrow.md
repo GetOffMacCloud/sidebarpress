@@ -135,6 +135,8 @@ Likely path: Scenes 00 → 07. See [[10-Adventures/SP-PBS-01 — The False Arrow
 - [[Hospice-of-St-Cuthbert|The Hospice of St. Cuthbert]] — stone hospice in a high Yatil pass.
 - [[Yecha]] — the Chakyik capital: a walled hill town with the horde's winter tent-city around it.
 - [[Greyhawk-University]] — the Ritterstadt Field Station, in the frontier hamlet of Ritterstadt.
+- [[The Fiend's Rest Public House]] — where the Job Board holds Brennin's request (Scene 0).
+- The tiger's ravine (Scene 4) is a feature of [[Yecha]]. The pass road where Batzorig intercepts the party (Scene 2) is transit and has no note.
 
 ## Maps
 Simple Layout battlemaps (DM and Player) are in `99-Assets/SP-PBS-01/`. See [[SP-PBS-01 — Map Assets]].

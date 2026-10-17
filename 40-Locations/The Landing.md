@@ -47,5 +47,8 @@ Dawn to dusk in the open season; the tally-house stove is lit all year.
 > [!danger] DM Eyes Only
 > Half the salt is Traft salt sold back to Traft. The other half comes from a pan at the Mire margin on **Node 3**. Twice a season a sealed crate goes north to Iuz's recruiter with a letter from Yeska to her daughter.
 
+## Adventure Use
+- [[SP-PBS-03-The-Red-Cord]] — end of Scene 1 and start of Scene 2 (Konrad and the party take a Rhennee lake-boat across the Quag to Schwartzenbruin)
+
 ## Source
 [[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-04a Part 2, RG-05 · [[Faction — The Quag Bargemen]]

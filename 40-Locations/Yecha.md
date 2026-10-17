@@ -19,10 +19,11 @@ tags: [yecha, chakyik, tiger-nomads, capital, SP-PBS-01]
 - **The guest tents:** felt over willow, dung-braziers, within sight of the war camp.
 - **Temur's war camp:** torchlit drill ground; new black-steel blades.
 - **Sarnai's tent:** set apart, with a juniper fire before it.
+- **The tiger's ravine:** a cleft in the hills a short ride from the camp, where the saber-tooth denned and the Trial of the Bow is shot. Beaters loose from the rim but will not go down. Map: `SP-PBS-01 - Ravine`.
 
 ## Inhabitants
 - [[Ilkhan-Cligir]], [[Khan-Temur]], [[Mother-Sarnai]], [[Batzorig]]
-- Naran (tent-guard, 16), Chuluun (rider)
+- [[Naran]] (tent-guard, 16), [[Chuluun]] (rider)
 - [[Master-Kezrin]] (trading, in winter)
 
 ## History

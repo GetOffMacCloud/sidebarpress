@@ -33,6 +33,7 @@ Students are paid in **credits**, not money. The total credit limit is **600**. 
 
 ## Sidebar Press Adventures Set Here
 - [[SP-PBS-01-The-False-Arrow]] — Scene 0 (the contract on the Job Board, Fireseek 576 CY)
+- [[SP-PBS-03-The-Red-Cord]] — Scene 1 (the scholars'-witness commission, Ready'reat 576 CY)
 
 ## Continuity Notes
 - SP-PBS-01 takes place in **Needfest–Fireseek 576 CY**, before the campaign's recorded sessions (Planting 576 onward).
