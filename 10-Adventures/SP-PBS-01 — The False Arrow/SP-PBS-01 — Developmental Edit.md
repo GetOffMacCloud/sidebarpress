@@ -6,7 +6,7 @@ publish_order: 0
 publish: false
 edit_pass: developmental
 date: 2026-10-17
-status: findings-open
+status: majors-applied
 tags: [edit, developmental, internal]
 ---
 
@@ -33,16 +33,16 @@ There are no punished refusals. The Halya choice is a model of how to handle one
 ## Findings
 
 ### Major
-- [ ] **1 · Railroad/Consistency — Kezrin's guaranteed escape.** S07 *Kezrin's Exit*: "unless he was already exposed, in which case he left before dawn with his papers." This contradicts S05 ("Kezrin is watched from dawn"), S06 (Sarnai "posts riders on Kezrin") and the Favor Tracker (captured at the flap, no roll). Exposing him early, which is the smart play, means he escapes with the Iuz reveal. **Fix:** "If exposed before the council *but not reported to Sarnai*, he flees before dawn; run the chase at the picket line." Put a single capture rule in the Tracker and point the other files to it.
-- [ ] **2 · Structure — the evidence and the night attack.** S07: "No evidence: Round 2 is lost." S05: his men "grab the evidence." No rule says when the grab succeeds, so the pivotal round can be lost by DM fiat. **Fix (S05):** "The evidence is taken only if no PC carries it, or its carrier is knocked out." **Fix (S07):** "Without ravine arrows, Tsolmon's arrow alone: Investigation DC 15."
-- [ ] **3 · Structure — "Iuz wants the war" has one source.** The Clue Ledger lists two routes, both from Kezrin's papers in S07, and no last resort. The Board ticks "3+ routes" anyway. **Fix:** add a captured S05 attacker with a skull brand or "Dorakaa" on his lips, and Cligir's interrogation of a captured Kezrin. Last resort: Sarnai names the thread herself. *Or* mark this fact as an optional sequel hook ([[The War Iuz Wants]]) rather than a must-learn.
-- [ ] **4 · Pacing — Scene 05 is the middle bloat.** The budget is 30 minutes, but the scene holds Kezrin's visit, a mandatory fight, an interrogation, Halya's choice and a spying run. Realistically it takes 45–60 minutes. **Fix:**
+- [x] **1 · ✅ *Applied 2026-10-17.* Railroad/Consistency — Kezrin's guaranteed escape.** S07 *Kezrin's Exit*: "unless he was already exposed, in which case he left before dawn with his papers." This contradicts S05 ("Kezrin is watched from dawn"), S06 (Sarnai "posts riders on Kezrin") and the Favor Tracker (captured at the flap, no roll). Exposing him early, which is the smart play, means he escapes with the Iuz reveal. **Fix:** "If exposed before the council *but not reported to Sarnai*, he flees before dawn; run the chase at the picket line." Put a single capture rule in the Tracker and point the other files to it.
+- [x] **2 · ✅ *Applied 2026-10-17.* Structure — the evidence and the night attack.** S07: "No evidence: Round 2 is lost." S05: his men "grab the evidence." No rule says when the grab succeeds, so the pivotal round can be lost by DM fiat. **Fix (S05):** "The evidence is taken only if no PC carries it, or its carrier is knocked out." **Fix (S07):** "Without ravine arrows, Tsolmon's arrow alone: Investigation DC 15."
+- [x] **3 · ✅ *Applied 2026-10-17.* Structure — "Iuz wants the war" has one source.** The Clue Ledger lists two routes, both from Kezrin's papers in S07, and no last resort. The Board ticks "3+ routes" anyway. **Fix:** add a captured S05 attacker with a skull brand or "Dorakaa" on his lips, and Cligir's interrogation of a captured Kezrin. Last resort: Sarnai names the thread herself. *Or* mark this fact as an optional sequel hook ([[The War Iuz Wants]]) rather than a must-learn.
+- [x] **4 · ✅ *Applied 2026-10-17.* Pacing — Scene 05 is the middle bloat.** The budget is 30 minutes, but the scene holds Kezrin's visit, a mandatory fight, an interrogation, Halya's choice and a spying run. Realistically it takes 45–60 minutes. **Fix:**
   - End the fight on a schedule: "The attackers break when Naran arrives (round 3) or two drop."
   - Let the spying run happen while the fire is being fought.
   - Add a clock checkpoint: "If S05 starts after 2:40, use the running-long line."
 
 ### Moderate
-- [ ] **5 · Build — the Longform list omits Scenes 00, 02 and 07.** A compile would ship without the climax, yet the Board ticks "Manifest reviewed." **Fix:** add the three scenes in order and untick the Board item until then. *(Verified 2026-10-17.)*
+- [x] **5 · ✅ *Applied 2026-10-17.* Build — the Longform list omits Scenes 00, 02 and 07.** A compile would ship without the climax, yet the Board ticks "Manifest reviewed." **Fix:** add the three scenes in order and untick the Board item until then. *(Verified 2026-10-17.)*
 - [ ] **6 · Railroad — the tiger fights to the death,** so the "**Fail:** the tiger escapes" result can never happen, and the trial has one solution. **Fix:** "It flees at 10 hp or when its mate falls." Add a partial result: "Driven off and the den fired or blocked = +1."
 - [ ] **7 · Structure — a retreat from the tiger loses the clues.** Three of the four routes to "the Wolf arrows are fakes" sit at the den. **Fix:** extend the S04 alternate: "…or retreats — Temur's riders recover the bodies; the beater brings Sarnai one arrow."
 - [ ] **8 · Railroad — a precaution that changes nothing.** S05 alternate: "The attack still comes," even after the party warns Sarnai and she posts a guard. **Fix:** "With the guard posted, it is a theft attempt only. Naran's cousin raises the alarm on round 1, and one attacker is caught."

@@ -10,11 +10,14 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
+    - Scene 00 — Greyhawk University
     - Scene 01 — The High Pass
+    - Scene 02 — The Cold Welcome
     - Scene 03 — Trial of the Horse
     - Scene 04 — Trial of the Bow
     - Scene 05 — Night in Yecha
     - Scene 06 — Trial of the Fire
+    - Scene 07 — The War Council
   ignoredFiles:
     - 00 — Scene Index
 ---
@@ -54,8 +57,8 @@ Back to [[SP-PBS-01-The-False-Arrow]] · Mechanics: [[SP-PBS-01 — The Favor Tr
 | 03 | [[Scene 03 — Trial of the Horse]] | 2 — The Trials | 30 min | 1:20 | One attempt, by the best rider | Weapons back (or not); maybe Sarnai's endorsement |
 | — | *Break* | | 10 min | 1:30 | | |
 | 04 | [[Scene 04 — Trial of the Bow]] | 2 — The Trials | 40 min | 2:10 | Skip tracking; tiger at the den mouth | The false-flag evidence |
-| 05 | [[Scene 05 — Night in Yecha]] | 2 — The Trials | 30 min | 2:40 | Kezrin's visit straight into the attack | Kezrin is dirty; spy or not |
-| 06 | [[Scene 06 — Trial of the Fire]] | 2 — The Trials | 25 min | 3:05 | Two questions instead of three | Sarnai learns the truth (or a lie) |
+| 05 | [[Scene 05 — Night in Yecha]] | 2 — The Trials | 40 min | 2:50 | **Checkpoint:** if this scene starts after 2:20, run Kezrin's visit straight into the attack and spy during the fire | Kezrin is dirty; spy or not |
+| 06 | [[Scene 06 — Trial of the Fire]] | 2 — The Trials | 15 min | 3:05 | Two questions instead of three | Sarnai learns the truth (or a lie) |
 | 07 | [[Scene 07 — The War Council]] | 3 — The Council | 50 min | 3:55 | Argue Round 3; chase as one DC 13 check | The ending |
 | — | Endings & rewards | | 5 min | 4:00 | Send rewards after the session | |
 
@@ -84,9 +87,11 @@ Three-clue rule: each conclusion has at least three routes.
 - [ ] Black steel in Temur's war camp (S5, spying)
 - [ ] His papers (S7)
 
-**Iuz wants the war**
+**Iuz wants the war** *(optional: the series hook into [[The War Iuz Wants]]. The council can be won without it.)*
+- [ ] The attackers' leader's grinning-skull brand (S5, Religion DC 12)
 - [ ] Kezrin's papers: the skull seal, "from Dorakaa" (S7)
 - [ ] The ledger names Yulbar (S7)
+- **Last resort:** if Kezrin escapes with his papers and no one read the brand, the fact waits for Part 2. Nothing in Part 1 depends on it.
 
 ## Prose Checklist (applies to all scenes)
 - [x] Every read-aloud is a lead line plus beats; no box over 100 words

@@ -144,7 +144,7 @@ Difficulty is calculated for **4 PCs** with 2014 DMG thresholds and multipliers.
 | 6 | The Cutters' Camp (S4) | combat / exploration | 2 zombies — Easy | 3 zombies — Easy | 3 zombies + Corran (ghoul) — Medium | 4 zombies + 2 ghouls — Medium | Optional. Holds the letter and the unmasking. |
 | 7 | The Three Sisters (S5) | climax | Ashlock (acolyte) + 2 hounds — Hard | Ashlock (acolyte) + Barrow Stag + 2 hounds — Hard | Ashlock (cult fanatic) + Barrow Stag + 2 hounds — Hard | Ashlock (cult fanatic) + Barrow Stag + 4 hounds — Hard | The rite consumes Ashlock's action. The torc ends it. Map: Three Sisters. |
 
-**Adventuring-day check (APL 1, 4 PCs):** The likely path costs about 750–1,050 adjusted XP against a daily budget of 1,200. That leaves room for one Howl encounter, so it is a hard night but survivable. At APL 4, the climax (1,700 adjusted) sits between Hard and Deadly, and the rite-action rule keeps Ashlock out of the fight for most rounds.
+**Adventuring-day check (APL 1, 4 PCs):** The likely path costs about 750–1,050 adjusted XP against a daily budget of 1,200. Each Howl encounter runs at most once per night, so the crossing adds one or two fights. Budget for one. If both fire at APL 1, it is a hard night but survivable, and the Weeping Beck's −1 Howl is the party's breather. At APL 4, the climax (1,700 adjusted) sits between Hard and Deadly, and the rite-action rule keeps Ashlock out of the fight for most rounds.
 
 ## Treasure & Items
 - [[Torc-of-the-Hound-Mother]] — Found in Tamsin's cart. Its worth is 250 gp as art, but it is the climax key. If the PCs keep it, it is cursed (see the item note).
@@ -155,8 +155,16 @@ Difficulty is calculated for **4 PCs** with 2014 DMG thresholds and multipliers.
 - **Waycombe's thanks:** Odila offers 40 marks (40 gp) from the levy chest (all she has), two smoked hams, free lodging forever, and the hamlet's debt. If she is forced to admit the cutters were her doing, she also offers her own silver cloak-pin (15 gp).
 - **Story XP (milestone note):** Award objective XP equal to one Medium encounter at the party's APL for each of the following: torc returned, all three captives saved, Ashlock unmasked before the climax, and Kester's confession reaching his mother.
 
+## Endings at a Glance
+| Ending | Condition | Result |
+|---|---|---|
+| **A — The Mother sleeps** | The torc goes back on Kethra's breast | The pack sleeps for good. Run the full Denouement below. Waycombe's thanks in full. Story XP for each objective met. |
+| **B — A broken rite** | Ashlock is stopped and the captives are freed, but the torc does **not** go home (kept, sold or lost) | The pack sleeps only until the next dark of Luna (28 days), then wakes again without a master, and the torc's curse applies to whoever holds it. Odila pays, but quietly asks the party to take the torc back to the barrow before the moon turns. Story XP for objectives met; none for "torc returned." |
+| **C — A captive lost** | The party arrives Very late, or a captive completes the Rite Track | As A or B, but one household is in mourning. Do not soften it. Odila still pays, and the reunions in the Denouement are one fewer. |
+| **D — Retreat or defeat** | The party flees the Dreadverge or falls at the Sisters | Use *If the PCs never come*. By dawn Waycombe has lost three more people, and within a month Ashlock walks deeper into the Clatspurs with crown, pack and three risen. If the party fell, Hild finds the survivors at the Beck at first light. There is no reward from Waycombe; Tamsin leaves on the first dry road. |
+
 ## Denouement
-The pack sleeps. Ashlock is dead, captured, or fled into the bog with or without the crown, which makes him a recurring asset either way. At dawn, Waycombe counts what came back.
+*(Ending A; adjust for B–D as above.)* The pack sleeps. Ashlock is dead, captured, or fled into the bog with or without the crown, which makes him a recurring asset either way. At dawn, Waycombe counts what came back.
 
 - Odila must decide what to tell the levy-office. The party's word decides whether she is shamed or quietly forgiven.
 - Kester's debt is still owed in Schwartzenbruin. *(This is a dangling hook.)*

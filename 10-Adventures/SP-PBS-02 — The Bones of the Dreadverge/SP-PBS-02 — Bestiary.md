@@ -84,15 +84,14 @@ Apply this to any MM beast to make one of Kethra's pack:
 >
 > **Vulnerabilities** bludgeoning · **Immunities** poison · **Condition Immunities** exhaustion, frightened, poisoned · **Senses** darkvision 60 ft., passive Perception 10 · **Languages** —
 >
-> ***Trampling Charge.*** If the stag moves at least 20 ft. straight toward a creature and then hits it with an antlers attack on the same turn, the target takes an extra 7 (2d6) piercing damage and must succeed on a DC 13 Strength save or be knocked prone. If the target is prone, the stag can make one hooves attack against it as a bonus action.
+> ***Trampling Charge.*** If the stag moves at least 20 ft. straight toward a creature and then hits it with an antlers attack on the same turn, the target takes an extra 7 (2d6) piercing damage and must succeed on a DC 13 Strength save or be knocked prone.
 > ***First of the Pack.*** While the stag stands, bone beasts within 30 ft. of it can't be frightened or turned. *(This gives Turn Undead a clear target order. Telegraph it: hounds that flinch from the holy symbol steady when the stag lowers its head.)*
 > ***Hound-Mother's Law; Pack-Bound.*** See template.
 >
 > **Actions**
 > ***Antlers.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
-> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one prone creature. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 >
-> **CR verification (DMG p. 274):** *Defensive:* 45 HP falls in the CR 1/4 band (36–49) with AC 13 as expected, so defensive CR is 1/4. The poison immunity does not change effective HP meaningfully, and the bludgeoning vulnerability is not adjusted per the DMG. *Offensive:* modelled over 3 rounds (charge round 10 + 7 + 8 = 25, then 10 and 10), DPR is about 15, which is the CR 1 band. The attack bonus is +5, two above the +3 expected, so offensive CR rises to 2. *Average:* (1/4 + 2) ÷ 2 ≈ 1.1, so the stag is **CR 1**. It hits like a CR 2 creature and folds to a warhammer, which is the intent.
+> **CR verification (DMG p. 274):** *Defensive:* 45 HP falls in the CR 1/4 band (36–49) with AC 13 as expected, so defensive CR is 1/4. The poison immunity does not change effective HP meaningfully, and the bludgeoning vulnerability is not adjusted per the DMG. *Offensive:* modelled over 3 rounds (charge round 10 + 7 = 17, then 10 and 10), DPR is about 12, which is the CR 1 band (9–14). *(Revised 2026-10-17: the bonus-action hooves were removed. With them, DPR was about 15, which is the CR 2 band, and that made Encounter 7 Deadly at APL 2–4.)* The attack bonus is +5, two above the +3 expected, so offensive CR rises to 2. *Average:* (1/4 + 2) ÷ 2 ≈ 1.1, so the stag is **CR 1**. It hits like a CR 2 creature and folds to a warhammer, which is the intent.
 
 ---
 

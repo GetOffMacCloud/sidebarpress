@@ -65,7 +65,8 @@ Present Brennin's offer. **Persuasion DC 14** (DC 12 with the tiger-claw token).
 ### Round 2 — The Evidence
 Present the ravine findings. **Intelligence (Investigation) DC 13**, or reward good roleplay over dice. **Advantage** if they spied unseen and can tie the black steel in Temur's camp to the arrowhead.
 - **Automatic win:** a PC asks Temur to lay Tsolmon's arrow beside the ravine arrows. He hesitates, then does it. Same glue, same paint over brown feather, side by side on the felt before the throne. No roll.
-- **No evidence:** Round 2 is lost.
+- **No ravine evidence** (lost in the night attack, or never found): Tsolmon's arrow alone can still carry the round if a PC asks to examine it and knows what to look for. **Investigation DC 15.**
+- **No evidence at all:** Round 2 is lost.
 - **Won:** the pavilion goes silent, the kind of silence with weight. The braziers hiss. Temur's face does something complicated — grief, fury, and the vertigo of a man realizing his war-cry was written by someone else's hand. **Kezrin moves** (below).
 - **Lost:** the khans look to Temur, and Temur doesn't look at the arrows.
 
@@ -82,7 +83,11 @@ The party must give his grief somewhere to go: a border patrol instead of a war,
 **Sarnai's endorsement:** once during the council, after any failed check, she speaks for them and they reroll.
 
 ## Kezrin's Exit
-Kezrin is among Temur's guests — unless he was already exposed, in which case he left before dawn with his papers.
+**This section is the single capture rule.** The Favor Tracker, Scene 5 and Scene 6 all point here.
+
+Kezrin is among Temur's guests, unless he has already been exposed:
+- **Exposed, and Sarnai was told:** her riders have watched him since dawn. Use option 1.
+- **Exposed, but Sarnai was not told:** he tries to slip out of Yecha at first light, before the council. Run option 4 (the chase) at the picket line. Option 2 doesn't apply, because the party knows to watch for him.
 
 The moment Round 2 is won, or the false flag is spoken aloud, he starts for the flap. The party's options, cleanest first:
 1. **They prepared.** They gave Sarnai the evidence or named Kezrin to her: Naran and two riders hold the flap. **Captured, papers recovered.** No roll.

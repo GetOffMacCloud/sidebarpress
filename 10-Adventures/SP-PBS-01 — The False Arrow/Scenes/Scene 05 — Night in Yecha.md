@@ -15,7 +15,7 @@ status: drafted
 
 ## Purpose
 The party learns two things: Kezrin is dirty, and the horde is closer to war than Brennin believes. Halya's letter forces a choice.
-**Budget:** 30 minutes. Running long? Run Kezrin's visit straight into the attack, and resolve Halya's letter with one Stealth roll.
+**Budget:** 40 minutes. Running long (this scene starts after 2:20 on the clock; it should start at 2:10)? Run Kezrin's visit straight into the attack, and resolve Halya's letter with one Stealth roll made during the fire.
 
 ## The Guest Tent
 > *Your tent is felt over willow, warm from a dung-brazier.*
@@ -63,8 +63,11 @@ He offers **200 gp now, 300 after**, in Ekbiri silver, coin by coin on the felt 
 
 Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Night-Camp` ([[SP-PBS-01 — Map Assets]]).
 - **Non-lethal intent.** They knock PCs out rather than kill. The party may be unarmored and, if the Horse failed, unarmed.
+- **What the attackers can take.** The ravine evidence is taken **only if no PC is carrying it, or its carrier is knocked out.** Anything a PC grabs with the one action before the roof comes down is safe. Evidence left wrapped in a pack in the tent is gone.
 - If the party has no ravine evidence, the job is to scare them out: burn the tent, break a bow, run.
-- **Naran** arrives with two riders and a bucket line on **round 3** (**round 1** with Sarnai's endorsement). The attackers flee the moment real resistance appears.
+- **Naran** arrives with two riders and a bucket line on **round 3** (**round 1** with Sarnai's endorsement).
+- **The fight ends** when Naran arrives or when two attackers drop, whichever comes first. The rest flee into the tents.
+- **The attackers' leader** has a grinning-skull brand inside his left forearm. It is the same skull as on Kezrin's wax seal. Religion DC 12, or any PC who knows the Old One's sign, recognises the mark of **Iuz**.
 - **A captured attacker** made to talk (Intimidation DC 13) names Kezrin. If the party takes that to Sarnai, Kezrin is watched from dawn (see Scene 7, *Kezrin's exit*).
 
 ## B. Halya's Letter
@@ -72,7 +75,7 @@ Sometime tonight the sealed letter comes out — or doesn't. If a player breaks 
 
 The war camp is visible from the guest tents: Temur's riders drilling by torchlight, the glint of new blades.
 
-**If they spy:** whoever goes makes a **group Stealth check, DC 13** (if at least half succeed, nobody is seen).
+**If they spy:** whoever goes makes a **group Stealth check, DC 13** (if at least half succeed, nobody is seen). The spying can also happen *during* the fire, while the camp is busy with the bucket line. Use the same check.
 - **Unseen:** about **four hundred riders** drill under Temur's banner against perhaps half that under the Ilkhan's standard, and a third of Temur's riders carry **new black-steel blades** — the same dark, oily metal as the ravine arrowhead. No Favor change, but **advantage on council Round 2**.
 - **Seen:** **Favor −2**, and Temur throws them out of the camp:
 > **Temur:** *"South-men count our spears by night and speak of trust by day! Get out of my sight before I count yours."*

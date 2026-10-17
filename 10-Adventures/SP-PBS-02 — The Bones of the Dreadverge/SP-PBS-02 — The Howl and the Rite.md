@@ -45,7 +45,7 @@ The pack has no noses. It hunts by sound and by the pull of its stolen torc. The
 - **+1** at the start of each leg on the Dreadverge (automatic)
 - **+1** for an open flame carried that leg (a lantern with a closed hood does not count)
 - **+1** for loud combat (thunder damage, *shatter*, a war-horn, or a fight lasting longer than 3 rounds)
-- **+1** for each leg the party carries the **torc** (the pack feels it)
+- **+1** for each leg the party carries the **torc** unwrapped (the pack feels it; wrapped in running-water cloth, it does not count)
 - **+6 (to maximum) at once** if anyone takes grave goods from the barrow
 
 **Lowers by:**
@@ -57,9 +57,9 @@ The pack has no noses. It hunts by sound and by the pull of its stolen torc. The
 
 | Howl | Effect |
 |---|---|
-| 3 | **The Pack Tests You.** Run *Encounter 3* (see [[SP-PBS-02-The-Bones-of-the-Dreadverge#Encounters]]). The hounds break off after two are destroyed. Howl does not reset. |
+| 3 | **The Pack Tests You.** Run *Encounter 3* (see [[SP-PBS-02-The-Bones-of-the-Dreadverge#Encounters]]). The hounds break off after two are destroyed. Howl does not reset. **Once per night:** a later return to 3 (including the reset after the Pack Hunts) does not trigger it again. |
 | 4–5 | Bone beasts shadow the party at 120 ft, just outside the light. Their clicking stops whenever the party stops. Short rests still work, but a watch-keeper sees eyeless heads at the edge of the heather. |
-| 6 | **The Pack Hunts.** Run *Encounter 4*. Afterward, the Howl resets to **3**. |
+| 6 | **The Pack Hunts.** Run *Encounter 4*. Afterward, the Howl resets to **3**. **Once per night:** if the Howl reaches 6 again, the pack shadows the party (the 4–5 effect) and the Rite Clock advances by 1 as the party is herded off its line. There is no second fight. |
 
 ## The Rite Track (Scene 5 only)
 

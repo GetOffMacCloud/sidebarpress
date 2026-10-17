@@ -10,8 +10,11 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
+    - Scene 01 — Dusk at the Pound
+    - Scene 02 — Counting the Missing
     - Scene 03 — Crossing the Dreadverge
     - Scene 04 — The Cutters' Camp
+    - Scene 05 — The Three Sisters
   ignoredFiles:
     - 00 — Scene Index
 ---
@@ -51,7 +54,14 @@ Back to [[SP-PBS-02-The-Bones-of-the-Dreadverge]] · Mechanics: [[SP-PBS-02 — 
 | 04 | [[Scene 04 — The Cutters' Camp]] | 2 — The Dreadverge | 30 min (optional) | Unmasking, the letter, the sequel hook |
 | 05 | [[Scene 05 — The Three Sisters]] | 3 — The Stones | 60 min | Climax and denouement |
 
-**Total:** about 4 hours, or about 3.5 hours if Scene 4 is skipped.
+**Total:** about 4 hours, or about 3.5 hours if Scene 4 is skipped. Tables that play every beat run nearer 4½–5 hours; use the box below.
+
+> [!tip] Running long
+> - **At 1:15 on the clock**, end Scene 2: Hild is at the door with her crook, and the party leaves now.
+> - **Skip the Leg 1 beat.** Narrate it in one sentence and advance the Rite Clock.
+> - **Make The Pack Hunts the only Howl fight.** If the Howl reaches 3 first, the hounds shadow the party instead of attacking.
+> - **At APL 1–2, run the cut-trenches with half the creatures** (round down; keep at least one boar).
+> - **Skip Scene 4.** The clues it carries resurface in Scene 5 (see Scene 4's Alternates).
 
 ## Standing Trackers
 Copy these from [[SP-PBS-02 — The Howl and the Rite]] onto the table card.

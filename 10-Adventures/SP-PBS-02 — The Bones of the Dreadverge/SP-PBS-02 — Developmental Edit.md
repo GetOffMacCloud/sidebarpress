@@ -6,7 +6,7 @@ publish_order: 0
 publish: false
 edit_pass: developmental
 date: 2026-10-17
-status: findings-open
+status: majors-applied
 tags: [edit, developmental, internal]
 ---
 
@@ -36,12 +36,12 @@ Each has a one-line or one-paragraph fix.
 ## Findings
 
 ### Major
-- [ ] **1 · Build — the Longform list holds only Scenes 03 and 04,** so a compile drops Acts 1 and 3. The Board ticks "Manifest … reviewed" anyway. **Fix:** add Scenes 01, 02 and 05 in order, and untick the Board item until then. *(Verified 2026-10-17.)*
-- [ ] **2 · Structure — only the success ending is written.** The denouement opens "The pack sleeps." Nothing covers a retreat, a party wipe, all three captives risen, or a rite broken while the pack is still awake. **Fix:** add a lettered **Endings** block, each with its own reward and Story XP line:
+- [x] **1 · ✅ *Applied 2026-10-17.* Build — the Longform list holds only Scenes 03 and 04,** so a compile drops Acts 1 and 3. The Board ticks "Manifest … reviewed" anyway. **Fix:** add Scenes 01, 02 and 05 in order, and untick the Board item until then. *(Verified 2026-10-17.)*
+- [x] **2 · ✅ *Applied 2026-10-17.* Structure — only the success ending is written.** The denouement opens "The pack sleeps." Nothing covers a retreat, a party wipe, all three captives risen, or a rite broken while the pack is still awake. **Fix:** add a lettered **Endings** block, each with its own reward and Story XP line:
   - **A (full):** the torc goes home.
   - **B (partial):** the rite is broken but the pack is awake, or a captive is lost. The pack returns at the next dark of Luna.
   - **C (defeat or retreat):** use "If the PCs never come." Waycombe empties, and Ashlock leaves with three risen.
-- [ ] **3 · Pacing — the Howl track overfires.** Each leg adds +1 automatically, plus +1 for the torc and +1 for an open flame. In the dark of Luna, a party without darkvision carries light, so that is about +3 per leg:
+- [x] **3 · ✅ *Applied 2026-10-17.* Pacing — the Howl track overfires.** Each leg adds +1 automatically, plus +1 for the torc and +1 for an open flame. In the dark of Luna, a party without darkvision carries light, so that is about +3 per leg:
   - Pack Tests on Leg 1.
   - Pack Hunts on Leg 2, and again on Leg 3 or 4.
   - The trench fight nearly always runs past the 3-round limit.
@@ -52,14 +52,14 @@ Each has a one-line or one-paragraph fix.
   - A reset does not trigger Pack Tests.
   - The torc counts only while carried unwrapped.
   - Redo the main note's adventuring-day line to match.
-- [ ] **4 · Pacing — no running-long guidance.** The page budget is 240 minutes; a realistic run is 275–345. **Fix:** add a "Running long" box:
+- [x] **4 · ✅ *Applied 2026-10-17.* Pacing — no running-long guidance.** The page budget is 240 minutes; a realistic run is 275–345. **Fix:** add a "Running long" box:
   - At 75 minutes, end S2 with Hild at the door.
   - Skip the Leg 1 beat.
   - Make Pack Hunts the only Howl fight.
   - At APL 1–2, run the trenches with half the creatures.
-- [ ] **5 · Railroad — Ashlock can't be held.** S1 alternate: "Ashlock surrenders meekly, then slips away at dusk if he is held." This is a guaranteed escape. **Fix:** "If held, at dusk he tries to slip away (Stealth vs. guards' passive Perception)." Write what happens if he stays held: the pack runs unsteered, the captives still wait at the Stones, and the crown is on him. *(Verified.)*
-- [ ] **6 · Railroad — the Barrow Stag resets.** S3: "It returns at the Sisters with its HP intact; Ashlock's crown mends the pack." That makes it an invulnerable spectacle NPC that undoes the party's work. **Fix:** it returns with its current HP. If it was destroyed, use 2 hounds instead in Encounter 7.
-- [ ] **7 · Consistency — the Barrow Stag's CR is wrong.** The Bestiary claims "DPR is about 15, which is the CR 1 band." In the 2014 DMG, DPR 15 is the CR 2 band (15–20), and the +5 attack lifts offensive CR to 3. The average is about CR 2 (450 XP), which makes Encounter 7 **Deadly** at APL 2, 3 and 4. **Fix (smallest change):** delete Trampling Charge's bonus-action hooves. DPR drops to about 12, and the existing CR 1 math holds.
+- [x] **5 · ✅ *Applied 2026-10-17.* Railroad — Ashlock can't be held.** S1 alternate: "Ashlock surrenders meekly, then slips away at dusk if he is held." This is a guaranteed escape. **Fix:** "If held, at dusk he tries to slip away (Stealth vs. guards' passive Perception)." Write what happens if he stays held: the pack runs unsteered, the captives still wait at the Stones, and the crown is on him. *(Verified.)*
+- [x] **6 · ✅ *Applied 2026-10-17.* Railroad — the Barrow Stag resets.** S3: "It returns at the Sisters with its HP intact; Ashlock's crown mends the pack." That makes it an invulnerable spectacle NPC that undoes the party's work. **Fix:** it returns with its current HP. If it was destroyed, use 2 hounds instead in Encounter 7.
+- [x] **7 · ✅ *Applied 2026-10-17.* Consistency — the Barrow Stag's CR is wrong.** The Bestiary claims "DPR is about 15, which is the CR 1 band." In the 2014 DMG, DPR 15 is the CR 2 band (15–20), and the +5 attack lifts offensive CR to 3. The average is about CR 2 (450 XP), which makes Encounter 7 **Deadly** at APL 2, 3 and 4. **Fix (smallest change):** delete Trampling Charge's bonus-action hooves. DPR drops to about 12, and the existing CR 1 math holds.
 
 ### Moderate
 - [ ] **8 · Structure — the Clue Ledger cites clues that don't exist.**

@@ -80,7 +80,12 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 
 ## Alternates & Re-hooks
 - **The party follows Ashlock at once.** He walks a mile, then puts out his lantern and vanishes into the heather (Stealth +2 with advantage in the dark). Tracking him (Survival DC 15) leads onto the Dreadverge, so the crossing starts early without the town clues. Hild runs after them with the song and the torc-rumor at the first rest. Start the Rite Clock.
-- **The party attacks Ashlock in town.** The villagers defend him: he healed their people. This is a talk-first obstacle. If the PCs shed blood in the lane with no proof, Odila locks her doors to them, and the party loses Scene 2's help. Ashlock surrenders meekly, then slips away at dusk if he is held.
+- **The party attacks Ashlock in town.** The villagers defend him: he healed their people. This is a talk-first obstacle. If the PCs shed blood in the lane with no proof, Odila locks her doors to them, and the party loses Scene 2's help. Ashlock surrenders meekly. **If he is held,** at full dark he tries to slip away (his Stealth against the guards' passive Perception). **If he stays held:**
+  - The pack runs unsteered that night and hunts by its own law. The hounds still come for the cart.
+  - The captives are still bound at the Three Sisters, but no rite can begin. The Rite Clock becomes an **exposure clock**: at 6, Wenna dies of cold, and at 7+ Brannoc follows.
+  - The Antler Crown is in his pack.
+
+  The party can still return the torc, free the captives and lay Kethra to rest. Encounter 7 becomes the stag and the hounds guarding the barrow, with no Ashlock.
 - **The party never touches the cart.** Hild brings it up in Scene 2: *"Your fighting dogs went for the tinker's cart like it owed them money."*
 
 ## Transition

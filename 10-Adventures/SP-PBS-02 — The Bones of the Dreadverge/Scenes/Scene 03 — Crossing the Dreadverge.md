@@ -47,8 +47,8 @@ Explain both trackers plainly and put the card on the table. Then run the crossi
 | **6 — The Pack Hunts** (reset to 3 after) | 3 hounds (Hard) | 3 hounds + 2 elk (Medium) | 4 hounds + 2 elk (Medium) | Barrow Stag + 6 hounds (Medium) |
 
 - **The Pack Tests You:** The hounds come from downwind in a line, bite once each, and break off when two fall. They are measuring the party.
-- **The Pack Hunts:** The hounds circle, and the elk charge through the circle. At APL 4, the **Barrow Stag** appears, white in the dark. If the stag drops to half HP, it walks away. *(It returns at the Sisters with its HP intact; Ashlock's crown mends the pack.)*
-- **APL 1 safety valve:** Allow only one "Pack Hunts" per night at APL 1. A second hit at 6 becomes "The Pack Tests You" instead.
+- **The Pack Hunts:** The hounds circle, and the elk charge through the circle. At APL 4, the **Barrow Stag** appears, white in the dark. If the stag drops to half HP, it walks away. *(It returns at the Sisters with whatever HP it has left. If the party destroyed it, replace it in Encounter 7 with 2 bone hounds.)*
+- **Once per night (all APLs):** each Howl encounter runs at most once. See the thresholds in [[SP-PBS-02 — The Howl and the Rite]].
 
 ## Set Piece — The Cut-Trenches (Leg 3)
 > *The heath ends in a field of trenches cut straight into the black earth, each ten feet deep and wide enough for a cart. Stacked turves stand along the lips like rows of loaves. Water lies in the bottoms, catching no light. Halfway across, a turf-spade is driven upright into a stack. Something has gnawed its handle down to the blade.*
