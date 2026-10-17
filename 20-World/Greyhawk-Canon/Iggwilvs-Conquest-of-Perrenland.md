@@ -38,3 +38,4 @@ tags: [perrenland, iggwilv, history, iuz, grazzt]
 
 ## Linked Adventures
 - [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-PBS-03-The-Red-Cord]]

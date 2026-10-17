@@ -10,11 +10,11 @@ tags: [perrenland, nation, flanaess, northwest]
 > The Concatenated Cantons of Perrenland: a parliamentary republic of eight cantons between the Yatil Mountains and Lake Quag, bordered east by the Clatspur Range and the Vesve Forest. Its people are mainly of Oeridian and Flan descent, its capital is Schwartzenbruin, and its chief export is mercenaries.
 
 ## Canon Account
-- **Geography.** Bounded by Lake Quag (north; Perrenders claim the lake), the Yatils (west and south), and the Clatspurs and Vesve (east). Eight cantons. Major towns: Schwartzenbruin (capital), Traft, Exag, Krestible.
+- **Geography.** Bounded by Lake Quag (north; Perrenders claim the lake), the Yatils (west and south), and the Clatspurs and Vesve (east). Eight cantons. Major towns: [[Schwartzenbruin]] (capital), Traft, Exag, Krestible.
 - **People and language.** Mostly human, of Oeridian and Flan descent (591 CY population 468,000). Languages: Common, Flan (near the Yatils), Oeridian dialects, Stamtaal (a Common–Flan creole), and Dwarven.
 - **History.** After the Ur-Flannae, the region passed to the Flan, who largely absorbed the Oeridian migrants. Aerdi overseers ruled the lowlands until the clans united; Perren founded the nation (independence c. 400 CY). Iggwilv conquered it 481–491 CY (see [[Iggwilvs-Conquest-of-Perrenland]]).
-- **Government (576 CY).** His Gravity, Voormann Karenin Weisspeer, chairs the national council. Rechters (judges) dispense justice under *Den Recht*, a compensatory system built on the *kopprijs* (restitution payment).
-- **Military and economy.** Pike-armed militias and mountaineers; crossbowmen in the lowlands; **longbowmen and bow-armed cavalry in Clatspurgen and Traft**. Mercenary companies are the nation's chief export. Also known for fish, dairy (Perrenland cheese, black mead), and copper.
+- **Government (576 CY).** "His Gravity, **Franz**, Voorman of All Perrenland" (WoG 1983 p. 30) chairs the national council. He took office in 576, at the start of an eight-year term. After the 583 CY pact with Iuz he was "unanimously rejected at the end of his first term" (LGG p. 86), and **Karenin Weisspeer** succeeded him in 584 CY. The surname "Hussen" is Living Greyhawk material only. Rechters (judges) dispense justice under *Den Recht*, a compensatory system built on the *kopprijs* (restitution payment).
+- **Military and economy.** Pike-armed militias and mountaineers; crossbowmen in the lowlands; **longbowmen and bow-armed cavalry in Clatspurgen and Traft**. Mercenary companies are the nation's chief export (see [[Perrenland-Mercenary-Companies]]). Also known for fish, dairy (Perrenland cheese, black mead), and copper.
 - **Coinage.** Grossmark (pp), mark (gp), kleinmark (sp), pfennig (cp).
 - **Religion.** The "Old Kerk" treats Allitur, Berei, Beory, Mayaheine, Nerull, Pelor, Rao, Vathris, and Zodal as one pantheon. Open worship of evil gods is heresy, but **shrines to appease Nerull are accepted**. Wee Jas has a modest following.
 - **Iuz.** Perrenland signed a non-aggression pact with Iuz in 583 CY and stayed out of the Greyhawk Wars. The pact is reviled by Perrenders and damaged the nation's standing with Furyondy, Highfolk, and Veluna.
@@ -36,7 +36,7 @@ tags: [perrenland, nation, flanaess, northwest]
 > No 5.5e sources. The *Dungeon Master's Guide* (2024) names a different 576 CY ruler (Voorzitter Yrenda Schwartzen). It is 5.5e, so Sidebar Press ignores it.
 
 ## Contradictions
-- **Ruler in 576 CY:** Karenin Weisspeer (LGG p. 85) versus Yrenda Schwartzen (DMG 2024, 5.5e). **Stance:** Karenin Weisspeer.
+- **Ruler in 576 CY:** Franz (WoG 1983 p. 30), versus Karenin Weisspeer (LGG p. 85, which is the 591 state; he took office in 584), versus Yrenda Schwartzen (DMG 2024, 5.5e). **Stance:** Franz. *(Corrected 2026-10-16. An earlier version of this note gave Karenin for 576.)*
 - **Iggwilv's army:** see [[Iggwilvs-Conquest-of-Perrenland]].
 
 ## Sidebar Press Stance
@@ -45,4 +45,6 @@ tags: [perrenland, nation, flanaess, northwest]
 - Before 583 CY, Iuz is a live border threat. After 583 CY, villagers blame Iuz for "breaking the pact."
 
 ## Linked Adventures
+- [[SP-PBS-01-The-False-Arrow]]
 - [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-PBS-03-The-Red-Cord]]

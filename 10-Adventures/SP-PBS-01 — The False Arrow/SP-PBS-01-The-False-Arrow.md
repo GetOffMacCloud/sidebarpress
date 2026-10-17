@@ -178,9 +178,9 @@ Both events are in [[Timeline]]. Campaign-frame continuity: the A Tourist In Gre
 Favor total · council result · tiger-claw token (who holds it) · Sarnai's endorsement and the stallion's name · Kezrin captured / escaped with papers torn / escaped with papers · Temur's disposition and how many riders rode east · whether the party spied, and whether they told Sarnai · Yulbar named? · papers delivered to the Historical Society?
 
 ## Canon Check
-- [ ] Greyhawk references have Lore notes: [[Chakyik]] (new), [[Perrenland]] ✓
+- [x] Greyhawk references have Lore notes: [[Chakyik]], [[Perrenland]], [[Wolf-Nomads]], [[Istus]], [[Ekbir]]
 - [ ] Page numbers verified against print
-- [ ] Lore notes still needed: the Wolf Nomads (Wegwiur), Istus, Ekbir
+- [x] Lore notes complete (2026-10-16). Research flags: canon names no Ekbiri dialect and no Perrenland–Ekbir caravan road (both are now listed under Deviations). Wolf fletching has no canon. If Kezrin's silver needs a name, use the Ekbiri **charger**. See [[Ekbir]] and [[Wolf-Nomads]].
 - [x] Deviations from canon documented below
 - [x] No 5.5e-only lore used
 - [x] Campaign frame checked against the A Tourist In Greyhawk import (faculty, hamlet, Job Board)
@@ -193,9 +193,11 @@ Favor total · council result · tiger-claw token (who holds it) · Sarnai's end
 | Yecha: walled hill town in the Yecha Hills; pop. 3,800 (576 CY) | *LGG* (2000) p. 114 | The winter camp around the walls |
 | Mounted archers with horn bows and lances; women a larger share of fighters | *LGG* (2000) p. 114 | The Bow trial; mixed riders |
 | Saber-tooth robe of state | *needs a page* | Cligir's throne |
-| Wolf Nomads (Wegwiur): raid the Tigers; keep their word; easily offended | *LGG* (2000) pp. 133–134 | The false flag; Yulbar |
-| Istus, Baklunish goddess of fate | *WoG* (1983); *Greyhawk Adventures* (1988) | Sarnai |
+| Wolf Nomads (Wegwiur): raid the Tigers; keep their word; easily offended; Tarkhan Bargru in 576 | *WoG* (1983) p. 42; *LGG* (2000) pp. 133–134 | The false flag; Yulbar. See [[Wolf-Nomads]]. |
+| Istus, Baklunish goddess of fate (golden spindle, three strands) | *WoG* (1983) p. 63; *Greyhawk Adventures* (1988) pp. 13–14; *LGG* (2000) p. 114 | Sarnai. See [[Istus]]. |
 | Perrenland trade and barter with the nomads | *LGG* (2000) pp. 85, 114 | Brennin's brandy and the parley |
+
+**Deviations (research, 2026-10-16):** the Perrenland–Ekbir caravan road over the Yatils and the "Ekbiri dialect of Baklunish" have no canon source. They are Sidebar Press extrapolation (see [[Ekbir]]).
 
 **Deviations (homebrew):** the hospice and its priests, Temur, Sarnai, Kezrin and the false-flag murders, Tsolmon, Yulbar's payments, the three trials, the parley terms, the Favor track, the tiger-claw token, and the Wolf sinew-fletching tell are invented. The tent-city is the horde's winter camp around canon Yecha's walls. Horde size (70,000+) is uncited and is not used in play. Kartner's and Federkiel's personalities and lines are Sidebar Press elaborations of placeholder department heads from the A Tourist In Greyhawk vault.
 

@@ -16,7 +16,7 @@ publish: false
 - [x] Act structure and scene list in [[10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index]] with time budgets
 - [x] Climax-at-a-Glance table: every solution seeded in an earlier scene
 - [x] Signature mechanic note created (`type: adventure-mechanic`)
-- [ ] Canon research done; every canon claim has a Lore note in `20-World/Greyhawk-Canon`
+- [x] Canon research done; every canon claim has a Lore note in `20-World/Greyhawk-Canon`
 
 
 ## 2 · Write

@@ -1,9 +1,11 @@
 ---
+
 kanban-plugin: board
 type: board
-adventure: "SP-PBS-01"
+adventure: SP-PBS-01
 section: internal
 publish: false
+
 ---
 
 ## 1 · Frame
@@ -16,7 +18,7 @@ publish: false
 - [x] Act structure and scene list in [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] with time budgets
 - [x] Climax-at-a-Glance table: every solution seeded in an earlier scene
 - [x] Signature mechanic note created (`type: adventure-mechanic`)
-- [ ] Canon research done; every canon claim has a Lore note in `20-World/Greyhawk-Canon`
+- [x] Canon research done; every canon claim has a Lore note in `20-World/Greyhawk-Canon`
 
 
 ## 2 · Write
@@ -75,6 +77,6 @@ publish: false
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
+{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
 ```
 %%

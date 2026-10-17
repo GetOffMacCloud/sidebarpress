@@ -200,20 +200,20 @@ Dangling hooks left for future adventures: **none, by design.** This is a one-an
 **Ritterstadt continuity (outside Sidebar Press threads):** Konrad's choice bears on the Kettenhaus Schuldbrief. *Coin* pays down most of the debt and changes the arithmetic of [[Vethkar Graun]]'s unfiled report. *Swords* leave the debt where it is but garrison the town. Record the choice in Konrad's NPC note and in the gazetteer's 576 entry. The adventure also deepens Konrad's NPC record: it explains why the von Eisfelds came north at all.
 
 ## Canon Check
-- [x] Greyhawk references link to existing Lore notes: [[Perrenland]], [[Iggwilvs-Conquest-of-Perrenland]]
-- [ ] Lore notes still needed: Schwartzenbruin, Kord, Zilchus, the free companies of Perrenland
+- [x] Greyhawk references have Lore notes: [[Perrenland]], [[Iggwilvs-Conquest-of-Perrenland]], [[Schwartzenbruin]], [[Kord]], [[Zilchus]], [[Perrenland-Mercenary-Companies]]
+- [x] Lore notes complete (2026-10-16). Research flags: **Jürgen of Traft and the Ernes, company charters, neutral ground and "the swords" are fan material** (*Oerth Journal* #5, 1997), adopted as house canon. Kord's following among Perrender mercenaries is fan-sourced too. The Voormann in 576 is **Franz**.
 - [ ] Page numbers verified against print
 - [x] Deviations from canon documented below
 - [x] No 5.5e-only lore used
 
 | Canon element used | Sources to cite (page to verify) | How it is used |
 |---|---|---|
-| Schwartzenbruin, capital on the Quag where the Velverdyva leaves the lake | *WoG* (1983) pp. 29–32; *LGG* (2000) pp. 85–86 | Setting |
-| Perrenland's mercenary culture; companies as the chief export; neutral ground in winter | *LGG* (2000) p. 85; Region Report 0003 | The Red Cord's whole premise |
-| Confederation offices: Council of Hetmen; the three unofficial voices (merchants, swords, scholars) | *LGG* (2000) p. 85 (verify); Region Report 0003 | The charter-roll review; the three witnesses |
+| Schwartzenbruin, capital on the SW shore of Lake Quag, on the Velverdyva route ("where the river leaves the lake" is house extrapolation) | *WoG* (1983) pp. 29–31; *LGG* (2000) pp. 85, 153 | Setting. See [[Schwartzenbruin]]. |
+| Perrenland's mercenary companies as the chief export (official); charters and neutral ground (fan) | *WoG* (1983) p. 30; *LGG* (2000) pp. 85–86; *Oerth Journal* #5 (1997) pp. 21–22 (fan) | The Red Cord's whole premise. See [[Perrenland-Mercenary-Companies]]. |
+| Confederation offices; the three unofficial voices (merchants, swords, scholars) | *Oerth Journal* #5 (1997) (fan; verify page); Region Report 0003 | The charter-roll review; the three witnesses |
 | Iggwilv's conquest, 480–481 CY, out of the Yatils | *S4* (1982); *LGG* (2000) pp. 85–86 | The night of the Kalte Klamm |
-| Kord (companies), Zilchus (merchants) | *WoG* (1983); *Greyhawk Adventures* (1988) | The bout; the merchant witness |
-| Jürgen of Traft and the Ernes | Region Report 0003 (verify the canon source before print) | The swords' witness |
+| Kord (followed by mercenaries: fan), Zilchus (merchants: LGG p. 85) | *WoG* (1983) p. 63; *Oerth Journal* #5 p. 22 (fan) | The bout; the merchant witness. See [[Kord]], [[Zilchus]]. |
+| Jürgen of Traft and the Ernes (**fan**, post-Wars; he is in his mid-twenties in 576) | *Oerth Journal* #5 (1997) pp. 22–23 | The swords' witness. Credit the source if printed. |
 | Marks and kleinmarks | *LGG* (2000) p. 85 | Prices |
 
 **Deviations (homebrew):** The Hundred, the red cord custom, the halved-standard custom, the Red Cord tavern, Dornhalm & Söhne, the Kalte Klamm, and the von Eisfelds' southern manor are all invented. Wolfram von Eisfeld and Lorenz Kammerer are invented and dead. Ritterstadt, Konrad, Gerhard, Edmund and the Kettenhaus come from the Ritterstadt gazetteer (see [[RG-01 — History of Ritterstadt]]). **Generational math:** Gerhard was born around 472 CY (eight in 480) and died around 548 at about 76. Edmund was born around 500. Konrad was born around 525 and is about 51 in 576.

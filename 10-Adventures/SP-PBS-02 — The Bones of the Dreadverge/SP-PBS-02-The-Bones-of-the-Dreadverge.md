@@ -172,7 +172,7 @@ Both threads are logged in [[Plot-Threads]], and both 576 CY events are in [[Tim
 ## Canon Check
 - [x] Greyhawk references have Lore notes: [[Perrenland]], [[Canton-of-Clatspurgen]], [[Clatspur-Range]], [[Iggwilvs-Conquest-of-Perrenland]]
 - [ ] Page numbers verified against print (currently from the Encyclopedia Greyhawkania Index)
-- [ ] Lore notes still needed: the Flan, Nerull and Wee Jas, Luna and Celene / Common Year calendar
+- [x] Lore notes complete: [[The-Flan]], [[Nerull]], [[Wee-Jas]], [[The-Common-Year-Calendar]] (Luna and Celene); Schwartzenbruin in [[Schwartzenbruin]]
 - [x] Deviations from canon documented below
 - [x] No 5.5e-only lore used
 
