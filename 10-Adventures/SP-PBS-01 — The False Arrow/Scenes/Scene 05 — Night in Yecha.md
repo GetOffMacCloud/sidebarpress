@@ -23,7 +23,7 @@ The party learns two things: Kezrin is dirty, and the horde is closer to war tha
 Then deliver these one at a time:
 - Someone has left you the good things: a haunch of mutton still on the bone, flatbread, salt, and a skin of kumiss — fermented mare's milk, sour enough to make your eyes water.
 - Outside, Yecha settles: dogs barking, a far-off song in Baklunish, the endless small thunder of the herds.
-- For the first time since the pass, your fingers are warm.
+- The brazier's heat reaches across the tent: the first real warmth since the pass.
 
 **To the table:** *"A boy is whittling by the tent flap and pretending not to listen. What do you do with your first quiet evening in Yecha?"*
 
@@ -35,6 +35,8 @@ Two things happen tonight, in either order. If the players bite on neither, Kezr
 [[Master-Kezrin]] comes after dark with a wineskin of something southern and expensive. He ducks in like he owns the tent, clasps the nearest PC's elbow, and settles by the brazier uninvited.
 
 > **Kezrin:** *"My friends! The south-men who rode the black one — or gentled him, the stories differ. I am Kezrin. I buy horses, I sell steel, and I know everyone worth knowing between Ekbir and the Burneal."*
+
+*(If the Horse trial failed: "My friends! The south-men the black one threw! Brave, though. The stories agree on brave.")*
 
 He pours, generous, and leans in:
 > **Kezrin:** *"The old khan will die. The young khan will rule. Priests' letters do not survive successions. Go home. Tell Brennin the horde can't be trusted. I'll make it worth your while."*
@@ -76,7 +78,7 @@ Sometime tonight the sealed letter comes out — or doesn't. If a player breaks 
 The war camp is visible from the guest tents: Temur's riders drilling by torchlight, the glint of new blades.
 
 **If they spy:** whoever goes makes a **group Stealth check, DC 13** (if at least half succeed, nobody is seen). The spying can also happen *during* the fire, while the camp is busy with the bucket line. Use the same check.
-- **Unseen:** about **four hundred riders** drill under Temur's banner against perhaps half that under the Ilkhan's standard, and a third of Temur's riders carry **new black-steel blades** — the same dark, oily metal as the ravine arrowhead. No Favor change, but **advantage on council Round 2**.
+- **Unseen:** about **four hundred riders** drill under Temur's banner against perhaps half that under the Ilkhan's standard, and nearly a third of Temur's riders carry **new black-steel blades** — the same dark, oily metal as the ravine arrowhead. No Favor change, but **advantage on council Round 2**.
 - **Seen:** **Favor −2**, and Temur throws them out of the camp:
 > **Temur:** *"South-men count our spears by night and speak of trust by day! Get out of my sight before I count yours."*
 
@@ -93,7 +95,7 @@ The war camp is visible from the guest tents: Temur's riders drilling by torchli
 - **Taste:** kumiss, which nobody finishes the first time
 
 ## Alternates & Re-hooks
-- **The party wants to go straight to Sarnai about Kezrin tonight.** She hears them out, says *"Tomorrow, at the fire,"* and posts Naran's cousin outside their tent. The attack still comes.
+- **The party wants to go straight to Sarnai about Kezrin tonight.** She hears them out, says *"Tomorrow, at the fire,"* and posts Naran's cousin outside their tent. With the guard posted, the attack is a **theft attempt only** (no fire): Naran's cousin raises the alarm on round 1, and one attacker is caught at the tent flap.
 - **The party ambushes the attackers.** Let them. Prisoners talk (Intimidation DC 13).
 
 ## Transition

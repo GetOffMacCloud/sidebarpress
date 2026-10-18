@@ -35,14 +35,15 @@ The party starts at **0**: strangers, tolerated because they came under a parley
 | **7–9** | **Voice and the tiger-claw token.** Cligir gives them the floor and takes the token off his own wrist. Round 1 Persuasion DC drops from 14 to 12. |
 | **5–6** | **Voice.** Run the council. |
 | **4** | **Voice only with Sarnai's endorsement** (gentled the stallion). Otherwise, below. |
-| **0–4** | **Expelled.** If Sarnai holds the ravine evidence → **Soft fail** (she presents it). If not → **Cast out**. |
+| **0–4** | **Expelled.** If the soft fail is open (rule below) → **Soft fail** (she presents it). If not → **Cast out**. |
 
 ## Other Standing Effects
 
 - **Weapons.** Batzorig holds the party's blades from Scene 2. Horse success: returned at once. Partial: after the Bow. Fail: when they leave Yecha.
 - **Sarnai's endorsement** (gentling success only): help arrives on round 1 of the night attack; one council reroll; carries Favor 4 over the threshold.
 - **Spied unseen:** advantage on council Round 2.
-- **Told Sarnai about Kezrin before the council:** Kezrin is captured at the flap, no roll; the soft fail is open.
+- **Told Sarnai about Kezrin before the council:** Kezrin is captured at the flap, no roll (the capture rule is in Scene 7, *Kezrin's Exit*).
+- **The soft-fail rule (the only one):** the soft fail is open if Sarnai **has seen the evidence**, or **has been told of it and will fetch Tsolmon's arrow herself**, unless she caught the party lying at the Fire.
 - **Caught lying at the Fire:** Sarnai's face is stone at the council; she won't take their evidence, and the soft fail is closed.
 
 ## The Council Matrix

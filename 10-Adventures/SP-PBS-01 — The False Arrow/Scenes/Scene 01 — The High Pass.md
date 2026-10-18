@@ -22,7 +22,7 @@ Hand over the parley letter and the gift, plant Halya's sealed letter without ex
 
 Then deliver these one at a time, as their attention finds them:
 - Frost furs the lintels; the chapel bell is muffled with sacking so it won't crack in the cold.
-- In the yard, mules stamp and blow steam. The yard-dog watches you pack with the flat stare of an animal that has seen caravans leave before.
+- In the yard, mules stamp and blow steam beside the packs. The yard-dog watches with the flat stare of an animal that has seen caravans leave before.
 - Above the gate, someone has chalked the Cuthbertine cudgel — and under it, in a smaller hand: *come back alive.*
 
 **To the table:** *"Father Brennin is waiting at the gate with a sealed letter. Who steps up to take it?"*
@@ -42,17 +42,19 @@ Before the gate, [[Sister-Halya]] draws the most honest-looking PC into a stable
 - If asked what's in it: *"If I wanted to say it out loud, I wouldn't have sealed it."*
 - If asked whether Brennin knows: a pause. *"Brennin has enough to carry."*
 
-**Do not hand over [[SP-PBS-01 — Handout — Halya's Sealed Instruction|Handout 2]] yet.** Give it to the player only when they break the seal inside Yecha (Scene 5). Let the letter sit in the player's mind for three weeks of road.
+**Do not hand over [[SP-PBS-01 — Handout — Halya's Sealed Instruction|Handout 2]] yet.** Give it to the player only when they break the seal inside Yecha (Scene 5). Let the letter sit in the player's mind for three days of road.
 
 ## The Descent
 > *The pass lets you go the way a miser gives coin — grudgingly, a switchback at a time. The wind finds every seam in your clothes. Below, the Yatils fall away into white: foothills, then the steppe, a flat grey sea under a flatter sky. The hospice bell rings once behind you for the road — thin, bright, already lost in the wind.*
 
-**To the table:** *"Three weeks of winter road. Tell me how each of you is keeping the party alive on it."*
+**To the table:** *"Three days down out of the pass and across the steppe. Tell me how each of you is keeping the party alive on it."*
 
-**The journey** is a single skill sequence: each PC makes one check of their choice — Survival to find the trail, Athletics to break a drift, Perception to spot the ice, Animal Handling to calm the mules (DC 12). **Two or more failures:** Encounter 1.
+**The journey** is a single skill sequence: each PC makes one check of their choice — Survival to find the trail, Athletics to break a drift, Perception to spot the ice, Animal Handling to calm the mules (DC 12). A PC carrying the Scouts & Surveyors terrain log (Scene 0) makes their check with **advantage**. **Failures equal to half the party (rounded up) or more:** Encounter 1.
 
 ## Encounter 1 — Steppe Predators (earned)
 > *The mules smell it first — heads up, ears flat. Then the snowfield moves: low shapes, grey on grey, circling wide.*
+
+**To the table:** *"The mules are pulling at their ropes. What do you do?"*
 
 | Party | Creatures | Difficulty (level 3) |
 |---|---|---|

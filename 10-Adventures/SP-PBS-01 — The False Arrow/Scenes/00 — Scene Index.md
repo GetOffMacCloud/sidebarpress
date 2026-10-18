@@ -77,6 +77,8 @@ Three-clue rule: each conclusion has at least three routes.
 - [ ] Glued fletching, grey paint over brown feather (S4, Investigation/Survival DC 13, or a fieldcraft/history student automatically)
 - [ ] The beater: "someone's idea of Wolf arrows" (S4)
 - [ ] Bows left on the bodies; drag-marks to the den (S4)
+- [ ] First sight of Tsolmon's arrow in Temur's sash (S2)
+- [ ] The beater: Tsolmon's arrow "matches these" (S4)
 - [ ] Tsolmon's arrow beside the ravine arrows (S7)
 
 **Kezrin is behind it**
@@ -85,7 +87,9 @@ Three-clue rule: each conclusion has at least three routes.
 - [ ] His bribe and his visit (S5)
 - [ ] A captured attacker names him (S5, Intimidation DC 13)
 - [ ] Black steel in Temur's war camp (S5, spying)
-- [ ] His papers (S7)
+- [ ] The attackers shout to each other in Ekbiri (S5)
+- [ ] Sarnai's softened line: his steel "came cheaper than bread" (S7, Federkiel PC)
+- [ ] *Confirms:* his papers (S7)
 
 **Iuz wants the war** *(optional: the series hook into [[The War Iuz Wants]]. The council can be won without it.)*
 - [ ] The attackers' leader's grinning-skull brand (S5, Religion DC 12)

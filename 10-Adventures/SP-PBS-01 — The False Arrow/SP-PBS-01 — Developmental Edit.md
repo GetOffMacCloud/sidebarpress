@@ -43,10 +43,10 @@ There are no punished refusals. The Halya choice is a model of how to handle one
 
 ### Moderate
 - [x] **5 · ✅ *Applied 2026-10-17.* Build — the Longform list omits Scenes 00, 02 and 07.** A compile would ship without the climax, yet the Board ticks "Manifest reviewed." **Fix:** add the three scenes in order and untick the Board item until then. *(Verified 2026-10-17.)*
-- [ ] **6 · Railroad — the tiger fights to the death,** so the "**Fail:** the tiger escapes" result can never happen, and the trial has one solution. **Fix:** "It flees at 10 hp or when its mate falls." Add a partial result: "Driven off and the den fired or blocked = +1."
-- [ ] **7 · Structure — a retreat from the tiger loses the clues.** Three of the four routes to "the Wolf arrows are fakes" sit at the den. **Fix:** extend the S04 alternate: "…or retreats — Temur's riders recover the bodies; the beater brings Sarnai one arrow."
-- [ ] **8 · Railroad — a precaution that changes nothing.** S05 alternate: "The attack still comes," even after the party warns Sarnai and she posts a guard. **Fix:** "With the guard posted, it is a theft attempt only. Naran's cousin raises the alarm on round 1, and one attacker is caught."
-- [ ] **9 · Structure — payoffs promised but never written:**
+- [x] **6 · Railroad — the tiger fights to the death,** so the "**Fail:** the tiger escapes" result can never happen, and the trial has one solution. **Fix:** "It flees at 10 hp or when its mate falls." Add a partial result: "Driven off and the den fired or blocked = +1."
+- [x] **7 · Structure — a retreat from the tiger loses the clues.** Three of the four routes to "the Wolf arrows are fakes" sit at the den. **Fix:** extend the S04 alternate: "…or retreats — Temur's riders recover the bodies; the beater brings Sarnai one arrow."
+- [x] **8 · Railroad — a precaution that changes nothing.** S05 alternate: "The attack still comes," even after the party warns Sarnai and she posts a guard. **Fix:** "With the guard posted, it is a theft attempt only. Naran's cousin raises the alarm on round 1, and one attacker is caught."
+- [x] **9 · Structure — payoffs promised but never written:**
   - S07: "catches what she leaves out"
   - S02: Cligir "remembers it"
   - S02: Sarnai "remembers the face"
@@ -54,27 +54,27 @@ There are no punished refusals. The Halya choice is a model of how to handle one
   - Main note: "advantage on the Scene 1 journey check"
 
   **Fix:** write each one. Give two softened council lines, one of them a clue. Cligir's memory gives +1 on Round 1. Sarnai's first S06 question goes to the face she remembers. Add the fate question to S06. Put the advantage in the S01 journey paragraph.
-- [ ] **10 · Consistency — the Soft fail is defined three ways** (Tracker ×2, S06). **Fix:** one rule in the Tracker: "Soft fail is open if Sarnai has seen the evidence, or been told of it and will fetch Tsolmon's arrow herself, unless she caught them lying."
-- [ ] **11 · Consistency — the travel time doesn't fit the calendar.** "Three weeks of road" appears in S00, S01 and Halya's letter. Six weeks of travel does not fit Needfest–Fireseek, and three weeks from the pass to Yecha is implausible. **Fix:** three weeks from Ritterstadt to the hospice, then **three days** from the hospice to Yecha.
-- [ ] **12 · Railroad — no decline path.** The S00 Gate box ("You leave by the palisade gate at dawn") assumes the party said yes. **Fix:** put the box under "When they accept." Add: if they decline, Kartner sends another cohort, and the adventure resolves offscreen as *Heard and refused* (the Spring Return hook).
-- [ ] **13 · Structure — NPC dossiers lack Knows and escalation lines** (must 9). **Fix:** add a "Knows:" bullet and a deny → redirect → act line to Kezrin, Temur, Sarnai, Cligir, Batzorig and Halya. (The SP-PBS-03 NPC notes already use this pattern.)
+- [x] **10 · Consistency — the Soft fail is defined three ways** (Tracker ×2, S06). **Fix:** one rule in the Tracker: "Soft fail is open if Sarnai has seen the evidence, or been told of it and will fetch Tsolmon's arrow herself, unless she caught them lying."
+- [x] **11 · Consistency — the travel time doesn't fit the calendar.** "Three weeks of road" appears in S00, S01 and Halya's letter. Six weeks of travel does not fit Needfest–Fireseek, and three weeks from the pass to Yecha is implausible. **Fix:** three weeks from Ritterstadt to the hospice, then **three days** from the hospice to Yecha.
+- [x] **12 · Railroad — no decline path.** The S00 Gate box ("You leave by the palisade gate at dawn") assumes the party said yes. **Fix:** put the box under "When they accept." Add: if they decline, Kartner sends another cohort, and the adventure resolves offscreen as *Heard and refused* (the Spring Return hook).
+- [x] **13 · Structure — NPC dossiers lack Knows and escalation lines** (must 9). **Fix:** add a "Knows:" bullet and a deny → redirect → act line to Kezrin, Temur, Sarnai, Cligir, Batzorig and Halya. (The SP-PBS-03 NPC notes already use this pattern.)
 
 ### Minor
-- [ ] **14 · Boxes that assign actions or sensations:** S00 "You leave by the palisade gate"; S01 "watches you pack"; S05 "your fingers are warm"; S06 "when you sit". S00 Gate, S01 Encounter 1 and S07 Pavilion also have no "To the table" prompt, yet the Prose Checklist is ticked. **Fix:** rewrite each as perception ("A mule waits at the gate…") and untick the checklist until it is true. The S06 silence is deliberate; note the exception.
-- [ ] **15 · Cover line and Locals Know** (musts 1, 2). **Fix:** cover line "APL 3 · 4–6 characters · one 4-hour session". Add a three-line What the Locals Know: the caravans blame Tiger raiders, and Yecha blames the Wolves.
-- [ ] **16 · The S01 fight trigger doesn't scale.** "Two or more failures" fires about 35% of the time at 4 PCs and about 58% at 6, and the bigger party also gets the Hard version. **Fix:** "failures equal to half the party, rounded up."
-- [ ] **17 · S05 Kezrin's opener assumes the Horse trial succeeded.** **Fix:** add the variant "(If the Horse failed: 'The south-men the black one threw!')"
-- [ ] **18 · Numbers:**
+- [x] **14 · Boxes that assign actions or sensations:** S00 "You leave by the palisade gate"; S01 "watches you pack"; S05 "your fingers are warm"; S06 "when you sit". S00 Gate, S01 Encounter 1 and S07 Pavilion also have no "To the table" prompt, yet the Prose Checklist is ticked. **Fix:** rewrite each as perception ("A mule waits at the gate…") and untick the checklist until it is true. The S06 silence is deliberate; note the exception.
+- [x] **15 · Cover line and Locals Know** (musts 1, 2). **Fix:** cover line "APL 3 · 4–6 characters · one 4-hour session". Add a three-line What the Locals Know: the caravans blame Tiger raiders, and Yecha blames the Wolves.
+- [x] **16 · The S01 fight trigger doesn't scale.** "Two or more failures" fires about 35% of the time at 4 PCs and about 58% at 6, and the bigger party also gets the Hard version. **Fix:** "failures equal to half the party, rounded up."
+- [x] **17 · S05 Kezrin's opener assumes the Horse trial succeeded.** **Fix:** add the variant "(If the Horse failed: 'The south-men the black one threw!')"
+- [x] **18 · Numbers:**
   - The ledger's "120" blades is not "a third" of 400; call it "nearly a third".
   - The XP line "300–1,300" should be "1,050–2,200" for 4 PCs.
   - Act 2 "≈2 hr" should be "≈2¼ hr".
-- [ ] **19 · The Clue Ledger is missing clues that exist in the scenes:**
+- [x] **19 · The Clue Ledger is missing clues that exist in the scenes:**
   - S05: the attackers shouting in Ekbiri
   - S04: the beater pointing to Tsolmon's arrow
   - S02: the first sight of the arrow
 
   "His papers (S7)" confirms Kezrin's guilt rather than discovering it, so move it under *confirms*.
-- [ ] **20 · S02 alternate is ambiguous:** "Batzorig takes them to Yecha under guard" could mean the weapon or the PC. There is also no branch for a party that draws steel on the snow. **Fix:** "…takes the PC under guard." Add: "If the party fights: the riders fall back and shoot to wound; the party enters Yecha as prisoners at Favor 0; Sarnai sets the trials anyway."
+- [x] **20 · S02 alternate is ambiguous:** "Batzorig takes them to Yecha under guard" could mean the weapon or the PC. There is also no branch for a party that draws steel on the snow. **Fix:** "…takes the PC under guard." Add: "If the party fights: the riders fall back and shoot to wound; the party enters Yecha as prisoners at Favor 0; Sarnai sets the trials anyway."
 
 ## Pacing
 | Scene | Budget | Estimated | Note |

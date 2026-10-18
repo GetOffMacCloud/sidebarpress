@@ -46,15 +46,19 @@ A frostbitten caravan master staggers into the Fiend's Rest with a letter from t
 
 Her gaze lands on the party.
 
-> **Kartner:** *"That leaves students. Field credit, and the good father's report comes to me. Three weeks of road each way. Know the exits before you enter."*
+> **Kartner:** *"That leaves students. Field credit, and the good father's report comes to me. Three weeks of road to the pass, then three days of steppe. Know the exits before you enter."*
 
 If anyone hesitates: *"I'd go myself, but somebody has to correct the rivers while I'm gone."*
 
 > [!info]- Optional color — the Field Station (only if you're ahead of the clock)
 > See the imported notes for the real hamlet: [[The Fiend's Rest Public House]], [[The Ritter's Hall]], [[The Wachturm]], [[St. Erika's Chapel]], and the residents in `04 Residents`. A Scouts & Surveyors student offers the party a copy of the terrain log for the Yatil road; a Ramblers' Fellowship member asks them, too casually, to sketch anything along the way that isn't on a University map.
 
-## The Gate
-> *You leave by the palisade gate at dawn, Brennin's posting folded in oilskin inside the steadiest coat, your packs roped to a mule that already hates you. Behind you, the Wachturm lamp. Ahead, the road south and west toward the Yatils, white and waiting. Three weeks of winter road lie between you and a stone hospice in a high pass.*
+## The Gate (when they accept)
+> *The palisade gate stands open at dawn. A mule waits with your packs roped on, its ears already laid back. Behind it burns the Wachturm lamp. Ahead, the road runs south and west toward the Yatils, white and waiting. Three weeks of winter road lie between the gate and a stone hospice in a high pass.*
+
+**To the table:** *"Who carries Brennin's posting, and where on them do they keep it?"*
+
+**If they decline.** Kartner shrugs and pins the letter back up: *"Then someone else gets the credit."* Another cohort carries the parley, and the adventure resolves offscreen as *Heard and refused*. In spring, word comes that the Ilkhan wants Brennin to come and speak himself (the Spring Return; see [[Plot-Threads]]).
 
 ## Sensory Palette
 - **Sight:** pale new stakes in an old palisade; a lamp burning in daylight

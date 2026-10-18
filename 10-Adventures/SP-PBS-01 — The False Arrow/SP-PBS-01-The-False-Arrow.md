@@ -23,6 +23,8 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 
 # The False Arrow
 
+**APL 3 (level 3) · 4–6 characters · one 4-hour session**
+
 > *You have been hired to travel to Yecha, at the base of the Yatil Mountains, and earn the trust of the Chakyik Horde by a group of Oeridian priests. The cold weather and colder welcome you expect to receive make this quite the undertaking indeed.*
 >
 > A Social / Wilderness one-shot for **4–6 level-3 characters**, Part 1 of *The Plains of Blood and Steel*. A party of Greyhawk University freshmen from the Ritterstadt Field Station carries a priest's parley into the winter camp of the Tiger Nomads. To be heard, they must pass the horde's three trials while the old Ilkhan's heir calls for war against the Wolf Nomads. The war cry was written by someone else: an agent of Iuz has been arming the war faction and staging murders with false Wolf arrows. Everything the party does moves a visible **Favor** track, and the war council at the end plays out on what they earned.
@@ -53,7 +55,12 @@ The party are **Freshmen (level 3, undeclared)** at [[Greyhawk-University|Greyha
 - **Istus.** The Lady of Fate is the horde's center. Sarnai speaks of threads, cloth, and the loom.
 - **The Wolves.** The Wegwiur raid the Tigers' herds every winter. They are known for keeping their word, which makes a staged Wolf massacre easier to believe and worse to discover.
 
-## Background (the hidden truth)
+## What the Locals Know
+- **At Ritterstadt:** the Yatil pass is closing. The caravans say the Tiger Nomads have started "taxing it with arrows," and Father Brennin wants a parley carried by people the nomads won't shoot on sight.
+- **On the caravan road:** Tiger raiders are to blame, and the horde is a mob of barbarians.
+- **In Yecha:** the Wolves murdered Temur's brother. Tsolmon came home with a Wolf arrow in his back, and everyone has heard about it.
+
+## What's Really Happening
 *Homebrew; see Canon Check.*
 
 A stone hospice of St. Cuthbert sits in a high Yatil pass on the Perrenland–Ekbir caravan road, kept by [[Father-Brennin|Father Brennin]]. Twice this winter, Chakyik raiders have taken its supply trains. Brennin wants a parley: grain, salt, and medicine every spring, if the Tiger's riders leave the road alone.
@@ -101,11 +108,11 @@ Likely path: Scenes 00 → 07. See [[10-Adventures/SP-PBS-01 — The False Arrow
 - [[Scene 01 — The High Pass]] (20 min): Brennin's letter, Halya's sealed letter, the descent, an earned hazard.
 - [[Scene 02 — The Cold Welcome]] (25 min): Batzorig disarms them; Cligir's question; the three trials are set.
 
-### Act 2 — The Trials (≈2 hr with break)
+### Act 2 — The Trials (≈2¼ hr with break)
 - [[Scene 03 — Trial of the Horse]] (30 min): ride or gentle the black stallion; weapons return on success.
 - [[Scene 04 — Trial of the Bow]] (40 min): the saber-tooth, and the patrol's bodies.
-- [[Scene 05 — Night in Yecha]] (30 min): Kezrin's offer and his men; Halya's letter.
-- [[Scene 06 — Trial of the Fire]] (25 min): three honest answers at Sarnai's fire.
+- [[Scene 05 — Night in Yecha]] (40 min): Kezrin's offer and his men; Halya's letter.
+- [[Scene 06 — Trial of the Fire]] (15 min): three honest answers at Sarnai's fire.
 
 ### Act 3 — The Council (≈55 min)
 - [[Scene 07 — The War Council]] (50 min): three rounds, Kezrin's exit, Cligir's ruling; endings.
@@ -118,7 +125,7 @@ Likely path: Scenes 00 → 07. See [[10-Adventures/SP-PBS-01 — The False Arrow
 | **3 — The choice** | Persuasion or Insight DC 14 (advantage if Round 2 won), or a champion's duel | S4 (Temur's grief), S6 (honest answers) |
 | **Kezrin's exit** | Warned Sarnai (auto-capture), Perception DC 14, a stopping action, or a DC 13 chase | S5 (his visit), S6 (telling Sarnai) |
 
-**Results:** Rounds 2 + 3 won → *The parley holds*. Any two rounds → *A year bought*. Round 2 only → *Truth without trust*. Otherwise → *Heard and refused*. Below Favor 5 → *Soft fail* (if Sarnai holds the evidence) or *Cast out*.
+**Results:** Rounds 2 + 3 won → *The parley holds*. Any two rounds → *A year bought*. Round 2 only → *Truth without trust*. Otherwise → *Heard and refused*. Below Favor 5 → *Soft fail* (if open; see [[SP-PBS-01 — The Favor Tracker]]) or *Cast out*.
 
 ## Key NPCs
 - [[Ilkhan-Cligir|Ilkhan Cligir]] — the Unvanquishable Tiger Lord. Old, still, impressed only by kept words.
@@ -155,7 +162,7 @@ Difficulty for **level 3** with 2014 DMG thresholds and multipliers. Full statbl
 | 7 | The War Council (S7) | social climax | — | — | Three rounds; optional duel and chase. Map: Duel Ring. |
 | 7a | Champion's Duel (S7, optional) | combat | 1 berserker vs. one PC | same | First to three hits, non-lethal; the berserker's Reckless attacks help the PC |
 
-**Adventuring-day check (4 PCs, level 3):** the likely path costs 300–1,300 adjusted XP against a daily budget of 4,800. Combat is not the threat; Favor is.
+**Adventuring-day check (4 PCs, level 3):** the likely path costs 1,050–2,200 adjusted XP against a daily budget of 4,800. Combat is not the threat; Favor is.
 
 ## Treasure & Rewards
 - [[Tiger-Claw-Token]] — Favor 7+, given when Cligir grants voice. Uncommon wondrous item.

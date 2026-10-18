@@ -23,7 +23,7 @@ The climax. Three rounds decide two questions — does the parley pass, and does
 | **7–9** | Voice **and** the tiger-claw token. Run the council. |
 | **5–6** | Voice. Run the council. |
 | **4 with Sarnai's endorsement** | Treat as 5. |
-| **Below 5** | Temur moves to expel them; Cligir, bound by custom, allows it. **Sarnai holds the evidence → Soft fail. Otherwise → Cast out.** |
+| **Below 5** | Temur moves to expel them; Cligir, bound by custom, allows it. **Soft fail open (see the rule in [[SP-PBS-01 — The Favor Tracker]]) → Soft fail. Otherwise → Cast out.** |
 
 ## The Packed Pavilion
 > *The great pavilion is full to the walls.*
@@ -34,7 +34,11 @@ Then deliver these one at a time:
 - Temur stands before them all.
 - The moment you duck through the flap, fifty faces turn — and the talking dies, the way talking dies before weather.
 
-**Translation.** The council runs in Baklunish. Sarnai murmurs Common to the party under the roar and softens Temur's worst lines. A PC who attended [[Professor-Ilsabet-Federkiel]]'s Baklunish lectures follows it unaided and catches what she leaves out.
+**To the table:** *"Fifty faces, and an empty space on the felt before the throne. Who walks into it first?"*
+
+**Translation.** The council runs in Baklunish. Sarnai murmurs Common to the party under the roar and softens Temur's worst lines. A PC who attended [[Professor-Ilsabet-Federkiel]]'s Baklunish lectures follows it unaided and catches what she leaves out. Give that PC these two lines quietly:
+- When Temur says *"the south sends groceries,"* what he actually says is *"the south sends grain to fatten us for the Wolves."*
+- When a khan calls Kezrin *"a friend to the young khan's riders,"* Sarnai renders it as *"he has friends."* She leaves out the rest: *"his steel came cheaper than bread."* **(A clue: the blades were sold below cost.)*
 
 ## Temur Speaks First
 Let him have it; he's good at this. He draws Tsolmon's arrow from his sash and holds it up.
@@ -58,7 +62,7 @@ See [[Tiger-Claw-Token]].
 Each round is **won or lost**. Any two rounds pass the parley. Rounds 2 **and** 3 stop the war.
 
 ### Round 1 — The Parley
-Present Brennin's offer. **Persuasion DC 14** (DC 12 with the tiger-claw token).
+Present Brennin's offer. **Persuasion DC 14** (DC 12 with the tiger-claw token). +1 if the speaker is the PC Cligir remembers from Scene 2.
 - **Won:** the older khans lean in; Temur's jaw works.
 - **Lost:** Temur jeers — *"Shall we weave the salt into victory garlands?"* — and the young warriors laugh.
 

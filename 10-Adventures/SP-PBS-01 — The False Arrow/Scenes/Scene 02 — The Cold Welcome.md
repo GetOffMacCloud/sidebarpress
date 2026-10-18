@@ -67,7 +67,7 @@ She reads Brennin's letter aloud, translating as she goes. Halfway through, [[Kh
 [[Ilkhan-Cligir]] raises one finger. Temur stops mid-pace. Let the silence hang. Then Cligir speaks, and Sarnai translates, flat as a drum:
 > **Cligir:** *"You came in winter. Either you are very brave or your priest pays very well. Which is it?"*
 
-**Let them answer.** Cligir watches whoever speaks, never Sarnai. Any honest answer works — "both," "neither," "we're students and he's paying in credits." A flattering or evasive answer gets silence. If a PC answers him directly, with a bow or a formal address, Sarnai nods once. He remembers it.
+**Let them answer.** Cligir watches whoever speaks, never Sarnai. Any honest answer works — "both," "neither," "we're students and he's paying in credits." A flattering or evasive answer gets silence. If a PC answers him directly, with a bow or a formal address, Sarnai nods once. **He remembers it:** that PC gets +1 on their Persuasion check in council Round 1 (Scene 7).
 
 > **Cligir:** *"Your priest wants my word. Words are cheap in the south; here they cost. Three trials, as our own young riders earn it. The Horse. The Bow. The Fire. Live through them, and you may speak at my council fire."*
 
@@ -87,12 +87,13 @@ Now, out of character, put the card on the table: [[SP-PBS-01 — The Favor Trac
 - **Sight:** a crescent of drawn bows; tiger skulls; a robe the color of old blood
 - **Sound:** fifty people breathing; a laugh that cuts off; Sarnai's quiet translation under everything
 - **Smell:** mutton-fat, leather, smoke, juniper
-- **Touch:** the blindfold's rough wool; the warmth after three weeks of cold
+- **Touch:** the blindfold's rough wool; the warmth after three days on the open steppe
 - **Taste:** the taster's brandy, if anyone is offered a sip
 
 ## Alternates & Re-hooks
-- **A PC refuses to surrender a weapon.** Six bows to full draw. If they still refuse, Batzorig takes them to Yecha under guard, and the party starts the trials having lost the restraint bonus. Sarnai sets the trials anyway: *"Even the rude may try."*
-- **The party tries to bluff Cligir.** He lets them finish, says nothing, and gestures for the trials. No Favor change; Sarnai remembers the face.
+- **A PC refuses to surrender a weapon.** Six bows to full draw. If they still refuse, Batzorig takes that PC to Yecha under guard, and the party starts the trials having lost the restraint bonus. Sarnai sets the trials anyway: *"Even the rude may try."*
+- **The party fights.** The riders fall back and shoot to wound; they want prisoners, not bodies. The party enters Yecha as prisoners at Favor 0, and Sarnai sets the trials anyway.
+- **The party tries to bluff Cligir.** He lets them finish, says nothing, and gestures for the trials. No Favor change. **Sarnai remembers the face:** at the Fire (Scene 6), her first question goes to that PC.
 
 ## Transition
 Sarnai assigns them a guest tent and a guard. *"Sleep. The Horse is at dawn."* → [[Scene 03 — Trial of the Horse]]

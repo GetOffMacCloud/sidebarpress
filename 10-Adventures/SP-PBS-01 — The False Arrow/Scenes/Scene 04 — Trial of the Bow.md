@@ -36,7 +36,7 @@ The horde provides horses and **horn bows** (1d8 piercing, range 150/600; no pro
 | Result | Favor |
 |---|---|
 | **Success:** the tiger dies with a horn-bow arrow as the killing blow. A critical hit went in the eye; bring the arrow to the boy. | **+2** |
-| **Partial:** the tiger dies any other way. | **+1** |
+| **Partial:** the tiger dies any other way, or is driven off and its den fired or blocked so it can't return to the herds. | **+1** |
 | **Fail:** the tiger escapes, or the party retreats. | 0 |
 
 ## The Ravine
@@ -59,7 +59,7 @@ Then deliver these one at a time:
 | 4 PCs | 1 saber-toothed tiger | Easy (450) |
 | 5–6 PCs | 2 saber-toothed tigers (its mate joins from the den on round 2) | Hard (1,350 adj.) |
 
-Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Ravine` ([[SP-PBS-01 — Map Assets]]). It is an ambush predator: out of the cleft fast and silent, going for whoever looks smallest. It fights to the death.
+Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Ravine` ([[SP-PBS-01 — Map Assets]]). It is an ambush predator: out of the cleft fast and silent, going for whoever looks smallest. It flees at 10 hp, or when its mate falls (at 5–6 PCs).
 
 ## The Discovery (the scene's real payload)
 Half-buried in snow near the tiger's kills lie the missing four of the ambushed patrol — **Temur's brother among them**, recognizable by the tiger-tail standard knotted at his belt. The cold has kept them. **Investigation or Survival DC 13:**
@@ -90,6 +90,7 @@ If someone asks about **Tsolmon's arrow**, the beater nods slowly: *"The khan ke
 ## Alternates & Re-hooks
 - **The party misses the evidence (fails DC 13).** The beater finds the arrowhead while they load the bodies and holds it up without a word. Give the fletching on a second look.
 - **The party leaves the bodies.** Temur's riders recover them the next day, and Temur hears the south-men left his brother in the snow. No Favor; Round 3 at the council is at disadvantage.
+- **The party retreats before reaching the den.** Temur's riders go in after the tiger the next day and bring the bodies out. The beater brings Sarnai one of the arrows, and she shows it to the party at the Fire (Scene 6), where the fletching clue can be found. No Favor; Round 3 at the council is at disadvantage, as above.
 
 ## Transition
 They ride back at dusk. A guest tent is waiting, warm. → [[Scene 05 — Night in Yecha]]
