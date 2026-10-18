@@ -62,7 +62,7 @@ Sarnai lays her hand on the horse's neck and speaks to the crowd as much as the 
 Then, quieter, to the PC:
 > **Sarnai:** *"He is yours now, if you want him. He will not carry a rider he does not respect, so — try to stay respectable."*
 
-From now on the party are, in Yecha's eyes, *the ones the black one chose*:
+From now on the party is, in Yecha's eyes, *the ones the black one chose*:
 - **The stallion** belongs to the PC who gentled him (warhorse stats; the player names him).
 - **The night:** help arrives on **round 1** of the Scene 5 attack.
 - **The council:** once, after any failed council check, Sarnai speaks for them and they reroll (they must take the new result).

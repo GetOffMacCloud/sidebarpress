@@ -121,9 +121,9 @@ Grammar, names and wikilinks. **Applied:**
 - **Names:** every linked NPC's name matches its 30-NPCs note (titles and short forms are used consistently).
 - **Links:** every wikilink resolves except the two notes that don't exist yet: `SP-PBS-01 — Homebrewery Export` and `SP-PBS-01 — VTT and Fantasy Grounds Kit`.
 
-**Flagged, not changed** (your call):
-- "the party are" (main note, Scene 3) vs "the party is" elsewhere.
-- "the Tigers' herds" vs "the Tiger's herds" in DM text.
-- "Chakyik Horde" capitalised in the premise box only.
-- The Favor Tracker's **4** and **0–4** rows overlap. It reads correctly ("4 only with endorsement"), but "0–3, or 4 without endorsement" would be cleaner.
-- Main note Continuity: "Both events are in [[Timeline]]" has no clear antecedent.
+**Flagged, then decided by Greybeard** (✅ Applied 2026-10-18):
+- [x] "The party **is**" throughout (main note, Scene 3).
+- [x] "the **Tiger's** herds" (singular, matching the handout).
+- [x] "Chakyik **horde**" lowercase in the premise box.
+- [x] Favor Tracker: the separate **4** row removed; the **0–4** row now carries the exception (Favor 4 with Sarnai's endorsement earns Voice).
+- [x] Main note Continuity now names both events: the patrol ambush (Sunsebb 575 CY) and the parley at Yecha (Needfest–Fireseek 576 CY), matching the [[Timeline]] rows.

@@ -25,7 +25,7 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 
 **APL 3 (level 3) · 4–6 characters · one 4-hour session**
 
-> *You have been hired by a group of Oeridian priests to travel to Yecha, at the base of the Yatil Mountains, and earn the trust of the Chakyik Horde. The cold weather and colder welcome you expect to receive make this quite the undertaking indeed.*
+> *You have been hired by a group of Oeridian priests to travel to Yecha, at the base of the Yatil Mountains, and earn the trust of the Chakyik horde. The cold weather and colder welcome you expect to receive make this quite the undertaking indeed.*
 >
 > A Social / Wilderness one-shot for **4–6 level-3 characters**, Part 1 of *The Plains of Blood and Steel*. A party of Greyhawk University freshmen from the Ritterstadt Field Station carries a priest's parley into the winter camp of the Tiger Nomads. To be heard, they must pass the horde's three trials while the old Ilkhan's heir calls for war against the Wolf Nomads. The war cry was written by someone else: an agent of Iuz has been arming the war faction and staging murders with false Wolf arrows. Everything the party does moves a visible **Favor** track, and the war council at the end plays out on what they earned.
 
@@ -36,7 +36,7 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 **Needfest–Fireseek, 576 CY** — the house default year, at midwinter, before the A Tourist In Greyhawk campaign's recorded sessions (Planting 576 onward). Ilkhan Cligir still rules the Chakyik. **Travel:** the party leaves Ritterstadt in late Sunsebb 575. It is three weeks to the hospice, and from there three days down the pass and across the steppe to Yecha. [[SP-PBS-02-The-Bones-of-the-Dreadverge]] follows in Patchwall of the same year. See [[Timeline]].
 
 ## Campaign Frame
-The party are **Freshmen (level 3, undeclared)** at [[Greyhawk-University|Greyhawk University's Ritterstadt Field Station]]. The station, the hamlet, its faculty and residents follow the A Tourist In Greyhawk canon imported to `20-World/Homebrew/Greyhawk-University/`. Where this adventure and that canon disagree, the canon wins.
+The party is made up of **Freshmen (level 3, undeclared)** at [[Greyhawk-University|Greyhawk University's Ritterstadt Field Station]]. The station, the hamlet, its faculty and residents follow the A Tourist In Greyhawk canon imported to `20-World/Homebrew/Greyhawk-University/`. Where this adventure and that canon disagree, the canon wins.
 
 ## Design Frame
 - **Thesis:** Trust is earned in front of witnesses, and the party is offered a reason to betray it at every step.
@@ -53,7 +53,7 @@ The party are **Freshmen (level 3, undeclared)** at [[Greyhawk-University|Greyha
 - **The art of beguilement.** By Ogobanuk's old decree, the ilkhan studies illusion. Cligir never uses it on the party, but a PC who knows the tradition (History DC 15) reads his stillness differently.
 - **Language.** Most Chakyik speak no Common. Sarnai translates and softens; Batzorig and Chuluun speak it badly; Naran knows three words. A PC who attended [[Professor-Ilsabet-Federkiel]]'s Baklunish lectures hears what Sarnai leaves out.
 - **Istus.** The Lady of Fate is the horde's center. Sarnai speaks of threads, cloth, and the loom.
-- **The Wolves.** The Wegwiur raid the Tigers' herds every winter. They are known for keeping their word, which makes a staged Wolf massacre easier to believe and worse to discover.
+- **The Wolves.** The Wegwiur raid the Tiger's herds every winter. They are known for keeping their word, which makes a staged Wolf massacre easier to believe and worse to discover.
 
 ## What the Locals Know
 - **At Ritterstadt:** the Yatil pass is closing. The caravans say the Tiger Nomads have started "taxing it with arrows," and Father Brennin wants a parley carried by people the nomads won't shoot on sight.
@@ -182,7 +182,7 @@ Threads this adventure **advances**: —
 Threads this adventure **closes**: —
 Dangling hooks: the Spring Return (non-best endings; see [[Plot-Threads]]); Kezrin (if he escapes); Yulbar of the Wolf; Halya's report to Perrenland; Temur's riders on "patrol."
 
-Both events are in [[Timeline]]. Campaign-frame continuity: the A Tourist In Greyhawk Wolf Nomad trader formerly named Temür Bayan is being renamed **Elif Kayim** to avoid a clash with Khan Temur.
+The patrol ambush (Sunsebb 575 CY) and the parley at Yecha (Needfest–Fireseek 576 CY) are both in [[Timeline]]. Campaign-frame continuity: the A Tourist In Greyhawk Wolf Nomad trader formerly named Temür Bayan is being renamed **Elif Kayim** to avoid a clash with Khan Temur.
 
 ### Continuity Ledger (record after play)
 Favor total · council result · tiger-claw token (who holds it) · Sarnai's endorsement and the stallion's name · Kezrin captured / escaped with papers torn / escaped with papers · Temur's disposition and how many riders rode east · whether the party spied, and whether they told Sarnai · Yulbar named? · papers delivered to the Historical Society?

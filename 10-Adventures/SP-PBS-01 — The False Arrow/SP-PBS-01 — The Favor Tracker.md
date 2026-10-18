@@ -34,8 +34,7 @@ The party starts at **0**: strangers, tolerated because they came under a parley
 |---|---|
 | **7–9** | **Voice and the tiger-claw token.** Cligir gives them the floor and takes the token off his own wrist. Round 1 Persuasion DC drops from 14 to 12. |
 | **5–6** | **Voice.** Run the council. |
-| **4** | **Voice only with Sarnai's endorsement** (gentled the stallion). Otherwise, below. |
-| **0–4** | **Expelled.** If the soft fail is open (rule below) → **Soft fail** (she presents it). If not → **Cast out**. |
+| **0–4** | **Expelled**, except that Favor 4 with Sarnai's endorsement (gentled the stallion) earns **Voice**. If expelled and the soft fail is open (rule below) → **Soft fail** (she presents it). If not → **Cast out**. |
 
 ## Other Standing Effects
 
