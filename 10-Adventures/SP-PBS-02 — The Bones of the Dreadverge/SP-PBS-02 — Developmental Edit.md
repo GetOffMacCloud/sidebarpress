@@ -131,3 +131,24 @@ These are defensible as written:
 
 ---
 *Review method: the whole adventure folder read against `adventure-smith`, `greyhawk-module-craft` and [[Classic-Module-Review]]. Findings #1 and #5 were re-verified against the files on 2026-10-17.*
+
+## Copy edit (2026-10-18)
+Grammar, names and wikilinks. **Applied:**
+- **American spelling:** "realises", "travelling", "modelled" and "south-east" now match the rest of the adventure.
+- **Stat-block names** capitalised in the Encounters table (Acolyte, Cult Fanatic).
+- **Bold term:** "**Very late**" bolded in Ending C.
+- **Serial commas:** four places.
+- **Climax table:** the *Break the rite* wording now says the track stalls **on a failed save**. It previously read as if a success stalled it.
+- **Consistency fixes:**
+  - "old folks'" → "old folk's"
+  - "Free captives" → "Freed captives"
+  - "Rite segment(s)" → "Rite Clock segment(s)"
+  - The Scene 4 heading is now "Encounter 6 — The Cutters' Camp", matching the main Encounters table.
+- **Letter quotes:** Scene 4's quotes from Ashlock's letter now match the handout word for word.
+- **Names:** every linked NPC's name matches its 30-NPCs note.
+- **Links:** every wikilink resolves.
+
+**Flagged, not changed:**
+- Frontmatter ranges use hyphens (`levels: "1-4"`), while the body uses en dashes. I left these alone because Dataview or the build may read them.
+- "statblock" (one word, used throughout) vs the Style Guide's "Stat Blocks".
+- The song's lowercase "Three sisters" vs the place name "the Three Sisters". It may be deliberate.

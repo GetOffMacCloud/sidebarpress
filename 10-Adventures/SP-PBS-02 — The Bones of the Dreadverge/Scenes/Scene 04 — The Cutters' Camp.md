@@ -25,7 +25,7 @@ Then, one at a time:
 - Every skull in the ring has an ash thumbprint on the brow.
 - From inside the largest hut comes the sound of someone chewing slowly.
 
-## Encounter 6 — The Cutters
+## Encounter 6 — The Cutters' Camp
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
 | 1 | 2 zombies | Easy (150 adj.) |
@@ -54,7 +54,7 @@ Statblocks: [[SP-PBS-02 — Bestiary#Zombie (CR 1/4, 50 XP), MM p. 316 — the r
 - APL 1–2: a *potion of healing*. APL 3–4: two *potions of healing* and the *spell scroll of lesser restoration*.
 
 ## What the Letter Unlocks
-The handout names the **crown**, the **rite at Celene-set**, the **order of the captives**, and the line *"the boy took the seal and spared me the work."* A party holding the torc now has the solution in writing. If they have not gotten the torc, the letter tells them it exists and where it went: *"the tinker-woman's wagon."* A fast party can still turn back, at the cost of 2 Rite segments.
+The handout names the **crown**, the **rite at Celene-set**, the **order of the captives**, and the line *"her own boy went down into the dark and took the seal from the Mother's breast. He spared me the work."* A party holding the torc now has the solution in writing. If they have not gotten the torc, the letter tells them it exists and who has it: *"Let the tinker-woman keep the ring on the roads."* A fast party can still turn back, at the cost of 2 Rite Clock segments.
 
 ## Sensory Palette
 - **Sight:** stripped bone in a ring, ash thumbprints, and a grey robe on a stake

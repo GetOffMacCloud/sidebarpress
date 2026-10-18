@@ -49,8 +49,8 @@ She looks up; her one good eye is wet and furious at once.
 > **Sarnai:** *"Someone made arrows to look like Wolf arrows and put them in our dead. Someone wants my people to bleed for a lie. Istus weaves. Tomorrow, we pull the thread and see what unravels."*
 
 **This is a key.** If the party gives Sarnai the evidence before the council:
-- she posts riders on Kezrin (Scene 7, *Kezrin's exit*, option 1), and
-- if Favor falls short, she can carry the evidence into the council herself (Scene 7, *Soft fail*; the rule is in [[SP-PBS-01 — The Favor Tracker]]).
+- she posts riders on Kezrin (Scene 7, *Kezrin's Exit*, option 1), and
+- if Favor falls short, she can carry the evidence into the council herself (Scene 7, *Soft Fail*; the rule is in [[SP-PBS-01 — The Favor Tracker]]).
 
 ## Caught in a Lie
 The trial ends. Sarnai sets down her twig and folds her hands.

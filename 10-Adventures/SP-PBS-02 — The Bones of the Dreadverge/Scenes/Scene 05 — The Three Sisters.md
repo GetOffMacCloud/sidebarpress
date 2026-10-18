@@ -23,7 +23,7 @@ Check the **Rite Clock** against the arrival table in [[SP-PBS-02 — The Howl a
 > *The mound is a long turf back, twice the height of a man, crowned by three standing stones taller than a horse. A person is lashed upright against each stone. In the middle, a fire burns low and green, and a man in grey stands over it. Branching antlers of dark bone rise from his brow. On the south face of the mound, the turf has been cut away, and a black doorway stands open in the earth.*
 
 Then, one at a time:
-- **Captives** (north stone to south-east): **Brannoc**, gagged, struggling; **Wenna**, very still, her lips moving; **Tam**, nine years old, staring at the fire.
+- **Captives** (north stone to southeast): **Brannoc**, gagged, struggling; **Wenna**, very still, her lips moving; **Tam**, nine years old, staring at the fire.
 - **The pack** circles the foot of the mound, about 60 ft out. Clicking, never stopping.
 - **The Barrow Stag** (APL 2+) stands motionless beside the black doorway, white as chalk.
 - **Ashlock** speaks without turning, if the party is seen:
@@ -88,7 +88,7 @@ Kill Ashlock, shove him 10 ft from center (Athletics vs. his Athletics or Acroba
 Knock it off (an action: contested Strength or Dexterity check) or loot it from his body. The wearer can steer one beast per round as a bonus action (*Crown-Bearer*). Wearing the crown lets the wearer **hear the pack**, a sound like dry sticks dragged over stone. The wearer can order the pack to stand down (action, Charisma check DC 13; on a success, each beast stops for 1 round). This is a real win, but a temporary one. See the item note: [[Antler-Crown-of-Kethra]].
 
 ### 4. Cut them loose
-A PC at a stone cuts ropes with an action, or with a bonus action on a **Sleight of Hand DC 10**. A freed captive leaves the rite. Free captives flee downhill toward the party. **Tam does not run. He walks to the barrow mouth and stands looking in** until someone carries him. *(Never explain why at the table. DM only: the barrow calls the blood of the house that robbed it, and Tam is Kester's brother. He comes to no harm and remembers nothing.)*
+A PC at a stone cuts ropes with an action, or with a bonus action on a **Sleight of Hand DC 10**. A freed captive leaves the rite. Freed captives flee downhill toward the party. **Tam does not run. He walks to the barrow mouth and stands looking in** until someone carries him. *(Never explain why at the table. DM only: the barrow calls the blood of the house that robbed it, and Tam is Kester's brother. He comes to no harm and remembers nothing.)*
 
 ## Ashlock at the End
 - **Captured alive:** he does not beg. He tells them the rest of what is in his letter, gladly, and adds:

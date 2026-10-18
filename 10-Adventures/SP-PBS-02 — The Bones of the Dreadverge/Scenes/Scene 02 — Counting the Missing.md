@@ -79,7 +79,7 @@ Behind the boarded hatch is a **green-bronze neck-ring, thick as a thumb, cut wi
 - *History or Religion DC 13 on the torc:* this is a binding-ring, laid on the dead to hold something down. It was not meant to be worn or sold. A natural 20 adds that rings like this were laid **on the breast**, never the neck.
 
 ## Odila's Secret
-If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hiding something, or Kester's confession), she admits she hired a crew from Traft to cut turf on the Sisters' slope to meet the levy, over the old folks' grumbling. The cutters have not been seen in a week. *"They'll have run off with the advance."* *(They did not. See Scene 4.)*
+If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hiding something, or Kester's confession), she admits she hired a crew from Traft to cut turf on the Sisters' slope to meet the levy, over the old folk's grumbling. The cutters have not been seen in a week. *"They'll have run off with the advance."* *(They did not. See Scene 4.)*
 
 > **Odila:** *"Forty marks a year we owe the canton. It was turf. It was only turf."*
 

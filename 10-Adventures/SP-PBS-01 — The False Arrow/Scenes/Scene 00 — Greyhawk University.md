@@ -17,7 +17,7 @@ status: drafted
 Frame the party as Greyhawk University students at the **Ritterstadt Field Station**, learn which lectures each attends (every choice pays off later), and put the contract in front of them.
 **Budget:** 5 minutes. Running long? Start at the Job Board.
 
-*Continuity: Ritterstadt and the Field Station follow the A Tourist In Greyhawk canon (see `00-Inbox/Greyhawk University Import`). At level 3 the PCs are **Freshmen — undeclared**, attending lectures across departments.*
+*Continuity: Ritterstadt and the Field Station follow the A Tourist In Greyhawk canon (see `20-World/Homebrew/Greyhawk-University/`). At level 3 the PCs are **Freshmen — undeclared**, attending lectures across departments.*
 
 ## Arrival
 > *Ritterstadt is a palisade, a watchtower, and a scatter of roofs on the edge of the Sepia Uplands, with the Quag Mires grey and flat beyond it.*

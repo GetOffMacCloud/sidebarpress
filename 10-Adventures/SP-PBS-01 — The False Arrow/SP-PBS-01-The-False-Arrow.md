@@ -25,7 +25,7 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 
 **APL 3 (level 3) · 4–6 characters · one 4-hour session**
 
-> *You have been hired to travel to Yecha, at the base of the Yatil Mountains, and earn the trust of the Chakyik Horde by a group of Oeridian priests. The cold weather and colder welcome you expect to receive make this quite the undertaking indeed.*
+> *You have been hired by a group of Oeridian priests to travel to Yecha, at the base of the Yatil Mountains, and earn the trust of the Chakyik Horde. The cold weather and colder welcome you expect to receive make this quite the undertaking indeed.*
 >
 > A Social / Wilderness one-shot for **4–6 level-3 characters**, Part 1 of *The Plains of Blood and Steel*. A party of Greyhawk University freshmen from the Ritterstadt Field Station carries a priest's parley into the winter camp of the Tiger Nomads. To be heard, they must pass the horde's three trials while the old Ilkhan's heir calls for war against the Wolf Nomads. The war cry was written by someone else: an agent of Iuz has been arming the war faction and staging murders with false Wolf arrows. Everything the party does moves a visible **Favor** track, and the war council at the end plays out on what they earned.
 
@@ -36,7 +36,7 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 **Needfest–Fireseek, 576 CY** — the house default year, at midwinter, before the A Tourist In Greyhawk campaign's recorded sessions (Planting 576 onward). Ilkhan Cligir still rules the Chakyik. **Travel:** the party leaves Ritterstadt in late Sunsebb 575. It is three weeks to the hospice, and from there three days down the pass and across the steppe to Yecha. [[SP-PBS-02-The-Bones-of-the-Dreadverge]] follows in Patchwall of the same year. See [[Timeline]].
 
 ## Campaign Frame
-The party are **Freshmen (level 3, undeclared)** at [[Greyhawk-University|Greyhawk University's Ritterstadt Field Station]]. The station, the hamlet, its faculty and residents follow the A Tourist In Greyhawk canon imported to `00-Inbox/Greyhawk University Import (A Tourist In Greyhawk)/`. Where this adventure and that canon disagree, the canon wins.
+The party are **Freshmen (level 3, undeclared)** at [[Greyhawk-University|Greyhawk University's Ritterstadt Field Station]]. The station, the hamlet, its faculty and residents follow the A Tourist In Greyhawk canon imported to `20-World/Homebrew/Greyhawk-University/`. Where this adventure and that canon disagree, the canon wins.
 
 ## Design Frame
 - **Thesis:** Trust is earned in front of witnesses, and the party is offered a reason to betray it at every step.
@@ -157,7 +157,7 @@ Difficulty for **level 3** with 2014 DMG thresholds and multipliers. Full statbl
 | 2 | The Cold Welcome (S2) | social | — | — | Restraint, guest-craft, Cligir's question |
 | 3 | Trial of the Horse (S3) | skill challenge | — | — | Ride (DC 14) or gentle (DC 16); best of the party |
 | 4 | Trial of the Bow (S4) | combat | 1 saber-toothed tiger — Easy | 2 saber-toothed tigers (mate joins round 2) — Hard | Horn bows provided. Killing blow by horn bow = full success. |
-| 5 | The Night Visit (S5) | combat | 2 thugs + 1 scout — Medium | 3 thugs + 1 scout — Easy/Medium | Always happens. Non-lethal; often unarmored and possibly unarmed. Map: Night Camp. |
+| 5 | The Night Visit (S5) | combat | 2 thugs + 1 scout — Medium | 3 thugs + 1 scout — Easy–Medium | Always happens. Non-lethal; often unarmored and possibly unarmed. Map: Night Camp. |
 | 6 | Trial of the Fire (S6) | social | — | — | Three honest answers |
 | 7 | The War Council (S7) | social climax | — | — | Three rounds; optional duel and chase. Map: Duel Ring. |
 | 7a | Champion's Duel (S7, optional) | combat | 1 berserker vs. one PC | same | First to three hits, non-lethal; the berserker's Reckless attacks help the PC |

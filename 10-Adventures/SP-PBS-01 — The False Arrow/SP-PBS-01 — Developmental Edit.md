@@ -108,3 +108,22 @@ These read like railroading at first glance but are defensible:
 
 ---
 *Review method: the whole adventure folder read against `adventure-smith`, `greyhawk-module-craft` and [[Classic-Module-Review]]. Findings #1 and #5 were re-verified against the files on 2026-10-17.*
+
+## Copy edit (2026-10-18)
+Grammar, names and wikilinks. **Applied:**
+- **Spelling:** "recognises" → "recognizes". The adventure uses American spelling throughout, plus house "grey".
+- **Cross-reference capitals:** *Kezrin's Exit* and *Soft Fail* now match the Scene 7 headings. "war-cry" → "war cry".
+- **Serial commas** (Scene 2, Scene 7) and an en dash ("Easy–Medium").
+- **Main-note blurb:** fixed a misplaced modifier ("hired by a group of Oeridian priests to travel…").
+- **Demonym:** "Perrenlander brandy" → "Perrender brandy" (the canon demonym), and removed the Scene 2 aside that called "Perrender" Batzorig's mistake.
+- **Check naming:** "Intelligence (Investigation) DC 13" → "Investigation DC 13", matching the rest of the adventure.
+- **Stale paths:** `00-Inbox/Greyhawk University Import` → `20-World/Homebrew/Greyhawk-University/` (Scene 0 and the main note). The import has since been filed.
+- **Names:** every linked NPC's name matches its 30-NPCs note (titles and short forms are used consistently).
+- **Links:** every wikilink resolves except the two notes that don't exist yet: `SP-PBS-01 — Homebrewery Export` and `SP-PBS-01 — VTT and Fantasy Grounds Kit`.
+
+**Flagged, not changed** (your call):
+- "the party are" (main note, Scene 3) vs "the party is" elsewhere.
+- "the Tigers' herds" vs "the Tiger's herds" in DM text.
+- "Chakyik Horde" capitalised in the premise box only.
+- The Favor Tracker's **4** and **0–4** rows overlap. It reads correctly ("4 only with endorsement"), but "0–3, or 4 without endorsement" would be cleaner.
+- Main note Continuity: "Both events are in [[Timeline]]" has no clear antecedent.

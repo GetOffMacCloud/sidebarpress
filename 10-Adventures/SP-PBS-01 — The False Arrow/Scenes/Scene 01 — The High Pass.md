@@ -28,7 +28,7 @@ Then deliver these one at a time, as their attention finds them:
 **To the table:** *"Father Brennin is waiting at the gate with a sealed letter. Who steps up to take it?"*
 
 ## Father Brennin
-[[Father-Brennin]] gives them the **parley letter** (sealed with the cudgel, ribboned in hospice grey — [[SP-PBS-01 — Handout — Brennin's Parley Letter]]), a squat cask of **Perrenlander brandy**, and a blessing he means. He presses the letter into the steadiest PC's hands with both of his and holds on a beat too long.
+[[Father-Brennin]] gives them the **parley letter** (sealed with the cudgel, ribboned in hospice grey — [[SP-PBS-01 — Handout — Brennin's Parley Letter]]), a squat cask of **Perrender brandy**, and a blessing he means. He presses the letter into the steadiest PC's hands with both of his and holds on a beat too long.
 
 > **Brennin:** *"They are not monsters, whatever the caravans say. They are people with hungry winters. Remember that when they test you — and they will test you."*
 

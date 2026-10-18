@@ -91,7 +91,7 @@ Apply this to any MM beast to make one of Kethra's pack:
 > **Actions**
 > ***Antlers.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
 >
-> **CR verification (DMG p. 274):** *Defensive:* 45 HP falls in the CR 1/4 band (36–49) with AC 13 as expected, so defensive CR is 1/4. The poison immunity does not change effective HP meaningfully, and the bludgeoning vulnerability is not adjusted per the DMG. *Offensive:* modelled over 3 rounds (charge round 10 + 7 = 17, then 10 and 10), DPR is about 12, which is the CR 1 band (9–14). *(Revised 2026-10-17: the bonus-action hooves were removed. With them, DPR was about 15, which is the CR 2 band, and that made Encounter 7 Deadly at APL 2–4.)* The attack bonus is +5, two above the +3 expected, so offensive CR rises to 2. *Average:* (1/4 + 2) ÷ 2 ≈ 1.1, so the stag is **CR 1**. It hits like a CR 2 creature and folds to a warhammer, which is the intent.
+> **CR verification (DMG p. 274):** *Defensive:* 45 HP falls in the CR 1/4 band (36–49) with AC 13 as expected, so defensive CR is 1/4. The poison immunity does not change effective HP meaningfully, and the bludgeoning vulnerability is not adjusted per the DMG. *Offensive:* modeled over 3 rounds (charge round 10 + 7 = 17, then 10 and 10), DPR is about 12, which is the CR 1 band (9–14). *(Revised 2026-10-17: the bonus-action hooves were removed. With them, DPR was about 15, which is the CR 2 band, and that made Encounter 7 Deadly at APL 2–4.)* The attack bonus is +5, two above the +3 expected, so offensive CR rises to 2. *Average:* (1/4 + 2) ÷ 2 ≈ 1.1, so the stag is **CR 1**. It hits like a CR 2 creature and folds to a warhammer, which is the intent.
 
 ---
 

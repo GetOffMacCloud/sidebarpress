@@ -79,7 +79,7 @@ Creature mixes by APL are in the main note's Encounters table ([[SP-PBS-02-The-B
 
 ## Alternates & Re-hooks
 - **Hild goes home or is hurt.** Without her, the ford needs Survival DC 12. If she is injured, she insists on continuing to Brannoc. If the party sends her back, she leaves her crook (a quarterstaff, and bludgeoning).
-- **The party wants a short rest.** It costs 1 Rite segment. If the Howl is 4 or higher, the rest is interrupted by The Pack Tests You.
+- **The party wants a short rest.** It costs 1 Rite Clock segment. If the Howl is 4 or higher, the rest is interrupted by The Pack Tests You.
 - **The party splits.** Bone beasts track sound, so the louder group draws the Howl encounter. Cut between groups each leg.
 
 ## Transition

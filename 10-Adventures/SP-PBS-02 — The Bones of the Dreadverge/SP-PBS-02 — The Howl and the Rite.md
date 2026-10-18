@@ -33,7 +33,7 @@ One segment equals about one hour of night. The clock starts when the party leav
 | 0–4 | **Early.** Ashlock is preparing. The Rite Track starts at 0, and the party may scout and plan for one full round of unobserved approach. Once he sees witnesses, he begins early: the rite does not wait for Celene once someone is watching. |
 | 5 | **On time.** The rite is beginning. The Rite Track starts at 0, but Ashlock is already at the stones and alert. |
 | 6 | **Late.** The rite has begun. The Rite Track starts at 1. |
-| Past 6 (still travelling) | **Very late.** Brannoc has already died and risen as a **skeleton** (MM p. 272), which joins the pack. The Rite Track starts at 1 on Wenna. |
+| Past 6 (still traveling) | **Very late.** Brannoc has already died and risen as a **skeleton** (MM p. 272), which joins the pack. The Rite Track starts at 1 on Wenna. |
 
 *Designed partial failure: arriving late costs a person, never the whole adventure. Do not add punishment beyond this table.*
 

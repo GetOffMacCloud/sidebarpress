@@ -30,7 +30,6 @@ If they refuse, six bows come to full draw, unhurried: *"Open it, or we open you
 
 > **Batzorig:** *"Perrender brandy. The old khan will drink. You — blades. On the snow. Now."*
 
-*(Batzorig's Common is rough: "Perrender" is his word, not a typo.)*
 
 ### Kartner's guest-craft
 A PC who attended [[Magister-Roswitha-Kartner]]'s Wilderness Fieldcraft lectures remembers her first one: *"In another people's country you are a guest from the moment they see you. Put your steel down before you're asked. Let their taster drink first. Eat what they put in front of you."* If that PC lays their blades on the snow before Batzorig finishes the word *Now*, or hands them over hilt-first, the **restraint bonus (Favor +1) is earned on the spot**. Batzorig's lip uncurls, a little. Nothing else in this scene can cost it, short of steel drawn in the pavilion.
@@ -50,7 +49,7 @@ They are blindfolded for the last half-mile. If anyone objects: *"Custom. The sh
 > *The blindfold comes off all at once, into sudden red brazier-light.*
 
 Then deliver these one at a time:
-- A pavilion of striped hides, forty paces across, close and warm, smelling of braziers, mutton-fat and leather.
+- A pavilion of striped hides, forty paces across, close and warm, smelling of braziers, mutton-fat, and leather.
 - Tiger skins cover the floor; tiger skulls ring the central poles.
 - On a low throne draped in a blood-dark saber-tooth robe sits a small old man with eyes like chipped flint.
 - Beside him stands a woman with one blind eye, wreathed in juniper smoke. Behind them both, arms crossed, stands a broad young khan.

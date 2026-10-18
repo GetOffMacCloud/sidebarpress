@@ -69,8 +69,8 @@ Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Night-Camp` ([[SP-PBS-
 - If the party has no ravine evidence, the job is to scare them out: burn the tent, break a bow, run.
 - **Naran** arrives with two riders and a bucket line on **round 3** (**round 1** with Sarnai's endorsement).
 - **The fight ends** when Naran arrives or when two attackers drop, whichever comes first. The rest flee into the tents.
-- **The attackers' leader** has a grinning-skull brand inside his left forearm. It is the same skull as on Kezrin's wax seal. Religion DC 12, or any PC who knows the Old One's sign, recognises the mark of **Iuz**.
-- **A captured attacker** made to talk (Intimidation DC 13) names Kezrin. If the party takes that to Sarnai, Kezrin is watched from dawn (see Scene 7, *Kezrin's exit*).
+- **The attackers' leader** has a grinning-skull brand inside his left forearm. It is the same skull as on Kezrin's wax seal. Religion DC 12, or any PC who knows the Old One's sign, recognizes the mark of **Iuz**.
+- **A captured attacker** made to talk (Intimidation DC 13) names Kezrin. If the party takes that to Sarnai, Kezrin is watched from dawn (see Scene 7, *Kezrin's Exit*).
 
 ## B. Halya's Letter
 Sometime tonight the sealed letter comes out — or doesn't. If a player breaks the seal, hand them [[SP-PBS-01 — Handout — Halya's Sealed Instruction|Handout 2]]. Now they have to decide.

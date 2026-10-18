@@ -68,7 +68,7 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 
 > **Ashlock:** *"The dark of the moon is a kind night for the dead, sister. Tonight they will be easy."*
 
-- **The cleric subplot.** Before he goes, Ashlock asks a cleric, acolyte or paladin PC to help him renew the ash circle on the mill door, "where the rain has smeared it," and presses a pinch of ash into their palm. A PC who helps has marked Rowan's door for him (see Scene 2). *Insight DC 13 (advantage for that PC):* his grief is rehearsed.
+- **The cleric subplot.** Before he goes, Ashlock asks a cleric, acolyte, or paladin PC to help him renew the ash circle on the mill door, "where the rain has smeared it," and presses a pinch of ash into their palm. A PC who helps has marked Rowan's door for him (see Scene 2). *Insight DC 13 (advantage for that PC):* his grief is rehearsed.
 - He excuses himself "to pray at the wayside shrine" east of town, takes a hooded lantern, and leaves along the Dreadverge track. *(He is going to the Sisters. If the party follows him immediately, see Alternates.)*
 
 ## Tamsin's Cart
@@ -88,7 +88,7 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
   - The captives are still bound at the Three Sisters, but no rite can begin. The Rite Clock becomes an **exposure clock**: at 6, Wenna dies of cold, and past 6, Brannoc follows.
   - The Antler Crown is in his pack.
 
-  The party can still return the torc, free the captives and lay Kethra to rest. Encounter 7 becomes the stag and the hounds guarding the barrow, with no Ashlock.
+  The party can still return the torc, free the captives, and lay Kethra to rest. Encounter 7 becomes the stag and the hounds guarding the barrow, with no Ashlock.
 - **The party never touches the cart.** Hild brings it up in Scene 2: *"Your fighting dogs went for the tinker's cart like it owed them money."*
 
 ## Transition

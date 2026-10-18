@@ -67,11 +67,11 @@ Present Brennin's offer. **Persuasion DC 14** (DC 12 with the tiger-claw token).
 - **Lost:** Temur jeers — *"Shall we weave the salt into victory garlands?"* — and the young warriors laugh.
 
 ### Round 2 — The Evidence
-Present the ravine findings. **Intelligence (Investigation) DC 13**, or reward good roleplay over dice. **Advantage** if they spied unseen and can tie the black steel in Temur's camp to the arrowhead.
+Present the ravine findings. **Investigation DC 13**, or reward good roleplay over dice. **Advantage** if they spied unseen and can tie the black steel in Temur's camp to the arrowhead.
 - **Automatic win:** a PC asks Temur to lay Tsolmon's arrow beside the ravine arrows. He hesitates, then does it. Same glue, same paint over brown feather, side by side on the felt before the throne. No roll.
 - **No ravine evidence** (lost in the night attack, or never found): Tsolmon's arrow alone can still carry the round if a PC asks to examine it and knows what to look for. **Investigation DC 15.**
 - **No evidence at all:** Round 2 is lost.
-- **Won:** the pavilion goes silent, the kind of silence with weight. The braziers hiss. Temur's face does something complicated — grief, fury, and the vertigo of a man realizing his war-cry was written by someone else's hand. **Kezrin moves** (below).
+- **Won:** the pavilion goes silent, the kind of silence with weight. The braziers hiss. Temur's face does something complicated — grief, fury, and the vertigo of a man realizing his war cry was written by someone else's hand. **Kezrin moves** (below).
 - **Lost:** the khans look to Temur, and Temur doesn't look at the arrows.
 
 If Kezrin was already exposed, Sarnai speaks into the silence after Round 2 is won:
@@ -87,7 +87,7 @@ The party must give his grief somewhere to go: a border patrol instead of a war,
 **Sarnai's endorsement:** once during the council, after any failed check, she speaks for them and they reroll.
 
 ## Kezrin's Exit
-**This section is the single capture rule.** The Favor Tracker, Scene 5 and Scene 6 all point here.
+**This section is the single capture rule.** The Favor Tracker, Scene 5, and Scene 6 all point here.
 
 Kezrin is among Temur's guests, unless he has already been exposed:
 - **Exposed, and Sarnai was told:** her riders have watched him since dawn. Use option 1.
