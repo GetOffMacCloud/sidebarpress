@@ -21,7 +21,7 @@ The party learns two things: Kezrin is dirty, and the horde is closer to war tha
 > *Your tent is felt over willow, warm from a dung-brazier.*
 
 Then deliver these one at a time:
-- Someone has left you the good things: a haunch of mutton still on the bone, flatbread, salt, and a skin of kumiss — fermented mare's milk, sour enough to make your eyes water.
+- Someone has left you the good things: a haunch of mutton still on the bone, flatbread, salt, and a skin of kumiss — fermented mare's milk, sharp and sour.
 - Outside, Yecha settles: dogs barking, a far-off song in Baklunish, the endless small thunder of the herds.
 - The brazier's heat reaches across the tent: the first real warmth since the pass.
 

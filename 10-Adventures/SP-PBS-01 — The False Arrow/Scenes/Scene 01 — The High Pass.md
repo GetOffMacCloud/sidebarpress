@@ -21,7 +21,7 @@ Hand over the parley letter and the gift, plant Halya's sealed letter without ex
 > *The hospice of St. Cuthbert squats against the pass like a fist that forgot how to open.*
 
 Then deliver these one at a time, as their attention finds them:
-- Frost furs the lintels; the chapel bell is muffled with sacking so it won't crack in the cold.
+- Frost whitens the lintels; the chapel bell is muffled with sacking so it won't crack in the cold.
 - In the yard, mules stamp and blow steam beside the packs. The yard-dog watches with the flat stare of an animal that has seen caravans leave before.
 - Above the gate, someone has chalked the Cuthbertine cudgel — and under it, in a smaller hand: *come back alive.*
 
@@ -45,7 +45,7 @@ Before the gate, [[Sister-Halya]] draws the most honest-looking PC into a stable
 **Do not hand over [[SP-PBS-01 — Handout — Halya's Sealed Instruction|Handout 2]] yet.** Give it to the player only when they break the seal inside Yecha (Scene 5). Let the letter sit in the player's mind for three days of road.
 
 ## The Descent
-> *The pass lets you go the way a miser gives coin — grudgingly, a switchback at a time. The wind finds every seam in your clothes. Below, the Yatils fall away into white: foothills, then the steppe, a flat grey sea under a flatter sky. The hospice bell rings once behind you for the road — thin, bright, already lost in the wind.*
+> *The pass lets you go the way a miser gives coin — grudgingly, a switchback at a time. The wind finds every seam in your clothes. Below, the Yatils fall away into white: foothills, then the steppe, flat and grey under a flatter sky. The hospice bell rings once behind you for the road — thin, bright, already lost in the wind.*
 
 **To the table:** *"Three days down out of the pass and across the steppe. Tell me how each of you is keeping the party alive on it."*
 
@@ -64,12 +64,12 @@ Before the gate, [[Sister-Halya]] draws the most honest-looking PC into a stable
 Statblocks: [[SP-PBS-01 — Bestiary]]. The winter wolf **speaks first**: it offers to let them pass for a mule. It is lying about letting them pass. The fight is short and cold. Say aloud afterward that the Chakyik live through this every winter.
 
 ## First Sight of Yecha
-> *The wind drops all at once, the way it does when a hand closes.*
+> *The wind drops all at once.*
 
 Then deliver these one at a time:
 - Below you, between seven low hills, the steppe is covered in tents — hundreds of them, felt and hide, smoke going straight up in the still air.
 - On the highest hill, earth-and-timber walls ring a squat old town, and the tents spill down from it like grain from a split sack.
-- Banners snap everywhere: tigers, painted and sewn. Beside the walls, a pavilion of striped hides flies a banner twice the size of the rest, with tiger skulls grinning from poles beside it.
+- Banners snap everywhere: tigers, painted and sewn. Beside the walls, a pavilion of striped hides flies a banner twice the size of the rest, with tiger skulls on poles beside it.
 - Somewhere below, a horn blows — not a welcome. An announcement.
 
 **To the table:** *"They've seen you. Do you ride down openly, or wait for them to come to you?"*

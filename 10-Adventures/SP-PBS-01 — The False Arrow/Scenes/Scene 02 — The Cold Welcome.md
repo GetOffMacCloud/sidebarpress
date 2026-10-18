@@ -47,13 +47,13 @@ The rider patting down packs finds Halya's plain-sealed letter. Batzorig turns i
 They are blindfolded for the last half-mile. If anyone objects: *"Custom. The shaman's word, not mine. Walk, or be carried."*
 
 ## The Great Pavilion
-> *The blindfold comes off all at once, and the light hits like a slap.*
+> *The blindfold comes off all at once, into sudden red brazier-light.*
 
 Then deliver these one at a time:
-- A cavern of striped hides, forty paces across, warm with braziers and close with the smell of mutton-fat, leather, and smoke.
+- A pavilion of striped hides, forty paces across, close and warm, smelling of braziers, mutton-fat and leather.
 - Tiger skins cover the floor; tiger skulls ring the central poles.
-- On a low throne draped in a robe the color of old blood — saber-tooth fur — sits a small old man with eyes like chipped flint.
-- Beside him stands a blind-eyed woman in juniper smoke. Behind them both, arms crossed, a young khan built like a gate.
+- On a low throne draped in a blood-dark saber-tooth robe sits a small old man with eyes like chipped flint.
+- Beside him stands a woman with one blind eye, wreathed in juniper smoke. Behind them both, arms crossed, stands a broad young khan.
 - Fifty warriors line the walls. Every one of them is watching you.
 
 **To the table:** *"Nobody has told you where to stand. Where do you stand?"*

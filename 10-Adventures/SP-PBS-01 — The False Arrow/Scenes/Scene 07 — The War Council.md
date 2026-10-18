@@ -30,9 +30,9 @@ The climax. Three rounds decide two questions — does the parley pass, and does
 
 Then deliver these one at a time:
 - Khans in tiger skins, warriors shoulder to shoulder; the air thick with brazier-smoke, mutton-grease, and anticipation.
-- Cligir sits on the low throne in the saber-tooth robe, Sarnai at his right hand like a carved omen.
+- Cligir sits on the low throne in the saber-tooth robe, Sarnai motionless at his right hand.
 - Temur stands before them all.
-- The moment you duck through the flap, fifty faces turn — and the talking dies, the way talking dies before weather.
+- As the flap opens, fifty faces turn — and the talking dies, the way talking dies before weather.
 
 **To the table:** *"Fifty faces, and an empty space on the felt before the throne. Who walks into it first?"*
 

@@ -43,7 +43,7 @@ The horde provides horses and **horn bows** (1d8 piercing, range 150/600; no pro
 > *The ravine opens below you like a wound.*
 
 Then deliver these one at a time:
-- Steep shale sides, knife-edged drifts, a frozen stream at the bottom.
+- Steep shale sides, sharp-crested drifts, a frozen stream at the bottom.
 - At the far end, a dark cleft in the rock — the den.
 - The air smells of old blood and cat-musk, thick enough to taste.
 - Somewhere in the dark of the cleft, something breathes: slow, wet, enormous.

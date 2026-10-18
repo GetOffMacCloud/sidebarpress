@@ -21,7 +21,7 @@ The table's first taste of nomad values: the horde honors the rider who masters 
 > *Dawn comes grey and sideways, the sun a rumor behind the Yatils.*
 
 Then deliver these one at a time:
-- The horse lines stretch along the frozen creek: a hundred steppe ponies, shaggy as bears, stamping and steaming.
+- The horse lines stretch along the frozen creek: a hundred shaggy steppe ponies, stamping and steaming.
 - Apart from them, alone at the far picket, a black stallion with a scarred muzzle tracks you the whole way down the line.
 - A crowd has gathered — riders, children, old women with milky tea. Someone is already taking bets.
 - A child points at the black one and holds up four fingers. Four riders. Four falls.

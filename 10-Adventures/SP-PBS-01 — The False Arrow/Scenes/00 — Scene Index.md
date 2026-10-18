@@ -98,8 +98,9 @@ Three-clue rule: each conclusion has at least three routes.
 - **Last resort:** if Kezrin escapes with his papers and no one read the brand, the fact waits for Part 2. Nothing in Part 1 depends on it.
 
 ## Prose Checklist (applies to all scenes)
-- [x] Every read-aloud is a lead line plus beats; no box over 100 words
-- [x] No feelings, conclusions, or certainty assigned to PCs
-- [x] Each read-aloud ends with a **To the table** prompt
+- [x] Every read-aloud is a lead line plus beats; no box over 100 words *(re-counted 2026-10-18; longest is Scene 01's First Sight of Yecha, at 99)*
+- [x] No feelings, conclusions, or certainty assigned to PCs *(2026-10-18 pass)*
+- [x] One metaphor or simile at most per box; no "seems" or "appears"; no mechanics words *(2026-10-18 pass)*
+- [x] Each read-aloud ends with a **To the table** prompt. **Exception:** Scene 06, Sarnai's Fire, where the silence is the trial.
 - [x] "X, not Y" constructions thinned; "Istus weaves" used twice only (S3, S6)
 - [ ] **Read each box aloud once before the session.** Cut any stumble.
