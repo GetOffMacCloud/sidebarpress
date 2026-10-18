@@ -18,7 +18,7 @@ In this night crossing, the two trackers become the game. Every choice spends ti
 **Budget:** 60 minutes.
 
 ## Setting Out
-> *Past the last wall, the track turns to black mud between walls of heather. Luna is dark. Celene hangs in the western sky, a white chip giving no more light than a coin. The wind comes straight off the heath and carries nothing on it at all. Far ahead, on a low swell of ground, three upright shapes stand darker than the sky.*
+> *Past the last wall, the track turns to black mud between banks of heather. Luna is dark. Celene hangs in the western sky, giving no more light than a coin. The wind comes straight off the heath and carries nothing on it at all. Far ahead, on a low swell of ground, three upright shapes stand darker than the sky.*
 
 Explain both trackers plainly and put the card on the table. Then run the crossing as **four legs** on the direct route. Each leg: tick the Rite Clock, tick the Howl (+1, plus any modifiers), make the leg's check, and play the leg's beat.
 

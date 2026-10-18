@@ -92,7 +92,7 @@ Each has a one-line or one-paragraph fix.
   **Fix:** make the mechanic note canonical and link to it from the others. Relabel "7+" as "past 6."
 - [ ] **17 · Voice and plot protection:**
   - S4 alternate: "Ashlock says most of it aloud in Scene 5 (he likes an audience)." This tells the plot unprompted. **Fix:** he reveals it only when taunted or captured.
-  - The dawn box: "By the time the party comes down off the heath" assigns an action. **Fix:** "Dawn comes up the color of dishwater…"
+  - The dawn box: "By the time the party comes down off the heath" assigns an action. **Fix:** "Dawn comes up the color of dishwater…" ✅ *Done in the prose pass, 2026-10-18.*
   - "Never explain why" for Tam and the stag leaves the DM without the truth. **Fix:** give the DM one hidden line for each.
 - [ ] **18 · Small inconsistencies:**
   - S1: "Stealth +2 with advantage in the dark". The Acolyte has Stealth +0, and darkness doesn't grant advantage in 5e. Use "Stealth vs. passive Perception; sight-based Perception has disadvantage."

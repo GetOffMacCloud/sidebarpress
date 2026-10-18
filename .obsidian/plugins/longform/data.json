@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-18T09:09:37.926Z",
-      "total": 1,
+      "total": 15,
       "drafts": {
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
           "total": 1,
@@ -23,9 +23,9 @@
           }
         },
         "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 14,
           "scenes": {
-            "Scene 01 — Dusk at the Pound": 0,
+            "Scene 01 — Dusk at the Pound": 14,
             "Scene 02 — Counting the Missing": 0,
             "Scene 03 — Crossing the Dreadverge": 0,
             "Scene 04 — The Cutters' Camp": 0,

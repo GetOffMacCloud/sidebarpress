@@ -94,7 +94,7 @@ A PC at a stone cuts ropes with an action, or with a bonus action on a **Sleight
 Kethra's grave goods are amber beads, bronze spear-blades, and a boar-tusk helm, about 150 gp. **Taking any of it sends the Howl to 6 at once.** If the torc has gone home, the pack does not rise, but the PC who took the goods hears clicking at the edge of every campfire until the goods are returned. *(See [[Torc-of-the-Hound-Mother]], Continuity.)* This is the adventure's last test. Do not warn the players. Hild will, if she is present: *"That's hers."*
 
 ## Denouement — Dawn at Waycombe
-> *By the time the party comes down off the heath, the sky is the color of dishwater. Smoke stands straight up from every chimney in Waycombe. Someone at the pound is counting sheep aloud, and stops, and starts again from one.*
+> *Dawn comes up over Waycombe the color of dishwater. Smoke stands straight up from every chimney in Waycombe. Someone at the pound is counting sheep aloud, and stops, and starts again from one.*
 
 Play these as short, separate beats. Answer questions through people and papers, never by narration.
 - **Reunions.** Hild and Brannoc; Wenna and the miller's wife; Odila and Tam. *Do not describe Odila's face.* Describe what she does with her hands (she reaches for the tally-stick and does not cut it).

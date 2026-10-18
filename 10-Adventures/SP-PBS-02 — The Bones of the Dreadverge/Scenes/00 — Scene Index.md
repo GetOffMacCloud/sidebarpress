@@ -98,8 +98,8 @@ The three-clue rule applies. Each conclusion has at least three routes.
 - [ ] The letter (S4)
 
 ## Prose Checklist (applies to all scenes)
-- [x] Every read-aloud ≤100 words, one paragraph, subject and verb early
-- [x] No feelings, conclusions, or certainty assigned to PCs
-- [x] One metaphor at most per box; no "seems" or "appears"; no mechanics words
+- [x] Every read-aloud ≤100 words, one paragraph, subject and verb early *(re-checked 2026-10-18; the longest box is Scene 05's mound, at 78. Beats delivered "as their attention finds them" are answers, not part of the box, but each must still be perception only. DM asides belong outside the beat list.)*
+- [x] No feelings, conclusions, or certainty assigned to PCs *(2026-10-18: the dawn box no longer moves the party)*
+- [x] One metaphor at most per box; no "seems" or "appears"; no mechanics words *(2026-10-18: Scene 03's Setting Out box cut to one figure)*
 - [x] Register swept (Elfland test)
 - [ ] **Read each box aloud once at the table before the session.** Cut any stumble.

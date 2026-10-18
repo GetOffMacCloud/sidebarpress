@@ -18,14 +18,16 @@ This scene shows the pack, teaches the party that bludgeoning breaks bone, and p
 **Budget:** 30 minutes (5 arrival, 15 fight, 10 aftermath).
 
 ## Arrival
-> *Waycombe is eleven houses, a mill, and a stone sheep-pound built against the wind. Every shutter on the lane is closed, though the sun has not yet set. Gray ash marks a hand-sized circle on four of the doors. At the pound, a woman stands with a pitchfork, watching the heath to the east, where the heather goes brown and then black.*
+> *Waycombe is eleven houses, a mill, and a stone sheep-pound built against the wind. Every shutter on the lane is closed, though the sun has not yet set. Grey ash marks a hand-sized circle on four of the doors. At the pound, a woman stands with a pitchfork, watching the heath to the east, where the heather goes brown and then black.*
 
 Then deliver these one at a time, as their attention finds them:
 - Above the heath, the Clatspur ridges stand dark against the last light. Beyond them, everyone in Waycombe knows, lie the Vesve and the Old One's lands.
 - A tinker's cart, painted red and yellow, stands with its shafts down beside the pound. Its owner is nailing a board across its back hatch.
-- Near the mill, a man in a grey robe sits on a bench beside a woman with a bandaged leg, praying aloud. *(This is **Ashlock**, playing the mendicant of Wee Jas.)*
-- The woman at the pound is **[[Hild-Brennan|Hild Brennan]]**. She says one thing without turning around: *"If you're for hire, you're late. If you're passing through, pass quick."*
+- Near the mill, a man in a grey robe sits on a bench beside a woman with a bandaged leg, praying aloud.
+- The woman at the pound says one thing without turning around: *"If you're for hire, you're late. If you're passing through, pass quick."*
 - The pound holds eleven sheep and room for forty.
+
+*(DM: the man in grey is **Ashlock**, playing the mendicant of Wee Jas. The woman at the pound is **[[Hild-Brennan|Hild Brennan]]**; she gives her name if asked.)*
 
 Let the party talk for two or three exchanges at most. Hild answers in single lines and watches the heath. Then the light goes.
 
