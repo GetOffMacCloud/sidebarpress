@@ -24,6 +24,8 @@ He paces when he talks, like a man who'd rather be riding. He touches the arrow 
 - **Wants:** the Wolves bled for the winter raids, and his brother avenged.
 - **Carries:** the arrow that killed **Tsolmon**, the patrol's lone survivor. He hasn't let anyone look at it. It is the same fake as the ravine arrows.
 - **Doesn't know:** that his war-cry was written by [[Master-Kezrin]], or that his black steel came from Iuz.
+- **Knows:** every rider's grievance against the Wolves, and how many blades came from Kezrin. He doesn't know what they cost.
+- **Escalation:** first he denies ("Wolf arrows, in Wolf fashion"). Then he redirects ("the Wolves raided our herds; that part was true"). Then he acts (he rides east). Shown the arrows side by side, he wavers. Given his brother's body, he listens.
 
 ## Stat Block
 **Gladiator** (MM p. 346) if it ever comes to a fight. In the council duel he sends a champion (berserker; see [[SP-PBS-01 — Bestiary]]).

@@ -24,6 +24,8 @@ Oil on water. He touches people when he talks — a hand on the elbow, steering.
 - **Wants:** Tiger and Wolf bled white before the thaw.
 - **Secret:** his men, Wolf-dressed, ambushed Temur's brother's patrol and dumped the bodies by a saber-tooth's den. He pays Yulbar of the Wolf for raids on the Tiger's herds.
 - **Carries:** an oilskin packet of orders from Dorakaa and a ledger ([[SP-PBS-01 — Handout — Kezrin's Papers]]).
+- **Knows:** who in Temur's camp carries his steel, Yulbar's price, and that the old khan suspects him.
+- **Escalation:** first he buys (the bribe in Scene 5). If refused, he burns the tent (Scene 5). If exposed, he runs: at the council flap, or at first light if Sarnai wasn't told (Scene 7, *Kezrin's Exit*). If cornered, he bargains with the names in his ledger.
 
 ## Stat Block
 **Spy** (MM p. 349). Full block in [[SP-PBS-01 — Bestiary]].

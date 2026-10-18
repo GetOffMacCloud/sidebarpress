@@ -23,6 +23,8 @@ She never raises her voice; she doesn't need to. She explains nothing she has wr
 ## Goals & Secrets
 - **Wants:** an honest count of the horde's riders and weapons for Perrenland.
 - **Secret:** Brennin doesn't know she asked. See [[SP-PBS-01 — Handout — Halya's Sealed Instruction]].
+- **Knows:** what Perrenland would pay to learn the horde's true strength.
+- **Escalation:** asked about the letter, she deflects ("if I wanted to say it out loud…"). Confronted afterward, she owns it and writes her report either way (Scene 7: credits by whether they spied).
 
 ## Stat Block
 **Acolyte** (MM p. 342). Noncombatant.

@@ -23,6 +23,8 @@ Rude, and for now that's as far as it goes. He speaks broken Common slowly, like
 - **Wants:** Temur's war, and to see the south-men fail honestly.
 - **Holds:** the party's weapons (returned on a Horse success, after the Bow on a partial, or when they leave Yecha).
 - **Told Sarnai** about the second letter in their packs.
+- **Knows:** the party's weapons by heart, and which PC laid down steel first.
+- **Escalation:** first he demands ("blades on the snow"), then he draws (six bows), then he escorts the PC under guard. He never shoots to kill a guest.
 
 ## Stat Block
 **Scout** (MM p. 349), mounted on a steppe pony. See [[SP-PBS-01 — Bestiary]].

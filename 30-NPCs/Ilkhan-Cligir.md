@@ -24,6 +24,8 @@ He lets silence do the shouting. He speaks slowly, in Baklunish, through Sarnai,
 - **Wants:** to die with the horde whole, and an heir who can tell a friend from a merchant.
 - **Secret:** he suspects Kezrin but has no proof, and won't shame Temur without it.
 - **Tradition:** by Ogobanuk's decree, he studies the art of beguilement (illusion). He never uses it on the party.
+- **Knows:** that his nephew is being played, but not by whom. He knows the parley terms Brennin can afford.
+- **Escalation:** he watches and says nothing until custom requires a ruling. Then he rules once, briefly, and doesn't revisit it.
 
 ## Stat Block
 Noncombatant in this adventure. If needed, use **noble** (MM p. 348) with *minor illusion* and *silent image* at will.

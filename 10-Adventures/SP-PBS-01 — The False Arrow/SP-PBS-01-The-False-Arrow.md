@@ -33,7 +33,7 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 `SP-PBS-01` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
 
 ## Date
-**Needfest–Fireseek, 576 CY** — the house default year, at midwinter, before the A Tourist In Greyhawk campaign's recorded sessions (Planting 576 onward). Ilkhan Cligir still rules the Chakyik. [[SP-PBS-02-The-Bones-of-the-Dreadverge]] follows in Patchwall of the same year. See [[Timeline]].
+**Needfest–Fireseek, 576 CY** — the house default year, at midwinter, before the A Tourist In Greyhawk campaign's recorded sessions (Planting 576 onward). Ilkhan Cligir still rules the Chakyik. **Travel:** the party leaves Ritterstadt in late Sunsebb 575. It is three weeks to the hospice, and from there three days down the pass and across the steppe to Yecha. [[SP-PBS-02-The-Bones-of-the-Dreadverge]] follows in Patchwall of the same year. See [[Timeline]].
 
 ## Campaign Frame
 The party are **Freshmen (level 3, undeclared)** at [[Greyhawk-University|Greyhawk University's Ritterstadt Field Station]]. The station, the hamlet, its faculty and residents follow the A Tourist In Greyhawk canon imported to `00-Inbox/Greyhawk University Import (A Tourist In Greyhawk)/`. Where this adventure and that canon disagree, the canon wins.

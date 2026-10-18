@@ -22,8 +22,9 @@ Quiet, certain, faintly kind. She has no spell for lies; she watches faces the w
 
 ## Goals & Secrets
 - **Wants:** the horde to choose its war with open eyes, not be led into one.
-- **Knows:** from Batzorig, that the party carries a second sealed letter.
 - **Ally if told the truth:** given the false-flag evidence, she posts riders on Kezrin and can carry the evidence into the council herself.
+- **Knows:** that the party carries a second sealed letter (Batzorig told her), the custom of every trial, and what she leaves out when she translates.
+- **Escalation:** she tests first (the trials), then judges (the Fire), then acts (riders on Kezrin, the soft fail). Caught lying to, she turns to stone and stays that way.
 
 ## Stat Block
 **Priest** (MM p. 348), Istus's domain of fate. Noncombatant in this adventure.

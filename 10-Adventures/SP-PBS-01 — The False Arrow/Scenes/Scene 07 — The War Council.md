@@ -38,7 +38,7 @@ Then deliver these one at a time:
 
 **Translation.** The council runs in Baklunish. Sarnai murmurs Common to the party under the roar and softens Temur's worst lines. A PC who attended [[Professor-Ilsabet-Federkiel]]'s Baklunish lectures follows it unaided and catches what she leaves out. Give that PC these two lines quietly:
 - When Temur says *"the south sends groceries,"* what he actually says is *"the south sends grain to fatten us for the Wolves."*
-- When a khan calls Kezrin *"a friend to the young khan's riders,"* Sarnai renders it as *"he has friends."* She leaves out the rest: *"his steel came cheaper than bread."* **(A clue: the blades were sold below cost.)*
+- When a khan calls Kezrin *"a friend to the young khan's riders,"* Sarnai renders it as *"he has friends."* She leaves out the rest: *"his steel came cheaper than bread."* **(A clue: the blades were sold below cost.)**
 
 ## Temur Speaks First
 Let him have it; he's good at this. He draws Tsolmon's arrow from his sash and holds it up.

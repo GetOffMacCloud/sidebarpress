@@ -26,7 +26,7 @@ Then deliver these one at a time, as their attention finds them:
 - Fresh-cut stakes stand pale among the old ones where the palisade is under repair.
 - The Wachturm rises over the wall; a lamp burns in it all day in winter.
 - Smoke from the Fiend's Rest Public House hangs low over the lane. Through its door: voices, and a board crowded with pinned paper.
-- Twelve souls live here, and every one of them knows when a stranger walks in.
+- Some 150 souls live here, and every one of them knows when a stranger walks in.
 
 **To the table:** *"Midwinter at the Field Station. Who's first through the door of the Fiend's Rest?"*
 
