@@ -75,27 +75,35 @@ The three-clue rule applies. Each conclusion has at least three routes.
 
 **The pack lairs at the Three Sisters**
 - [ ] Hild saw the drag-trail go toward the Sisters (S2)
-- [ ] The triple spiral on the collars matches the Sisters' carvings in the song (S1/S2)
+- [ ] The song: "Three sisters keep the Mother's door, her hounds asleep upon the floor" (S2, Mother Gest)
 - [ ] Drag trails on the Dreadverge (S3)
-- [ ] Ashlock's letter (S4)
+- [ ] The green fire between the three stones, seen from the camp (S4)
+- **Last resort:** Hild guides the party there (S2 transition).
 
 **The torc woke them and returning it ends it**
 - [ ] The hounds claw Tamsin's cart (S1)
 - [ ] Tamsin's green-bronze neck-ring with the same spiral (S2)
 - [ ] Kester's chafed wrist and confession (S2)
 - [ ] History/Religion DC 13 on the torc: "a binding, not a treasure" (S2)
-- [ ] Ashlock's letter: "the boy took the seal and spared me the work" (S4)
+- [ ] The song: "Bring back the ring, bring back the band" (S2)
+- [ ] Ashlock's letter: "her own boy went down into the dark and took the seal… He spared me the work" (S4)
+- **Last resort:** if the party skipped the torc, it lies in the heather at the Sisters (S2 alternate).
 
 **Ashlock is the enemy**
 - [ ] Ash circles were on the doors of the taken, the day before each was taken (S2)
 - [ ] A fresh circle on the mill door today (S2)
 - [ ] Hild's "man with antlers" (S2)
+- [ ] A scrap of grey wool on a trench stack (S3)
+- [ ] The wayside shrine's bent sickle-tooth (S2 alternate, Religion DC 10)
 - [ ] The camp, sickle, and letter (S4)
+- **Last resort:** he stands in the ring wearing the antlers (S5).
 
 **The deadline is Celene-set**
 - [ ] Ashlock says the line about the dark of the moon (S1)
-- [ ] Hild's letter, or the song's last line (S2)
+- [ ] The song's last line: "before the small moon leaves the land" (S2)
+- [ ] Hild's letter (Hook 4 only)
 - [ ] The letter (S4)
+- **Last resort:** explain both trackers at the start of S3 (Setting Out).
 
 ## Prose Checklist (applies to all scenes)
 - [x] Every read-aloud ≤100 words, one paragraph, subject and verb early *(re-checked 2026-10-18; the longest box is Scene 05's mound, at 78. Beats delivered "as their attention finds them" are answers, not part of the box, but each must still be perception only. DM asides belong outside the beat list.)*

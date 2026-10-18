@@ -52,13 +52,20 @@ Add one hound for 5 PCs. Risen captives add a **skeleton** each. Full blocks: [[
 - The beasts start **60 ft out from the ring**, between the party and the stones. *(This is the round-1 safety rule: nothing reaches a PC or captive on turn one, and no beast will attack a bound captive.)*
 - **Early arrival:** the party gets one free round of action before initiative.
 - **On time / late:** roll initiative as the party crests the slope.
+- **Ashlock's defenses.** Early: none, because he is caught preparing. On time or later: *sanctuary* on himself at APL 1–2, *shield of faith* (+2 AC) at APL 3–4, cast as the party crests the slope.
+
+### Development (as the fight runs)
+- **Freed captives** flee downhill toward the party. Brannoc takes up any weapon he is handed and fights beside them. Wenna walks.
+- **Tam** walks to the barrow mouth (see below).
+- **The torc enters the barrow:** the Barrow Stag stops attacking and turns to face the doorway. Ashlock abandons the rite and runs for the bog path, his escape route.
+- **The torc goes home:** the pack turns on Ashlock, then lies down (see *Return the torc*).
 
 ### The Rite (run every round)
 Use the Rite Track from [[SP-PBS-02 — The Howl and the Rite]]:
 - Ashlock chants with his **action**. The track ticks at the end of his turn.
-- Damage forces a **Con save (DC 10 or half damage)**. On a failure, the tick is lost.
+- Damage forces a **Constitution save (DC 10 or half the damage, whichever is higher)**. On a failure, the track does not advance at the end of his next turn. *(The rule lives in [[SP-PBS-02 — The Howl and the Rite]].)*
 - At 3, the current captive dies and rises. Announce it in one flat sentence.
-- The rite breaks if Ashlock drops, is moved 10 ft or more from the center, loses the crown, or the torc goes home.
+- The rite breaks if Ashlock drops, is moved more than 10 ft from the center, loses the crown, or the torc goes home.
 
 **Action-economy model (APL 2, 4 PCs, 3 rounds).** The party deals about 18 effective damage per round. Ashlock (13 HP) falls in round 1 or 2 if the party targets him. If they don't, the rite needs 3 uninterrupted rounds to kill Brannoc. The beasts deal about 15 effective damage per round, focused on whoever reaches the ring or carries the torc. A party that ignores the ring loses Brannoc around round 3, and a party that rushes Ashlock takes heavy hits from the stag. Both lines are tense, and neither is a party kill on its own. At APL 3–4, Ashlock's 33 HP means two to three rounds of focused fire, so expect **one captive lost if the party fights only the pack**.
 
@@ -70,7 +77,7 @@ A PC carries the [[Torc-of-the-Hound-Mother|torc]] to the barrow mouth, through 
 - The bone beasts prefer the torc-bearer as a target. The bearer has disadvantage on Stealth against them. Make the run feel like carrying a lantern through wolves.
 - When the torc is laid down, **every bone beast stops, turns, and goes for Ashlock** on its next turn. The crown does nothing. Then, at the end of the next round, the whole pack falls to loose bone.
 
-> *The torc settles into the hollow at the dead woman's throat. Outside, the clicking stops. Then every bone on the mound turns toward the green fire at once, with the same small sound, like a field of dry reeds bending.*
+> *The torc settles on the dead woman's breast. Outside, the clicking stops. Then every bone on the mound turns toward the green fire at once, with the same small sound, like a field of dry reeds bending.*
 
 - **DM direction:** let the beasts reach Ashlock before they fall, if they can. Do not narrate his death in detail. Say he went down under them, and that when the bones collapsed, he was under them. If he survives, he is at a quarter of his HP and running for the bog.
 
@@ -78,10 +85,10 @@ A PC carries the [[Torc-of-the-Hound-Mother|torc]] to the barrow mouth, through 
 Kill Ashlock, shove him 10 ft from center (Athletics vs. his Athletics or Acrobatics), or keep hitting him to cost him ticks. The rite ends, but **the pack is still awake**. Without a master, it falls back on instinct: it defends the barrow mouth and attacks anyone in the ring except the captives. The fight continues with the rest of the pack. Afterward, the pack wakes again at the next dark of Luna, unless the torc goes home.
 
 ### 3. Take the crown
-Knock it off (contested Str or Dex check, an action) or loot it from his body. The wearer can steer one beast per round as a bonus action (*Crown-Bearer*). Wearing the crown lets the wearer **hear the pack**, a sound like dry sticks dragged over stone. The wearer can order the pack to stand down (action, Charisma check DC 13; on a success, each beast stops for 1 round). This is a real win, but a temporary one. See the item note: [[Antler-Crown-of-Kethra]].
+Knock it off (an action: contested Strength or Dexterity check) or loot it from his body. The wearer can steer one beast per round as a bonus action (*Crown-Bearer*). Wearing the crown lets the wearer **hear the pack**, a sound like dry sticks dragged over stone. The wearer can order the pack to stand down (action, Charisma check DC 13; on a success, each beast stops for 1 round). This is a real win, but a temporary one. See the item note: [[Antler-Crown-of-Kethra]].
 
 ### 4. Cut them loose
-A PC at a stone cuts ropes with an action, or with a bonus action on a **Sleight of Hand DC 10**. A freed captive leaves the rite. Free captives flee downhill toward the party. **Tam does not run. He walks to the barrow mouth and stands looking in** until someone carries him. *(Never explain why.)*
+A PC at a stone cuts ropes with an action, or with a bonus action on a **Sleight of Hand DC 10**. A freed captive leaves the rite. Free captives flee downhill toward the party. **Tam does not run. He walks to the barrow mouth and stands looking in** until someone carries him. *(Never explain why at the table. DM only: the barrow calls the blood of the house that robbed it, and Tam is Kester's brother. He comes to no harm and remembers nothing.)*
 
 ## Ashlock at the End
 - **Captured alive:** he does not beg. He tells them the rest of what is in his letter, gladly, and adds:

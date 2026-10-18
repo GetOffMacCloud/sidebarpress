@@ -40,7 +40,7 @@ publish: false
 
 - [x] Developmental edit: structure, pacing, railroad check
 - [x] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max)
-- [ ] Every read-aloud read aloud once; stumbles cut
+- [x] Every read-aloud read aloud once; stumbles cut
 - [ ] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve
 - [ ] Canon Check table complete and page numbers verified against print
 - [ ] Every scene `status: edited`

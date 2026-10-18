@@ -51,7 +51,7 @@ Statblocks: [[SP-PBS-02 — Bestiary#Zombie (CR 1/4, 50 XP), MM p. 316 — the r
 - Wrapped in oilcloth under the bedroll: **[[SP-PBS-02 — Handout — Ashlock's Letter|Ashlock's letter]]**, a draft to his superior in Schwartzenbruin. **Hand this to the players.**
 - Ashlock's purse (if he did not carry it): see Treasure in [[SP-PBS-02-The-Bones-of-the-Dreadverge]].
 - A **bone whistle** carved from a stag's tine. Blowing it makes every bone beast within 300 ft stop and face the sound for 1 round (once per night). *It is a tool of the crown, but it works without it.*
-- APL 3–4: a *potion of healing* and the *spell scroll of lesser restoration*.
+- APL 1–2: a *potion of healing*. APL 3–4: two *potions of healing* and the *spell scroll of lesser restoration*.
 
 ## What the Letter Unlocks
 The handout names the **crown**, the **rite at Celene-set**, the **order of the captives**, and the line *"the boy took the seal and spared me the work."* A party holding the torc now has the solution in writing. If they have not gotten the torc, the letter tells them it exists and where it went: *"the tinker-woman's wagon."* A fast party can still turn back, at the cost of 2 Rite segments.
@@ -64,10 +64,12 @@ The handout names the **crown**, the **rite at Celene-set**, the **order of the 
 - **Taste:** smoke. *Absence:* the dead fire gives no warmth, though its coals still glow.
 
 ## Alternates & Re-hooks
-- **Skipped entirely.** The letter's information still arrives: Ashlock says most of it aloud in Scene 5 (he likes an audience), and the bone whistle is on his belt.
+- **Skipped entirely.** The letter's information still arrives: Ashlock gives most of it away in Scene 5, but only if taunted or once captured (he likes an audience, not a trap), and the bone whistle is on his belt.
 - **The party burns the camp.** That is fine, but the Howl rises by 1 for the light, and the letter burns unless someone has already taken it.
 
 ## Transition
 > *From the camp, the mound is a quarter-mile east. On top of it, between the three stones, a small fire has been lit. Its light is green.*
+
+From the camp, play Leg 4 as normal (see [[Scene 03 — Crossing the Dreadverge]]).
 
 → [[Scene 05 — The Three Sisters]]

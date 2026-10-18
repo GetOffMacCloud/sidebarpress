@@ -15,7 +15,7 @@ The night runs on two tracks. Put both on the table where players can see them: 
 
 ## The Rite Clock (0–6)
 
-One segment equals about one hour of night. The clock starts when the party leaves Waycombe after Scene 2. When it reaches **6**, Celene sets and Ashlock begins the rite at the Three Sisters, whether or not the party is there.
+One segment equals about one hour of night. The clock starts when the party leaves Waycombe after Scene 2, near ten bells; Celene sets about four hours after midnight. When it reaches **6**, Celene sets and Ashlock begins the rite at the Three Sisters, whether or not the party is there.
 
 **Advances by 1 when the party:**
 - Travels one leg of the Dreadverge (the direct route is **4 legs**; see [[Scene 03 — Crossing the Dreadverge]])
@@ -30,10 +30,10 @@ One segment equals about one hour of night. The clock starts when the party leav
 
 | Rite Clock on arrival | What the party finds |
 |---|---|
-| 0–4 | **Early.** Ashlock is preparing. The Rite Track starts at 0, and the party may scout and plan for one full round of unobserved approach. |
+| 0–4 | **Early.** Ashlock is preparing. The Rite Track starts at 0, and the party may scout and plan for one full round of unobserved approach. Once he sees witnesses, he begins early: the rite does not wait for Celene once someone is watching. |
 | 5 | **On time.** The rite is beginning. The Rite Track starts at 0, but Ashlock is already at the stones and alert. |
 | 6 | **Late.** The rite has begun. The Rite Track starts at 1. |
-| 7+ (still travelling) | **Very late.** Brannoc has already died and risen as a **skeleton** (MM p. 272), which joins the pack. The Rite Track starts at 1 on Wenna. |
+| Past 6 (still travelling) | **Very late.** Brannoc has already died and risen as a **skeleton** (MM p. 272), which joins the pack. The Rite Track starts at 1 on Wenna. |
 
 *Designed partial failure: arriving late costs a person, never the whole adventure. Do not add punishment beyond this table.*
 

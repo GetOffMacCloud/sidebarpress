@@ -66,7 +66,7 @@ Kester is 19, sits on the woodpile outside, and will not come in. He rubs his le
 
 > **Kester:** *"I wore it under my sleeve two days. It was cold the whole time. It never once got warm. Then I sold it, and then they came for Tam."*
 
-- He tells the full story: the cutters opened the mound on Odila's leave; he went in alone at night and took the ring off "her" neck; he sold it to the tinker for twelve kleinmarks toward a dice-debt in Schwartzenbruin, run up while he waited to sign with a free company.
+- He tells the full story: the cutters opened the mound on Odila's leave; he went in alone at night and took the ring off "her" neck *(he is wrong about the neck: it lay on her breast)*; he sold it to the tinker for twelve kleinmarks toward a dice-debt in Schwartzenbruin, run up while he waited to sign with a free company.
 - He begs them not to tell his mother. **Whether they tell her is a story choice, and a story-XP objective.** Do not make it for them.
 
 ### [[Tamsin-the-Tinker|Tamsin]] — the torc
@@ -79,7 +79,7 @@ Behind the boarded hatch is a **green-bronze neck-ring, thick as a thumb, cut wi
 - *History or Religion DC 13 on the torc:* this is a binding-ring, laid on the dead to hold something down. It was not meant to be worn or sold. A natural 20 adds that rings like this were laid **on the breast**, never the neck.
 
 ## Odila's Secret
-If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hiding something, or Kester's confession), she admits she leased the turf on the Sisters' slope to a crew from Traft to meet the levy, over the old folks' grumbling. The cutters have not been seen in a week. *"They'll have run off with the advance."* *(They did not. See Scene 4.)*
+If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hiding something, or Kester's confession), she admits she hired a crew from Traft to cut turf on the Sisters' slope to meet the levy, over the old folks' grumbling. The cutters have not been seen in a week. *"They'll have run off with the advance."* *(They did not. See Scene 4.)*
 
 > **Odila:** *"Forty marks a year we owe the canton. It was turf. It was only turf."*
 
@@ -90,7 +90,7 @@ If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hidi
 | History/Religion, torc | 13 | A binding, not treasure |
 | Investigation, mill ash | 10 | Tallow and bone-meal |
 | Insight, Kester | 10 | He knows about the cart |
-| Insight, Odila | 13 | She is hiding the lease |
+| Insight, Odila | 13 | She is hiding the hiring |
 | Persuasion, Odila's pay | 13 | Cloak-pin added |
 | Persuasion / Intimidation, Tamsin | 15 / 12 | Torc for 25 gp / free |
 
@@ -103,9 +103,9 @@ If the party presses Odila on the peat-cutters (*Insight DC 13* that she is hidi
 
 ## Alternates & Re-hooks
 - **The party skips the torc.** Tamsin leaves at midnight with her cart on the High Gallery, and the Howl starts at **2** for the pack-split (the pack goes after her). At the Sisters, the party finds the bone elk dragging Tamsin's cart-hatch into the ring, with the torc lying in the heather 20 ft from the barrow mouth. The climax key is still reachable, but it costs a run under fire.
-- **The party wants to wait for dawn.** Rowan is taken from the mill at midnight. Start the Rite Clock at **2**. The barrow then holds four captives; add Rowan after Tam on the Rite Track.
+- **The party wants to wait for dawn.** Rowan is taken from the mill at midnight. Celene sets before they can reach the Sisters, so they arrive **Very late** (past 6 on the Rite Clock). The barrow then holds four captives; add Rowan after Tam on the Rite Track.
 - **The party goes looking for Iuz.** The ridge-paths east show no orc sign, no burned steadings, nothing. Hild meets them on the way back with the song. Cost: +1 Rite Clock.
 - **The party confronts Ashlock's absence.** The wayside shrine is a mile east: a cairn with a bowl. The bowl holds ash and a bent sickle-tooth. *Religion DC 10:* sickles are the sign of **Nerull**, not Wee Jas.
 
 ## Transition
-Hild ties her shawl, picks up her crook, and stands at the door. *"Beck's high. You'll want me for the ford-stones."* Start the **Rite Clock at 0**, unless an alternate changed it. → [[Scene 03 — Crossing the Dreadverge]]
+Hild ties her shawl, picks up her crook, and stands at the door. *"Beck's high. You'll want me for the ford-stones."* They leave **near ten bells**, about two hours after dark. Start the **Rite Clock at 0**, unless an alternate changed it. Six one-hour segments take the night to Celene-set, about four hours after midnight. → [[Scene 03 — Crossing the Dreadverge]]

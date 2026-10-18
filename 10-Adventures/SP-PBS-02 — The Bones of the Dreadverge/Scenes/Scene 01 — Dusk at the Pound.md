@@ -68,6 +68,7 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 
 > **Ashlock:** *"The dark of the moon is a kind night for the dead, sister. Tonight they will be easy."*
 
+- **The cleric subplot.** Before he goes, Ashlock asks a cleric, acolyte or paladin PC to help him renew the ash circle on the mill door, "where the rain has smeared it," and presses a pinch of ash into their palm. A PC who helps has marked Rowan's door for him (see Scene 2). *Insight DC 13 (advantage for that PC):* his grief is rehearsed.
 - He excuses himself "to pray at the wayside shrine" east of town, takes a hooded lantern, and leaves along the Dreadverge track. *(He is going to the Sisters. If the party follows him immediately, see Alternates.)*
 
 ## Tamsin's Cart
@@ -81,10 +82,10 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 - **Taste:** peat-smoke at the back of the throat
 
 ## Alternates & Re-hooks
-- **The party follows Ashlock at once.** He walks a mile, then puts out his lantern and vanishes into the heather (Stealth +2 with advantage in the dark). Tracking him (Survival DC 15) leads onto the Dreadverge, so the crossing starts early without the town clues. Hild runs after them with the song and the torc-rumor at the first rest. Start the Rite Clock.
+- **The party follows Ashlock at once.** He walks a mile, then puts out his lantern and vanishes into the heather (his Stealth against the followers' passive Perception; in the dark, sight-based Perception has disadvantage). Tracking him (Survival DC 15) leads onto the Dreadverge, so the crossing starts early without the town clues. Hild runs after them with the song and the torc-rumor at the first rest. Start the Rite Clock.
 - **The party attacks Ashlock in town.** The villagers defend him: he healed their people. This is a talk-first obstacle. If the PCs shed blood in the lane with no proof, Odila locks her doors to them, and the party loses Scene 2's help. Ashlock surrenders meekly. **If he is held,** at full dark he tries to slip away (his Stealth against the guards' passive Perception). **If he stays held:**
   - The pack runs unsteered that night and hunts by its own law. The hounds still come for the cart.
-  - The captives are still bound at the Three Sisters, but no rite can begin. The Rite Clock becomes an **exposure clock**: at 6, Wenna dies of cold, and at 7+ Brannoc follows.
+  - The captives are still bound at the Three Sisters, but no rite can begin. The Rite Clock becomes an **exposure clock**: at 6, Wenna dies of cold, and past 6, Brannoc follows.
   - The Antler Crown is in his pack.
 
   The party can still return the torc, free the captives and lay Kethra to rest. Encounter 7 becomes the stag and the hounds guarding the barrow, with no Ashlock.

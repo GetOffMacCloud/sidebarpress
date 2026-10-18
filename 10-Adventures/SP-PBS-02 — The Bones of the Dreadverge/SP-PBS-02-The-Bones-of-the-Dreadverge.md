@@ -70,6 +70,8 @@ Pick one, or let each PC take a different one.
 3. **Mercenary contract.** Perrenland's chief export is its mercenaries. A free company's captain, short of work, sells the job to the party: Waycombe's warden has posted a bounty of 40 marks. The captain wants a tenth.
 4. **Personal stake.** A PC is kin to or owed a favor by [[Hild-Brennan|Hild Brennan]], whose husband Brannoc went missing four nights ago. Her letter arrives by carter: three lines, smudged, ending *"Please come before the dark of the moon."*
 
+**If the party declines:** a month later, word reaches them that Waycombe stands empty (Ending D, offscreen).
+
 ## PC Objectives (the plot, as goals rather than events)
 Each objective has more than one way to succeed. Objectives 5–7 are optional.
 
@@ -82,11 +84,11 @@ Each objective has more than one way to succeed. Objectives 5–7 are optional.
 7. *(Optional)* **Learn what Ashlock serves.** *(His letter points to the Nerullite cell and eight more barrows. This is a sequel door.)*
 
 ## Subplots (keyed to PCs; assign at the table)
-- **Cleric, acolyte, or paladin:** Ashlock speaks to this PC as a fellow servant of the gods and asks for help with "the rites." Each honest favor done for him (such as reading a funeral psalm at a marked door) is later revealed as help in choosing a victim. Payoff: this PC gets advantage on the Insight check that unmasks him.
-- **Outlander, ranger, or anyone proficient in Survival:** Waycombe has no guide but grieving Hild. This PC can lead the Dreadverge crossing. Every navigation success saves a Rite segment.
+- **Cleric, acolyte, or paladin:** Ashlock speaks to this PC as a fellow servant of the gods and asks for help with "the rites." Each honest favor done for him (such as reading a funeral psalm at a marked door) is later revealed as help in choosing a victim. Payoff: in Scene 1 he asks this PC to help renew the ash on the mill door, and the PC has advantage on the Insight check (DC 13: his grief is rehearsed). When the marked doors come up in Scene 2, the PC realises whose door they marked.
+- **Outlander, ranger, or anyone proficient in Survival:** Waycombe has no guide but grieving Hild. This PC can lead the Dreadverge crossing and makes the Leg 2 and Leg 3 navigation checks with **advantage**. Each success avoids the +1 Rite Clock for searching or getting lost.
 - **Sage, scholar, or anyone proficient in History:** The collar-spirals, the song, and the barrow are all Flan. This PC can identify the torc as a *binding* rather than treasure (DC 13 History or Religion), which is the key to the climax.
 - **Criminal, guild artisan, or urchin:** Kester's dice-debt is owed to someone in Schwartzenbruin this PC knows of. Kester will confess to them first, as one debtor to another. This PC also gets the best price from Tamsin.
-- **Folk hero:** Waycombe's children follow this PC around. Tam's small sister, Bett, gives them a carved wooden stag "so it knows you're friends." *(If it is shown to the Barrow Stag, the stag hesitates for one round. Never explain why.)*
+- **Folk hero:** Waycombe's children follow this PC around. Tam's small sister, Bett, gives them a carved wooden stag "so it knows you're friends." *(If it is shown to the Barrow Stag, the stag hesitates for one round. Never explain why at the table. DM only: Waycombe's carvers have made the Mother's white stag for children for fifteen centuries without remembering why, and the stag knows its own likeness.)*
 
 ## Act Structure
 Likely path: Scenes 1 → 2 → 3 → 4 → 5. Each scene note lists alternates and re-hooks.
@@ -108,8 +110,8 @@ See [[Scene 05 — The Three Sisters]] for the full run. The PCs can derive ever
 | Solution | What it takes | Seeded in |
 |---|---|---|
 | **Return the torc** | Carry it into the barrow (20 ft passage) and lay it on Kethra's bier (action). The pack turns on Ashlock, then sleeps forever. | S1 (hounds claw the cart), S2 (Tamsin, Kester, History check) |
-| **Break the rite** | Damage Ashlock; each hit forces a DC 10 Con save (or DC = half damage) or the Rite Track does not advance that round. | S2 (Hild's "man with antlers"), S4 (camp, letter) |
-| **Take the crown** | Knock it off (DC 13 Str/Dex contest, or Ashlock drops to 0). The wearer can steer one beast per round as a bonus action. | S2 (Hild), S4 (letter describes the crown) |
+| **Break the rite** | Damage Ashlock; each hit forces a Constitution save (DC 10 or half the damage, whichever is higher), or the Rite Track does not advance at the end of his next turn. Rule: [[SP-PBS-02 — The Howl and the Rite]]. | S2 (Hild's "man with antlers"), S4 (camp, letter) |
+| **Take the crown** | Knock it off (an action: contested Strength or Dexterity check), or loot it when Ashlock drops to 0. The wearer can steer one beast per round as a bonus action. | S2 (Hild), S4 (letter describes the crown) |
 | **Cut them loose** | Reach a stone and use an action to cut ropes (or Sleight of Hand DC 10 to do it as a bonus action). A freed captive no longer counts for the rite. | S3/S4 (scouting the ring) |
 | **Destroy the pack** | Brute force. This works, but the barrow stays open, and a new pack can wake at the next dark of Luna. | — |
 
@@ -191,13 +193,13 @@ Both threads are logged in [[Plot-Threads]], and both 576 CY events are in [[Tim
 | Perrenland: eight cantons between the Yatils and Lake Quag; capital Schwartzenbruin; mercenaries as chief export; Oeridian–Flan population; Stamtaal; Old Kerk tolerates Nerull shrines | *Living Greyhawk Gazetteer* (3e, 2000) pp. 85–86; *WoG* boxed set (1e, 1983) pp. 29–32 | Nation, culture, hooks. See [[Perrenland]]. |
 | Canton of Clatspurgen; highland longbowmen | *LGG* (2000) p. 85 | Waycombe's canton and militia. See [[Canton-of-Clatspurgen]]. |
 | Clatspur Range, between the cantons and the Vesve Forest; the High Gallery | *From the Ashes* (2e, 1992) Atlas pp. 46, 57; *LGG* (2000) pp. 53, 85; *WoG* (1983) | The highlands and hook roads. See [[Clatspur-Range]]. |
-| Iggwilv's conquest 481–491 CY (humanoid legions; "the Witch's dead" is Perrender folk memory, not canon); Iuz on the eastern border | *S4* (1e, 1982); *LGG* (2000) pp. 85–86; *Dungeon* #151 (2007) | Folk fear and red herring. See [[Iggwilvs-Conquest-of-Perrenland]]. |
+| Iggwilv's conquest 480–481 CY and rule to 491 CY (humanoid legions; "the Witch's dead" is Perrender folk memory, not canon); Iuz on the eastern border | *S4* (1e, 1982); *LGG* (2000) pp. 85–86; *Dungeon* #151 (2007) | Folk fear and red herring. See [[Iggwilvs-Conquest-of-Perrenland]]. |
 | Perrender coinage: mark (gp), kleinmark (sp) | *LGG* (2000) p. 85 | In-world prices |
 | The Flan as the oldest human people of the Flanaess; Flan tribes of the Yatils absorbing later migrants | *WoG* (1983), Guide; *LGG* (2000) p. 85 | Kethra's culture |
 | Nerull, god of death; Wee Jas, Suel death goddess | *PHB* (5e 2014), App. B; *WoG* (1983); *Greyhawk Adventures* (1e, 1988) | Ashlock's true god and his cover |
 | Luna and Celene; Common Year reckoning; month of Patchwall | *WoG* (1983), Guide | Deadline and in-world date |
 
-**Deviations (homebrew):** Waycombe, the Dreadverge, the Three Sisters, Kethra and her pack, the torc and crown, and Ashlock and the Nerullite barrow-cell in Schwartzenbruin are all invented. Flan chieftain-barrows in the Clatspurs are a Sidebar Press extrapolation from the Flan history of the Yatil highlands. The title "reeve" for an elected hamlet warden is house usage, not a canon Perrender office. (If we adopt Living Greyhawk canton detail, the levy is owed to the Roodberg Phalzgraf; see [[Canton-of-Clatspurgen]].) See [[The-Hound-Mother-of-the-Dreadverge]] in `20-World/Homebrew`. The date, 576 CY, is the house default. At 591 CY or later, Perrenland's pact with Iuz would be in force; keep the red herring, but villagers then blame Iuz for breaking the pact.
+**Deviations (homebrew):** Waycombe, the Dreadverge, the Three Sisters, Kethra and her pack, the torc and crown, and Ashlock and the Nerullite barrow-cell in Schwartzenbruin are all invented. Flan chieftain-barrows in the Clatspurs are a Sidebar Press extrapolation from the Flan history of the Yatil highlands. The title "reeve" for an elected hamlet warden is house usage, not a canon Perrender office. (If we adopt Living Greyhawk canton detail, the levy is owed to the Roodberg Phalzgraf; see [[Canton-of-Clatspurgen]].) See [[The-Hound-Mother-of-the-Dreadverge]] in `20-World/Homebrew`. The date, 576 CY, is the house default. At 583 CY or later, Perrenland's pact with Iuz would be in force; keep the red herring, but villagers then blame Iuz for breaking the pact.
 
 ## Fantasy Grounds Build
 - [ ] Story entries written (one per scene)

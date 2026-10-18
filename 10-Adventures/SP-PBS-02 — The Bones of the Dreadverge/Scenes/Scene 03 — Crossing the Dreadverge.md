@@ -27,7 +27,7 @@ Explain both trackers plainly and put the card on the table. Then run the crossi
 |---|---|---|---|
 | 1 | **The Turf Track.** Mud between heather walls; easy going | none | — |
 | 2 | **The Weeping Beck.** A fast brown stream, waist-deep, 30 ft wide | Survival DC 12 to find the **ford-stones** (automatic with Hild) | +1 Rite Clock while searching. Crossing elsewhere: each PC makes Athletics DC 10 or is swept 20 ft and takes 1d6 bludgeoning. |
-| 3 | **The Cut-Trenches.** A field of peat-cuttings 10 ft deep | Survival DC 13 (navigation in the dark) | Lost: +1 Rite Clock. **The set-piece fight happens here regardless.** |
+| 3 | **The Cut-Trenches.** A field of peat-cuttings 10 ft deep | Survival DC 13 (navigation in the dark) | Lost: +1 Rite Clock. **The set-piece fight happens here either way.** On a success, the party sees the boars first, picks its causeway, and gets a surprise round. |
 | 4 | **The Mound Approach.** Rising heath, with the stones visible | Stealth DC 12 (group) for an unobserved approach | Ashlock is alert on arrival (see Scene 5) |
 
 **Detour:** at the end of Leg 3, drag trails and a guttered fire-glow lead half a mile north to the cutters' camp → [[Scene 04 — The Cutters' Camp]] (+1 Rite Clock).
@@ -41,10 +41,7 @@ Explain both trackers plainly and put the card on the table. Then run the crossi
 - **Leg 4:** From the mound comes one low note on a bone whistle. Every clicking sound on the heath stops at once.
 
 ## Howl Encounters (whenever the track hits 3 or 6)
-| Howl | APL 1 | APL 2 | APL 3 | APL 4 |
-|---|---|---|---|---|
-| **3 — The Pack Tests You** | 2 hounds (Easy) | 3 hounds (Easy) | 4 hounds (Easy) | 5 hounds (Easy) |
-| **6 — The Pack Hunts** (reset to 3 after) | 3 hounds (Hard) | 3 hounds + 2 elk (Medium) | 4 hounds + 2 elk (Medium) | Barrow Stag + 6 hounds (Medium) |
+Creature mixes by APL are in the main note's Encounters table ([[SP-PBS-02-The-Bones-of-the-Dreadverge#Encounters]], rows 3 and 4). Thresholds and the once-per-night rule are in [[SP-PBS-02 — The Howl and the Rite]].
 
 - **The Pack Tests You:** The hounds come from downwind in a line, bite once each, and break off when two fall. They are measuring the party.
 - **The Pack Hunts:** The hounds circle, and the elk charge through the circle. At APL 4, the **Barrow Stag** appears, white in the dark. If the stag drops to half HP, it walks away. *(It returns at the Sisters with whatever HP it has left. If the party destroyed it, replace it in Encounter 7 with 2 bone hounds.)*
