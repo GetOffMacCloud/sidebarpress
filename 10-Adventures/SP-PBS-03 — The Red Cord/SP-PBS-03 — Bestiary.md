@@ -131,13 +131,13 @@ Under the cord, every weapon attack is replaced:
 > **Skills** Athletics +4, Intimidation +2 · **Senses** passive Perception 11 · **Languages** Common · **Challenge** 1/2 (100 XP)
 >
 > ***Old Knees.*** Jost makes his second Multiattack attack only if he has not moved on this turn. He has disadvantage on saving throws and checks to avoid being shoved or knocked prone.
-> ***Kord's Honour.*** Jost yields when he drops to a quarter of his HP or below and is clearly beaten. He never targets a creature that is prone or has yielded.
+> ***Kord's Honor.*** Jost yields when he drops to a quarter of his HP or below and is clearly beaten. He never targets a creature that is prone or has yielded.
 >
 > **Actions**
 > ***Multiattack.*** Jost makes two fist attacks (see *Old Knees*).
 > ***Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) bludgeoning damage. Nonlethal.
 >
-> **Changes from the Thug block:** HP set by APL, speed 25 ft., Wis 12, Athletics +4, brawl swap, Old Knees and Kord's Honour; Pack Tactics removed (a bout has no allies).
+> **Changes from the Thug block:** HP set by APL, speed 25 ft., Wis 12, Athletics +4, brawl swap, Old Knees and Kord's Honor; Pack Tactics removed (a bout has no allies).
 
 > [!example]- Feldwebel Jost Kammerer, APL 3–4 — Veteran chassis (CR 3, 700 XP), MM p. 350
 > *Medium humanoid (human), lawful neutral* — as above
@@ -149,13 +149,13 @@ Under the cord, every weapon attack is replaced:
 >
 > **Skills** Athletics +5, Perception +3 · **Senses** passive Perception 13 · **Languages** Common · **Challenge** 3 (700 XP)
 >
-> ***Old Knees; Kord's Honour.*** As above.
+> ***Old Knees; Kord's Honor.*** As above.
 >
 > **Actions**
 > ***Multiattack.*** Jost makes two fist attacks (see *Old Knees*).
 > ***Fists.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5 (1d4 + 3) bludgeoning damage. Nonlethal.
 >
-> **Changes from the Veteran block:** AC 17 (splint) becomes 12 (a buff coat; no armor in the ring), HP set by APL, speed 25 ft., Wis 12, brawl swap, Old Knees and Kord's Honour.
+> **Changes from the Veteran block:** AC 17 (splint) becomes 12 (a buff coat; no armor in the ring), HP set by APL, speed 25 ft., Wis 12, brawl swap, Old Knees and Kord's Honor.
 >
 > **Balance note (both chassis).** A champion's fists deal 1d4 + Str in the ring (the house wraps knuckles), and a bout can also be won by **three ring-outs** (shoves over the benches), so a strong PC has a route that does not depend on damage. *Old Knees* gives the table a visible tactic: keep moving and make him chase, and he hits once a round, not twice. Tell the players what they see: *"He's slow on his feet. His fists aren't."* Losing the bout closes only the bout; the standards and the chest stay open.
 

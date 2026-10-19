@@ -44,17 +44,17 @@ No gore. The patrol's dead are shown at a distance, frost-covered, faces turned 
 
 ## Anchor Phrases (paste verbatim)
 
-| Key | Anchor phrase |
-|---|---|
-| **CLIGIR** | `a small elderly Baklunish steppe khan, seventyish, weathered face, eyes like chipped flint, white-streaked beard, saber-tooth tiger fur robe of state` |
-| **TEMUR** | `a powerfully built Baklunish nomad khan of thirty, single warrior braid, tiger-tail standard knotted at his belt, a broken grey-fletched arrow tucked in his sash` |
-| **SARNAI** | `an ancient Baklunish shaman woman, one milky blind eye, bone and feather fetishes in grey hair, juniper smoke curling around her` |
-| **KEZRIN** | `a smooth Ekbiri merchant in his forties, oiled beard, too-clean hands, rich southern coat, ingratiating smile that does not reach his eyes` |
-| **BRENNIN** | `a kindly Oeridian priest in his sixties, plain grey robes with a cudgel emblem, worry-worn gentle face` |
-| **HALYA** | `a sharp woman priest in her thirties, dark hair pulled back, plain travelling robes, watchful eyes` |
-| **BATZORIG** | `a broad young Baklunish rider on a shaggy steppe pony, tiger-tail standard tied at his saddle, horn bow` |
-| **STALLION** | `a furious black steppe stallion with a scarred muzzle and old rope-burn scars around its neck` |
-| **YECHA** | `a squat earth-and-timber walled hill town ringed by hundreds of felt yurts between seven low hills` |
+| Key          | Anchor phrase                                                                                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CLIGIR**   | `a small elderly Baklunish steppe khan, seventyish, weathered face, eyes like chipped flint, white-streaked beard, saber-tooth tiger fur robe of state`             |
+| **TEMUR**    | `a powerfully built Baklunish nomad khan of thirty, single warrior braid, tiger-tail standard knotted at his belt, a broken grey-fletched arrow tucked in his sash` |
+| **SARNAI**   | `an ancient Baklunish shaman woman, one milky blind eye, bone and feather fetishes in grey hair, juniper smoke curling around her`                                  |
+| **KEZRIN**   | `a smooth Ekbiri merchant in his forties, oiled beard, too-clean hands, rich southern coat, ingratiating smile that does not reach his eyes`                        |
+| **BRENNIN**  | `a kindly Oeridian priest in his sixties, plain grey robes with a cudgel emblem, worry-worn gentle face`                                                            |
+| **HALYA**    | `a sharp woman priest in her thirties, dark hair pulled back, plain travelling robes, watchful eyes`                                                                |
+| **BATZORIG** | `a broad young Baklunish rider on a shaggy steppe pony, tiger-tail standard tied at his saddle, horn bow`                                                           |
+| **STALLION** | `a furious black steppe stallion with a scarred muzzle and old rope-burn scars around its neck`                                                                     |
+| **YECHA**    | `a squat earth-and-timber walled hill town ringed by hundreds of felt yurts between seven low hills`                                                                |
 
 ---
 

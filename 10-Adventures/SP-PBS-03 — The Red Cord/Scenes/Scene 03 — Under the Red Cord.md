@@ -18,7 +18,7 @@ Teach the law, seat the witnesses, show Ilse's relic, make Jost look guilty, and
 **Budget:** 30 minutes. Running long? Use barbs 1 and 3 only.
 
 ## The Door
-> *The Red Cord is low, loud and warm: one long room under black beams hung with company colours, and a fire at each end. Inside the red door, an old woman sits with a lap full of red cord. Every hilt that passes her gets a knot through it, and nobody argues. Burned into the beam above her chair are the words WOOD IS KORD'S. STEEL IS MURDER.*
+> *The Red Cord is low, loud and warm: one long room under black beams hung with company colors, and a fire at each end. Inside the red door, an old woman sits with a lap full of red cord. Every hilt that passes her gets a knot through it, and nobody argues. Burned into the beam above her chair are the words WOOD IS KORD'S. STEEL IS MURDER.*
 
 **To the table:** *"She holds out her hand for your swords. What do you give her?"*
 
@@ -57,8 +57,8 @@ Ilse rises when Konrad's party is seated and explains it once, fully, and will n
 She lays a folded half-banner beside the Soldbrief's case: **"the banner we failed,"** kept in the company chest since 480, which the company now returns to the house it failed. She does not unfold it.
 **If a PC asks to unfold it,** she allows it. It is white over ice-blue, and one edge is cut straight. *If Konrad's half is also on view,* the standards route of Scene 6 is open now. Let the players have it. Run Scene 6's standards beat here if they press it, and move Jost's block and the oath to after the brawl.
 
-### Konrad hangs his colours
-Custom puts each party's colours over its end of the table. Konrad hangs the Eisfeld half-banner on a nail above his chair.
+### Konrad hangs his colors
+Custom puts each party's colors over its end of the table. Konrad hangs the Eisfeld half-banner on a nail above his chair.
 
 > *(If both halves are visible at once.) Two half-banners now hang a table's length apart, one above Konrad and one folded under Ilse's hand. Both are white over ice-blue. Both are faded the same way.*
 
@@ -89,7 +89,7 @@ She has never told Konrad. Nobody from his family has ever asked her.
 
 **Barb 3 is the clue.** Konrad goes white. Only someone who knows about the Kettenhaus Schuldbrief and the timber it is secured on could say it, and Konrad has told no one. A PC with Trust 2+ can see that it landed (Insight DC 10). Konrad, asked later, says only: *"He should not know that."*
 
-**Answering the barbs.** Each barb can be defused before Konrad answers (Persuasion, Performance or Intimidation DC 12: **Temper −1**). A PC who takes the insult on their own honour makes Rudi turn on *them*. That is excellent play, and the brawl will start on that PC.
+**Answering the barbs.** Each barb can be defused before Konrad answers (Persuasion, Performance or Intimidation DC 12: **Temper −1**). A PC who takes the insult on their own honor makes Rudi turn on *them*. That is excellent play, and the brawl will start on that PC.
 **Speaking to Konrad quietly** (Insight or Persuasion DC 12, or DC 10 at Trust 2+): **Temper −1**, once per barb.
 **At Temper 5**, describe his hand on the cord: *"His thumb is under the knot."* Give the table one last chance.
 
@@ -125,7 +125,7 @@ When Temper reaches **5**, or after barb 4, Rudi throws the first punch: at the 
 - The clerk's bell-glass; Ilse's "before the bell"; Ilka's "Clerk goes home at the bell" → the deadline
 
 ## Sensory Palette
-- **Sight:** company colours, two fires, and a cord-board bristling with sheathed steel
+- **Sight:** company colors, two fires, and a cord-board bristling with sheathed steel
 - **Sound:** a dozen dialects, dice, and a squeezebox that stops when Konrad's name is spoken
 - **Smell:** dark beer, roast pork, wet wool drying
 - **Touch:** the knot on the hilt, too tight to slip with one hand

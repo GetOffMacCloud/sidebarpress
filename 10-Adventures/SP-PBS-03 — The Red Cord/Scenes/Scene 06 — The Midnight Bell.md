@@ -35,7 +35,7 @@ Run the climax below at the Hetmen's dawn sitting, as a filing. The truth works 
 ## Beats
 
 ### The Soldbrief
-Ilse lays the Soldbrief flat before the clerk. If it is singed, the clerk turns it over twice and accepts it. If it burned and the company copy was fetched, the clerk accepts that, with a sniff. Konrad's colours hang above his chair; Ilse's half-banner lies folded by her hand.
+Ilse lays the Soldbrief flat before the clerk. If it is singed, the clerk turns it over twice and accepts it. If it burned and the company copy was fetched, the clerk accepts that, with a sniff. Konrad's colors hang above his chair; Ilse's half-banner lies folded by her hand.
 
 ### The block
 Ilse begins the oath of guilt: *"The Hundred, before the three voices, owns that in the year of the Witch it…"* Jost stands up. *"No. Not that oath. Not while I'm in the room."* He will not say why. If Ilse orders him out, he stays. If anyone threatens him, he says: *"Then Kord decides,"* and steps into the ring of benches.
@@ -75,10 +75,10 @@ Ilse reads it twice, and then reads it aloud to the room. Go to *What the truth 
 If no route is taken, or the party tells Ilse to proceed, she swears the oath over Jost's objection. It is legal, and the charter is saved. **Jost** takes off his company knot, lays it on the table, and walks out into the dark. Go to *The amends*, Ending B.
 
 ### Last resort
-If the bell-glass is nearly empty and the party has the pieces but has not put them together, **Mutter Ilka** gets up from her chair for the first time all night and tells the whole room her grandmother's story. Then she says to Konrad: *"Lay your colours beside hers, Ritter. Go on."* The cut does the rest (Route 1).
+If the bell-glass is nearly empty and the party has the pieces but has not put them together, **Mutter Ilka** gets up from her chair for the first time all night and tells the whole room her grandmother's story. Then she says to Konrad: *"Lay your colors beside hers, Ritter. Go on."* The cut does the rest (Route 1).
 
 ## What the Truth Says
-Read this from the daybook or the release-copy, or summarise it from the standards. Keep the last line.
+Read this from the daybook or the release-copy, or summarize it from the standards. Keep the last line.
 
 > *"Kalte Klamm, the last night. The Ritter has released us from his walls, in writing, before me and two of my sergeants, and cut his standard and given me the half. He asks us to hold the gorge road while his people go down it, and we will. He has sworn me to say nothing of this until the head of his house releases me. He does not want the boy to know his father chose the valley over the house. God of strength keep him. He is staying on the wall."*
 
@@ -88,8 +88,8 @@ Wolfram released the Hundred to hold the Kalte Klamm for three hundred people. H
 
 ## The Amends, Reversed
 1. **Konrad withdraws Gerhard's complaint** before the three witnesses. The clerk strikes it from the roll. The rival company's petition dies with it.
-2. **Konrad apologises to the Hundred** for his house: three generations of slander, in front of every company in Schwartzenbruin. Let a PC help him with the words if he asks.
-3. **Ilse strikes the Soldbrief through** and writes beneath it: *discharged with honour, 480 CY.* The clerk signs it. Benedikt Roos writes it down.
+2. **Konrad apologizes to the Hundred** for his house: three generations of slander, in front of every company in Schwartzenbruin. Let a PC help him with the words if he asks.
+3. **Ilse strikes the Soldbrief through** and writes beneath it: *discharged with honor, 480 CY.* The clerk signs it. Benedikt Roos writes it down.
 4. **Jost gives Konrad the daybook.** His grandfather's duty is done.
 
 ### The gratitude

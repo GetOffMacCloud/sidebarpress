@@ -32,11 +32,11 @@ The commission hangs on the Job Board at [[The Fiend's Rest Public House]] under
 | 6 | "Perrender mercenaries fight with their fists in taverns. It's a religion with them." | Partly true (the bout under Kord) |
 
 ## Arrival
-> *The Ritter's Hall smells of pine smoke and wet dog. A dozen banners hang from the black beams, faded to the colour of weak tea, and two wolfhounds lie across the hearthstones. Rain ticks on the shingles. Ritter Konrad von Eisfeld stands at the fire with a letter in his hand, a length of red cord looped over his wrist. He has not offered anyone a seat.*
+> *The Ritter's Hall smells of pine smoke and wet dog. A dozen banners hang from the black beams, faded to the color of weak tea, and two wolfhounds lie across the hearthstones. Rain ticks on the shingles. Ritter Konrad von Eisfeld stands at the fire with a letter in his hand, a length of red cord looped over his wrist. He has not offered anyone a seat.*
 
-**To the table:** *"He reads the letter to the end. Then he says, 'They want to apologise. Ninety-six years late.' Which of you answers him?"*
+**To the table:** *"He reads the letter to the end. Then he says, 'They want to apologize. Ninety-six years late.' Which of you answers him?"*
 
-The Hall is Konrad's seat and Ritterstadt's court of first resort ([[The Ritter's Hall]]). The banners are Gerhard's: the standards of the southern manor's vassals, carried north in 510 and never taken down. One of them is a half-banner in the Eisfeld colours, white over ice-blue.
+The Hall is Konrad's seat and Ritterstadt's court of first resort ([[The Ritter's Hall]]). The banners are Gerhard's: the standards of the southern manor's vassals, carried north in 510 and never taken down. One of them is a half-banner in the Eisfeld colors, white over ice-blue.
 
 ## Who Is Here
 - **[[Ritter Konrad von Eisfeld]]** (Trust 0, Temper 1 from the moment he reads the letter). *Wants* to be left alone with a grudge he inherited. *Knows* his grandfather's version of 480, and the size of his debt to [[The Kettenhaus]], which he will not mention. *Reacts:* refuses first, argues second, and agrees only to an argument he can respect.
@@ -57,18 +57,18 @@ Any one of these routes works. Let the players find the argument; give the check
 | **The law of contract.** Refusing a lawful amends leaves the breach open forever, and the von Eisfelds' complaint dies unanswered with him. | Persuasion DC 12 | He agrees. **+1 Trust.** *"Then I will hear them say it."* |
 | **Hildegard or Vater Sigmund**, if a PC enlists them first. | none | He agrees, irritated. No Trust. |
 | **Pragmatism.** The town needs swords for the broken eastern gate, or coin. | Persuasion DC 15 (it touches his finances) | He agrees, coldly, and Temper stays at 1. No Trust. |
-| **Honour.** A von Eisfeld who will not face the men who wronged him looks afraid of them. | Intimidation or Persuasion DC 13 | He agrees, and Temper rises to 2. *That* is the man who will need watching. |
+| **Honor.** A von Eisfeld who will not face the men who wronged him looks afraid of them. | Intimidation or Persuasion DC 13 | He agrees, and Temper rises to 2. *That* is the man who will need watching. |
 
 **Escalation if every argument fails:** he refuses → Hildegard asks for a word with him alone → Vater Sigmund arrives within the hour and walks him to the Landing (*"You'll go, Konrad. Your grandfather couldn't."*). He never fails to go. The party's arguments decide only how he goes.
 
 ### The banner
-Once Konrad has agreed, he says custom requires both parties to show their colours at an amends, and he looks up at the beams. A PC who follows his look sees the half-banner.
+Once Konrad has agreed, he says custom requires both parties to show their colors at an amends, and he looks up at the beams. A PC who follows his look sees the half-banner.
 
-> *(If a PC asks to see it, or stands under it.) The half-banner hangs lower than the rest, white over ice-blue, the Eisfeld colours, and it is exactly half a banner. The near edge is not ragged. It runs straight from top to bottom, and the threads lie flat and even along it.*
+> *(If a PC asks to see it, or stands under it.) The half-banner hangs lower than the rest, white over ice-blue, the Eisfeld colors, and it is exactly half a banner. The near edge is not ragged. It runs straight from top to bottom, and the threads lie flat and even along it.*
 
 The edge is a blade-cut, made in one stroke along the weave. **Investigation DC 10** or a PC who runs a thumb along it: *"This wasn't torn. Somebody cut it, carefully."* Konrad: *"My grandfather carried it north. It was all he carried. We call it the torn one."* He has never looked at the edge.
 **+1 Trust** if a PC asks about the banner and listens to his answer without arguing with it.
-**If no one asks,** Hildegard takes it down and folds it into his saddlebag. The cut can be noticed again in Scene 3, when he hangs his colours.
+**If no one asks,** Hildegard takes it down and folds it into his saddlebag. The cut can be noticed again in Scene 3, when he hangs his colors.
 
 ### Gerhard's sword
 Konrad takes down a plain, old longsword in a black scabbard and buckles it on. It was his grandfather's ([[Gerhard's Longsword]]). Hildegard catches one PC's eye across the Hall and holds it for a moment. If that PC goes to her afterward, she says it plainly: *"He'll go wearing it. Keep his hand off it."* (This is Hook 2, if it was not the party's hook already.)
@@ -86,7 +86,7 @@ A PC who consults Falk needs no History check to name the custom in Scene 6.
 - Rumor 4 → Konrad owes money in Traft (why the timber remark lands in Scene 3)
 
 ## Sensory Palette
-- **Sight:** tea-coloured banners, a hearth that never goes out, two grey wolfhounds, and a letter tied with red cord
+- **Sight:** tea-colored banners, a hearth that never goes out, two grey wolfhounds, and a letter tied with red cord
 - **Sound:** the hounds' tails on the boards, rain on the shingles
 - **Smell:** pine smoke, wet dog, old wool
 - **Touch:** the banner's cut edge, smooth enough to run a thumb along
