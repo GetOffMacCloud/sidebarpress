@@ -22,14 +22,14 @@ publish: false
 ## 2 · Write
 
 - [x] Every scene note exists with `status: outline`
-- [ ] Every scene `status: drafted` (Purpose, read-aloud, beats, Sensory Palette, Alternates, Transition)
+- [x] Every scene `status: drafted` (Purpose, read-aloud, beats, Sensory Palette, Alternates, Transition)
 - [x] Clue Ledger complete: every conclusion has 3+ routes
 - [x] Every named NPC has a note in `30-NPCs` with Appearances filled
 - [x] Every location has a note in `40-Locations`
 - [x] Every item has a note in `50-Items`
 - [x] Encounter table filled with APL bands and DMG difficulty math
 - [x] Adventuring-day XP check written
-- [ ] Bestiary note complete, every statblock 2014 5e, MM pages cited
+- [x] Bestiary note complete, every statblock 2014 5e, MM pages cited
 - [x] Handouts written (`type: handout`)
 - [x] Continuity section filled: threads opened / advanced / closed; hooks logged in [[Plot-Threads]]
 

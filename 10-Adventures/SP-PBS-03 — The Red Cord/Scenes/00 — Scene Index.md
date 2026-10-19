@@ -12,6 +12,10 @@ longform:
   scenes:
     - Scene 01 — The Ritter's Hall
     - Scene 02 — Across the Quag
+    - Scene 03 — Under the Red Cord
+    - Scene 04 — The Brawl
+    - Scene 05 — Dornhalm's Yard
+    - Scene 06 — The Midnight Bell
   ignoredFiles:
     - 00 — Scene Index
 ---

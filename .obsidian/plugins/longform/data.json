@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-18T09:09:37.926Z",
-      "total": 348,
+      "total": 9207,
       "drafts": {
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
           "total": 1,
@@ -37,10 +37,14 @@
           "scenes": {}
         },
         "10-Adventures/SP-PBS-03 — The Red Cord/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 8859,
           "scenes": {
-            "Scene 01 — The Ritter's Hall": 0,
-            "Scene 02 — Across the Quag": 0
+            "Scene 01 — The Ritter's Hall": 898,
+            "Scene 02 — Across the Quag": 451,
+            "Scene 03 — Under the Red Cord": 1929,
+            "Scene 04 — The Brawl": 1369,
+            "Scene 05 — Dornhalm's Yard": 1910,
+            "Scene 06 — The Midnight Bell": 2302
           }
         }
       }
