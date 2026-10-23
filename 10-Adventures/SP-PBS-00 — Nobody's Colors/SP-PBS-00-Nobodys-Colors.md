@@ -198,7 +198,7 @@ Difficulty uses **4 PCs** and 2014 DMG thresholds and multipliers. **For 5–6 P
 **Earned.**
 - **Purse share.** Second place pays the owner 500 marks. "One part in five" (Scene 1) is 100 marks to split.
 - **Winnings.** 40 marks staked at 4-to-1 to place returns 160 profit plus the stake.
-- **Otwin's gratitude.** Where Adalinde rides and the farm stands, Otwin pays the party's northern packet out of his own purse: *"The Rathaus clerk tells me the northern packet leaves Godsday. You'll be on it. Don't thank me; I'm buying your absence from my daughter's stable."*
+- **Otwin's gratitude.** Where Adalinde rides and the farm stands, Otwin pays each PC's northern packet and half the bond, **60 marks a head**, out of his own strongbox, the first money in fifteen years he hasn't counted twice: *"The Rathaus clerk tells me the northern packet leaves Godsday. You'll be on it. Don't thank me; I'm buying your absence from my daughter's stable."*
 - **The Rhennee sale.** 600 marks on the second night. Four hundred clears the note; Corwin gives the party the two hundred over. It costs the Halbritters their name.
 
 **The patron's letter (Extra Credit, outside the 600 limit).** Adalinde brings it on almost every branch: a **letter of field expertise** from a Roodberg breeding patron, addressed to [[Registrar Hedwig Ammerlin]]. It does not open the door; the University takes anyone who signs the Oath. It counts once they are inside. **10 extra credit on its face, plus 10 for each commendation, three at most (40).** See [[SP-PBS-00 — Handout — The Patron's Letter]].
@@ -218,9 +218,9 @@ Difficulty uses **4 PCs** and 2014 DMG thresholds and multipliers. **For 5–6 P
 
 | Branch (4 PCs) | Coin each | How they reach Ritterstadt |
 |---|---|---|
-| Adalinde rides, they bet, purse share | 200 + 25 = **225**; packet paid by Otwin | Clear, with 145 marks in hand |
-| Adalinde rides, purse share, no bet | 40 + 25 = **65**; packet paid | On the levy (the Registrar takes the 65 toward it) |
-| Adalinde rides, no share, no bet | **40**; packet paid | On the levy |
+| Adalinde rides, they bet, purse share | 200 + 25 = **225**; Otwin pays 60 | Clear, with 185 marks in hand |
+| Adalinde rides, purse share, no bet | 40 + 25 = **65**; Otwin pays 60 | Clear, with 25 in hand |
+| Adalinde rides, no share, no bet | **40**; Otwin pays 60 | Clear, with nothing left |
 | Corwin rides, sixth | **40** | Packet; 20 left; on the levy |
 | Vuurzward's offer taken | **40** | Packet; on the levy; letter in hand |
 | Sold to the Rhennee | 40 + 50 = **90** | Packet; 70 left; on the levy |
@@ -236,7 +236,7 @@ See [[Scene 08 — The Sale Ring]]. Otwin watched the last two furlongs from the
 | **C — Kept whole** | Mare Sore, and they don't run her | Scratched by choice. Vuurzward's offer at Derby-evening prices |
 | **D — Run sore** | Mare Sore, and they run her | Fourth at best, with a 1-in-6 breakdown rolled in the open. No purse |
 | **E — Paper beats horse** | Vuurzward's offer taken, or past the third bell | Farm saved, mare gone. The letter is still delivered |
-| **F — Sold** | The Rhennee sale | The note cleared, the name lost on the Flats |
+| **F — Sold** | The Rhennee sale | The line struck; the note cleared with the barge coin; the name lost on the Flats. A short Act 3 (Scenes 5 and 7 cut down, Scene 6 cut) |
 
 ## Continuity
 Threads this adventure **opens**: —
@@ -283,7 +283,7 @@ Watch for: how long the bridge runs (Boedic is talkative and players enjoy him),
 
 ## Publishing
 - [ ] Editing pass complete
-- [ ] Layout/art brief written (port the draft's Midjourney prompts, `--v 8.1`)
+- [x] Layout/art brief written ([[SP-PBS-00 — Art Brief]])
 - [ ] Listed in [[Release-Tracker]]
 
 ## Supporting Files
@@ -293,4 +293,6 @@ Watch for: how long the bridge runs (Boedic is talkative and players enjoy him),
 - [[SP-PBS-00 — Bestiary]]
 - [[SP-PBS-00 — Handout — The Notice]]
 - [[SP-PBS-00 — Handout — The Patron's Letter]]
-- [[SP-PBS-00 — Developmental Edit]] — findings carried over from the draft
+- [[SP-PBS-00 — Developmental Edit]] — edit passes and the copy-edit log
+- [[SP-PBS-00 — Map Assets]] — battlemap specs (maps still to build)
+- [[SP-PBS-00 — Art Brief]] — Midjourney prompt pack (`--v 8.1`)

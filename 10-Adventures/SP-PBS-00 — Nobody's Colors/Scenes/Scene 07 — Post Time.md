@@ -20,7 +20,7 @@ The whole adventure. Twenty minutes to the third bell, and three things are true
 ## Arrival
 > *Derby Day. The stands are full, the bell for the second race has gone, and the course is a green mile with a crowd four deep along its rail. The morning packet has come in. Otwin Halbritter stands at the end of the row with two house men, looking at the mare, not his son. Adalinde is beside the stall in riding boots. A steward's boy puts his head round the post: "Ostvelt Grey. The book's still not signed. Whoever signs names the rider. Third bell."*
 
-*Now stop talking. Let the table look at it.*
+*Now stop talking. Let the table look at it.* If a player asked Adalinde in Scene 1 whether she rides, she looks at that player, not at Corwin, when the steward's boy speaks.
 
 ## Who Is Here
 - **[[Corwin Halbritter]]**. *Wants:* to be taken seriously. *Knows:* he can't win. *Reacts:* won't offer the ride.
@@ -47,7 +47,7 @@ Adalinde riding needs the nomination changed. **Every route was seeded earlier:*
 | **Weisel signs** | [[The Tanner's Rest]], five minutes at a run. Find him: Investigation DC 12, or automatic if they asked about him before. Make him sign: Intimidation DC 15, Persuasion DC 17, or 50 marks. Blackmail him with the rented-colors scheme: automatic, and he hates them forever, which costs nothing today. *"I rent cloth. I don't rent promises. If the boy told you I'd stand in a stewards' tent and swear for him, the boy misheard."* |
 | **A new sponsor** | A Roodberg or Meerijder breeder willing to sign for a share of the mare's first foal. Automatic with a clan-kin PC who spends the favor; otherwise Persuasion DC 15 in the enclosures. |
 | **Roodberg bends the rule** | Persuasion DC 17 (DC 12 with a clan name vouching): the rule serves the race better bent than kept. He does it once, and he writes down why. |
-| **Otwin signs** | Only if he has seen the ledger argument (Scene 2) or watched the swap. He signs for a dead house in his own hand, which is the closest a Halbritter has ever come to colors. Persuasion DC 13. |
+| **Otwin signs** | Only after the party has said Adalinde should ride, never before. Persuasion DC 13 if the ledger argument was won in Scene 2 or he has watched the swap; DC 17 otherwise. He signs for a dead house in his own hand, which is the closest a Halbritter has ever come to colors. |
 
 ### The other routes
 - **Buy the note down:** stake money at 4-to-1 to place (the purse share, the bet, or both).
@@ -91,6 +91,7 @@ He doesn't say anything. He looks at his daughter in the silks, and at his son s
 ## Alternates & Re-hooks
 - **Adalinde came instead of Corwin** (they refused the job): the problem at post time is Otwin, who arrives to take the mare home. The same routes work on him; the ledger argument is the strongest.
 - **Otwin has been here since Scene 5** (the roll): he stands in the row the whole scene. He speaks only if a PC speaks to him first.
+- **The mare was sold to the Rhennee** (Scene 4): a 10-minute beat. Otwin and Adalinde come off the morning packet to an empty stall and a struck line. Adalinde looks at the stall, then at the party: *"You sold her to the water."* She says nothing else until the sale ring, where she still delivers the letter. Otwin says nothing at all; the note is paid, and that is the worst part. Go to [[Scene 08 — The Sale Ring]].
 - **A PC cut a cord in Scene 6:** Roodberg has already struck the line. The only routes left are a very good reason (Persuasion DC 20, with the bravos' cut cords as evidence) or Vuurzward's offer.
 
 ## Transition

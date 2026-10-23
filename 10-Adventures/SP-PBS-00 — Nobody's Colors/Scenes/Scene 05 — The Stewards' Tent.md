@@ -15,7 +15,7 @@ session: 1
 
 ## Purpose
 The trap closes, and the antagonist makes a reasonable offer. The party leaves knowing the entry is one complaint from being scratched, having met Vuurzward and heard his offer. **Do not resolve the sponsor problem here**; it is Scene 7's fuel.
-**Budget:** 25 minutes. Running long? Vuurzward makes his offer in the stable rows instead.
+**Budget:** 25 minutes, the morning of Richfest 3. Running long? Vuurzward makes his offer in the stable rows instead.
 
 ## Arrival
 > *Schwartzenbruin is twenty-six thousand people in slate and timber under a Rathaus tower with a clock on it. Outside the walls the Duffkyyn Flats are a city of their own: striped pavilions in clan colors, cook-fires, a sale ring, and beyond it all the long green curve of the course. At the Flats gate a boy takes your sword, threads a red cord through hilt and scabbard both, knots it, and presses a wax seal onto the knot. "Landfrieden. Derby peace. Cut it and you hang. Enjoy the races."*
@@ -29,9 +29,6 @@ The trap closes, and the antagonist makes a reasonable offer. The party leaves k
 - **[[Corwin Halbritter]]**, three feet away, waiting to be told.
 
 ## Beats
-
-### The dock patrol (2 minutes)
-Before the Flats, the *Maid* comes in under the lake-gate, and the patrol meets every boat: a sergeant with a lantern, and a clerk with a ledger. *"Business. Lodging. Company."* Every answer goes down. A horse that came aboard off the roll goes into this ledger instead. It changes nothing today; it is how the city works.
 
 ### Steward Roodberg
 *"Ostvelt."* He turns the register around and taps a line. *"Ostvelt green. The Ostvelts have been dead thirty years, Junker. I don't mind that. Half this book is ghosts. What I mind is that the man who signed for those ghosts is not standing in front of me."*
@@ -88,6 +85,7 @@ He comes to them. *"You'll be the ones who came up from Aerden with the boy. Siv
 - **The party hunts Weisel tonight** instead of tomorrow. Move the Tanner's Rest beat from Scene 7 here; it becomes a whole scene of leaning on a coward, and Scene 7 opens with the book already signed or Weisel already gone.
 - **The party never asks for the odds-book.** Roodberg mentions it himself if a PC says *Vuurzward*: *"Funny. That name's in my other book, too."*
 - **Nobody carries a debt.** Vuurzward makes the same offer without the aside.
+- **The mare was sold to the Rhennee** (Scene 4). Run this scene short (15 minutes). Roodberg strikes the Ostvelt line: no horse, no entry. Vuurzward has already heard where she went; he finds Corwin within the hour and calls in the note at once. The 400 from the sale clears it, and he takes the coin with perfect courtesy: *"A pity. I had wanted the mare."* The party's 200 is safe; their afternoon is free. Cut [[Scene 06 — The Stable Rows]].
 
 ## Transition
 - → [[Scene 06 — The Stable Rows]]: Derby eve, lanterns between the pavilions, and Corwin asking to stand the first watch.

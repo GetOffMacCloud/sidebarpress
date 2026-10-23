@@ -38,7 +38,7 @@ publish: false
 
 ## 3 · Edit
 
-- [ ] Developmental edit: structure, pacing, railroad check (open findings carried over in [[SP-PBS-00 — Developmental Edit]])
+- [x] Developmental edit: structure, pacing, railroad check ([[SP-PBS-00 — Developmental Edit]]; majors applied 2026-10-23)
 - [ ] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max)
 - [ ] Every read-aloud read aloud once; stumbles cut
 - [ ] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve
@@ -52,8 +52,8 @@ publish: false
 
 - [ ] Manifest in [[10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file
 - [ ] Longform compile run; output saved as `SP-PBS-00 — Compiled.md`
-- [ ] Battlemaps (DM + Player) in `99-Assets/SP-PBS-00/`; Map Assets note written
-- [ ] Art brief / Midjourney prompt pack written
+- [ ] Battlemaps (DM + Player) in `99-Assets/SP-PBS-00/`; Map Assets note written *(note done; maps to build)*
+- [x] Art brief / Midjourney prompt pack written ([[SP-PBS-00 — Art Brief]])
 - [ ] Title block and cover art done
 - [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported
 - [ ] Fantasy Grounds module built and exported (per FG checklist in adventure note)

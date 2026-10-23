@@ -40,7 +40,7 @@ However it ended, even if they took Vuurzward's offer, Adalinde finds them with 
 
 *"The Roodbergs have sold remounts to the University's field station since its charter. The Registrar knows the seal."* She hands it over. *"It's a letter of field expertise. It won't buy your passage, and you don't need it for the door; they take anyone who signs. It's for after. She'll write it in a different column from everyone else's."*
 
-*(If they saved the farm:)* *"Father's paying your passage. He says he's buying your absence from my stable. He isn't. He just can't say the other thing."*
+*(If they saved the farm:)* *"Father's paying your passage, and half your bond. He says he's buying your absence from my stable. He isn't. He just can't say the other thing."*
 
 *(And then, because she owes them one true sentence:)* *"Whatever else happened out there, thank you for asking me whether I ride. Nobody ever thought to ask."*
 

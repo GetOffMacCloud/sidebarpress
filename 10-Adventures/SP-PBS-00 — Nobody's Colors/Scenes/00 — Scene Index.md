@@ -49,6 +49,8 @@ SORT publish_order ASC
 | 07 | [[Scene 07 — Post Time]] | 3 — The Flats | 25 min | 3:55 | **Never cut.** End Scene 6 on the next round instead | Who rides; the race in three sentences |
 | 08 | [[Scene 08 — The Sale Ring]] | 3 — The Flats | 10 min | 4:05 | The letter only | Hessel named or not; the letter |
 
+**If the mare was sold to the Rhennee (Scene 4):** Scene 5 runs short (15 min: the line struck, the note called in), Scene 6 is cut, and Scene 7 is a 10-minute beat at an empty stall. That banks about 45 minutes: give it to the city (the hiring halls, the undercard, the Tanner's Rest) or end early.
+
 **Total:** about 4 hours, five minutes over on paper. Cut from the long column, not from Scene 7.
 
 **Running short?** Let the party investigate the *Maid*'s sixteen passengers (20 min); move Weisel's hunt to Derby eve (a whole scene of leaning on a coward); enter a PC in the mounted-archery undercard on Derby morning (15 min); or have Otwin catch them at Osterschlauss even if they weren't held.
@@ -93,8 +95,8 @@ Three-clue rule: each conclusion has at least three routes.
 - **Last resort:** a bravo the party drags clear of the stampede says, *"Herr Sivert said nobody gets hurt."* (S6)
 
 **Hessel Amtmann sold the route**
-- [ ] Grete: *"He's never bought his own ale in this house in fifteen years"* — and tonight he does (S0)
-- [ ] Tilo: *"The sergeant's wife was a Vuurzward. She still paints her mother's door."* (S0)
+- [ ] Grete: *"He's never bought his own ale in fifteen years. Every market day he's paid a Vuurzward man at the well instead. Not this week."* (S0)
+- [ ] Tilo: *"The sergeant's wife was a Vuurzward. And he didn't pay the green man at the well this week."* (S0)
 - [ ] Krul: *"The boat and the day, ten days back."* Ten days ago only Corwin and Hessel knew (S4)
 - [ ] The odds-book account was opened ten days ago (S5)
 - [ ] Vuurzward, asked straight, does not deny it: *"I don't lie, scholar. Ask me something else."* (S5)

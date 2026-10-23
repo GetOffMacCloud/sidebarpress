@@ -31,7 +31,8 @@ The saboteur needs **three uninterrupted rounds** at the mare's stall. Mark them
 - The saboteur spends a whole turn adjacent to the mare to mark one round.
 - **Interrupting him at any point resets the count to zero.**
 - **Three marks** drop Maus one Condition step, whatever happens to the saboteur afterward.
-- **No watch set, or the watch failed to notice:** he starts with one mark already placed. **No watch at all:** no roll; he gets his three rounds.
+- **A watch that fails to notice him:** he starts with one mark already placed. **No watch at all:** no roll; he gets his three rounds.
+- **Several saboteurs** (the Scene 6 bravos): one mark per round in which at least one of them works at the stall uninterrupted. Interrupting any one of them does not reset the count; interrupting all of them at the stall does.
 
 **Detection (Scene 4):** passive Perception 13 for anyone on watch on deck; Perception DC 15 from below decks (the mare's hooves shifting wrong); a PC who knows horses has advantage and notices one round earlier.
 

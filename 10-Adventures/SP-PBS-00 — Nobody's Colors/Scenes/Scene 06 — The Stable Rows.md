@@ -24,7 +24,7 @@ The adventure's one real fight, in terrain that makes fighting stupid. Settle th
 
 ## Who Is Here
 - **Vuurzward bravos** (2–4), Vuurzward green under plain cloaks, cords already cut. *Want:* the mare disabled and themselves gone. *Know:* Herr Sivert said nobody gets hurt. *React:* fight to disable and withdraw; morale breaks at half; they will help drag the fallen clear.
-- **[[Anse Krul]]**, at APL 3–4, if he escaped the boat.
+- **[[Anse Krul]]**, at APL 3–4, if he is free (escaped, put ashore by Vosk, or let go).
 - **[[Corwin Halbritter]]**, who wants to stand the watch himself.
 - **Forty horses**, who will kill whoever is standing when they go.
 
@@ -70,12 +70,12 @@ At half strength, seeing the horses start: *"Down! Get him down and get him out,
 |---|---|---|
 | 1 | 2 bravos | Hard (300) |
 | 2 | 3 bravos | Hard (600) |
-| 3 | 4 bravos + Krul (if he escaped) | Hard (1,200) |
-| 4 | 4 bravos + Krul (if he escaped) | Medium (1,200) |
+| 3 | 4 bravos + Krul (if he is free) | Hard (1,200) |
+| 4 | 4 bravos + Krul (if he is free) | Medium (1,200) |
 
 Bravos are **thugs** with cudgels and saps. Without Krul at APL 3–4, the encounter is Medium (800). See [[SP-PBS-00 — Bestiary]].
 
-**Terrain:** rows a wagon wide, stalls on both sides, a lantern every twenty feet, a lantern-pole at every third stall, a pitchfork rack and a water trough at the near end. Maus is in the eleventh stall on the left.
+**Terrain:** rows a wagon wide, stalls on both sides, a lantern every twenty feet, a lantern-pole at every third stall, a pitchfork rack and a water trough at the near end. Maus is in the fourteenth stall on the left, about two-thirds down, past the Roodberg strings.
 **Tactics:** the bravos start at the far end of the row and spend round 1 cutting a stall rope, so a bad initiative can't end the scene on the first turn. Two go for the mare while the rest hold the row. They need **three uninterrupted rounds** at her stall (the Sabotage Clock, as on the boat). They disable and withdraw; nobody wants a dead man on the Flats.
 **DM direction:** settle the mare's Condition before the scene ends. Interrupting the clock resets it.
 

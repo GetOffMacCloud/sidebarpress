@@ -35,7 +35,7 @@ He has been quiet since the bridge. At the foot of the gangway he says, to nobod
 From here on Corwin asks the party what to do, and means it.
 
 ### Vosk
-*"Forty marks a head, Osterschlauss to Schwartzenbruin, two nights, and that's what's on the Frachtrolle."* She looks past them at the third wagon for exactly one second. *"Nine hundredweight of luggage is not on the Frachtrolle. Now. I can be paid to write slowly. I cannot be paid to be surprised. Which is it going to be?"*
+*"Forty marks a head, Osterschlauss to Schwartzenbruin, two nights, and that's what's on the Frachtrolle."* She looks past them at the third wagon for exactly one breath. *"Nine hundredweight of luggage is not on the Frachtrolle. Now. I can be paid to write slowly. I cannot be paid to be surprised. Which is it going to be?"*
 
 - **Honest with her:** she laughs. *"A racehorse. That's the first interesting thing to come down that road in a year. Twenty marks, and she goes in the deck stall, and if the Hafenmeister asks, she's breeding stock going to a Roodberg farm. Which she may as well be."*
 - **Hiding it entirely:** *"You understand I have to write something."*

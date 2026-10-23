@@ -79,7 +79,7 @@ Krul is a **spy**; the bribed deckhands are **thugs** with 20 HP. See [[SP-PBS-0
 ## Development
 - **Krul stopped or captured** → the watch commendation in the patron's letter; Maus stays **Sound**.
 - **No one on watch** → no roll. Krul got his three rounds. Maus is sound to look at and **Sore** to run, and Adalinde (or the PC who knows horses) says so plainly at dawn. Act 3 has a clock on it. This is a real branch, not a punishment.
-- **The mare sold** → 600 marks on deck. Skip to the Flats as passengers; Scenes 5–7 play as spectators to the line being struck, and Scene 8 still delivers the letter.
+- **The mare sold** → 600 marks on deck. Maus is Otwin's horse, so Corwin selling her is a second crime on top of the seal; the Rhennee don't care. If Adalinde is aboard (the decline path), she refuses flatly, and the sale can only happen over her, which makes it theft. Run the short Act 3 in the Alternates of [[Scene 05 — The Stewards' Tent]] and [[Scene 07 — Post Time]]; cut Scene 6.
 - **Krul kept aboard** → he can be produced before Roodberg in Scene 5.
 
 ## Clues Available Here
@@ -101,4 +101,5 @@ Krul is a **spy**; the bribed deckhands are **thugs** with 20 HP. See [[SP-PBS-0
 - **Krul goes over the rail and escapes.** He is in the stable rows on Derby eve (APL 3–4 rows).
 
 ## Transition
-- → [[Scene 05 — The Stewards' Tent]]: Schwartzenbruin's lake-gate at dusk on the second day, and a sergeant with a lantern stepping onto the planks before the boat is tied.
+- → **The lake-gate, dusk on Richfest 2.** The *Maid* comes in under Schwartzenbruin's lake-gate, and the patrol meets every boat: a sergeant with a lantern steps onto the planks before the boat is tied, and a clerk opens a ledger. *"Business. Lodging. Company."* Every answer goes down; a horse that came aboard off the roll goes into this ledger instead. It changes nothing; it is how the city works (see [[SP-PBS-03-The-Red-Cord]]). Lodging near the Flats, and a short night.
+- → [[Scene 05 — The Stewards' Tent]]: the morning of Richfest 3, and the Flats gate.
