@@ -1,9 +1,11 @@
 ---
+
 kanban-plugin: board
 type: board
-adventure: "SP-PBS-00"
+adventure: SP-PBS-00
 section: internal
 publish: false
+
 ---
 
 ## 1 · Frame
@@ -75,6 +77,6 @@ publish: false
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
+{"kanban-plugin":"board","list-collapse":[true,true,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
 ```
 %%
