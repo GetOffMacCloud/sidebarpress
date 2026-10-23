@@ -6,6 +6,94 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-10-23T06:23:40.301Z",
+      "total": 0,
+      "drafts": {
+        "90-Templates/Scene-Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "10-Adventures/SP-PBS-03 — The Red Cord/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 01 — The Ritter's Hall": 0,
+            "Scene 02 — Across the Quag": 0,
+            "Scene 03 — Under the Red Cord": 0,
+            "Scene 04 — The Brawl": 0,
+            "Scene 05 — Dornhalm's Yard": 0,
+            "Scene 06 — The Midnight Bell": 0
+          }
+        },
+        "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 01 — Dusk at the Pound": 0,
+            "Scene 02 — Counting the Missing": 0,
+            "Scene 03 — Crossing the Dreadverge": 0,
+            "Scene 04 — The Cutters' Camp": 0,
+            "Scene 05 — The Three Sisters": 0
+          }
+        },
+        "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — Greyhawk University": 0,
+            "Scene 01 — The High Pass": 0,
+            "Scene 02 — The Cold Welcome": 0,
+            "Scene 03 — Trial of the Horse": 0,
+            "Scene 04 — Trial of the Bow": 0,
+            "Scene 05 — Night in Yecha": 0,
+            "Scene 06 — Trial of the Fire": 0,
+            "Scene 07 — The War Council": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-10-20T23:58:04.756Z",
+      "total": 7510,
+      "drafts": {
+        "90-Templates/Scene-Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "10-Adventures/SP-PBS-03 — The Red Cord/Scenes/00 — Scene Index.md": {
+          "total": 7510,
+          "scenes": {
+            "Scene 01 — The Ritter's Hall": 0,
+            "Scene 02 — Across the Quag": 0,
+            "Scene 03 — Under the Red Cord": 1929,
+            "Scene 04 — The Brawl": 1369,
+            "Scene 05 — Dornhalm's Yard": 1910,
+            "Scene 06 — The Midnight Bell": 2302
+          }
+        },
+        "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 01 — Dusk at the Pound": 0,
+            "Scene 02 — Counting the Missing": 0,
+            "Scene 03 — Crossing the Dreadverge": 0,
+            "Scene 04 — The Cutters' Camp": 0,
+            "Scene 05 — The Three Sisters": 0
+          }
+        },
+        "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — Greyhawk University": 0,
+            "Scene 01 — The High Pass": 0,
+            "Scene 02 — The Cold Welcome": 0,
+            "Scene 03 — Trial of the Horse": 0,
+            "Scene 04 — Trial of the Bow": 0,
+            "Scene 05 — Night in Yecha": 0,
+            "Scene 06 — Trial of the Fire": 0,
+            "Scene 07 — The War Council": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-10-18T09:09:37.926Z",
       "total": 9207,
       "drafts": {
