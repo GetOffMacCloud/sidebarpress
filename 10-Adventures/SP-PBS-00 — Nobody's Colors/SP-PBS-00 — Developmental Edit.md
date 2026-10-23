@@ -45,9 +45,9 @@ The structure holds. It is a situation, not a plot: every decision on the decisi
 - [x] **10 · ✅ *Applied 2026-10-23.* Otwin's gratitude is small now.** With a 20-mark packet, Otwin paying it is worth little. **Fix (optional):** he pays the packet *and* half the bond, 60 marks a head, out of the first quarter's remount money. Re-run the branch table if ticked.
 
 ### Carried over (from the move)
-- [ ] **C3 · The Derby prize table.** "One uncommon item from the Derby prize table," and no table exists. Write a d6 table or name one item.
-- [ ] **Unnamed speakers.** The well-farrier, the Hafenmeister's clerk, the Rhennee fortune-teller, the steward's boy and the dock sergeant speak in play without notes. This is the same open decision as SP-PBS-03: name them, or rule unnamed functionaries exempt.
-- [ ] **The 80-mark bond.** Add it to the gazetteer's Greyhawk University chapter (both vaults), or change the figure.
+- [x] **C3 · ✅ *Applied 2026-10-23:* d6 table in the main note's Treasure & Rewards, drawn from the stewards' chest in Scene 8 (DMG uncommons, no item notes by rule). The Derby prize table.** "One uncommon item from the Derby prize table," and no table exists. Write a d6 table or name one item.
+- [x] **✅ *Applied 2026-10-23:* named and noted: [[Kaspar Roodberg]], [[Ebbo Kühn]], [[Zinka of the Kestrel]], [[Benno]], [[Sergeant Ruwen Hask]]. Unnamed speakers.** The well-farrier, the Hafenmeister's clerk, the Rhennee fortune-teller, the steward's boy and the dock sergeant speak in play without notes. This is the same open decision as SP-PBS-03: name them, or rule unnamed functionaries exempt.
+- [x] **✅ *Applied 2026-10-23:* in RG-08's Enrollment paragraph, both vaults. The 80-mark bond.** Add it to the gazetteer's Greyhawk University chapter (both vaults), or change the figure.
 
 ### Not findings (checked and left alone)
 - **Bridge difficulty:** Deadly on paper at every APL, kept by your ruling (APL 3, avoidable, morale at two down).

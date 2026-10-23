@@ -160,7 +160,11 @@ See [[Scene 07 — Post Time]]. Corwin can't win, Adalinde is in riding boots, a
 - [[Grete Haslau]] — keeper of the Mountainview Rest. Refuses to be thanked.
 - [[Tilo]] — Grete's yard boy, nine. Knows everything, tells it for a pfennig.
 - [[Old Hartwin]] — tollkeeper at the Erlen bridge for forty years.
-- **Unnamed functionaries** (no notes, pending the house ruling on unnamed speakers): the farrier by the well, the Hafenmeister's clerk, the Rhennee fortune-teller, the steward's boy, the dock sergeant.
+- [[Kaspar Roodberg]] — the farrier by the well in Aerden, who takes Derby bets.
+- [[Ebbo Kühn]] — the Hafenmeister's clerk at Osterschlauss, keeper of the *Frachtrolle*.
+- [[Zinka of the Kestrel]] — the Rhennee woman who makes the 600-mark offer.
+- [[Benno]] — the stewards' boy at the Duffkyyn.
+- [[Sergeant Ruwen Hask]] — the lake-gate patrol sergeant at Schwartzenbruin.
 - **Offstage** (no notes, by rule): the Kettenhaus *Schätzer*, Gerlach Hanselmann, Voormann Franz.
 
 ## Key Locations
@@ -191,9 +195,22 @@ Difficulty uses **4 PCs** and 2014 DMG thresholds and multipliers. **For 5–6 P
 **Adventuring-day check (APL 3, 4 PCs):** a daily budget of 4,800. The likely path (bridge talked through, Krul, the rows) costs about 2,000 adjusted XP. A party that fights the bridge spends half the day on it, which is the point.
 
 ## Treasure & Rewards
-**Getting to Ritterstadt.** Admission costs only a signature on the Scholar's Oath. The northern packet from Schwartzenbruin is one night along the shore and **20 marks**. The Registrar asks a **first-term bond of 80 marks** in coin, or a term of labor on the levy (the Drill Yard, the Archive, the gate rota). **A hundred marks each arrives clear.** *(The bond is a house figure; add it to the gazetteer's Greyhawk University chapter if kept.)*
+**Getting to Ritterstadt.** Admission costs only a signature on the Scholar's Oath. The northern packet from Schwartzenbruin is one night along the shore and **20 marks**. The Registrar asks a **first-term bond of 80 marks** in coin, or a term of labor on the levy (the Drill Yard, the Archive, the gate rota). **A hundred marks each arrives clear.** *(Recorded in [[RG-08 — Greyhawk University, Ritterstadt Field Station]], both vaults, 2026-10-23.)*
 
-**Fixed.** 30 marks each, 40 if negotiated, paid at the Schwartzenbruin quay. Passage Osterschlauss–Schwartzenbruin (40 marks' worth) already paid. One uncommon item from the Derby prize table *(still to write; see the Developmental Edit)*.
+**Fixed.** 30 marks each, 40 if negotiated, paid at the Schwartzenbruin quay. Passage Osterschlauss–Schwartzenbruin (40 marks' worth) already paid. One uncommon item from the Derby prize table, below.
+
+**The Derby prize table.** By Duffkyyn custom, the company that brought a starter to the post draws one prize from the stewards' chest at the sale ring ([[Scene 08 — The Sale Ring]]). It goes to the party, not to each PC. Any branch where the mare reached the Flats under their escort qualifies, run or scratched; the Rhennee sale does not. Roll d6.
+
+| d6 | Prize | Source |
+|---|---|---|
+| 1 | ***Saddle of the cavalier***, tooled in Roodberg blue | DMG p. 199 |
+| 2 | ***Lantern of revealing***, a stable lantern with the stewards' mark burned into the hood | DMG p. 179 |
+| 3 | ***Goggles of night***, given "for the night watch" | DMG p. 172 |
+| 4 | ***Rope of climbing***, a lead rope of silk and horsehair | DMG p. 197 |
+| 5 | ***Bag of tricks (gray)***, a groom's feed bag | DMG p. 154 |
+| 6 | ***Cloak of protection***, a drover's oiled cloak in undyed grey (the stewards' joke, if the party came with the Halbritters) | DMG p. 159 |
+
+Standard DMG items, so no `50-Items` notes, by rule.
 
 **Earned.**
 - **Purse share.** Second place pays the owner 500 marks. "One part in five" (Scene 1) is 100 marks to split.

@@ -27,7 +27,7 @@ The adventure's breathing room, its biggest temptation, and its first fight. The
 ## Who Is Here
 - **[[Anse Krul]]**, farrier. *Wants:* his forty marks. *Knows:* Vuurzward's man paid him, and gave him the boat and the day ten days back; not who told them. *Reacts:* runs before he fights; cornered, names his employer without much pressing.
 - **[[Captain Marda Vosk]]**. Knows the price of everything, including the Rhennee offer.
-- **The Rhennee**: three long barges and a woman at the rail who knows the mare's stable name.
+- **The Rhennee**: three long barges, and **[[Zinka of the Kestrel]]** at the rail, who knows the mare's stable name. *Wants:* the mare, for someone she won't name. *Knows:* only that she was told to watch this boat. *Reacts:* makes the 600-mark offer once, reads a fortune for anyone who crosses the plank, and lets the barges drop back if refused.
 - **[[Corwin Halbritter]]**, talking too much on the first evening.
 
 ## Beats
@@ -38,7 +38,7 @@ The boat, the passengers, Corwin talking. Seed Krul as a face. A PC who knows ho
 ### Evening two — the Rhennee (15 min)
 > *Three long barges come out of the dusk without a sound, lantern-light strung along their awnings. They don't hail. They match your speed forty feet off the port rail, as though they had been going that way anyway. Someone over there is playing something with strings. A woman comes to the rail, looks straight at your deck stall, and says in a voice that carries too well across the water: "That's a good little mouse you've got there."*
 
-Nobody on the boat told her that name. There is a card game on the afterdeck (lose four kleinmarks, win four, it doesn't matter) and a fortune for anyone who crosses the plank.
+Nobody on the boat told her that name. She is Zinka, of the barge *Kestrel*. There is a card game on the afterdeck (lose four kleinmarks, win four, it doesn't matter) and a fortune for anyone who crosses the plank.
 
 **The offer**, made to whoever seems to be in charge, which by now isn't Corwin: *"Six hundred marks. Tonight, in coin, and you can count it on your own deck before you hand her over. You look like people who could use six hundred marks."*
 
@@ -101,5 +101,5 @@ Krul is a **spy**; the bribed deckhands are **thugs** with 20 HP. See [[SP-PBS-0
 - **Krul goes over the rail and escapes.** He is in the stable rows on Derby eve (APL 3–4 rows).
 
 ## Transition
-- → **The lake-gate, dusk on Richfest 2.** The *Maid* comes in under Schwartzenbruin's lake-gate, and the patrol meets every boat: a sergeant with a lantern steps onto the planks before the boat is tied, and a clerk opens a ledger. *"Business. Lodging. Company."* Every answer goes down; a horse that came aboard off the roll goes into this ledger instead. It changes nothing; it is how the city works (see [[SP-PBS-03-The-Red-Cord]]). Lodging near the Flats, and a short night.
+- → **The lake-gate, dusk on Richfest 2.** The *Maid* comes in under Schwartzenbruin's lake-gate, and the patrol meets every boat: **[[Sergeant Ruwen Hask]]** steps onto the planks with a lantern before the boat is tied, and a clerk opens a ledger. *"Business. Lodging. Company."* Every answer goes down; a horse that came aboard off the roll goes into this ledger instead. It changes nothing; it is how the city works (see [[SP-PBS-03-The-Red-Cord]]). Lodging near the Flats, and a short night.
 - → [[Scene 05 — The Stewards' Tent]]: the morning of Richfest 3, and the Flats gate.

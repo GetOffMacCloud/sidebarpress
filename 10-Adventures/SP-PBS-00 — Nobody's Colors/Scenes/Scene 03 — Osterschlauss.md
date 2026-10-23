@@ -24,7 +24,7 @@ One clean problem-solving beat; a breather with teeth. Get sixteen hands of grey
 
 ## Who Is Here
 - **[[Captain Marda Vosk]]**, master of the *Kortheim Maid*. *Wants:* declared cargo and paid fare. *Knows:* what selling a horse to the Rhennee means on the Flats. *Reacts:* asks nothing about weight that's on the roll and everything about weight that isn't; prices everything, including silence.
-- **The Hafenmeister's clerk**, with the *Frachtrolle*. The roll is read aloud in Aerden market every Godsday, which is why Corwin couldn't book the horse: booking her would have been telling his father.
+- **[[Ebbo Kühn]]**, the Hafenmeister's clerk, with the *Frachtrolle*. *Wants:* every entry in its column. *Knows:* that a roll read aloud in Aerden is a roll Otwin hears. *Reacts:* asks about anything undeclared, takes a bribe and asks why, and remembers. The roll is read aloud in Aerden market every Godsday, which is why Corwin couldn't book the horse: booking her would have been telling his father.
 - **[[Corwin Halbritter]]**, out of plan.
 
 ## Beats

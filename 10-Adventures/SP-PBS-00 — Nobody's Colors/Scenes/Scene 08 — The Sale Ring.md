@@ -35,6 +35,9 @@ Krul's *ten days*, the odds-book account opened ten days ago, Grete's ale line a
 If they tell him, give them the moment and don't rush it:
 > *He listens all the way through without interrupting, which is worse than shouting. "Hessel." He says the name like he's checking a number he already knew was wrong. "Fifteen years. He carried my son on his shoulders at the Godsday fair." He gets down off the rail, slowly, because of the gout. "Right. Thank you. I'd rather have known."*
 
+### The stewards' chest
+By Duffkyyn custom, the company that brought a starter to the post draws one prize from the stewards' chest. [[Benno]] carries it round the ring. Any branch where the mare reached the Flats under the party's escort qualifies, whether she ran or was scratched; the Rhennee sale does not. Roll on the **Derby prize table** in [[SP-PBS-00-Nobodys-Colors]] (Treasure & Rewards).
+
 ### The letter
 However it ended, even if they took Vuurzward's offer, Adalinde finds them with a folded paper and a face that gives nothing away:
 

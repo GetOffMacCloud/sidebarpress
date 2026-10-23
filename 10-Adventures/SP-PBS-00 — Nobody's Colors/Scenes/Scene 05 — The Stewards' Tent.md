@@ -25,6 +25,7 @@ The trap closes, and the antagonist makes a reasonable offer. The party leaves k
 ## Who Is Here
 - **[[Steward Alric Roodberg]]**, chief steward of the Duffkyyn. *Wants:* the Derby run properly. *Knows:* the rules by heart, and that half his register is ghosts. *Reacts:* starts **Indifferent**; not bribable with money, very bribable with correct papers. One step worse if the party spilled blood on the road.
 - **[[Sivert Vuurzward]]**, hat in hand the entire time. *Wants:* Erlenhof and the mare. *Knows:* the seal is forged; a party member's debt, which he has bought. *Reacts:* never threatens, never lies; he leaves things out. Makes his offer to *them*, not to Corwin.
+- **[[Benno]]**, the stewards' boy, who ties the cords at the gate and runs the stewards' messages. *Wants:* to be noticed by Roodberg. *Knows:* where everyone in the book is lodged. *Reacts:* answers any question about the rules, exactly.
 - **[[Jorick Weisel]]**, the broker, leaving by another flap as they come in.
 - **[[Corwin Halbritter]]**, three feet away, waiting to be told.
 

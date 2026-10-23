@@ -40,7 +40,7 @@ Every one of them is going to Ritterstadt, to enroll at Greyhawk University's fi
 - **[[Grete Haslau]]**, widow, keeper of the Mountainview Rest. *Wants:* her board squared and her house quiet after vespers. *Knows:* everyone's debts to the pfennig, and that Sergeant Amtmann has never bought his own ale in fifteen years, because every market day for a year he has paid a Vuurzward man at the well instead. *Reacts:* she refuses thanks, makes arrangements instead of giving credit, and has already decided the party are decent.
 - **[[Tilo]]**, her yard boy, nine. *Wants:* pfennigs. *Knows:* everything. *Reacts:* tells it for a pfennig, in the order he thinks of it.
 - **[[Old Hartwin]]**, tollkeeper at the Erlen bridge, at the small table by the door every third night. *Wants:* an audience. *Knows:* every wheel that crosses the bridge by its sound. *Reacts:* talks about the bridge until stopped.
-- **The farrier by the well**, a Roodberg cousin who shoes in the open and takes Derby bets between horses.
+- **[[Kaspar Roodberg]]**, the farrier by the well, a Roodberg cousin who shoes in the open and takes Derby bets between horses. *Wants:* your bet. *Knows:* the odds on every horse he's heard of. *Reacts:* offers longer odds the less a horse is known.
 - **Meerijder drovers**, up from the bridge camp most evenings: red-and-black on their sleeves, loud, honest and good at cards.
 
 ## Beats
@@ -76,7 +76,7 @@ They know each other's names and what each one eats. Between them they have unlo
 |---|---|
 | The grey house? | *"Herr Otwin's got the gout and the Jungfer runs the horses and the Junker's got a new saddle he doesn't let anyone see."* |
 | The sergeant? | *"Sergeant Amtmann. His wife was a Vuurzward. She still paints her mother's door green. And he didn't pay the green man at the well this week."* |
-| The Derby odds? | The farrier by the well: *"Roodberg bay, three to one. You want longer odds, you want a horse nobody's heard of, and there isn't one."* |
+| The Derby odds? | Kaspar, the farrier by the well: *"Roodberg bay, three to one. You want longer odds, you want a horse nobody's heard of, and there isn't one."* |
 
 ### The notice
 Dusk, the twentieth day, at vespers. A man in a plain grey house-guard's jerkin, no band on the sleeve, nods to Grete, pins a sheet to the post by the bar, and **buys his own ale**. He drinks half and speaks to the room, not to them:

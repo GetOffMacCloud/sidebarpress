@@ -20,7 +20,7 @@ The whole adventure. Twenty minutes to the third bell, and three things are true
 ## Arrival
 > *Derby Day. The stands are full, the bell for the second race has gone, and the course is a green mile with a crowd four deep along its rail. The morning packet has come in. Otwin Halbritter stands at the end of the row with two house men, looking at the mare, not his son. Adalinde is beside the stall in riding boots. A steward's boy puts his head round the post: "Ostvelt Grey. The book's still not signed. Whoever signs names the rider. Third bell."*
 
-*Now stop talking. Let the table look at it.* If a player asked Adalinde in Scene 1 whether she rides, she looks at that player, not at Corwin, when the steward's boy speaks.
+*Now stop talking. Let the table look at it.* If a player asked Adalinde in Scene 1 whether she rides, she looks at that player, not at Corwin, when the steward's boy, [[Benno]], speaks.
 
 ## Who Is Here
 - **[[Corwin Halbritter]]**. *Wants:* to be taken seriously. *Knows:* he can't win. *Reacts:* won't offer the ride.
