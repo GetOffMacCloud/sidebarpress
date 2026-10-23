@@ -69,7 +69,7 @@ Take one plan, set one DC, resolve it.
 - **Taste:** spray
 
 ## Alternates & Re-hooks
-- **They missed the *Maid*** (a one-day hold at the bridge): the slower *Agal Wind* sails next morning. Vosk is replaced by her rival, Captain Durre, who takes 50 marks and asks no questions at all. Krul is aboard the *Agal Wind* instead. Arrival is Day 4 at dusk.
+- **They missed the *Maid*** (a one-day hold at the bridge): the slower *Agal Wind* sails next morning. Its master takes 50 marks and asks no questions at all. Krul is aboard the *Agal Wind* instead. Arrival is Day 4 at dusk.
 - **Adalinde came instead of Corwin** (they refused the job): she has the coin and does the talking; the party handles the clerk.
 
 ## Transition

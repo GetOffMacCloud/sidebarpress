@@ -18,7 +18,7 @@ The adventure's breathing room, its biggest temptation, and its first fight. The
 **Budget:** 40 minutes (evening one 10, evening two 15, the small hours 15). Running long? Cut the card game, keep the offer, or open on the second night.
 
 ## Arrival
-> *The shore slides past on the right hand all afternoon and never comes closer or goes further. Every captain on this lake keeps land in sight. Out in the middle there is grey fog that doesn't lift. There are sixteen passengers: a cheese factor and his wife, two Roodberg grooms already drunk, a woman travelling alone who reads, and a thin man near the mast who has said nothing to anyone and was aboard before you were.*
+> *The shore slides past on the right hand all afternoon and never comes closer or goes further. Every captain on this lake keeps land in sight. Out in the middle there is grey fog that doesn't lift. There are sixteen passengers: a cheese factor and his wife, two Roodberg grooms already drunk, a woman traveling alone who reads, and a thin man near the mast who has said nothing to anyone and was aboard before you were.*
 
 **To the table:** *"Two nights, sixteen strangers, one canvas stall. Who's sleeping next to the horse?"*
 

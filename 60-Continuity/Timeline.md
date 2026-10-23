@@ -9,6 +9,7 @@ In-world chronology for the Sidebar Press continuity, in Greyhawk reckoning (Com
 |------|-------|--------|
 | Sunsebb 575 CY | A five-rider Chakyik patrol is ambushed in the Yatil foothills by Kezrin's Wolf-dressed riders; Tsolmon reaches Yecha and dies. *(Homebrew)* | [[SP-PBS-01-The-False-Arrow]] |
 | Needfest–Fireseek 576 CY | A Greyhawk University field party carries Father Brennin's parley to Yecha; the three trials and the war council before Ilkhan Cligir. *(Homebrew; outcome per table)* | [[SP-PBS-01-The-False-Arrow]] |
+| Wealsun 26 – Richfest 5, 576 CY | Would-be students escort the Halbritters' grey mare from Aerden to the Duffkyyn Derby at Schwartzenbruin; the race on Richfest 4, the first Richfest of Voormann Franz's term. *(Homebrew; outcome per table. Prequel: may sit before any other adventure for new characters.)* | [[SP-PBS-00-Nobodys-Colors]] |
 | Goodmonth 576 CY | Traft peat-cutters, on Reeve Odila Marsh's lease, open the Hound-Mother's barrow at the Three Sisters; Kester Marsh steals the torc; Kethra's pack wakes. *(Homebrew)* | [[SP-PBS-02-The-Bones-of-the-Dreadverge]] |
 | Patchwall 576 CY, dark of Luna | The Dreadverge haunting, Waycombe, Canton of Clatspurgen: Brother Ashlock's rite at Celene-set. *(Homebrew; outcome per table)* | [[SP-PBS-02-The-Bones-of-the-Dreadverge]] |
 | Ready'reat 576 CY | The Hundred's sworn amends to Ritter Konrad von Eisfeld at the Red Cord, Schwartzenbruin; the truth of 480 CY told; Gerhard's breach complaint withdrawn. *(Homebrew; outcome per table)* | [[SP-PBS-03-The-Red-Cord]] |

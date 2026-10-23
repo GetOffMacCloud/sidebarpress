@@ -18,6 +18,8 @@ Hooks planted but never followed up. Review monthly — either promote to Open o
 | Hook | Planted In | Notes |
 |------|------------|-------|
 | [[Kester Marsh's Debt]] | [[SP-PBS-02-The-Bones-of-the-Dreadverge]] | Kester owes a Schwartzenbruin dice-runner; the debt is why the barrow was robbed. Collector arrives in spring if ignored. |
+| Who wanted the mare? | [[SP-PBS-00-Nobodys-Colors]] | A Rhennee barge offered 600 marks for a farm mare, and was told to watch that boat. Nobody knows who told them. |
+| The Kettenhaus paper behind Erlenhof | [[SP-PBS-00-Nobodys-Colors]] | Sivert Vuurzward's 400-mark note and Hessel Amtmann's 60 both run on Kettenhaus credit, the house that holds Ritter Konrad's Schuldbrief. See [[The Kettenhaus]]. |
 | The Spring Return (Yecha) | [[SP-PBS-01-The-False-Arrow]] | Only if the table got *Truth without trust*, *Heard and refused*, or *Cast out*: Cligir told Brennin to come in spring and speak himself. |
 
 ## Closed

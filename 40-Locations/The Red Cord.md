@@ -23,9 +23,10 @@ A low, long common room with a fire at each end, company colours on every beam, 
 - [[Mutter Ilka Sennhauser]], landlady, and her two bouncers (retired Ernes)
 
 ## History
-Homebrew. In Schwartzenbruin, companies from opposite sides of a war drink under one roof in winter. The red cord is how this house keeps that peace.
+Homebrew. In Schwartzenbruin, companies from opposite sides of a war drink under one roof in winter. The red cord is how this house keeps that peace. The taverns took it from the Duffkyyn Derby's Landfrieden, where the stewards cord and seal every blade on the Flats in Richfest week (see [[The Duffkyyn Flats]] and [[SP-PBS-00-Nobodys-Colors]]).
 
 ## Adventure Use
+- [[SP-PBS-00-Nobodys-Colors]] — named only: the Derby peace-cord is this tavern's custom's origin
 - [[SP-PBS-03-The-Red-Cord]] — Scenes 3, 4 and 6
 
 ## Map Reference

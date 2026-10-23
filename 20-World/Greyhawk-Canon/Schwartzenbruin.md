@@ -45,7 +45,9 @@ tags: [perrenland, schwartzenbruin, city, capital, lake-quag]
 ## Sidebar Press Stance
 - **Use the 576 layer only:** a walled lake port, the capital, mercenary hiring halls, a closely watched border patrol, and heavy cavalry. Treat the Living Greyhawk districts as optional colour, never as plot keys.
 - The Red Cord tavern and Dornhalm's Yard (on the Velverdyva quays) are homebrew locations here. See [[SP-PBS-03-The-Red-Cord]].
+- The Duffkyyn Flats (the Derby ground outside the walls) and the Tanner's Rest are homebrew locations here. See [[SP-PBS-00-Nobodys-Colors]].
 
 ## Linked Adventures
+- [[SP-PBS-00-Nobodys-Colors]] (the Duffkyyn Derby on the Flats outside the walls; homebrew)
 - [[SP-PBS-03-The-Red-Cord]]
 - [[SP-PBS-02-The-Bones-of-the-Dreadverge]] (named only: the Nerullite cell is based here)
