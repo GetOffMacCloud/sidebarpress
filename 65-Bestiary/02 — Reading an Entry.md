@@ -31,6 +31,7 @@ Each creature is tagged with one origin:
 - **New:** an original creation.
 - **Remix:** a classic monster reworked around a new idea.
 - **Folklore:** drawn from real-world tradition, with game statistics of our own.
+- **Contributed:** created by a Writers Guild member and credited by name under the title.
 
 ## Haunts and Templates
 A **haunt** (such as the [[Toiling Haunt]]) isn't a combatant. Its block lists detection, manifestation, and resolution instead of attacks. A **template** (such as the [[Bone Beast Template]]) changes an existing statblock. Apply it, and the entry tells you whether the CR changes.

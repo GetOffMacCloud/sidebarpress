@@ -13,7 +13,8 @@ size: "" # Tiny | Small | Medium | Large | Huge | Gargantuan
 creature_type: "" # aberration | beast | celestial | construct | dragon | elemental | fey | fiend | giant | humanoid | monstrosity | ooze | plant | undead
 alignment: ""
 environment: [] # arctic, coastal, desert, forest, grassland, hill, mountain, swamp, underdark, underwater, urban, farmland, village, ruins, graveyard
-origin: "" # harvested | new | remix | folklore
+origin: "" # harvested | new | remix | folklore | contributed
+credit: "" # contributor name, for contributed entries
 base_block: "" # e.g. "Commoner (MM p. 345)" or "none"
 source_adventures: [] # e.g. ["SP-HAL-01"]
 tags: [bestiary, statblock, 2014-5e]

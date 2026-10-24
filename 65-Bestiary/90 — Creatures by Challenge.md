@@ -33,5 +33,6 @@ status: drafted
 | 8 | 3,900 | [[Nuckelavee]] | Large fiend | folklore |
 | 9 | 5,000 | [[Harvest Lord]] | Huge plant | harvested |
 | 9 | 5,000 | [[Wicker Colossus]] | Huge construct | harvested |
+| 20 | 25,000 | [[Gluttonwretch|The Gluttonwretch]] | Huge undead | contributed |
 
 **Template:** [[Bone Beast Template]] — apply to any *Monster Manual* beast; CR unchanged.

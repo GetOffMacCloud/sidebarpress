@@ -14,9 +14,10 @@ This bestiary collects the creatures of Sidebar Press: the things that walked ou
 The creatures share a mood. They are country horrors and threshold things: bargains that came due, households with standards, bridges that charge for crossing, and bells that ring for the wrong reasons. Most of them can be outwitted as well as outfought, and many of them *should* be.
 
 ## What's Inside
-- **Twenty creatures and one template**, from CR 0 to CR 9, in alphabetical order.
+- **Twenty-one creatures and one template**, from CR 0 to CR 20, in alphabetical order.
 - **Harvested** creatures, rebuilt from Sidebar Press adventures and verified against the *Dungeon Master's Guide*.
 - **New** creatures and **remixes** of classic monsters.
+- **Contributed** creatures from the Writers Guild, credited to their creators.
 - **Folklore** creatures from Slavic, Orcadian, Bavarian, and English tradition, with their sources noted.
 - Two appendices: creatures by challenge rating, and creatures by environment.
 

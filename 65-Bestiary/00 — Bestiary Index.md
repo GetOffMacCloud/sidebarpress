@@ -21,6 +21,7 @@ longform:
     - Church Grim
     - Drowned Guest
     - Echo
+    - Gluttonwretch
     - Harvest Lord
     - Hush-Moth Swarm
     - Kikimora

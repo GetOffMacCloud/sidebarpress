@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-24T18:59:38.378Z",
-      "total": 0,
+      "total": 22103,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -68,8 +68,35 @@
           "scenes": {}
         },
         "65-Bestiary/00 — Bestiary Index.md": {
-          "total": 0,
-          "scenes": {}
+          "total": 22103,
+          "scenes": {
+            "01 — Introduction": 259,
+            "02 — Reading an Entry": 272,
+            "Barrow Stag": 749,
+            "Bell-Wight": 1053,
+            "Bone Beast Template": 462,
+            "Bone Boar": 521,
+            "Bone Elk": 497,
+            "Bone Hound": 561,
+            "Church Grim": 973,
+            "Drowned Guest": 711,
+            "Echo": 986,
+            "Gluttonwretch": 1792,
+            "Harvest Lord": 1216,
+            "Hush-Moth Swarm": 991,
+            "Kikimora": 1115,
+            "Ledger Hag": 1008,
+            "Nuckelavee": 1171,
+            "Straw Double": 1135,
+            "Threshold Lord": 1166,
+            "Tithe-Reaper": 1286,
+            "Toiling Haunt": 715,
+            "Toll-Troll": 1115,
+            "Wicker Colossus": 1113,
+            "Wolpertinger": 816,
+            "90 — Creatures by Challenge": 175,
+            "91 — Creatures by Environment": 245
+          }
         }
       }
     },
