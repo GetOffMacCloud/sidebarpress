@@ -1,0 +1,74 @@
+---
+type: creature
+adventure: "SP-BST-01"
+section: bestiary
+publish_order: 150
+publish: true
+status: drafted
+creature: "Bone Hound"
+cr: "1/4"
+cr_num: 0.25
+xp: 50
+size: Medium
+creature_type: undead
+alignment: unaligned
+environment: [forest, hill, grassland, ruins, graveyard]
+origin: harvested
+base_block: "Wolf (MM p. 341) + Bone Beast Template"
+source_adventures: ["SP-PBS-02"]
+tags: [bestiary, statblock, 2014-5e, bone-beast]
+---
+
+# Bone Hound
+
+*The skeleton of a wolf lopes out of the mist, silent except for the click of its claws on stone.*
+
+> [!example]+ Bone Hound (CR 1/4, 50 XP)
+> *Medium undead, unaligned*
+> **Armor Class** 13 (natural armor) · **Hit Points** 11 (2d8 + 2) · **Speed** 40 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
+>
+> **Skills** Perception +3, Stealth +4 · **Damage Vulnerabilities** bludgeoning · **Damage Immunities** poison · **Condition Immunities** exhaustion, poisoned
+> **Senses** darkvision 60 ft., passive Perception 13 · **Languages** — · **Challenge** 1/4 (50 XP)
+>
+> ***Keen Hearing.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+> ***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+> ***Pack-Bound; Binding Law.*** See [[Bone Beast Template]].
+>
+> **Actions**
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+
+## Lore
+Bone hounds are the most common bone beasts: wolves, war-dogs, and hunting hounds raised to run for a master long dead. They still hunt as a pack, still circle, and still go for the hamstring. What they have lost is the howl. A pack of bone hounds is silent until it is on you.
+
+## Ecology
+- **Environment:** moors, forests, and barrow-fields; anywhere near the tomb of their maker.
+- **Encountered as:** packs of three to eight, often led by a [[Barrow Stag]].
+- **Signs:** sheep found with throats torn but nothing eaten, tracks with no pads, and a dog-collar ring of old green bronze in the heather.
+
+## Tactics
+Hounds surround one target and knock it prone, then the pack piles on. They fall back from anyone swinging a mace or a club after one hound breaks. They keep the instinct to fear a weapon that kills their kind.
+
+## Adventure Hooks
+1. A shepherd's dogs went missing a month ago. Now they've come home, and they've brought friends.
+2. A noble's kennel master digs up an ancient hound-burial for its bronze collars. That night, the kennels are empty.
+3. The hounds are hunting something *other* than the party. If the party follows them, they find the binding relic before anyone else does.
+
+## Spoils
+Each hound's binding ring is worth 5 gp as metal, or more to a scholar. Ten or more rings from one pack can be traced to the maker's tomb with a DC 15 Intelligence (History) check.
+
+## Design Notes
+**Built from** the Wolf (MM p. 341) with the [[Bone Beast Template]]. CR is unchanged at **1/4** (see the template for why).
+
+## Appears In
+- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Statblocks are in [[SP-PBS-02 — Bestiary]].
+
+## Art Prompt
+```
+The bare skeleton of a large wolf loping through mist over heather, every bone pale and clean, a ring of old green bronze around its neck cut with a triple spiral, its jaws open but silent, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+```

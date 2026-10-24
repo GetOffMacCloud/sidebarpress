@@ -1,0 +1,74 @@
+---
+type: creature
+adventure: "SP-BST-01"
+section: bestiary
+publish_order: 140
+publish: true
+status: drafted
+creature: "Bone Elk"
+cr: "1/4"
+cr_num: 0.25
+xp: 50
+size: Large
+creature_type: undead
+alignment: unaligned
+environment: [forest, hill, grassland, ruins]
+origin: harvested
+base_block: "Elk (MM p. 322) + Bone Beast Template"
+source_adventures: ["SP-PBS-02"]
+tags: [bestiary, statblock, 2014-5e, bone-beast]
+---
+
+# Bone Elk
+
+*An elk's skeleton stands in the birches, as tall as a horse. Its antlers are bound in bronze, and its head is already lowered.*
+
+> [!example]+ Bone Elk (CR 1/4, 50 XP)
+> *Large undead, unaligned*
+> **Armor Class** 10 · **Hit Points** 13 (2d10 + 2) · **Speed** 50 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 16 (+3) | 10 (+0) | 12 (+1) | 2 (−4) | 10 (+0) | 6 (−2) |
+>
+> **Damage Vulnerabilities** bludgeoning · **Damage Immunities** poison · **Condition Immunities** exhaustion, poisoned
+> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** — · **Challenge** 1/4 (50 XP)
+>
+> ***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+>
+> ***Pack-Bound; Binding Law.*** See [[Bone Beast Template]].
+>
+> **Actions**
+> ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
+>
+> ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one prone creature. *Hit:* 8 (2d4 + 3) bludgeoning damage.
+
+## Lore
+Elk were the mounts and the totems of the old barrow-folk, buried with antlers dressed in bronze. A raised bone elk is the pack's battering ram. It knocks a target down so the hounds can finish it.
+
+## Ecology
+- **Environment:** open birch woods, moorland, and grassland near barrows.
+- **Encountered as:** one or two with a pack, or a small herd of three to four guarding a tomb.
+- **Signs:** hoofprints too deep for an animal with no flesh, and bark stripped from trees at antler height.
+
+## Tactics
+The elk charges to knock a target prone, then stamps it with its Hooves while the hounds close in. It always opens with a charge, so the party has a turn to see it coming.
+
+## Adventure Hooks
+1. A bone elk stands guard at a crossroads every night and lets only those who carry a certain token pass.
+2. A herd of bone elk is migrating toward a long-dead lord's hall, and a village sits squarely in their path.
+3. Antler-bronze from a bone elk is the one ingredient an artificer needs, and she's paying well.
+
+## Spoils
+The bronze antler-bands are worth 10 gp. Intact antlers make a fine trophy, worth 15 gp.
+
+## Design Notes
+**Built from** the Elk (MM p. 322) with the [[Bone Beast Template]]. CR is unchanged at **1/4**.
+
+## Appears In
+- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Statblocks are in [[SP-PBS-02 — Bestiary]].
+
+## Art Prompt
+```
+The towering skeleton of an elk standing among pale birch trees, its broad antlers bound with bands of old green bronze, its skull lowered to charge, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+```
