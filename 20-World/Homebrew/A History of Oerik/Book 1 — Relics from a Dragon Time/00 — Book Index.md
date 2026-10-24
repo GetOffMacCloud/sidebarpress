@@ -41,3 +41,8 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 13]] | Dwurin Sourshadow at Fairfeather | 10,200 years ago (≈ −4,060 SD) | copyedited |
 | [[Book 1 — Part 14]] | epigraph: *The Book of Trank* XII:VII; the failed rescue | (undated) | copyedited |
 | [[Book 1 — Part 15]] | extract: *Thought Effusions of Grand Experimenter Gybex* | (undated) | copyedited |
+| [[Book 1 — Part 16]] | The thrall war; the illithids withdraw | (undated) | copyedited |
+| [[Book 1 — Part 17]] | Freed humans; the elves take them as thralls | 10,000 years ago (≈ −3,860 SD) | copyedited |
+| [[Book 1 — Part 18]] | Eastern Oerik's peoples; the Celenian and Blemu elven empires | just over 10,000 years ago | copyedited |
+| [[Book 1 — Part 19]] | Humans among the elves; half-elves, druids and rangers | centuries after Part 18 | copyedited |
+| [[Book 1 — Part 20]] | Western Oerik; the Kara-Turan elves | (undated) | copyedited |

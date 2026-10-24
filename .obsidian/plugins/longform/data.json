@@ -7,103 +7,199 @@
   "sessions": [
     {
       "start": "2026-10-24T18:59:38.378Z",
-      "total": 32041,
+      "total": 243197,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
           "scenes": {}
         },
         "10-Adventures/SP-PBS-03 — The Red Cord/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 9947,
           "scenes": {
-            "Scene 01 — The Ritter's Hall": 0,
-            "Scene 02 — Across the Quag": 0,
-            "Scene 03 — Under the Red Cord": 0,
-            "Scene 04 — The Brawl": 0,
-            "Scene 05 — Dornhalm's Yard": 0,
-            "Scene 06 — The Midnight Bell": 0
+            "Scene 01 — The Ritter's Hall": 1513,
+            "Scene 02 — Across the Quag": 924,
+            "Scene 03 — Under the Red Cord": 1929,
+            "Scene 04 — The Brawl": 1369,
+            "Scene 05 — Dornhalm's Yard": 1910,
+            "Scene 06 — The Midnight Bell": 2302
           }
         },
         "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 7145,
           "scenes": {
-            "Scene 01 — Dusk at the Pound": 0,
-            "Scene 02 — Counting the Missing": 0,
-            "Scene 03 — Crossing the Dreadverge": 0,
-            "Scene 04 — The Cutters' Camp": 0,
-            "Scene 05 — The Three Sisters": 0
+            "Scene 01 — Dusk at the Pound": 1386,
+            "Scene 02 — Counting the Missing": 1536,
+            "Scene 03 — Crossing the Dreadverge": 1242,
+            "Scene 04 — The Cutters' Camp": 892,
+            "Scene 05 — The Three Sisters": 2089
           }
         },
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 8742,
           "scenes": {
-            "Scene 00 — Greyhawk University": 0,
-            "Scene 01 — The High Pass": 0,
-            "Scene 02 — The Cold Welcome": 0,
-            "Scene 03 — Trial of the Horse": 0,
-            "Scene 04 — Trial of the Bow": 0,
-            "Scene 05 — Night in Yecha": 0,
-            "Scene 06 — Trial of the Fire": 0,
-            "Scene 07 — The War Council": 0
+            "Scene 00 — Greyhawk University": 754,
+            "Scene 01 — The High Pass": 965,
+            "Scene 02 — The Cold Welcome": 1159,
+            "Scene 03 — Trial of the Horse": 828,
+            "Scene 04 — Trial of the Bow": 1022,
+            "Scene 05 — Night in Yecha": 1245,
+            "Scene 06 — Trial of the Fire": 756,
+            "Scene 07 — The War Council": 2013
           }
         },
         "10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index.md": {
-          "total": 0,
-          "scenes": {}
+          "total": 11897,
+          "scenes": {
+            "Scene 00 — Three Weeks in Aerden": 1611,
+            "Scene 01 — Erlenhof": 1259,
+            "Scene 02 — The Erlen Bridge": 1483,
+            "Scene 03 — Osterschlauss": 842,
+            "Scene 04 — Two Nights on the Quag": 1667,
+            "Scene 05 — The Stewards' Tent": 1395,
+            "Scene 06 — The Stable Rows": 1212,
+            "Scene 07 — Post Time": 1503,
+            "Scene 08 — The Sale Ring": 925
+          }
         },
         "10-Adventures/SP-HAL-01 — Straw Men/Scenes/00 — Scene Index.md": {
-          "total": 0,
-          "scenes": {}
+          "total": 5936,
+          "scenes": {
+            "Scene 00 — Arrival at Hollow Ford": 947,
+            "Scene 01 — The Closing Reel": 852,
+            "Scene 02 — The Bobbing Game": 747,
+            "Scene 03 — Mother Nettle's Cottage": 968,
+            "Scene 04 — Fields and Stall": 1065,
+            "Scene 05 — The Mill": 1357
+          }
         },
         "10-Adventures/SP-HAL-02 — The Hollow Lantern/Scenes/00 — Scene Index.md": {
-          "total": 0,
-          "scenes": {}
+          "total": 4948,
+          "scenes": {
+            "Scene 00 — Marrowmere at Dusk": 813,
+            "Scene 01 — The Mourning Procession": 771,
+            "Scene 02 — Crossing the Mere": 735,
+            "Scene 03 — The Great Hall": 897,
+            "Scene 04 — Below the Water": 768,
+            "Scene 05 — The Toast": 964
+          }
         },
         "10-Adventures/SP-HAL-03 — The Night That Doesn't End/Scenes/00 — Scene Index.md": {
           "total": 0,
-          "scenes": {}
+          "scenes": {
+            "Scene 00 — The Gate at Dusk": 0,
+            "Scene 01 — Midnight, the First Time": 0,
+            "Scene 02 — Not Again": 0,
+            "Scene 03 — The Ossuary": 0,
+            "Scene 04 — The Chain Crypt": 0,
+            "Scene 05 — The Thirteenth Toll": 0
+          }
         },
         "10-Adventures/SP-HAL-04 — The Tithe of Thornbury/Scenes/00 — Scene Index.md": {
-          "total": 0,
-          "scenes": {}
+          "total": 7244,
+          "scenes": {
+            "Scene 00 — Harvest Home": 837,
+            "Scene 01 — The Hundredth Feast": 1034,
+            "Scene 02 — The Long Night": 1304,
+            "Scene 03 — The Blackthorn Copse": 1129,
+            "Scene 04 — The Procession": 1175,
+            "Scene 05 — The Tithe Barn": 1765
+          }
         },
         "65-Bestiary/00 — Bestiary Index.md": {
-          "total": 31467,
+          "total": 186190,
           "scenes": {
-            "01 — Introduction": 291,
-            "02 — Reading an Entry": 309,
-            "Barrow Stag": 1029,
-            "Bell-Wight": 1492,
-            "Bone Beast Template": 462,
-            "Bone Boar": 825,
-            "Bone Elk": 777,
-            "Bone Hound": 845,
-            "Church Grim": 1355,
-            "Drowned Guest": 981,
-            "Echo": 1445,
-            "Gluttonwretch": 2502,
-            "Harvest Lord": 1707,
-            "Hush-Moth Swarm": 1399,
-            "Kikimora": 1514,
-            "Ledger Hag": 1419,
-            "Nuckelavee": 1571,
-            "Straw Double": 1477,
-            "Threshold Lord": 1558,
-            "Tithe-Reaper": 1754,
-            "Toiling Haunt": 715,
-            "Toll-Troll": 1506,
-            "Wicker Colossus": 1701,
-            "Wolpertinger": 1111,
-            "90 — Creatures by Challenge": 725,
-            "91 — Creatures by Environment": 997
+            "01 — Introduction": 582,
+            "02 — Reading an Entry": 618,
+            "Aetherwrack": 2207,
+            "Antlerwrack": 1313,
+            "Barrow Stag": 2058,
+            "Bell-Strung Corpse": 1443,
+            "Bell-Wight": 2984,
+            "Blight Wolf": 1607,
+            "Bloodfiend": 2847,
+            "Bone Beast Template": 924,
+            "Bone Boar": 1650,
+            "Bone Elk": 1554,
+            "Bone Hound": 1690,
+            "Bone-Tally Chanter": 1709,
+            "Church Grim": 2710,
+            "Coffin-born": 1651,
+            "Coursehound": 1240,
+            "Demonic Spider": 1922,
+            "Drowned Guest": 1962,
+            "Echo": 2890,
+            "Fiendish Ogre": 1455,
+            "Gash-Marked Houndmaster": 1645,
+            "Gash-Marked Raider": 1331,
+            "Giant Hyena Witherling": 1821,
+            "Gnoll Warshaman": 2542,
+            "Goblin Battle-Drummer": 1544,
+            "Harvest Lord": 3414,
+            "Hawk Guardian": 1940,
+            "Hellborne": 2267,
+            "Hush-Moth Swarm": 2798,
+            "Iron-Marked Wolf": 1566,
+            "Jaguar Guardian": 1921,
+            "Kikimora": 3028,
+            "Kobold Blistercoil": 2563,
+            "Kobold Bulwark-Bearer": 2048,
+            "Kobold Dragonfang": 2033,
+            "Kobold Pot-Slinger": 1900,
+            "Kobold Pyrotechnic": 2025,
+            "Ledger Hag": 2838,
+            "Lesser Erinyes": 1762,
+            "Lieutenant of the Dark Prodigy": 2278,
+            "Marrow Hunter": 1309,
+            "Maulbone": 1197,
+            "Mnemophage": 2862,
+            "Nuckelavee": 3142,
+            "Pale Chimera": 2367,
+            "Root Guardian": 2144,
+            "Rot-Wargen": 1486,
+            "Stone Guardian": 2382,
+            "Straw Double": 2954,
+            "Threshold Lord": 3116,
+            "Tithe-Reaper": 3508,
+            "Toiling Haunt": 1430,
+            "Toll-Troll": 3012,
+            "Tunnel Scarhound": 1277,
+            "Viper Guardian": 2523,
+            "Wicker Colossus": 3402,
+            "Wolpertinger": 2222,
+            "03 — Rogues' Gallery": 197,
+            "Braknor Skullrend": 2256,
+            "Dorukai Thunderclub": 2485,
+            "Drevnar Soulreaver": 2132,
+            "The Endless Howl": 2115,
+            "Eylandra Stormchant": 3464,
+            "Glazryth, the Pale Terror": 2287,
+            "Gluttonwretch": 5004,
+            "Gorzak the Flaymaster": 2174,
+            "Grakh Unscarred": 2518,
+            "The Marrowmother": 2532,
+            "Mortenia's Echo, the Silent Sister": 4041,
+            "The Ninefold Voice": 2610,
+            "Saiyora's Echo, the Iron Sister": 2279,
+            "Sister Amarantha Wick, The Bell-Keeper": 2430,
+            "Sorrowbay, the Chained Sire": 2447,
+            "Sylvarith, the Venomous Wyrm": 2152,
+            "Tharazul, the Desert Storm": 2165,
+            "Velka's Echo, the Veiled Sister": 2370,
+            "Vespera Pixiecoil, the Prism-Coiled": 4153,
+            "Vyrathax, the Crimson Tyrant": 2058,
+            "Zarathryx, Champion of the Queen": 2767,
+            "Zhulkar Boneweaver": 3353,
+            "Zykryss, the Shadowed Doom": 2144,
+            "90 — Creatures by Challenge": 1450,
+            "91 — Creatures by Environment": 1994
           }
         },
         "20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index.md": {
-          "total": 574,
+          "total": 1148,
           "scenes": {
-            "Book 1 — Part 1": 207,
-            "Book 1 — Part 2": 172,
-            "Book 1 — Part 3": 195
+            "Book 1 — Part 1": 414,
+            "Book 1 — Part 2": 344,
+            "Book 1 — Part 3": 390
           }
         }
       }

@@ -9,7 +9,13 @@ longform:
   title: The Night That Doesn't End
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Scene 00 — The Gate at Dusk
+    - Scene 01 — Midnight, the First Time
+    - Scene 02 — Not Again
+    - Scene 03 — The Ossuary
+    - Scene 04 — The Chain Crypt
+    - Scene 05 — The Thirteenth Toll
   ignoredFiles:
     - 00 — Scene Index
 ---

@@ -9,7 +9,13 @@ longform:
   title: The Hollow Lantern
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Scene 00 — Marrowmere at Dusk
+    - Scene 01 — The Mourning Procession
+    - Scene 02 — Crossing the Mere
+    - Scene 03 — The Great Hall
+    - Scene 04 — Below the Water
+    - Scene 05 — The Toast
   ignoredFiles:
     - 00 — Scene Index
 ---

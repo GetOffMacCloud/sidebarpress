@@ -9,7 +9,13 @@ longform:
   title: Straw Men
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Scene 00 — Arrival at Hollow Ford
+    - Scene 01 — The Closing Reel
+    - Scene 02 — The Bobbing Game
+    - Scene 03 — Mother Nettle's Cottage
+    - Scene 04 — Fields and Stall
+    - Scene 05 — The Mill
   ignoredFiles:
     - 00 — Scene Index
 ---

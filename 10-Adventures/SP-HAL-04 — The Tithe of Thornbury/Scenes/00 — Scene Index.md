@@ -9,7 +9,13 @@ longform:
   title: The Tithe of Thornbury
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Scene 00 — Harvest Home
+    - Scene 01 — The Hundredth Feast
+    - Scene 02 — The Long Night
+    - Scene 03 — The Blackthorn Copse
+    - Scene 04 — The Procession
+    - Scene 05 — The Tithe Barn
   ignoredFiles:
     - 00 — Scene Index
 ---
