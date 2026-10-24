@@ -77,7 +77,7 @@ At rest, Echoes don't fight; a struck Echo just staggers and resumes. A snapped 
 **Running it:** Echoes are innocents. Reward parties who drop snapped Echoes with nonlethal damage. Killing one only resets it at dusk anyway, but the players don't need to know that at first.
 
 ## Named Example
-**The villagers of Hollow Choir** ([[SP-HAL-03-The-Night-That-Doesnt-End]]). Their souls hang in bone lanterns in the Hollow Choir. They snap after 11 PM.
+**The villagers of Vesper Hollow** ([[SP-HAL-03-The-Night-That-Doesnt-End]]). Their souls hang in bone lanterns in the Hollow Choir. They snap after 11 PM.
 
 ## Adventure Hooks
 1. The party stops for the night in a town where everyone is kind. In the morning, the innkeeper greets them as new arrivals.

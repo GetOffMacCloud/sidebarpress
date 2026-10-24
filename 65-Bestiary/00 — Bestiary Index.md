@@ -9,7 +9,32 @@ longform:
   title: Sidebar Press Bestiary
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - 01 — Introduction
+    - 02 — Reading an Entry
+    - Barrow Stag
+    - Bell-Wight
+    - Bone Beast Template
+    - Bone Boar
+    - Bone Elk
+    - Bone Hound
+    - Church Grim
+    - Drowned Guest
+    - Echo
+    - Harvest Lord
+    - Hush-Moth Swarm
+    - Kikimora
+    - Ledger Hag
+    - Nuckelavee
+    - Straw Double
+    - Threshold Lord
+    - Tithe-Reaper
+    - Toiling Haunt
+    - Toll-Troll
+    - Wicker Colossus
+    - Wolpertinger
+    - 90 — Creatures by Challenge
+    - 91 — Creatures by Environment
   ignoredFiles:
     - 00 — Bestiary Index
 ---
