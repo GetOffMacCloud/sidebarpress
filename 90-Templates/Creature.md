@@ -78,3 +78,6 @@ Style spine: see [[00 — Bestiary Index#Art Style Spine]].
 ```
 <subject>, <style spine> --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
+
+## FGU Import
+Generated, never hand-written: after the statblock is final, run `python3 70-Company/Tools/fgu_import.py 65-Bestiary` and this section is rebuilt with paste-ready text for FGU's NPCs → Import Text (mode: 2022 – Monsters of the Multiverse).

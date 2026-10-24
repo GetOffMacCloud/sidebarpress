@@ -27,6 +27,7 @@ longform:
     - Kikimora
     - Ledger Hag
     - Nuckelavee
+    - Pale Chimera
     - Straw Double
     - Threshold Lord
     - Tithe-Reaper
@@ -115,4 +116,5 @@ Paste this into every creature prompt so the plates read as one book:
 - [ ] CR verification against DMG p. 274 written out in Design Notes
 - [ ] Setting-agnostic: no Greyhawk proper names outside Named Example and Appears In
 - [ ] Art prompt with the style spine and `--v 8.1`
+- [ ] FGU Import section generated with `70-Company/Tools/fgu_import.py` (re-run after any statblock change)
 - [ ] `status` moved through outline → drafted → edited → final
