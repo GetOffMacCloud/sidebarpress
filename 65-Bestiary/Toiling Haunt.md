@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 270
+publish_order: 600
 publish: true
 status: drafted
 creature: "Toiling Haunt"

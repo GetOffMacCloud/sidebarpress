@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 260
+publish_order: 590
 publish: true
 status: drafted
 creature: "Tithe-Reaper"

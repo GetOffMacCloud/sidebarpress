@@ -35,3 +35,6 @@ Each creature is tagged with one origin:
 
 ## Haunts and Templates
 A **haunt** (such as the [[Toiling Haunt]]) isn't a combatant. Its block lists detection, manifestation, and resolution instead of attacks. A **template** (such as the [[Bone Beast Template]]) changes an existing statblock. Apply it, and the entry tells you whether the CR changes.
+
+## The Rogues' Gallery
+Entries in the [[03 — Rogues' Gallery|Rogues' Gallery]] are named individuals rather than kinds of creature. Their Lore section tells that individual's story, and they skip **Named Example**. Everything else follows the same order.

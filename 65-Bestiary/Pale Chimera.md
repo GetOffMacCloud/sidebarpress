@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 235
+publish_order: 530
 publish: true
 status: drafted
 creature: "Pale Chimera"

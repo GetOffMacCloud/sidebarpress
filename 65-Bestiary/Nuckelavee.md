@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 230
+publish_order: 520
 publish: true
 status: drafted
 creature: "Nuckelavee"

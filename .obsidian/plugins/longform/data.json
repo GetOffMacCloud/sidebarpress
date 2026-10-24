@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-24T18:59:38.378Z",
-      "total": 30619,
+      "total": 32041,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -68,10 +68,10 @@
           "scenes": {}
         },
         "65-Bestiary/00 — Bestiary Index.md": {
-          "total": 30045,
+          "total": 31467,
           "scenes": {
-            "01 — Introduction": 259,
-            "02 — Reading an Entry": 272,
+            "01 — Introduction": 291,
+            "02 — Reading an Entry": 309,
             "Barrow Stag": 1029,
             "Bell-Wight": 1492,
             "Bone Beast Template": 462,
@@ -92,10 +92,10 @@
             "Tithe-Reaper": 1754,
             "Toiling Haunt": 715,
             "Toll-Troll": 1506,
-            "Wicker Colossus": 1631,
+            "Wicker Colossus": 1701,
             "Wolpertinger": 1111,
-            "90 — Creatures by Challenge": 182,
-            "91 — Creatures by Environment": 257
+            "90 — Creatures by Challenge": 725,
+            "91 — Creatures by Environment": 997
           }
         },
         "20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index.md": {

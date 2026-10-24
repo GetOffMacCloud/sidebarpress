@@ -30,3 +30,14 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
 | [[Book 1 — Part 4]] | Dwur! | −12,000 SD | copyedited |
+| [[Book 1 — Part 5]] | Oerth | (undated) | copyedited |
+| [[Book 1 — Part 6]] | epigraph: Moradin, *Book of the Sombre* 13:7 | Moradin born c. 11,500 years ago | copyedited |
+| [[Book 1 — Part 7]] | epigraph: Dwulf the Prophet, *Book of the Sombre* 17:11 | c. 60 years of war, then the truce | copyedited |
+| [[Book 1 — Part 8]] | The illithids | (undated) | copyedited |
+| [[Book 1 — Part 9]] | Tristram and Isolde (Vesve Forest) | (undated) | copyedited |
+| [[Book 1 — Part 10]] | The Researchers of Exquisite Cuisine; humans found | 11,000 years ago (≈ −4,860 SD) | copyedited |
+| [[Book 1 — Part 11]] | Eastern Oerik before humans | 10,200 years ago (≈ −4,060 SD) | copyedited |
+| [[Book 1 — Part 12]] | The Plane of the Arcane | 623 CY; 10,200 years ago | copyedited |
+| [[Book 1 — Part 13]] | Dwurin Sourshadow at Fairfeather | 10,200 years ago (≈ −4,060 SD) | copyedited |
+| [[Book 1 — Part 14]] | epigraph: *The Book of Trank* XII:VII; the failed rescue | (undated) | copyedited |
+| [[Book 1 — Part 15]] | extract: *Thought Effusions of Grand Experimenter Gybex* | (undated) | copyedited |

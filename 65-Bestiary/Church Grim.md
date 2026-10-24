@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 160
+publish_order: 220
 publish: true
 status: drafted
 creature: "Church Grim"

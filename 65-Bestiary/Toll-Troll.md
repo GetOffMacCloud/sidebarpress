@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 280
+publish_order: 610
 publish: true
 status: drafted
 creature: "Toll-Troll"

@@ -14,9 +14,15 @@ Shareable copy of Book 1 (Claude Docs): https://claude.ai/artifact/8CF2h9u5qvKKV
 ## Books
 | Book | Title | Parts | Index |
 |---|---|---|---|
-| 1 | Relics from a Dragon Time | 1–4 | [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index]] |
+| 1 | Relics from a Dragon Time | 1–15 | [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index]] |
+
+## Dating
+- **SD = Suloise Dating**, the calendar of the ancient Suloise Imperium. **1 SD = −5,515 CY**, so CY ≈ SD − 5,515.
+- Negative SD years fall before the Imperium's epoch: −14,000 SD ≈ −19,515 CY.
+- **Mercoles writes in 623 CY** (≈ 6,138 SD), per Book 1, Part 12. His "years ago" figures are read from 623 CY.
 
 ## Compiling conventions
 - Light copy edit only: Mercoles' voice and line breaks are kept; typos and spacing are fixed. House American spelling applies, except "grey".
+- Race names are lowercase unless grammar requires a capital (illithids, elves, dwarves).
 - Mercoles' own footnotes become Obsidian footnotes in each Part note.
 - Every change and open question is logged in each book's Editorial Notes.

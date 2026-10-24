@@ -2,7 +2,7 @@
 type: creature-template
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 120
+publish_order: 170
 publish: true
 status: drafted
 creature: "Bone Beast Template"

@@ -1,8 +1,8 @@
 ---
 type: creature
 adventure: "SP-BST-01"
-section: bestiary
-publish_order: 185
+section: rogues-gallery
+publish_order: 5070
 publish: true
 status: drafted
 creature: "The Gluttonwretch"
@@ -17,7 +17,7 @@ origin: contributed
 credit: "GrimmGrixis"
 base_block: "none (contributed statblock, retuned to CR 20)"
 source_adventures: []
-tags: [bestiary, statblock, 2014-5e, legendary, contributed]
+tags: [bestiary, statblock, 2014-5e, legendary, contributed, rogues-gallery]
 ---
 
 # The Gluttonwretch

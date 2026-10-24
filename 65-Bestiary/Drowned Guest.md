@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 170
+publish_order: 260
 publish: true
 status: drafted
 creature: "Drowned Guest"

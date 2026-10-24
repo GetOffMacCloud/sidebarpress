@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 240
+publish_order: 570
 publish: true
 status: drafted
 creature: "Straw Double"

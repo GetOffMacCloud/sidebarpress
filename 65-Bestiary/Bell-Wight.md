@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 110
+publish_order: 140
 publish: true
 status: drafted
 creature: "Bell-Wight"

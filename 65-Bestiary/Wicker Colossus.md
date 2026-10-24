@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 290
+publish_order: 640
 publish: true
 status: drafted
 creature: "Wicker Colossus"
@@ -25,7 +25,7 @@ tags: [bestiary, statblock, 2014-5e]
 
 > [!example]+ Wicker Colossus (CR 9, 5,000 XP)
 > *Huge construct, unaligned*
-> **Armor Class** 14 (natural armor) · **Hit Points** 133 (14d10 + 56) · **Speed** 20 ft.
+> **Armor Class** 14 (natural armor) · **Hit Points** 136 (13d12 + 52) · **Speed** 20 ft.
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
@@ -79,9 +79,9 @@ The colossus walks its offering to the destination and swats aside anything in t
 The colossus's lantern-heart, an iron cage holding a coal that never goes out, works as an *everburning torch* that can light any fire. The hymn-sheaf woven into its head can be read as a ritual text, and it names the pact.
 
 ## Design Notes
-**Changes from the Clay Golem block:** Burning Wicker replaces Acid Absorption; Chest-Cage added; Berserk now targets the cage. Huge size and reach 10 ft. fit the thirty-foot frame. Every statistic that affects CR is unchanged.
+**Changes from the Clay Golem block:** Huge size, with hit dice changed to d12s: 136 (13d12 + 52), which is 3 hp more than the golem's 133 (14d10 + 56). The +8 attack bonus and DC 15 Slam save are the MM clay golem's printed values (the 2014 MM rounds golems below the proficiency formula) and are kept as-is. Burning Wicker replaces Acid Absorption; Chest-Cage added; Berserk now targets the cage. Huge size and reach 10 ft. fit the thirty-foot frame. Every statistic that affects CR is unchanged.
 
-**CR verification:** The clay golem is CR 9 in the MM, and the same chassis is kept. The DMG formula overrates golems because of their broad immunities, so the MM rating is used. **Burning raises its damage.** Two Slams deal 32 damage per round, or 46 while burning, which puts its offense around CR 7–8 when it is set alight. That matters at APL 8. If the party is likely to use fire, start the encounter with the colossus at 100 hit points (the SP-HAL-04 APL 8 scaling).
+**CR verification:** The clay golem is CR 9 in the MM, and the same chassis is kept. The DMG formula overrates golems because of their broad immunities, so the MM rating is used. **Burning raises its damage.** Two Slams deal 32 damage per round, or 46 while burning, which puts its offense around CR 7–8 when it is set alight. That matters at APL 8. If the party is likely to use fire, start the encounter with the colossus at 100 hit points (the SP-HAL-04 APL 8 scaling). **Errata for SP-HAL-04:** its block prints 133 (14d10 + 56) for a Huge creature; use 136 (13d12 + 52).
 
 ## Appears In
 - [[SP-HAL-04-The-Tithe-of-Thornbury]]: the procession to the Tithe Barn. Statblocks are in [[SP-HAL-04 — Bestiary]].
@@ -99,7 +99,7 @@ Paste each block into Fantasy Grounds Unity: **NPCs → Import Text**, mode **20
 Wicker Colossus
 Huge construct, unaligned
 Armor Class 14 (natural armor)
-Hit Points 133 (14d10 + 56)
+Hit Points 136 (13d12 + 52)
 Speed 20 ft.
 STR DEX CON INT WIS CHA
 20 (+5) 9 (-1) 18 (+4) 3 (-4) 8 (-1) 1 (-5)

@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 250
+publish_order: 580
 publish: true
 status: drafted
 creature: "Threshold Lord"

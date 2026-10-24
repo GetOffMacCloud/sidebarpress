@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 100
+publish_order: 120
 publish: true
 status: drafted
 creature: "Barrow Stag"

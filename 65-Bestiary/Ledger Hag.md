@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 220
+publish_order: 460
 publish: true
 status: drafted
 creature: "Ledger Hag"

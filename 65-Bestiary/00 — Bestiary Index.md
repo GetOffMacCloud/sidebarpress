@@ -12,28 +12,86 @@ longform:
   scenes:
     - 01 — Introduction
     - 02 — Reading an Entry
+    - Aetherwrack
+    - Antlerwrack
     - Barrow Stag
+    - Bell-Strung Corpse
     - Bell-Wight
+    - Blight Wolf
+    - Bloodfiend
     - Bone Beast Template
     - Bone Boar
     - Bone Elk
     - Bone Hound
+    - Bone-Tally Chanter
     - Church Grim
+    - Coffin-born
+    - Coursehound
+    - Demonic Spider
     - Drowned Guest
     - Echo
-    - Gluttonwretch
+    - Fiendish Ogre
+    - Gash-Marked Houndmaster
+    - Gash-Marked Raider
+    - Giant Hyena Witherling
+    - Gnoll Warshaman
+    - Goblin Battle-Drummer
     - Harvest Lord
+    - Hawk Guardian
+    - Hellborne
     - Hush-Moth Swarm
+    - Iron-Marked Wolf
+    - Jaguar Guardian
     - Kikimora
+    - Kobold Blistercoil
+    - Kobold Bulwark-Bearer
+    - Kobold Dragonfang
+    - Kobold Pot-Slinger
+    - Kobold Pyrotechnic
     - Ledger Hag
+    - Lesser Erinyes
+    - Lieutenant of the Dark Prodigy
+    - Marrow Hunter
+    - Maulbone
+    - Mnemophage
     - Nuckelavee
+    - Pale Chimera
+    - Root Guardian
+    - Rot-Wargen
+    - Stone Guardian
     - Straw Double
     - Threshold Lord
     - Tithe-Reaper
     - Toiling Haunt
     - Toll-Troll
+    - Tunnel Scarhound
+    - Viper Guardian
     - Wicker Colossus
     - Wolpertinger
+    - "03 — Rogues' Gallery"
+    - Braknor Skullrend
+    - Dorukai Thunderclub
+    - Drevnar Soulreaver
+    - The Endless Howl
+    - Eylandra Stormchant
+    - Glazryth, the Pale Terror
+    - Gluttonwretch
+    - Gorzak the Flaymaster
+    - Grakh Unscarred
+    - The Marrowmother
+    - "Mortenia's Echo, the Silent Sister"
+    - The Ninefold Voice
+    - "Saiyora's Echo, the Iron Sister"
+    - Sister Amarantha Wick, The Bell-Keeper
+    - Sorrowbay, the Chained Sire
+    - Sylvarith, the Venomous Wyrm
+    - Tharazul, the Desert Storm
+    - "Velka's Echo, the Veiled Sister"
+    - Vespera Pixiecoil, the Prism-Coiled
+    - Vyrathax, the Crimson Tyrant
+    - Zarathryx, Champion of the Queen
+    - Zhulkar Boneweaver
+    - Zykryss, the Shadowed Doom
     - 90 — Creatures by Challenge
     - 91 — Creatures by Environment
   ignoredFiles:

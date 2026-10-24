@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 180
+publish_order: 270
 publish: true
 status: drafted
 creature: "Echo"

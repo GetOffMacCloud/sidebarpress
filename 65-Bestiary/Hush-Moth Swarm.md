@@ -2,7 +2,7 @@
 type: creature
 adventure: "SP-BST-01"
 section: bestiary
-publish_order: 200
+publish_order: 370
 publish: true
 status: drafted
 creature: "Hush-Moth Swarm"
