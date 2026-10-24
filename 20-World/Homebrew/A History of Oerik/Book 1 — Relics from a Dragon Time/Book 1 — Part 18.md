@@ -22,7 +22,7 @@ Great elven nations were located in the Adri and Grandwood forests, the Rieuwood
 
 All the lands including the Wild Coast, Celene, the Ulek states, the Pomarj, the Duchy of Urnst and what is now the Bright Desert were the lands of the grey elven Celenians.
 
-West of Celene were the Blemu lands, incorporating the Adri and Grandwood forests (connected as one forest then), and much of what became the Great Kingdom in the 570s CY. The elves there were predominantly high elven.
+East of Celene were the Blemu lands, incorporating the Adri and Grandwood forests (connected as one forest then), and much of what became the Great Kingdom in the 570s CY. The elves there were predominantly high elven.
 
 The boundary between the two elven empires was loosely defined, and, in fact, many elves traveled freely over the whole of Eastern Oerik.
 

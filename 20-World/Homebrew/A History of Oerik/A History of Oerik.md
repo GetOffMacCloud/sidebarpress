@@ -24,6 +24,8 @@ Shareable copy of Book 1 (Claude Docs): https://claude.ai/artifact/8CF2h9u5qvKKV
 ## Compiling conventions
 - Light copy edit only: Mercoles' voice and line breaks are kept; typos and spacing are fixed. House American spelling applies, except "grey".
 - **Corellon Larethian is "they"** throughout the series.
+- **No house serial comma:** lists keep Mercoles' own comma usage.
+- Class and practice names are lowercase: druidism, druids, rangers.
 - Race names are lowercase unless grammar requires a capital (illithids, elves, dwarves).
 - Mercoles' own footnotes become Obsidian footnotes in each Part note.
 - Every change and open question is logged in each book's Editorial Notes.

@@ -70,11 +70,11 @@ Back to [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon T
 - [ ] **New names to track (Part 15):** Grand Experimenter Gybex and his *Thought Effusions* (at least two volumes, 3,482+ pages); Master Thraxlbid; the "Sensation Scale" from Part 10.
 - [x] **Corellon's pronoun:** ruled 2026-10-24: Corellon is "they" throughout. Part 16 kept as written; Part 7 "Corellon and his company" → "their company". ✅ Applied 2026-10-24.
 - [x] **"the especial blend" (Part 16):** ruled 2026-10-24: a description, not a breed name. Kept lowercase as written.
-- [ ] **"West of Celene" (Part 18):** the Blemu lands hold the Adri and Grandwood and the future Great Kingdom, which all lie *east* of Celene (canon's Blemu Hills are in the east too). Should it read "East of Celene"?
-- [ ] **Serial comma:** house copy style uses the serial comma, but Mercoles mostly doesn't ("banquets, magic and laughter") and sometimes does ("the Bramblewood, and the Celadon"). I've left every list as written. Apply the house serial comma through the whole history, or keep Mercoles' own usage?
+- [x] **"West of Celene" (Part 18):** ruled 2026-10-24 → "East of Celene". ✅ Applied 2026-10-24.
+- [x] **Serial comma:** ruled 2026-10-24: keep Mercoles' own usage; the house serial comma does not apply to this history.
 - [ ] **New names to track (Part 18):** the grey elven **Celenians** (Wild Coast, Celene, the Ulek states, the Pomarj, the Duchy of Urnst, the future Bright Desert) and the high elven **Blemu lands** (Adri and Grandwood as one forest, the future Great Kingdom); an older, larger Silverwood (Hornwood, the Dim, Oytwood, Axewood, Dreadwood); Krynn added to the worlds reached by gate. A map of the two empires would help later books.
-- [ ] **"Fharun humans" (Part 19):** the humans of the Adri–Grandwood (future Great Kingdom). New people-name; capitalized as a proper name. Track. (Close to Toril's Faerûn — intended echo?)
-- [ ] **Druidism capitalization (Part 19):** lowercased "druidism", "druids", "rangers" as class/practice names. Capitalize "Druidism" if it's meant as a named faith (like "the Old Faith")?
+- [x] **"Fharun humans" (Part 19):** ruled 2026-10-24: the echo of Toril's Faerûn is intended. Capitalized as a people-name.
+- [x] **Druidism capitalization (Part 19):** ruled 2026-10-24: lowercase (druidism, druids, rangers), as applied.
 - [ ] **Ierendi (Part 19):** canon Mystara's Ierendi lies off Mystara's *south* coast; here "off the southwest coast". Fine for Mercoles' world, noting only.
-- [ ] **The western rainforest (Part 20):** "southwest of the Hellfurnaces". Canon's nearest jungle, the Amedio, is *southeast* of the Hellfurnaces. A new jungle, or the Amedio?
+- [x] **The western rainforest (Part 20):** ruled 2026-10-24: not the Amedio. It is a crossover from Kara-Tur, kept southwest of the Hellfurnaces as written.
 - [ ] **New names to track (Part 20):** the Kara-Turan elves (tall; violet, pink, blue, white or brown hair; silvery eyes); tengu (hunter-gatherers) and kenku (farmers, city builders) in what is now Shou Lung; the new elven nation in Western Oerik (unnamed so far).
