@@ -46,3 +46,8 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 18]] | Eastern Oerik's peoples; the Celenian and Blemu elven empires | just over 10,000 years ago | copyedited |
 | [[Book 1 — Part 19]] | Humans among the elves; half-elves, druids and rangers | centuries after Part 18 | copyedited |
 | [[Book 1 — Part 20]] | Western Oerik; the Kara-Turan elves | (undated) | copyedited |
+| [[Book 1 — Part 21]] | The Singing Ones and the Lowly Ones | 9,000 years ago (≈ −2,860 SD) | copyedited |
+| [[Book 1 — Part 22]] | Western Oerik's peoples and lands | 9,000 years ago (≈ −2,860 SD) | copyedited |
+| [[Book 1 — Part 23]] | MaiYuan; the elven cities | the following few thousand years | copyedited |
+| [[Book 1 — Part 24]] | Win-Daled and Ye'Cind | −53 SD (≈ −5,568 CY) | copyedited |
+| [[Book 1 — Part 25]] | Blemu; the murder of Esmir's wife | c. −49 SD (Win-Daled about four) | copyedited |
