@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-24T18:59:38.378Z",
-      "total": 30045,
+      "total": 30619,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -96,6 +96,14 @@
             "Wolpertinger": 1111,
             "90 — Creatures by Challenge": 182,
             "91 — Creatures by Environment": 257
+          }
+        },
+        "20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index.md": {
+          "total": 574,
+          "scenes": {
+            "Book 1 — Part 1": 207,
+            "Book 1 — Part 2": 172,
+            "Book 1 — Part 3": 195
           }
         }
       }

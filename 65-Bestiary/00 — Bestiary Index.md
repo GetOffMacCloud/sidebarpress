@@ -27,7 +27,6 @@ longform:
     - Kikimora
     - Ledger Hag
     - Nuckelavee
-    - Pale Chimera
     - Straw Double
     - Threshold Lord
     - Tithe-Reaper
