@@ -175,6 +175,31 @@ Use a **black** background instead of white for anything meant to glow, so lumin
 
 ---
 
+## 7 — Battlemaps (screen-only VTT)
+
+Out of scope for the ink conversion, like the stamps: battlemaps are color VTT art (see [[Art-Style-Guide]] › Out of scope). Render without a grid; the grid is added at export (see [[SP-PBS-00 — Map Assets]]). Bases are saved as `99-Assets/SP-PBS-00/SP-PBS-00 — [Map] — MJ base.png`.
+
+**What worked (2026-10-25):** the first bridge and stable renders came out as an angled view and a cutaway side view, so both were re-rolled with the hard overhead cues below. The first renders were overwritten. They would not have served as scene banners anyway, since print art is now ink (section 3).
+
+**The Erlen Bridge** — base ✅ (re-roll)
+```
+directly overhead 90-degree top-down battlemap, flat orthographic view straight down, no visible walls or sides of objects, a narrow stone toll bridge seen from above as a straight paved strip with parapet tops, crossing a slow shallow river that runs across the middle of the map, the roof of a small slate toll house seen from above at the near end, dirt road the full length, cattle seen from above along the road, a drovers' camp with campfire and two carts seen from above, meadow and reeds, morning light, muted ochre and moss palette, highly detailed, no grid, no text --ar 5:3 --v 8.1 --style raw --stylize 150 --seed 20008 --no isometric, perspective, three-quarter view, side view, elevation, arch, horizon, characters, labels
+```
+
+**The *Kortheim Maid*** — base ✅ (first render; Map Assets changed to match it)
+```
+top-down orthographic battlemap, a fat single-masted medieval lake cog seen from directly above, centered, dark water surrounding it on all sides, plank deck with a hatch cover at the bow, mast amidships, tiller and a single hanging lantern at the stern, a small canvas-roofed horse stall against the right-hand rail amidships with straw inside, passenger bedrolls toward the bow, coiled ropes and casks, night, the stern lantern the only light source casting a warm pool on the aft deck, the rest of the deck in deep blue darkness, fourteenth-century, highly detailed, no grid, no text --ar 5:3 --v 8.1 --style raw --stylize 150 --seed 20008 --no perspective, horizon, characters, sails seen from the side, grid lines, labels
+```
+*Rhennee variant:* add `three long low barges with lantern-lit awnings alongside on the left, dusk`, at `--ar 16:9`.
+
+**The Stable Rows** — base ✅ (re-roll)
+```
+directly overhead 90-degree top-down battlemap, flat orthographic view straight down into a long stable with the roof removed, a straw-covered central aisle running the full length, twenty small square horse stalls along each side seen from above, the backs of horses visible from above in most stalls, hanging lanterns seen from above at regular intervals casting round pools of warm orange light with dark gaps between them, a water trough, buckets and a pitchfork rack at the near end, night, highly detailed, no grid, no text --ar 20:7 --v 8.1 --style raw --stylize 150 --seed 20008 --no isometric, perspective, side view, cutaway, elevation, front view, wall, characters, people, labels
+```
+*If it drifts to an angle:* two `--ar 10:7` halves (the near end with the trough and pitchfork rack; the far end with a closed double door).
+
+---
+
 ## Shot list
 
 - [ ] Front cover
@@ -182,6 +207,7 @@ Use a **black** background instead of white for anything meant to glow, so lumin
 - [ ] Scene art ×6
 - [ ] NPC portraits ×10 *(minimum: Corwin, Adalinde, Otwin, Vuurzward — the four who carry the story)*
 - [ ] Notice handout paper
+- [x] Battlemap bases ×3 (2026-10-25)
 - [ ] Custom stamps, as the maps require
 - [ ] All print images converted to 1-bit at 600 dpi ([[Art-Style-Guide]] › Print production)
 - [ ] All images rehosted off Discord and sized in `cm`

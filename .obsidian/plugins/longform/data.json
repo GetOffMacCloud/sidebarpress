@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-25T05:01:14.470Z",
-      "total": 235956,
+      "total": 236014,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -153,13 +153,13 @@
           }
         },
         "10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index.md": {
-          "total": 14469,
+          "total": 14527,
           "scenes": {
             "Scene 00 — Three Weeks in Aerden": 1611,
             "Scene 01 — Erlenhof": 1259,
             "Scene 02 — The Erlen Bridge": 2351,
-            "Scene 03 — Osterschlauss": 842,
-            "Scene 04 — Two Nights on the Quag": 2469,
+            "Scene 03 — Osterschlauss": 855,
+            "Scene 04 — Two Nights on the Quag": 2514,
             "Scene 05 — The Stewards' Tent": 1395,
             "Scene 06 — The Stable Rows": 2114,
             "Scene 07 — Post Time": 1503,

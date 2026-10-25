@@ -56,7 +56,7 @@ Take one plan, set one DC, resolve it.
 ## Development
 - **The entry went on the roll** → Otwin knows by Day 3 and arrives in Schwartzenbruin a full day early. He is **waiting in the stewards' tent** in Scene 5, and at post time he is already in the row.
 - **No trail** → Otwin and Adalinde come in on the morning packet on Derby Day, as planned.
-- The deck stall is amidships against the starboard rail, eight feet by ten, canvas-roofed. Note who sleeps nearest it.
+- The deck stall is at the bow against the starboard rail, eight feet by ten, canvas-roofed, with the deck's one lantern hung just aft of it. Note who sleeps nearest it.
 
 ## Clues Available Here
 - Vosk's price list → **Vosk can be trusted to say what things cost** (she'll price the Rhennee offer honestly in Scene 4)
