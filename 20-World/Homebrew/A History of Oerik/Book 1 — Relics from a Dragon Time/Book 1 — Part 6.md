@@ -3,7 +3,7 @@ type: history-part
 series: "A History of Oerik"
 book: 1
 part: 6
-author: "Damien Mercoles"
+author: "Damien Mecoles"
 status: copyedited
 publish: true
 publish_order: 60

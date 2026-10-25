@@ -36,15 +36,16 @@ Back to [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon T
 - Part 23: "Elvenkind" → "elvenkind" (race-name rule); "Kara-turan" / "Kara -Turan" / "Kara-,turan" → "Kara-Turan"; "concerned, but not frightened" → "concerned but not frightened"; "peace loving" → "peace-loving"; "a committee were the ultimate arbiters" → "a committee was the ultimate arbiter" (American agreement); "The Empire itself" → "The empire itself" (matches "cemented the empire" just before); comma added in "less impressive, but still beautiful, dwellings"; "mud brick" → "mud-brick"; "similar architecture as" → "similar architecture to"; spacing in "continents.Their" and "founded).The"; double spaces removed.
 - Part 24: "-53 SD" → "−53 SD" (true minus, as in Parts 1, 2 and 4); "well off" → "well-off"; "Win- Daled" → "Win-Daled"; "Ye' Cind's" → "Ye'Cind's"; "While she was four" → "When she was four"; "fifty year old" → "fifty-year-old"; comma before "but her actual voice"; "a perfect pitch" → "perfect pitch"; "to.the northwest" → "to the northwest"; "centralised" → "centralized"; "half wild" → "half-wild"; stray line break after "so" joined; "too,, as" → "too, as"; spacing in "Confederation.He"; double spaces removed.
 - Part 25: "Win -Daled" → "Win-Daled"; "YecCind's" → "Ye'Cind's"; "Gai-Lek" → "Gal-Lek" (the name used everywhere else); period added after "before"; "somewhat of celebrities" → "something of celebrities"; "silver hued" → "silver-hued"; "fascinated in" → "fascinated by"; "Singing One Master" → "Singing One master"; "stunned them both, then with a heavy thump," → "stunned them both; then, with a heavy thump,"; double spaces removed.
+- Author name: "Mercoles" → "Mecoles" everywhere (byline, frontmatter, notes), matching his Facebook name. Ruled by Greybeard 2026-10-24.
 
 ## Open questions for Greybeard
 - [ ] **Chronology:** Part 1 is dated −14,000 SD and Part 2 −20,000 SD, so Part 2 is 6,000 years *earlier*, yet Part 2 describes the Schism's end and the dragons' scarcity that Part 1 already shows. Should one date change, or is Part 2 a deliberate flashback?
 - [ ] **Book title:** Part 3 was submitted as "Relics *of* a Dragon Time"; Parts 1–2 say "Relics *from* a Dragon Time". Using "from" for now.
-- [ ] **Tuatha de Dannan:** the usual spelling is "Tuatha Dé Danann". Keep Mercoles' spelling, or standardize?
+- [ ] **Tuatha de Dannan:** the usual spelling is "Tuatha Dé Danann". Keep Mecoles' spelling, or standardize?
 - [ ] **Tense in Part 3:** "Thousands of years pass" and "They develop sailing and settle" are in present tense in an otherwise past-tense passage. Keep as stylistic or change to past?
 - [ ] **Capitalization:** "Bahamut the Platinum dragon", "Tiamat the Chromatic dragon", "the greatest Dragons", "the Empires", "Fey". Standardize, or leave as written?
 - [ ] **"Draconians"** (Part 1) is a Dragonlance term for dragon-men. Is it meant as a name for the dragon empire's peoples here?
-- [x] **Voice:** Part 3 calls dwarves "inferior and lowly creations." Resolved by Part 4, which tells the same view from inside an elf's head: it is the Olve view, not Mercoles'.
+- [x] **Voice:** Part 3 calls dwarves "inferior and lowly creations." Resolved by Part 4, which tells the same view from inside an elf's head: it is the Olve view, not Mecoles'.
 - [ ] **Delphine / Darlene (Part 4):** the elf is "Delphine" in one paragraph and "Darlene" in two. Which name stands?
 - [ ] **Chronology (updated with Part 4):** reading order is now −14,000 → −20,000 → (undated) → −12,000 SD. If Part 2's date is right, Part 1 is a prologue set after it; if Part 1 should come first in time, one of the two dates changes.
 - [ ] **"rutterkin" (Part 4):** in Greyhawk, rutterkin are a lesser demon (Fiend Folio). Used here as a slur for a lowly drifter — intended?
@@ -53,7 +54,7 @@ Back to [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon T
 - [ ] **Tense in Part 5:** the Mystaran Ocean and Adarus sentences ("are two sister continents", "South is a larger land") are present tense amid past. Keep as the historian's present-day geography, or change?
 - [ ] **Cross-setting geography (Part 5):** Mystara (BECMI's world), Kara-Tur (Toril), and the Lost Lands sit on Oerth here (and Part 17 names Toril itself as a separate world the illithid wars reached), alongside Hepmonaland and the Dramidj Ocean. Confirm this is a deliberate house cosmology; canon Greyhawk names the eastern water the Solnor *Ocean*, not Sea. Logged so later books stay consistent.
 - [ ] **New names to track (Part 5):** Melavi, Kodge Land, Kingsland / C'mu N'eir (home of the Tuatha de Dannan), Adarus. Worth a gazetteer note for the series once the geography settles?
-- [ ] **Moradin's birth date (Part 6) vs Part 4:** Part 6 says Moradin was born "around 11,500 years ago." Mercoles writes in 623 CY (Part 12), ≈ 6,138 SD, so that is about −10,877 CY ≈ **−5,360 SD**. Part 4 shows him already grown at **−12,000 SD** (≈ −17,515 CY), about 6,600 years earlier. Which figure moves: Part 4's date, or "11,500 years ago" (≈ 18,100 years ago would fit Part 4)?
+- [ ] **Moradin's birth date (Part 6) vs Part 4:** Part 6 says Moradin was born "around 11,500 years ago." Mecoles writes in 623 CY (Part 12), ≈ 6,138 SD, so that is about −10,877 CY ≈ **−5,360 SD**. Part 4 shows him already grown at **−12,000 SD** (≈ −17,515 CY), about 6,600 years earlier. Which figure moves: Part 4's date, or "11,500 years ago" (≈ 18,100 years ago would fit Part 4)?
 - [ ] **The Book of the Sombre:** "Sombre" is kept as a proper title (British spelling) against house American style. Confirm.
 - [ ] **Forests of Celadon (Part 7):** the Celadon Forest is in the eastern Flanaess; Moradin's dwarves start in the Western Crystalmists. Intended as a long march, or a different, older Celadon?
 - [ ] **New names to track (Parts 6–7):** *The Book of the Sombre* (dwarven scripture: 11:9, 13:7, 17:11), Dwulf the Prophet, Moradin "the Soul Forger", the iron-mithril alloy, the Moradin–Corellon truce.
@@ -62,13 +63,13 @@ Back to [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon T
 - [ ] **The Researchers' name (Part 10):** the group is first the "Illithid Researchers of Exquisite Cuisine", then the "Mind Flayer Researchers of Exquisite Cuisine". Kept capitalized as an organization's title. Which name stands, or are both in use?
 - [ ] **Olve / Dwur capitalization:** under the race-name rule, should "Olve" (always capitalized) and "dwur" (lowercase in Part 4, "Dwur" in Part 5) both go lowercase, or both stay capitalized as the peoples' own names?
 - [ ] **Human arrival date (Part 10):** "11,000 years ago" from 623 CY ≈ −10,377 CY ≈ −4,860 SD, about 500 years after Moradin's birth by Part 6's reckoning. It agrees with Part 6 but inherits the same conflict with Part 4's −12,000 SD.
-- [ ] **Agrar Hills (Part 11):** not a canon name I can place; canon has the Rift Canyon in the Bandit Kingdoms region. Mercoles' own name for land the Rift later split? Track for the gazetteer.
+- [ ] **Agrar Hills (Part 11):** not a canon name I can place; canon has the Rift Canyon in the Bandit Kingdoms region. Mecoles' own name for land the Rift later split? Track for the gazetteer.
 - [ ] **Population figures (Part 11), ≈ −4,060 SD:** under a million elves and about 250,000 dwarves in Eastern Oerik. Track for later books.
 - [ ] **Missing footnote (Part 12):** "bands of different colors.*" carries an asterisk but no note was supplied. Send the note text, or drop the marker?
-- [ ] **Mercoles' present is 623 CY (Part 12).** All "years ago" figures are now read from 623 CY. Note that 623 CY is past the canon timeline's usual endpoints (576 / 591 CY).
+- [ ] **Mecoles' present is 623 CY (Part 12).** All "years ago" figures are now read from 623 CY. Note that 623 CY is past the canon timeline's usual endpoints (576 / 591 CY).
 - [ ] **"characters of the Common era" (Part 12):** reads as a wink at player characters. Keep, or "travelers of the Common Year"?
 - [ ] **"straddled and bound" (Part 13):** the dancer is carried "straddled and bound". Did you mean "swaddled" (wrapped), or "slung"?
-- [ ] **Elven witch knights (Parts 13–14):** lowercased as a role. Mercoles writes "Witch knights" every time, which suggests a named order. Capitalize as "Witch Knights" throughout?
+- [ ] **Elven witch knights (Parts 13–14):** lowercased as a role. Mecoles writes "Witch knights" every time, which suggests a named order. Capitalize as "Witch Knights" throughout?
 - [ ] **New names to track (Part 13):** Dwurin Sourshadow; Fairfeather (high elven town near the Fals River, ≈ modern Mitrik, Veluna); Gollendi Fairfeather, elf lord; brain moles used by elves.
 - [ ] **New names to track (Part 14):** *The Book of Trank* (Roman-numeral chapters and verses, unlike *The Book of the Sombre*); illithid Selectors (brain cultivators who guard the slave pens); the witch knights' mystical baths.
 - [x] **Breed names (Part 15):** the "block-whites" are the Suel line (ruled 2026-10-24, via Part 21). "Systematic brights" still unassigned.
@@ -76,18 +77,18 @@ Back to [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon T
 - [x] **Corellon's pronoun:** ruled 2026-10-24: Corellon is "they" throughout. Part 16 kept as written; Part 7 "Corellon and his company" → "their company". ✅ Applied 2026-10-24.
 - [x] **"the especial blend" (Part 16):** ruled 2026-10-24: a description, not a breed name. Kept lowercase as written.
 - [x] **"West of Celene" (Part 18):** ruled 2026-10-24 → "East of Celene". ✅ Applied 2026-10-24.
-- [x] **Serial comma:** ruled 2026-10-24: keep Mercoles' own usage; the house serial comma does not apply to this history.
+- [x] **Serial comma:** ruled 2026-10-24: keep Mecoles' own usage; the house serial comma does not apply to this history.
 - [ ] **New names to track (Part 18):** the grey elven **Celenians** (Wild Coast, Celene, the Ulek states, the Pomarj, the Duchy of Urnst, the future Bright Desert) and the high elven **Blemu lands** (Adri and Grandwood as one forest, the future Great Kingdom); an older, larger Silverwood (Hornwood, the Dim, Oytwood, Axewood, Dreadwood); Krynn added to the worlds reached by gate. A map of the two empires would help later books.
 - [x] **"Fharun humans" (Part 19):** ruled 2026-10-24: the echo of Toril's Faerûn is intended. Capitalized as a people-name.
 - [x] **Druidism capitalization (Part 19):** ruled 2026-10-24: lowercase (druidism, druids, rangers), as applied.
-- [ ] **Ierendi (Part 19):** canon Mystara's Ierendi lies off Mystara's *south* coast; here "off the southwest coast". Fine for Mercoles' world, noting only.
+- [ ] **Ierendi (Part 19):** canon Mystara's Ierendi lies off Mystara's *south* coast; here "off the southwest coast". Fine for Mecoles' world, noting only.
 - [x] **The western rainforest (Part 20):** ruled 2026-10-24: not the Amedio. It is a crossover from Kara-Tur, kept southwest of the Hellfurnaces as written.
 - [ ] **New names to track (Part 20):** the Kara-Turan elves (tall; violet, pink, blue, white or brown hair; silvery eyes); tengu (hunter-gatherers) and kenku (farmers, city builders) in what is now Shou Lung; the new elven nation in Western Oerik (unnamed so far).
 - [x] **"Singing ones" vs "the Lowly Ones" (Part 21):** ruled 2026-10-24 → "Singing Ones" (both uses). ✅ Applied 2026-10-24.
 - [x] **The Lowly Ones and the Suel (Part 21):** ruled 2026-10-24: yes. The Lowly Ones are the ancestors of the Suel, descended from Gybex's albino "block-whites" (Part 15). Later books link them.
 - [ ] **New names to track (Part 21):** the Singing ones (Kara-Turan elves with silvery eyes, skin and hair; singers) in the southwest basin; the Lowly Ones (human thralls; elvish word meaning insect, spider or worm); mines in the mountains to the south.
 - [x] **The Thytan peoples (Part 22):** ruled 2026-10-24 (provisional, "yes, I think so"): the Thytans are the illithids' "especial blend" (Part 16) and the ancestors of the Baklunish. Added to Lineages.
-- [x] **Wubli Range / Wubli Mountains (Part 22):** ruled 2026-10-24: the same range. Both forms kept as Mercoles wrote them.
+- [x] **Wubli Range / Wubli Mountains (Part 22):** ruled 2026-10-24: the same range. Both forms kept as Mecoles wrote them.
 - [ ] **New names to track (Part 22):** the Singing Lands; the Pambia Nations (northern barbarian clans); the Vaati / Wind Dukes in the Northlands lake country (canon: the Wind Dukes of Aaqa); the Thytan peoples; the Infinite (dragon-empire relic at Western Oerik's northern tip, where Bahamut counsels); thri-kreen (a Dark Sun crossover) in the far west; the Celestial Ocean between Oerik and Kara-Tur.
 - [ ] **New names to track (Part 23):** Mai (a unified human nation in northern Hepmonaland); MaiYuan (a trading empire of Mai and the Kara-Turan peoples, ruled by a committee, with semi-autonomous districts); Alfheim on Mystara (a canon Mystara elven realm); Celene's tree-cities.
 - [x] **Blemu Confederation:** ruled 2026-10-24: capitalized as a name. Part 19 "loose Blemu confederation" → "loose Blemu Confederation". ✅ Applied 2026-10-24.
