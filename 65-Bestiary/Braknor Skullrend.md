@@ -30,7 +30,7 @@ art_splash: todo
 
 *Created by **GrimmGrixis**, Writers Guild.*
 
-> [!art]+ Plate
+> [!info]+ Plate
 > ![[99-Assets/SP-BST-01/plates/Braknor Skullrend.png|360]]
 
 > [!art]- Splash (full page)
