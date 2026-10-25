@@ -29,6 +29,21 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 75]] | Gnomes and dwarves; Garl Glittergold; the svirfneblin reach the Underdark | 448 SD | copyedited |
+| [[Book 1 — Part 76]] | The duergar | 456 SD | copyedited |
+| [[Book 1 — Part 77]] | The duergar reach the Overlight; Gruumsh; Regent Silvervein | 459 SD | copyedited |
+| [[Book 1 — Part 72]] | Norebo's death; Ye'Cind as a shade | (c. 317 SD) | copyedited |
+| [[Book 1 — Part 73]] | The Thel Norusti civil war; the Oathers revere Norebo | (c. 317 SD) | copyedited |
+| [[Book 1 — Part 74]] | The Thytic peoples: Urbanites and Rovers; the Bakluns | 412 SD | copyedited |
+| [[Book 1 — Part 69]] | The Rod locked away; Flan settle Kodge Land and Mystara | 240 SD | copyedited |
+| [[Book 1 — Part 70]] | The Conglomerate and the Thel Norusti | 313 SD | copyedited |
+| [[Book 1 — Part 71]] | Norebo's luck poem | 317 SD | copyedited |
+| [[Book 1 — Part 66]] | Syrul unites the Suel; the jann conquered | 202–208 SD | copyedited |
+| [[Book 1 — Part 67]] | The Wind Dukes' embassy | 209 SD | copyedited |
+| [[Book 1 — Part 68]] | Sephar's Rod against Syrul's Whip | 209 SD | copyedited |
+| [[Book 1 — Part 63]] | The cursed recorder; the Month of the Rising Lammasu | (c. 202 SD) | copyedited |
+| [[Book 1 — Part 64]] | Ye'Cind reveals Syrul as the Goddess | (c. 202 SD) | copyedited |
+| [[Book 1 — Part 65]] | Syrul's visions; Thurnfedge V destroyed | (c. 202 SD) | copyedited |
 | [[Book 1 — Part 60]] | Ye'Cind's recorder at the Shady Satyr | (c. 202 SD) | copyedited |
 | [[Book 1 — Part 61]] | Molog's invasion; Norebo meets Ye'Cind | (c. 202 SD) | copyedited |
 | [[Book 1 — Part 62]] | The Goddess of the Papacy | (c. 202 SD) | copyedited |
