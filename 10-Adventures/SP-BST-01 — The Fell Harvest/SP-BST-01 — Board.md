@@ -21,6 +21,8 @@ publish: false
 - [x] New, remix, and folklore pass: 8 creatures at `drafted`
 - [x] Front matter: Introduction and Reading an Entry
 - [x] Appendices generated: by Challenge, by Environment
+- [x] Minions & Roles chapter: 7 role templates + minion rules + 7 worked minions (FGU-ready)
+- [ ] Tag every bestiary creature with its role (`role:` frontmatter) and add a by-role table
 - [ ] Next batch of creatures pitched and chosen
 
 

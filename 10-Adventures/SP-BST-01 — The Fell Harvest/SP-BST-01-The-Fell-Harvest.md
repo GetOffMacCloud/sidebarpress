@@ -34,9 +34,11 @@ tags: [bestiary, monsters, 2014-5e, homebrew]
 ## Contents
 - **Bestiary** (`section: bestiary`): 55 kinds of creature and the Bone Beast Template. There are 12 harvested from our adventures, 2 new, 2 remixes, and 4 folklore creatures; the other 35 were contributed by GrimmGrixis.
 - **Rogues' Gallery** (`section: rogues-gallery`, opener [[03 — Rogues' Gallery]]): 23 named villains, all by GrimmGrixis, including six chromatic dragons, the three Echo Sisters, the Marrowmother, and the Gluttonwretch.
+- **Minions & Roles** (`section: minions-roles`, opener [[04 — Minions & Roles]] at 7000, role notes 7010–7070): seven role templates, the Minion Template and Minion Table, and one worked FGU-ready minion per role.
 - Full lists, with CR, type, origin, and section: [[90 — Creatures by Challenge]] and [[91 — Creatures by Environment]].
 
 ## Decisions
+- 2026-10-25: **Minions & Roles chapter** (Greybeard). Roles: brute, enforcer, skirmisher, artillery, controller, lurker, leader, each both a role template for full creatures and a minion version. Minions are 4e-style: 1 hp, fixed damage at about 40% of the CR's DPR band, XP at one quarter of base CR, and every four count as one creature for the multiplier.
 - 2026-10-24: Title is **The Fell Harvest**, subtitle *A Bestiary of Hunger, Horror & Ruin* (Greybeard chose it from a dark-and-grim shortlist).
 - 2026-10-24: Batch 2: 57 GrimmGrixis statblocks from `Downloads/Monster Unload` (Haltorix was already in as the Pale Chimera). Greybeard's rulings: credit all to GrimmGrixis; full entries now; **CR policy: keep the stated CR if the math is within 1, re-rate if it's off by 2 or more**, fixing internal arithmetic either way; named individuals go in a **Rogues' Gallery** chapter, and WotC-specific names become generic epithets (Tiamat → the Dragon Queen; Yeenoghu → the Ravening Lord; Ravnica and guild references removed). Every entry carries a changes table and CR working. The writer's brief is [[Bestiary-Entry-Brief]].
 - 2026-10-24: The Gluttonwretch moved to the Rogues' Gallery.

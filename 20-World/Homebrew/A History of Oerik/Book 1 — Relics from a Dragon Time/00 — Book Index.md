@@ -29,6 +29,16 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 94]] | Shapeshifters; the Ur-Flan of the Sepia Uplands | 511 SD | copyedited |
+| [[Book 1 — Part 95]] | The druids and the Circle of Existence | 511 SD | copyedited |
+| [[Book 1 — Part 96]] | The druids corrupted: the first lycanthropes | 511–520 SD | copyedited |
+| [[Book 1 — Part 91]] | Pious resigns; captured by the Singing Ones | (after 473 SD) | copyedited |
+| [[Book 1 — Part 92]] | The Suel cities and the Seven Families; the Ranger-Knights | 500 SD | copyedited |
+| [[Book 1 — Part 93]] | The Pyanor of northwest Oerik | (c. 500 SD) | copyedited |
+| [[Book 1 — Part 87]] | Druzz ambushes the sortie; Turiziz demands submission | (c. 468–469 SD) | copyedited |
+| [[Book 1 — Part 88]] | "War it be"; Ironcheek and Copperhelm | (c. 469 SD) | copyedited |
+| [[Book 1 — Part 89]] | Failed missions; Pious's headaches | (c. 469–473 SD) | copyedited |
+| [[Book 1 — Part 90]] | War across the dwarf realms; news from Toril | 473 SD | copyedited |
 | [[Book 1 — Part 84]] | Silvervein slain; Pious takes the Fierce Axe | (winter 465 SD) | copyedited |
 | [[Book 1 — Part 85]] | Pious as steward; Loyalists fight on; Rockhome independent; King Druzz | 466 SD | copyedited |
 | [[Book 1 — Part 86]] | The duergar steal the Fierce Axe | 468 SD | copyedited |

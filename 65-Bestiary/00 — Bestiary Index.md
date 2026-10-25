@@ -6,7 +6,7 @@ publish_order: 0
 publish: false
 longform:
   format: scenes
-  title: "The Fell Harvest"
+  title: The Fell Harvest
   workflow: Default Workflow
   sceneFolder: /
   scenes:
@@ -68,30 +68,38 @@ longform:
     - Viper Guardian
     - Wicker Colossus
     - Wolpertinger
-    - 03 — Rogues' Gallery
+    - "03 — Rogues' Gallery"
     - Braknor Skullrend
     - Dorukai Thunderclub
     - Drevnar Soulreaver
     - The Endless Howl
     - Eylandra Stormchant
-    - Glazryth, the Pale Terror
+    - "Glazryth, the Pale Terror"
     - Gluttonwretch
     - Gorzak the Flaymaster
     - Grakh Unscarred
     - The Marrowmother
-    - Mortenia's Echo, the Silent Sister
+    - "Mortenia's Echo, the Silent Sister"
     - The Ninefold Voice
-    - Saiyora's Echo, the Iron Sister
-    - Sister Amarantha Wick, The Bell-Keeper
-    - Sorrowbay, the Chained Sire
-    - Sylvarith, the Venomous Wyrm
-    - Tharazul, the Desert Storm
-    - Velka's Echo, the Veiled Sister
-    - Vespera Pixiecoil, the Prism-Coiled
-    - Vyrathax, the Crimson Tyrant
-    - Zarathryx, Champion of the Queen
+    - "Saiyora's Echo, the Iron Sister"
+    - "Sister Amarantha Wick, The Bell-Keeper"
+    - "Sorrowbay, the Chained Sire"
+    - "Sylvarith, the Venomous Wyrm"
+    - "Tharazul, the Desert Storm"
+    - "Velka's Echo, the Veiled Sister"
+    - "Vespera Pixiecoil, the Prism-Coiled"
+    - "Vyrathax, the Crimson Tyrant"
+    - "Zarathryx, Champion of the Queen"
     - Zhulkar Boneweaver
-    - Zykryss, the Shadowed Doom
+    - "Zykryss, the Shadowed Doom"
+    - 04 — Minions & Roles
+    - Role — Brute
+    - Role — Enforcer
+    - Role — Skirmisher
+    - Role — Artillery
+    - Role — Controller
+    - Role — Lurker
+    - Role — Leader
     - 90 — Creatures by Challenge
     - 91 — Creatures by Environment
   ignoredFiles:
