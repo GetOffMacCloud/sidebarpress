@@ -14,16 +14,16 @@ Raw, unedited files in `_raw/`: `oerik-facebook-capture-2026-10-25.json` (the me
 
 | Book | Parts on file | Highest part | Still missing |
 |---|---|---|---|
-| Book 1 | 257 | 389 | 132 |
+| Book 1 | 277 | 389 | 111 |
 | Book 2 | 147 | 220 | 73 |
 | Book 3 | 78 | 83 | 5 |
 
 ## Missing parts (as of 2026-10-25)
 
-Book 1 has **no Part 100** (Greybeard, 2026-10-25). Parts 87–90 and 97–99 were recovered in `oerik-facebook-supplement-2.json`.
+Book 1 has **no Part 100** (Greybeard, 2026-10-25). Parts 87–90 and 97–99 were recovered in `oerik-facebook-supplement-2.json`; Parts 114–115, 117–119, 121–122 and 132–137 in `oerik-facebook-supplement-3.json`.
 
 
-- **Book 1:** 114–115, 117–119, 121–122, 132–137, 155–156, 158–170, 181–182, 184, 196–199, 204–215, 228–230, 242–246, 250–251, 253–262, 271–287, 289–290, 292–305, 318–321, 334–336, 338–339, 347–360, 373
+- **Book 1:** 155–156, 158–170, 181–182, 184, 196–199, 204–215, 228–230, 242–246, 250–251, 253–262, 271–287, 289–290, 292–305, 318–321, 334–336, 338–339, 347–360, 373
 - **Book 2:** 2–4, 14, 26–27, 29–36, 39, 41–47, 58–59, 68–86, 99–100, 102, 109, 112–119, 130–138, 165–168, 187, 212–215
 - **Book 3:** 8, 24, 46, 51, 53
 

@@ -29,6 +29,23 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 148]] | Heward plans the theft; the Moonstone of Bahamut; Cragdelve | (753 SD) | copyedited |
+| [[Book 1 — Part 149]] | Gaxx's plan; Caowyn the spy | (753 SD) | copyedited |
+| [[Book 1 — Part 150]] | The false ring; Kavoss and Hucephelus | (753 SD) | copyedited |
+| [[Book 1 — Part 151]] | Kavoss breaks into Fey | (753 SD) | copyedited |
+| [[Book 1 — Part 152]] | Through the mirror; Kavoss stranded in Hepmonaland | (753 SD) | copyedited |
+| [[Book 1 — Part 153]] | Aftermath of the giant wars; Heward and Lathia in the Adri | 753–768 SD | copyedited |
+| [[Book 1 — Part 154]] | Lolth and Miska sent to the Hool highlands | 769 SD | copyedited |
+| [[Book 1 — Part 138]] | The glowing elves in the Good Hills | 753 SD | copyedited |
+| [[Book 1 — Part 139]] | Phizzat the Ur-Flan interrogates the captive | (753 SD) | copyedited |
+| [[Book 1 — Part 140]] | Caowin and the fomorians | (753 SD) | copyedited |
+| [[Book 1 — Part 141]] | Lord Dueillig: she is a Tuatha de Dannan | (753 SD) | copyedited |
+| [[Book 1 — Part 142]] | The Thornspikes; the cloud giants attack | (753 SD) | copyedited |
+| [[Book 1 — Part 143]] | The Battle of the Cloud Giants; Kavoss the Cyclops arrives | (753 SD) | copyedited |
+| [[Book 1 — Part 144]] | Fire and frost giants in the Crystalmists; Phizzat scries Heward | (753 SD) | copyedited |
+| [[Book 1 — Part 145]] | Heward in Fey; the Extravaganza; Gaxx and Gumish | (753 SD) | copyedited |
+| [[Book 1 — Part 146]] | The horrids of the Unseelie | (753 SD) | copyedited |
+| [[Book 1 — Part 147]] | The feast; Gaxx's ring | (753 SD) | copyedited |
 | [[Book 1 — Part 132]] | The Ierendi court hears of Blibdoolpoolp | (720 SD) | copyedited |
 | [[Book 1 — Part 133]] | The krakens wake; the Black Pearl finds her people | (the Dragon Time onward) | copyedited |
 | [[Book 1 — Part 134]] | The Black Pearl becomes Blibdoolpoolp; Sekolah strikes | (715–720 SD) | copyedited |
