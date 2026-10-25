@@ -29,7 +29,7 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
-| [[Book 1 — Part 4]] | Dwur! | −12,000 SD | copyedited |
+| [[Book 1 — Part 4]] | Dwur! | −6,000 SD | copyedited |
 | [[Book 1 — Part 5]] | Oerth | (undated) | copyedited |
 | [[Book 1 — Part 6]] | epigraph: Moradin, *Book of the Sombre* 13:7 | Moradin born c. 11,500 years ago | copyedited |
 | [[Book 1 — Part 7]] | epigraph: Dwulf the Prophet, *Book of the Sombre* 17:11 | c. 60 years of war, then the truce | copyedited |
@@ -51,3 +51,7 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 23]] | MaiYuan; the elven cities | the following few thousand years | copyedited |
 | [[Book 1 — Part 24]] | Win-Daled and Ye'Cind | −53 SD (≈ −5,568 CY) | copyedited |
 | [[Book 1 — Part 25]] | Blemu; the murder of Esmir's wife | c. −49 SD (Win-Daled about four) | copyedited |
+| [[Book 1 — Part 26]] | Demons; Iona and the Whip Lady | −42 SD | copyedited |
+| [[Book 1 — Part 27]] | Esmir's return; the temple | −42 SD | copyedited |
+| [[Book 1 — Part 28]] | Dweomyne's childhood and the succubus | (before −42 SD) | copyedited |
+| [[Book 1 — Part 29]] | Esmir and Gal-Lek executed; the girls' pact | −42 SD | copyedited |

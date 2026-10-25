@@ -4,14 +4,14 @@ series: "A History of Oerik"
 book: 1
 part: 4
 author: "Damien Mecoles"
-date_sd: -12000
+date_sd: -6000
 status: copyedited
 publish: true
 publish_order: 40
 ---
 ## Part 4
 
-### Dwur! — −12,000 SD
+### Dwur! — −6,000 SD
 
 Dwarves were stupid!
 
