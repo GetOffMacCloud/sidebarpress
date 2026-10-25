@@ -92,14 +92,14 @@ longform:
     - "Zarathryx, Champion of the Queen"
     - Zhulkar Boneweaver
     - "Zykryss, the Shadowed Doom"
-    - 04 — Minions & Roles
-    - Role — Brute
-    - Role — Enforcer
-    - Role — Skirmisher
-    - Role — Artillery
-    - Role — Controller
-    - Role — Lurker
-    - Role — Leader
+    - 04 — Minions
+    - Brute Minion
+    - Enforcer Minion
+    - Skirmisher Minion
+    - Artillery Minion
+    - Controller Minion
+    - Lurker Minion
+    - Leader Minion
     - 90 — Creatures by Challenge
     - 91 — Creatures by Environment
   ignoredFiles:

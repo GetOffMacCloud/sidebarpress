@@ -15,7 +15,7 @@ The creatures share a mood. They are country horrors and threshold things: barga
 
 ## What's Inside
 - **The Bestiary:** fifty-five kinds of creature and one template, from CR 0 to CR 15, in alphabetical order.
-- **Minions & Roles:** seven role templates (brute, enforcer, skirmisher, artillery, controller, lurker, leader) that turn any statblock into a creature with a clear job, plus 1-hit-point **minions** for every role, with a quick-build table from CR 1/4 to 17.
+- **Minions:** seven minion templates (brute, enforcer, skirmisher, artillery, controller, lurker, leader) that turn any statblock into a pack of 1-hit-point minions built to the party's level, with a Minion Table for APL 1–20.
 - **The Rogues' Gallery:** twenty-three named villains, from CR 4 to CR 23, each one a ready-made campaign antagonist.
 - **Harvested** creatures, rebuilt from Sidebar Press adventures and verified against the *Dungeon Master's Guide*.
 - **New** creatures and **remixes** of classic monsters.
