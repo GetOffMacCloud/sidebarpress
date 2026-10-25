@@ -74,9 +74,9 @@ What the party can take from it, if anything.
 - [[SP-XXX-NN-Title]] — scene, role
 
 ## Art Prompt
-Style spine: see [[00 — Bestiary Index#Art Style Spine]].
+Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine). Describe the creature alone with only the ground it stands on, and write colors as ink values or patterns.
 ```
-<subject>, <style spine> --ar 3:4 --v 8.1 --style raw --seed 26500
+<subject>, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

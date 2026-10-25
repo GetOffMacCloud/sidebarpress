@@ -113,7 +113,7 @@ Her habit carries 113 small iron bells. Strung across a doorway, they ring for a
 
 ## Art Prompt
 ```
-A gaunt undead nun in a long grave-dirt-stained habit sewn all over with hundreds of tiny iron bells, a coil of knotted bell rope over one shoulder and a short iron spade in one hand, her face pale and patient under a dark wimple, standing among leaning headstones with a small iron bell on a post above each grave, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A gaunt undead nun in a long grave-stained habit sewn all over with hundreds of tiny iron bells, a coil of knotted bell rope over one shoulder and a short iron spade in one hand, her face pale and patient under a dark wimple, one small iron bell on a post beside her, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

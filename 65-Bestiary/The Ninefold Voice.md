@@ -124,7 +124,7 @@ Statblock unchanged apart from house formatting and the fixes below.
 
 ## Art Prompt
 ```
-A giant grey-and-black shrike, a songbird grown to monstrous size, with a hooked raptor's beak, a black bandit mask across its eyes, and long barred wing feathers, perched in a vast black thorn tree whose long thorns hold the wrapped shapes of carcasses, its beak half open as if calling, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A giant shrike, a songbird grown to monstrous size, with a hooked raptor's beak, a bold black bandit mask across its eyes and long barred wing feathers, perched on a single black thorn branch hung with a wrapped carcass, its beak half open as if calling, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

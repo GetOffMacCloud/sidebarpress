@@ -101,7 +101,7 @@ Heartwood from a harvest lord is a rare material (worth 500 gp to a druid or a w
 
 ## Art Prompt
 ```
-An enormous ancient tree the color of old bleached bone rooted in a pit beneath the floor of a vast timber barn, its crown lost among the rafters, a vast weathered face in the trunk, wheat stalks growing from its bark, roots running across a threshing floor, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+An enormous ancient tree drawn with pale bleached bark, a vast weathered face in its trunk, wheat stalks sprouting from its bark, thick roots spreading across a small patch of threshing floor, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

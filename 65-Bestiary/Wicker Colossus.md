@@ -91,7 +91,7 @@ The colossus's lantern-heart, an iron cage holding a coal that never goes out, w
 
 ## Art Prompt
 ```
-A towering thirty-foot giant woven from willow withies and bound wheat sheaves, striding across a stubble field at dusk, a barred wicker cage in its chest holding a burning lantern and the shadow of a trapped figure, plaited wheat for hands, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A towering giant woven from willow withies and bound wheat sheaves, striding forward, a barred wicker cage in its chest holding a burning lantern and the shadow of a trapped figure, plaited wheat for hands, a few cut sheaves at its feet, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

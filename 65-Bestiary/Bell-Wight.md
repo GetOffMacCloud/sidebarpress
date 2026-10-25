@@ -82,7 +82,7 @@ The bell itself. A sanctified bell (blessed after the wight is destroyed) acts a
 
 ## Art Prompt
 ```
-A gaunt dead bell-ringer in a sexton's rotted cassock hanging head-down from frayed bell-ropes inside a dark belfry, rope burns black at his throat, a great bronze bell swinging above him in mid-toll, his hands still gripping the sallies, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A gaunt dead bell-ringer in a sexton's rotted cassock hanging head-down from frayed bell-ropes, rope burns at his throat, a great dark bell swinging above him in mid-toll, his hands still gripping the rope sallies, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

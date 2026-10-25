@@ -158,13 +158,13 @@ SORT creature ASC
 
 ## Art Style Spine
 
-Paste this into every creature prompt so the plates read as one book:
+**House style:** classic black-and-white pen-and-ink (see [[Art-Style-Guide]]). Every creature plate is a spot illustration: one creature on bare white, with a small solid black cast shadow. Each note's Art Prompt already ends with the PLATE spine:
 
-> *naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text*
+> *classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm*
 
-- **Size:** `--ar 3:4` for a creature plate (half column, 900 × 1200). Use `--ar 1:3` only for a full-column chapter opener.
-- **Seed:** `--seed 26500` for the whole book. Add `--sref` from the first approved plate once it exists.
-- **Avoid:** heroic posing, glowing magic, gore, busy backgrounds, and modern faces.
+- **Tail:** `--ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark`. Add `--sref` from our first approved plate once it's locked.
+- **Print:** convert to 1-bit black and white at 600 dpi before placing.
+- Production tracking lives in [[SP-BST-01 — Art Brief]].
 
 ## Entry Checklist (every creature)
 - [ ] One-line read-aloud (≤25 words)

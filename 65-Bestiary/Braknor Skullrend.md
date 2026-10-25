@@ -114,7 +114,7 @@ Braknor's **infernal greataxe** is a +1 greataxe that deals an extra 1d6 fire da
 
 ## Art Prompt
 ```
-A towering horned fiend with a bull-like head and scarred dark red hide, heavy curved horns chipped from charging, a massive greataxe with an ember-glowing edge dripping sparks, a belt hung with split skulls, standing at the end of a stone labyrinth corridor, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A towering horned fiend with a bull-like head and scarred hide drawn in dense black hatching, heavy curved horns chipped from charging, a massive greataxe with a jagged edge throwing sparks, a belt hung with split skulls, standing braced on a few broken flagstones, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

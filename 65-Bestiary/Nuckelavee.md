@@ -94,7 +94,7 @@ None from the creature, which dissolves into stinking foam when it is destroyed.
 
 ## Art Prompt
 ```
-A skinless horse rising from grey surf onto a stony northern beach, a rider fused to its back with no skin either, the rider's oversized head lolling, arms long enough to drag on the shingle, dark veins visible across raw red muscle, a single fiery eye in the horse's head, kelp-fires smoking on the shore behind, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A skinless horse striding out of the surf with a rider fused to its back, the rider's oversized head lolling, arms long enough to drag on the shingle, every muscle and vein drawn in dense contour hatching, a single blazing eye in the horse's head, a strip of stony beach underfoot, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

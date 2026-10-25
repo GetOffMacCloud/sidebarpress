@@ -134,7 +134,7 @@ Zarathryx's two-colored hide yields one suit of *dragon scale mail*; the smith c
 
 ## Art Prompt
 ```
-A massive horned dragon standing before a war-camp of five-colored banners, its scales deep crimson along one flank and storm-blue along the other, meeting in a jagged seam down its spine, flame curling from one side of its jaws and lightning crackling from the other, its head lowered as if addressing someone, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A massive horned dragon, its scales solid black along one flank and white-hatched along the other, meeting in a jagged seam down its spine, flame curling from one side of its jaws and jagged lightning from the other, its head lowered as if addressing someone, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

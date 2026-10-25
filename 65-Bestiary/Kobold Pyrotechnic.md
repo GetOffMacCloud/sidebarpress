@@ -118,7 +118,7 @@ The submitted block has no darkvision, unlike every other kobold in the crew, th
 
 ## Art Prompt
 ```
-A small soot-blackened kobold with singed whiskers and squinting, milky eyes, wearing a scorched leather apron, a lumpy pack bristling with paper-and-reed firework tubes on its back, holding a lit tube that sprays green and gold sparks, a dagger tucked in its belt, mouth open in a whoop, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A small soot-blackened kobold with singed whiskers and squinting milky eyes, wearing a scorched leather apron, a lumpy pack bristling with paper-and-reed firework tubes, holding a lit tube spraying a starburst of white sparks, mouth open in a whoop, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

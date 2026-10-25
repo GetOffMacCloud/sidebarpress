@@ -93,7 +93,7 @@ A maulbone's club of fused femurs can be pried loose and used as a greatclub. It
 
 ## Art Prompt
 ```
-A hulking bear-sized undead creature on short thick legs, built from an ox and bear skeleton stitched together with grey silk, one forearm replaced by a huge knotted club of fused human and animal thigh bones, plates of bone over its back, dragging a broad furrow behind it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A hulking bear-sized undead creature on short thick legs, built from an ox and bear skeleton lashed together with cord, one forearm replaced by a huge knotted club of fused thigh bones, plates of bone over its back, dragging a furrow in the ground behind it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

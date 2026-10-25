@@ -83,7 +83,7 @@ A wolpertinger's antlers (worth 5 gp) are prized as good-luck charms. A live wol
 
 ## Art Prompt
 ```
-A brown mountain hare sitting upright in a moonlit alpine clearing, small forked roebuck antlers on its head, speckled pheasant wings folded at its sides, two little fangs showing in a knowing grin, pine trees behind, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A mountain hare sitting upright, small forked roebuck antlers on its head, speckled pheasant wings folded at its sides, two little fangs showing in a knowing grin, a tuft of grass beneath it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

@@ -127,7 +127,7 @@ Glazryth's hide yields enough white scales for one suit of *dragon scale mail* (
 
 ## Art Prompt
 ```
-A huge gaunt white dragon erupting from a crust of snow on a glacier, frost smoking off its jagged pale scales, a broad frilled crest and icicles hanging from its jaw, behind it a sheer wall of clear blue ice holding the dim shapes of frozen people standing in a row, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge gaunt white dragon rearing up out of a crust of snow, its jagged scales left mostly plain white with sparse fine hatching, a broad frilled crest, icicles hanging from its jaw, frost smoking off its back, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

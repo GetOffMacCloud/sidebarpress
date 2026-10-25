@@ -117,7 +117,7 @@ All dice averages, bonuses, and the base DC (8 + 4 + Int 4 = 16) check out.
 
 ## Art Prompt
 ```
-A thin, stooped grey humanoid in a tattered scholar's robe, with long many-jointed fingers and a perfectly smooth, featureless face like a blank sheet of vellum, faint pale knots of light glowing beneath the skin of its brow and throat, one hand reaching forward as if to touch a forehead, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A thin stooped humanoid in a tattered scholar's robe, long many-jointed fingers, a perfectly smooth featureless face like a blank sheet of vellum, small knots of white light glowing beneath the skin of its brow and throat, one hand reaching forward as if to touch a forehead, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

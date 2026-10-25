@@ -110,7 +110,7 @@ Gorzak's **Warleader's Spear** is a +1 spear with a 10-foot reach that deals an 
 
 ## Art Prompt
 ```
-A tall gnoll warlord in scorched black plate armor, a hyena's head with a ragged mane and yellow eyes, holding a long barbed spear trailing thin wisps of dark smoke, flayed hides hung like banners from crossed spears behind him, a cloak of stitched leather, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A tall gnoll warlord in scorched black plate armor, a hyena's head with a ragged mane and fierce eyes, holding a long barbed spear trailing thin wisps of smoke, a cloak of stitched hides, two small flayed-hide banners on spears planted beside him, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

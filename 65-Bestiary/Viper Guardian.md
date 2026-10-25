@@ -135,7 +135,7 @@ No IP substitutions; the source block is setting-neutral. The source note came f
 
 ## Art Prompt
 ```
-A colossal serpent thick as a tree trunk rising from the still dark water of a stone-stepped temple cistern, its scales patterned like a carved temple frieze, head raised and cocked as if listening, a small carved green stone glinting behind its fangs, offering cups lined along the wet steps, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A colossal serpent thick as a tree trunk rising in coils from a carved stone step, its scales patterned like a carved temple frieze, head raised and cocked as if listening, a small carved stone glinting behind its fangs, an offering cup on the step beside it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

@@ -106,7 +106,7 @@ The statblock is otherwise unchanged apart from house formatting. The barbed spe
 
 ## Art Prompt
 ```
-A lean orc houndmaster in studded leather armor crouched low between two hairless scar-crossed hounds, a barbed hunting spear in one fist, a weighted rope net coiled over one shoulder, a bone whistle on a cord at its throat, tally-cuts on its forearms that match the scars on the hounds' flanks, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A lean orc houndmaster in studded leather armor crouched low between two hairless scar-crossed hounds, a barbed hunting spear in one fist, a weighted rope net coiled over one shoulder, a bone whistle at its throat, tally-cuts on its forearms matching the scars on the hounds, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

@@ -123,7 +123,7 @@ The serpent head's venom sacs hold 1d4 doses of a potent poison (a DC 18 Constit
 
 ## Art Prompt
 ```
-A huge ash-white chimera crouched on a volcanic ridge, a scarred lion's body with great grey wings, curling goat's horns rising from its brow, a pale serpent for a tail with its head raised to strike, and a sleeping dragon's head folded against its chest with eyes half open, wisps of smoke curling from its jaws, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge ash-pale chimera crouched on a jut of rock, a scarred lion's body with great wings, curling goat's horns rising from its brow, a serpent for a tail with its head raised to strike, and a sleeping dragon's head folded against its chest with eyes half open, wisps of smoke curling from its jaws, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

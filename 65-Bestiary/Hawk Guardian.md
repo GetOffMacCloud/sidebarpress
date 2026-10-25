@@ -124,7 +124,7 @@ No IP substitutions; the source block is setting-neutral. The source note came f
 
 ## Art Prompt
 ```
-A huge rust-and-white banded hawk the size of a horse, perched on the broken crown of a vine-choked stepped stone temple, wings half raised, red cord braided around its talons, a small carved green stone set at its throat, fierce amber eyes, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge banded hawk the size of a horse, its feathers barred in bold black-and-white bands, perched on a single broken carved stone block, wings half raised, braided cord wound around its talons, a small carved stone set at its throat, fierce eyes, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

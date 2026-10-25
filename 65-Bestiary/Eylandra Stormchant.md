@@ -149,7 +149,7 @@ Eylandra's **coral armor** functions as half plate that doesn't give disadvantag
 
 ## Art Prompt
 ```
-A merfolk storm-priestess with a long scaled tail the color of deep slate water, rising on a spinning column of churning seawater above a wave-battered reef, wearing armor of grown pale coral, long dark hair whipping in the wind, arms raised to a low storm sky, thin threads of lightning crawling over the wet coral and the surface of the sea around her, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A merfolk storm-priestess with a long scaled tail, rising on a spinning column of churning seawater, wearing armor of grown coral, long dark hair whipping in the wind, arms raised, jagged white threads of lightning crawling over the coral, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

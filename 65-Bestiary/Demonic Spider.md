@@ -112,7 +112,7 @@ A demonic spider's venom glands hold 1d4 doses of its poison (a DC 15 Constituti
 
 ## Art Prompt
 ```
-A huge black spider with a scorched, ember-veined carapace and a cluster of glowing red eyes, long jointed legs ending in hooked talons, hanging from a vast web whose strands glow like hot wire and smolder at the edges, burned silk cocoons dangling around it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge spider with a scorched carapace veined in fine white cracks and a cluster of gleaming eyes, long jointed legs ending in hooked talons, hanging from a few strands of smoldering web, two burned silk cocoons dangling beside it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import

@@ -129,7 +129,7 @@ No numbers changed. The Notes section is folded into the statblock, and some wor
 
 ## Art Prompt
 ```
-A thin kobold with burn-scarred blue-grey scales bent under a heavy backpack of copper coils, glass capacitor jars, and tangled wire, a riveted scrap harness over its chest, a two-pronged spark prod in one hand, faint blue sparks crawling along its whiskers and fingertips, its eyes wide and gleeful, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A thin kobold with burn-scarred scales bent under a heavy backpack of metal coils, glass capacitor jars and tangled wire, a riveted scrap harness over its chest, a two-pronged spark prod in one hand, jagged white sparks crawling along its whiskers and fingertips, eyes wide and gleeful, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 ## FGU Import
