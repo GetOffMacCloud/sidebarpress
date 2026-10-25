@@ -29,6 +29,15 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 155]] | Lolth and Miska in the Hool highlands | (769 SD) | copyedited |
+| [[Book 1 — Part 156]] | Miska the Barbarian becomes a god; Lolth in the Hool Marshes | (769 SD) | copyedited |
+| [[Book 1 — Part 157]] | The siblings fight; the Queen of Chaos summoned | 770 SD | copyedited |
+| [[Book 1 — Part 158]] | The Queen imprisons her children; Nerull and Incabulos | (770 SD) | copyedited |
+| [[Book 1 — Part 159]] | The boys at the Cave of Gods; the Scroll stirs | (770 SD) | copyedited |
+| [[Book 1 — Part 160]] | Lolth the Enforcer; Nerull's captive wizard | 774 SD | copyedited |
+| [[Book 1 — Part 161]] | Jento the Ur-Flan teaches Nerull and Incabulos | 774–776 SD | copyedited |
+| [[Book 1 — Part 162]] | The Queen leaves for Pesh; the boys find the Scroll | 777 SD | copyedited |
+| [[Book 1 — Part 163]] | The Scroll of Vile Darkness chooses Nerull | (777 SD) | copyedited |
 | [[Book 1 — Part 148]] | Heward plans the theft; the Moonstone of Bahamut; Cragdelve | (753 SD) | copyedited |
 | [[Book 1 — Part 149]] | Gaxx's plan; Caowyn the spy | (753 SD) | copyedited |
 | [[Book 1 — Part 150]] | The false ring; Kavoss and Hucephelus | (753 SD) | copyedited |
