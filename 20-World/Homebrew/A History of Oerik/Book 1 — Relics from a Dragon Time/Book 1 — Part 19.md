@@ -20,7 +20,7 @@ The elves caught up in this situation had the choice of abandoning their new fam
 
 Many voluntarily exiled themselves to the island of Ierendi, which lay across the Solnor Sea off the southwest coast of Mystara.
 
-Over subsequent centuries, the elves of the loose Blemu confederation became more benign and helped to "civilize" the "simple ones." Thus, humans in the easternmost parts of Oerik learned metallurgy and agriculture. Some did serve the elves, but many more formed their own small semi-independent nations within Blemu and lived in relative harmony.
+Over subsequent centuries, the elves of the loose Blemu Confederation became more benign and helped to "civilize" the "simple ones." Thus, humans in the easternmost parts of Oerik learned metallurgy and agriculture. Some did serve the elves, but many more formed their own small semi-independent nations within Blemu and lived in relative harmony.
 
 The elves around the Adri and Grandwood were the most helpful to humans on all of Oerik. The fertile lands of what would thousands of years later become the Great Kingdom allowed the human numbers to explode. These elvenkind actually urbanized alongside the Fharun humans, sharing their technology and helping to shape the Fharun understanding of the necessity of balancing nature alongside development.
 

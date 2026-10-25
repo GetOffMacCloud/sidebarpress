@@ -10,10 +10,12 @@ publish: false
 
 Back to [[SP-BST-01-The-Fell-Harvest]] · Index: [[65-Bestiary/00 — Bestiary Index]] · Board: [[SP-BST-01 — Board]]
 
-**What we're making (Greybeard, 2026-10-24):** creature plates (78), villain splashes (23), the cover and three chapter openers (4), and specimen spot art (12), about 117 images. **No tokens are generated.** Greybeard's token maker builds them from the plates, so every plate is composed for it.
+**What we're making (Greybeard, 2026-10-24 and 25):** ink creature plates (78), **color portraits (78)**, villain splashes (23), the cover and three chapter openers (4), and specimen spot art (12), about 195 images. **No tokens are generated.** Greybeard's token maker builds them from the color portraits.
 
-> [!info] One plate does three jobs
-> **Plate** (in the book) → **FGU portrait** (a crop of the plate) → **token** (Greybeard's token maker, fed the plate). Generate each creature once; the portrait and token are crops of that plate.
+> [!info] Two images per creature
+> **Ink plate** (black and white) → **the printed book**.
+> **Color portrait** (stylized game art, light background) → the **FGU portrait** and the **token maker's** source. It's screen-only, so color costs nothing.
+> Both prompts are in each creature's note, under *Art Prompt*.
 
 ---
 
@@ -31,7 +33,8 @@ Back to [[SP-BST-01-The-Fell-Harvest]] · Index: [[65-Bestiary/00 — Bestiary I
 **Locking the look**
 1. Generate the first five plates: [[Straw Double]], [[Bell-Wight]], [[Kikimora]], [[Vyrathax, the Crimson Tyrant]], and [[The Marrowmother]].
 2. Pick the one that best matches the reference samples in `99-Assets/_Style-Reference/` and record its URL here: **`--sref` = ________**. Use only our own render, never the reference samples (they're copyrighted).
-3. Add that `--sref` to every later prompt. Keep `--seed 26500` throughout.
+3. Add that `--sref` to every later ink prompt. Keep `--seed 26500` throughout.
+4. **Color set `--sref`:** do the same for the color portraits, using the first approved color portrait: **`--sref` = ________**. Never mix the two `--sref`s.
 
 **Avoid throughout:** color, grey wash, painterly or digital gloss, photorealism, gore, and busy backgrounds on plates.
 
@@ -41,7 +44,7 @@ Back to [[SP-BST-01-The-Fell-Harvest]] · Index: [[65-Bestiary/00 — Bestiary I
 - The whole creature is in frame, and no part touches the edge.
 - The head and shoulders sit in the **upper middle third**. Your token maker crops there.
 - The background is bare white with nothing behind the head, so the token maker's cutout stays clean.
-- **Huge and serpentine creatures** (the dragons, the Marrowmother, Sylvarith) curl or coil to fit the frame rather than being cropped. These ten have a ready-made **Head study** prompt in their note, under *Art Prompt*, for the FGU portrait and the token: [[Glazryth, the Pale Terror]], [[Sylvarith, the Venomous Wyrm]], [[Tharazul, the Desert Storm]], [[Vyrathax, the Crimson Tyrant]], [[Zarathryx, Champion of the Queen]], [[Zykryss, the Shadowed Doom]], [[The Marrowmother]], [[Viper Guardian]], [[Harvest Lord]], and [[Wicker Colossus]]. Every other creature's portrait is simply a crop of its plate.
+- **Huge and serpentine creatures** (the dragons, the Marrowmother, Sylvarith) curl or coil to fit the frame rather than being cropped. These ten also have an optional **Ink head study** prompt (only needed if you ever want a black-and-white portrait; the color portrait is the FGU portrait) in their note, under *Art Prompt*, for the FGU portrait and the token: [[Glazryth, the Pale Terror]], [[Sylvarith, the Venomous Wyrm]], [[Tharazul, the Desert Storm]], [[Vyrathax, the Crimson Tyrant]], [[Zarathryx, Champion of the Queen]], [[Zykryss, the Shadowed Doom]], [[The Marrowmother]], [[Viper Guardian]], [[Harvest Lord]], and [[Wicker Colossus]]. 
 
 ---
 
@@ -51,7 +54,7 @@ All files go in `99-Assets/SP-BST-01/`. Name every file exactly after the creatu
 | Asset | Prompt `--ar` | Render at | File | Book size (Homebrewery) |
 |---|---|---|---|---|
 | Creature plate | 3:4 | 1,890 × 2,520 (600 dpi, 1-bit) | `plates/<Creature>.png` | `{width:8cm}` (one column) |
-| FGU portrait | crop of the plate | 600 × 800 | `portraits/<Creature> — Portrait.png` | — |
+| FGU color portrait (screen only) | 3:4 | 1,200 × 1,600 color PNG, no 1-bit conversion | `portraits/<Creature> — Portrait.png` | — |
 | Token | from the token maker | 512 × 512, transparent | `tokens/<Creature> — Token.png` | — |
 | Villain splash | 2:3 | 4,015 × 6,020 (600 dpi, 1-bit) | `splashes/<Creature> — Splash.png` | full page, `{width:17cm}` |
 | Chapter opener | 1:3 | 1,890 × 5,670 (600 dpi, 1-bit) | `openers/<Name>.png` | `{width:8cm}`, a full column |
@@ -235,7 +238,7 @@ Small page-end fillers in the classic spot-illustration manner. Spine: *classic 
 ## Workflow per creature
 1. Copy the **Art Prompt** from the creature's note, add the locked `--sref`, and generate.
 2. Upscale, convert to 1-bit black and white at 600 dpi, save as `plates/<Creature>.png`, and set `art_plate: generated`. Set it to `approved` once it's chosen for the book.
-3. Crop the head and shoulders to 600 × 800 → `portraits/…`, and set `portrait: approved`.
-4. Run the plate through the token maker → `tokens/…`, and set `token: approved`.
+3. Copy the **Color portrait** prompt (with the color set's own `--sref`), generate, upscale, and save as `portraits/<Creature> — Portrait.png` in full color. Set `portrait: approved`.
+4. Run the color portrait through the token maker → `tokens/…`, and set `token: approved`.
 5. In FGU, attach the portrait and token to the NPC record (after the FGU Import).
 6. At packaging, embed the plate in the entry with `{width:8cm}` and set `art_plate: placed`.

@@ -24,6 +24,7 @@ Shareable copy of Book 1 (Claude Docs): https://claude.ai/artifact/8CF2h9u5qvKKV
 ## Lineages (series canon)
 - **Suel:** illithid-bred "block-whites" (Book 1, Part 15) → the Lowly Ones, thralls of the Singing Ones in the basin southwest of the Hellfurnaces (Part 21) → the Suel.
 - **Baklunish (provisional):** the illithids' "especial blend" reserves (Book 1, Part 16) → the Thytan peoples, coppery-skinned horse nomads who deserted the illithid elite units and gated to the western side of a long gulf in Western Oerik (Part 22) → the Baklunish.
+- **Not linked:** the Flan (first named in Book 1, Part 25) and the Fharun (Part 19) are separate peoples; the Flan do not descend from the "systematic brights". The brights' descendants are still unassigned.
 
 ## Compiling conventions
 - Light copy edit only: Mercoles' voice and line breaks are kept; typos and spacing are fixed. House American spelling applies, except "grey".

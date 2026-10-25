@@ -72,5 +72,12 @@ Add the product's `--seed`, and its `--sref` once locked. `--style raw` and the 
 4. Sizes at 600 dpi: a column-width plate (8 cm) is 1,890 px wide, and a full page (17 cm) is 4,015 px wide.
 5. FGU portraits and tokens work fine in black and white. Your token maker can add a colored ring if you want one on screen.
 
+## COLOR PORTRAIT — screen only (Greybeard, 2026-10-25)
+Every bestiary creature also gets a **full-color portrait** for the screen. It's the FGU portrait and the source for Greybeard's token maker. It is never printed, so color costs nothing. The style is **stylized game art**: crisp painted digital art, between official 5e book art and video-game character art.
+- **Subject:** the creature in full color, framed head and shoulders: `head and shoulders portrait in three-quarter view, the head in the upper middle of the frame with clear space around it`.
+- **Spine:** `stylized fantasy tabletop RPG creature portrait, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light, strong readable silhouette`
+- **Background:** always light, so the creature reads clearly and the token maker cuts it out cleanly. The default is `on a soft light cream and warm pale grey background with a gentle vignette`. Pale creatures (bone, straw, white or ash scales) use `soft light dusty blue-grey` instead, and glowing or grey creatures can use another light tint (lavender-grey, sage-green).
+- **Tail:** `--ar 3:4 --v 8.1 --stylize 150 --seed 26500 --no text, letters, signature, watermark, frame, border, dark background, black background`. Lock a **separate** `--sref` for the color set from its own first approved portrait. Never mix it with the ink set's `--sref`.
+
 ## Out of scope (screen-only art)
 **VTT battlemap props and Inkarnate custom stamps** stay in their own style. They're never printed, color costs nothing on screen, and black-and-white props would look wrong on a color battlemap. **Covers** are black and white by default. An option worth considering is a monochrome cover: black ink printed on colored cardstock, the classic single-color module cover.

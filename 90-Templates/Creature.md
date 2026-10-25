@@ -82,5 +82,10 @@ Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine). Describe the 
 <subject>, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
+**Color portrait** (screen only: the FGU portrait and the token-maker source). Full color, light background; see [[Art-Style-Guide#COLOR PORTRAIT — screen only (Greybeard, 2026-10-25)]].
+```
+<creature in full color>, head and shoulders portrait in three-quarter view, the head in the upper middle of the frame with clear space around it, stylized fantasy tabletop RPG creature portrait, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light, strong readable silhouette, on a soft light cream and warm pale grey background with a gentle vignette --ar 3:4 --v 8.1 --stylize 150 --seed 26500 --no text, letters, signature, watermark, frame, border, dark background, black background
+```
+
 ## FGU Import
 Generated, never hand-written (the generator also adds the FGU Portrait & Token image callout): after the statblock is final, run `python3 70-Company/Tools/fgu_import.py 65-Bestiary` and this section is rebuilt with paste-ready text for FGU's NPCs → Import Text (mode: 2022 – Monsters of the Multiverse).
