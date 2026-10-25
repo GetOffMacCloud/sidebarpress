@@ -26,6 +26,9 @@ token: todo
 
 *A woman in a cook's apron kneels by the cask and scrubs it. She has been scrubbing it for fifty years. "Getting the sweet out," she says.*
 
+> [!art]+ Plate
+> ![[99-Assets/SP-BST-01/plates/Toiling Haunt.png|360]]
+
 > [!example]+ Toiling Haunt (haunt, no CR)
 > *Medium undead (haunt), unaligned*
 > A toiling haunt is not a creature that can be fought. It is a piece of unfinished work that has outlasted its worker.

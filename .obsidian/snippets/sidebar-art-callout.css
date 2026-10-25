@@ -1,0 +1,19 @@
+/* Sidebar Press: [!art] image callouts on bestiary notes.
+   Centers every image (and its "not found" placeholder) and gives the callout a quiet grey look with an image icon. */
+.callout[data-callout="art"] {
+  --callout-color: 128, 128, 128;
+  --callout-icon: lucide-image;
+}
+.callout[data-callout="art"] .callout-content,
+.callout[data-callout="art"] .callout-content p {
+  text-align: center;
+}
+.callout[data-callout="art"] .internal-embed {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0.25em 0.5em;
+}
+.callout[data-callout="art"] .internal-embed img {
+  display: block;
+  margin: 0 auto;
+}

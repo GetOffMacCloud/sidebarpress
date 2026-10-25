@@ -42,7 +42,8 @@ tags: [bestiary, statblock, 2014-5e, contributed]   # add legendary / villain-ty
 1. `# <Name>`
 2. An italic read-aloud line, 25 words or fewer, describing what the players see.
 3. `*Created by **GrimmGrixis**, Writers Guild.*`
-4. The statblock, in house format (copy the punctuation from Pale Chimera exactly):
+4. An image callout directly above the statblock: `> [!art]+ Plate` then `> ![[99-Assets/SP-BST-01/plates/<file name>.png|360]]`. Rogues' Gallery entries add a collapsed `> [!art]- Splash (full page)` with `![[99-Assets/SP-BST-01/splashes/<file name> — Splash.png|500]]`. The portrait and token callout is generated inside FGU Import, so don't write it by hand.
+5. The statblock, in house format (copy the punctuation from Pale Chimera exactly):
    - `> [!example]+ <Name> (CR X, N XP)`, then `> *Size type, alignment*`.
    - `> **Armor Class** … · **Hit Points** … · **Speed** …`
    - The ability table as a 3-line markdown table inside the callout. Use the true minus sign `−` in modifiers.

@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "CyberGlow"
+  "cssTheme": "CyberGlow",
+  "enabledCssSnippets": [
+    "sidebar-art-callout"
+  ]
 }

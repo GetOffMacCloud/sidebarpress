@@ -24,6 +24,9 @@ tags: [bestiary, statblock, 2014-5e]
 
 *One line a DM can read aloud when the creature first appears (≤25 words).*
 
+> [!art]+ Plate
+> ![[99-Assets/SP-BST-01/plates/{{name}}.png|360]]
+
 > [!example]+ {{name}} (CR X, X XP)
 > *Size type, alignment*
 > **Armor Class** · **Hit Points** · **Speed**
@@ -80,4 +83,4 @@ Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine). Describe the 
 ```
 
 ## FGU Import
-Generated, never hand-written: after the statblock is final, run `python3 70-Company/Tools/fgu_import.py 65-Bestiary` and this section is rebuilt with paste-ready text for FGU's NPCs → Import Text (mode: 2022 – Monsters of the Multiverse).
+Generated, never hand-written (the generator also adds the FGU Portrait & Token image callout): after the statblock is final, run `python3 70-Company/Tools/fgu_import.py 65-Bestiary` and this section is rebuilt with paste-ready text for FGU's NPCs → Import Text (mode: 2022 – Monsters of the Multiverse).
