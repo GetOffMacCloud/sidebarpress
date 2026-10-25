@@ -7,14 +7,14 @@
   "sessions": [
     {
       "start": "2026-10-25T05:01:14.470Z",
-      "total": 12556,
+      "total": 12946,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
           "scenes": {}
         },
         "65-Bestiary/00 — Bestiary Index.md": {
-          "total": 40,
+          "total": 430,
           "scenes": {
             "01 — Introduction": 40,
             "02 — Reading an Entry": 0,
@@ -68,7 +68,7 @@
             "Straw Double": 0,
             "Threshold Lord": 0,
             "Tithe-Reaper": 0,
-            "Toiling Haunt": 0,
+            "Toiling Haunt": 390,
             "Toll-Troll": 0,
             "Tunnel Scarhound": 0,
             "Viper Guardian": 0,

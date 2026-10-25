@@ -80,3 +80,30 @@ The translucent ghost of an older woman in a cook's cap and stained apron, drawn
 ```
 The translucent pale blue ghost of an older woman in a cook's cap and stained apron, scrubbing with a brush, her face patient and empty, head and shoulders portrait in three-quarter view, the head in the upper middle of the frame with clear space around it, stylized fantasy tabletop RPG creature portrait, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light, strong readable silhouette, on a soft light cream and warm pale grey background with a gentle vignette --ar 3:4 --v 8.1 --stylize 150 --seed 26500 --no text, letters, signature, watermark, frame, border, dark background, black background
 ```
+
+## FGU Import
+
+Paste this block into Fantasy Grounds Unity: **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse** (the 2014-style layout). If a field comes in blank, check the NPC's Notes tab, which shows where parsing stopped. *Written by hand: the haunt has no statblock, so `70-Company/Tools/fgu_import.py` skips this note and won't overwrite this section. Its AC, hit points and ability scores are placeholders the parser needs; the haunt can't actually be harmed. Challenge 0 keeps it out of encounter difficulty; grant the optional 200 XP from the party sheet when the haunt is laid to rest.*
+
+> [!art]- FGU Portrait & Token
+> ![[99-Assets/SP-BST-01/portraits/Toiling Haunt — Portrait.png|300]] ![[99-Assets/SP-BST-01/tokens/Toiling Haunt — Token.png|140]]
+
+```text
+Toiling Haunt
+Medium undead, unaligned
+Armor Class 10
+Hit Points 1 (1d8 - 3)
+Speed 0 ft.
+STR DEX CON INT WIS CHA
+1 (-5) 10 (+0) 4 (-3) 10 (+0) 10 (+0) 10 (+0)
+Damage Immunities acid, bludgeoning, cold, fire, force, lightning, necrotic, piercing, poison, psychic, radiant, slashing, thunder
+Condition Immunities blinded, charmed, deafened, exhaustion, frightened, grappled, incapacitated, invisible, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
+Senses passive Perception 10
+Languages understands the languages it knew in life but speaks only its one line
+Challenge 0 (0 XP) Proficiency Bonus +2
+Haunt. The toiling haunt is not a creature that can be fought. It is immune to all damage and conditions, and it can't be turned, dispelled, or banished. Detect evil and good registers it as undead, and detect magic shows a faint necromantic aura on the object it works at.
+Manifestation. The haunt repeats one task, with one line of speech, at one place. It ignores the living unless they interrupt the work. Its one line is always a clue to the wrong that bound it.
+Resolution. The haunt ends when the wrong that bound it is set right. Treat laying it to rest as a story milestone, or award XP as for a CR 1 creature (200 XP).
+Reactions
+Interruption. When a creature physically stops the haunt's work (by taking its tool or standing in the way), that creature feels a deep chill and must succeed on a DC 10 Wisdom saving throw or be frightened of the haunt until the end of its next turn. The haunt then resumes its task.
+```
