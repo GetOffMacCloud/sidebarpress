@@ -29,6 +29,12 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 33]] | Heward among the Lowly One thieves | −20 SD | copyedited |
+| [[Book 1 — Part 34]] | Heward joins the rebels | −20 SD | copyedited |
+| [[Book 1 — Part 35]] | The Scroll of Vile Darkness; the search for Corellon | −18 SD | copyedited |
+| [[Book 1 — Part 30]] | Heward and the bulette | −21 SD | copyedited |
+| [[Book 1 — Part 31]] | Demon cults reach Eastern Oerik | −20 SD | copyedited |
+| [[Book 1 — Part 32]] | Heward goes to the Singing Lands | −20 SD | copyedited |
 | [[Book 1 — Part 4]] | Dwur! | −6,000 SD | copyedited |
 | [[Book 1 — Part 5]] | Oerth | (undated) | copyedited |
 | [[Book 1 — Part 6]] | epigraph: Moradin, *Book of the Sombre* 13:7 | Moradin born c. 11,500 years ago | copyedited |

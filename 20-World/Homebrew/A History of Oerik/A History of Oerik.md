@@ -14,7 +14,7 @@ Shareable copy of Book 1 (Claude Docs): https://claude.ai/artifact/8CF2h9u5qvKKV
 ## Books
 | Book | Title | Parts | Index |
 |---|---|---|---|
-| 1 | Relics from a Dragon Time | 1–29 | [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index]] |
+| 1 | Relics from a Dragon Time | 1–35 | [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index]] |
 
 ## Dating
 - **SD = Suloise Dating**, the calendar of the ancient Suloise Imperium. **1 SD = −5,515 CY**, so CY ≈ SD − 5,515.
