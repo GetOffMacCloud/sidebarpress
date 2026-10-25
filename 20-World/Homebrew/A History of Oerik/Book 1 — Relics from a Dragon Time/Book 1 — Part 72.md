@@ -16,7 +16,7 @@ They weren't quite sure how, but somehow Norebo was getting his followers to win
 
 Assassins came to Norebo's house. He wasn't home. A seer was used to trace him and discovered he had fled to Sunndi. Off to Sunndi the posse went.
 
-Sunndi was a paradise. The weather was warm, the plants thrived. Grey elves ruled, but wisely. These were not arrogant elves like Celene, or patronizing, like Blemu. Sunndi was a simple place designed for harmless fun with as little work as possible, free-spirited and sociable. Some Flan lived here amongst the olves, many old retirees from Thel Nostra.
+Sunndi was a paradise. The weather was warm, the plants thrived. Grey elves ruled, but wisely. These were not arrogant elves like Celene, or patronizing, like Blemu. Sunndi was a simple place designed for harmless fun with as little work as possible, free-spirited and sociable. Some Flan lived here amongst the olves, many old retirees from Thel Norusti.
 
 The seer reached the forests of Sunndi, then threw dust into the air. She watched the dust fall back to Oerth and settle. She watched hawks circling in the air, she watched a bear cub chase a badger. She watched a stag move one way, then the other, before disappearing into a thicket.
 
@@ -54,4 +54,4 @@ The assassins took the corpse of Norebo and returned back to Thel Norusti.
 
 The Magnate ordered Norebo to be buried upright and upside down, never to rest in peace!
 
-Afterwards, though, the Magnate and his Investors were unable to stop a great wake held in his memory, both in Thel Nostra and far away in the Suel lands within Western Oerik.
+Afterwards, though, the Magnate and his Investors were unable to stop a great wake held in his memory, both in Thel Norusti and far away in the Suel lands within Western Oerik.

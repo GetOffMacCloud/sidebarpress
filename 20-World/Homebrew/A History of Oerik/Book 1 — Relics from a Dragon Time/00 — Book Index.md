@@ -29,6 +29,9 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 78]] | The dwarven empire under Prince Regent Silvervein | (c. 459 SD) | copyedited |
+| [[Book 1 — Part 79]] | The duergar banquet | (c. 459 SD) | copyedited |
+| [[Book 1 — Part 80]] | Duergar migration; dwarven civil strife; Rockhome | 463 SD | copyedited |
 | [[Book 1 — Part 75]] | Gnomes and dwarves; Garl Glittergold; the svirfneblin reach the Underdark | 448 SD | copyedited |
 | [[Book 1 — Part 76]] | The duergar | 456 SD | copyedited |
 | [[Book 1 — Part 77]] | The duergar reach the Overlight; Gruumsh; Regent Silvervein | 459 SD | copyedited |
@@ -45,7 +48,7 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 64]] | Ye'Cind reveals Syrul as the Goddess | (c. 202 SD) | copyedited |
 | [[Book 1 — Part 65]] | Syrul's visions; Thurnfedge V destroyed | (c. 202 SD) | copyedited |
 | [[Book 1 — Part 60]] | Ye'Cind's recorder at the Shady Satyr | (c. 202 SD) | copyedited |
-| [[Book 1 — Part 61]] | Molog's invasion; Norebo meets Ye'Cind | (c. 202 SD) | copyedited |
+| [[Book 1 — Part 61]] | Molag's invasion; Norebo meets Ye'Cind | (c. 202 SD) | copyedited |
 | [[Book 1 — Part 62]] | The Goddess of the Papacy | (c. 202 SD) | copyedited |
 | [[Book 1 — Part 58]] | The Oath behind the eight Suel states | 202 SD | copyedited |
 | [[Book 1 — Part 59]] | Norebo deposes Pope Syrul; Risewater joins the Suel kingdom | (c. 202 SD) | copyedited |

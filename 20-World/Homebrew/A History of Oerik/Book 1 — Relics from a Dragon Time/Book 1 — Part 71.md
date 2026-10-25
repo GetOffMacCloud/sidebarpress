@@ -19,7 +19,7 @@ His new perspective helped him to realize that he had not conducted himself quit
 
 Greed was no longer blinding him.
 
-Norebo pumped a lot of his gold back into the poor areas of Thel Nostra, and into the pockets of the ordinary Suloise people, particularly those that opposed Syrul the Goddess, who epitomized selfishness. Much of the rest he gifted to his various friends of the fledgling empire, along with a cryptic poem.
+Norebo pumped a lot of his gold back into the poor areas of Thel Norusti, and into the pockets of the ordinary Suloise people, particularly those that opposed Syrul the Goddess, who epitomized selfishness. Much of the rest he gifted to his various friends of the fledgling empire, along with a cryptic poem.
 
 The contents of the poem are lost in time. I don't consider the translation of it found in the Norebo Luck Guide (copies available in the Scarlet Brotherhood) to be close to the original text. For one thing, the Suel language has changed considerably over the last six thousand years, particularly after the first thousand, so a coherent translation of a cryptic poem with lost context is difficult to do. For another, all the original copies were destroyed soon after they were written, the reason of which will soon be obvious. Therefore the Luck Guide is a good example of the kinds of fraudulence that are to be found in temples for all sorts of gods today.
 

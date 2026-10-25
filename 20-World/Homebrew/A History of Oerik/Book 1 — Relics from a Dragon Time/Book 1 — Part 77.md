@@ -15,7 +15,7 @@ publish_order: 770
 
 The svirfneblin were surprised to meet dwarves so deep under the Oerth. These dwarves were a dour, grey-skinned people, who spoke a different dwur language and seemed very defensive and paranoid.
 
-The duergar didn't know what to make of the gnomes, for the diminutive beings had not yet appeared on Oerth when the duergar last walked under the sun. They took these demihuman burrowers to be a potential existential threat, and this meant that the best course of action would be their utter extermination.
+The duergar didn't know what to make of the gnomes, for the diminutive beings had not yet appeared on Oerth when the duergar last walked under the sun. They took these demihuman buriers to be a potential existential threat, and this meant that the best course of action would be their utter extermination.
 
 In 459 SD, the duergar began to realize that the svirfneblin were impossible to eradicate, as they could use magic to disappear into the walls and escape. The svirfneblin also attempted parleys, for they were not militaristic people.
 

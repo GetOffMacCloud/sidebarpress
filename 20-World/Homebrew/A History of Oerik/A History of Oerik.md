@@ -14,7 +14,7 @@ Shareable copy of Book 1 (Claude Docs): https://claude.ai/artifact/8CF2h9u5qvKKV
 ## Books
 | Book | Title | Parts | Index |
 |---|---|---|---|
-| 1 | Relics from a Dragon Time | 1–77 | [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index]] |
+| 1 | Relics from a Dragon Time | 1–80 | [[20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index]] |
 
 ## Dating
 - **SD = Suloise Dating**, the calendar of the ancient Suloise Imperium. **1 SD = −5,515 CY**, so CY ≈ SD − 5,515.
@@ -23,7 +23,8 @@ Shareable copy of Book 1 (Claude Docs): https://claude.ai/artifact/8CF2h9u5qvKKV
 
 ## Lineages (series canon)
 - **Suel:** illithid-bred "block-whites" (Book 1, Part 15) → the Lowly Ones, thralls of the Singing Ones in the basin southwest of the Hellfurnaces (Part 21) → the Suel.
-- **Baklunish (provisional):** the illithids' "especial blend" reserves (Book 1, Part 16) → the Thytan peoples, coppery-skinned horse nomads who deserted the illithid elite units and gated to the western side of a long gulf in Western Oerik (Part 22) → the Baklunish.
+- **Baklunish:** the Wind Dukes' Baklun slaves (Book 1, Part 74), some of whom escaped to the Thytic nomads → the Baklunish. (The earlier provisional link through the "especial blend" and the Thytan peoples is withdrawn, 2026-10-25.)
+- **Thytan ≠ Thytic:** the Thytan peoples (Part 22, deserters from the illithid elite units) and the Thytic peoples (Part 74, Urbanites and Rovers) are different peoples.
 - **Not linked:** the Flan (first named in Book 1, Part 25) and the Fharun (Part 19) are separate peoples; the Flan do not descend from the "systematic brights". The brights' descendants are still unassigned.
 
 ## Compiling conventions
