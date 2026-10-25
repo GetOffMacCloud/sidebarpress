@@ -17,6 +17,9 @@ origin: new
 base_block: "none (wight-inspired, MM p. 300)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Bell-Wight
@@ -79,7 +82,7 @@ The bell itself. A sanctified bell (blessed after the wight is destroyed) acts a
 
 ## Art Prompt
 ```
-A gaunt dead bell-ringer in a sexton's rotted cassock hanging head-down from frayed bell-ropes inside a dark belfry, rope burns black at his throat, a great bronze bell swinging above him in mid-toll, his hands still gripping the sallies, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A gaunt dead bell-ringer in a sexton's rotted cassock hanging head-down from frayed bell-ropes inside a dark belfry, rope burns black at his throat, a great bronze bell swinging above him in mid-toll, his hands still gripping the sallies, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

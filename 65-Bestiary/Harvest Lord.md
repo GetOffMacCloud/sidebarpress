@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Treant (MM p. 289)"
 source_adventures: ["SP-HAL-04"]
 tags: [bestiary, statblock, 2014-5e, villain-type]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Harvest Lord
@@ -98,7 +101,7 @@ Heartwood from a harvest lord is a rare material (worth 500 gp to a druid or a w
 
 ## Art Prompt
 ```
-An enormous ancient tree the color of old bleached bone rooted in a pit beneath the floor of a vast timber barn, its crown lost among the rafters, a vast weathered face in the trunk, wheat stalks growing from its bark, roots running across a threshing floor, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+An enormous ancient tree the color of old bleached bone rooted in a pit beneath the floor of a vast timber barn, its crown lost among the rafters, a vast weathered face in the trunk, wheat stalks growing from its bark, roots running across a threshing floor, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

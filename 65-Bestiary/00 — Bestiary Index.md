@@ -6,7 +6,7 @@ publish_order: 0
 publish: false
 longform:
   format: scenes
-  title: Sidebar Press Bestiary
+  title: "The Fell Harvest"
   workflow: Default Workflow
   sceneFolder: /
   scenes:
@@ -97,9 +97,9 @@ longform:
   ignoredFiles:
     - 00 — Bestiary Index
 ---
-# Bestiary Index — Sidebar Press Bestiary
+# Bestiary Index — The Fell Harvest
 
-Product: [[SP-BST-01-Sidebar-Press-Bestiary]] · Board: [[SP-BST-01 — Board]] · Template: [[90-Templates/Creature]]
+Product: [[SP-BST-01-The-Fell-Harvest]] · Board: [[SP-BST-01 — Board]] · Template: [[90-Templates/Creature]]
 
 > [!info] This note is the **build manifest** and the **Longform project index** for SP-BST-01. Every creature is one note in `65-Bestiary`, filed alphabetically by `publish_order` (gaps of 10). The bestiary is **setting-agnostic** and uses **2014 5e** rules, with MM page numbers from the 2014 *Monster Manual*. Adventures link here instead of copying statblocks. To add a creature, create it from [[90-Templates/Creature]], give it a free alphabetical slot, and add it to `longform: scenes:` above.
 
@@ -112,7 +112,7 @@ TABLE WITHOUT ID
   publish_order AS "Order",
   default(status, "—") AS "Status",
   choice(publish, "✅", "—") AS "Ships"
-FROM "65-Bestiary" OR "10-Adventures/SP-BST-01 — Sidebar Press Bestiary"
+FROM "65-Bestiary" OR "10-Adventures/SP-BST-01 — The Fell Harvest"
 WHERE adventure = "SP-BST-01" AND publish_order > 0
 SORT publish_order ASC
 ```

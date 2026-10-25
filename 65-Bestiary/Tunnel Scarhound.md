@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Tunnel Scarhound
@@ -96,7 +99,7 @@ The statblock is otherwise unchanged apart from house formatting.
 
 ## Art Prompt
 ```
-A lean hairless hound with grey wrinkled skin crosshatched by old pale scars in neat tally rows, long hooked claws, tiny filmed eyes, flared nostrils, clinging upside down to the rough stone ceiling of a root-choked tunnel with its head craned down toward the viewer, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A lean hairless hound with grey wrinkled skin crosshatched by old pale scars in neat tally rows, long hooked claws, tiny filmed eyes, flared nostrils, clinging upside down to the rough stone ceiling of a root-choked tunnel with its head craned down toward the viewer, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

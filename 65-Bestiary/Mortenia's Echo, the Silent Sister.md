@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblocks for two forms; Spectral Form re-rated from CR 12 to CR 6)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Mortenia's Echo, the Silent Sister
@@ -156,7 +160,7 @@ When she is destroyed, the Sacred Statue's head survives the crumbling: a stone 
 
 ## Art Prompt
 ```
-A life-size statue of a veiled holy sister carved in pale grey stone standing on a low dais, one finger raised to her lips, fine cracks across the stone leaking cold grey smoke, and rising from the dust at her feet a translucent veiled spirit of the same woman with one hand extended, pointing, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A life-size statue of a veiled holy sister carved in pale grey stone standing on a low dais, one finger raised to her lips, fine cracks across the stone leaking cold grey smoke, and rising from the dust at her feet a translucent veiled spirit of the same woman with one hand extended, pointing, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

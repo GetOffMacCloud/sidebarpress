@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 2 to CR 1/2)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Bone-Tally Chanter
@@ -99,7 +102,7 @@ A chanter carries a bone scourge (a whip of bone-studded cord), hide armor, 3d6 
 
 ## Art Prompt
 ```
-A gaunt orc war-priest draped in dozens of cords strung with yellowed knucklebones, a long whip of bone-studded cord trailing from one hand, the other hand pointing forward, mouth open mid-chant, tally-cuts across its shaven scalp, a faint cold grey glow hanging in the air where it points, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A gaunt orc war-priest draped in dozens of cords strung with yellowed knucklebones, a long whip of bone-studded cord trailing from one hand, the other hand pointing forward, mouth open mid-chant, tally-cuts across its shaven scalp, a faint cold grey glow hanging in the air where it points, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

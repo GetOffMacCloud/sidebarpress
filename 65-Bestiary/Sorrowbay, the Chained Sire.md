@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 6 to CR 9)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Sorrowbay, the Chained Sire
@@ -128,7 +132,7 @@ Sorrowbay's broken collar is an iron band etched with binding runes, the focus o
 
 ## Art Prompt
 ```
-A huge lean grey wolf, taller at the shoulder than a carthorse, scarred along its flanks, a broken iron collar etched with runes around its neck and a length of snapped chain hanging from it, an iron brand-mark burned into one shoulder, standing at the edge of a dark pine forest with its head low, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge lean grey wolf, taller at the shoulder than a carthorse, scarred along its flanks, a broken iron collar etched with runes around its neck and a length of snapped chain hanging from it, an iron brand-mark burned into one shoulder, standing at the edge of a dark pine forest with its head low, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

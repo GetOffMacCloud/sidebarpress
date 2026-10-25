@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Kobold Pyrotechnic
@@ -115,7 +118,7 @@ The submitted block has no darkvision, unlike every other kobold in the crew, th
 
 ## Art Prompt
 ```
-A small soot-blackened kobold with singed whiskers and squinting, milky eyes, wearing a scorched leather apron, a lumpy pack bristling with paper-and-reed firework tubes on its back, holding a lit tube that sprays green and gold sparks, a dagger tucked in its belt, mouth open in a whoop, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A small soot-blackened kobold with singed whiskers and squinting, milky eyes, wearing a scorched leather apron, a lumpy pack bristling with paper-and-reed firework tubes on its back, holding a lit tube that sprays green and gold sparks, a dagger tucked in its belt, mouth open in a whoop, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

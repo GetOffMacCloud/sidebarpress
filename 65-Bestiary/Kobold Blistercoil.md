@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Kobold Blistercoil
@@ -126,7 +129,7 @@ No numbers changed. The Notes section is folded into the statblock, and some wor
 
 ## Art Prompt
 ```
-A thin kobold with burn-scarred blue-grey scales bent under a heavy backpack of copper coils, glass capacitor jars, and tangled wire, a riveted scrap harness over its chest, a two-pronged spark prod in one hand, faint blue sparks crawling along its whiskers and fingertips, its eyes wide and gleeful, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A thin kobold with burn-scarred blue-grey scales bent under a heavy backpack of copper coils, glass capacitor jars, and tangled wire, a riveted scrap harness over its chest, a two-pronged spark prod in one hand, faint blue sparks crawling along its whiskers and fingertips, its eyes wide and gleeful, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, retuned to CR 20)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, legendary, contributed, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # The Gluttonwretch
@@ -114,7 +118,7 @@ The Wretch's wishbone, a forked bone as long as a spear, can be broken by two cr
 
 ## Art Prompt
 ```
-A monstrous undead turkey the size of a hay-wagon perched on a long banquet table in a candlelit manor hall, its feathers matted and dripping dark gravy-like ichor, hard red crystal shards of cranberry jutting from its wings, its wattle grey and rotted, a gaping beak, overturned plates and goblets sliding toward it, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A monstrous undead turkey the size of a hay-wagon perched on a long banquet table in a candlelit manor hall, its feathers matted and dripping dark gravy-like ichor, hard red crystal shards of cranberry jutting from its wings, its wattle grey and rotted, a gaping beak, overturned plates and goblets sliding toward it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

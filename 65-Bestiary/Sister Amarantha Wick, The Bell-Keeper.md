@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Sister Amarantha Wick, the Bell-Keeper
@@ -109,7 +113,7 @@ Her habit carries 113 small iron bells. Strung across a doorway, they ring for a
 
 ## Art Prompt
 ```
-A gaunt undead nun in a long grave-dirt-stained habit sewn all over with hundreds of tiny iron bells, a coil of knotted bell rope over one shoulder and a short iron spade in one hand, her face pale and patient under a dark wimple, standing among leaning headstones with a small iron bell on a post above each grave, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A gaunt undead nun in a long grave-dirt-stained habit sewn all over with hundreds of tiny iron bells, a coil of knotted bell rope over one shoulder and a short iron spade in one hand, her face pale and patient under a dark wimple, standing among leaning headstones with a small iron bell on a post above each grave, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

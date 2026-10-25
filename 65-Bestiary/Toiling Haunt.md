@@ -17,6 +17,9 @@ origin: harvested
 base_block: "none (haunt; no statblock)"
 source_adventures: ["SP-HAL-02"]
 tags: [bestiary, haunt, 2014-5e]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Toiling Haunt
@@ -67,5 +70,5 @@ None from the haunt itself. The thing it was working on is the reward: the evide
 
 ## Art Prompt
 ```
-The translucent ghost of an older woman in a cook's cap and stained apron, kneeling beside a great wine cask in a cellar, scrubbing it with a brush, her face patient and empty, her outline fading into the dark at the edges, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+The translucent ghost of an older woman in a cook's cap and stained apron, kneeling beside a great wine cask in a cellar, scrubbing it with a brush, her face patient and empty, her outline fading into the dark at the edges, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```

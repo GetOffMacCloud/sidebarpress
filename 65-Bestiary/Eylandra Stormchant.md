@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 13 to CR 17)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, rogues-gallery, legendary]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Eylandra Stormchant
@@ -145,7 +149,7 @@ Eylandra's **coral armor** functions as half plate that doesn't give disadvantag
 
 ## Art Prompt
 ```
-A merfolk storm-priestess with a long scaled tail the color of deep slate water, rising on a spinning column of churning seawater above a wave-battered reef, wearing armor of grown pale coral, long dark hair whipping in the wind, arms raised to a low storm sky, thin threads of lightning crawling over the wet coral and the surface of the sea around her, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A merfolk storm-priestess with a long scaled tail the color of deep slate water, rising on a spinning column of churning seawater above a wave-battered reef, wearing armor of grown pale coral, long dark hair whipping in the wind, arms raised to a low storm sky, thin threads of lightning crawling over the wet coral and the surface of the sea around her, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

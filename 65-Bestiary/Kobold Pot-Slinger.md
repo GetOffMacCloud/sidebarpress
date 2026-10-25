@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Kobold Pot-Slinger
@@ -110,7 +113,7 @@ The pot-slinger was written as one of a five-kobold war-crew for Greybeard's Rav
 
 ## Art Prompt
 ```
-A wiry kobold grenadier with rust-red scales and bright reptile eyes, in a patched leather jerkin, a bandolier of small wax-stoppered clay pots across its chest, one pot raised in a clawed hand ready to throw with a rag fuse smoking, a dagger at its belt, a thin tail curled for balance, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A wiry kobold grenadier with rust-red scales and bright reptile eyes, in a patched leather jerkin, a bandolier of small wax-stoppered clay pots across its chest, one pot raised in a clawed hand ready to throw with a rag fuse smoking, a dagger at its belt, a thin tail curled for balance, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

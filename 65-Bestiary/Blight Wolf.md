@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Blight Wolf
@@ -93,7 +96,7 @@ A blight wolf leaves only dead wood behind. Its heartwood knot, the size of a fi
 
 ## Art Prompt
 ```
-A small wolf-shaped creature made of knotted roots and dead thorny stems, its legs gnarled roots still trailing soil, a long snout of split bark with a mouth full of jagged wooden splinters, a few dead brown leaves clinging to its back, crouched low as if about to spring, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A small wolf-shaped creature made of knotted roots and dead thorny stems, its legs gnarled roots still trailing soil, a long snout of split bark with a mouth full of jagged wooden splinters, a few dead brown leaves clinging to its back, crouched low as if about to spring, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

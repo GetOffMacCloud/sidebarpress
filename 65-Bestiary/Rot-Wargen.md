@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 3 to CR 1)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Rot-Wargen
@@ -93,7 +96,7 @@ Rot-wargen carry no treasure, and their pelts are too diseased to sell. A den ho
 
 ## Art Prompt
 ```
-A lean rangy wolf with patchy grey-green fur, its lips rotted back from black gums and long yellow teeth, greenish slaver hanging from its jaws, ribs showing through its hide, crouched low and stalking, a few flies circling its head, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A lean rangy wolf with patchy grey-green fur, its lips rotted back from black gums and long yellow teeth, greenish slaver hanging from its jaws, ribs showing through its hide, crouched low and stalking, a few flies circling its head, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, marrow-brood]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Maulbone
@@ -90,7 +93,7 @@ A maulbone's club of fused femurs can be pried loose and used as a greatclub. It
 
 ## Art Prompt
 ```
-A hulking bear-sized undead creature on short thick legs, built from an ox and bear skeleton stitched together with grey silk, one forearm replaced by a huge knotted club of fused human and animal thigh bones, plates of bone over its back, dragging a broad furrow behind it, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A hulking bear-sized undead creature on short thick legs, built from an ox and bear skeleton stitched together with grey silk, one forearm replaced by a huge knotted club of fused human and animal thigh bones, plates of bone over its back, dragging a broad furrow behind it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

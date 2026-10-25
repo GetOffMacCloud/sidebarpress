@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock for Haltorix, re-rated from CR 12 to CR 15)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, villain-type]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Pale Chimera
@@ -120,7 +123,7 @@ The serpent head's venom sacs hold 1d4 doses of a potent poison (a DC 18 Constit
 
 ## Art Prompt
 ```
-A huge ash-white chimera crouched on a volcanic ridge, a scarred lion's body with great grey wings, curling goat's horns rising from its brow, a pale serpent for a tail with its head raised to strike, and a sleeping dragon's head folded against its chest with eyes half open, wisps of smoke curling from its jaws, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge ash-white chimera crouched on a volcanic ridge, a scarred lion's body with great grey wings, curling goat's horns rising from its brow, a pale serpent for a tail with its head raised to strike, and a sleeping dragon's head folded against its chest with eyes half open, wisps of smoke curling from its jaws, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

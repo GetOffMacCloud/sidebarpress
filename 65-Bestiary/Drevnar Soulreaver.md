@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, villain-type, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Drevnar Soulreaver
@@ -113,7 +117,7 @@ Drevnar's armor is **+2 plate armor**, blackened, with the order's sigil scored 
 
 ## Art Prompt
 ```
-A tall fallen paladin in blackened full plate armor with a holy sunburst sigil scored out of the breastplate, a heavy straight sword with a dark blade that seems to drink the light, a ragged white tabard stained grey, a ring of withered dead grass around his feet, hollow pale eyes behind an open helm, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A tall fallen paladin in blackened full plate armor with a holy sunburst sigil scored out of the breastplate, a heavy straight sword with a dark blade that seems to drink the light, a ragged white tabard stained grey, a ring of withered dead grass around his feet, hollow pale eyes behind an open helm, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

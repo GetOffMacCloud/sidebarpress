@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Zombie (MM p. 316)"
 source_adventures: ["SP-HAL-02"]
 tags: [bestiary, statblock, 2014-5e]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Drowned Guest
@@ -75,7 +78,7 @@ Guests often wear the jewelry of the occasion, such as rings, brooches, and a si
 
 ## Art Prompt
 ```
-A drowned footman in rotted fifty-year-old livery standing knee-deep in black water on a flooded cellar stair, pond-weed hanging from his gold braid, water streaming from his sleeves, still holding a tarnished silver tray level, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A drowned footman in rotted fifty-year-old livery standing knee-deep in black water on a flooded cellar stair, pond-weed hanging from his gold braid, water streaming from his sleeves, still holding a tarnished silver tray level, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

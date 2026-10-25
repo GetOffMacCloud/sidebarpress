@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Commoner (MM p. 345); snapped: Ghoul (MM p. 148)"
 source_adventures: ["SP-HAL-03"]
 tags: [bestiary, statblock, 2014-5e]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Echo
@@ -97,7 +100,7 @@ None from an Echo. Breaking the soul-vessels restores the town, and the grateful
 
 ## Art Prompt
 ```
-A village baker in a flour-dusted apron setting six identical loaves on a shop counter at dusk, his smile fixed and his eyes empty, a faint doubled ghost-image of the same motion trailing behind his hands like a repeated frame, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A village baker in a flour-dusted apron setting six identical loaves on a shop counter at dusk, his smile fixed and his eyes empty, a faint doubled ghost-image of the same motion trailing behind his hands like a repeated frame, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

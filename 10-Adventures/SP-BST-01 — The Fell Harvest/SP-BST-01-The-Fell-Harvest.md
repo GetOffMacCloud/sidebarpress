@@ -4,7 +4,8 @@ adventure: "SP-BST-01"
 section: overview
 publish_order: 5
 publish: true
-title: "Sidebar Press Bestiary"
+title: "The Fell Harvest"
+subtitle: "A Bestiary of Hunger, Horror & Ruin"
 status: draft # draft | playtesting | editing | published
 levels: "1-10"
 setting: Setting-agnostic
@@ -13,7 +14,9 @@ product_type: bestiary
 tags: [bestiary, monsters, 2014-5e, homebrew]
 ---
 
-# Sidebar Press Bestiary *(working title)*
+# The Fell Harvest
+
+*A Bestiary of Hunger, Horror & Ruin*
 
 **A setting-agnostic bestiary for 2014 5e: fifty-five creatures and one template (CR 0–15), plus a Rogues' Gallery of twenty-three named villains (CR 4–23)**
 
@@ -34,6 +37,7 @@ tags: [bestiary, monsters, 2014-5e, homebrew]
 - Full lists, with CR, type, origin, and section: [[90 — Creatures by Challenge]] and [[91 — Creatures by Environment]].
 
 ## Decisions
+- 2026-10-24: Title is **The Fell Harvest**, subtitle *A Bestiary of Hunger, Horror & Ruin* (Greybeard chose it from a dark-and-grim shortlist).
 - 2026-10-24: Batch 2: 57 GrimmGrixis statblocks from `Downloads/Monster Unload` (Haltorix was already in as the Pale Chimera). Greybeard's rulings: credit all to GrimmGrixis; full entries now; **CR policy: keep the stated CR if the math is within 1, re-rate if it's off by 2 or more**, fixing internal arithmetic either way; named individuals go in a **Rogues' Gallery** chapter, and WotC-specific names become generic epithets (Tiamat → the Dragon Queen; Yeenoghu → the Ravening Lord; Ravnica and guild references removed). Every entry carries a changes table and CR working. The writer's brief is [[Bestiary-Entry-Brief]].
 - 2026-10-24: The Gluttonwretch moved to the Rogues' Gallery.
 - 2026-10-24: Setting-agnostic; 2014 5e; full entries; Obsidian notes plus this product folder. Named villains are entered as a generic type with the named individual as an example (Tithe-Reaper → Josiah Thorne; Threshold Lord → the Gentleman in Grey; Harvest Lord → Thornbury).
@@ -50,6 +54,6 @@ tags: [bestiary, monsters, 2014-5e, homebrew]
 - [ ] GrimmGrixis to supply Haltorix's history, lair, and allegiances for the Pale Chimera's Named Example.
 - [ ] GrimmGrixis to review the Gluttonwretch's drafted lore, hooks, spoils, and the CR 20 retune.
 - [ ] Confirm the contributor credit and terms for the Gluttonwretch before release.
-- [ ] Choose the title, then rename this folder, this note, and the Longform `title`.
+- [x] Title chosen: *The Fell Harvest: A Bestiary of Hunger, Horror & Ruin* (2026-10-24). Folder, main note, Longform title, and index links renamed. A web check found no existing RPG product with this name.
 - [ ] Apply the Tithe-Reaper errata to SP-HAL-03 (Dex 18, 97 hp, Life Drain DC 14) and to the SP-HAL-04 wraith row (99 hp → 97). See the [[Tithe-Reaper]] Design Notes.
 - [ ] Decide whether the adventure bestiaries should link to the 65-Bestiary entries.

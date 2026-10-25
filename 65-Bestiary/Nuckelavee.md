@@ -17,6 +17,9 @@ origin: folklore
 base_block: "none"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, folklore, orcadian]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Nuckelavee
@@ -91,7 +94,7 @@ None from the creature, which dissolves into stinking foam when it is destroyed.
 
 ## Art Prompt
 ```
-A skinless horse rising from grey surf onto a stony northern beach, a rider fused to its back with no skin either, the rider's oversized head lolling, arms long enough to drag on the shingle, dark veins visible across raw red muscle, a single fiery eye in the horse's head, kelp-fires smoking on the shore behind, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A skinless horse rising from grey surf onto a stony northern beach, a rider fused to its back with no skin either, the rider's oversized head lolling, arms long enough to drag on the shingle, dark veins visible across raw red muscle, a single fiery eye in the horse's head, kelp-fires smoking on the shore behind, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

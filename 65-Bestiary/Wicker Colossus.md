@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Clay Golem (MM p. 168)"
 source_adventures: ["SP-HAL-04"]
 tags: [bestiary, statblock, 2014-5e]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Wicker Colossus
@@ -88,7 +91,7 @@ The colossus's lantern-heart, an iron cage holding a coal that never goes out, w
 
 ## Art Prompt
 ```
-A towering thirty-foot giant woven from willow withies and bound wheat sheaves, striding across a stubble field at dusk, a barred wicker cage in its chest holding a burning lantern and the shadow of a trapped figure, plaited wheat for hands, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A towering thirty-foot giant woven from willow withies and bound wheat sheaves, striding across a stubble field at dusk, a barred wicker cage in its chest holding a burning lantern and the shadow of a trapped figure, plaited wheat for hands, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

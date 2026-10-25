@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # The Ninefold Voice
@@ -120,7 +124,7 @@ Statblock unchanged apart from house formatting and the fixes below.
 
 ## Art Prompt
 ```
-A giant grey-and-black shrike, a songbird grown to monstrous size, with a hooked raptor's beak, a black bandit mask across its eyes, and long barred wing feathers, perched in a vast black thorn tree whose long thorns hold the wrapped shapes of carcasses, its beak half open as if calling, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A giant grey-and-black shrike, a songbird grown to monstrous size, with a hooked raptor's beak, a black bandit mask across its eyes, and long barred wing feathers, perched in a vast black thorn tree whose long thorns hold the wrapped shapes of carcasses, its beak half open as if calling, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

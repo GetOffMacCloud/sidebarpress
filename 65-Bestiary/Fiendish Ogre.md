@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Fiendish Ogre
@@ -92,7 +95,7 @@ The ogre's brand is set in iron on its hide; the matching half (a ring, rod, or 
 
 ## Art Prompt
 ```
-A hulking ogre with cracked grey-black skin like cooling slag, glowing orange seams between the plates of its hide, an iron brand burned into its chest, smoke curling from its jagged teeth and nostrils, gripping a heavy iron-bound greatclub glowing red-hot along its head, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A hulking ogre with cracked grey-black skin like cooling slag, glowing orange seams between the plates of its hide, an iron brand burned into its chest, smoke curling from its jagged teeth and nostrils, gripping a heavy iron-bound greatclub glowing red-hot along its head, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

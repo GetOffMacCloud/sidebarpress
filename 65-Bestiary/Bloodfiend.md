@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Bloodfiend
@@ -125,7 +128,7 @@ A bloodfiend's heart, cut out and burned in sunlight, leaves 1d4 ounces of red a
 
 ## Art Prompt
 ```
-A long-limbed fiend with raw red skin stretched over a lean, hunched frame, too many joints in its arms ending in long hooked claws, a lipless mouth crowded with needle teeth, stolen faces faintly pressing out from the skin of its throat, crouched at the edge of a dark treeline at dusk, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A long-limbed fiend with raw red skin stretched over a lean, hunched frame, too many joints in its arms ending in long hooked claws, a lipless mouth crowded with needle teeth, stolen faces faintly pressing out from the skin of its throat, crouched at the edge of a dark treeline at dusk, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

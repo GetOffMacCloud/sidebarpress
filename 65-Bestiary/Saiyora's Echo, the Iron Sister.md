@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Saiyora's Echo, the Iron Sister
@@ -111,7 +115,7 @@ Statblock unchanged apart from house formatting and the clarifications below.
 
 ## Art Prompt
 ```
-A tall undead woman knight in rusted, rent plate armor standing on a worn stone stair before a pair of sealed stone doors, a notched greatsword grounded point-down before her, a pale grey ghost-light where her face should be behind an open visor, one gauntlet raised and pointing at the viewer, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A tall undead woman knight in rusted, rent plate armor standing on a worn stone stair before a pair of sealed stone doors, a notched greatsword grounded point-down before her, a pale grey ghost-light where her face should be behind an open visor, one gauntlet raised and pointing at the viewer, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

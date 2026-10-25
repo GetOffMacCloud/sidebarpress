@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 11 to CR 8)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Lieutenant of the Dark Prodigy
@@ -116,7 +119,7 @@ The **Dark Prodigy's longsword** is a +1 longsword that deals an extra 1d6 fire 
 
 ## Art Prompt
 ```
-A tall fiendish knight in ornate plate armor the dull red of banked embers, a horned helm with a narrow visor, a longsword etched with glowing angular runes that seem painful to look at, a longbow slung across its back, a dark banner with a blank sigil hanging behind it, standing in a formal half-bow, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A tall fiendish knight in ornate plate armor the dull red of banked embers, a horned helm with a narrow visor, a longsword etched with glowing angular runes that seem painful to look at, a longbow slung across its back, a dark banner with a blank sigil hanging behind it, standing in a formal half-bow, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

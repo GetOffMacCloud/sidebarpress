@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Boar (MM p. 319) + Bone Beast Template"
 source_adventures: ["SP-PBS-02"]
 tags: [bestiary, statblock, 2014-5e, bone-beast]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Bone Boar
@@ -70,7 +73,7 @@ Tusk-bands are worth 5 gp each in bronze. A pair of intact tusks is worth 10 gp 
 
 ## Art Prompt
 ```
-The skeleton of a wild boar charging head-down through bracken, its tusks banded with old green bronze cut with spirals, its ribs cracked but its spine whole, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+The skeleton of a wild boar charging head-down through bracken, its tusks banded with old green bronze cut with spirals, its ribs cracked but its spine whole, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

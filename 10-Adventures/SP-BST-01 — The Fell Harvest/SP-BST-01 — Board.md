@@ -12,7 +12,7 @@ publish: false
 - [x] Scope set: setting-agnostic, 2014 5e, full entries, CR 0–9
 - [x] Creature template written: [[90-Templates/Creature]]
 - [x] Manifest and Longform index: [[65-Bestiary/00 — Bestiary Index]]
-- [ ] Working title chosen
+- [x] Title chosen: The Fell Harvest
 
 
 ## 2 · Write
@@ -37,7 +37,12 @@ publish: false
 ## 4 · Package
 
 - [ ] Longform compile run; output saved as `SP-BST-01 — Compiled.md`
-- [ ] Art: one plate per creature from the Art Prompt; `--sref` locked from the first approved plate
+- [x] Art brief written: [[SP-BST-01 — Art Brief]] (plates, splashes, cover and openers, spot art; tokens come from Greybeard's token maker)
+- [ ] `--sref` locked from the first five plates
+- [ ] Plates 78/78 approved (each one also yields the FGU portrait and token)
+- [ ] Villain splashes 23/23 approved
+- [ ] Cover and 3 chapter openers approved
+- [ ] Spot art 12/12 approved
 - [ ] Cover art and title block
 - [ ] Homebrewery brew assembled (statblock frames); PDF exported
 - [ ] Fantasy Grounds / VTT statblocks exported

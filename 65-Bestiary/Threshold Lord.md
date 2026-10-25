@@ -17,6 +17,9 @@ origin: harvested
 base_block: "none (built from the SP-HAL-01 sketch: noble + green hag traits)"
 source_adventures: ["SP-HAL-01", "SP-HAL-04"]
 tags: [bestiary, statblock, 2014-5e, villain-type]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Threshold Lord
@@ -90,7 +93,7 @@ A lord who is bested in fair terms pays what it owes. That means one boon of the
 
 ## Art Prompt
 ```
-A tall, thin gentleman in a long dove-grey coat and a high grey hat, standing exactly on the threshold of an open cottage door at night, one gloved hand resting on a silver-topped cane, his face courteous and slightly too smooth, the lane behind him lost in mist, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A tall, thin gentleman in a long dove-grey coat and a high grey hat, standing exactly on the threshold of an open cottage door at night, one gloved hand resting on a silver-topped cane, his face courteous and slightly too smooth, the lane behind him lost in mist, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

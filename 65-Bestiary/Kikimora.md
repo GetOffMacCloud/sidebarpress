@@ -17,6 +17,9 @@ origin: folklore
 base_block: "none"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, folklore, slavic]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Kikimora
@@ -94,7 +97,7 @@ An appeased kikimora gives a gift on the party's departure: a spool of thread th
 
 ## Art Prompt
 ```
-A tiny thin old woman no taller than a cat crouched behind a great clay stove in a dark peasant cottage, her head absurdly small, her nose long and beak-like, her fingers spinning thread from a distaff, tangled red and white thread spilling across the floor, a bowl of milk left on the floor before her, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A tiny thin old woman no taller than a cat crouched behind a great clay stove in a dark peasant cottage, her head absurdly small, her nose long and beak-like, her fingers spinning thread from a distaff, tangled red and white thread spilling across the floor, a bowl of milk left on the floor before her, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

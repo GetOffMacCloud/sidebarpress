@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Root Guardian
@@ -122,7 +125,7 @@ No IP substitutions; the source block is setting-neutral. The source note came f
 
 ## Art Prompt
 ```
-A crouching human-sized figure woven from the thick grey roots and vines of a strangler fig, rising out of dark garden soil between weathered grave markers, long root-fingers trailing into the earth, a small carved green stone glimpsed deep in the knot of its chest, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A crouching human-sized figure woven from the thick grey roots and vines of a strangler fig, rising out of dark garden soil between weathered grave markers, long root-fingers trailing into the earth, a small carved green stone glimpsed deep in the knot of its chest, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

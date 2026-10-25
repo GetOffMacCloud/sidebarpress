@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Demonic Spider
@@ -109,7 +112,7 @@ A demonic spider's venom glands hold 1d4 doses of its poison (a DC 15 Constituti
 
 ## Art Prompt
 ```
-A huge black spider with a scorched, ember-veined carapace and a cluster of glowing red eyes, long jointed legs ending in hooked talons, hanging from a vast web whose strands glow like hot wire and smolder at the edges, burned silk cocoons dangling around it, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge black spider with a scorched, ember-veined carapace and a cluster of glowing red eyes, long jointed legs ending in hooked talons, hanging from a vast web whose strands glow like hot wire and smolder at the edges, burned silk cocoons dangling around it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

@@ -17,6 +17,9 @@ origin: remix
 base_block: "Green Hag (MM p. 177)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, hag]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Ledger Hag
@@ -82,7 +85,7 @@ The ledger itself is the treasure, and also the trap. Reading it reveals every n
 
 ## Art Prompt
 ```
-A thin old woman in a clerk's black sleeve-protectors and spectacles seated behind a counting-desk, writing in an enormous leather ledger with a long quill, her ink-stained fingers too long and too many-jointed, stacks of signed contracts tied with red tape around her, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A thin old woman in a clerk's black sleeve-protectors and spectacles seated behind a counting-desk, writing in an enormous leather ledger with a long quill, her ink-stained fingers too long and too many-jointed, stacks of signed contracts tied with red tape around her, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

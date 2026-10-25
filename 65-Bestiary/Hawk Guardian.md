@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Hawk Guardian
@@ -121,7 +124,7 @@ No IP substitutions; the source block is setting-neutral. The source note came f
 
 ## Art Prompt
 ```
-A huge rust-and-white banded hawk the size of a horse, perched on the broken crown of a vine-choked stepped stone temple, wings half raised, red cord braided around its talons, a small carved green stone set at its throat, fierce amber eyes, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge rust-and-white banded hawk the size of a horse, perched on the broken crown of a vine-choked stepped stone temple, wings half raised, red cord braided around its talons, a small carved green stone set at its throat, fierce amber eyes, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

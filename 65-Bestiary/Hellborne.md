@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Hellborne
@@ -111,7 +114,7 @@ Statblock unchanged apart from house formatting and the copy fixes above. The DC
 
 ## Art Prompt
 ```
-A vast hound-shaped fiend with a scorched black hide stretched over jutting ribs, a long wolfish skull with too many teeth and embers glowing deep in its throat, long hooked forelimbs built for climbing, faint ghostly faces of the screaming damned twisting in the smoke that pours from its open jaws, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A vast hound-shaped fiend with a scorched black hide stretched over jutting ribs, a long wolfish skull with too many teeth and embers glowing deep in its throat, long hooked forelimbs built for climbing, faint ghostly faces of the screaming damned twisting in the smoke that pours from its open jaws, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

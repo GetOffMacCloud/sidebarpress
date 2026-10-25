@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Elk (MM p. 322) + Bone Beast Template"
 source_adventures: ["SP-PBS-02"]
 tags: [bestiary, statblock, 2014-5e, bone-beast]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Bone Elk
@@ -70,7 +73,7 @@ The bronze antler-bands are worth 10 gp. Intact antlers make a fine trophy, wort
 
 ## Art Prompt
 ```
-The towering skeleton of an elk standing among pale birch trees, its broad antlers bound with bands of old green bronze, its skull lowered to charge, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+The towering skeleton of an elk standing among pale birch trees, its broad antlers bound with bands of old green bronze, its skull lowered to charge, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

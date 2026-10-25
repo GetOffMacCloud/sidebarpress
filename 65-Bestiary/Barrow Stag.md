@@ -17,6 +17,9 @@ origin: harvested
 base_block: "custom (Bone Beast Template)"
 source_adventures: ["SP-PBS-02"]
 tags: [bestiary, statblock, 2014-5e, bone-beast]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Barrow Stag
@@ -77,7 +80,7 @@ The bronze tine-caps (four, worth 10 gp each) are etched with the maker's sigil.
 
 ## Art Prompt
 ```
-A great white stag made entirely of chalk-pale bare bone standing on a grassy barrow mound at dusk, its antler tines capped in old green bronze etched with triple spirals, its empty eye sockets calm, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A great white stag made entirely of chalk-pale bare bone standing on a grassy barrow mound at dusk, its antler tines capped in old green bronze etched with triple spirals, its empty eye sockets calm, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

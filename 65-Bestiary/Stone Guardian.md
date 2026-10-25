@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 6 to CR 8)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Stone Guardian
@@ -127,7 +130,7 @@ No IP substitutions; the source block is setting-neutral. The source note came f
 
 ## Art Prompt
 ```
-A massive figure of fitted grey stone blocks half stepping out of a carved tomb wall, the masonry rippling like water around its shoulders, a squared stone face with a small green carved stone set in its brow, heavy block fists, cracks spreading across the floor beneath its feet, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A massive figure of fitted grey stone blocks half stepping out of a carved tomb wall, the masonry rippling like water around its shoulders, a squared stone face with a small green carved stone set in its brow, heavy block fists, cracks spreading across the floor beneath its feet, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

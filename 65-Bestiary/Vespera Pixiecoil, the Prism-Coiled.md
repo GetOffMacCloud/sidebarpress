@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 21 to CR 23)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Vespera Pixiecoil, the Prism-Coiled
@@ -161,7 +165,7 @@ Vespera is worth far more as a friend than as a corpse. A creature she counts as
 
 ## Art Prompt
 ```
-A small fox-sized fey dragon coiled in midair above a spring meadow, slender and long-tailed, with delicate translucent butterfly wings, its scales shifting through every color of a prism, rainbows scattering from its wings across the grass, a mischievous grin, tiny flowers in impossible colors blooming beneath it, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A small fox-sized fey dragon coiled in midair above a spring meadow, slender and long-tailed, with delicate translucent butterfly wings, its scales shifting through every color of a prism, rainbows scattering from its wings across the grass, a mischievous grin, tiny flowers in impossible colors blooming beneath it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

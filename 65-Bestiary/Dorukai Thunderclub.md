@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 13 to CR 15)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, rogues-gallery, legendary]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Dorukai Thunderclub
@@ -126,7 +130,7 @@ The **Hammer of the Thunder Lord** is a giant's maul, too large for a Medium wie
 
 ## Art Prompt
 ```
-A towering blue-skinned oni ogre-mage with a single curved horn, a wild white mane, and long tusks, wearing a heavy coat of chain mail, gripping a colossal stone-and-iron great hammer that crackles with forked lightning, hovering a few feet above a rocky mountain pass on a swirl of storm wind, his clawed free hand sparking, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A towering blue-skinned oni ogre-mage with a single curved horn, a wild white mane, and long tusks, wearing a heavy coat of chain mail, gripping a colossal stone-and-iron great hammer that crackles with forked lightning, hovering a few feet above a rocky mountain pass on a swirl of storm wind, his clawed free hand sparking, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

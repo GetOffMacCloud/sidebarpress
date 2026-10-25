@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Commoner (MM p. 345)"
 source_adventures: ["SP-HAL-01"]
 tags: [bestiary, statblock, 2014-5e]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Straw Double
@@ -89,7 +92,7 @@ A double leaves nothing behind but straw and clothes. Its "memory stuffing" is a
 
 ## Art Prompt
 ```
-A scarecrow dressed in a farm wife's patched blue dress and apron, standing upright in a doorway, its burlap face half-glamoured into a plain, smiling woman's face, straw spilling from the cuffs and collar, one stalk of wheat caught in its hair, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A scarecrow dressed in a farm wife's patched blue dress and apron, standing upright in a doorway, its burlap face half-glamoured into a plain, smiling woman's face, straw spilling from the cuffs and collar, one stalk of wheat caught in its hair, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

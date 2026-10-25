@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Wolf (MM p. 341) + Bone Beast Template"
 source_adventures: ["SP-PBS-02"]
 tags: [bestiary, statblock, 2014-5e, bone-beast]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Bone Hound
@@ -70,7 +73,7 @@ Each hound's binding ring is worth 5 gp as metal, or more to a scholar. Ten or m
 
 ## Art Prompt
 ```
-The bare skeleton of a large wolf loping through mist over heather, every bone pale and clean, a ring of old green bronze around its neck cut with a triple spiral, its jaws open but silent, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+The bare skeleton of a large wolf loping through mist over heather, every bone pale and clean, a ring of old green bronze around its neck cut with a triple spiral, its jaws open but silent, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

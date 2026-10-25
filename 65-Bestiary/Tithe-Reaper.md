@@ -17,6 +17,9 @@ origin: harvested
 base_block: "Wraith (MM p. 302)"
 source_adventures: ["SP-HAL-03", "SP-HAL-04"]
 tags: [bestiary, statblock, 2014-5e, villain-type]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Tithe-Reaper
@@ -89,7 +92,7 @@ A destroyed reaper leaves its ledger, a rotted book naming every life it collect
 
 ## Art Prompt
 ```
-A gaunt hovering wraith in the rotted black coat and broad hat of a village tithe-collector, a frayed hangman's rope still knotted at its throat, one finger missing from its long grey hand, a ledger chained to its belt, drifting above an ossuary floor of stacked bones, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A gaunt hovering wraith in the rotted black coat and broad hat of a village tithe-collector, a frayed hangman's rope still knotted at its throat, one finger missing from its long grey hand, a ledger chained to its belt, drifting above an ossuary floor of stacked bones, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

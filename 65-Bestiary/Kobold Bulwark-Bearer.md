@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Kobold Bulwark-Bearer
@@ -117,7 +120,7 @@ Shield Bash's DC 12 is Constitution-based (8 + 2 + 2), not Strength-based. It ma
 
 ## Art Prompt
 ```
-A stocky kobold in mismatched scrap plate crouched behind a braced tower shield taller than itself, the shield riveted from salvaged iron and faced with overlapping scales of red dragonhide, a long pole with a hooked blade raised over its rim, small bright eyes peering through a gap, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A stocky kobold in mismatched scrap plate crouched behind a braced tower shield taller than itself, the shield riveted from salvaged iron and faced with overlapping scales of red dragonhide, a long pole with a hooked blade raised over its rim, small bright eyes peering through a gap, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

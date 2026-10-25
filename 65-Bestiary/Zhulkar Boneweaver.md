@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 17 to CR 19)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary, villain-type, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Zhulkar Boneweaver
@@ -158,7 +162,7 @@ Zhulkar's spellbook holds every spell he has prepared, plus 1d6 other necromancy
 
 ## Art Prompt
 ```
-A towering Large undead sorcerer whose whole body is woven from hundreds of human and animal bones lashed and fused together, ribs and vertebrae layered into plated armor, green necrotic fire burning inside its ribcage and empty eye sockets, holding a long scepter of fused bone, seated on a throne of skulls, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A towering Large undead sorcerer whose whole body is woven from hundreds of human and animal bones lashed and fused together, ribs and vertebrae layered into plated armor, green necrotic fire burning inside its ribcage and empty eye sockets, holding a long scepter of fused bone, seated on a throne of skulls, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

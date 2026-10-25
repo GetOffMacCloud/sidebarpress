@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Bell-Strung Corpse
@@ -91,7 +94,7 @@ Each grave-bell is a small iron bell worth 2 gp. A corpse's grave goods are wort
 
 ## Art Prompt
 ```
-A shambling grey corpse in a rotted burial shroud climbing out of a fresh grave, a waxed cord knotted around its wrist and running taut up to a small iron bell hung on a crooked post above the grave, soil falling from its shoulders, its jaw slack, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A shambling grey corpse in a rotted burial shroud climbing out of a fresh grave, a waxed cord knotted around its wrist and running taut up to a small iron bell hung on a crooked post above the grave, soil falling from its shoulders, its jaw slack, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

@@ -17,6 +17,9 @@ origin: new
 base_block: "none"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, swarm]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Hush-Moth Swarm
@@ -85,7 +88,7 @@ A sack of hush-moth dust (gathered from a destroyed swarm with a DC 12 Wisdom (S
 
 ## Art Prompt
 ```
-A drifting cloud of hundreds of soft grey moths pouring from the louvres of an old stone belfry, a cracked bronze bell visible inside, grey dust sifting down through still air, every moth wing patterned like a closed mouth, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A drifting cloud of hundreds of soft grey moths pouring from the louvres of an old stone belfry, a cracked bronze bell visible inside, grey dust sifting down through still air, every moth wing patterned like a closed mouth, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

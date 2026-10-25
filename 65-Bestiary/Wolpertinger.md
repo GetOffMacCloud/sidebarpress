@@ -17,6 +17,9 @@ origin: folklore
 base_block: "none"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, folklore, bavarian]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Wolpertinger
@@ -80,7 +83,7 @@ A wolpertinger's antlers (worth 5 gp) are prized as good-luck charms. A live wol
 
 ## Art Prompt
 ```
-A brown mountain hare sitting upright in a moonlit alpine clearing, small forked roebuck antlers on its head, speckled pheasant wings folded at its sides, two little fangs showing in a knowing grin, pine trees behind, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A brown mountain hare sitting upright in a moonlit alpine clearing, small forked roebuck antlers on its head, speckled pheasant wings folded at its sides, two little fangs showing in a knowing grin, pine trees behind, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

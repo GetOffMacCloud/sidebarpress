@@ -18,6 +18,9 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Giant Hyena Witherling
@@ -104,7 +107,7 @@ The war-band hangs trophies from the witherling's hide: teeth, ears, and stolen 
 
 ## Art Prompt
 ```
-A horse-sized undead giant hyena with its spotted hide dried to cracked leather over a jutting cage of ribs, the shrunken bodies of dead gnolls visible packed inside its ribcage, its jaws open in a dry silent laugh, strings of teeth and trophies hung from its neck, loping through dust, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A horse-sized undead giant hyena with its spotted hide dried to cracked leather over a jutting cage of ribs, the shrunken bodies of dead gnolls visible packed inside its ribcage, its jaws open in a dry silent laugh, strings of teeth and trophies hung from its neck, loping through dust, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

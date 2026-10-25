@@ -17,6 +17,9 @@ origin: remix
 base_block: "Troll (MM p. 291)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Toll-Troll
@@ -96,7 +99,7 @@ Under every toll-troll bridge is a hoard of tolls: odd keepsakes, letters, coins
 
 ## Art Prompt
 ```
-A huge moss-grey troll hauling itself up onto the planks of an old timber bridge over a fast river, water streaming from its long arms, a heap of odd trinkets and dolls piled on the bank below, its expression shrewd rather than savage, one clawed hand held out palm-up for payment, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge moss-grey troll hauling itself up onto the planks of an old timber bridge over a fast river, water streaming from its long arms, a heap of odd trinkets and dolls piled on the bank below, its expression shrewd rather than savage, one clawed hand held out palm-up for payment, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

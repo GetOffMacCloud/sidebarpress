@@ -17,6 +17,9 @@ origin: folklore
 base_block: "none"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, folklore, english]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
 ---
 
 # Church Grim
@@ -83,7 +86,7 @@ None from the grim. A grim that is befriended, or that the party fights beside, 
 
 ## Art Prompt
 ```
-A huge shaggy black dog the size of a calf lying on the stone step of an old parish church in the rain, its eyes pale and steady, the north wall of the churchyard and leaning headstones behind it, a lych-gate in the foreground, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge shaggy black dog the size of a calf lying on the stone step of an old parish church in the rain, its eyes pale and steady, the north wall of the churchyard and leaning headstones behind it, a lych-gate in the foreground, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

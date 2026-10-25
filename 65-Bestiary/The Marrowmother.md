@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary, villain-type, rogues-gallery, marrow-brood]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # The Marrowmother
@@ -120,7 +124,7 @@ Reknit raised "Stitched Horrors" in the source, without a statblock. The four br
 
 ## Art Prompt
 ```
-A huge hollow undead spider hanging upside down from a cave roof, its eight legs made of long human and horse bones splinted and lashed together with grey silk, its body an empty lattice cage of ribs, a fanged head of fused skull-bone, threads of grey silk strung beneath it holding wrapped corpses, splinters of bone scattered below, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge hollow undead spider hanging upside down from a cave roof, its eight legs made of long human and horse bones splinted and lashed together with grey silk, its body an empty lattice cage of ribs, a fanged head of fused skull-bone, threads of grey silk strung beneath it holding wrapped corpses, splinters of bone scattered below, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 12 to CR 17)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary, villain-type, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Glazryth, the Pale Terror
@@ -123,7 +127,7 @@ Glazryth's hide yields enough white scales for one suit of *dragon scale mail* (
 
 ## Art Prompt
 ```
-A huge gaunt white dragon erupting from a crust of snow on a glacier, frost smoking off its jagged pale scales, a broad frilled crest and icicles hanging from its jaw, behind it a sheer wall of clear blue ice holding the dim shapes of frozen people standing in a row, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge gaunt white dragon erupting from a crust of snow on a glacier, frost smoking off its jagged pale scales, a broad frilled crest and icicles hanging from its jaw, behind it a sheer wall of clear blue ice holding the dim shapes of frozen people standing in a row, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import

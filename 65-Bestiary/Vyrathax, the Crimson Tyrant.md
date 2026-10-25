@@ -18,6 +18,10 @@ credit: "GrimmGrixis"
 base_block: "none (contributed statblock, re-rated from CR 12 to CR 17)"
 source_adventures: []
 tags: [bestiary, statblock, 2014-5e, contributed, legendary, villain-type, rogues-gallery]
+art_plate: todo        # todo | generated | approved | placed
+portrait: todo
+token: todo
+art_splash: todo
 ---
 
 # Vyrathax, the Crimson Tyrant
@@ -118,7 +122,7 @@ The crown of the last king is worth 5,000 gp, and anyone who wears it has a plau
 
 ## Art Prompt
 ```
-A huge crimson dragon sprawled across a broken stone throne in a burned-out dwarven hall, a tarnished human king's crown hooked over one of its swept-back horns, smoke curling from its nostrils, its scales the deep red of old blood, grey ash drifting down around it, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
+A huge crimson dragon sprawled across a broken stone throne in a burned-out dwarven hall, a tarnished human king's crown hooked over one of its swept-back horns, smoke curling from its nostrils, its scales the deep red of old blood, grey ash drifting down around it, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, naturalist field-guide plate, a single creature studied in full on a plain warm parchment ground, oil on board, muted umber, bone, moss and slate palette, soft overcast light, eerie and restrained, folk-horror mood, no text --ar 3:4 --v 8.1 --style raw --seed 26500
 ```
 
 ## FGU Import
