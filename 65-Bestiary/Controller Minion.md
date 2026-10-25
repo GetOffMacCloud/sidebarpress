@@ -26,6 +26,8 @@ A **controller minion** deals little damage. Instead it pins, marks, and hinders
 > - ***Mark.*** One creature the minion can see within 60 feet must succeed on a Wisdom saving throw against the table's DC or be marked until the end of its next turn. A marked creature gains no benefit from being invisible or hidden, and the first attack roll against it each round has advantage.
 > - ***Hex.*** One creature the minion can see within 60 feet must succeed on a Wisdom saving throw against the table's DC or subtract 1d4 from its attack rolls and saving throws until the end of its next turn.
 
+**In Fantasy Grounds:** generic controller minions for every APL 1–20 are in [[Controller Minion — FGU Templates]].
+
 ## Running Controller Minions
 - Spread the effects around the party. Don't stack three Hampers on one target.
 - Kill them early, the party should learn; that's the lesson the controller teaches.

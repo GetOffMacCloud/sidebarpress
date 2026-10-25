@@ -26,6 +26,8 @@ A **brute minion** hits harder than any other minion and dies just as easily. A 
 > - ***Overwhelm.*** When the minion hits a creature with a melee attack, the target must succeed on a Strength saving throw (the table's DC) or be pushed 10 feet away or knocked prone (the minion's choice).
 > - ***Reckless.*** The minion has advantage on its melee attack rolls, but attack rolls against it have advantage.
 
+**In Fantasy Grounds:** generic brute minions for every APL 1–20 are in [[Brute Minion — FGU Templates]].
+
 ## Running Brute Minions
 - Send them at the front line in a wave; every fighter who kills one may still take the Death-Blow.
 - Pair them with an enforcer or leader that stays alive, so the party can't just mow through to the boss.

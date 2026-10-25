@@ -26,6 +26,8 @@ A **leader minion** makes the rest of the pack better while it lives. It's the p
 > - ***Command (Bonus Action).*** One ally the minion can see within 30 feet of it can use its reaction to make one attack.
 > - ***Last Order.*** When the minion drops to 0 hit points, each ally within 30 feet of it that can see it can immediately move up to half its speed.
 
+**In Fantasy Grounds:** generic leader minions for every APL 1–20 are in [[Leader Minion — FGU Templates]].
+
 ## Running Leader Minions
 - Keep it in the second rank, behind enforcers.
 - When it falls, the pack should waver: give the remaining minions a DC 10 Wisdom saving throw or have them flee.

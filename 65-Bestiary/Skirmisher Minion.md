@@ -26,6 +26,8 @@ A **skirmisher minion** is fast and slippery. It runs past the line to the heale
 > - ***Charge.*** If the minion moves at least 20 feet straight toward a target and then hits it with a melee attack on the same turn, the attack deals extra damage equal to half its normal damage.
 > - ***Pack Tactics.*** The minion has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
 
+**In Fantasy Grounds:** generic skirmisher minions for every APL 1–20 are in [[Skirmisher Minion — FGU Templates]].
+
 ## Running Skirmisher Minions
 - Ignore the fighter. Go for whoever is concentrating on a spell, or whoever is already hurt.
 - Use terrain the party can't cross easily: skirmishers with a climb speed own the walls.

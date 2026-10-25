@@ -14,20 +14,20 @@ Raw, unedited files in `_raw/`: `oerik-facebook-capture-2026-10-25.json` (the me
 
 | Book | Parts on file | Highest part | Still missing |
 |---|---|---|---|
-| Book 1 | 277 | 389 | 111 |
-| Book 2 | 147 | 220 | 73 |
+| Book 1 | 385 | 389 | 3 |
+| Book 2 | 152 | 220 | 68 |
 | Book 3 | 78 | 83 | 5 |
 
 ## Missing parts (as of 2026-10-25)
 
-Book 1 has **no Part 100** (Greybeard, 2026-10-25). Parts 87–90 and 97–99 were recovered in `oerik-facebook-supplement-2.json`; Parts 114–115, 117–119, 121–122 and 132–137 in `oerik-facebook-supplement-3.json`.
+Book 1 has **no Part 100** (Greybeard, 2026-10-25). Parts 87–90 and 97–99 were recovered in `oerik-facebook-supplement-2.json`; Parts 114–115, 117–119, 121–122 and 132–137 in `oerik-facebook-supplement-3.json`; the remaining Book 1 gaps (155–373, except 260, 293 and 334) in supplements 4–6.
 
 
-- **Book 1:** 155–156, 158–170, 181–182, 184, 196–199, 204–215, 228–230, 242–246, 250–251, 253–262, 271–287, 289–290, 292–305, 318–321, 334–336, 338–339, 347–360, 373
-- **Book 2:** 2–4, 14, 26–27, 29–36, 39, 41–47, 58–59, 68–86, 99–100, 102, 109, 112–119, 130–138, 165–168, 187, 212–215
+- **Book 1:** 260, 293, 334 (not found by `"Part N"` search, the `"History of Oerik" "Part N"` form, or keyword searches on neighboring characters)
+- **Book 2:** 2–4, 14, 26–27, 29–36, 39, 41–47, 58–59, 68–86, 99–100, 102, 109, 112–119, 130–138, 165–167, 187
 - **Book 3:** 8, 24, 46, 51, 53
 
-**How to recover a missing part:** search the group for `"Part N" Oerik` (literal phrase). This found every Book 1 gap up to Part 62 on 2026-10-25.
+**How to recover a missing part:** search the group for `"Part N" Oerik` or `"History of Oerik" "Part N"` (literal phrases). Facebook virtualizes search results, so the page must be scrolled in steps and posts grabbed at each step; a single scroll to the bottom misses most results. This found every Book 1 gap up to Part 62 on 2026-10-25.
 
 Book 1 Parts 19–20 come from Greybeard's pastes. Book 1 Parts 84, 96 and 106 were posted without a "Book 1" line.
 

@@ -97,6 +97,7 @@ Each type's note has its signature abilities written out, tactics, and a worked 
 Minion XP adds up fast, and every fourth minion also bumps the multiplier. Add them four at a time and recheck.
 
 ### Running Minions at the Table
+- **Fantasy Grounds:** 140 ready-made generic minions (every type at every APL 1–20) are in [[FGU Minion Templates — Index]]. Import the one you need, rename it, and reskin it.
 - Optionally, roll **one attack roll for each group** of up to four minions attacking the same target. If it beats AC, every minion in the group hits.
 - In Fantasy Grounds, paste a minion's import text once and drag in as many copies as you need. With 1 hit point, any hit drops them.
 - Describe each death in a word or two, so the players feel every swing land.

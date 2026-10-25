@@ -27,6 +27,8 @@ An **artillery minion** shoots from the back. Alone it's nothing; six of them be
 > - ***Death Splash.*** When the minion drops to 0 hit points, each creature within 5 feet of it must succeed on a Dexterity saving throw (the table's DC) or take damage equal to the table's ×0.5 column, of its attack's damage type.
 > - ***Keep Distance (Reaction).*** When a creature moves within 5 feet of the minion, the minion moves up to half its speed without provoking opportunity attacks.
 
+**In Fantasy Grounds:** generic artillery minions for every APL 1–20 are in [[Artillery Minion — FGU Templates]].
+
 ## Running Artillery Minions
 - Place them high, behind cover, or across something the party has to cross.
 - Death Splash makes the fighter who wades in to cut them down pay for it.

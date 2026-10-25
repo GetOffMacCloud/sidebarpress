@@ -26,6 +26,8 @@ A **lurker minion** waits in the dark and strikes first. A pack of them springin
 > - ***Drop from Above.*** If the minion drops onto a creature from at least 10 feet above it, the target must succeed on a Strength saving throw (the table's DC) or be knocked prone, and the minion's first attack against it this turn has advantage.
 > - ***Fade.*** While in dim light or darkness, the minion can take the Hide action as a bonus action.
 
+**In Fantasy Grounds:** generic lurker minions for every APL 1–20 are in [[Lurker Minion — FGU Templates]].
+
 ## Running Lurker Minions
 - Place them before the fight: in the rafters, under the water, among the dead.
 - After round one, they fight badly. Let them try to slip away and strike again later.

@@ -27,6 +27,8 @@ An **enforcer minion** is hard to hit and protects others. It's the living wall 
 > - ***Hold the Line.*** Creatures provoke opportunity attacks from the minion when they move 5 feet or more within its reach, even if they took the Disengage action. When it hits with an opportunity attack, the target's speed becomes 0 for the rest of the turn.
 > - ***Shield Wall.*** Allies within 5 feet of the minion have half cover (+2 bonus to AC and Dexterity saving throws).
 
+**In Fantasy Grounds:** generic enforcer minions for every APL 1–20 are in [[Enforcer Minion — FGU Templates]].
+
 ## Running Enforcer Minions
 - Ring the boss with them. With Interpose, each one is effectively a hit point the party must strip away.
 - Put them in doorways and on bridges with Hold the Line; the party has to go through, not around.
