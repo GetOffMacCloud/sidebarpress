@@ -14,7 +14,7 @@ The great spines of the Crystalmists were the center of dwarven kind. Enormous c
 
 Dwur covered the Jotens, the Sulhaut, the Barrier Peaks and the Crystalmists, and in addition had various holdings throughout the hills and mountains of Eastern Oerik.
 
-Magical gates were used to connect with the continent of Mystara, west of the Solnor Sea, and to the sprawling mountains of Rockhome. The Dwur all proudly served under the benign authority of their High King and god, Moradin Soulforger.
+Magical gates were used to connect with the continent of Mystara, east of the Solnor Sea, and to the sprawling mountains of Rockhome. The Dwur all proudly served under the benign authority of their High King and god, Moradin Soulforger.
 
 The Prince Regent, Silvervein Moradinson, administered the empire from his home in the Crystalmists. With Moradin elsewhere, working to thwart Gruumsh and his orcish armies, the Prince Regent had big (metaphorically speaking) boots to fill.
 

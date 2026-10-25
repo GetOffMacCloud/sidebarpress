@@ -29,6 +29,22 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 110]] | The Undead Dragon wakes and destroys herself; the Ghost Dragon | 528 SD | copyedited |
+| [[Book 1 — Part 111]] | The Table of the Chiefs ends the Second Dwarven War | 529 SD | copyedited |
+| [[Book 1 — Part 112]] | Dweomyne in the Abyss | 579 SD | copyedited |
+| [[Book 1 — Part 113]] | The nycadaemon takes Dweomyne and the Scroll | (after 579 SD) | copyedited |
+| [[Book 1 — Part 107]] | Kavoss unmasked; Moradin bled | 526 SD | copyedited |
+| [[Book 1 — Part 108]] | Moradin ascends to Mt. Celestia; Kavoss heads for Glantri | 526 SD | copyedited |
+| [[Book 1 — Part 109]] | The undead overrun Thel Norusti; Kavoss sacks the Flan colony | (c. 526–527 SD) | copyedited |
+| [[Book 1 — Part 104]] | Kavoss besieges Rockhome | 526 SD | copyedited |
+| [[Book 1 — Part 105]] | The Prelate finds a cure for Godrot | 526 SD | copyedited |
+| [[Book 1 — Part 106]] | The ritual of the sword | 526 SD | copyedited |
+| [[Book 1 — Part 101]] | The duergar wights march to Kenfurr | (523–524 SD) | copyedited |
+| [[Book 1 — Part 102]] | Kenfurr's graveyard rises | (c. 524 SD) | copyedited |
+| [[Book 1 — Part 103]] | Moradin poisoned with Godrot; Kavoss the Cyclops | 526 SD | copyedited |
+| [[Book 1 — Part 97]] | Duergar near the Suss find the gem caverns | 523 SD | copyedited |
+| [[Book 1 — Part 98]] | Flashback: Tiamat makes the Undead Dragon | −14,000 SD | copyedited |
+| [[Book 1 — Part 99]] | The duergar rob the Undead Dragon's hoard | 523 SD | copyedited |
 | [[Book 1 — Part 94]] | Shapeshifters; the Ur-Flan of the Sepia Uplands | 511 SD | copyedited |
 | [[Book 1 — Part 95]] | The druids and the Circle of Existence | 511 SD | copyedited |
 | [[Book 1 — Part 96]] | The druids corrupted: the first lycanthropes | 511–520 SD | copyedited |
