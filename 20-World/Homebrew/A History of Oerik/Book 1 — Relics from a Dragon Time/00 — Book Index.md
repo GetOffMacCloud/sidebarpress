@@ -29,6 +29,12 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 84]] | Silvervein slain; Pious takes the Fierce Axe | (winter 465 SD) | copyedited |
+| [[Book 1 — Part 85]] | Pious as steward; Loyalists fight on; Rockhome independent; King Druzz | 466 SD | copyedited |
+| [[Book 1 — Part 86]] | The duergar steal the Fierce Axe | 468 SD | copyedited |
+| [[Book 1 — Part 81]] | Duergar spread east; Rockhome resists; Silvervein crowned; civil war | 464 SD | copyedited |
+| [[Book 1 — Part 82]] | Pious Grimm Quartztusk's rebellion | 465 SD | copyedited |
+| [[Book 1 — Part 83]] | The march on Grawn; giant Silvervein | (winter 465 SD) | copyedited |
 | [[Book 1 — Part 78]] | The dwarven empire under Prince Regent Silvervein | (c. 459 SD) | copyedited |
 | [[Book 1 — Part 79]] | The duergar banquet | (c. 459 SD) | copyedited |
 | [[Book 1 — Part 80]] | Duergar migration; dwarven civil strife; Rockhome | 463 SD | copyedited |
