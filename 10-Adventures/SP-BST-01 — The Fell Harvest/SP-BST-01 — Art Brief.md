@@ -41,7 +41,7 @@ Back to [[SP-BST-01-The-Fell-Harvest]] · Index: [[65-Bestiary/00 — Bestiary I
 - The whole creature is in frame, and no part touches the edge.
 - The head and shoulders sit in the **upper middle third**. Your token maker crops there.
 - The background is bare white with nothing behind the head, so the token maker's cutout stays clean.
-- **Huge and serpentine creatures** (the dragons, the Marrowmother, Sylvarith) curl or coil to fit the frame rather than being cropped. If a plate can't give a clean head crop, generate one extra **head study** for the token: the same prompt, swapping "full figure" for "head and shoulders portrait".
+- **Huge and serpentine creatures** (the dragons, the Marrowmother, Sylvarith) curl or coil to fit the frame rather than being cropped. These ten have a ready-made **Head study** prompt in their note, under *Art Prompt*, for the FGU portrait and the token: [[Glazryth, the Pale Terror]], [[Sylvarith, the Venomous Wyrm]], [[Tharazul, the Desert Storm]], [[Vyrathax, the Crimson Tyrant]], [[Zarathryx, Champion of the Queen]], [[Zykryss, the Shadowed Doom]], [[The Marrowmother]], [[Viper Guardian]], [[Harvest Lord]], and [[Wicker Colossus]]. Every other creature's portrait is simply a crop of its plate.
 
 ---
 

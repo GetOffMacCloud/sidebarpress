@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-24T18:59:38.378Z",
-      "total": 249490,
+      "total": 251064,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -106,7 +106,7 @@
           }
         },
         "65-Bestiary/00 — Bestiary Index.md": {
-          "total": 192483,
+          "total": 194057,
           "scenes": {
             "01 — Introduction": 583,
             "02 — Reading an Entry": 618,
@@ -134,7 +134,7 @@
             "Giant Hyena Witherling": 1901,
             "Gnoll Warshaman": 2619,
             "Goblin Battle-Drummer": 1620,
-            "Harvest Lord": 3481,
+            "Harvest Lord": 3635,
             "Hawk Guardian": 2023,
             "Hellborne": 2340,
             "Hush-Moth Swarm": 2873,
@@ -163,8 +163,8 @@
             "Toiling Haunt": 1486,
             "Toll-Troll": 3081,
             "Tunnel Scarhound": 1348,
-            "Viper Guardian": 2602,
-            "Wicker Colossus": 3485,
+            "Viper Guardian": 2753,
+            "Wicker Colossus": 3643,
             "Wolpertinger": 2298,
             "03 — Rogues' Gallery": 197,
             "Braknor Skullrend": 2351,
@@ -172,24 +172,24 @@
             "Drevnar Soulreaver": 2219,
             "The Endless Howl": 2216,
             "Eylandra Stormchant": 3534,
-            "Glazryth, the Pale Terror": 2376,
+            "Glazryth, the Pale Terror": 2536,
             "Gluttonwretch": 5080,
             "Gorzak the Flaymaster": 2270,
             "Grakh Unscarred": 2602,
-            "The Marrowmother": 2616,
+            "The Marrowmother": 2770,
             "Mortenia's Echo, the Silent Sister": 4152,
             "The Ninefold Voice": 2704,
             "Saiyora's Echo, the Iron Sister": 2385,
             "Sister Amarantha Wick, The Bell-Keeper": 2530,
             "Sorrowbay, the Chained Sire": 2540,
-            "Sylvarith, the Venomous Wyrm": 2231,
-            "Tharazul, the Desert Storm": 2256,
+            "Sylvarith, the Venomous Wyrm": 2388,
+            "Tharazul, the Desert Storm": 2410,
             "Velka's Echo, the Veiled Sister": 2472,
             "Vespera Pixiecoil, the Prism-Coiled": 4252,
-            "Vyrathax, the Crimson Tyrant": 2147,
-            "Zarathryx, Champion of the Queen": 2866,
+            "Vyrathax, the Crimson Tyrant": 2306,
+            "Zarathryx, Champion of the Queen": 3037,
             "Zhulkar Boneweaver": 3446,
-            "Zykryss, the Shadowed Doom": 2241,
+            "Zykryss, the Shadowed Doom": 2397,
             "90 — Creatures by Challenge": 1450,
             "91 — Creatures by Environment": 1994
           }
