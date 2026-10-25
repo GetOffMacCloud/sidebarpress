@@ -64,6 +64,53 @@ If the party asks what the crows see, Hesper looks at the sky for a moment. *"Th
 
 **Terrain:** waist-high wheat, difficult terrain, restraining roots (DC 14). The field's edge, 60 feet off, is safety. · **Tactics:** a mound engulfs the restrained PC and drags them deeper into the rows; the others shamble between the party and the edge. Lightning heals them, so a storm sorcerer learns something. · **DM direction:** this is the pact's plenty with the varnish off. Describe the buttons and bones in the wheat. The goal is to reach the edge, not to win.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Wheat Mound** minions, built from the **shambling mound** (MM p. 270) with the [[Controller Minion]] template at **APL 9**. Smaller mounds of wheat and guest-bones heave up out of the field. Each minion is worth **1250 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Wheat Mound, Controller Minion (CR 9 minion, 1250 XP)
+> *Large plant, unaligned*
+> **Armor Class** 16 (natural armor) · **Hit Points** 1 (minion) · **Speed** 20 ft., swim 20 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 18 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 10 (+0) | 5 (−3) |
+>
+> **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10 · **Languages** — · **Challenge** 9 (1250 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> **Actions**
+> ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 bludgeoning damage.
+>
+> ***Grasping Wheat (Controller).*** In place of its attack, the mound targets one creature it can see within 60 feet of it. The target must succeed on a DC 16 Strength saving throw or, until the end of its next turn, its speed becomes 0 as wet wheat drags at it.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 8 | 16 | +7 | 16 | 11 | 975 |
+| 9 (built) | 16 | +7 | 16 | 12 | 1,250 |
+| 10 | 17 | +7 | 16 | 13 | 1,475 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Wheat Mound, Controller Minion
+> Large plant, unaligned
+> Armor Class 16 (natural armor)
+> Hit Points 1 (minion)
+> Speed 20 ft., swim 20 ft.
+> STR DEX CON INT WIS CHA
+> 18 (+4) 8 (-1) 16 (+3) 5 (-3) 10 (+0) 5 (-3)
+> Senses blindsight 60 ft. (blind beyond this radius), passive Perception 10
+> Languages -
+> Challenge 9 (1250 XP) Proficiency Bonus +4
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Actions
+> Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 bludgeoning damage.
+> Grasping Wheat (Controller). In place of its attack, the mound targets one creature it can see within 60 feet of it. The target must succeed on a DC 16 Strength saving throw or, until the end of its next turn, its speed becomes 0 as wet wheat drags at it.
+> ```
+
 ## Clues Available Here
 - Bones and buttons in the mounds → the fields are fed on guests
 - *"Under the barn floor"* → where the heart is

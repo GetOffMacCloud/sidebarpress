@@ -65,6 +65,57 @@ Once exposed, she fights as a **Straw Double** with 22 hit points and her longsw
 
 **Terrain:** the inn's common room, a hearth. **Tactics:** Voss keeps the hearth at her back, between her and the fire. **DM direction:** the point is the guards' faces when the straw spills out, not the hit points.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Straw Double** minions, built from the [[Straw Double]] with the [[Brute Minion]] template at **APL 2**. Doubles in the mob turn on the party once Voss is exposed. Each minion is worth **112 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Straw Double, Brute Minion (CR 2 minion, 112 XP)
+> *Medium construct (glamoured), unaligned*
+> **Armor Class** 12 (patched clothes) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 10 (+0) | 10 (+0) | 10 (+0) | 6 (−2) | 8 (−1) | 10 (+0) |
+>
+> **Senses** passive Perception 9 · **Languages** the languages of the villager it copies · **Challenge** 2 (112 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***False Appearance.*** While the double remains motionless on a scarecrow post, it is indistinguishable from an ordinary scarecrow.
+>
+> ***Death-Blow (Brute).*** When the double drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
+>
+> **Actions**
+> ***Club.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 11 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 12 | +3 | 13 | 8 | 50 |
+| 2 (built) | 12 | +3 | 13 | 11 | 112 |
+| 3 | 12 | +4 | 13 | 14 | 175 |
+| 4 | 13 | +5 | 14 | 18 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Straw Double, Brute Minion
+> Medium construct (glamoured), unaligned
+> Armor Class 12 (patched clothes)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 10 (+0) 10 (+0) 10 (+0) 6 (-2) 8 (-1) 10 (+0)
+> Senses passive Perception 9
+> Languages the languages of the villager it copies
+> Challenge 2 (112 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> False Appearance. While the double remains motionless on a scarecrow post, it is indistinguishable from an ordinary scarecrow.
+> Death-Blow (Brute). When the double drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
+> Actions
+> Club. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 11 bludgeoning damage.
+> ```
+
 ## Clues Available Here
 - Seven extra posts with family bracelets → the doubles are fake; seven are missing
 - The hair in each dolly → Widow Haskell is the hag; the dollies mark targets

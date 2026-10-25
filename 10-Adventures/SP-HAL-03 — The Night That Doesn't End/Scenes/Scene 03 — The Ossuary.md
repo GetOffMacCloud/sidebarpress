@@ -59,6 +59,54 @@ If the party is still down here at the tolls, they hear them as a physical blow 
 
 **Terrain:** a long vaulted hall hung with lanterns at head height (half cover for Medium creatures weaving through), floor of packed bone dust. **Tactics:** ghasts use their stench, then paralyze and drag a PC toward the lanterns. **DM direction:** area attacks here break lanterns, which is good for the Echoes and bad for stealth. Let the party choose.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Ossuary Ghast** minions, built from the **ghast** (MM p. 148) with the [[Brute Minion]] template at **APL 6**. Lesser ghasts climb out of the bone-stacks. Each minion is worth **575 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Ossuary Ghast, Brute Minion (CR 6 minion, 575 XP)
+> *Medium undead, chaotic evil*
+> **Armor Class** 14 (natural armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1) |
+>
+> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** Common · **Challenge** 6 (575 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Overwhelm (Brute).*** When the ghast hits a creature with a melee attack, the target must succeed on a DC 15 Strength saving throw or be pushed 10 feet away or knocked prone (the ghast's choice).
+>
+> **Actions**
+> ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 26 slashing damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 5 | 14 | +6 | 15 | 21 | 450 |
+| 6 (built) | 14 | +6 | 15 | 26 | 575 |
+| 7 | 14 | +6 | 15 | 29 | 725 |
+| 8 | 15 | +7 | 16 | 32 | 975 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Ossuary Ghast, Brute Minion
+> Medium undead, chaotic evil
+> Armor Class 14 (natural armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 16 (+3) 17 (+3) 10 (+0) 11 (+0) 10 (+0) 8 (-1)
+> Senses darkvision 60 ft., passive Perception 10
+> Languages Common
+> Challenge 6 (575 XP) Proficiency Bonus +3
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Overwhelm (Brute). When the ghast hits a creature with a melee attack, the target must succeed on a DC 15 Strength saving throw or be pushed 10 feet away or knocked prone (the ghast's choice).
+> Actions
+> Claws. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 26 slashing damage.
+> ```
+
 ## Clues Available Here
 - Thorne's finger bone on the first column → the thirteenth toll binds him
 - "Thornbury — the 99th. The guest must come." → the bundle's next hook

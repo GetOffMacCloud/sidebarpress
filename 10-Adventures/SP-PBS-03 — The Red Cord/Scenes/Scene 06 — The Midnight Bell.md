@@ -121,6 +121,54 @@ Full block, with *Old Knees*, in [[SP-PBS-03 — Bestiary]].
 - **Jost yields** at a quarter of his HP if he is clearly beaten. He never fights dirty.
 - **DM direction:** this is the old man's last fight and he knows it. Describe it as a good one whoever wins.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Crowd Brawler** minions, built from the **bandit** (MM p. 343), as the crowd, with the [[Enforcer Minion]] template at **APL 3**. Not for the bout itself, which is one-on-one under Kord. Use only if the crowd rushes the ring. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Crowd Brawler, Enforcer Minion (CR 3 minion, 175 XP)
+> *Medium humanoid (any race), any non-lawful alignment*
+> **Armor Class** 15 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
+>
+> **Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Hold the Line (Enforcer).*** Creatures provoke opportunity attacks from the brawler when they move 5 feet or more within its reach, even if they took the Disengage action. When it hits with an opportunity attack, the target's speed becomes 0 for the rest of the turn.
+>
+> **Actions**
+> ***Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 15 | +3 | 13 | 4 | 50 |
+| 2 | 15 | +3 | 13 | 5 | 112 |
+| 3 (built) | 15 | +4 | 13 | 7 | 175 |
+| 4 | 16 | +5 | 14 | 9 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Crowd Brawler, Enforcer Minion
+> Medium humanoid (any race), any non-lawful alignment
+> Armor Class 15 (leather armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 11 (+0) 12 (+1) 12 (+1) 10 (+0) 10 (+0) 10 (+0)
+> Senses passive Perception 10
+> Languages Common
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Hold the Line (Enforcer). Creatures provoke opportunity attacks from the brawler when they move 5 feet or more within its reach, even if they took the Disengage action. When it hits with an opportunity attack, the target's speed becomes 0 for the rest of the turn.
+> Actions
+> Fists. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 bludgeoning damage.
+> ```
+
 ## Endings
 | Ending | Condition | Result |
 |---|---|---|

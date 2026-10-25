@@ -63,6 +63,54 @@ Before the gate, [[Sister-Halya]] draws the most honest-looking PC into a stable
 
 Statblocks: [[SP-PBS-01 — Bestiary]]. The winter wolf **speaks first**: it offers to let them pass for a mule. It is lying about letting them pass. The fight is short and cold. Say aloud afterward that the Chakyik live through this every winter.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Steppe Wolf** minions, built from the **wolf** (MM p. 341), running with the winter wolf, with the [[Skirmisher Minion]] template at **APL 3**. More of the pack circle in out of the snow. For 5–6 PCs, add four. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Steppe Wolf, Skirmisher Minion (CR 3 minion, 175 XP)
+> *Medium beast, unaligned*
+> **Armor Class** 13 (natural armor) · **Hit Points** 1 (minion) · **Speed** 50 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
+>
+> **Senses** passive Perception 11 · **Languages** — · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+> ***Pack Tactics (Skirmisher).*** The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+> **Actions**
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 (built) | 13 | +4 | 13 | 9 | 175 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Steppe Wolf, Skirmisher Minion
+> Medium beast, unaligned
+> Armor Class 13 (natural armor)
+> Hit Points 1 (minion)
+> Speed 50 ft.
+> STR DEX CON INT WIS CHA
+> 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+> Senses passive Perception 11
+> Languages -
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Keen Hearing and Smell. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+> Pack Tactics (Skirmisher). The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> Actions
+> Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+> ```
+
 ## First Sight of Yecha
 > *The wind drops all at once.*
 

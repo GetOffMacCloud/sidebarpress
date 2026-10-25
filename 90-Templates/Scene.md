@@ -35,6 +35,37 @@ The things that happen, in the likely order, with the checks and DCs inline. Bol
 
 **Terrain:** · **Tactics:** · **DM direction:**
 
+### Minion Pack (just in case)
+*Every combat scene carries one ready-to-run minion pack. Fill it in when the scene is drafted (or ask Claude: "fill the minion pack for this scene"). Build it from this scene's own foes with a [[04 — Minions|minion template]] at the adventure's main APL.*
+
+Use this when the fight needs more bodies: a pack of 4–8 **<Source> minions**, built from [[<Source>]] with the [[<Type> Minion]] template at **APL <N>**. <One line: where they come from in this scene.> Each minion is worth **<XP> XP**, and every four count as one creature for the encounter multiplier. Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- <Source>, <Type> Minion (CR <APL> minion, <XP> XP)
+> *<Size> <type>, <alignment>*
+> **Armor Class** <table AC ± type> (<armor>) · **Hit Points** 1 (minion) · **Speed** <speed>
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+>
+> **Senses** passive Perception <10 + Wis> · **Languages** <languages> · **Challenge** <APL> (<XP> XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***<Signature> (<Type>).*** <signature text from the type's note, with the table DC>
+>
+> **Actions**
+> ***<Attack>.*** *Melee Weapon Attack:* +<table attack> to hit, reach 5 ft., one target. *Hit:* <fixed damage> <type> damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| <APL> (built) | | | | | |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+
 ## Clues Available Here
 - Clue → conclusion it supports (ties to the Clue Ledger)
 

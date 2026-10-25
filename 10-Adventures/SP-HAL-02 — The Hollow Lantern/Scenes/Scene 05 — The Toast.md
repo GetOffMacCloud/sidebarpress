@@ -56,6 +56,58 @@ If an invitee drinks before the party acts, they sleep and do not wake. Their bo
 
 **Terrain:** the grand stair (she has the high ground), the long tables, cups within reach of every invitee. · **Tactics:** Corrupting Touch on whoever holds the evidence; Horrifying Visage on the stair; Wail when cornered. · **DM direction:** play her as certain she's the victim. She argues. Let the players argue back; the exposure ending is a conversation with a DC on it.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Drowned Guest** minions, built from the [[Drowned Guest]] with the [[Enforcer Minion]] template at **APL 4**. Footmen on the stair shield the bride. Each minion is worth **275 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Drowned Guest, Enforcer Minion (CR 4 minion, 275 XP)
+> *Medium undead, neutral evil*
+> **Armor Class** 16 (natural armor) · **Hit Points** 1 (minion) · **Speed** 20 ft., swim 20 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
+>
+> **Senses** darkvision 60 ft., passive Perception 8 · **Languages** understands the languages it knew in life but can't speak · **Challenge** 4 (275 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Waterlogged.*** The guest can breathe water, and it has advantage on Strength (Athletics) checks made to grapple a creature that is in water.
+>
+> **Actions**
+> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 bludgeoning damage.
+>
+> **Reactions**
+> ***Interpose (Enforcer).*** When another creature the guest can see within 5 feet of it is hit by an attack, the guest makes the attack hit it instead.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 | 15 | +4 | 13 | 7 | 175 |
+| 4 (built) | 16 | +5 | 14 | 9 | 275 |
+| 5 | 17 | +6 | 15 | 11 | 450 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Drowned Guest, Enforcer Minion
+> Medium undead, neutral evil
+> Armor Class 16 (natural armor)
+> Hit Points 1 (minion)
+> Speed 20 ft., swim 20 ft.
+> STR DEX CON INT WIS CHA
+> 13 (+1) 6 (-2) 16 (+3) 3 (-4) 6 (-2) 5 (-3)
+> Senses darkvision 60 ft., passive Perception 8
+> Languages understands the languages it knew in life but can't speak
+> Challenge 4 (275 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Waterlogged. The guest can breathe water, and it has advantage on Strength (Athletics) checks made to grapple a creature that is in water.
+> Actions
+> Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 bludgeoning damage.
+> Reactions
+> Interpose (Enforcer). When another creature the guest can see within 5 feet of it is hit by an attack, the guest makes the attack hit it instead.
+> ```
+
 ## Clues Available Here
 - The diary → Ysolde poisoned the feast; the fiddler's boat
 - The Hollow Lantern → the only light that was ever meant to be seen from the village

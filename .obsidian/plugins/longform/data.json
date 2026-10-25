@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-25T05:01:14.470Z",
-      "total": 40,
+      "total": 12556,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -111,95 +111,95 @@
           }
         },
         "10-Adventures/SP-PBS-03 — The Red Cord/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 1310,
           "scenes": {
             "Scene 01 — The Ritter's Hall": 0,
             "Scene 02 — Across the Quag": 0,
             "Scene 03 — Under the Red Cord": 0,
-            "Scene 04 — The Brawl": 0,
-            "Scene 05 — Dornhalm's Yard": 0,
-            "Scene 06 — The Midnight Bell": 0
+            "Scene 04 — The Brawl": 433,
+            "Scene 05 — Dornhalm's Yard": 420,
+            "Scene 06 — The Midnight Bell": 457
           }
         },
         "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 1775,
           "scenes": {
-            "Scene 01 — Dusk at the Pound": 0,
+            "Scene 01 — Dusk at the Pound": 464,
             "Scene 02 — Counting the Missing": 0,
-            "Scene 03 — Crossing the Dreadverge": 0,
-            "Scene 04 — The Cutters' Camp": 0,
-            "Scene 05 — The Three Sisters": 0
+            "Scene 03 — Crossing the Dreadverge": 454,
+            "Scene 04 — The Cutters' Camp": 435,
+            "Scene 05 — The Three Sisters": 422
           }
         },
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 1291,
           "scenes": {
             "Scene 00 — Greyhawk University": 0,
-            "Scene 01 — The High Pass": 0,
+            "Scene 01 — The High Pass": 480,
             "Scene 02 — The Cold Welcome": 0,
             "Scene 03 — Trial of the Horse": 0,
-            "Scene 04 — Trial of the Bow": 0,
-            "Scene 05 — Night in Yecha": 0,
+            "Scene 04 — Trial of the Bow": 424,
+            "Scene 05 — Night in Yecha": 387,
             "Scene 06 — Trial of the Fire": 0,
             "Scene 07 — The War Council": 0
           }
         },
         "10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 1286,
           "scenes": {
             "Scene 00 — Three Weeks in Aerden": 0,
             "Scene 01 — Erlenhof": 0,
-            "Scene 02 — The Erlen Bridge": 0,
+            "Scene 02 — The Erlen Bridge": 434,
             "Scene 03 — Osterschlauss": 0,
-            "Scene 04 — Two Nights on the Quag": 0,
+            "Scene 04 — Two Nights on the Quag": 401,
             "Scene 05 — The Stewards' Tent": 0,
-            "Scene 06 — The Stable Rows": 0,
+            "Scene 06 — The Stable Rows": 451,
             "Scene 07 — Post Time": 0,
             "Scene 08 — The Sale Ring": 0
           }
         },
         "10-Adventures/SP-HAL-04 — The Tithe of Thornbury/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 1259,
           "scenes": {
             "Scene 00 — Harvest Home": 0,
             "Scene 01 — The Hundredth Feast": 0,
             "Scene 02 — The Long Night": 0,
-            "Scene 03 — The Blackthorn Copse": 0,
-            "Scene 04 — The Procession": 0,
-            "Scene 05 — The Tithe Barn": 0
+            "Scene 03 — The Blackthorn Copse": 460,
+            "Scene 04 — The Procession": 386,
+            "Scene 05 — The Tithe Barn": 413
           }
         },
         "10-Adventures/SP-HAL-03 — The Night That Doesn't End/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 1851,
           "scenes": {
             "Scene 00 — The Gate at Dusk": 0,
-            "Scene 01 — Midnight, the First Time": 0,
-            "Scene 02 — Not Again": 0,
-            "Scene 03 — The Ossuary": 0,
+            "Scene 01 — Midnight, the First Time": 428,
+            "Scene 02 — Not Again": 506,
+            "Scene 03 — The Ossuary": 421,
             "Scene 04 — The Chain Crypt": 0,
-            "Scene 05 — The Thirteenth Toll": 0
+            "Scene 05 — The Thirteenth Toll": 496
           }
         },
         "10-Adventures/SP-HAL-02 — The Hollow Lantern/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 2356,
           "scenes": {
             "Scene 00 — Marrowmere at Dusk": 0,
-            "Scene 01 — The Mourning Procession": 0,
-            "Scene 02 — Crossing the Mere": 0,
-            "Scene 03 — The Great Hall": 0,
-            "Scene 04 — Below the Water": 0,
-            "Scene 05 — The Toast": 0
+            "Scene 01 — The Mourning Procession": 481,
+            "Scene 02 — Crossing the Mere": 408,
+            "Scene 03 — The Great Hall": 529,
+            "Scene 04 — Below the Water": 469,
+            "Scene 05 — The Toast": 469
           }
         },
         "10-Adventures/SP-HAL-01 — Straw Men/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 1388,
           "scenes": {
             "Scene 00 — Arrival at Hollow Ford": 0,
-            "Scene 01 — The Closing Reel": 0,
+            "Scene 01 — The Closing Reel": 497,
             "Scene 02 — The Bobbing Game": 0,
             "Scene 03 — Mother Nettle's Cottage": 0,
-            "Scene 04 — Fields and Stall": 0,
-            "Scene 05 — The Mill": 0
+            "Scene 04 — Fields and Stall": 444,
+            "Scene 05 — The Mill": 447
           }
         }
       }

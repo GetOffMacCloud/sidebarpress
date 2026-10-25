@@ -60,6 +60,53 @@ If Thorne escaped in [[SP-HAL-03-The-Night-That-Doesnt-End]], this is where he a
 
 **Terrain:** a cart road between two gold fields (the wheat is Scene 03's hazard, if anyone is pushed in); two hundred villagers filling the road behind. · **Tactics:** Slow at the first PC who tries for the cage; then it walks. It stops only if its path is physically blocked. · **DM direction:** the clock is the enemy here, not the hit points. The party doesn't need to kill it; they need the cage open before the doors. If they do kill it, it collapses into a bonfire of straw at the barn's threshold, and the fire ending is suddenly on the table.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Reap Cousin** minions, built from the **cult fanatic** (MM p. 345) with the [[Artillery Minion]] template at **APL 9**. The Sheaf's zealots sing fire from the hedgerows as the Colossus walks. Each minion is worth **1250 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Reap Cousin, Artillery Minion (CR 9 minion, 1250 XP)
+> *Medium humanoid (human), neutral evil*
+> **Armor Class** 15 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
+>
+> **Senses** passive Perception 11 · **Languages** Common · **Challenge** 9 (1250 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Steady Aim (Artillery).*** If the cousin hasn't moved this turn, it has advantage on its ranged attack roll.
+>
+> **Actions**
+> ***Searing Hymn.*** *Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 24 radiant damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 8 | 15 | +7 | 16 | 21 | 975 |
+| 9 (built) | 15 | +7 | 16 | 24 | 1,250 |
+| 10 | 16 | +7 | 16 | 26 | 1,475 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Reap Cousin, Artillery Minion
+> Medium humanoid (human), neutral evil
+> Armor Class 15 (leather armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 11 (+0) 14 (+2) 12 (+1) 10 (+0) 13 (+1) 14 (+2)
+> Senses passive Perception 11
+> Languages Common
+> Challenge 9 (1250 XP) Proficiency Bonus +4
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Steady Aim (Artillery). If the cousin hasn't moved this turn, it has advantage on its ranged attack roll.
+> Actions
+> Searing Hymn. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 24 radiant damage.
+> ```
+
 ## Clues Available Here
 - The Sheaf cries while it sings → the cult believes it has no choice
 - Prudence's iron sickle → she means to do the giving herself

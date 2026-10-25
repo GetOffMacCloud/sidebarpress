@@ -74,6 +74,57 @@ Back streets where the hollow repeat their last ordinary night. Each Echo holds 
 
 **Terrain:** narrow lanes, lantern-lit, doorways every 10 feet. **Tactics:** they grab and hold; they don't pursue past the lane's end. **DM direction:** only if the party interferes after 11 PM. These are neighbors. Nonlethal damage drops them back into their routine.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Snapped Echo** minions, built from the [[Echo|Snapped Echo]] with the [[Controller Minion]] template at **APL 6**. Neighbors pour out of every doorway. They're innocents: reward nonlethal blows. Each minion is worth **575 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Snapped Echo, Controller Minion (CR 6 minion, 575 XP)
+> *Medium humanoid (any race), unaligned*
+> **Armor Class** 15 (none) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 13 (+1) | 15 (+2) | 10 (+0) | 7 (−2) | 10 (+0) | 6 (−2) |
+>
+> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** shouts fragments of its routine · **Challenge** 6 (575 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Still Living.*** A snapped Echo is a living neighbor. Nonlethal damage that drops it to 0 hit points returns it to its routine.
+>
+> **Actions**
+> ***Clutching Hands.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 bludgeoning damage.
+>
+> ***Clutching Crowd (Controller).*** In place of its attack, the Echo targets one creature it can see within 60 feet of it. The target must succeed on a DC 15 Strength saving throw or, until the end of its next turn, its speed becomes 0 as clutching hands hold it.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 5 | 15 | +6 | 15 | 7 | 450 |
+| 6 (built) | 15 | +6 | 15 | 9 | 575 |
+| 7 | 15 | +6 | 15 | 10 | 725 |
+| 8 | 16 | +7 | 16 | 11 | 975 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Snapped Echo, Controller Minion
+> Medium humanoid (any race), unaligned
+> Armor Class 15 (none)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 13 (+1) 15 (+2) 10 (+0) 7 (-2) 10 (+0) 6 (-2)
+> Senses darkvision 60 ft., passive Perception 10
+> Languages shouts fragments of its routine
+> Challenge 6 (575 XP) Proficiency Bonus +3
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Still Living. A snapped Echo is a living neighbor. Nonlethal damage that drops it to 0 hit points returns it to its routine.
+> Actions
+> Clutching Hands. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 bludgeoning damage.
+> Clutching Crowd (Controller). In place of its attack, the Echo targets one creature it can see within 60 feet of it. The target must succeed on a DC 15 Strength saving throw or, until the end of its next turn, its speed becomes 0 as clutching hands hold it.
+> ```
+
 ## Clues Available Here
 - Hale's Q&A → the thirteenth toll binds him; the bone; Elsbeth
 - Parish record of the bell → the bell makes the loop

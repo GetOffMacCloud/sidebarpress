@@ -47,6 +47,58 @@ Creature mixes by APL are in the main note's Encounters table ([[SP-PBS-02-The-B
 - **The Pack Hunts:** The hounds circle, and the elk charge through the circle. At APL 4, the **Barrow Stag** appears, white in the dark. If the stag drops to half HP, it walks away. *(It returns at the Sisters with whatever HP it has left. If the party destroyed it, replace it in Encounter 7 with 2 bone hounds.)*
 - **Once per night (all APLs):** each Howl encounter runs at most once. See the thresholds in [[SP-PBS-02 — The Howl and the Rite]].
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Bone Hound** minions, built from the [[Bone Hound]] with the [[Lurker Minion]] template at **APL 3**. Use for a Howl encounter when the track turns bad: hounds out of the mist from downwind. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Bone Hound, Lurker Minion (CR 3 minion, 175 XP)
+> *Medium undead, unaligned*
+> **Armor Class** 13 (natural armor) · **Hit Points** 1 (minion) · **Speed** 40 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
+>
+> **Skills** Stealth +6 · **Senses** darkvision 60 ft., passive Perception 11 · **Languages** — · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Keen Hearing.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+> ***Ambush (Lurker).*** In the first round of combat, the hound has advantage on attack rolls against any creature that hasn't taken a turn, and its first hit deals an extra 9 damage.
+>
+> **Actions**
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 piercing damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 13 | +3 | 13 | 5 | 50 |
+| 2 | 13 | +3 | 13 | 7 | 112 |
+| 3 (built) | 13 | +4 | 13 | 9 | 175 |
+| 4 | 14 | +5 | 14 | 12 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Bone Hound, Lurker Minion
+> Medium undead, unaligned
+> Armor Class 13 (natural armor)
+> Hit Points 1 (minion)
+> Speed 40 ft.
+> STR DEX CON INT WIS CHA
+> 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+> Skills Stealth +6
+> Senses darkvision 60 ft., passive Perception 11
+> Languages -
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Keen Hearing. The hound has advantage on Wisdom (Perception) checks that rely on hearing.
+> Ambush (Lurker). In the first round of combat, the hound has advantage on attack rolls against any creature that hasn't taken a turn, and its first hit deals an extra 9 damage.
+> Actions
+> Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 piercing damage.
+> ```
+
 ## Set Piece — The Cut-Trenches (Leg 3)
 > *The heath ends in a field of trenches cut straight into the black earth, each ten feet deep and wide enough for a cart. Stacked turves stand along the lips like rows of loaves. Water lies in the bottoms, catching no light. Halfway across, a turf-spade is driven upright into a stack. Something has gnawed its handle down to the blade.*
 

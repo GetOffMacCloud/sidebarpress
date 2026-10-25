@@ -61,6 +61,54 @@ Then deliver these one at a time:
 
 Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Ravine` ([[SP-PBS-01 — Map Assets]]). It is an ambush predator: out of the cleft fast and silent, going for whoever looks smallest. It flees at 10 hp, or when its mate falls (at 5–6 PCs).
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Kezrin's Lookout** minions, built from the **scout** (MM p. 349), as Kezrin's men, with the [[Artillery Minion]] template at **APL 3**. Only if Kezrin's plot turns to open murder during the hunt: his men shoot from the ravine rim. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Kezrin's Lookout, Artillery Minion (CR 3 minion, 175 XP)
+> *Medium humanoid (human), neutral evil*
+> **Armor Class** 12 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
+>
+> **Senses** passive Perception 11 · **Languages** Common, Ekbiri · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Keen Hearing and Sight.*** The lookout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+>
+> ***Steady Aim (Artillery).*** If the lookout hasn't moved this turn, it has advantage on its ranged attack roll.
+>
+> **Actions**
+> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 9 piercing damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 (built) | 12 | +4 | 13 | 9 | 175 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Kezrin's Lookout, Artillery Minion
+> Medium humanoid (human), neutral evil
+> Armor Class 12 (leather armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 11 (+0) 14 (+2) 12 (+1) 11 (+0) 13 (+1) 11 (+0)
+> Senses passive Perception 11
+> Languages Common, Ekbiri
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Keen Hearing and Sight. The lookout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+> Steady Aim (Artillery). If the lookout hasn't moved this turn, it has advantage on its ranged attack roll.
+> Actions
+> Longbow. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 9 piercing damage.
+> ```
+
 ## The Discovery (the scene's real payload)
 Half-buried in snow near the tiger's kills lie the missing four of the ambushed patrol — **Temur's brother among them**, recognizable by the tiger-tail standard knotted at his belt. The cold has kept them. **Investigation or Survival DC 13:**
 - **They were brought here.** Drag-marks run under the newer snow from the ravine mouth; the bodies were dumped by the den so the tiger would finish the work. The snow has been churned and refrozen many times over; this happened weeks ago.

@@ -50,6 +50,54 @@ For 5 PCs, add one bandit. For 3 PCs, remove one bandit. Statblocks and the **br
 - **Rudi** throws the first punch, fights for two rounds, and slips out the front door at the end of round 2. A PC adjacent to him can stop him with a grapple (escape DC 12 at APL 1, DC 13 at APL 2+).
 - **Konrad** stays out at Trust 2+ (he stands by Ilse's table, arms folded, and lets the party fight for him). At Trust 0–1 he wades in. **Temper +1 for each round in which he is hit.** A PC who stays adjacent to him and stands between him and the fight ("I keep in front of him") keeps him from being targeted that round.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Hired Muscle** minions, built from the **thug** (MM p. 350), as Rudi's hired muscle, with the [[Brute Minion]] template at **APL 3**. More hirelings pile into the brawl. It's a brawl: use the brawl swap, and drop minions unconscious, not dead. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Hired Muscle, Brute Minion (CR 3 minion, 175 XP)
+> *Medium humanoid (human), neutral*
+> **Armor Class** 12 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
+>
+> **Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Overwhelm (Brute).*** When the tough hits a creature with a melee attack, the target must succeed on a DC 13 Strength saving throw or be pushed 10 feet away or knocked prone (the tough's choice).
+>
+> **Actions**
+> ***Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 14 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 12 | +3 | 13 | 8 | 50 |
+| 2 | 12 | +3 | 13 | 11 | 112 |
+| 3 (built) | 12 | +4 | 13 | 14 | 175 |
+| 4 | 13 | +5 | 14 | 18 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Hired Muscle, Brute Minion
+> Medium humanoid (human), neutral
+> Armor Class 12 (leather armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 15 (+2) 11 (+0) 14 (+2) 10 (+0) 10 (+0) 11 (+0)
+> Senses passive Perception 10
+> Languages Common
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Overwhelm (Brute). When the tough hits a creature with a melee attack, the target must succeed on a DC 13 Strength saving throw or be pushed 10 feet away or knocked prone (the tough's choice).
+> Actions
+> Fists. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 14 bludgeoning damage.
+> ```
+
 ## Round by Round
 | Round | What happens |
 |---|---|

@@ -58,6 +58,57 @@ Statblocks: [[SP-PBS-02 — Bestiary#Bone Hound (CR 1/4, 50 XP)]] · Add one hou
 
 **Perrender color.** A shutter bangs open and an old man shouts something in Stamtaal, then in Common: *"The Witch's dead! Bar the doors!"* He means Iggwilv. Nobody answers him.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Bone Hound** minions, built from the [[Bone Hound]] with the [[Skirmisher Minion]] template at **APL 3**. More of the pack slip over the pound wall. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Bone Hound, Skirmisher Minion (CR 3 minion, 175 XP)
+> *Medium undead, unaligned*
+> **Armor Class** 13 (natural armor) · **Hit Points** 1 (minion) · **Speed** 50 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
+>
+> **Senses** darkvision 60 ft., passive Perception 11 · **Languages** — · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Keen Hearing.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+> ***Hit and Run (Skirmisher).*** The hound doesn't provoke opportunity attacks when it moves out of the reach of a creature it attacked this turn.
+>
+> **Actions**
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 13 | +3 | 13 | 5 | 50 |
+| 2 | 13 | +3 | 13 | 7 | 112 |
+| 3 (built) | 13 | +4 | 13 | 9 | 175 |
+| 4 | 14 | +5 | 14 | 12 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Bone Hound, Skirmisher Minion
+> Medium undead, unaligned
+> Armor Class 13 (natural armor)
+> Hit Points 1 (minion)
+> Speed 50 ft.
+> STR DEX CON INT WIS CHA
+> 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+> Senses darkvision 60 ft., passive Perception 11
+> Languages -
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Keen Hearing. The hound has advantage on Wisdom (Perception) checks that rely on hearing.
+> Hit and Run (Skirmisher). The hound doesn't provoke opportunity attacks when it moves out of the reach of a creature it attacked this turn.
+> Actions
+> Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+> ```
+
 ## Aftermath
 - **The remains:** loose bone, black sinew that crumbles like old bark, and a **green-bronze collar-ring** with a triple spiral. *History DC 12:* Flan work, very old, and the kind of thing laid in graves. *Religion DC 12:* undead raised as a guardian pack, not by an ordinary necromancer's art. Something is binding them to a place.
 - **Ashlock** arrives promptly, kneels by the wounded (Hild's arm, or a PC), and heals.

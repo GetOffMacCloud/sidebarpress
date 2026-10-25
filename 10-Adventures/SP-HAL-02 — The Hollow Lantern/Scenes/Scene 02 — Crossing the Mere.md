@@ -54,6 +54,54 @@ If the invitees aren't under watch, the party passes them wading waist-deep towa
 
 **Terrain:** reeds (lightly obscured), bog patches (difficult, restraining), black water 5 ft deep off the path. · **Tactics:** wisps go invisible, lure a straggler, Shock the restrained; they flee at half hp and return for a downed PC. · **DM direction:** the voices are the horror. Use names from the players' backstories.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Marsh Light** minions, built from the **will-o'-wisp** (MM p. 301) with the [[Lurker Minion]] template at **APL 4**. Lesser lights wink on and off among the reeds. Each minion is worth **275 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Marsh Light, Lurker Minion (CR 4 minion, 275 XP)
+> *Tiny undead, chaotic evil*
+> **Armor Class** 14 (natural armor) · **Hit Points** 1 (minion) · **Speed** 0 ft., fly 50 ft. (hover)
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 1 (−5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
+>
+> **Skills** Stealth +13 · **Senses** darkvision 120 ft., passive Perception 12 · **Languages** the languages it knew in life · **Challenge** 4 (275 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Fade (Lurker).*** While in dim light or darkness, the wisp can take the Hide action as a bonus action.
+>
+> **Actions**
+> ***Shock.*** *Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 lightning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 | 13 | +4 | 13 | 9 | 175 |
+| 4 (built) | 14 | +5 | 14 | 12 | 275 |
+| 5 | 15 | +6 | 15 | 14 | 450 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Marsh Light, Lurker Minion
+> Tiny undead, chaotic evil
+> Armor Class 14 (natural armor)
+> Hit Points 1 (minion)
+> Speed 0 ft., fly 50 ft. (hover)
+> STR DEX CON INT WIS CHA
+> 1 (-5) 28 (+9) 10 (+0) 13 (+1) 14 (+2) 11 (+0)
+> Skills Stealth +13
+> Senses darkvision 120 ft., passive Perception 12
+> Languages the languages it knew in life
+> Challenge 4 (275 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Fade (Lurker). While in dim light or darkness, the wisp can take the Hide action as a bonus action.
+> Actions
+> Shock. Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 12 lightning damage.
+> ```
+
 ## Clues Available Here
 - The bribed wisp → Ysolde poisoned the feast
 - Sleepwalking Tobias → Tobias is a Marrow

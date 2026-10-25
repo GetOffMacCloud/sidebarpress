@@ -79,6 +79,54 @@ Bravos are **thugs** with cudgels and saps. Without Krul at APL 3–4, the encou
 **Tactics:** the bravos start at the far end of the row and spend round 1 cutting a stall rope, so a bad initiative can't end the scene on the first turn. Two go for the mare while the rest hold the row. They need **three uninterrupted rounds** at her stall (the Sabotage Clock, as on the boat). They disable and withdraw; nobody wants a dead man on the Flats.
 **DM direction:** settle the mare's Condition before the scene ends. Interrupting the clock resets it.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Vuurzward Bravo** minions, built from the **thug** (MM p. 350), as the Vuurzward bravos, with the [[Controller Minion]] template at **APL 3**. More bravos slip out between the stalls. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Vuurzward Bravo, Controller Minion (CR 3 minion, 175 XP)
+> *Medium humanoid (human), neutral evil*
+> **Armor Class** 13 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
+>
+> **Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> **Actions**
+> ***Cudgel.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 bludgeoning damage.
+>
+> ***Sap (Controller).*** In place of its attack, the bravo targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or, until the end of its next turn, it can't take reactions, dazed by a sap to the skull.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 13 | +3 | 13 | 3 | 50 |
+| 2 | 13 | +3 | 13 | 4 | 112 |
+| 3 (built) | 13 | +4 | 13 | 5 | 175 |
+| 4 | 14 | +5 | 14 | 6 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Vuurzward Bravo, Controller Minion
+> Medium humanoid (human), neutral evil
+> Armor Class 13 (leather armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 15 (+2) 11 (+0) 14 (+2) 10 (+0) 10 (+0) 11 (+0)
+> Senses passive Perception 10
+> Languages Common
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Actions
+> Cudgel. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 bludgeoning damage.
+> Sap (Controller). In place of its attack, the bravo targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or, until the end of its next turn, it can't take reactions, dazed by a sap to the skull.
+> ```
+
 ## Development
 - **Clock never filled** → Maus keeps her Condition from the boat.
 - **Clock filled** → Maus drops one step (Sound → Sore; Sore → Lame).

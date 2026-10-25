@@ -76,6 +76,54 @@ Krul is a **spy**; the bribed deckhands are **thugs** with 20 HP. See [[SP-PBS-0
 **Tactics:** round 1 Krul tries to finish the job. From round 2 he runs, over the rail if cornered; he can swim. The deckhands are bribed, not loyal, and surrender the moment Krul goes down or bolts.
 **DM direction:** this is a clock, not a slugfest. Interrupting Krul at any point resets the count to zero; three marks drops the mare one Condition step whatever happens to Krul afterward. Detection: **passive Perception 13** if someone is on watch on deck; **Perception DC 15** from below decks; a PC who knows horses has advantage and notices one round earlier. Full rules in [[SP-PBS-00 — The Mare, the Clock and the Cord]].
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Bribed Deckhand** minions, built from the **thug** (MM p. 350), as Krul's bribed crew, with the [[Skirmisher Minion]] template at **APL 3**. More bribed crew come up from below decks. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Bribed Deckhand, Skirmisher Minion (CR 3 minion, 175 XP)
+> *Medium humanoid (human), neutral*
+> **Armor Class** 13 (leather armor) · **Hit Points** 1 (minion) · **Speed** 40 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
+>
+> **Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Hit and Run (Skirmisher).*** The deckhand doesn't provoke opportunity attacks when it moves out of the reach of a creature it attacked this turn.
+>
+> **Actions**
+> ***Belaying Pin.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 13 | +3 | 13 | 5 | 50 |
+| 2 | 13 | +3 | 13 | 7 | 112 |
+| 3 (built) | 13 | +4 | 13 | 9 | 175 |
+| 4 | 14 | +5 | 14 | 12 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Bribed Deckhand, Skirmisher Minion
+> Medium humanoid (human), neutral
+> Armor Class 13 (leather armor)
+> Hit Points 1 (minion)
+> Speed 40 ft.
+> STR DEX CON INT WIS CHA
+> 15 (+2) 11 (+0) 14 (+2) 10 (+0) 10 (+0) 11 (+0)
+> Senses passive Perception 10
+> Languages Common
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Hit and Run (Skirmisher). The deckhand doesn't provoke opportunity attacks when it moves out of the reach of a creature it attacked this turn.
+> Actions
+> Belaying Pin. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 bludgeoning damage.
+> ```
+
 ## Development
 - **Krul stopped or captured** → the watch commendation in the patron's letter; Maus stays **Sound**.
 - **No one on watch** → no roll. Krul got his three rounds. Maus is sound to look at and **Sore** to run, and Adalinde (or the PC who knows horses) says so plainly at dawn. Act 3 has a clock on it. This is a real branch, not a punishment.

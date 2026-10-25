@@ -61,6 +61,56 @@ Only at three Scandal marks.
 
 **Terrain:** long tables (half cover), a slumping cake, a gallery above. · **Tactics:** the footman goes first; specters come through the tables. · **DM direction:** the fight ends the moment the party leaves the hall. The guests don't pursue; they sit back down and wait for midnight.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Specter Guest** minions, built from the **specter** (MM p. 279) with the [[Controller Minion]] template at **APL 4**. The scandalized dead of the wedding party rise from their seats. Each minion is worth **275 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Specter Guest, Controller Minion (CR 4 minion, 275 XP)
+> *Medium undead, chaotic evil*
+> **Armor Class** 14 (natural armor) · **Hit Points** 1 (minion) · **Speed** 0 ft., fly 50 ft. (hover)
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
+>
+> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** understands all languages it knew in life but can't speak · **Challenge** 4 (275 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It dies if it ends its turn inside an object.
+>
+> **Actions**
+> ***Life Drain.*** *Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 necrotic damage.
+>
+> ***Grave Chill (Controller).*** In place of its attack, the specter targets one creature it can see within 60 feet of it. The target must succeed on a DC 14 Wisdom saving throw or subtract 1d4 from its attack rolls and saving throws until the end of its next turn.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 | 13 | +4 | 13 | 5 | 175 |
+| 4 (built) | 14 | +5 | 14 | 6 | 275 |
+| 5 | 15 | +6 | 15 | 7 | 450 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Specter Guest, Controller Minion
+> Medium undead, chaotic evil
+> Armor Class 14 (natural armor)
+> Hit Points 1 (minion)
+> Speed 0 ft., fly 50 ft. (hover)
+> STR DEX CON INT WIS CHA
+> 1 (-5) 14 (+2) 11 (+0) 10 (+0) 10 (+0) 11 (+0)
+> Senses darkvision 60 ft., passive Perception 10
+> Languages understands all languages it knew in life but can't speak
+> Challenge 4 (275 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Incorporeal Movement. The specter can move through other creatures and objects as if they were difficult terrain. It dies if it ends its turn inside an object.
+> Actions
+> Life Drain. Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 6 necrotic damage.
+> Grave Chill (Controller). In place of its attack, the specter targets one creature it can see within 60 feet of it. The target must succeed on a DC 14 Wisdom saving throw or subtract 1d4 from its attack rolls and saving throws until the end of its next turn.
+> ```
+
 ## Clues Available Here
 - The fiddler's confession → Ysolde poisoned the feast; he was her lover and the boat was his
 - The brother's portrait → Tobias is a Marrow

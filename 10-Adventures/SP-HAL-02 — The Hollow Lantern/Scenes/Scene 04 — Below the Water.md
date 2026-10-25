@@ -54,6 +54,56 @@ Refuse him, or draw, and he fights. His zombies hold the stair; he comes through
 
 **Terrain:** water 5 ft deep (swimming or wading at half speed; ranged attacks at disadvantage; fire out). · **Tactics:** zombies grapple and drag under (Con save DC 10 per round submerged or begin drowning, PHB 183); Edric uses Life Drain on the restrained. · **DM direction:** Edric is a bargain first. Let the players be the ones to decide he's a fight.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Drowned Guest** minions, built from the [[Drowned Guest]] with the [[Brute Minion]] template at **APL 4**. More of the drowned wedding party wade up out of the black water. Each minion is worth **275 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Drowned Guest, Brute Minion (CR 4 minion, 275 XP)
+> *Medium undead, neutral evil*
+> **Armor Class** 13 (natural armor) · **Hit Points** 1 (minion) · **Speed** 20 ft., swim 20 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
+>
+> **Senses** darkvision 60 ft., passive Perception 8 · **Languages** understands the languages it knew in life but can't speak · **Challenge** 4 (275 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Waterlogged.*** The guest can breathe water, and it has advantage on Strength (Athletics) checks made to grapple a creature that is in water.
+>
+> ***Death-Blow (Brute).*** When the guest drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
+>
+> **Actions**
+> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 18 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 | 12 | +4 | 13 | 14 | 175 |
+| 4 (built) | 13 | +5 | 14 | 18 | 275 |
+| 5 | 14 | +6 | 15 | 21 | 450 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Drowned Guest, Brute Minion
+> Medium undead, neutral evil
+> Armor Class 13 (natural armor)
+> Hit Points 1 (minion)
+> Speed 20 ft., swim 20 ft.
+> STR DEX CON INT WIS CHA
+> 13 (+1) 6 (-2) 16 (+3) 3 (-4) 6 (-2) 5 (-3)
+> Senses darkvision 60 ft., passive Perception 8
+> Languages understands the languages it knew in life but can't speak
+> Challenge 4 (275 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Waterlogged. The guest can breathe water, and it has advantage on Strength (Athletics) checks made to grapple a creature that is in water.
+> Death-Blow (Brute). When the guest drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
+> Actions
+> Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 18 bludgeoning damage.
+> ```
+
 ## Clues Available Here
 - The cask residue → Ysolde poisoned the feast
 - The boat and fiddle case → the fiddler was her lover and the boat was his

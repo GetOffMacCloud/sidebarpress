@@ -54,6 +54,58 @@ Every PC takes one level of **Loop-Weariness**. Hit points and slots are restore
 
 **Terrain:** a 20 × 20 belfry, the bell in the center, a 3-foot shaft in the floor beside it running down into the dark. Dim light from Hale's lantern. **Tactics:** shadows target whoever holds the rope; they use the shaft to retreat and re-emerge. Strength drain on the ringer is the real threat. **DM direction:** the party can't win the loop here. Let them learn the procedure and take the hits.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Belfry Shadow** minions, built from the **shadow** (MM p. 269) with the [[Lurker Minion]] template at **APL 6**. The belfry's dark fills with more of them. Each minion is worth **575 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Belfry Shadow, Lurker Minion (CR 6 minion, 575 XP)
+> *Medium undead, chaotic evil*
+> **Armor Class** 15 (natural armor) · **Hit Points** 1 (minion) · **Speed** 40 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 6 (−2) | 14 (+2) | 13 (+1) | 6 (−2) | 10 (+0) | 8 (−1) |
+>
+> **Skills** Stealth +8 · **Senses** darkvision 60 ft., passive Perception 10 · **Languages** — · **Challenge** 6 (575 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Amorphous.*** The shadow can move through a space as narrow as 1 inch wide without squeezing.
+>
+> ***Fade (Lurker).*** While in dim light or darkness, the shadow can take the Hide action as a bonus action.
+>
+> **Actions**
+> ***Strength Drain.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 necrotic damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 5 | 15 | +6 | 15 | 14 | 450 |
+| 6 (built) | 15 | +6 | 15 | 17 | 575 |
+| 7 | 15 | +6 | 15 | 19 | 725 |
+| 8 | 16 | +7 | 16 | 21 | 975 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Belfry Shadow, Lurker Minion
+> Medium undead, chaotic evil
+> Armor Class 15 (natural armor)
+> Hit Points 1 (minion)
+> Speed 40 ft.
+> STR DEX CON INT WIS CHA
+> 6 (-2) 14 (+2) 13 (+1) 6 (-2) 10 (+0) 8 (-1)
+> Skills Stealth +8
+> Senses darkvision 60 ft., passive Perception 10
+> Languages -
+> Challenge 6 (575 XP) Proficiency Bonus +3
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Amorphous. The shadow can move through a space as narrow as 1 inch wide without squeezing.
+> Fade (Lurker). While in dim light or darkness, the shadow can take the Hide action as a bonus action.
+> Actions
+> Strength Drain. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 necrotic damage.
+> ```
+
 ## Clues Available Here
 - Shadows rise through the belfry floor → Thorne is under the chapel
 - *Detect magic* on the bell: abjuration, old and cracked → the bell makes the loop

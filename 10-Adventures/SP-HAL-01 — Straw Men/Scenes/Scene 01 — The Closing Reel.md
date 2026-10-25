@@ -54,6 +54,57 @@ The scarecrow leaves a trail of wet straw and river water that runs upstream tow
 
 **Terrain:** stubble is open ground; the bonfire is 40 feet behind the party and the only bright light. **Tactics:** the scarecrow opens with Terrifying Glare on whoever is closest, then claws the frightened target; it won't approach within 10 feet of a torch. Straw Doubles grapple and drag toward the fields rather than attack. **DM direction:** the fight should look, from the green, like strangers beating a farmer. Narrate the watching faces.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Straw Double** minions, built from the [[Straw Double]] with the [[Controller Minion]] template at **APL 2**. More doubles rise from the stubble to hold the party in the field. Each minion is worth **112 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Straw Double, Controller Minion (CR 2 minion, 112 XP)
+> *Medium construct (glamoured), unaligned*
+> **Armor Class** 13 (patched clothes) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 10 (+0) | 10 (+0) | 10 (+0) | 6 (−2) | 8 (−1) | 10 (+0) |
+>
+> **Senses** passive Perception 9 · **Languages** the languages of the villager it copies · **Challenge** 2 (112 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***False Appearance.*** While the double remains motionless on a scarecrow post, it is indistinguishable from an ordinary scarecrow.
+>
+> **Actions**
+> ***Club.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 bludgeoning damage.
+>
+> ***Clutching Straw (Controller).*** In place of its attack, the double targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Strength saving throw or, until the end of its next turn, its speed becomes 0 as straw hands clutch at its legs.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 13 | +3 | 13 | 3 | 50 |
+| 2 (built) | 13 | +3 | 13 | 4 | 112 |
+| 3 | 13 | +4 | 13 | 5 | 175 |
+| 4 | 14 | +5 | 14 | 6 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Straw Double, Controller Minion
+> Medium construct (glamoured), unaligned
+> Armor Class 13 (patched clothes)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 10 (+0) 10 (+0) 10 (+0) 6 (-2) 8 (-1) 10 (+0)
+> Senses passive Perception 9
+> Languages the languages of the villager it copies
+> Challenge 2 (112 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> False Appearance. While the double remains motionless on a scarecrow post, it is indistinguishable from an ordinary scarecrow.
+> Actions
+> Club. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 bludgeoning damage.
+> Clutching Straw (Controller). In place of its attack, the double targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Strength saving throw or, until the end of its next turn, its speed becomes 0 as straw hands clutch at its legs.
+> ```
+
 ## Clues Available Here
 - The dancers avoid the fire → the doubles are fake
 - The scarecrow nobody sees → the doubles are fake

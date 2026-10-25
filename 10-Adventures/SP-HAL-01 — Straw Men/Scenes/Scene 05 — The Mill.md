@@ -78,6 +78,59 @@ After, or during if someone goes looking: 140 gp, 3 *potions of healing*, the *h
 
 **Terrain:** three floors, one stair, a 30-foot chute, a millrace with a backward wheel. The flour glows: dim light everywhere. **Tactics:** doubles carry, Chaff delays. **DM direction:** the doubles don't count toward the encounter multiplier because they aren't attacking; the real pressure is the round count and the landing. Say "two sacks are on the stairs" out loud every round.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Straw Double** minions, built from the [[Straw Double]] with the [[Enforcer Minion]] template at **APL 2**. Chaff's carriers throw themselves in front of her. Each minion is worth **112 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Straw Double, Enforcer Minion (CR 2 minion, 112 XP)
+> *Medium construct (glamoured), unaligned*
+> **Armor Class** 15 (patched clothes) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 10 (+0) | 10 (+0) | 10 (+0) | 6 (−2) | 8 (−1) | 10 (+0) |
+>
+> **Senses** passive Perception 9 · **Languages** the languages of the villager it copies · **Challenge** 2 (112 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***False Appearance.*** While the double remains motionless on a scarecrow post, it is indistinguishable from an ordinary scarecrow.
+>
+> **Actions**
+> ***Club.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 bludgeoning damage.
+>
+> **Reactions**
+> ***Interpose (Enforcer).*** When another creature the double can see within 5 feet of it is hit by an attack, the double makes the attack hit it instead.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 15 | +3 | 13 | 4 | 50 |
+| 2 (built) | 15 | +3 | 13 | 5 | 112 |
+| 3 | 15 | +4 | 13 | 7 | 175 |
+| 4 | 16 | +5 | 14 | 9 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Straw Double, Enforcer Minion
+> Medium construct (glamoured), unaligned
+> Armor Class 15 (patched clothes)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 10 (+0) 10 (+0) 10 (+0) 6 (-2) 8 (-1) 10 (+0)
+> Senses passive Perception 9
+> Languages the languages of the villager it copies
+> Challenge 2 (112 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> False Appearance. While the double remains motionless on a scarecrow post, it is indistinguishable from an ordinary scarecrow.
+> Actions
+> Club. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 bludgeoning damage.
+> Reactions
+> Interpose (Enforcer). When another creature the double can see within 5 feet of it is hit by an attack, the double makes the attack hit it instead.
+> ```
+
 ## Clues Available Here
 - The contract's wording → the contract has a loophole
 - The ledger's Marrow entry → the hook out

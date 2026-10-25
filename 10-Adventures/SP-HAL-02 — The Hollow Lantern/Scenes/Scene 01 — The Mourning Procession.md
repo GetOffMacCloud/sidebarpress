@@ -49,6 +49,56 @@ The specters turn. Run the encounter. They don't pursue past the chapel yard's c
 
 **Terrain:** a fogged street, 10 ft visibility, barred doors on both sides; the chapel yard's candles count as dim light the specters avoid. · **Tactics:** specters pass through walls to flank; they go for whoever touched the coffin. · **DM direction:** this fight is a tax on impatience. Telegraph it: the bearers pause, and the fog goes still, before the lid comes off.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Specter Mourner** minions, built from the **specter** (MM p. 279) with the [[Skirmisher Minion]] template at **APL 4**. More of the procession's dead drift out of the fog. Each minion is worth **275 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Specter Mourner, Skirmisher Minion (CR 4 minion, 275 XP)
+> *Medium undead, chaotic evil*
+> **Armor Class** 14 (natural armor) · **Hit Points** 1 (minion) · **Speed** 10 ft., fly 50 ft. (hover)
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
+>
+> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** understands all languages it knew in life but can't speak · **Challenge** 4 (275 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It dies if it ends its turn inside an object.
+>
+> ***Hit and Run (Skirmisher).*** The specter doesn't provoke opportunity attacks when it moves out of the reach of a creature it attacked this turn.
+>
+> **Actions**
+> ***Life Drain.*** *Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 necrotic damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 | 13 | +4 | 13 | 9 | 175 |
+| 4 (built) | 14 | +5 | 14 | 12 | 275 |
+| 5 | 15 | +6 | 15 | 14 | 450 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Specter Mourner, Skirmisher Minion
+> Medium undead, chaotic evil
+> Armor Class 14 (natural armor)
+> Hit Points 1 (minion)
+> Speed 10 ft., fly 50 ft. (hover)
+> STR DEX CON INT WIS CHA
+> 1 (-5) 14 (+2) 11 (+0) 10 (+0) 10 (+0) 11 (+0)
+> Senses darkvision 60 ft., passive Perception 10
+> Languages understands all languages it knew in life but can't speak
+> Challenge 4 (275 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Incorporeal Movement. The specter can move through other creatures and objects as if they were difficult terrain. It dies if it ends its turn inside an object.
+> Hit and Run (Skirmisher). The specter doesn't provoke opportunity attacks when it moves out of the reach of a creature it attacked this turn.
+> Actions
+> Life Drain. Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 12 necrotic damage.
+> ```
+
 ## Clues Available Here
 - The guest list → the invitees are the four who fled and their blood
 - Pell's confession → Ysolde poisoned the feast; the ring is Rowena's

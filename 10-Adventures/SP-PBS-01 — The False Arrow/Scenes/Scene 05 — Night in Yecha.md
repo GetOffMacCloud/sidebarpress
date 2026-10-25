@@ -72,6 +72,51 @@ Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Night-Camp` ([[SP-PBS-
 - **The attackers' leader** has a grinning-skull brand inside his left forearm. It is the same skull as on Kezrin's wax seal. Religion DC 12, or any PC who knows the Old One's sign, recognizes the mark of **Iuz**.
 - **A captured attacker** made to talk (Intimidation DC 13) names Kezrin. If the party takes that to Sarnai, Kezrin is watched from dawn (see Scene 7, *Kezrin's Exit*).
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Kezrin's Man** minions, built from the **thug** (MM p. 350), as Kezrin's men, with the [[Brute Minion]] template at **APL 3**. More of Kezrin's men come through the burning felt. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Kezrin's Man, Brute Minion (CR 3 minion, 175 XP)
+> *Medium humanoid (human), neutral evil*
+> **Armor Class** 12 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
+>
+> **Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Death-Blow (Brute).*** When the raider drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
+>
+> **Actions**
+> ***Club.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 14 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 (built) | 12 | +4 | 13 | 14 | 175 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Kezrin's Man, Brute Minion
+> Medium humanoid (human), neutral evil
+> Armor Class 12 (leather armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 15 (+2) 11 (+0) 14 (+2) 10 (+0) 10 (+0) 11 (+0)
+> Senses passive Perception 10
+> Languages Common
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Death-Blow (Brute). When the raider drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
+> Actions
+> Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 14 bludgeoning damage.
+> ```
+
 ## B. Halya's Letter
 Sometime tonight the sealed letter comes out — or doesn't. If a player breaks the seal, hand them [[SP-PBS-01 — Handout — Halya's Sealed Instruction|Handout 2]]. Now they have to decide.
 

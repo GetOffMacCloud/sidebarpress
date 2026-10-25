@@ -78,6 +78,56 @@ Whichever ending, the sun comes up on Thornbury. Read the Endings at a Glance in
 
 **Terrain:** the threshing floor (restraining wheat, DC 14), the lofts (30-ft drop, cover from the rail), the root cellar (flanking route to the heart, out of sight), the pit (the Harvest Lord's 20-ft reach covers the whole lip). · **Tactics:** it grabs the nearest creature to the guest and drags them away from the lip; it uses Harvest Bounty whenever it's below half hit points, and does not understand why that makes the singing stop. The awakened trees stand between the party and the guest. · **DM direction:** the number on paper is above the deadly line. Three things keep it fair: the Colossus is **never** in this fight; Prudence does not cast; and Harvest Bounty's cost turns the village. If the party is losing, let the Sheaf's turn come one Bounty early. If they're cruising, Thorne arrives.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Barn Timber** minions, built from the **awakened tree** (MM p. 317) with the [[Enforcer Minion]] template at **APL 9**. More of the barn's great timbers wrench loose to wall in the Harvest Lord. Each minion is worth **1250 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Barn Timber, Enforcer Minion (CR 9 minion, 1250 XP)
+> *Huge plant, unaligned*
+> **Armor Class** 18 (natural armor) · **Hit Points** 1 (minion) · **Speed** 20 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 19 (+4) | 6 (−2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (−2) |
+>
+> **Senses** passive Perception 10 · **Languages** — · **Challenge** 9 (1250 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***False Appearance.*** While the timber remains motionless, it is indistinguishable from a barn beam.
+>
+> ***Shield Wall (Enforcer).*** Allies within 5 feet of the timber have half cover (+2 bonus to AC and Dexterity saving throws).
+>
+> **Actions**
+> ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 18 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 8 | 18 | +7 | 16 | 16 | 975 |
+| 9 (built) | 18 | +7 | 16 | 18 | 1,250 |
+| 10 | 19 | +7 | 16 | 20 | 1,475 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Barn Timber, Enforcer Minion
+> Huge plant, unaligned
+> Armor Class 18 (natural armor)
+> Hit Points 1 (minion)
+> Speed 20 ft.
+> STR DEX CON INT WIS CHA
+> 19 (+4) 6 (-2) 15 (+2) 10 (+0) 10 (+0) 7 (-2)
+> Senses passive Perception 10
+> Languages -
+> Challenge 9 (1250 XP) Proficiency Bonus +4
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> False Appearance. While the timber remains motionless, it is indistinguishable from a barn beam.
+> Shield Wall (Enforcer). Allies within 5 feet of the timber have half cover (+2 bonus to AC and Dexterity saving throws).
+> Actions
+> Slam. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 18 bludgeoning damage.
+> ```
+
 ## Clues Available Here
 - The lintel → the pact's words, one last time
 - The lofts' labelled piles → ninety-nine names (the sequel)

@@ -37,6 +37,54 @@ Skill challenge: **3 successes before 2 failures.** Each PC makes one check per 
 
 **Point it out if no one does:** the trail runs to the river quays, not uphill to the Hundred's chapter-house. Whoever took the Soldbrief, it was not for the company.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Yard Hand** minions, built from the **bandit** (MM p. 343), as Dornhalm's yard hands, with the [[Skirmisher Minion]] template at **APL 3**. More of Dornhalm's hands come over the log stacks. Like the rest, they surrender when half are down. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Yard Hand, Skirmisher Minion (CR 3 minion, 175 XP)
+> *Medium humanoid (any race), any non-lawful alignment*
+> **Armor Class** 13 (leather armor) · **Hit Points** 1 (minion) · **Speed** 40 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
+>
+> **Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Hit and Run (Skirmisher).*** The yard hand doesn't provoke opportunity attacks when it moves out of the reach of a creature it attacked this turn.
+>
+> **Actions**
+> ***Gaff Hook.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 piercing damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 13 | +3 | 13 | 5 | 50 |
+| 2 | 13 | +3 | 13 | 7 | 112 |
+| 3 (built) | 13 | +4 | 13 | 9 | 175 |
+| 4 | 14 | +5 | 14 | 12 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Yard Hand, Skirmisher Minion
+> Medium humanoid (any race), any non-lawful alignment
+> Armor Class 13 (leather armor)
+> Hit Points 1 (minion)
+> Speed 40 ft.
+> STR DEX CON INT WIS CHA
+> 11 (+0) 12 (+1) 12 (+1) 10 (+0) 10 (+0) 10 (+0)
+> Senses passive Perception 10
+> Languages Common
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Hit and Run (Skirmisher). The yard hand doesn't provoke opportunity attacks when it moves out of the reach of a creature it attacked this turn.
+> Actions
+> Gaff Hook. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 piercing damage.
+> ```
+
 ## Arrival
 > *Dornhalm's Yard lies below the lake mouth, where the Velverdyva starts to run. Squared pine is stacked taller than a house in rows, a sawpit gapes in the middle, and a crane boom leans over the water with one log still hanging from its chain. A lamp burns in a tally-office on the river side. A man in very good boots stands in its door.*
 

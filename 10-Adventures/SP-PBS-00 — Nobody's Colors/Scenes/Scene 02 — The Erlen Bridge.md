@@ -77,6 +77,54 @@ Boedic uses the **bandit captain** block reflavored; drovers are **thugs**; mast
 **Tactics:** round 1 they form a line across the bridge and do not advance. Boedic spends his first turn talking. They target the wagon team, not the party: the goal is to stop wheels. **Morale breaks at two drovers down:** *"Enough. Enough! Take the bloody bridge, and when the Ratsherr asks, you tell him I bled for it."*
 **DM direction:** say it before initiative: **knocking out is free** (any melee attack), and **killing a clansman without a declared Fehde is murder**. A party that kills drovers has started a feud with the Meerijder and will meet it at the Flats. Most parties take the hint.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Meerijder Drover** minions, built from the **thug** (MM p. 350), as Boedic's drovers, with the [[Brute Minion]] template at **APL 3**. More of Boedic's drovers come over the bridge rail. Overwhelm can push a PC off the bridge. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Meerijder Drover, Brute Minion (CR 3 minion, 175 XP)
+> *Medium humanoid (human), neutral*
+> **Armor Class** 12 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
+>
+> **Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Overwhelm (Brute).*** When the drover hits a creature with a melee attack, the target must succeed on a DC 13 Strength saving throw or be pushed 10 feet away or knocked prone (the drover's choice).
+>
+> **Actions**
+> ***Drover's Cudgel.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 14 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 12 | +3 | 13 | 8 | 50 |
+| 2 | 12 | +3 | 13 | 11 | 112 |
+| 3 (built) | 12 | +4 | 13 | 14 | 175 |
+| 4 | 13 | +5 | 14 | 18 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Meerijder Drover, Brute Minion
+> Medium humanoid (human), neutral
+> Armor Class 12 (leather armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 15 (+2) 11 (+0) 14 (+2) 10 (+0) 10 (+0) 11 (+0)
+> Senses passive Perception 10
+> Languages Common
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Overwhelm (Brute). When the drover hits a creature with a melee attack, the target must succeed on a DC 13 Strength saving throw or be pushed 10 feet away or knocked prone (the drover's choice).
+> Actions
+> Drover's Cudgel. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 14 bludgeoning damage.
+> ```
+
 ## Development
 - **Bloodless crossing** → the bridge commendation in the patron's letter. Say so at the table.
 - **Drovers killed** → Fehde. Roodberg hears by Scene 5 (his attitude drops one step), and Boedic's kin are in the stable rows on Derby eve.

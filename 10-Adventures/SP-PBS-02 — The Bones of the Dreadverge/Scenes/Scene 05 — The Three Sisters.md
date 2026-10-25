@@ -69,6 +69,54 @@ Use the Rite Track from [[SP-PBS-02 — The Howl and the Rite]]:
 
 **Action-economy model (APL 2, 4 PCs, 3 rounds).** The party deals about 18 effective damage per round. Ashlock (13 HP) falls in round 1 or 2 if the party targets him. If they don't, the rite needs 3 uninterrupted rounds to kill Brannoc. The beasts deal about 15 effective damage per round, focused on whoever reaches the ring or carries the torc. A party that ignores the ring loses Brannoc around round 3, and a party that rushes Ashlock takes heavy hits from the stag. Both lines are tense, and neither is a party kill on its own. At APL 3–4, Ashlock's 33 HP means two to three rounds of focused fire, so expect **one captive lost if the party fights only the pack**.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Bone Elk** minions, built from the [[Bone Elk]] with the [[Brute Minion]] template at **APL 3**. More of Kethra's pack charge out of the dark between the stones. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Bone Elk, Brute Minion (CR 3 minion, 175 XP)
+> *Large undead, unaligned*
+> **Armor Class** 12 (natural armor) · **Hit Points** 1 (minion) · **Speed** 50 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 16 (+3) | 10 (+0) | 12 (+1) | 2 (−4) | 10 (+0) | 6 (−2) |
+>
+> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** — · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Overwhelm (Brute).*** When the elk hits a creature with a melee attack, the target must succeed on a DC 13 Strength saving throw or be pushed 10 feet away or knocked prone (the elk's choice).
+>
+> **Actions**
+> ***Ram.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 14 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 12 | +3 | 13 | 8 | 50 |
+| 2 | 12 | +3 | 13 | 11 | 112 |
+| 3 (built) | 12 | +4 | 13 | 14 | 175 |
+| 4 | 13 | +5 | 14 | 18 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Bone Elk, Brute Minion
+> Large undead, unaligned
+> Armor Class 12 (natural armor)
+> Hit Points 1 (minion)
+> Speed 50 ft.
+> STR DEX CON INT WIS CHA
+> 16 (+3) 10 (+0) 12 (+1) 2 (-4) 10 (+0) 6 (-2)
+> Senses darkvision 60 ft., passive Perception 10
+> Languages -
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Overwhelm (Brute). When the elk hits a creature with a melee attack, the target must succeed on a DC 13 Strength saving throw or be pushed 10 feet away or knocked prone (the elk's choice).
+> Actions
+> Ram. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 14 bludgeoning damage.
+> ```
+
 ## The Four Solutions
 Reward whichever the players find. If they invent a fifth, let them try it, and price it honestly.
 

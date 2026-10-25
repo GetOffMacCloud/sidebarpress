@@ -40,6 +40,56 @@ Statblocks: [[SP-PBS-02 — Bestiary#Zombie (CR 1/4, 50 XP), MM p. 316 — the r
 - **Paralysis guard:** if two PCs are paralyzed at once, Corran turns to his meal for a round. Never let a ghoul end the night on the detour.
 - **Talk-first note:** zombies cannot be talked down. But a PC who reads the **tally-board** nailed to the big hut finds the crew's names and the advance Odila paid them, and may want to bring the names home. That is worth something in the denouement.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Risen Peat-Cutter** minions, built from the **zombie** (MM p. 316), as the risen peat-cutters, with the [[Enforcer Minion]] template at **APL 3**. More of the dead cutters stumble out of the bog to shield Corran. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Risen Peat-Cutter, Enforcer Minion (CR 3 minion, 175 XP)
+> *Medium undead, neutral evil*
+> **Armor Class** 15 (natural armor) · **Hit Points** 1 (minion) · **Speed** 20 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
+>
+> **Senses** darkvision 60 ft., passive Perception 8 · **Languages** understands the languages it knew in life but can't speak · **Challenge** 3 (175 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> **Actions**
+> ***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 bludgeoning damage.
+>
+> **Reactions**
+> ***Interpose (Enforcer).*** When another creature the cutter can see within 5 feet of it is hit by an attack, the cutter makes the attack hit it instead.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 1 | 15 | +3 | 13 | 4 | 50 |
+| 2 | 15 | +3 | 13 | 5 | 112 |
+| 3 (built) | 15 | +4 | 13 | 7 | 175 |
+| 4 | 16 | +5 | 14 | 9 | 275 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Risen Peat-Cutter, Enforcer Minion
+> Medium undead, neutral evil
+> Armor Class 15 (natural armor)
+> Hit Points 1 (minion)
+> Speed 20 ft.
+> STR DEX CON INT WIS CHA
+> 13 (+1) 6 (-2) 16 (+3) 3 (-4) 6 (-2) 5 (-3)
+> Senses darkvision 60 ft., passive Perception 8
+> Languages understands the languages it knew in life but can't speak
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Actions
+> Slam. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 bludgeoning damage.
+> Reactions
+> Interpose (Enforcer). When another creature the cutter can see within 5 feet of it is hit by an attack, the cutter makes the attack hit it instead.
+> ```
+
 ## Searching the Camp
 **Quick look (no clock cost):**
 - Ashlock's **bedroll** in the smallest hut, with a whetstone and a **sickle** (APL 1–2; at APL 3–4 he carries it)

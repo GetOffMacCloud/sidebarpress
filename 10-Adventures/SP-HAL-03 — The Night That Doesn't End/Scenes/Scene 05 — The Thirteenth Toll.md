@@ -55,6 +55,59 @@ Thorne is drawn up the shaft like smoke up a chimney, into the bell, which seals
 
 **Terrain:** the Bone Circle (20 ft across, under the shaft), the Chain Crypt beyond, the Hollow Choir behind with lanterns for half cover. **Tactics:** Thorne wants the bone, then the rope. He'll Create Specter from any PC who dies here and send it up the shaft. **DM direction:** the fight is won by *positioning*, not damage. Tell the players the circle glows a little brighter each toll so they can count.
 
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Reaped Specter** minions, built from the **specter** (MM p. 279) with the [[Enforcer Minion]] template at **APL 6**. Thorne's reaped dead crowd around him to take the blows meant for him. Each minion is worth **575 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Reaped Specter, Enforcer Minion (CR 6 minion, 575 XP)
+> *Medium undead, chaotic evil*
+> **Armor Class** 17 (natural armor) · **Hit Points** 1 (minion) · **Speed** 0 ft., fly 50 ft. (hover)
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
+>
+> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** understands all languages it knew in life but can't speak · **Challenge** 6 (575 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It dies if it ends its turn inside an object.
+>
+> **Actions**
+> ***Life Drain.*** *Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 necrotic damage.
+>
+> **Reactions**
+> ***Interpose (Enforcer).*** When another creature the specter can see within 5 feet of it is hit by an attack, the specter makes the attack hit it instead.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 5 | 17 | +6 | 15 | 11 | 450 |
+| 6 (built) | 17 | +6 | 15 | 13 | 575 |
+| 7 | 17 | +6 | 15 | 14 | 725 |
+| 8 | 18 | +7 | 16 | 16 | 975 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Reaped Specter, Enforcer Minion
+> Medium undead, chaotic evil
+> Armor Class 17 (natural armor)
+> Hit Points 1 (minion)
+> Speed 0 ft., fly 50 ft. (hover)
+> STR DEX CON INT WIS CHA
+> 1 (-5) 14 (+2) 11 (+0) 10 (+0) 10 (+0) 11 (+0)
+> Senses darkvision 60 ft., passive Perception 10
+> Languages understands all languages it knew in life but can't speak
+> Challenge 6 (575 XP) Proficiency Bonus +3
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Incorporeal Movement. The specter can move through other creatures and objects as if they were difficult terrain. It dies if it ends its turn inside an object.
+> Actions
+> Life Drain. Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 13 necrotic damage.
+> Reactions
+> Interpose (Enforcer). When another creature the specter can see within 5 feet of it is hit by an attack, the specter makes the attack hit it instead.
+> ```
+
 ## Resolutions
 | Ending | How | Then |
 |---|---|---|
