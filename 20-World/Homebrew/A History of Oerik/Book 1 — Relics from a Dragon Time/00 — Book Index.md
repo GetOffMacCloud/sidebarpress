@@ -29,6 +29,30 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 132]] | The Ierendi court hears of Blibdoolpoolp | (720 SD) | copyedited |
+| [[Book 1 — Part 133]] | The krakens wake; the Black Pearl finds her people | (the Dragon Time onward) | copyedited |
+| [[Book 1 — Part 134]] | The Black Pearl becomes Blibdoolpoolp; Sekolah strikes | (715–720 SD) | copyedited |
+| [[Book 1 — Part 135]] | The near-extinction of the kuo-toa | 720–729 SD | copyedited |
+| [[Book 1 — Part 136]] | Ozmidi; Sekolah's Ascension Ceremony; the first sahuagin | (720–729 SD) | copyedited |
+| [[Book 1 — Part 137]] | Pious Grimm seeks Flinter Glint at Nomenwold | 741 SD | copyedited |
+| [[Book 1 — Part 128]] | Persecution of the kuo-toa; the cult of Blibdoolpoolp | 715 SD | copyedited |
+| [[Book 1 — Part 129]] | The invisible pilgrims descend to Blibdoolpoolp | (715 SD) | copyedited |
+| [[Book 1 — Part 130]] | Unnatural darkness over the seas; the Ierendi summit | 718–720 SD | copyedited |
+| [[Book 1 — Part 131]] | The krakens, the illithids and the black pearl | (the Dragon Time) | copyedited |
+| [[Book 1 — Part 123]] | Celene annexes the Lort–Kewl lands; Garl Glittergold's peace | 631–633 SD | copyedited |
+| [[Book 1 — Part 124]] | Flan and Thytic sea war; the Minrothad holdouts; Oeridia | 634–635 SD | copyedited |
+| [[Book 1 — Part 125]] | Oeridia, the Oeridians and the kuo-toa | 635–636 SD | copyedited |
+| [[Book 1 — Part 126]] | Thytic buccaneers in the Azure Sea; MaiYuan pirates | 658–685 SD | copyedited |
+| [[Book 1 — Part 127]] | Empress Yehua; the dissolution of the MaiYuan; Empress Kifabekazi | 686–714 SD | copyedited |
+| [[Book 1 — Part 119]] | Quartztusk flees; Mamma's surviving children | (579 SD) | copyedited |
+| [[Book 1 — Part 120]] | Miska and Lolth; Quartztusk returns; Pesh founded | 579–605 SD | copyedited |
+| [[Book 1 — Part 121]] | Jargon the buccaneer crosses the Infinite | 606 SD | copyedited |
+| [[Book 1 — Part 122]] | The Sheldar; the Celenian hippogriff raids | 631 SD | copyedited |
+| [[Book 1 — Part 114]] | Dweomyne reclaims the Scroll | (after 579 SD) | copyedited |
+| [[Book 1 — Part 115]] | Zzzlarr courts the Queen of Chaos | (after 579 SD) | copyedited |
+| [[Book 1 — Part 116]] | The Queen of Chaos returns to the Singing Lands; Pious Grimm Quartztusk | 579 SD | copyedited |
+| [[Book 1 — Part 117]] | The seven eggs | (579 SD) | copyedited |
+| [[Book 1 — Part 118]] | Quartztusk wakes and breaks the eggs | (579 SD) | copyedited |
 | [[Book 1 — Part 110]] | The Undead Dragon wakes and destroys herself; the Ghost Dragon | 528 SD | copyedited |
 | [[Book 1 — Part 111]] | The Table of the Chiefs ends the Second Dwarven War | 529 SD | copyedited |
 | [[Book 1 — Part 112]] | Dweomyne in the Abyss | 579 SD | copyedited |
