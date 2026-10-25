@@ -25,11 +25,16 @@ One battlemap per encounter. The three sites are non-contiguous, so there is no 
 ## Status
 | Map | Scene | Size (squares) | 100 px/sq | MJ base | Player | DM |
 |---|---|---|---|---|---|---|
-| The Erlen Bridge | [[Scene 02 — The Erlen Bridge]] | 40 × 24 | 4000 × 2400 | ✅ | ⬜ | ⬜ |
-| The *Kortheim Maid* | [[Scene 04 — Two Nights on the Quag]] | 20 × 12 | 2000 × 1200 | ✅ | ⬜ | ⬜ |
-| The Stable Rows | [[Scene 06 — The Stable Rows]] | 40 × 14 | 4000 × 1400 | ✅ | ⬜ | ⬜ |
+| The Erlen Bridge | [[Scene 02 — The Erlen Bridge]] | 40 × 24 | 4000 × 2400 | ✅ | ✅ | ✅ |
+| The *Kortheim Maid* | [[Scene 04 — Two Nights on the Quag]] | 20 × 12 | 2000 × 1200 | ✅ | ✅ | ✅ |
+| The Stable Rows | [[Scene 06 — The Stable Rows]] | 40 × 14 | 4000 × 1400 | ✅ | ✅ | ✅ |
 
-Midjourney bases (2026-10-25) are in `99-Assets/SP-PBS-00/` as `SP-PBS-00 — [Map] — MJ base.png`; prompts in [[SP-PBS-00 — Art Brief]] § 7. Next step for each: grid, cleanup and the DM Only layer in Inkarnate, then the two exports.
+Midjourney bases (2026-10-25) are in `99-Assets/SP-PBS-00/` as `SP-PBS-00 — [Map] — MJ base.png`; prompts in [[SP-PBS-00 — Art Brief]] § 7. **Exports (2026-10-25):** built from the MJ bases at 100 px/square, grid on. Each map has three files: `— Player.png` (grid only), `— DM.png` (grid + DM marks) and `— DM Overlay.png` (the DM marks alone on transparency, the same size). Drop the overlay onto Inkarnate's DM Only layer or a VTT GM layer. If your Inkarnate cleanup moved anything, re-export the Player map at the same size and the overlay will still line up wherever the art didn't move.
+
+**DM key (all three maps):** red tokens are hostiles, blue are NPCs, gold outlines are features and zones, gold circles are lantern light, and each map has a DM panel of its scene's rules.
+- **Bridge:** Boedic (B) talking in front of a three-drover line across mid-span (D1–D3; D4–D5 at APL 2+). Mastiffs (M1–M2, APL 3–4) at the carts. Hartwin (H) in the toll house. Cattle zone hatched in the northwest. The party's route marked from the northwest road.
+- **Maid:** Krul (K) in the bow stall. The lantern's 10-ft shuttered and 20-ft open radii. Deckhands H1 (APL 2+) at the mast and H2 (APL 3–4, hand crossbow) aft.
+- **Rows:** Maus's stall (the 14th on the north side). The five lanterns (L) with 10-ft pools. Bravos V1–V2 (V3 APL 2+, V4 APL 3+) and Krul (if free) at the far east door. Corwin's watch post. The party enters from the west.
 
 ## 1 — The Erlen Bridge
 **40 × 24 squares · 200 × 120 ft · 4000 × 2400 px**

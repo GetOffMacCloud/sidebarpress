@@ -52,7 +52,7 @@ publish: false
 
 - [ ] Manifest in [[10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file
 - [ ] Longform compile run; output saved as `SP-PBS-00 — Compiled.md`
-- [ ] Battlemaps (DM + Player) in `99-Assets/SP-PBS-00/`; Map Assets note written *(note done; maps to build)*
+- [x] Battlemaps (DM + Player) in `99-Assets/SP-PBS-00/`; Map Assets note written *(2026-10-25; DM overlays included)*
 - [x] Art brief / Midjourney prompt pack written ([[SP-PBS-00 — Art Brief]])
 - [ ] Title block and cover art done
 - [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported
