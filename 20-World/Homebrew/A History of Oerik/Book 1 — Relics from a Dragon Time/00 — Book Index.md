@@ -29,6 +29,33 @@ Back to [[A History of Oerik]] · Notes: [[Book 1 — Editorial Notes]]
 | [[Book 1 — Part 1]] | — | −14,000 SD | copyedited |
 | [[Book 1 — Part 2]] | — | −20,000 SD | copyedited |
 | [[Book 1 — Part 3]] | Olve | (undated) | copyedited |
+| [[Book 1 — Part 60]] | Ye'Cind's recorder at the Shady Satyr | (c. 202 SD) | copyedited |
+| [[Book 1 — Part 61]] | Molog's invasion; Norebo meets Ye'Cind | (c. 202 SD) | copyedited |
+| [[Book 1 — Part 62]] | The Goddess of the Papacy | (c. 202 SD) | copyedited |
+| [[Book 1 — Part 58]] | The Oath behind the eight Suel states | 202 SD | copyedited |
+| [[Book 1 — Part 59]] | Norebo deposes Pope Syrul; Risewater joins the Suel kingdom | (c. 202 SD) | copyedited |
+| [[Book 1 — Part 56]] | Thurnfedge V and Norebo of the Oath | 198 SD | copyedited |
+| [[Book 1 — Part 57]] | Ye'Cind in Sunndi | 200 SD | copyedited |
+| [[Book 1 — Part 54]] | Pope Syrul conquers Emeraldrock | (after 189 SD) | copyedited |
+| [[Book 1 — Part 55]] | Syrul defeated by the djinn; Risewater holds | (after 189 SD) | copyedited |
+| [[Book 1 — Part 52]] | The jann beyond Darkwall; trade with the Suel | (c. 178–189 SD) | copyedited |
+| [[Book 1 — Part 53]] | The Elemental Princes punish the jann; disasters strike the Suel | 189 SD | copyedited |
+| [[Book 1 — Part 50]] | Baba Yaga's hut (a self-contained tale) | (undated) | copyedited |
+| [[Book 1 — Part 51]] | The Sea of Dust basin; the domed city beyond Darkwall | 178 SD | copyedited |
+| [[Book 1 — Part 48]] | Halflings, gnomes and the H'uga; Flan kingdoms | 151 SD | copyedited |
+| [[Book 1 — Part 49]] | The Suel split: the Holy Papacy of Risewater and the Noble Highhold of Emeraldrock | 155 SD | copyedited |
+| [[Book 1 — Part 45]] | Deep Sashelas and the sea elves; the kuo-toa | (undated) | copyedited |
+| [[Book 1 — Part 46]] | Win-Daled's death; Gryman; Ye'Cind and Heward depart | 29–55 SD | copyedited |
+| [[Book 1 — Part 47]] | The demons driven out; gnomes and halflings arrive | 124 SD | copyedited |
+| [[Book 1 — Part 42]] | Risewater founded; the ghoul-elf raid | −12 SD | copyedited |
+| [[Book 1 — Part 43]] | Risewater destroyed and rebuilt; the Lowly Ones become the Suel | −10 SD to 1 SD | copyedited |
+| [[Book 1 — Part 44]] | The nations of Eastern Oerik | 20s SD | copyedited |
+| [[Book 1 — Part 39]] | The heroes attack Dweomyne | −17 to −14 SD | copyedited |
+| [[Book 1 — Part 40]] | Dweomyne falls into the Abyss; the whip left behind | −17 to −14 SD | copyedited |
+| [[Book 1 — Part 41]] | Revolt and flight west | −14 SD | copyedited |
+| [[Book 1 — Part 36]] | Corellon refuses; the Hepmonaland jungle | −18 SD | copyedited |
+| [[Book 1 — Part 37]] | Demogorgon at Ch'ltl; the Scroll stolen | −18 SD | copyedited |
+| [[Book 1 — Part 38]] | The Scroll studied in Celene | −17 SD | copyedited |
 | [[Book 1 — Part 33]] | Heward among the Lowly One thieves | −20 SD | copyedited |
 | [[Book 1 — Part 34]] | Heward joins the rebels | −20 SD | copyedited |
 | [[Book 1 — Part 35]] | The Scroll of Vile Darkness; the search for Corellon | −18 SD | copyedited |
