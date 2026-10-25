@@ -280,10 +280,12 @@ His parting warning — *"If you're still in this area in six months, and things
 
 ## 🎨 Portrait prompt
 
+Converted to the house black-and-white ink style, 2026-10-24 (see [[Art-Style-Guide]]). Print: 1-bit at 600 dpi per its Print production steps.
+
 No portrait exists; `image:` above is a dangling reference. Add the result to [[NPC Portrait Prompts — Midjourney]].
 
 ```
-portrait of a composed middle-aged Oerid man in his forties, seated at a tavern table in a dim common room, plain dark travelling coat immaculately kept, one hand resting on a closed leather ledger, a pewter cup turned precisely before him, faint dry amusement, eyes reading the viewer rather than meeting them, 14th century germanic alpine dress, candlelight and low window light, muted earth palette, painterly realism, three-quarter view --ar 2:3 --v 8.1
+portrait of a composed middle-aged Oerid man in his forties, seated at a tavern table, plain dark travelling coat immaculately kept, one hand resting on a closed leather ledger, a pewter cup turned precisely before him, faint dry amusement, eyes reading the viewer rather than meeting them, 14th century germanic alpine dress, lit by a single candle and a low window with hard crosshatched shadow, three-quarter view, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 2:3 --v 8.1 --style raw --stylize 75 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
 > [!tip] Cover the name and it should still read as him
