@@ -30,7 +30,7 @@ token: todo
 *Created by **GrimmGrixis**, Writers Guild.*
 
 > [!art]+ Plate
-> ![[99-Assets/SP-BST-01/plates/Aetherwrack.png|360|360]]
+> ![[99-Assets/SP-BST-01/plates/Aetherwrack.png|360]]
 
 > [!example]+ Aetherwrack (CR 10, 5,900 XP)
 > *Large aberration, neutral evil*
