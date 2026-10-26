@@ -141,7 +141,7 @@ All statblocks use **2014 5e** rules. MM page numbers refer to the 2014 *Monster
 > ***Parry.*** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 >
 > **Changes from the noble block:**
-> - **AC 12** (a riding coat, no breastplate) and **HP 11** (2d8 + 2).
+> - **AC 12** (a riding coat, no breastplate), **Con 12 (+1)**, and **HP 11** (2d8 + 2).
 > - On the Flats his rapier is corded: he fights with a lantern-pole (+2 to hit, 1d6 bludgeoning) and loses Parry.
 > - Adds **Animal Handling +2**. He will do something brave: his first action is always to shout for help, then to put himself between the bravos and the stall.
 

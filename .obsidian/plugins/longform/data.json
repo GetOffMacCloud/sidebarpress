@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-25T05:01:14.470Z",
-      "total": 223915,
+      "total": 221487,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -153,11 +153,8 @@
           }
         },
         "10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index.md": {
-          "total": 2428,
-          "scenes": {
-            "Scene 07 — Post Time": 1503,
-            "Scene 08 — The Sale Ring": 925
-          }
+          "total": 0,
+          "scenes": {}
         },
         "10-Adventures/SP-HAL-04 — The Tithe of Thornbury/Scenes/00 — Scene Index.md": {
           "total": 9762,
@@ -202,6 +199,10 @@
             "Scene 04 — Fields and Stall": 1953,
             "Scene 05 — The Mill": 2251
           }
+        },
+        "10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index (1).md": {
+          "total": 0,
+          "scenes": {}
         }
       }
     },

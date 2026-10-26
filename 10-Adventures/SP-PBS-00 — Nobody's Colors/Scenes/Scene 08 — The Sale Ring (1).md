@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-3
 publish_order: 180
 publish: true
-status: drafted
+status: edited
 scene: 8
 session: 1
 ---
@@ -18,7 +18,9 @@ Land it. Hand them the evidence about Hessel, let them decide whether to tell Ot
 **Budget:** 10 minutes. Running long? The letter only.
 
 ## Arrival
-> *The ring is half empty the morning after. Yearlings go through at a hundred marks a head, a man with a ledger calls prices in a bored singsong, and the whole Flats smells of packing up. Otwin Halbritter is sitting on the rail. He came for the noon signing and did it; the contract is signed, thirty head over three years. But he watched the last two furlongs from the public stand first, and told nobody, and he is telling you now.*
+> *The ring is half empty the morning after. Yearlings go through at a hundred marks a head, a man with a ledger calls prices in a bored singsong, and the whole Flats smells of packing up. Otwin Halbritter is sitting on the rail alone, his stick across his knees.*
+
+He signed the remount contract at noon on Derby Day, thirty head over three years, then watched the last two furlongs from the public stand and told nobody.
 
 **To the table:** *"He doesn't look at you. He says, 'I saw. I saw the whole of it.' Who sits down next to him?"*
 
@@ -30,22 +32,22 @@ Land it. Hand them the evidence about Hessel, let them decide whether to tell Ot
 ## Beats
 
 ### The truth about Hessel
-Krul's *ten days*, the odds-book account opened ten days ago, Grete's ale line and Tilo's word about the sergeant's wife: together they name **[[Hessel Amtmann]]**. Leave it as evidence, not a confession. **Whether to tell Otwin is the last decision in the adventure, and it is the party's.**
+Krul's *ten days*, the odds-book account opened ten days ago, Grete's ale line, and Tilo's word about the sergeant's wife: together they name **[[Hessel Amtmann]]**. Leave it as evidence, not a confession. **Whether to tell Otwin is the last decision in the adventure, and it is the party's.**
 
 If they tell him, give them the moment and don't rush it:
 > *He listens all the way through without interrupting, which is worse than shouting. "Hessel." He says the name like he's checking a number he already knew was wrong. "Fifteen years. He carried my son on his shoulders at the Godsday fair." He gets down off the rail, slowly, because of the gout. "Right. Thank you. I'd rather have known."*
 
 ### The stewards' chest
-By Duffkyyn custom, the company that brought a starter to the post draws one prize from the stewards' chest. [[Benno]] carries it round the ring. Any branch where the mare reached the Flats under the party's escort qualifies, whether she ran or was scratched; the Rhennee sale does not. Roll on the **Derby prize table** in [[SP-PBS-00-Nobodys-Colors]] (Treasure & Rewards).
+By Duffkyyn custom, the company that brought a starter to the post draws one prize from the stewards' chest. [[Benno]] carries it around the ring. Any branch where the mare reached the Flats under the party's escort qualifies, whether she ran or was scratched; the Rhennee sale does not. Roll on the **Derby prize table** in [[SP-PBS-00-Nobodys-Colors]] (Treasure & Rewards).
 
 ### The letter
 However it ended, even if they took Vuurzward's offer, Adalinde finds them with a folded paper and a face that gives nothing away:
 
 *"The Roodbergs have sold remounts to the University's field station since its charter. The Registrar knows the seal."* She hands it over. *"It's a letter of field expertise. It won't buy your passage, and you don't need it for the door; they take anyone who signs. It's for after. She'll write it in a different column from everyone else's."*
 
-*(If they saved the farm:)* *"Father's paying your passage, and half your bond. He says he's buying your absence from my stable. He isn't. He just can't say the other thing."*
+*(If Adalinde rode and the farm stands:)* *"Father's paying your passage, and half your bond. He says he's buying your absence from my stable. He isn't. He just can't say the other thing."*
 
-*(And then, because she owes them one true sentence:)* *"Whatever else happened out there, thank you for asking me whether I ride. Nobody ever thought to ask."*
+*(If anyone asked her, in Scene 1 or at post time, whether she rides:)* *"Whatever else happened out there, thank you for asking me whether I ride. Nobody ever thought to ask."*
 
 Hand over [[SP-PBS-00 — Handout — The Patron's Letter]] with the commendations they earned written in.
 

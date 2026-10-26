@@ -11,7 +11,7 @@ tags: [mechanic, tracker, clock]
 
 Back to [[SP-PBS-00-Nobodys-Colors]]
 
-The adventure runs on one law, one track and two clocks. Put them on an index card where the players can see them. **Maus's Condition** is the real stake of Acts 2 and 3. The **Sabotage Clock** is how she loses it. The **Spook die** is what forty frightened horses do to a fight. The **peace-bond** is the law on the Flats.
+The adventure runs on one law, one track, and two clocks. Put them on an index card where the players can see them. **Maus's Condition** is the real stake of Acts 2 and 3. The **Sabotage Clock** is how she loses it. The **Spook die** is what forty frightened horses do to a fight. The **peace-bond** is the law on the Flats.
 
 ## Maus's Condition (the track)
 [[Maus]] is not a combatant and should never roll initiative.
@@ -19,7 +19,7 @@ The adventure runs on one law, one track and two clocks. Put them on an index ca
 | State | How | At post time |
 |---|---|---|
 | **Sound** | The Sabotage Clock never filled | Can place second. Every route in Scene 7 is open. |
-| **Sore** | The clock filled once | Animal Handling DC 15 or Medicine DC 13 to detect; automatic for Adalinde and for any PC with a stable, farrier or cavalry background. She can run, but **fourth is her ceiling**, and there is a **1 in 6** she breaks down in the last furlong. |
+| **Sore** | The clock filled once | Animal Handling DC 15 or Medicine DC 13 to detect; automatic for Adalinde and for any PC with a stable, farrier, or cavalry background. She can run, but **fourth is her ceiling**, and there is a **1 in 6** she breaks down in the last furlong. |
 | **Lame** | The clock filled twice | She cannot run. The entry is scratched, and Vuurzward's offer is the only route left. |
 
 **Give the players the choice, not the roll.** If she is Sore, Adalinde says so plainly: *"She can run. I don't know that she should."* Never roll the breakdown in secret; roll it in the open, before the race, if they choose to run her. A breakdown ends her racing life, not her life: she is still a broodmare, and still worth having.

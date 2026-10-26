@@ -39,11 +39,11 @@ publish: false
 ## 3 · Edit
 
 - [x] Developmental edit: structure, pacing, railroad check ([[SP-PBS-00 — Developmental Edit]]; majors applied 2026-10-23)
-- [ ] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max)
+- [x] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max) *(2026-10-25 copy edit)*
 - [ ] Every read-aloud read aloud once; stumbles cut
-- [ ] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve
+- [x] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve *(2026-10-25; CE1–CE25 in [[SP-PBS-00 — Developmental Edit]])*
 - [ ] Canon Check table complete and page numbers verified against print
-- [ ] Every scene `status: edited`
+- [x] Every scene `status: edited` *(2026-10-25)*
 - [ ] Playtest #1 run; session log in `80-Sessions`; fixes applied
 - [ ] Every scene `status: final`
 

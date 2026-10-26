@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-3
 publish_order: 170
 publish: true
-status: drafted
+status: edited
 scene: 7
 session: 1
 ---
@@ -18,7 +18,7 @@ The whole adventure. Twenty minutes to the third bell, and three things are true
 **Budget:** 25 minutes. **Never cut this scene.**
 
 ## Arrival
-> *Derby Day. The stands are full, the bell for the second race has gone, and the course is a green mile with a crowd four deep along its rail. The morning packet has come in. Otwin Halbritter stands at the end of the row with two house men, looking at the mare, not his son. Adalinde is beside the stall in riding boots. A steward's boy puts his head round the post: "Ostvelt Grey. The book's still not signed. Whoever signs names the rider. Third bell."*
+> *Derby Day. The stands are full, the bell for the second race has gone, and the course is a green mile with a crowd four deep along its rail. The morning packet has come in. Otwin Halbritter stands at the end of the row with two house men, looking at the mare, not his son. Adalinde is beside the stall in riding boots. A steward's boy puts his head around the post: "Ostvelt Grey. The book's still not signed. Whoever signs names the rider. Third bell."*
 
 *Now stop talking. Let the table look at it.* If a player asked Adalinde in Scene 1 whether she rides, she looks at that player, not at Corwin, when the steward's boy, [[Benno]], speaks.
 
@@ -90,8 +90,9 @@ He doesn't say anything. He looks at his daughter in the silks, and at his son s
 
 ## Alternates & Re-hooks
 - **Adalinde came instead of Corwin** (they refused the job): the problem at post time is Otwin, who arrives to take the mare home. The same routes work on him; the ledger argument is the strongest.
-- **Otwin has been here since Scene 5** (the roll): he stands in the row the whole scene. He speaks only if a PC speaks to him first.
+- **Otwin has been here since Derby eve** (the roll): he stands in the row the whole scene. He speaks only if a PC speaks to him first.
 - **The mare was sold to the Rhennee** (Scene 4): a 10-minute beat. Otwin and Adalinde come off the morning packet to an empty stall and a struck line. Adalinde looks at the stall, then at the party: *"You sold her to the water."* She says nothing else until the sale ring, where she still delivers the letter. Otwin says nothing at all; the note is paid, and that is the worst part. Go to [[Scene 08 — The Sale Ring]].
+- **Maus failed to settle at Spook 3** (Scene 6): she won't stand for the first ten minutes. Adalinde walks her, so whoever runs for Weisel goes without her to vouch for them.
 - **A PC cut a cord in Scene 6:** Roodberg has already struck the line. The only routes left are a very good reason (Persuasion DC 20, with the bravos' cut cords as evidence) or Vuurzward's offer.
 
 ## Transition

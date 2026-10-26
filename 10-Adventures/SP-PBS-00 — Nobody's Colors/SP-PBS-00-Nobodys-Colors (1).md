@@ -5,7 +5,7 @@ section: overview
 publish_order: 10
 publish: true
 title: "Nobody's Colors"
-status: draft # draft | playtesting | editing | published
+status: editing # draft | playtesting | editing | published
 levels: "1-4"
 party_size: "4-6"
 estimated_hours: 4
@@ -23,7 +23,7 @@ tags: [one-shot, prequel, social, heist, travel, horse-race, perrenland, schwart
 
 > *A family with no clan tries to buy a name with a horse, and hires strangers to carry the lie across a lake.*
 >
-> A Social / Travel / Heist one-shot for **average party level 1–4** (written for APL 3, with scaling for 1, 2 and 4). Broke would-be students, stranded on Lake Quag's western shore on their way to Greyhawk University, take a job walking a rich boy's "baggage" to the Duffkyyn Derby at Schwartzenbruin. The baggage is a racehorse. The boy forged his father's seal to enter her, the colors are rented from a dead house, and a patient moneylender has paid to see her lose. It is the **prequel** to the Ritterstadt line: whatever the party does, it ends at the northern packet with a patron's letter for the Registrar.
+> A Social / Travel / Heist one-shot for **average party level 1–4** (written for APL 3, with scaling for 1, 2, and 4). Broke would-be students, stranded on Lake Quag's western shore on their way to Greyhawk University, take a job walking a rich boy's "baggage" to the Duffkyyn Derby at Schwartzenbruin. The baggage is a racehorse. The boy forged his father's seal to enter her, the colors are rented from a dead house, and a patient moneylender has paid to see her lose. It is the **prequel** to the Ritterstadt line: whatever the party does, it ends at the northern packet with a patron's letter for the Registrar.
 
 ## Adventure Code
 `SP-PBS-00` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README. *00 because it is the way in: run it before any other SP-PBS adventure for new characters, or whenever a new student joins.*
@@ -63,7 +63,7 @@ Refined from the A Tourist In Greyhawk draft `0008 — Nobody's Colours` (Greyha
 ## What's Really Happening
 *Homebrew; see Canon Check.*
 
-**The Halbritters.** Three generations ago they came up from Nederboden with money and no clan, bought **Erlenhof**, bred honest horses, and earned a seat on Aerden's council — the most a clanless family can reach. In Schwartzenbruin the clans hold the Derby, the sale ring and the canton remount contracts. No Halbritter horse has ever run at Duffkyyn in Halbritter colors, because there are none.
+**The Halbritters.** Three generations ago they came up from Nederboden with money and no clan, bought **Erlenhof**, bred honest horses, and earned a seat on Aerden's council — the most a clanless family can reach. In Schwartzenbruin the clans hold the Derby, the sale ring, and the canton remount contracts. No Halbritter horse has ever run at Duffkyyn in Halbritter colors, because there are none.
 
 Two years ago **[[Adalinde Halbritter]]** bred a grey mare out of the old Erlenhof line, the best horse the farm has had in forty years. Stable name **[[Maus]]**. Adalinde broke her, trained her, and is by far the better rider of the two siblings. She has wanted to enter the mare at Duffkyyn since the day she was foaled and has never said so.
 
@@ -75,11 +75,11 @@ Two years ago **[[Adalinde Halbritter]]** bred a grey mare out of the old Erlenh
 1. **Colors.** Every entry runs under colors on the Roodberg register. Brokers rent dead houses' colors, and the stewards allow it, but a **living sponsor of record** must sign the book in the stewards' tent before post time.
 2. **Rider.** The **sponsor of record names the rider.** Weisel named Corwin. To change the rider, someone must change the nomination, and Weisel means to be nowhere.
 
-**[[Sivert Vuurzward]]** holds the note. He lends money, breeds horses, and wants Erlenhof: the land, the bloodline and the grey mare who comes with the farm if it falls. He knows the seal is forged. He needs only to say in the *Rathaus*, "Herr Halbritter, is this your seal?" Otwin cannot answer no without naming his son a forger before the whole canton. So a 400-mark paper controls a farm worth ten times that. Vuurzward needs the mare to lose, and has arranged it.
+**[[Sivert Vuurzward]]** holds the note. He lends money, breeds horses, and wants Erlenhof: the land, the bloodline, and the grey mare who comes with the farm if it falls. He knows the seal is forged. He needs only to say in the *Rathaus*, "Herr Halbritter, is this your seal?" Otwin cannot answer no without naming his son a forger before the whole canton. So a 400-mark paper controls a farm worth ten times that. Vuurzward needs the mare to lose, and has arranged it.
 
 **Whose money it is.** Sivert bought the note on Kettenhaus credit, and the House of the Chain holds his paper on it: a Schuldbrief behind a Schuldbrief. This year the Kettenhaus's patron clan, the Hussen, has taken the Voormannship, and the house is calling in paper across the cantons while the window is open. Sivert is the face; the Kettenhaus is the chain. Nothing here needs the party to find out. See [[The Kettenhaus]].
 
-**[[Hessel Amtmann]]** posted the job because the house guard answers to Otwin. He is Corwin's accomplice, and the leak. He married a Vuurzward woman and owes 60 marks on a Schuldbrief her brother holds (Kettenhaus paper, though Hessel doesn't know it). Ten days ago, the day Corwin booked passage, Hessel sold the route, the boat and the date to have it struck out.
+**[[Hessel Amtmann]]** posted the job because the house guard answers to Otwin. He is Corwin's accomplice, and the leak. He married a Vuurzward woman and owes 60 marks on a Schuldbrief her brother holds (Kettenhaus paper, though Hessel doesn't know it). Ten days ago, the day Corwin booked passage, Hessel sold the route, the boat, and the date to have it struck out.
 
 **The morning of Day 1.** Old Hartwin the tollkeeper walks up to the house to ask why a stranger in a dark Traft coat was out yesterday dragging a surveyor's chain across the Erlen bridge. (He was a Kettenhaus *Schätzer*, pricing the collateral.) Otwin finds out at dawn. Corwin's wagons left at first light. Otwin, who cannot ride for the gout, sends a boy on a pony to the Meerijder drovers camped at the bridge, with a writ.
 
@@ -94,8 +94,8 @@ What happens if nobody interferes:
 **If the PCs never come:** Corwin gets nine miles before Boedic's drovers stop him at the bridge. Otwin takes the mare home, Maus goes into the levy string, and Vuurzward buys the note's foreclosure the following year.
 
 ## Hook
-1. **The notice (default).** At vespers in the [[Aerden|Mountainview Rest]], Sergeant Amtmann pins a notice to the post: escort duty, Aerden to Schwartzenbruin, passage paid, thirty marks on arrival. See [[SP-PBS-00 — Handout — The Notice]].
-2. **Grete's arrangement.** [[Grete Haslau]] has kept the party alive for three weeks on work-for-board. She tells them the job exists before Amtmann posts it: *"He'll come in tonight and pin something up. Read it before the drovers do."*
+1. **The notice (default).** At vespers in the [[Aerden|Mountainview Rest]], Hessel pins a notice to the post: escort duty, Aerden to Schwartzenbruin, passage paid, thirty marks on arrival. See [[SP-PBS-00 — Handout — The Notice]].
+2. **Grete's arrangement.** [[Grete Haslau]] has kept the party alive for three weeks on work-for-board. She tells them the job exists before Hessel posts it: *"He'll come in tonight and pin something up. Read it before the drovers do."*
 3. **Personal stake.** A PC with a Perrender surname is claimed as clan kin by somebody in the first ten minutes, or a PC carries a debt that Vuurzward has quietly bought.
 4. **Decline path.** If the party refuses the job, Adalinde finds them at the Rest that night with her own money and a straighter story, and comes with them.
 
@@ -110,11 +110,11 @@ What happens if nobody interferes:
 8. *(Optional)* **Find out who sold the route.** *(The ten days.)*
 
 ## Subplots (keyed to PCs; assign at the table)
-- **Perrender surname:** claimed as Meerijder, Roodberg or Vuurzward kin. Boedic's drovers won't raise a hand to kin, and doors open at the Flats. Each use is a favor spent.
+- **Perrender surname:** claimed as Meerijder, Roodberg, or Vuurzward kin. Boedic's drovers won't raise a hand to kin, and doors open at the Flats. Each use is a favor spent.
 - **Knows horses** (animal-handling background or proficiency): the only one besides Adalinde who can tell the mare has been got at, and when.
 - **Carries a debt:** Vuurzward has bought it by Scene 5. He mentions it once, kindly, and never again. It is why he makes his offer to *them*.
-- **Trade, coin or bookkeeping:** reads Otwin's ledger in a minute (Scene 2) and the odds-book anomaly on sight (Scene 5).
-- **Thief, forger or liar:** owns Scene 3.
+- **Trade, coin, or bookkeeping:** reads Otwin's ledger in a minute (Scene 2) and the odds-book anomaly on sight (Scene 5).
+- **Thief, forger, or liar:** owns Scene 3.
 
 ## Act Structure
 Likely path: Scenes 0 → 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8.
@@ -151,7 +151,7 @@ See [[Scene 07 — Post Time]]. Corwin can't win, Adalinde is in riding boots, a
 - [[Adalinde Halbritter]] — *Jungfer*, 24. Runs Erlenhof, bred the mare, the better rider. Never lies to the party and will not ask for the one thing she wants.
 - [[Otwin Halbritter]] — *Ratsherr* of Aerden, sixties, gout. Correct about the money, wrong about the boy, and can be argued with by anyone who asks to see the ledger.
 - [[Hessel Amtmann]] — sergeant of the house guard; the accomplice and the leak.
-- [[Sivert Vuurzward]] — moneylender and breeder. Courteous, patient, never threatens, never lies; he leaves things out.
+- [[Sivert Vuurzward]] — moneylender and breeder. Courteous, patient, never threatens. He lies once, about Krul; otherwise he leaves things out.
 - [[Anse Krul]] — farrier. Lames horses for money and calls it a trade.
 - [[Boedic of the Meerijder]] — drover, holding a lawful writ he wishes he'd never been handed.
 - [[Captain Marda Vosk]] — master of the *Kortheim Maid*. Prices everything, including silence.
@@ -171,14 +171,14 @@ See [[Scene 07 — Post Time]]. Corwin can't win, Adalinde is in riding boots, a
 - [[Aerden]] — a slate-and-plaster market town in the Yatil foothills; the Mountainview Rest and Erlenhof are its features (Scenes 0–1).
 - [[The Erlen Bridge]] — the Halbritters' own toll bridge, and a Meerijder drover camp (Scene 2).
 - [[Osterschlauss]] — Aerden's landing on the lake (Scene 3).
-- [[The Duffkyyn Flats]] — the Derby ground outside Schwartzenbruin's walls: the gate, the stewards' tent, the stable rows, the course and the sale ring (Scenes 5–8).
+- [[The Duffkyyn Flats]] — the Derby ground outside Schwartzenbruin's walls: the gate, the stewards' tent, the stable rows, the course, and the sale ring (Scenes 5–8).
 - [[The Tanner's Rest]] — the tavern where Weisel drinks (Scene 7, or earlier if they hunt him).
 - [[Schwartzenbruin]] — the capital and its lake-gate. Canon note in `20-World/Greyhawk-Canon`.
 - *Transit, no note:* the Aerden road, the *Kortheim Maid* and the lake crossing, the northern packet.
 - *Offstage, no note:* Traft (seat of the Kettenhaus), the Schwartzenbruin *Rathaus*.
 
 ## Maps
-Battlemaps still to be made: the Erlen bridge, the *Kortheim Maid*'s deck, and the stable rows. They will go in `99-Assets/SP-PBS-00/`, with a [[SP-PBS-00 — Map Assets]] note.
+Battlemaps for the Erlen bridge, the *Kortheim Maid*'s deck, and the stable rows (DM and Player exports) are in `99-Assets/SP-PBS-00/`. Specs are in [[SP-PBS-00 — Map Assets]].
 
 ## Encounters
 Difficulty uses **4 PCs** and 2014 DMG thresholds and multipliers. **For 5–6 PCs, add one drover or bravo per extra PC.** Full statblocks are in [[SP-PBS-00 — Bestiary]].
@@ -229,7 +229,7 @@ Standard DMG items, so no `50-Items` notes, by rule.
 | *"Asked the question nobody in that family would."* | The rider question solved, by any route (S7) |
 | *"Told her father the truth when it cost them."* | Told Otwin about Hessel (S8) |
 
-**Not coin, not credit.** A favor owed by Adalinde, Boedic or Roodberg, whoever they treated decently. [[Maus]]'s first foal, if she is sound and unsold: three years out, worth more than everything above, and impossible to spend.
+**Not coin, not credit.** A favor owed by Adalinde, Boedic, or Roodberg, whoever they treated decently. [[Maus]]'s first foal, if she is sound and unsold: three years out, worth more than everything above, and impossible to spend.
 
 **Experience.** None. Advancement in the Greyhawk University frame is tuition, paid in credits. Characters leave at the level they arrived; the letter is what they carry forward.
 
@@ -239,11 +239,13 @@ Standard DMG items, so no `50-Items` notes, by rule.
 | Adalinde rides, purse share, no bet | 40 + 25 = **65**; Otwin pays 60 | Clear, with 25 in hand |
 | Adalinde rides, no share, no bet | **40**; Otwin pays 60 | Clear, with nothing left |
 | Corwin rides, sixth | **40** | Packet; 20 left; on the levy |
-| Vuurzward's offer taken | **40** | Packet; on the levy; letter in hand |
+| Vuurzward's offer taken | **40** | Packet; 20 left; on the levy; letter in hand |
 | Sold to the Rhennee | 40 + 50 = **90** | Packet; 70 left; on the levy |
 
+*Rows assume the negotiated 40-mark rate. At 30, take 10 off each; a PC who ends short of the bond goes on the levy.*
+
 ## Denouement
-See [[Scene 08 — The Sale Ring]]. Otwin watched the last two furlongs from the public stand and told no one. Krul's "ten days," the odds-book account and Grete's ale line name Hessel Amtmann. Whether to tell Otwin is the last decision, and it is the party's. The northern packet leaves on Godsday.
+See [[Scene 08 — The Sale Ring]]. Otwin watched the last two furlongs from the public stand and told no one. Krul's "ten days," the odds-book account, and Grete's ale line name Hessel Amtmann. Whether to tell Otwin is the last decision, and it is the party's. The northern packet leaves on Godsday.
 
 ### Endings at a Glance
 | Ending | Condition | Result |
@@ -311,5 +313,5 @@ Watch for: how long the bridge runs (Boedic is talkative and players enjoy him),
 - [[SP-PBS-00 — Handout — The Notice]]
 - [[SP-PBS-00 — Handout — The Patron's Letter]]
 - [[SP-PBS-00 — Developmental Edit]] — edit passes and the copy-edit log
-- [[SP-PBS-00 — Map Assets]] — battlemap specs (maps still to build)
+- [[SP-PBS-00 — Map Assets]] — battlemap specs and exports
 - [[SP-PBS-00 — Art Brief]] — Midjourney prompt pack (`--v 8.1`)

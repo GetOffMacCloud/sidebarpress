@@ -25,7 +25,7 @@ Back to [[SP-PBS-00-Nobodys-Colors]] · Given in [[Scene 00 — Three Weeks in A
 > Passage paid. Board paid.
 > **Thirty marks** per person on arrival, bearing arms.
 >
-> Enquire at **ERLENHOF** — the grey house at the top of the hill — and ask for **Sergeant Amtmann**.
+> Inquire at **ERLENHOF** — the grey house at the top of the hill — and ask for **Sergeant Amtmann**.
 
 ## DM Notes
 - The seal has no device because the Halbritters have none. A PC who knows heraldry notices that a gentleman's seal without a device is a clanless gentleman's seal.
