@@ -51,7 +51,7 @@ publish: false
 ## 4 · Package
 
 - [x] Manifest in [[10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file *(2026-10-25: 14 shipping files, orders 10–230, no gaps or strays)*
-- [ ] Longform compile run; output saved as `SP-PBS-00 — Compiled.md`
+- [x] Longform compile run; output saved as `SP-PBS-00 — Compiled.md` *(2026-10-25; Scenes 00–08, frontmatter and nav lines stripped, links flattened)*
 - [x] Battlemaps (DM + Player) in `99-Assets/SP-PBS-00/`; Map Assets note written *(2026-10-25; DM overlays included)*
 - [x] Art brief / Midjourney prompt pack written ([[SP-PBS-00 — Art Brief]])
 - [x] Title block and cover art done *(cover and four scene plates in `99-Assets/SP-PBS-00/`; title block and inside cover in the brew)*
