@@ -10,13 +10,6 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Scene 00 — Three Weeks in Aerden
-    - Scene 01 — Erlenhof
-    - Scene 02 — The Erlen Bridge
-    - Scene 03 — Osterschlauss
-    - Scene 04 — Two Nights on the Quag
-    - Scene 05 — The Stewards' Tent
-    - Scene 06 — The Stable Rows
     - Scene 07 — Post Time
     - Scene 08 — The Sale Ring
   ignoredFiles:

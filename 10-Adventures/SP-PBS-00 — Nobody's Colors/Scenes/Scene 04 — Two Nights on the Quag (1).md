@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-2
 publish_order: 140
 publish: true
-status: drafted
+status: edited
 scene: 4
 session: 1
 ---
@@ -52,6 +52,8 @@ Nobody on the boat told her that name. She is Zinka, of the barge *Kestrel*. The
 *The players decide.* Six hundred marks clears the note with two hundred over, which Corwin splits with the party, and it finishes the Halbritters on the Flats for good. It is a real choice with a real price. **Let them take it.**
 
 ### The small hours (15 min)
+*Read this to whoever is on watch when Krul is detected.*
+
 > *Something is wrong with the sound of the deck. A horse standing quiet makes a particular noise: a shift, a breath, a hoof set down and settled. What comes from the deck stall now is a hoof being lifted, held, and set down wrong.*
 
 Run the encounter. Krul needs **three uninterrupted rounds** in the stall. Mark them where the players can see.
@@ -65,7 +67,7 @@ Run the encounter. Krul needs **three uninterrupted rounds** in the stall. Mark 
 ## Encounter (if any)
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | Krul alone; flees at half HP | Medium (200) |
+| 1 | Krul alone; flees on his second turn | Medium (200) |
 | 2 | Krul + 1 deckhand | Medium (450) |
 | 3 | Krul + 2 deckhands, one with a hand crossbow | Medium (800) |
 | 4 | Krul + 2 deckhands, one with a hand crossbow | Easy (800) |
@@ -77,7 +79,7 @@ Krul is a **spy**; the bribed deckhands are **thugs** with 20 HP. See [[SP-PBS-0
 **DM direction:** this is a clock, not a slugfest. Interrupting Krul at any point resets the count to zero; three marks drops the mare one Condition step whatever happens to Krul afterward. Detection: **passive Perception 13** if someone is on watch on deck; **Perception DC 15** from below decks; a PC who knows horses has advantage and notices one round earlier. Full rules in [[SP-PBS-00 — The Mare, the Clock and the Cord]].
 
 ### Minion Pack (just in case)
-Use this when the fight needs more bodies: a pack of 4–8 **Bribed Deckhand** minions, built from the **thug** (MM p. 350), as Krul's bribed crew, with the [[Skirmisher Minion]] template at **APL 3**. More bribed crew come up from below decks. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+Use this when the fight needs more bodies: a pack of 4–8 **Bribed Deckhand** minions, built from the **thug** (MM p. 350), as Krul's bribed crew, with the [[Skirmisher Minion]] template at **APL 3**. More bribed crew come up from below decks. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP. **Caution:** bribed, not loyal; the pack surrenders when Krul goes down or bolts.
 
 > [!example]- Bribed Deckhand, Skirmisher Minion (CR 3 minion, 175 XP)
 > *Medium humanoid (human), neutral*
@@ -137,7 +139,7 @@ Use this when the fight needs more bodies: a pack of 4–8 **Bribed Deckhand** m
 - Adalinde, if asked about the race: *"She won't beat the Roodberg colt. She'll beat most of the rest."* → **second place is enough**
 
 ## Sensory Palette
-- **Sight:** the shore always on the right hand, grey fog to the north, lantern-light along three barge awnings
+- **Sight:** the shore always on the right hand, grey fog off the port rail, lantern-light along three barge awnings
 - **Sound:** strings from the barges, cards slapped on a cask, a hoof lifted and set down wrong
 - **Smell:** pitch, wet canvas, horse
 - **Touch:** the deck moving under bare feet in the dark

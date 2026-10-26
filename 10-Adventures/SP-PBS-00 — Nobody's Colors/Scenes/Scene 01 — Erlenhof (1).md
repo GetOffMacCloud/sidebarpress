@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-1
 publish_order: 110
 publish: true
-status: drafted
+status: edited
 scene: 1
 session: 1
 ---
@@ -30,10 +30,10 @@ Hire them, and plant the lie where they can find it. The third wagon must not be
 
 ## Beats
 
-### Amtmann, walking them out
+### Hessel, walking them out
 *"You'll find the Junker enthusiastic. That's not a warning. He's nineteen. Answer what he asks and don't volunteer, and you'll get on."*
 
-| If asked… | Amtmann says |
+| If asked… | Hessel says |
 |---|---|
 | Why the house guard isn't going | *"Six men. Four are cousins to the tollkeeper, and the tollkeeper is Herr Otwin's man to the bone. You see the difficulty."* He never says what the difficulty is. |
 | What's in the wagons | *"The Junker's baggage. He travels heavy. Nobles do."* He looks at the third wagon while he says it. |
@@ -78,7 +78,7 @@ She does not come to them; they come to her, or they don't meet her.
 ## Clues Available Here
 - The wagon rides low and shifts; Adalinde's nine hundredweight → **there is a racehorse in the third wagon**
 - *"I ride."* → **Adalinde should ride**
-- Amtmann's bad lie → **Hessel is frightened of someone**
+- Hessel's bad lie → **Hessel is frightened of someone**
 
 ## Sensory Palette
 - **Sight:** a bare doorpost, thirty horses in long morning light, a woman in grey with a bucket

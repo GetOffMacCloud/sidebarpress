@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-3
 publish_order: 150
 publish: true
-status: drafted
+status: edited
 scene: 5
 session: 1
 ---
@@ -18,13 +18,13 @@ The trap closes, and the antagonist makes a reasonable offer. The party leaves k
 **Budget:** 25 minutes, the morning of Richfest 3. Running long? Vuurzward makes his offer in the stable rows instead.
 
 ## Arrival
-> *Schwartzenbruin is twenty-six thousand people in slate and timber under a Rathaus tower with a clock on it. Outside the walls the Duffkyyn Flats are a city of their own: striped pavilions in clan colors, cook-fires, a sale ring, and beyond it all the long green curve of the course. At the Flats gate a boy takes your sword, threads a red cord through hilt and scabbard both, knots it, and presses a wax seal onto the knot. "Landfrieden. Derby peace. Cut it and you hang. Enjoy the races."*
+> *Schwartzenbruin is twenty-six thousand people in slate and timber under a Rathaus tower with a clock on it. Outside the walls the Duffkyyn Flats are a city of their own: striped pavilions in clan colors, cook-fires, a sale ring, and beyond it all the long green curve of the course. At the Flats gate a boy takes your sword, threads a red cord through hilt and scabbard both, knots it, and presses a wax seal onto the knot. "Landfrieden. Derby peace. Cut it and you hang. Good racing to you."*
 
 **To the table:** *"The Roodberg pavilion is the biggest on the Flats, and the stewards' tent is beside it. Corwin is already walking toward it. Does anyone stop him first?"*
 
 ## Who Is Here
 - **[[Steward Alric Roodberg]]**, chief steward of the Duffkyyn. *Wants:* the Derby run properly. *Knows:* the rules by heart, and that half his register is ghosts. *Reacts:* starts **Indifferent**; not bribable with money, very bribable with correct papers. One step worse if the party spilled blood on the road.
-- **[[Sivert Vuurzward]]**, hat in hand the entire time. *Wants:* Erlenhof and the mare. *Knows:* the seal is forged; a party member's debt, which he has bought. *Reacts:* never threatens, never lies; he leaves things out. Makes his offer to *them*, not to Corwin.
+- **[[Sivert Vuurzward]]**, hat in hand the entire time. *Wants:* Erlenhof and the mare. *Knows:* the seal is forged; a party member's debt, which he has bought. *Reacts:* never threatens; lies once, about Krul, and otherwise leaves things out. Makes his offer to *them*, not to Corwin.
 - **[[Benno]]**, the stewards' boy, who ties the cords at the gate and runs the stewards' messages. *Wants:* to be noticed by Roodberg. *Knows:* where everyone in the book is lodged. *Reacts:* answers any question about the rules, exactly.
 - **[[Jorick Weisel]]**, the broker, leaving by another flap as they come in.
 - **[[Corwin Halbritter]]**, three feet away, waiting to be told.
@@ -45,7 +45,7 @@ The trap closes, and the antagonist makes a reasonable offer. The party leaves k
 He closes the book: *"Find him by the third bell, or I strike the line."*
 
 ### The odds-book
-Ostvelt Grey opened at twenty to one this morning and has shortened to fourteen, which is normal enough for a horse nobody has seen. What isn't normal is the column beside it: somebody has been laying money **against** her, steadily, in small amounts, **from an account opened ten days ago. The account is in the name of Vuurzward.** The purses are posted on the stewards' board: first 1,000 marks, **second 500**, third 200.
+Ostvelt Grey opened at twenty to one this morning and has drifted to twenty-two, which is normal enough for a horse nobody has seen; place pays a fifth of the odds. What isn't normal is the column beside it: somebody has been laying money **against** her, steadily, in small amounts, **from an account opened ten days ago. The account is in the name of Vuurzward.** The purses are posted on the stewards' board: first 1,000 marks, **second 500**, third 200.
 
 ### Vuurzward
 He comes to them. *"You'll be the ones who came up from Aerden with the boy. Sivert Vuurzward. I lend money, mostly. I breed a little."*
@@ -65,7 +65,7 @@ He comes to them. *"You'll be the ones who came up from Aerden with the boy. Siv
 ## Development
 - **Offer taken** → Corwin's yes comes if the party tells him to give it. The mare goes to Vuurzward at Derby-evening prices tomorrow; the farm stands. Skip to [[Scene 08 — The Sale Ring]] after a short Scene 7.
 - **Krul plus the odds-book before Roodberg** → Vuurzward's own entries are barred. He tips his hat and leaves the Flats. The note still stands.
-- **The entry went on the roll in Scene 3** → **Otwin is already here**, sitting in the corner of the tent with his ledger. He says nothing. Corwin sees him.
+- **The entry went on the roll in Scene 3** → Otwin is on the *Agal Wind* and comes in at dusk; see [[Scene 06 — The Stable Rows]].
 - **Drovers were killed** → a PC is recognized by name at the gate; Roodberg starts **Hostile**.
 
 ## Clues Available Here

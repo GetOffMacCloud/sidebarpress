@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-2
 publish_order: 130
 publish: true
-status: drafted
+status: edited
 scene: 3
 session: 1
 ---
@@ -18,13 +18,13 @@ One clean problem-solving beat; a breather with teeth. Get sixteen hands of grey
 **Budget:** 15 minutes. Running long? Narrate the loading and keep only the clerk's one question.
 
 ## Arrival
-> *The road comes over a rise and the lake is just there, filling the whole of the north: grey-green, flat, with the far shore only a smudge that might be cloud. Osterschlauss is a hundred houses and a stone quay. Tied up against the quay is a fat little cog with one mast and her name painted on the stern, Kortheim Maid. At the head of the gangway stands a clerk with a roll of paper, writing down everything that goes aboard.*
+> *The road comes over a rise and the lake is just there, filling the whole of the east: grey-green, flat, with the far shore only a smudge that might be cloud. Osterschlauss is a hundred houses and a stone quay. Tied up against the quay is a fat little cog with one mast and her name painted on the stern,* Kortheim Maid. *At the head of the gangway stands a clerk with a roll of paper, writing down everything that goes aboard.*
 
 **To the table:** *"Corwin has stopped at the foot of the gangway. He's looking at you. Who goes up first?"*
 
 ## Who Is Here
 - **[[Captain Marda Vosk]]**, master of the *Kortheim Maid*. *Wants:* declared cargo and paid fare. *Knows:* what selling a horse to the Rhennee means on the Flats. *Reacts:* asks nothing about weight that's on the roll and everything about weight that isn't; prices everything, including silence.
-- **[[Ebbo Kühn]]**, the Hafenmeister's clerk, with the *Frachtrolle*. *Wants:* every entry in its column. *Knows:* that a roll read aloud in Aerden is a roll Otwin hears. *Reacts:* asks about anything undeclared, takes a bribe and asks why, and remembers. The roll is read aloud in Aerden market every Godsday, which is why Corwin couldn't book the horse: booking her would have been telling his father.
+- **[[Ebbo Kühn]]**, the Hafenmeister's clerk, with the *Frachtrolle*. *Wants:* every entry in its column. *Knows:* that a roll read aloud in Aerden is a roll Otwin hears. *Reacts:* asks about anything undeclared, takes a bribe and asks why, and remembers. The roll goes up to Aerden with the evening carter and is read aloud in the market, which is why Corwin couldn't book the horse: booking her would have been telling his father.
 - **[[Corwin Halbritter]]**, out of plan.
 
 ## Beats
@@ -54,7 +54,7 @@ Take one plan, set one DC, resolve it.
 **Failure is not refusal.** The mare goes aboard either way. Failure means the entry goes on the roll, and the roll is read aloud in Aerden.
 
 ## Development
-- **The entry went on the roll** → Otwin knows by Day 3 and arrives in Schwartzenbruin a full day early. He is **waiting in the stewards' tent** in Scene 5, and at post time he is already in the row.
+- **The entry went on the roll** → Otwin hears it read in Aerden that night, takes the *Agal Wind* next morning, and comes in at dusk on Richfest 3, a day early. He is **at the stewards' tent on Derby eve** (Scene 6), and at post time he is already in the row.
 - **No trail** → Otwin and Adalinde come in on the morning packet on Derby Day, as planned.
 - The deck stall is at the bow against the starboard rail, eight feet by ten, canvas-roofed, with the deck's one lantern hung just aft of it. Note who sleeps nearest it.
 
@@ -62,14 +62,14 @@ Take one plan, set one DC, resolve it.
 - Vosk's price list → **Vosk can be trusted to say what things cost** (she'll price the Rhennee offer honestly in Scene 4)
 
 ## Sensory Palette
-- **Sight:** the lake filling the north, a one-masted cog, a clerk's wet pen
+- **Sight:** the lake filling the east, a one-masted cog, a clerk's wet pen
 - **Sound:** gulls, a gangway creaking under hooves, the clerk reading back an entry
 - **Smell:** pitch, fish, lake water
 - **Touch:** a rope burn from the halter as the mare balks at the gangway
 - **Taste:** spray
 
 ## Alternates & Re-hooks
-- **They missed the *Maid*** (a one-day hold at the bridge): the slower *Agal Wind* sails next morning. Its master takes 50 marks and asks no questions at all. Krul is aboard the *Agal Wind* instead. Arrival is Day 4 at dusk.
+- **They missed the *Maid*** (a one-day hold at the bridge): the slower *Agal Wind* sails next morning. Its master takes 50 marks for the lot and asks no questions at all. Krul is aboard the *Agal Wind* instead. Arrival is Day 4 at dusk.
 - **Adalinde came instead of Corwin** (they refused the job): she has the coin and does the talking; the party handles the clerk.
 
 ## Transition

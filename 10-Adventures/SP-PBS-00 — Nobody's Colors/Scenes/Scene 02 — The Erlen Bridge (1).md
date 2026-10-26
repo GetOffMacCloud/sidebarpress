@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-1
 publish_order: 120
 publish: true
-status: drafted
+status: edited
 scene: 2
 session: 1
 ---
@@ -24,7 +24,7 @@ The first real decision, and the reveal if it hasn't happened. **This scene is b
 
 ## Who Is Here
 - **[[Boedic of the Meerijder]]**, drover. *Wants:* to obey a lawful writ and go home to his cows. *Knows:* the writ says hold the wagons and the Junker until the Ratsherr comes; it says nothing about the party. *Reacts:* explains himself, asks questions, apologizes while not moving.
-- **Six Meerijder drovers** with cattle goads, and (APL 3–4) two mastiffs trained to hold cloth.
+- **Five Meerijder drovers** (three at APL 1) with cattle goads, and (APL 3–4) two mastiffs trained to hold cloth.
 - **[[Old Hartwin]]**, 68, in the toll house. Will not fight; remembers faces.
 
 ## Beats
@@ -73,12 +73,12 @@ Otwin: *"Yes. Thirty horses over three years, paid in silver, quarterly, by the 
 
 Boedic uses the **bandit captain** block reflavored; drovers are **thugs**; mastiffs hold, they don't bite. See [[SP-PBS-00 — Bestiary]].
 
-**Terrain:** a stone toll bridge three wagons wide, waist-high walls, a toll house at the near end (half cover), and thirty cattle on the road behind. The river is four feet deep and slow: a shove over the wall is 1d6 falling damage and a wet, furious drover, not a drowning. **The cattle are terrain:** any loud noise (a shout, a scream, a thunderous spell) sets them milling, and the road is difficult terrain for 2 rounds; everyone in it makes a **DC 11 Dexterity save or falls prone**.
+**Terrain:** a stone toll bridge three wagons wide, waist-high walls, a toll house at the near end (half cover), and forty-odd cattle on the road behind. The river is four feet deep and slow: a shove over the wall is 1d6 falling damage and a wet, furious drover, not a drowning. **The cattle are terrain:** any loud noise (a shout, a scream, a thunderous spell) sets them milling, and the road is difficult terrain for 2 rounds; everyone in it makes a **DC 11 Dexterity save or falls prone**.
 **Tactics:** round 1 they form a line across the bridge and do not advance. Boedic spends his first turn talking. They target the wagon team, not the party: the goal is to stop wheels. **Morale breaks at two drovers down:** *"Enough. Enough! Take the bloody bridge, and when the Ratsherr asks, you tell him I bled for it."*
 **DM direction:** say it before initiative: **knocking out is free** (any melee attack), and **killing a clansman without a declared Fehde is murder**. A party that kills drovers has started a feud with the Meerijder and will meet it at the Flats. Most parties take the hint.
 
 ### Minion Pack (just in case)
-Use this when the fight needs more bodies: a pack of 4–8 **Meerijder Drover** minions, built from the **thug** (MM p. 350), as Boedic's drovers, with the [[Brute Minion]] template at **APL 3**. More of Boedic's drovers come over the bridge rail. Overwhelm can push a PC off the bridge. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+Use this when the fight needs more bodies: a pack of 4–8 **Meerijder Drover** minions, built from the **thug** (MM p. 350), as Boedic's drovers, with the [[Brute Minion]] template at **APL 3**. More of Boedic's drovers come over the bridge rail. Overwhelm can push a PC off the bridge. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP. **Caution:** they are clansmen; knocking out is still free, and killing one is still a Fehde.
 
 > [!example]- Meerijder Drover, Brute Minion (CR 3 minion, 175 XP)
 > *Medium humanoid (human), neutral*

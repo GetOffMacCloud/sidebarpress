@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-3
 publish_order: 160
 publish: true
-status: drafted
+status: edited
 scene: 6
 session: 1
 ---
@@ -14,11 +14,11 @@ session: 1
 [[10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index]] · ← [[Scene 05 — The Stewards' Tent]] · Next → [[Scene 07 — Post Time]]
 
 ## Purpose
-The adventure's one real fight, in terrain that makes fighting stupid. Settle the mare's Condition before the scene ends: Sound, Sore or Lame. **Whether the party wins is not the question.**
+The adventure's one real fight, in terrain that makes fighting stupid. Settle the mare's Condition before the scene ends: Sound, Sore, or Lame. **Whether the party wins is not the question.**
 **Budget:** 30 minutes. Running long? One round and a fled saboteur. If it is 3:40 on the clock and you are still here, end the fight on the next round by any means.
 
 ## Arrival
-> *Derby eve. The rows run between the pavilions: forty stalls under one long roof, forty horses shifting and blowing in the dark, a lantern every twenty feet turning everything orange. It smells of straw, ammonia, neatsfoot oil and money. Down at the far end, past the Roodberg strings, a lantern that was hanging is now being carried. It has stopped in front of a stall that isn't theirs.*
+> *Derby eve. The rows run between the pavilions: forty stalls under one long roof, forty horses shifting and blowing in the dark, a lantern every twenty feet turning everything orange. It smells of straw, ammonia, neatsfoot oil, and money. Down at the far end, past the Roodberg strings, a lantern that was hanging is now being carried. It has stopped in front of a stall that isn't your mare's.*
 
 **To the table:** *"Your blades are corded and sealed. There are pitchforks in the rack, buckets at the post, and a lantern-pole at every third stall. What do you pick up?"*
 
@@ -29,6 +29,9 @@ The adventure's one real fight, in terrain that makes fighting stupid. Settle th
 - **Forty horses**, who will kill whoever is standing when they go.
 
 ## Beats
+
+### If the entry went on the roll (Scene 3)
+Otwin came in on the *Agal Wind* at dusk. He is sitting in the corner of the stewards' tent with his ledger when the party passes on the way to the rows. He says nothing. Corwin sees him.
 
 ### Corwin and the watch
 Before dark, Corwin asks: *"Let me stand it."* If anyone objects: *"It's my horse and my lie. Let me stand one watch like a man instead of a — let me stand one watch."*
@@ -48,7 +51,7 @@ Say this at the top of round one, out loud, with the list (it saves six minutes 
 | Stall door | — | Half cover, or shove a target prone |
 | Feed sack | 1d4 bludgeoning | Heavy; disadvantage on the next attack |
 
-Unarmed strikes, monk features, natural weapons and spells are unaffected, so the characters who don't usually shine in a stand-up fight shine here.
+Unarmed strikes, monk features, natural weapons, and spells are unaffected, so the characters who don't usually shine in a stand-up fight shine here.
 
 **If a player cuts their cord and draws, let them.** It works. The stewards' men arrive in 1d4 rounds, and the cost lands in Scene 7: Roodberg strikes the Ostvelt line on the spot unless the party can produce a very good reason. A real cost at the worst time is better than a refusal.
 
@@ -73,17 +76,17 @@ At half strength, seeing the horses start: *"Down! Get him down and get him out,
 | 3 | 4 bravos + Krul (if he is free) | Hard (1,200) |
 | 4 | 4 bravos + Krul (if he is free) | Medium (1,200) |
 
-Bravos are **thugs** with cudgels and saps. Without Krul at APL 3–4, the encounter is Medium (800). See [[SP-PBS-00 — Bestiary]].
+Bravos are **thugs** with cudgels and saps. Without Krul, it is Medium (800) at APL 3 and Easy at APL 4. See [[SP-PBS-00 — Bestiary]].
 
 **Terrain:** rows a wagon wide, stalls on both sides, a lantern every twenty feet, a lantern-pole at every third stall, a pitchfork rack and a water trough at the near end. Maus is in the fourteenth stall on the left, about two-thirds down, past the Roodberg strings.
 **Tactics:** the bravos start at the far end of the row and spend round 1 cutting a stall rope, so a bad initiative can't end the scene on the first turn. Two go for the mare while the rest hold the row. They need **three uninterrupted rounds** at her stall (the Sabotage Clock, as on the boat). They disable and withdraw; nobody wants a dead man on the Flats.
 **DM direction:** settle the mare's Condition before the scene ends. Interrupting the clock resets it.
 
 ### Minion Pack (just in case)
-Use this when the fight needs more bodies: a pack of 4–8 **Vuurzward Bravo** minions, built from the **thug** (MM p. 350), as the Vuurzward bravos, with the [[Controller Minion]] template at **APL 3**. More bravos slip out between the stalls. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+Use this when the fight needs more bodies: a pack of 4–8 **Vuurzward Bravo** minions, built from the **thug** (MM p. 350), as the Vuurzward bravos, with the [[Controller Minion]] template at **APL 3**. More bravos slip out between the stalls. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP. **Caution:** under the peace-bond they carry cudgels and saps only, and they drag the fallen clear.
 
 > [!example]- Vuurzward Bravo, Controller Minion (CR 3 minion, 175 XP)
-> *Medium humanoid (human), neutral evil*
+> *Medium humanoid (human), neutral*
 > **Armor Class** 13 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
 >
 > | STR | DEX | CON | INT | WIS | CHA |
@@ -97,7 +100,7 @@ Use this when the fight needs more bodies: a pack of 4–8 **Vuurzward Bravo** m
 > **Actions**
 > ***Cudgel.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 bludgeoning damage.
 >
-> ***Sap (Controller).*** In place of its attack, the bravo targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or, until the end of its next turn, it can't take reactions, dazed by a sap to the skull.
+> ***Sap (Controller).*** In place of its attack, the bravo targets one creature it can see within 5 feet of it. The target must succeed on a DC 13 Wisdom saving throw or, until the end of its next turn, it can't take reactions, dazed by a sap to the skull.
 
 **At other APLs** (change only these numbers):
 
@@ -112,7 +115,7 @@ Use this when the fight needs more bodies: a pack of 4–8 **Vuurzward Bravo** m
 > Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
 > ```text
 > Vuurzward Bravo, Controller Minion
-> Medium humanoid (human), neutral evil
+> Medium humanoid (human), neutral
 > Armor Class 13 (leather armor)
 > Hit Points 1 (minion)
 > Speed 30 ft.
@@ -124,7 +127,7 @@ Use this when the fight needs more bodies: a pack of 4–8 **Vuurzward Bravo** m
 > Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
 > Actions
 > Cudgel. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 bludgeoning damage.
-> Sap (Controller). In place of its attack, the bravo targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or, until the end of its next turn, it can't take reactions, dazed by a sap to the skull.
+> Sap (Controller). In place of its attack, the bravo targets one creature it can see within 5 feet of it. The target must succeed on a DC 13 Wisdom saving throw or, until the end of its next turn, it can't take reactions, dazed by a sap to the skull.
 > ```
 
 ## Development
@@ -151,4 +154,4 @@ Use this when the fight needs more bodies: a pack of 4–8 **Vuurzward Bravo** m
 - **The party moves the mare** to another stall or out of the rows. The bravos search: give the party a free round of surprise when they find the wrong stall.
 
 ## Transition
-- → [[Scene 07 — Post Time]]: morning, the bell for the second race, and a packet coming in from the east.
+- → [[Scene 07 — Post Time]]: morning, the bell for the second race, and a packet coming down from the north.

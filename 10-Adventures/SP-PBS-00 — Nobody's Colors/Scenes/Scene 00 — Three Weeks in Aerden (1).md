@@ -4,7 +4,7 @@ adventure: "SP-PBS-00"
 section: act-1
 publish_order: 100
 publish: true
-status: drafted
+status: edited
 scene: 0
 session: 1
 ---
@@ -18,7 +18,7 @@ The players leave this scene knowing what [[Aerden]] looks and sounds like, exac
 **Budget:** 20 minutes. Running long? Skip the market and the butts; keep Grete's board and the notice.
 
 ## Why They Are Here
-Every one of them is going to Ritterstadt, to enroll at Greyhawk University's field station across Lake Quag. The University takes anyone who signs its Oath. Getting there is the problem. The northern packet out of Schwartzenbruin, ninety miles down the shore, is one night to Ritterstadt's quay and 20 marks a head. At the far end the Registrar asks a first-term bond: 80 marks in coin, or a term of labor on the levy. **A hundred marks each to arrive clear**, and none of them has twenty. The free way is the shore road east to Traft and four days north on the caravan track: two weeks on foot, and nobody's idea of safe.
+Every one of them is going to Ritterstadt, to enroll at Greyhawk University's field station across Lake Quag. The University takes anyone who signs its Oath. Getting there is the problem. The northern packet out of Schwartzenbruin, ninety miles down the shore, is one night to Ritterstadt's quay and 20 marks a head. At the far end the Registrar asks a first-term bond: 80 marks in coin, or a term of labor on the levy. **A hundred marks each to arrive clear**, and none of them has twenty. The free way is the shore road east to Traft and four days north on the caravan track: two weeks on foot, and nobody calls it safe.
 
 **Hand this out first.** Each player picks one or writes their own. No two the same.
 
@@ -37,11 +37,11 @@ Every one of them is going to Ritterstadt, to enroll at Greyhawk University's fi
 **To the table:** *"You've eaten at Grete's long table for three weeks. Who at it do you still not trust, and why?"*
 
 ## Who Is Here
-- **[[Grete Haslau]]**, widow, keeper of the Mountainview Rest. *Wants:* her board squared and her house quiet after vespers. *Knows:* everyone's debts to the pfennig, and that Sergeant Amtmann has never bought his own ale in fifteen years, because every market day for a year he has paid a Vuurzward man at the well instead. *Reacts:* she refuses thanks, makes arrangements instead of giving credit, and has already decided the party are decent.
+- **[[Grete Haslau]]**, widow, keeper of the Mountainview Rest. *Wants:* her board squared and her house quiet after vespers. *Knows:* everyone's debts to the pfennig, and that Hessel has never bought his own ale in fifteen years, because every market day for a year he has paid a Vuurzward man at the well instead. *Reacts:* she refuses thanks, makes arrangements instead of giving credit, and has already decided the party are decent.
 - **[[Tilo]]**, her yard boy, nine. *Wants:* pfennigs. *Knows:* everything. *Reacts:* tells it for a pfennig, in the order he thinks of it.
 - **[[Old Hartwin]]**, tollkeeper at the Erlen bridge, at the small table by the door every third night. *Wants:* an audience. *Knows:* every wheel that crosses the bridge by its sound. *Reacts:* talks about the bridge until stopped.
 - **[[Kaspar Roodberg]]**, the farrier by the well, a Roodberg cousin who shoes in the open and takes Derby bets between horses. *Wants:* your bet. *Knows:* the odds on every horse he's heard of. *Reacts:* offers longer odds the less a horse is known.
-- **Meerijder drovers**, up from the bridge camp most evenings: red-and-black on their sleeves, loud, honest and good at cards.
+- **Meerijder drovers**, up from the bridge camp most evenings: red-and-black on their sleeves, loud, honest, and good at cards.
 
 ## Beats
 
@@ -79,7 +79,7 @@ They know each other's names and what each one eats. Between them they have unlo
 | The Derby odds? | Kaspar, the farrier by the well: *"Roodberg bay, three to one. You want longer odds, you want a horse nobody's heard of, and there isn't one."* |
 
 ### The notice
-Dusk, the twentieth day, at vespers. A man in a plain grey house-guard's jerkin, no band on the sleeve, nods to Grete, pins a sheet to the post by the bar, and **buys his own ale**. He drinks half and speaks to the room, not to them:
+Dusk on Wealsun 26, their twentieth day at the Rest, at vespers. A man in a plain grey house-guard's jerkin, no band on the sleeve, nods to Grete, pins a sheet to the post by the bar, and **buys his own ale**. He drinks half and speaks to the room, not to them:
 
 *"That's an honest job for honest folk. The Junker pays on arrival and I'll vouch for it. Anyone who can walk ten miles and sit a deck for two nights without being sick over the side — Erlenhof, first bell, day after tomorrow. Ask for Amtmann."*
 
@@ -90,7 +90,7 @@ Hand over [[SP-PBS-00 — Handout — The Notice]].
 **Then read the table.** Thirty marks is more than any of them owes Grete, and passage is worth another forty. It puts them on the quay the northern packet sails from, with the fare in hand and seventy short of arriving clear. It is also a great deal of money for walking a rich boy to a horse race. Let them talk. Let them not quite trust it. Don't help.
 
 ## Clues Available Here
-- Amtmann buys his own ale tonight, and has stopped paying the Vuurzward man → **his debt to the Vuurzwards is gone** (Hessel sold the route)
+- Hessel buys his own ale tonight, and has stopped paying the Vuurzward man → **his debt to the Vuurzwards is gone** (Hessel sold the route)
 - Tilo: the sergeant's wife was a Vuurzward → **Hessel and Vuurzward are connected**
 - Tilo: the new saddle nobody sees → **the Junker is entering a horse**
 
