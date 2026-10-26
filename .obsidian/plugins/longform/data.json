@@ -6,6 +6,213 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-10-26T22:11:31.542Z",
+      "total": 0,
+      "drafts": {
+        "90-Templates/Scene-Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "65-Bestiary/00 — Bestiary Index.md": {
+          "total": 0,
+          "scenes": {
+            "01 — Introduction": 0,
+            "02 — Reading an Entry": 0,
+            "Aetherwrack": 0,
+            "Antlerwrack": 0,
+            "Barrow Stag": 0,
+            "Bell-Strung Corpse": 0,
+            "Bell-Wight": 0,
+            "Blight Wolf": 0,
+            "Bloodfiend": 0,
+            "Bone Beast Template": 0,
+            "Bone Boar": 0,
+            "Bone Elk": 0,
+            "Bone Hound": 0,
+            "Bone-Tally Chanter": 0,
+            "Church Grim": 0,
+            "Coffin-born": 0,
+            "Coursehound": 0,
+            "Demonic Spider": 0,
+            "Drowned Guest": 0,
+            "Echo": 0,
+            "Fiendish Ogre": 0,
+            "Gash-Marked Houndmaster": 0,
+            "Gash-Marked Raider": 0,
+            "Giant Hyena Witherling": 0,
+            "Gnoll Warshaman": 0,
+            "Goblin Battle-Drummer": 0,
+            "Harvest Lord": 0,
+            "Hawk Guardian": 0,
+            "Hellborne": 0,
+            "Hush-Moth Swarm": 0,
+            "Iron-Marked Wolf": 0,
+            "Jaguar Guardian": 0,
+            "Kikimora": 0,
+            "Kobold Blistercoil": 0,
+            "Kobold Bulwark-Bearer": 0,
+            "Kobold Dragonfang": 0,
+            "Kobold Pot-Slinger": 0,
+            "Kobold Pyrotechnic": 0,
+            "Ledger Hag": 0,
+            "Lesser Erinyes": 0,
+            "Lieutenant of the Dark Prodigy": 0,
+            "Marrow Hunter": 0,
+            "Maulbone": 0,
+            "Mnemophage": 0,
+            "Nuckelavee": 0,
+            "Pale Chimera": 0,
+            "Root Guardian": 0,
+            "Rot-Wargen": 0,
+            "Stone Guardian": 0,
+            "Straw Double": 0,
+            "Threshold Lord": 0,
+            "Tithe-Reaper": 0,
+            "Toiling Haunt": 0,
+            "Toll-Troll": 0,
+            "Tunnel Scarhound": 0,
+            "Viper Guardian": 0,
+            "Wicker Colossus": 0,
+            "Wolpertinger": 0,
+            "03 — Rogues' Gallery": 0,
+            "Braknor Skullrend": 0,
+            "Dorukai Thunderclub": 0,
+            "Drevnar Soulreaver": 0,
+            "The Endless Howl": 0,
+            "Eylandra Stormchant": 0,
+            "Glazryth, the Pale Terror": 0,
+            "Gluttonwretch": 0,
+            "Gorzak the Flaymaster": 0,
+            "Grakh Unscarred": 0,
+            "The Marrowmother": 0,
+            "Mortenia's Echo, the Silent Sister": 0,
+            "The Ninefold Voice": 0,
+            "Saiyora's Echo, the Iron Sister": 0,
+            "Sister Amarantha Wick, The Bell-Keeper": 0,
+            "Sorrowbay, the Chained Sire": 0,
+            "Sylvarith, the Venomous Wyrm": 0,
+            "Tharazul, the Desert Storm": 0,
+            "Velka's Echo, the Veiled Sister": 0,
+            "Vespera Pixiecoil, the Prism-Coiled": 0,
+            "Vyrathax, the Crimson Tyrant": 0,
+            "Zarathryx, Champion of the Queen": 0,
+            "Zhulkar Boneweaver": 0,
+            "Zykryss, the Shadowed Doom": 0,
+            "04 — Minions": 0,
+            "Brute Minion": 0,
+            "Enforcer Minion": 0,
+            "Skirmisher Minion": 0,
+            "Artillery Minion": 0,
+            "Controller Minion": 0,
+            "Lurker Minion": 0,
+            "Leader Minion": 0,
+            "90 — Creatures by Challenge": 0,
+            "91 — Creatures by Environment": 0
+          }
+        },
+        "20-World/Homebrew/A History of Oerik/Book 1 — Relics from a Dragon Time/00 — Book Index.md": {
+          "total": 0,
+          "scenes": {
+            "Book 1 — Part 1": 0,
+            "Book 1 — Part 2": 0,
+            "Book 1 — Part 3": 0
+          }
+        },
+        "10-Adventures/SP-PBS-03 — The Red Cord/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 01 — The Ritter's Hall": 0,
+            "Scene 02 — Across the Quag": 0,
+            "Scene 03 — Under the Red Cord": 0,
+            "Scene 04 — The Brawl": 0,
+            "Scene 05 — Dornhalm's Yard": 0,
+            "Scene 06 — The Midnight Bell": 0
+          }
+        },
+        "10-Adventures/SP-PBS-02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 01 — Dusk at the Pound": 0,
+            "Scene 02 — Counting the Missing": 0,
+            "Scene 03 — Crossing the Dreadverge": 0,
+            "Scene 04 — The Cutters' Camp": 0,
+            "Scene 05 — The Three Sisters": 0
+          }
+        },
+        "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — Greyhawk University": 0,
+            "Scene 01 — The High Pass": 0,
+            "Scene 02 — The Cold Welcome": 0,
+            "Scene 03 — Trial of the Horse": 0,
+            "Scene 04 — Trial of the Bow": 0,
+            "Scene 05 — Night in Yecha": 0,
+            "Scene 06 — Trial of the Fire": 0,
+            "Scene 07 — The War Council": 0
+          }
+        },
+        "10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — Three Weeks in Aerden": 0,
+            "Scene 01 — Erlenhof": 0,
+            "Scene 02 — The Erlen Bridge": 0,
+            "Scene 03 — Osterschlauss": 0,
+            "Scene 04 — Two Nights on the Quag": 0,
+            "Scene 05 — The Stewards' Tent": 0,
+            "Scene 06 — The Stable Rows": 0,
+            "Scene 07 — Post Time": 0,
+            "Scene 08 — The Sale Ring": 0
+          }
+        },
+        "10-Adventures/SP-HAL-04 — The Tithe of Thornbury/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — Harvest Home": 0,
+            "Scene 01 — The Hundredth Feast": 0,
+            "Scene 02 — The Long Night": 0,
+            "Scene 03 — The Blackthorn Copse": 0,
+            "Scene 04 — The Procession": 0,
+            "Scene 05 — The Tithe Barn": 0
+          }
+        },
+        "10-Adventures/SP-HAL-03 — The Night That Doesn't End/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — The Gate at Dusk": 0,
+            "Scene 01 — Midnight, the First Time": 0,
+            "Scene 02 — Not Again": 0,
+            "Scene 03 — The Ossuary": 0,
+            "Scene 04 — The Chain Crypt": 0,
+            "Scene 05 — The Thirteenth Toll": 0
+          }
+        },
+        "10-Adventures/SP-HAL-02 — The Hollow Lantern/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — Marrowmere at Dusk": 0,
+            "Scene 01 — The Mourning Procession": 0,
+            "Scene 02 — Crossing the Mere": 0,
+            "Scene 03 — The Great Hall": 0,
+            "Scene 04 — Below the Water": 0,
+            "Scene 05 — The Toast": 0
+          }
+        },
+        "10-Adventures/SP-HAL-01 — Straw Men/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 00 — Arrival at Hollow Ford": 0,
+            "Scene 01 — The Closing Reel": 0,
+            "Scene 02 — The Bobbing Game": 0,
+            "Scene 03 — Mother Nettle's Cottage": 0,
+            "Scene 04 — Fields and Stall": 0,
+            "Scene 05 — The Mill": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-10-25T05:01:14.470Z",
       "total": 221487,
       "drafts": {
