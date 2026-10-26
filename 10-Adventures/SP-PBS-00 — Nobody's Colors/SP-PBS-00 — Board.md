@@ -44,18 +44,18 @@ publish: false
 - [x] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve *(2026-10-25; CE1–CE25 in [[SP-PBS-00 — Developmental Edit]])*
 - [ ] Canon Check table complete and page numbers verified against print
 - [x] Every scene `status: edited` *(2026-10-25)*
-- [ ] Playtest #1 run; session log in `80-Sessions`; fixes applied
+- [ ] Playtest #1 run; session log in `80-Sessions`; fixes applied *(waived for this release, Greybeard 2026-10-25)*
 - [ ] Every scene `status: final`
 
 
 ## 4 · Package
 
-- [ ] Manifest in [[10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file
+- [x] Manifest in [[10-Adventures/SP-PBS-00 — Nobody's Colors/Scenes/00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file *(2026-10-25: 14 shipping files, orders 10–230, no gaps or strays)*
 - [ ] Longform compile run; output saved as `SP-PBS-00 — Compiled.md`
 - [x] Battlemaps (DM + Player) in `99-Assets/SP-PBS-00/`; Map Assets note written *(2026-10-25; DM overlays included)*
 - [x] Art brief / Midjourney prompt pack written ([[SP-PBS-00 — Art Brief]])
-- [ ] Title block and cover art done
-- [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported
+- [x] Title block and cover art done *(cover and four scene plates in `99-Assets/SP-PBS-00/`; title block and inside cover in the brew)*
+- [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported *(brew assembled 2026-10-25, 47 pages; image hosting and PDF export still to do)*
 - [ ] Fantasy Grounds module built and exported (per FG checklist in adventure note)
 
 
