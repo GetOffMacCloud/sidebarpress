@@ -82,3 +82,51 @@ SP-PBS-00 was built on 2026-10-23 from the A Tourist In Greyhawk draft `0008 —
   - Register: "for exactly one second" (Vosk, Scene 3) is now "for exactly one breath," since nobody on the lake owns a clock.
   - Maus's stall is now the fourteenth on the left in Scene 6, matching the map spec.
   - **Not done:** a full read for grammar and serial commas, the Elfland register test by ear, and reading the boxes aloud.
+
+## Copy edit — 2026-10-25 (full read, all shipping files)
+Read: main note, Scene Index, Scenes 00–08, the mechanic note, Bestiary, both handouts. Tick what to apply; I'll apply the ticked fixes, then move every scene to `status: edited`. Minion Packs are house standard (2026-10-25) and stay; the findings below only make them fit this adventure.
+
+### Major (logic and continuity)
+- [ ] **CE1 · Otwin can't be in the stewards' tent on Richfest 3.** S3 Development says that if the mare went on the roll, Otwin "knows by Day 3" and is waiting in the stewards' tent in Scene 5 (the morning of Richfest 3). The *Maid* sails Wealsun 28 and lands at dusk on Richfest 2; the next boat, the *Agal Wind*, sails Richfest 1 and lands at dusk on Richfest 3; Otwin can't ride. The roll is also "read aloud every Godsday", which ties his finding out to a weekday rather than to Day 3. **Fix:** Ebbo sends the roll up to Aerden with the evening carter, so Otwin hears of it the night of Day 1, takes the *Agal Wind*, and arrives at dusk on Richfest 3. Move his "sitting in the corner with his ledger" beat from S5 Development to the top of S6 (he is at the stewards' tent when the party walks to the rows). In S7 Alternates, change "since Scene 5" to "since Derby eve".
+- [ ] **CE2 · Which way the lake lies.** S3's read-aloud box says the lake is "filling the whole of the north"; S4's Sensory Palette has "grey fog to the north"; S6's Transition has "a packet coming in from the east". But S3 and S4 keep the shore "on the right hand" on the way to Schwartzenbruin, the main note puts Aerden on the western shore in the Yatil foothills, and the barges stand "off the port rail". On those facts the boat sails south with open water to the east, and Aerden's packet comes from the north. **Fix:** S3 "filling the whole of the east"; S4 "grey fog off the port rail"; S6 "a packet coming down from the north". *Overrule this if the region map says otherwise.*
+- [ ] **CE3 · The odds move the wrong way.** S5: "opened at twenty to one this morning and has shortened to fourteen", while someone is laying money against her. Money laid against a horse lengthens its price; it doesn't shorten it. **Fix:** "Ostvelt Grey opened at twenty to one this morning and has drifted to twenty-two, which is normal enough for a horse nobody has seen. Place pays a fifth of the odds." This keeps the 4-to-1 place bet the rewards use.
+- [ ] **CE4 · Vuurzward "never lies", but he lies once.** The main note's Key NPCs and S5's Who Is Here both say "never threatens, never lies; he leaves things out". S5's table and the Clue Ledger then give him "The only lie he tells" (about Krul). **Fix**, in both places: "Courteous, patient, never threatens. He lies once, about Krul; otherwise he leaves things out."
+- [ ] **CE5 · S8's box tells backstory, and gets the order wrong.** "He came for the noon signing and did it… But he watched the last two furlongs from the public stand first, and told nobody, and he is telling you now." The race ran after the noon signing, so "first" is wrong, and the box states things the players can't see. **Fix:** make the box perception only: *"The ring is half empty the morning after. Yearlings go through at a hundred marks a head, a man with a ledger calls prices in a bored singsong, and the whole Flats smells of packing up. Otwin Halbritter is sitting on the rail alone, his stick across his knees."* Move the backstory into the DM text: "He signed the remount contract at noon on Derby Day, then watched the last two furlongs from the public stand and told nobody."
+
+### Minor
+- [ ] **CE6 · S2 cattle.** The box has "forty or fifty head"; Terrain has "thirty cattle". **Fix:** Terrain → "forty-odd cattle".
+- [ ] **CE7 · S2 drovers.** Who Is Here lists "Six Meerijder drovers", but the encounter tops out at Boedic + 5. **Fix:** "Five Meerijder drovers (three at APL 1)".
+- [ ] **CE8 · S6 difficulty.** "Without Krul at APL 3–4, the encounter is Medium (800)." At APL 4, 800 XP is Easy. **Fix:** "Medium (800) at APL 3; Easy at APL 4."
+- [ ] **CE9 · S8, who Otwin pays.** S8 has "(If they saved the farm:)", but the main note pays the 60 marks only "where Adalinde rides and the farm stands". Taking the offer also saves the farm. **Fix:** "(If Adalinde rode and the farm stands:)".
+- [ ] **CE10 · S8, Adalinde's thank-you.** "Thank you for asking me whether I ride" plays even when nobody asked. **Fix:** prefix it with "(If anyone asked her, in Scene 1 or at post time:)".
+- [ ] **CE11 · S0 date.** "Dusk, the twentieth day, at vespers" has no calendar date. **Fix:** "Dusk on Wealsun 26, their twentieth day at the Rest, at vespers." Departure is then Wealsun 28 (Day 1), and Day 6 lands on Richfest 5 as the main note says.
+- [ ] **CE12 · S6 box.** "It has stopped in front of a stall that isn't theirs" is third person in a second-person box, and "theirs" is unclear. **Fix:** "a stall that isn't Maus's".
+- [ ] **CE13 · S4 Krul.** Add a cue above the small-hours box: *Read to whoever is on watch when Krul is detected.* The APL 1 row says "flees at half HP", but the Bestiary has him leave on his second turn. **Fix:** "flees on his second turn".
+- [ ] **CE14 · S7 and the Spook die.** Spook 3 makes Maus "unusable in Scene 7's opening minutes", but Scene 7 never says what that means. **Fix:** add to S7 Alternates: "**Maus failed to settle at Spook 3** (Scene 6): she won't stand for the first ten minutes. Adalinde walks her, and whoever runs for Weisel goes without the mare's rider to vouch."
+- [ ] **CE15 · The S6 bravo minion.** The pack's alignment is "neutral evil", but the Bestiary's standing rule is "Nobody here is evil" and the full bravo block is neutral. Its Sap reaches "within 60 feet", which doesn't work for a sap. **Fix:** set the alignment to neutral and the Sap to "within 5 feet". Make the same change in `scene_minions_data.py`, or the next regeneration will undo it.
+- [ ] **CE16 · The Minion Pack caution lines.** The house pack spec asks for a one-line caution. PBS-00's three packs only say where more bodies come from. **Fix:** add a caution to each:
+  - S2: "They are clansmen: knocking out is still free, and killing one is still a Fehde."
+  - S4: "Bribed, not loyal: the pack surrenders when Krul goes down or bolts."
+  - S6: "Under the peace-bond: cudgels and saps only, and they drag the fallen clear."
+- [ ] **CE17 · Corwin's block.** "HP 11 (2d8 + 2)" needs Con 12. **Fix:** Con 11 (+0) → 12 (+1).
+- [ ] **CE18 · The reward table.** The "Vuurzward's offer taken" row reads "Packet; on the levy; letter in hand". **Fix:** "Packet; 20 left; on the levy; letter in hand". Also add under the table: *Rows assume the negotiated 40-mark rate; at 30, take 10 off each.*
+- [ ] **CE19 · Stale lines in the main note.** `## Maps` still says "Battlemaps still to be made", Supporting Files still says "(maps still to build)", and the frontmatter still has `status: draft`. **Fix:** point Maps at [[SP-PBS-00 — Map Assets]] (built 2026-10-25) and set `status: editing`.
+- [ ] **CE20 · S3, the *Agal Wind* fare.** "Its master takes 50 marks": for the whole party, or per head? **Fix (assumed):** "50 marks for the lot."
+- [ ] **CE21 · One man, two names in DM text.** The DM text switches between "Amtmann" and "Hessel" (S1: "### Amtmann, walking them out", the "Amtmann says" column, "Amtmann's bad lie"). **Rule:** DM text says Hessel; characters in dialogue say Amtmann or "the sergeant".
+
+### Mechanical (house style; applied on tick without further questions)
+- [ ] **CE22 · Serial commas, all files.** The house style uses them, and the text is mixed. Examples: "the land, the bloodline and the grey mare" (main note); "loud, honest and good at cards" (S0); "straw, ammonia, neatsfoot oil and money" (S6 box).
+- [ ] **CE23 · American spelling.** "round" → "around" (S7 box, S8 "carries it round the ring"); "Enquire" → "Inquire" (the Notice).
+- [ ] **CE24 · Formatting.** In S3's italic box, set the ship name *Kortheim Maid* in roman.
+- [ ] **CE25 · Register (the Elfland test, by ear).** Benno's "Enjoy the races" (S5 box) → "Good racing to you". "Nobody's idea of safe" (S0) → "and nobody calls it safe". Everything else passes.
+
+### Needs you (I can't do these)
+- [ ] **N1** Read every box aloud once and cut any stumble (board item).
+- [ ] **N2** Check the Canon Check page numbers against print: *WoG* (1983) pp. 29–31 and p. 30; *LGG* (2000) pp. 85 and 153.
+- [ ] **N3** Playtest #1, or rule that it is waived for this release. The board puts it before `status: final`.
+- [ ] **N4** **Ruling:** the patron's letter is written offstage in the Roodberg enclosure, yet it can carry the commendation *"told her father the truth when it cost them"* for something that happens minutes before Adalinde hands it over. Options: Adalinde adds that line in her own hand under the seal, or it comes off the letter.
+- [ ] **N5** **Ruling:** the credit line for the premise (*GHR-KEO21-01, A Day At The Races*, by Jay Stypinski): its wording, and whether it goes on the title page or the colophon.
+
+### Flagged for Package (not this pass)
+- The main note ships (`publish: true`) with its internal sections in it: Adventure Code, Origin, Canon Check, Fantasy Grounds Build, Playtest Notes, Publishing and Supporting Files. Unless they are split out or stripped at compile, they will print. This is handled at the manifest review.
+- A file named `SP-PBS-00 — Nobody's Colors — PROOF 2026-10-25.pdf` is already in the adventure folder. The final compile replaces it.
