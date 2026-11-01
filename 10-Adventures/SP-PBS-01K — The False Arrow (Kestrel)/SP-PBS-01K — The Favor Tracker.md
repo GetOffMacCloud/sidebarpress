@@ -65,4 +65,4 @@ COUNCIL  R1 parley [ ]  R2 evidence [ ]  R3 choice [ ]
 ```
 
 ## At a Virtual Table
-The track must exist as a visible asset, not just DM notes. See [[SP-PBS-01 — VTT and Fantasy Grounds Kit]] for the 1920×1080 tracker image and marker token.
+The track must exist as a visible asset, not just DM notes. See [[SP-PBS-01K — VTT and Fantasy Grounds Kit]] for the 1920×1080 tracker image and marker token.

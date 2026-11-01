@@ -201,9 +201,9 @@ The patrol ambush (early winter) and the parley at Karash (midwinter) are both i
 Favor total · council result · tiger-claw token (who holds it) · Sarnai's endorsement and the stallion's name · Kezrin captured / escaped with papers torn / escaped with papers · Temur's disposition and how many riders rode east · whether the party spied, and whether they told Sarnai · Yulbar named? · papers delivered to the Historical Society?
 
 ## Fantasy Grounds Build
-See [[SP-PBS-01 — VTT and Fantasy Grounds Kit]].
+See [[SP-PBS-01K — VTT and Fantasy Grounds Kit]].
 - [ ] Story entries written (one per scene, in index order)
-- [ ] Encounters built (5 combat variants by party size)
+- [ ] Encounters built (7 records: E1a/b, E4a/b, E5a/b, E7a)
 - [ ] NPCs created/linked (winter wolf, wolf, saber-toothed tiger, thug, scout, berserker, spy for Kezrin, Ochir the Cut-Rein from the Bestiary's FGU import)
 - [ ] Favor tracker image (1920×1080) and marker token added
 - [ ] Maps added: Ravine, Night Camp, Duel Ring (100 px/sq)
@@ -217,7 +217,7 @@ Watch for: average Favor at the council (target 5–7), how often tables open Ha
 ## Publishing
 - [ ] Editing pass complete
 - [ ] Art rendered from [[SP-PBS-01 — Midjourney Prompt Pack]]
-- [ ] Brew assembled from [[SP-PBS-01 — Homebrewery Export]]
+- [ ] Brew assembled from [[SP-PBS-01K — Homebrewery Export]]
 - [ ] Listed in [[Release-Tracker]]
 
 ## Supporting Files
@@ -226,5 +226,5 @@ Watch for: average Favor at the council (target 5–7), how often tables open Ha
 - [[SP-PBS-01K — Handout — Brennin's Parley Letter]]
 - [[SP-PBS-01K — Handout — Halya's Sealed Instruction]]
 - [[SP-PBS-01K — Handout — Kezrin's Papers]]
-- [[SP-PBS-01 — Map Assets]] · [[SP-PBS-01 — Midjourney Prompt Pack]] · [[SP-PBS-01 — VTT and Fantasy Grounds Kit]] · [[SP-PBS-01 — Homebrewery Export]]
+- [[SP-PBS-01 — Map Assets]] · [[SP-PBS-01 — Midjourney Prompt Pack]] · [[SP-PBS-01K — VTT and Fantasy Grounds Kit]] · [[SP-PBS-01K — Homebrewery Export]]
 - [[10-Adventures/SP-PBS-01K — The False Arrow (Kestrel)/Scenes/SP-PBS-01K — Scene Index|Scene Index]]
