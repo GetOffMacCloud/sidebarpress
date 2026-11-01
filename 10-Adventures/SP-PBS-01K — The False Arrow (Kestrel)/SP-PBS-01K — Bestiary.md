@@ -233,3 +233,150 @@ All creatures are 2014 *Monster Manual* / SRD statblocks, reproduced here paste-
 ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning.
 
 > **Sidebar Press dressing.** Seventeen hands, scarred muzzle, rope-burns ringing the neck. He won't carry a rider he doesn't respect. The player names him.
+
+---
+
+## Minion Packs (optional)
+One just-in-case pack per combat scene (vault rule). Add four at a time; every four count as one creature for the encounter multiplier. Templates: [[04 — Minions]].
+
+### Steppe Wolf, Skirmisher Minion (CR 3 minion, 175 XP)
+*Optional pack · Scene 01*
+
+*Medium beast, unaligned*
+**Armor Class** 13 (natural armor) · **Hit Points** 1 (minion) · **Speed** 50 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
+
+**Senses** passive Perception 11 · **Languages** — · **Challenge** 3 (175 XP)
+
+***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+
+***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+***Pack Tactics (Skirmisher).*** The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+**Actions**
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 (built) | 13 | +4 | 13 | 9 | 175 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Steppe Wolf, Skirmisher Minion
+> Medium beast, unaligned
+> Armor Class 13 (natural armor)
+> Hit Points 1 (minion)
+> Speed 50 ft.
+> STR DEX CON INT WIS CHA
+> 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+> Senses passive Perception 11
+> Languages -
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Keen Hearing and Smell. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+> Pack Tactics (Skirmisher). The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> Actions
+> Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+> ```
+
+---
+
+### Ravine Wolf, Skirmisher Minion (CR 3 minion, 175 XP)
+*Optional pack · Scene 04*
+
+*Medium beast, unaligned*
+**Armor Class** 13 (natural armor) · **Hit Points** 1 (minion) · **Speed** 50 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
+
+**Senses** passive Perception 11 · **Languages** — · **Challenge** 3 (175 XP)
+
+***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+
+***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+***Pack Tactics (Skirmisher).*** The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+**Actions**
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 (built) | 13 | +4 | 13 | 9 | 175 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Ravine Wolf, Skirmisher Minion
+> Medium beast, unaligned
+> Armor Class 13 (natural armor)
+> Hit Points 1 (minion)
+> Speed 50 ft.
+> STR DEX CON INT WIS CHA
+> 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+> Senses passive Perception 11
+> Languages -
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Keen Hearing and Smell. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+> Pack Tactics (Skirmisher). The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> Actions
+> Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+> ```
+
+---
+
+### Kezrin's Man, Brute Minion (CR 3 minion, 175 XP)
+*Optional pack · Scene 05*
+
+*Medium humanoid (human), neutral evil*
+**Armor Class** 12 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
+
+**Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
+
+***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+
+***Death-Blow (Brute).*** When the raider drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
+
+**Actions**
+***Club.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 bludgeoning damage.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 3 (built) | 12 | +4 | 13 | 7 (pulled) | 175 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Kezrin's Man, Brute Minion
+> Medium humanoid (human), neutral evil
+> Armor Class 12 (leather armor)
+> Hit Points 1 (minion)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 15 (+2) 11 (+0) 14 (+2) 10 (+0) 10 (+0) 11 (+0)
+> Senses passive Perception 10
+> Languages Common
+> Challenge 3 (175 XP) Proficiency Bonus +2
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Death-Blow (Brute). When the raider drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
+> Actions
+> Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 bludgeoning damage.
+> ```

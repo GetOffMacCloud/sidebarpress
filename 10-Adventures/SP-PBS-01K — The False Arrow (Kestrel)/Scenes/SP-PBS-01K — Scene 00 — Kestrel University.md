@@ -15,18 +15,18 @@ status: drafted
 
 ## Purpose
 Frame the party as Kestrel University students at the **Ritterstadt Field Station**, learn which lectures each attends (every choice pays off later), and put the contract in front of them.
-**Budget:** 5 minutes. Running long? Start at the Job Board.
+**Budget:** 5 minutes. Ask the lecture question during character introductions. Running long? Start at the Job Board.
 
 *Continuity: Ritterstadt and the Field Station are the Sidebar Press campaign frame (see Setting in [[SP-PBS-01K-The-False-Arrow]]). At level 3 the PCs are **Freshmen — undeclared**, attending lectures across departments.*
 
 ## Arrival
-> *Ritterstadt is a palisade, a watchtower, and a scatter of roofs on the edge of the Umber Uplands, with the Morvain Mires grey and flat beyond it.*
+> *Ritterstadt is a palisade, a watchtower, and a scatter of roofs on the north shore of Lake Morvain, where the Umber Uplands run down into the Morvain Mires.*
 
 Then deliver these one at a time, as their attention finds them:
 - Fresh-cut stakes stand pale among the old ones where the palisade is under repair.
 - The Wachturm rises over the wall; a lamp burns in it all day in winter.
 - Smoke from the Fiend's Rest Public House hangs low over the lane. Through its door: voices, and a board crowded with pinned paper.
-- Some 150 souls live here, and every one of them knows when a stranger walks in.
+- Some 200 souls live here, and every one of them knows when a stranger walks in.
 
 **To the table:** *"Midwinter at the Field Station. Who's first through the door of the Fiend's Rest?"*
 

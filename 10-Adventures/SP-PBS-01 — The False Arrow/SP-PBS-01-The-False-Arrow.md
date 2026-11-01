@@ -10,7 +10,7 @@ part: 1
 status: draft # draft | playtesting | editing | published
 levels: "3"
 party_size: "4-6"
-estimated_hours: 4
+estimated_hours: 3.5
 setting: Greyhawk
 region: "The Chakyik steppe (Tiger Nomads) — Yecha, under the Yatils"
 in_world_date: "Needfest–Fireseek, 576 CY"
@@ -23,7 +23,7 @@ tags: [one-shot, social, wilderness, trust-engine, baklunish, chakyik, tiger-nom
 
 # The False Arrow
 
-**APL 3 (level 3) · 4–6 characters · one 4-hour session**
+**APL 3 (level 3) · 4–6 characters · one 3½-hour session**
 
 > *You have been hired by a group of Oeridian priests to travel to Yecha, at the base of the Yatil Mountains, and earn the trust of the Chakyik horde. The cold weather and colder welcome you expect to receive make this quite the undertaking indeed.*
 >
@@ -103,19 +103,19 @@ Each has more than one route. Objectives 5–7 are optional.
 ## Act Structure
 Likely path: Scenes 00 → 07. See [[10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index]] for the run sheet.
 
-### Act 1 — The Road (≈50 min)
+### Act 1 — The Road (≈40 min)
 - [[Scene 00 — Greyhawk University]] (5 min): the Job Board at the Fiend's Rest; each player names whose lectures they attend.
-- [[Scene 01 — The High Pass]] (20 min): Brennin's letter, Halya's sealed letter, the descent, an earned hazard.
-- [[Scene 02 — The Cold Welcome]] (25 min): Batzorig disarms them; Cligir's question; the three trials are set.
+- [[Scene 01 — The High Pass]] (15 min): Brennin's letter, Halya's sealed letter, the descent, an earned hazard.
+- [[Scene 02 — The Cold Welcome]] (20 min): Batzorig disarms them; Cligir's question; the three trials are set.
 
-### Act 2 — The Trials (≈2¼ hr with break)
-- [[Scene 03 — Trial of the Horse]] (30 min): ride or gentle the black stallion; weapons return on success.
-- [[Scene 04 — Trial of the Bow]] (40 min): the saber-tooth, and the patrol's bodies.
-- [[Scene 05 — Night in Yecha]] (40 min): Kezrin's offer and his men; Halya's letter.
+### Act 2 — The Trials (≈1 hr 50 min with break)
+- [[Scene 03 — Trial of the Horse]] (20 min): ride or gentle the black stallion; weapons return on success.
+- [[Scene 04 — Trial of the Bow]] (35 min): the saber-tooth, and the patrol's bodies.
+- [[Scene 05 — Night in Yecha]] (30 min): Kezrin's offer and his men; Halya's letter.
 - [[Scene 06 — Trial of the Fire]] (15 min): three honest answers at Sarnai's fire.
 
-### Act 3 — The Council (≈55 min)
-- [[Scene 07 — The War Council]] (50 min): three rounds, Kezrin's exit, Cligir's ruling; endings.
+### Act 3 — The Council (≈50 min)
+- [[Scene 07 — The War Council]] (45 min): three rounds, Kezrin's exit, Cligir's ruling; endings.
 
 ## Climax at a Glance
 | Round | What it takes | Seeded in |

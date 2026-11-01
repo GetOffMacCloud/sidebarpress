@@ -15,7 +15,7 @@ status: drafted
 
 ## Purpose
 The party learns two things: Kezrin is dirty, and the horde is closer to war than Brennin believes. Halya's letter forces a choice.
-**Budget:** 40 minutes. Running long (this scene starts after 2:20 on the clock; it should start at 2:10)? Run Kezrin's visit straight into the attack, and resolve Halya's letter with one Stealth roll made during the fire.
+**Budget:** 30 minutes (start by 1:50). **Default flow:** Kezrin's visit runs straight into the attack, and Halya's letter resolves during the fire with one group Stealth roll (B). Running long? Start at Kezrin ducking into the tent.
 
 ## The Guest Tent
 > *Your tent is felt over willow, warm from a dung-brazier.*
@@ -29,7 +29,7 @@ Then deliver these one at a time:
 
 The boy is **Naran**, sixteen, Sarnai's tent-guard, dying to practice his three words of Common ("hello," "horse," "good").
 
-Two things happen tonight, in either order. If the players bite on neither, Kezrin comes to them.
+Two things happen tonight. By default, Kezrin visits first and his men come straight after, and the spying happens during the fire (B). If the players go spying before he arrives, let them; he comes after.
 
 ## A. Kezrin's Visit
 [[Master-Kezrin]] comes after dark with a wineskin of something southern and expensive. He ducks in like he owns the tent, clasps the nearest PC's elbow, and settles by the brazier uninvited.
@@ -75,47 +75,7 @@ Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Night-Camp` ([[SP-PBS-
 ### Minion Pack (just in case)
 Use this when the fight needs more bodies: a pack of 4–8 **Kezrin's Man** minions, built from the **thug** (MM p. 350), as Kezrin's men, with the [[Brute Minion]] template at **APL 3**. More of Kezrin's men come through the burning felt. They pull their blows (7 damage, not the template's 14): Kezrin wants the party scared off, not dead. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
 
-> [!example]- Kezrin's Man, Brute Minion (CR 3 minion, 175 XP)
-> *Medium humanoid (human), neutral evil*
-> **Armor Class** 12 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
->
-> | STR | DEX | CON | INT | WIS | CHA |
-> |---|---|---|---|---|---|
-> | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
->
-> **Senses** passive Perception 10 · **Languages** Common · **Challenge** 3 (175 XP)
->
-> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
->
-> ***Death-Blow (Brute).*** When the raider drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
->
-> **Actions**
-> ***Club.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 bludgeoning damage.
-
-**At other APLs** (change only these numbers):
-
-| APL | AC | Attack | DC | Damage | XP each |
-|---|---|---|---|---|---|
-| 3 (built) | 12 | +4 | 13 | 7 (pulled) | 175 |
-
-> [!info]- FGU Import (minion)
-> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
-> ```text
-> Kezrin's Man, Brute Minion
-> Medium humanoid (human), neutral evil
-> Armor Class 12 (leather armor)
-> Hit Points 1 (minion)
-> Speed 30 ft.
-> STR DEX CON INT WIS CHA
-> 15 (+2) 11 (+0) 14 (+2) 10 (+0) 10 (+0) 11 (+0)
-> Senses passive Perception 10
-> Languages Common
-> Challenge 3 (175 XP) Proficiency Bonus +2
-> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
-> Death-Blow (Brute). When the raider drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
-> Actions
-> Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 bludgeoning damage.
-> ```
+Statblock, APL table and FGU import: [[SP-PBS-01 — Bestiary#Minion Packs (optional)|Bestiary → Minion Packs]].
 
 ## B. Halya's Letter
 Sometime tonight the sealed letter comes out — or doesn't. If a player breaks the seal, hand them [[SP-PBS-01 — Handout — Halya's Sealed Instruction|Handout 2]]. Now they have to decide.

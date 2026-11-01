@@ -10,7 +10,7 @@ part: 1
 status: draft # draft | playtesting | editing | published
 levels: "3"
 party_size: "4-6"
-estimated_hours: 4
+estimated_hours: 3.5
 setting: "Sidebar Press original (Kestrel)"
 region: "The Karashi steppe (Tiger Clans) — Karash, under the Stormwalls"
 in_world_date: "Midwinter"
@@ -28,7 +28,7 @@ Rename key (old → new): Yecha → Karash · Chakyik / Tiger Nomads → Karashi
 
 # The False Arrow
 
-**APL 3 (level 3) · 4–6 characters · one 4-hour session**
+**APL 3 (level 3) · 4–6 characters · one 3½-hour session**
 
 > *You have been hired by a group of Vallmer priests to travel to Karash, at the base of the Stormwall Mountains, and earn the trust of the Karashi horde. The cold weather and colder welcome you expect to receive make this quite the undertaking indeed.*
 >
@@ -116,19 +116,19 @@ Each has more than one route. Objectives 5–7 are optional.
 ## Act Structure
 Likely path: Scenes 00 → 07. See [[10-Adventures/SP-PBS-01K — The False Arrow (Kestrel)/Scenes/SP-PBS-01K — Scene Index|Scene Index]] for the run sheet.
 
-### Act 1 — The Road (≈50 min)
+### Act 1 — The Road (≈40 min)
 - [[SP-PBS-01K — Scene 00 — Kestrel University]] (5 min): the Job Board at the Fiend's Rest; each player names whose lectures they attend.
-- [[SP-PBS-01K — Scene 01 — The High Pass]] (20 min): Brennin's letter, Halya's sealed letter, the descent, an earned hazard.
-- [[SP-PBS-01K — Scene 02 — The Cold Welcome]] (25 min): Batzorig disarms them; Sorvash's question; the three trials are set.
+- [[SP-PBS-01K — Scene 01 — The High Pass]] (15 min): Brennin's letter, Halya's sealed letter, the descent, an earned hazard.
+- [[SP-PBS-01K — Scene 02 — The Cold Welcome]] (20 min): Batzorig disarms them; Sorvash's question; the three trials are set.
 
-### Act 2 — The Trials (≈2¼ hr with break)
-- [[SP-PBS-01K — Scene 03 — Trial of the Horse]] (30 min): ride or gentle the black stallion; weapons return on success.
-- [[SP-PBS-01K — Scene 04 — Trial of the Bow]] (40 min): the saber-tooth, and the patrol's bodies.
-- [[SP-PBS-01K — Scene 05 — Night in Karash]] (40 min): Kezrin's offer and his men; Halya's letter.
+### Act 2 — The Trials (≈1 hr 50 min with break)
+- [[SP-PBS-01K — Scene 03 — Trial of the Horse]] (20 min): ride or gentle the black stallion; weapons return on success.
+- [[SP-PBS-01K — Scene 04 — Trial of the Bow]] (35 min): the saber-tooth, and the patrol's bodies.
+- [[SP-PBS-01K — Scene 05 — Night in Karash]] (30 min): Kezrin's offer and his men; Halya's letter.
 - [[SP-PBS-01K — Scene 06 — Trial of the Fire]] (15 min): three honest answers at Sarnai's fire.
 
-### Act 3 — The Council (≈55 min)
-- [[SP-PBS-01K — Scene 07 — The War Council]] (50 min): three rounds, Kezrin's exit, Sorvash's ruling; endings.
+### Act 3 — The Council (≈50 min)
+- [[SP-PBS-01K — Scene 07 — The War Council]] (45 min): three rounds, Kezrin's exit, Sorvash's ruling; endings.
 
 ## Climax at a Glance
 | Round | What it takes | Seeded in |

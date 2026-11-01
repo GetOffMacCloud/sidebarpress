@@ -15,7 +15,7 @@ status: drafted
 
 ## Purpose
 A real fight, and the adventure's payload: the ambushed patrol's bodies and the false Wolf arrows.
-**Budget:** 40 minutes. Running long? Skip the tracking roll; the tiger waits at the den mouth.
+**Budget:** 35 minutes (the discovery takes 10 of it). Running long? Skip the tracking roll; the tiger waits at the den mouth.
 
 ## The Briefing
 > *The trial is named for the bow, but it starts with grief.*
@@ -64,50 +64,7 @@ Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Ravine` ([[SP-PBS-01 �
 ### Minion Pack (just in case)
 Use this when the fight needs more bodies: a pack of 4–8 **Ravine Wolf** minions, built from the **wolf** (MM p. 341), with the [[Skirmisher Minion]] template at **APL 3**. Starving wolves drawn by the tiger's kills come down the shale behind the party. They are scavengers, not anyone's agents. For 5–6 PCs, add four. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
 
-> [!example]- Ravine Wolf, Skirmisher Minion (CR 3 minion, 175 XP)
-> *Medium beast, unaligned*
-> **Armor Class** 13 (natural armor) · **Hit Points** 1 (minion) · **Speed** 50 ft.
->
-> | STR | DEX | CON | INT | WIS | CHA |
-> |---|---|---|---|---|---|
-> | 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
->
-> **Senses** passive Perception 11 · **Languages** — · **Challenge** 3 (175 XP)
->
-> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
->
-> ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->
-> ***Pack Tactics (Skirmisher).*** The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
->
-> **Actions**
-> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
-
-**At other APLs** (change only these numbers):
-
-| APL | AC | Attack | DC | Damage | XP each |
-|---|---|---|---|---|---|
-| 3 (built) | 13 | +4 | 13 | 9 | 175 |
-
-> [!info]- FGU Import (minion)
-> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
-> ```text
-> Ravine Wolf, Skirmisher Minion
-> Medium beast, unaligned
-> Armor Class 13 (natural armor)
-> Hit Points 1 (minion)
-> Speed 50 ft.
-> STR DEX CON INT WIS CHA
-> 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
-> Senses passive Perception 11
-> Languages -
-> Challenge 3 (175 XP) Proficiency Bonus +2
-> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
-> Keen Hearing and Smell. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-> Pack Tactics (Skirmisher). The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
-> Actions
-> Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
-> ```
+Statblock, APL table and FGU import: [[SP-PBS-01 — Bestiary#Minion Packs (optional)|Bestiary → Minion Packs]].
 
 ## The Discovery (the scene's real payload)
 Half-buried in snow near the tiger's kills lie the missing four of the ambushed patrol — **Temur's brother among them**, recognizable by the tiger-tail standard knotted at his belt. The cold has kept them. **Investigation or Survival DC 13:**

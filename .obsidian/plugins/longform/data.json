@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-11-01T21:23:33.666Z",
-      "total": 10278,
+      "total": 10294,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -140,9 +140,9 @@
           }
         },
         "10-Adventures/SP-PBS-01 — The False Arrow/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 8,
           "scenes": {
-            "Scene 00 — Greyhawk University": 0,
+            "Scene 00 — Greyhawk University": 8,
             "Scene 01 — The High Pass": 0,
             "Scene 02 — The Cold Welcome": 0,
             "Scene 03 — Trial of the Horse": 0,
@@ -201,9 +201,9 @@
           }
         },
         "10-Adventures/SP-PBS-01K — The False Arrow (Kestrel)/Scenes/SP-PBS-01K — Scene Index.md": {
-          "total": 10278,
+          "total": 10286,
           "scenes": {
-            "SP-PBS-01K — Scene 00 — Kestrel University": 756,
+            "SP-PBS-01K — Scene 00 — Kestrel University": 764,
             "SP-PBS-01K — Scene 01 — The High Pass": 1450,
             "SP-PBS-01K — Scene 02 — The Cold Welcome": 1166,
             "SP-PBS-01K — Scene 03 — Trial of the Horse": 886,

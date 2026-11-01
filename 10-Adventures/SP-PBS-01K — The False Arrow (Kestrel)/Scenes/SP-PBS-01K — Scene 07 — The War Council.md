@@ -15,7 +15,7 @@ status: drafted
 
 ## Purpose
 The climax. Three rounds decide two questions — does the parley pass, and does the war stop — and Kezrin tries to slip away.
-**Budget:** 50 minutes, plus 5 for the ending. Running long? Argue Round 3 instead of dueling, and run the chase as one DC 13 check (success = papers recovered).
+**Budget:** 45 minutes, plus 5 for the ending. Running long? Argue Round 3 instead of dueling, and run the chase as one DC 13 check (success = papers recovered).
 
 ## Check Favor First
 | Favor | What happens |

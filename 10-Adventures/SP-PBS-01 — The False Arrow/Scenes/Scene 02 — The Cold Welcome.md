@@ -15,7 +15,7 @@ status: drafted
 
 ## Purpose
 Disarm the party, make them face Cligir's question, set the three trials, and **explain the Favor track out loud**. This scene is pure roleplay.
-**Budget:** 25 minutes. Running long? Cut the interception to "blades on the snow" and go straight to the pavilion.
+**Budget:** 20 minutes. Running long? Cut the interception to "blades on the snow" and go straight to the pavilion.
 
 ## The Interception
 > *They come out of the low sun: six riders at a canter, spread in a crescent, bows strung and half-drawn. Steppe ponies, shaggy and quick, breathing steam. Their leader rides a hand ahead of the rest — a broad young warrior with a tiger-tail standard tied at his saddle, his mouth set hard.*

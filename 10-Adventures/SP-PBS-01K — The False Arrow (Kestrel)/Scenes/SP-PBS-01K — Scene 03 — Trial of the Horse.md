@@ -15,7 +15,7 @@ status: drafted
 
 ## Purpose
 The table's first taste of nomad values: the horde honors the rider who masters a horse and despises the one who breaks it. Success returns their weapons; gentling earns Sarnai's endorsement.
-**Budget:** 30 minutes. Running long? The best rider makes every check. Take the break after this scene.
+**Budget:** 20 minutes. Running long? The best rider makes every check. Take the break after this scene.
 
 ## The Horse Lines at Dawn
 > *Dawn comes grey and sideways, the sun a rumor behind the Stormwalls.*

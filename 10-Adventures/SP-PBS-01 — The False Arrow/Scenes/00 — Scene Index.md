@@ -47,20 +47,21 @@ SORT publish_order ASC
 
 Back to [[SP-PBS-01-The-False-Arrow]] · Mechanics: [[SP-PBS-01 — The Favor Tracker]] · Statblocks: [[SP-PBS-01 — Bestiary]]
 
-## Run Sheet — four hours
+## Run Sheet — three and a half hours
 
 | # | Scene | Act | Budget | Clock | If you're running long | Core output |
 |---|---|---|---|---|---|---|
-| 00 | [[Scene 00 — Greyhawk University]] | 1 — The Road | 5 min | 0:05 | Start at the posting | Each PC's course of study |
-| 01 | [[Scene 01 — The High Pass]] | 1 — The Road | 20 min | 0:25 | Skip the journey checks; no hazard | The parley letter; Halya's sealed letter |
-| 02 | [[Scene 02 — The Cold Welcome]] | 1 — The Road | 25 min | 0:50 | Cut the interception to "blades on the snow" | Disarmed; Cligir's question; the trials set; Favor explained |
-| 03 | [[Scene 03 — Trial of the Horse]] | 2 — The Trials | 30 min | 1:20 | The best rider makes every check | Weapons back (or not); maybe Sarnai's endorsement |
-| — | *Break* | | 10 min | 1:30 | | |
-| 04 | [[Scene 04 — Trial of the Bow]] | 2 — The Trials | 40 min | 2:10 | Skip tracking; tiger at the den mouth | The false-flag evidence |
-| 05 | [[Scene 05 — Night in Yecha]] | 2 — The Trials | 40 min | 2:50 | **Checkpoint:** if this scene starts after 2:20, run Kezrin's visit straight into the attack and spy during the fire | Kezrin is dirty; spy or not |
-| 06 | [[Scene 06 — Trial of the Fire]] | 2 — The Trials | 15 min | 3:05 | Two questions instead of three | Sarnai learns the truth (or a lie) |
-| 07 | [[Scene 07 — The War Council]] | 3 — The Council | 50 min | 3:55 | Argue Round 3; chase as one DC 13 check | The ending |
-| — | Endings & rewards | | 5 min | 4:00 | Send rewards after the session | |
+| 00 | [[Scene 00 — Greyhawk University]] | 1 — The Road | 5 min | 0:05 | Ask the lecture question during character intros | Each PC's course of study |
+| 01 | [[Scene 01 — The High Pass]] | 1 — The Road | 15 min | 0:20 | Skip the journey checks; no hazard | The parley letter; Halya's sealed letter |
+| 02 | [[Scene 02 — The Cold Welcome]] | 1 — The Road | 20 min | 0:40 | Cut the interception to "blades on the snow" | Disarmed; Cligir's question; the trials set; Favor explained |
+| 03 | [[Scene 03 — Trial of the Horse]] | 2 — The Trials | 20 min | 1:00 | The best rider makes every check | Weapons back (or not); maybe Sarnai's endorsement |
+| — | *Break* | | 10 min | 1:10 | | |
+| 04 | [[Scene 04 — Trial of the Bow]] | 2 — The Trials | 35 min | 1:45 | Skip tracking; tiger at the den mouth | The false-flag evidence |
+| 05 | [[Scene 05 — Night in Yecha]] | 2 — The Trials | 30 min | 2:15 | Visit runs straight into the attack; spying happens during the fire (default). **Checkpoint:** start by 1:50 | Kezrin is dirty; spy or not |
+| 06 | [[Scene 06 — Trial of the Fire]] | 2 — The Trials | 15 min | 2:30 | Two questions instead of three | Sarnai learns the truth (or a lie) |
+| 07 | [[Scene 07 — The War Council]] | 3 — The Council | 45 min | 3:15 | Argue Round 3; chase as one DC 13 check | The ending |
+| — | Endings & rewards | | 5 min | 3:20 | Send rewards after the session | |
+| — | *Slack* | | 10 min | 3:30 | Table talk eats this first | |
 
 ## Standing Trackers
 Copy these from [[SP-PBS-01 — The Favor Tracker]] onto the table card.
