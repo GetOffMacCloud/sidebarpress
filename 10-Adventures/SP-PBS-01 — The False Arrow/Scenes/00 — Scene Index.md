@@ -54,7 +54,7 @@ Back to [[SP-PBS-01-The-False-Arrow]] · Mechanics: [[SP-PBS-01 — The Favor Tr
 | 00 | [[Scene 00 — Greyhawk University]] | 1 — The Road | 5 min | 0:05 | Start at the posting | Each PC's course of study |
 | 01 | [[Scene 01 — The High Pass]] | 1 — The Road | 20 min | 0:25 | Skip the journey checks; no hazard | The parley letter; Halya's sealed letter |
 | 02 | [[Scene 02 — The Cold Welcome]] | 1 — The Road | 25 min | 0:50 | Cut the interception to "blades on the snow" | Disarmed; Cligir's question; the trials set; Favor explained |
-| 03 | [[Scene 03 — Trial of the Horse]] | 2 — The Trials | 30 min | 1:20 | One attempt, by the best rider | Weapons back (or not); maybe Sarnai's endorsement |
+| 03 | [[Scene 03 — Trial of the Horse]] | 2 — The Trials | 30 min | 1:20 | The best rider makes every check | Weapons back (or not); maybe Sarnai's endorsement |
 | — | *Break* | | 10 min | 1:30 | | |
 | 04 | [[Scene 04 — Trial of the Bow]] | 2 — The Trials | 40 min | 2:10 | Skip tracking; tiger at the den mouth | The false-flag evidence |
 | 05 | [[Scene 05 — Night in Yecha]] | 2 — The Trials | 40 min | 2:50 | **Checkpoint:** if this scene starts after 2:20, run Kezrin's visit straight into the attack and spy during the fire | Kezrin is dirty; spy or not |

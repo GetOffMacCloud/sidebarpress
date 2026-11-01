@@ -155,18 +155,18 @@ Difficulty for **level 3** with 2014 DMG thresholds and multipliers. Full statbl
 |---|---|---|---|---|---|
 | 1 | Steppe Predators (S1, earned) | combat | 1 winter wolf — Medium | 1 winter wolf + 2 wolves — Hard | Only on two or more failed journey checks. The winter wolf talks first. |
 | 2 | The Cold Welcome (S2) | social | — | — | Restraint, guest-craft, Cligir's question |
-| 3 | Trial of the Horse (S3) | skill challenge | — | — | Ride (DC 14) or gentle (DC 16); best of the party |
+| 3 | Trial of the Horse (S3) | skill challenge | — | — | Ride (DC 14) or gentle (DC 16); one check per PC, 3 successes or 3 failures |
 | 4 | Trial of the Bow (S4) | combat | 1 saber-toothed tiger — Easy | 2 saber-toothed tigers (mate joins round 2) — Hard | Horn bows provided. Killing blow by horn bow = full success. |
-| 5 | The Night Visit (S5) | combat | 2 thugs + 1 scout — Medium | 3 thugs + 1 scout — Easy–Medium | Always happens. Non-lethal; often unarmored and possibly unarmed. Map: Night Camp. |
+| 5 | The Night Visit (S5) | combat | Ochir + 2 thugs — Hard | Ochir + 3 thugs — Hard | Always happens. Non-lethal; often unarmored and possibly unarmed. Map: Night Camp. |
 | 6 | Trial of the Fire (S6) | social | — | — | Three honest answers |
 | 7 | The War Council (S7) | social climax | — | — | Three rounds; optional duel and chase. Map: Duel Ring. |
 | 7a | Champion's Duel (S7, optional) | combat | 1 berserker vs. one PC | same | First to three hits, non-lethal; the berserker's Reckless attacks help the PC |
 
-**Adventuring-day check (4 PCs, level 3):** the likely path costs 1,050–2,200 adjusted XP against a daily budget of 4,800. Combat is not the threat; Favor is.
+**Adventuring-day check (4 PCs, level 3):** the likely path costs 1,750–2,900 adjusted XP against a daily budget of 4,800. Combat is not the threat; Favor is.
 
 ## Treasure & Rewards
 - [[Tiger-Claw-Token]] — Favor 7+, given when Cligir grants voice. Uncommon wondrous item.
-- [[The-Black-Stallion|The black stallion]] — kept by the PC who rides or gentles him (warhorse stats).
+- [[The-Black-Stallion|The black stallion]] — kept by the PC who gentles him (warhorse stats). Riding him wins the trial, not the horse.
 - [[The-False-Wolf-Arrows|The false Wolf arrows]] — the ravine arrows, the black-steel arrowhead, and Tsolmon's arrow. Climax evidence, not loot.
 - **Steppe ponies** — one per PC if the parley passes.
 - **Cligir's parley-gift** — 150 gp each in silver ingots and furs, if the parley passes.
@@ -215,7 +215,7 @@ Favor total · council result · tiger-claw token (who holds it) · Sarnai's end
 See [[SP-PBS-01 — VTT and Fantasy Grounds Kit]].
 - [ ] Story entries written (one per scene, in index order)
 - [ ] Encounters built (5 combat variants by party size)
-- [ ] NPCs created/linked (winter wolf, wolf, saber-toothed tiger, thug, scout, berserker, spy for Kezrin)
+- [ ] NPCs created/linked (winter wolf, wolf, saber-toothed tiger, thug, scout, berserker, spy for Kezrin, Ochir the Cut-Rein from the Bestiary's FGU import)
 - [ ] Favor tracker image (1920×1080) and marker token added
 - [ ] Maps added: Ravine, Night Camp, Duel Ring (100 px/sq)
 - [ ] Handouts flagged shareable (Brennin's letter; Halya's letter to one player; Kezrin's papers)

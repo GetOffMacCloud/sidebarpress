@@ -15,7 +15,7 @@ status: drafted
 
 ## Purpose
 The table's first taste of nomad values: the horde honors the rider who masters a horse and despises the one who breaks it. Success returns their weapons; gentling earns Sarnai's endorsement.
-**Budget:** 30 minutes. Running long? One attempt, by the party's best rider. Take the break after this scene.
+**Budget:** 30 minutes. Running long? The best rider makes every check. Take the break after this scene.
 
 ## The Horse Lines at Dawn
 > *Dawn comes grey and sideways, the sun a rumor behind the Yatils.*
@@ -36,22 +36,24 @@ Temur's riders narrate like a sports crowd. [[Batzorig]] is among them, the hide
 
 **The stallion.** Seventeen hands of winter muscle, breath in hard white plumes, ears pinned the moment anyone steps inside ten feet. Old rope-burns ring his neck. Someone caught him once, and he remembers.
 
-## The Challenge (best of the party's efforts)
-| Approach | Check | Success |
-|---|---|---|
-| **Ride him** | Athletics or Acrobatics DC 14, three rounds (one check each) | Two successes. Failure by 5+: thrown, 1d6 bludgeoning. |
-| **Gentle him** | Animal Handling DC 16, three checks over an hour | Two successes. Slower and rarer — earns **Sarnai's endorsement**. |
+## The Challenge
+**One check per PC**, in an order the party chooses, up to **5 checks**. The trial ends at **3 successes** or **3 failures**. With fewer than five PCs, the party names its best rider to make the extra check. Each PC picks an approach for their own check:
 
-Anyone may attempt; the party's best result counts. Disadvantage on the first check if a weapon was drawn in the pavilion.
+| Approach | Check | On a failure |
+|---|---|---|
+| **Ride him** | Athletics or Acrobatics DC 14 | Failure by 5+: thrown, 1d6 bludgeoning. |
+| **Gentle him** | Animal Handling DC 16 | Slower and rarer. If at least two of the three successes are gentling checks, he is **gentled**: Sarnai's endorsement, and he belongs to the PC who made the last gentling success. |
+
+Disadvantage on the first check if a weapon was drawn in the pavilion.
 
 Play it moment by moment. **Riding:** the stallion explodes sideways the instant weight hits the saddle; snow in sheets; Chuluun shouting odds. **Gentling:** the slow circling, the testing, the stallion finally standing close enough to touch; the crowd goes quiet, and Sarnai steps forward without being asked.
 
 ## Results
 | Result | Favor | Weapons |
 |---|---|---|
-| **Success** (two successes) | **+2** | Batzorig drops the bundle at the rider's feet: *"Rider's blades. Take them."* Returned now. |
-| **Partial** (one success) | **+1** | Returned after the Trial of the Bow. |
-| **Fail** | 0 | Held until the party leaves Yecha. |
+| **Success** (3 successes) | **+2** | Batzorig drops the bundle at the rider's feet: *"Rider's blades. Take them."* Returned now. |
+| **Partial** (ends on 3 failures with 2 successes) | **+1** | Returned after the Trial of the Bow. |
+| **Fail** (0–1 successes) | 0 | Held until the party leaves Yecha. |
 
 If someone is thrown spectacularly and gets up laughing, Sarnai smiles: award the partial anyway. The horde loves spirit.
 

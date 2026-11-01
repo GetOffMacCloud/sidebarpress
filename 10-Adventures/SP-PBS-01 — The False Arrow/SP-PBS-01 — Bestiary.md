@@ -100,8 +100,59 @@ All creatures are 2014 *Monster Manual* / SRD statblocks, reproduced here paste-
 
 ---
 
-## Scout — Batzorig, the Beaters, Kezrin's Lookout (CR 1/2, 100 XP)
-*Medium humanoid (human), any alignment* · MM p. 349 · **Scenes 2, 4, 5**
+## Ochir the Cut-Rein — Leader of Kezrin's Men (CR 2, 450 XP)
+*Medium humanoid (human), neutral evil* · Sidebar Press homebrew (built on the scout) · **Scene 5, Encounter 5**
+
+**Armor Class** 15 (studded leather) · **Hit Points** 52 (8d8 + 16) · **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 12 (+1) | 16 (+3) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +5 · **Skills** Animal Handling +3, Intimidation +4, Perception +3, Stealth +5 · **Senses** passive Perception 13 · **Languages** Baklunish, Common, Ekbiri dialect · **Proficiency** +2
+
+***Tent-City Born.*** Ochir has advantage on Dexterity (Stealth) checks made in the Chakyik camp. Riders who don't know his face take him for one of their own.
+
+**Actions**
+***Multiattack.*** Two scimitar attacks or two horn bow attacks.
+***Scimitar.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing.
+***Horn Bow (Longbow).*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8 + 3) piercing.
+
+**Bonus Actions**
+***Cut-Rein's Order (Recharge 5–6).*** One ally within 30 ft. that can hear Ochir uses its reaction to move up to half its speed and make one weapon attack.
+
+> **Sidebar Press dressing.** A Chakyik rider cast out of the horde years ago (a "cut-rein": his rein was cut and his horse given away), now Kezrin's man in the tent-city. The grinning-skull brand of Iuz is inside his left forearm (Religion DC 12). He shoots from the tent-line and spends his Order on whoever holds the ravine evidence. He knocks PCs out rather than kill them, and he is the first to run when Naran's riders arrive. Captured, he says nothing: a captured *thug* is the one who names Kezrin.
+>
+> **CR math (2014 DMG):** defense CR 1 (52 hp, AC 15); offense CR 3 (about 17 damage a round with the Order, +5 to hit). Average: CR 2.
+
+> [!info]- FGU Import (homebrew)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Ochir the Cut-Rein
+> Medium humanoid (human), neutral evil
+> Armor Class 15 (studded leather)
+> Hit Points 52 (8d8 + 16)
+> Speed 30 ft.
+> STR DEX CON INT WIS CHA
+> 12 (+1) 16 (+3) 14 (+2) 11 (+0) 12 (+1) 14 (+2)
+> Saving Throws Dex +5
+> Skills Animal Handling +3, Intimidation +4, Perception +3, Stealth +5
+> Senses passive Perception 13
+> Languages Baklunish, Common, Ekbiri dialect
+> Challenge 2 (450 XP) Proficiency Bonus +2
+> Tent-City Born. Ochir has advantage on Dexterity (Stealth) checks made in the Chakyik camp.
+> Actions
+> Multiattack. Ochir makes two Scimitar attacks or two Horn Bow attacks.
+> Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+> Horn Bow. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+> Bonus Actions
+> Cut-Rein's Order (Recharge 5-6). One ally within 30 ft. that can hear Ochir uses its reaction to move up to half its speed and make one weapon attack.
+> ```
+
+---
+
+## Scout — Batzorig, the Beaters (CR 1/2, 100 XP)
+*Medium humanoid (human), any alignment* · MM p. 349 · **Scenes 2, 4**
 
 **Armor Class** 13 (leather armor) · **Hit Points** 16 (3d8 + 3) · **Speed** 30 ft.
 
@@ -109,7 +160,7 @@ All creatures are 2014 *Monster Manual* / SRD statblocks, reproduced here paste-
 |---|---|---|---|---|---|
 | 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
-**Skills** Nature +4, Perception +5, Stealth +6, Survival +5 · **Senses** passive Perception 15 · **Languages** Baklunish (Batzorig: broken Common) · **Proficiency** +2
+**Skills** Nature +4, Perception +5, Stealth +6, Survival +5 · **Senses** passive Perception 15 · **Languages** Baklunish (Batzorig: broken Common; the Scene 4 beater: trader's Common) · **Proficiency** +2
 
 ***Keen Hearing and Sight.*** Advantage on Wisdom (Perception) checks that rely on hearing or sight.
 

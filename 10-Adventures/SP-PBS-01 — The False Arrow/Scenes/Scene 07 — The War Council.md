@@ -91,11 +91,11 @@ The party must give his grief somewhere to go: a border patrol instead of a war,
 
 Kezrin is among Temur's guests, unless he has already been exposed:
 - **Exposed, and Sarnai was told:** her riders have watched him since dawn. Use option 1.
-- **Exposed, but Sarnai was not told:** he tries to slip out of Yecha at first light, before the council. Run option 4 (the chase) at the picket line. Option 2 doesn't apply, because the party knows to watch for him.
+- **Exposed, but Sarnai was not told:** he tries to slip out of Yecha at first light, before the council. Naran sees Kezrin's men saddling at dawn and runs to the guest tent, pointing and shouting one of his three words: *"Horse! Horse!"* Run option 4 (the chase) from the picket line. Option 2 doesn't apply.
 
 The moment Round 2 is won, or the false flag is spoken aloud, he starts for the flap. The party's options, cleanest first:
 1. **They prepared.** They gave Sarnai the evidence or named Kezrin to her: Naran and two riders hold the flap. **Captured, papers recovered.** No roll.
-2. **They see him go.** Perception **DC 14** (passive counts). No one spots him → gone, with his papers.
+2. **They see him go.** Perception **DC 14** (passive counts). **Spotted:** the spotter shouts, and the party may take option 3 at once or start option 4. **No one spots him:** gone, with his papers.
 3. **They stop him on the spot.** Any single action that stops a running man — a grapple, *hold person*, *command*, a thrown net, an arrow to the leg, a body in the doorway. **Captured, papers recovered.**
 4. **They chase.** Three rounds through the tent-city to his horse; the lead chaser makes a **DC 13** check each round (Athletics, Acrobatics, Perception, or Animal Handling if mounted); others can Help.
    - **3 successes:** captured at the picket line, papers recovered.
@@ -118,9 +118,9 @@ Recovered papers: [[SP-PBS-01 — Handout — Kezrin's Papers]].
 - *False flag exposed:* *"And the merchant Kezrin is declared wolf-head: any rider may take his head, and keep his horses."* (If he is a prisoner: *"Bring the merchant to me. He will tell us about the Wolves he paid."*)
 
 ## Soft Fail — Through Sarnai's Mouth
-Favor is below 5, but Sarnai holds the evidence. Temur has the party walked out under guard. They stand outside the flap in the cold with Naran translating in snatches through the hides.
+Favor is below 5, but Sarnai holds the evidence. Temur has the party walked out under guard. They stand outside the flap in the cold with the beater from the ravine translating in snatches through the hides.
 - Temur's speech happens; they hear the roar.
-- **Round 2 is Sarnai's.** She lays the arrows on the felt herself. No roll — Round 2 is won. Naran whispers: *"She says — not Wolf arrows. Someone's idea of Wolf arrows."*
+- **Round 2 is Sarnai's.** She lays the arrows on the felt herself. No roll — Round 2 is won. The beater whispers: *"She says — not Wolf arrows. Someone's idea of Wolf arrows."*
 - Rounds 1 and 3 are not run.
 - **Kezrin comes out the flap — toward them.** Option 1 still works if they warned Sarnai; otherwise options 2–4, from outside.
 

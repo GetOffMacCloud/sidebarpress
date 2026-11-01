@@ -59,54 +59,54 @@ Then deliver these one at a time:
 | 4 PCs | 1 saber-toothed tiger | Easy (450) |
 | 5–6 PCs | 2 saber-toothed tigers (its mate joins from the den on round 2) | Hard (1,350 adj.) |
 
-Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Ravine` ([[SP-PBS-01 — Map Assets]]). It is an ambush predator: out of the cleft fast and silent, going for whoever looks smallest. It flees at 10 hp, or when its mate falls (at 5–6 PCs).
+Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Ravine` ([[SP-PBS-01 — Map Assets]]). It is an ambush predator: out of the cleft fast and silent, going for whoever looks smallest. It fights to the death, and so does its mate (at 5–6 PCs).
 
 ### Minion Pack (just in case)
-Use this when the fight needs more bodies: a pack of 4–8 **Kezrin's Lookout** minions, built from the **scout** (MM p. 349), as Kezrin's men, with the [[Artillery Minion]] template at **APL 3**. Only if Kezrin's plot turns to open murder during the hunt: his men shoot from the ravine rim. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+Use this when the fight needs more bodies: a pack of 4–8 **Ravine Wolf** minions, built from the **wolf** (MM p. 341), with the [[Skirmisher Minion]] template at **APL 3**. Starving wolves drawn by the tiger's kills come down the shale behind the party. They are scavengers, not anyone's agents. For 5–6 PCs, add four. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
 
-> [!example]- Kezrin's Lookout, Artillery Minion (CR 3 minion, 175 XP)
-> *Medium humanoid (human), neutral evil*
-> **Armor Class** 12 (leather armor) · **Hit Points** 1 (minion) · **Speed** 30 ft.
+> [!example]- Ravine Wolf, Skirmisher Minion (CR 3 minion, 175 XP)
+> *Medium beast, unaligned*
+> **Armor Class** 13 (natural armor) · **Hit Points** 1 (minion) · **Speed** 50 ft.
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
+> | 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
 >
-> **Senses** passive Perception 11 · **Languages** Common, Ekbiri · **Challenge** 3 (175 XP)
+> **Senses** passive Perception 11 · **Languages** — · **Challenge** 3 (175 XP)
 >
 > ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
 >
-> ***Keen Hearing and Sight.*** The lookout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+> ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
-> ***Steady Aim (Artillery).*** If the lookout hasn't moved this turn, it has advantage on its ranged attack roll.
+> ***Pack Tactics (Skirmisher).*** The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > **Actions**
-> ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 9 piercing damage.
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 **At other APLs** (change only these numbers):
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 3 (built) | 12 | +4 | 13 | 9 | 175 |
+| 3 (built) | 13 | +4 | 13 | 9 | 175 |
 
 > [!info]- FGU Import (minion)
 > Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
 > ```text
-> Kezrin's Lookout, Artillery Minion
-> Medium humanoid (human), neutral evil
-> Armor Class 12 (leather armor)
+> Ravine Wolf, Skirmisher Minion
+> Medium beast, unaligned
+> Armor Class 13 (natural armor)
 > Hit Points 1 (minion)
-> Speed 30 ft.
+> Speed 50 ft.
 > STR DEX CON INT WIS CHA
-> 11 (+0) 14 (+2) 12 (+1) 11 (+0) 13 (+1) 11 (+0)
+> 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
 > Senses passive Perception 11
-> Languages Common, Ekbiri
+> Languages -
 > Challenge 3 (175 XP) Proficiency Bonus +2
 > Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
-> Keen Hearing and Sight. The lookout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
-> Steady Aim (Artillery). If the lookout hasn't moved this turn, it has advantage on its ranged attack roll.
+> Keen Hearing and Smell. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+> Pack Tactics (Skirmisher). The wolf has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
 > Actions
-> Longbow. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 9 piercing damage.
+> Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 > ```
 
 ## The Discovery (the scene's real payload)
@@ -117,7 +117,7 @@ Half-buried in snow near the tiger's kills lie the missing four of the ambushed 
 - **A black-steel arrowhead** in one dead hand — dark, oily metal, too well-made for steppe work.
 - **A silver coin** (Investigation DC 15): Ekbiri silver, stamped with a horse-head.
 
-**Don't explain it.** Let the players work it out. A beater, asked about the arrows, goes pale under his windburn:
+**Don't explain it.** Let the players work it out. A beater, asked about the arrows, goes pale under his windburn. He has trader's Common from the caravan road:
 > **Beater:** *"Those are not Wolf arrows. I have pulled Wolf arrows out of my cousin. These are… someone's idea of Wolf arrows."*
 
 If someone asks about **Tsolmon's arrow**, the beater nods slowly: *"The khan keeps it in his sash. He has not let anyone look at it."* That arrow matches these. Hold the thought for the council.

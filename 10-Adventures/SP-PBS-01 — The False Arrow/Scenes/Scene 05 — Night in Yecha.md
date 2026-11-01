@@ -60,8 +60,8 @@ He offers **200 gp now, 300 after**, in Ekbiri silver, coin by coin on the felt 
 
 | Party | Creatures | Difficulty (level 3) |
 |---|---|---|
-| 4 PCs | 2 thugs + 1 scout | Medium (600 adj.) |
-| 5–6 PCs | 3 thugs + 1 scout | Easy–Medium (800 adj.) |
+| 4 PCs | Ochir the Cut-Rein + 2 thugs | Hard (1,300 adj.) |
+| 5–6 PCs | Ochir the Cut-Rein + 3 thugs | Hard (1,500 adj.) |
 
 Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Night-Camp` ([[SP-PBS-01 — Map Assets]]).
 - **Non-lethal intent.** They knock PCs out rather than kill. The party may be unarmored and, if the Horse failed, unarmed.
@@ -69,11 +69,11 @@ Statblocks: [[SP-PBS-01 — Bestiary]]. Map: `SP-PBS-01 - Night-Camp` ([[SP-PBS-
 - If the party has no ravine evidence, the job is to scare them out: burn the tent, break a bow, run.
 - **Naran** arrives with two riders and a bucket line on **round 3** (**round 1** with Sarnai's endorsement).
 - **The fight ends** when Naran arrives or when two attackers drop, whichever comes first. The rest flee into the tents.
-- **The attackers' leader** has a grinning-skull brand inside his left forearm. It is the same skull as on Kezrin's wax seal. Religion DC 12, or any PC who knows the Old One's sign, recognizes the mark of **Iuz**.
+- **The attackers' leader**, **Ochir the Cut-Rein** (a Chakyik exile in Kezrin's pay; Bestiary), has a grinning-skull brand inside his left forearm. It is the same skull as on Kezrin's wax seal. Religion DC 12, or any PC who knows the Old One's sign, recognizes the mark of **Iuz**.
 - **A captured attacker** made to talk (Intimidation DC 13) names Kezrin. If the party takes that to Sarnai, Kezrin is watched from dawn (see Scene 7, *Kezrin's Exit*).
 
 ### Minion Pack (just in case)
-Use this when the fight needs more bodies: a pack of 4–8 **Kezrin's Man** minions, built from the **thug** (MM p. 350), as Kezrin's men, with the [[Brute Minion]] template at **APL 3**. More of Kezrin's men come through the burning felt. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+Use this when the fight needs more bodies: a pack of 4–8 **Kezrin's Man** minions, built from the **thug** (MM p. 350), as Kezrin's men, with the [[Brute Minion]] template at **APL 3**. More of Kezrin's men come through the burning felt. They pull their blows (7 damage, not the template's 14): Kezrin wants the party scared off, not dead. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
 
 > [!example]- Kezrin's Man, Brute Minion (CR 3 minion, 175 XP)
 > *Medium humanoid (human), neutral evil*
@@ -90,13 +90,13 @@ Use this when the fight needs more bodies: a pack of 4–8 **Kezrin's Man** mini
 > ***Death-Blow (Brute).*** When the raider drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
 >
 > **Actions**
-> ***Club.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 14 bludgeoning damage.
+> ***Club.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 bludgeoning damage.
 
 **At other APLs** (change only these numbers):
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 3 (built) | 12 | +4 | 13 | 14 | 175 |
+| 3 (built) | 12 | +4 | 13 | 7 (pulled) | 175 |
 
 > [!info]- FGU Import (minion)
 > Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
@@ -114,7 +114,7 @@ Use this when the fight needs more bodies: a pack of 4–8 **Kezrin's Man** mini
 > Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
 > Death-Blow (Brute). When the raider drops to 0 hit points from a melee attack, it can make one attack against the attacker before it dies.
 > Actions
-> Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 14 bludgeoning damage.
+> Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 bludgeoning damage.
 > ```
 
 ## B. Halya's Letter
