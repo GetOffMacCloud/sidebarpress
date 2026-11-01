@@ -16,8 +16,7 @@ Back to [[SP-PBS-01K-The-False-Arrow]] · Maps: [[SP-PBS-01 — Map Assets]] · 
 > [!warning] Kestrel build. Build it as its own module (`SP-PBS-01K The False Arrow (Kestrel)`), with Kestrel names on every record. Don't use `regional-map.png` or `Cover.png` until they are redone. The NPC portraits and battlemaps carry no names and can be shared with the Greyhawk build.
 
 ## Reference Modules (Fantasy Grounds)
-- Pull creature records from **DD MM Monster Manual** or **DD5E SRD Bestiary** (both 2014; installed, not loaded).
-- **Don't** pull from **DNDSRD521BESTIARY**. It is the 2024 SRD 5.2.1, it is loaded in the current campaign, and its statblocks don't match the 2014 Bestiary.
+- Creature records: **DD MM Monster Manual** (2014), loaded in the campaign.
 - Homebrew records come from the Bestiary's *FGU Import* text: **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
 
 ## Maps
@@ -29,6 +28,7 @@ Back to [[SP-PBS-01K-The-False-Arrow]] · Maps: [[SP-PBS-01 — Map Assets]] · 
 
 - Source: the SVGs in `99-Assets/SP-PBS-01/`. Map Assets says the 100 px/sq PNGs are kept outside the vault; copy them into `FGU Kit/` (or re-export from the SVGs) so the kit is complete.
 - The painted maps in `images/` (`battlemap-ravine.png` 2048 × 1536, `battlemap-guest-camp.png` 2048 × 2048, `battlemap-duel-ring.jpg` 1680 × 2380) **are not on those grids**. Their aspect ratios don't match the Simple Layouts. If you use them, set the grid by hand in FG and record the px/sq here.
+- **Copies of the painted battlemaps are in the Greyhawk edition's `FGU Kit/` (they carry no names, so the Kestrel build can use them as they are):** `battlemap-ravine.png`, `battlemap-guest-camp.png` (Night Camp) and `battlemap-duel-ring.jpg` (a JPG; the original is one).
 - `regional-map.png` and `map-winter-camp.png` go in as plain images (no grid), linked from the Overview and Scene 02 story entries.
 
 ## Story Entries (in index order)
@@ -82,13 +82,11 @@ Inside each entry: read-aloud in FG's boxed-text style, and links to that scene'
 | 2 — Halya's Sealed Instruction | **one player** (Halya's pick) | Only when the seal is broken in Karash (Scene 05) |
 | 3 — Kezrin's Papers (`item-kezrin-papers.png`) | everyone | Scene 07, if recovered |
 
-## Favor Tracker (to make)
-- `Favor Tracker (FGU 1920x1080).png`: nine boxes, with 5 (voice) and 7 (token) marked. Under them, council Round 1–3 boxes and the Weapons row, mirroring the table card.
-- `Favor Marker Token.png`: a coin, 256 × 256, transparent background.
-- Share the tracker image to every player at the start of Scene 02 and move the token in front of them.
+## Favor Tracker
+No FGU asset: a static image can't track anything. Keep the count on the printed table card, say it aloud every time it moves, and type it into chat so the log keeps a record. Story entry 03 links the rules.
 
 ## Build & Export
-- [ ] `FGU Kit/` folder with the map PNGs, tracker and token
+- [x] Battlemaps: use the Greyhawk edition's `FGU Kit/`
 - [ ] Story entries 01–12 written
 - [ ] 7 encounters built and placed on their maps
 - [ ] NPC records created and linked (2014 sources; Ochir and minions imported)

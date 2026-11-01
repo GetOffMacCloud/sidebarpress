@@ -205,7 +205,6 @@ See [[SP-PBS-01K — VTT and Fantasy Grounds Kit]].
 - [ ] Story entries written (one per scene, in index order)
 - [ ] Encounters built (7 records: E1a/b, E4a/b, E5a/b, E7a)
 - [ ] NPCs created/linked (winter wolf, wolf, saber-toothed tiger, thug, scout, berserker, spy for Kezrin, Ochir the Cut-Rein from the Bestiary's FGU import)
-- [ ] Favor tracker image (1920×1080) and marker token added
 - [ ] Maps added: Ravine, Night Camp, Duel Ring (100 px/sq)
 - [ ] Handouts flagged shareable (Brennin's letter; Halya's letter to one player; Kezrin's papers)
 - [ ] Module exported and versioned

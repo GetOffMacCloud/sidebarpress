@@ -14,8 +14,7 @@ Back to [[SP-PBS-01-The-False-Arrow]] · Maps: [[SP-PBS-01 — Map Assets]] · S
 **Status:** not built (`fg_module` is empty). Kit folder: `10-Adventures/SP-PBS-01 — The False Arrow/FGU Kit/` (create it when the first asset is made). Ruleset: **5E (2014)**. Grid: **100 px per square** on every map.
 
 ## Reference Modules (Fantasy Grounds)
-- Pull creature records from **DD MM Monster Manual** or **DD5E SRD Bestiary** (both 2014; installed, not loaded).
-- **Don't** pull from **DNDSRD521BESTIARY**. It is the 2024 SRD 5.2.1, it is loaded in the current campaign, and its statblocks don't match the 2014 Bestiary.
+- Creature records: **DD MM Monster Manual** (2014), loaded in the campaign.
 - Homebrew records come from the Bestiary's *FGU Import* text: **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
 
 ## Maps
@@ -27,6 +26,7 @@ Back to [[SP-PBS-01-The-False-Arrow]] · Maps: [[SP-PBS-01 — Map Assets]] · S
 
 - Source: the SVGs in `99-Assets/SP-PBS-01/`. Map Assets says the 100 px/sq PNGs are kept outside the vault; copy them into `FGU Kit/` (or re-export from the SVGs) so the kit is complete.
 - The painted maps in `images/` (`battlemap-ravine.png` 2048 × 1536, `battlemap-guest-camp.png` 2048 × 2048, `battlemap-duel-ring.jpg` 1680 × 2380) **are not on those grids**. Their aspect ratios don't match the Simple Layouts. If you use them, set the grid by hand in FG and record the px/sq here.
+- **Copies of the painted battlemaps are in `FGU Kit/`:** `battlemap-ravine.png`, `battlemap-guest-camp.png` (Night Camp) and `battlemap-duel-ring.jpg` (a JPG; the original is one).
 - `regional-map.png` and `map-winter-camp.png` go in as plain images (no grid), linked from the Overview and Scene 02 story entries.
 
 ## Story Entries (in index order)
@@ -80,13 +80,11 @@ Inside each entry: read-aloud in FG's boxed-text style, and links to that scene'
 | 2 — Halya's Sealed Instruction | **one player** (Halya's pick) | Only when the seal is broken in Yecha (Scene 05) |
 | 3 — Kezrin's Papers (`item-kezrin-papers.png`) | everyone | Scene 07, if recovered |
 
-## Favor Tracker (to make)
-- `Favor Tracker (FGU 1920x1080).png`: nine boxes, with 5 (voice) and 7 (token) marked. Under them, council Round 1–3 boxes and the Weapons row, mirroring the table card.
-- `Favor Marker Token.png`: a coin, 256 × 256, transparent background.
-- Share the tracker image to every player at the start of Scene 02 and move the token in front of them.
+## Favor Tracker
+No FGU asset: a static image can't track anything. Keep the count on the printed table card, say it aloud every time it moves, and type it into chat so the log keeps a record. Story entry 03 links the rules.
 
 ## Build & Export
-- [ ] `FGU Kit/` folder with the map PNGs, tracker and token
+- [x] `FGU Kit/` folder with the painted battlemaps (copied 2026-11-01)
 - [ ] Story entries 01–12 written
 - [ ] 7 encounters built and placed on their maps
 - [ ] NPC records created and linked (2014 sources; Ochir and minions imported)

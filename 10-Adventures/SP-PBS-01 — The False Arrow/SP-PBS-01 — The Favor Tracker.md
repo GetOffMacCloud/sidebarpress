@@ -65,4 +65,4 @@ COUNCIL  R1 parley [ ]  R2 evidence [ ]  R3 choice [ ]
 ```
 
 ## At a Virtual Table
-The track must exist as a visible asset, not just DM notes. See [[SP-PBS-01 — VTT and Fantasy Grounds Kit]] for the 1920×1080 tracker image and marker token.
+Fantasy Grounds can't track Favor with a static image. Keep the count on the table card, say it aloud each time it moves, and type the new total into chat so the log keeps a record.
