@@ -26,11 +26,26 @@ Five jobs for Greyhawk University students at levels 3–4, from Brewfest 576 to
 
 ## Rulings (Greybeard, 2026-11-05)
 - Series code **SP-SQ** (replaces the provisional SP-PBS-05 to 09).
-- **Kermin Mind-Bender** sits in the Greater Boneheart by 576 CY (house extrapolation from WGR5 p. 86).
+- **Kermin Mind-Bender** sits in the Greater Boneheart by 576 CY (house extrapolation from WGR5 p. 86; logged in [[Iuz]]).
 - **Philidor the Blue Wizard** is the Link's keeper in SP-SQ-04 (WGR5 pp. 6, 21, 88).
 - **Professor Wilhelmina Brandt** stays out of this arc. The Wachturm/Binding Network threads and the Registrar's sealed files are untouched.
 - **Master Kezrin** (SP-PBS-01) belongs to **Panshazek's** arm, the priest-spies who are Kermin's rivals. He is the second thief in SP-SQ-03 and a wildcard in SP-SQ-05.
 - The **Warden's Brewfest Dinner** is now in the Field Station's Academic Calendar (RG-08, both vaults).
+
+## Canon Check (arc-wide)
+- [x] Iuz references verified against [[Iuz]] (new lore note, 2026-11-05)
+- [x] Deviations from canon documented below
+- [x] No 5.5e-only lore used
+- [ ] Wolf Nomad stance in 576 (WGR5 p. 20 vs [[Wolf-Nomads]]): Greybeard to rule
+
+**Deviations (house, endorsed; reasoning in [[Iuz#Sidebar Press Stance]]):**
+- **[[The Gaoler's Link]]:** its provenance, its blind spot and its burn are house material. Grounded in WGR5 p. 5 (the six imprisoners, the 570 cave-in) and p. 75 (the third ebon skull, an object Iuz can't detect).
+- **Kermin in the Greater Boneheart by 576:** house extrapolation from WGR5 p. 86.
+- **Tether-mages, bone tethers, whisper-leeches:** house material, built on WGR5 p. 86 and pp. 89–90.
+- **Kezrin as Panshazek's man:** house ruling linking SP-PBS-01 to WGR5 p. 88.
+- **The six sigils:** based on each hero-god's later holy symbol; matching each sigil to one of the Link's powers is house material.
+- **Conversions:** *blackhand*, *bonechain* and *clawcloud* (WGR5 pp. 9–13) and the losel (WGR5 p. 29) are converted to 2014 5e. They are TSR names; rename them for Kestrel.
+- **Fog-drowned:** a house body for canon's Lake Quag fog-undead (WoG; LGG).
 
 ## Homebrew Index
 **Creatures** (in `65-Bestiary/Shadow on the Quag/`, kept out of *The Fell Harvest* build):
