@@ -9,6 +9,7 @@ creature: "Bone Beast Template"
 origin: harvested
 source_adventures: ["SP-PBS-02"]
 tags: [bestiary, template, 2014-5e]
+art_plate: todo        # todo | generated | approved | placed
 ---
 
 # Bone Beast Template
@@ -43,3 +44,9 @@ A bone beast is an animal skeleton raised and bound into a pack by a necromancer
 
 ## Appears In
 - [[SP-PBS-02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Its relic is the Antler Crown, and its law is the Hound-Mother's Law (never attack a creature bound at the Three Sisters). Statblocks are in [[SP-PBS-02 — Bestiary]].
+
+## Art Prompt
+**Plate** (print: the template's page art). Save it as `plates/Bone Beast Template.png`. A template has no FGU portrait or token; each pack beast's own entry carries those.
+```
+A small pack of animal skeletons moving together out of thin mist, a wolf in front with a boar and an elk behind it, every bone left plain white, each beast wearing a ring of dark stippled bronze cut with a small sigil around its neck or tusks or antlers, heads low as if hunting, the whole group centered with clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadows on the ground beneath them, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
