@@ -2414,7 +2414,7 @@ The students scout Kettle Cave and parley with Gutch, who tells the truth. They 
 
 - A faculty member _(GU roster: choose a plausible suspect)_ found Ur-Flan blood-rites in a Flan cairn and began testing them on animals in a hidden lab: a shepherd's bothy dug into the Hohlwand.
 - Dietlind was their assistant. She stole the journal to expose them, and fled. A blood-sick **owlbear** ran her off the cliff.
-- The Provost _(GU roster)_ has read the journal and wants it gone. Their agent, **Mattis Grell**, is already in the field to destroy the lab.
+- The Provost _(GU roster)_ has read the journal and wants it gone. Their agent, **Marcus Grell**, is already in the field to destroy the lab.
 
 ### If Nobody Interferes
 
@@ -2489,7 +2489,7 @@ The Provost hands over the journal and asks for quiet recovery (Part 1). The dea
     - _Knows:_ the Flan cairn and the rites.
     - _Reacts:_ see the escalation in Running Notes.
     - _Stats:_ mage (blood-themed reflavor).
-- **Mattis Grell**, the Provost's agent. _Deity:_ [Zilchus].
+- **Marcus Grell**, the Provost's agent. _Deity:_ [Zilchus].
     - _Wants:_ clean ashes and his fee.
     - _Knows:_ the Provost's orders.
     - _Reacts:_ cooperative mask → sabotage → a knife in the dark → sells the Provost out if captured.

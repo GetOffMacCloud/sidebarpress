@@ -31,12 +31,14 @@ Five jobs for Greyhawk University students at levels 3–4, from Brewfest 576 to
 - **Professor Wilhelmina Brandt** stays out of this arc. The Wachturm/Binding Network threads and the Registrar's sealed files are untouched.
 - **Master Kezrin** (SP-PBS-01) belongs to **Panshazek's** arm, the priest-spies who are Kermin's rivals. He is the second thief in SP-SQ-03 and a wildcard in SP-SQ-05.
 - The **Warden's Brewfest Dinner** is now in the Field Station's Academic Calendar (RG-08, both vaults).
+- **576 CY is a Regents' audit year.** Commissioner Lucan Dray is in Ritterstadt for Patchwall, during SP-SQ-02.
+- **Coin:** the mark is the gold piece (kleinmark sp, pfennig cp, grossmark pp; [[Perrenland]], LGG p. 85).
 
 ## Canon Check (arc-wide)
 - [x] Iuz references verified against [[Iuz]] (new lore note, 2026-11-05)
 - [x] Deviations from canon documented below
 - [x] No 5.5e-only lore used
-- [ ] Wolf Nomad stance in 576 (WGR5 p. 20 vs [[Wolf-Nomads]]): Greybeard to rule
+- [x] Wolf Nomads are **hostile** to Iuz in 576 (ruled 2026-11-05; see [[Iuz#Contradictions]]). Vesharan's road north is smuggling through enemy country.
 
 **Deviations (house, endorsed; reasoning in [[Iuz#Sidebar Press Stance]]):**
 - **[[The Gaoler's Link]]:** its provenance, its blind spot and its burn are house material. Grounded in WGR5 p. 5 (the six imprisoners, the 570 cave-in) and p. 75 (the third ebon skull, an object Iuz can't detect).

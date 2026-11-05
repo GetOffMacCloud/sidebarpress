@@ -38,7 +38,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, investigation, necroman
 ### What's Really Happening
 - A faculty member *(GU roster: choose a plausible suspect)* found Ur-Flan blood-rites in a Flan cairn and began testing them on animals in a hidden lab: a shepherd's bothy dug into the Hohlwand.
 - Dietlind was their assistant. She stole the journal to expose them, and fled. A blood-sick **owlbear** ran her off the cliff.
-- The Provost *(GU roster)* has read the journal and wants it gone. Their agent, **Mattis Grell**, is already in the field to destroy the lab.
+- The Provost *(GU roster)* has read the journal and wants it gone. Their agent, **Marcus Grell**, is already in the field to destroy the lab.
 
 ### If Nobody Interferes
 1. Grell burns the lab. The faculty member moves the surviving specimens to a second cave.
@@ -103,7 +103,7 @@ The Provost hands over the journal and asks for quiet recovery (Part 1). The dea
   - *Knows:* the Flan cairn and the rites.
   - *Reacts:* see the escalation in Running Notes.
   - *Stats:* mage (blood-themed reflavor).
-- **Mattis Grell**, the Provost's agent. *Deity:* [Zilchus].
+- **Marcus Grell**, the Provost's agent. *Deity:* [Zilchus].
   - *Wants:* clean ashes and his fee.
   - *Knows:* the Provost's orders.
   - *Reacts:* cooperative mask → sabotage → a knife in the dark → sells the Provost out if captured.

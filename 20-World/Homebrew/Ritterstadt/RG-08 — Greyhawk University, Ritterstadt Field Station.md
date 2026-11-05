@@ -79,7 +79,7 @@ Two **semesters** make a year. For play, a semester turns over after **four sanc
 - **Planting** — first commissions of the year; the Bloom's worst month.
 - **Reaping–Harvester** — the Scouts' Field Day; the midsummer census.
 - **Brewfest** — the **Warden's Brewfest Dinner**: on the third night of the festival week the Warden hosts the faculty and senior students in the Station House hall. It is the one night of the year the whole faculty sits at one table, from the first toast until the midnight bell. *(Set in Sidebar Press SP-SQ-01, The Gaoler's Link, 2026-11-05.)*
-- **Patchwall** — the Regents' audit (every second year); Publications submitted.
+- **Patchwall** — the Regents' audit (every second year; **576 CY is an audit year**); Publications submitted.
 - **Sunsebb** — the pass closes; the station winters on what it has.
 
 ## Discipline

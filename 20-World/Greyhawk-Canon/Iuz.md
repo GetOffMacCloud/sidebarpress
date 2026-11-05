@@ -57,7 +57,7 @@ aliases: [Iuz, the Old One, Old Wicked]
 
 ## Contradictions
 - **Iuz free in 576?** The A Tourist In Greyhawk *Player Gazetteer* says he "has not yet returned." **Ruled (Greybeard): free since 570, per canon.**
-- **The Wolf Nomads.** WGR5 p. 20 says they are "not at war with Iuz and never have been," and that the two sides trade and spy on each other. The vault's [[Wolf-Nomads]] note says they are hostile by 576 (Iuz claims their Howling Hills burial grounds) and crush Iuz's army at Blackwater Bend in 578 (*Dragon* #56). **Unresolved: Greybeard to rule.** The Shadow on the Quag uses the Wolf Nomad shore as Vesharan's road north either way.
+- **The Wolf Nomads.** WGR5 p. 20 says they are "not at war with Iuz and never have been," and that the two sides trade and spy on each other. The vault's [[Wolf-Nomads]] note says they are hostile by 576 (Iuz claims their Howling Hills burial grounds) and crush Iuz's army at Blackwater Bend in 578 (*Dragon* #56). **Ruled (Greybeard, 2026-11-05): hostile**, following the vault note. WGR5's account describes the uneasy truce after the Wars and doesn't apply in 576. Iuz's agents cross Wolf Nomad country as smugglers, using bought or tethered guides.
 - **Boneheart membership dates.** WGR5 lists the circles as of about 584. Members it says rose after the Wars (Null, Jumper, Xenvelen) are not used before 582. Other members' 576 rank is undated.
 
 ## Sidebar Press Stance
