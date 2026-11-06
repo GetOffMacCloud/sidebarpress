@@ -31,3 +31,6 @@ aliases: [the University Forge, Hogar's Forge]
 
 ## Source
 [[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-07
+
+## Adventure Use
+- [[SP-SQ-01-The-Gaolers-Link]]: Hogar's lead box and the false Link; Scenes 03, 07

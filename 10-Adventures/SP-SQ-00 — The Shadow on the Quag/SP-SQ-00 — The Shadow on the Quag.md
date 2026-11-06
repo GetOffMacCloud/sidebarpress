@@ -18,7 +18,7 @@ Five jobs for Greyhawk University students at levels 3–4, from Brewfest 576 to
 ## The Five Jobs
 | Code | Title | When | APL | Job | Kit |
 |---|---|---|---|---|---|
-| SP-SQ-01 | The Gaoler's Link | Brewfest 3–5, 576 | 3 | Heist and double-cross | [[SP-SQ-01 — Bestiary]] |
+| SP-SQ-01 | [[SP-SQ-01-The-Gaolers-Link\|The Gaoler's Link]] (**drafted** 2026-11-05) | Brewfest 1–5, 576 | 3 | Heist and double-cross | [[SP-SQ-01 — Bestiary]] |
 | SP-SQ-02 | Tethers | Patchwall 576 | 3 | Mole hunt and burglary | [[SP-SQ-02 — Bestiary]] |
 | SP-SQ-03 | The Molag Contract | Ready'reat 576 | 4 | City heist in Schwartzenbruin | [[SP-SQ-03 — Bestiary]] |
 | SP-SQ-04 | The Quiet Cargo | Ready'reat–Sunsebb 576 | 4 | Smuggling run to Philidor | [[SP-SQ-04 — Bestiary]] |

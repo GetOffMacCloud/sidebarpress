@@ -31,6 +31,7 @@ Warm to children and customers, flat as still water to officials. Speaks Common,
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-02, RG-03, RG-04, RG-05, RG-06
+- [[SP-SQ-01-The-Gaolers-Link]]: the Landing; the Hecht's stores; Scenes 01, 03, 07
 
 ## Continuity
 Record whether a party learns about the northbound crate, and what Yeska does when they do. → [[Faction — The Quag Bargemen]]

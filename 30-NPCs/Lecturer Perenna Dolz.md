@@ -30,3 +30,4 @@ Wry and impatient with vague questions. Treats divination as a craft, not a myst
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-09
+- [[SP-SQ-01-The-Gaolers-Link]]: the fog in her scrying; reads Fesch's hand; Scenes 03, 07, 08

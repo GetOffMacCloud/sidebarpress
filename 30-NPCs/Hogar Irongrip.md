@@ -305,3 +305,6 @@ dv.paragraph("```mermaid\n" + lines.join("\n") + "\n```");
 | Date (CY) | Party | Summary of Interaction |
 | :--- | :--- | :--- |
 | | | |
+
+## Appearances
+- [[SP-SQ-01-The-Gaolers-Link]]: made the Ashbox; forges the false Link; Scenes 03, 07

@@ -27,3 +27,4 @@ Karet appears inline in the campaign vault's **The Fiend's Rest Public House** n
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-02, RG-03, RG-04, RG-05
 - [[SP-PBS-01-The-False-Arrow]] — Scene 0 (the Job Board)
+- [[SP-SQ-01-The-Gaolers-Link]]: keeper of the Fiend's Rest; listens to the terms; Scene 02

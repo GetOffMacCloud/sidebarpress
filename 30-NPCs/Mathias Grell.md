@@ -30,3 +30,4 @@ Fair, humourless, and respected. Never raises his voice; writes everything down.
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-02, RG-04, RG-08, RG-09
+- [[SP-SQ-01-The-Gaolers-Link]]: the Proctor; the inquiry; Scenes 05, 08

@@ -7,6 +7,10 @@ The master index of every ongoing storyline across Sidebar Press adventures. Ind
 |--------|---------------|--------|
 | [[The War Iuz Wants]] | [[SP-PBS-01-The-False-Arrow]] | Iuz's agent Kezrin armed the Tiger Nomads' war faction and staged Wolf-arrow murders; the Wolf raider Yulbar was paid to thin the Tiger's herds. Iuz wants Tiger and Wolf to bleed each other white. |
 | [[The Nine Chiefs of the Clatspurs]] | [[SP-PBS-02-The-Bones-of-the-Dreadverge]] | A Nerullite cell in Schwartzenbruin is opening nine Flan chieftain-barrows in the Clatspurs to raise their guardian dead as a host. One opened; eight remain. |
+| [[Kermin's Tethers]] | [[SP-SQ-01-The-Gaolers-Link]] | Kermin Mind-Bender's agents hold Ritterstadt people with bone tethers; Brandmeier was only the first found. |
+| [[The Girl on the Levy]] | [[SP-SQ-01-The-Gaolers-Link]] | Kermin wants Liesl Amsel, a gifted Probationer, for his school of mages. |
+| [[The Molag Seal]] | [[SP-SQ-01-The-Gaolers-Link]] | A Kermin agent's letter carries a Horned Society seal forged with Panshazek's tools: two arms of Iuz, one prize. |
+| [[Who Keeps the Link]] | [[SP-SQ-01-The-Gaolers-Link]] | The relic that blinds Iuz is in Ritterstadt, and now Iuz knows it. |
 
 ## Advancing
 | Thread | Last Seen In | Next Planned |

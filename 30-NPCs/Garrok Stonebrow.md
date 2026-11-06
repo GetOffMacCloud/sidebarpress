@@ -30,3 +30,4 @@ Loud on the yard, quiet off it. Counts every student's mistakes and forgives the
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-08, RG-09
+- [[SP-SQ-01-The-Gaolers-Link]]: turns out at Alert; Scene 05

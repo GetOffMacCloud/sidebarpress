@@ -30,6 +30,7 @@ Noncombatant. **Commoner** (MM p. 345) with Intelligence 15 and proficiency in I
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-02, RG-04, RG-08, RG-09
+- [[SP-SQ-01-The-Gaolers-Link]]: holds the sealed-stacks key at the Warden's dinner; Scenes 03, 05
 
 ## Continuity
 Record which sealed files have been opened, by whom, and under whose order.

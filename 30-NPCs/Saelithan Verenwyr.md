@@ -30,3 +30,4 @@ Noncombatant. **Mage** (MM p. 347) if pressed; she prefers not to be pressed nea
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-08, RG-09
+- [[SP-SQ-01-The-Gaolers-Link]]: the Archive by day; Scene 03

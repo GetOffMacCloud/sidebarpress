@@ -131,6 +131,7 @@ views:
 ## Adventure Use
 - [[SP-PBS-01-The-False-Arrow]] — Scene 0 (Kartner reads Brennin's request from the Job Board)
 - [[SP-PBS-03-The-Red-Cord]] — Hook 1 (Goldwaage's commission under the Warden's seal)
+- [[SP-SQ-01-The-Gaolers-Link]]: the terms are struck at a back table; Scene 02
 
 # Rumours
 

@@ -55,5 +55,21 @@ File: `99-Assets/SP-SQ/handouts/The Gaoler's Link — Handout.png`
 a single heavy black iron chain link the size of a fist lying on a square of felt, its curved surface carved with six small engraved emblems spaced around it, a cudgel on a starburst, twin zigzags, pan-pipes, a rounded six-pointed star, a disk with an upward arrow, and nine swords in a ring, frost-like stippling at its edges to suggest cold, full object centered with clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, small solid black cast shadow beneath it, no background, high contrast black and white line art --ar 4:3 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
+## Scene Plates
+**S01, Brewfest on the Landing.** File: `99-Assets/SP-SQ/plates/SP-SQ-01 — Brewfest on the Landing.png`
+```
+a lakeside quay at a harvest beer festival, trestle tables under strings of hop-garlands, a broad merchant in a fur-trimmed coat raising a tankard, a thin clerk writing in a ledger beside him, a single-masted cog with a furled sail at the end of the quay, smoke drifting from a smokehouse, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+
+**S05, The Night of the Warden's Dinner.** File: `99-Assets/SP-SQ/plates/SP-SQ-01 — The Sealed Stacks.png`
+```
+a dark archive interior at night, rows of shelves with sealed boxes, an iron grille wall with an open padlocked gate, a giant stuffed pike tearing itself from its wall mount, two young students with no lantern crouched by a small iron coffer on a stone plinth, only faint moonlight from a narrow window, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+
+**S06, Brandmeier's Waking.** File: `99-Assets/SP-SQ/plates/SP-SQ-01 — Brandmeier's Waking.png`
+```
+the open hold of a small lake ship in thick fog, a single lantern, a broad merchant staring at his own hand in confusion, a thin young man in a clerk's coat half turning away, a small grinning imp perched on a crate with smoke rising from its clawed hands, a lead box open on a crate, students on the ladder above, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+
 ## Still to write
-Scene prompts (Brandmeier's Waking in the fog-bound hold; the Archive at night) and the map briefs.
+Cover plate; map briefs are in [[SP-SQ-01 — Map Assets]].
