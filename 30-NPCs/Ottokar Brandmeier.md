@@ -13,6 +13,8 @@ aliases: [Brandmeier, Herr Brandmeier, Ottokar]
 > A Schwartzenbruin merchant in furs, salt and copper. Since Flocktime he has been tethered: a bone pin in his collar makes his clerk's suggestions into his own memories.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Ottokar Brandmeier.png|300]]
+
 Broad and red-faced, in a fur-trimmed coat; a big laugh. He used to sing at the tiller.
 
 ## Personality & Mannerisms

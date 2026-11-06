@@ -4,7 +4,7 @@ adventure: "SP-SQ-01"
 section: act-2
 publish_order: 140
 publish: true
-status: drafted
+status: edited
 scene: 4
 session: 1
 ---
@@ -56,7 +56,7 @@ The stacks. The pike is the guardian (A5); the coffer is on its own plinth at th
 **Treasure:** the sealed files, which must stay shut (see Laws).
 
 **A5. THE ARCHIVE PIKE**
-The pike was mounted on a guardian's frame by a long-dead antiquarian with a sense of humor. It is a **[[Trophy Guardian]]** (1). It animates if the coffer is moved without the watchword, **"by leave of the Registrar."**
+The pike was mounted on a guardian's frame by a long-dead antiquarian with a sense of humor. It is a **[[Trophy Guardian]]** (1). It animates if the coffer is opened or moved without the watchword, **"by leave of the Registrar."**
 **Tactics:** it blocks the grille rather than chasing, bites and drags its victim toward its board, and returns to the wall when it hears the watchword. Each round of combat is **+1 Heat**.
 **Development:** the Vogelsang lead gives the watchword automatically; the Registrar lets it slip on a DC 14 Persuasion at the counting-room.
 

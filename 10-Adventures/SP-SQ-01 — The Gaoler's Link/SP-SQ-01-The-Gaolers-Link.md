@@ -5,7 +5,7 @@ section: overview
 publish_order: 10
 publish: true
 title: "The Gaoler's Link"
-status: draft # draft | playtesting | editing | published
+status: editing # draft | playtesting | editing | published
 levels: "2-4"
 party_size: "4-6"
 estimated_hours: 4
@@ -13,7 +13,8 @@ setting: Greyhawk
 region: "Ritterstadt: the Greyhawk University Field Station (the Archive, the Station House) and the Landing"
 in_world_date: "Brewfest 1–5, 576 CY"
 created: 2026-11-05
-fg_module: ""
+fg_module: "FGU Kit/SP-SQ-01 The Gaoler's Link.mod"
+cover: "99-Assets/SP-SQ/cover/SP-SQ-01-cover.png"
 series: "SP-SQ-00 — The Shadow on the Quag (part 1 of 5)"
 tags: [one-shot, heist, double-cross, iuz, boneheart, ritterstadt, greyhawk-university, lake-quag, perrenland, shadow-on-the-quag]
 ---
@@ -59,6 +60,7 @@ New for Sidebar Press (2026-11-04/05). Built from the project doc `claude/SP-SQ-
 - **What's in the stacks.** The crate held **[[The Gaoler's Link]]**, one link of the fetter that held Iuz in Castle Greyhawk from 505 to 570, cut with the sigils of the six who imprisoned him. It lies in a warded coffer in the sealed stacks. Only [[Professor Casimir Vogelsang]] (its keeper of record), [[Registrar Hedwig Ammerlin]], [[Rektor Albrecht Weissmantel]] and the Chancellor's office know what it is.
 - **What it does.** Divination can't perceive anything within 30 feet of it; enchantments laid by Iuz's servants fail near it; and it burns any hand sworn to Iuz. Full rules: [[The Gaoler's Link]].
 - **Who the clerk is.** "Herr Fesch" is **[[Dawud Vesharan]]**, a [[Tether-Mage]] in the service of **Kermin Mind-Bender** of Iuz's Greater Boneheart. He traced the Link to a manifest that said "Ritterstadt." His divinations show only a hole where the Archive stands, and he can't touch the Link. So he needs untainted hands to find it, take it, and lay it in his **[[The Ashbox|Ashbox]]**.
+- **Why students.** Vesharan can't find the Link by magic, can't touch it, and can't send his thralls, because a tethered man wakes the moment the coffer opens. Outsiders can't walk into the Field Station after dark either. Students can do all of it, and the Link won't burn them.
 - **Brandmeier is tethered.** A **[[Bone Tether]]** in his collar has made Vesharan's suggestions into his own memories since Flocktime. The "family reliquary" is one of them. **Within 30 feet of the unboxed Link, the tether fails** and he wakes.
 - **Where the *Hecht* is really going.** Her papers say Schwartzenbruin. Her stores are laid in for a winter run up the lake's northern shore into hostile Wolf Nomad water, with a bought, tethered pilot ([[Tegin]]), and on overland to the Vesve margin and Dorakaa.
 
@@ -66,7 +68,7 @@ New for Sidebar Press (2026-11-04/05). Built from the project doc `claude/SP-SQ-
 1. **Brewfest 1–2.** Brandmeier makes his offer to students who look capable, broke or bored.
 2. **Brewfest 2–3.** The students case the Field Station. [[Snick]], invisible, watches and reports.
 3. **Brewfest 3, night (the Warden's dinner).** The theft. If the PCs refused, the Weil cousins do it (Decline path).
-4. **Brewfest 4, before dawn.** The handover aboard the *Hecht*; the Ashbox open in the hold.
+4. **Brewfest 4, before dawn.** The handover at the foot of the *Hecht*'s gangplank: Fesch alone on the quay with the open Ashbox, and Brandmeier kept aboard, out of range.
 5. **Brewfest 4, dawn.** The *Hecht* sails. If the students look like a risk, Snick is left behind to poison their ale at the Fiend's Rest.
 6. **Brewfest 5.** Vogelsang finds the coffer empty; [[Mathias Grell]] opens an inquiry. Anyone seen near the Archive is suspended from the Board. The Link reaches Dorakaa by Sunsebb.
 
@@ -191,12 +193,15 @@ Full text in [[Scene 08 — Dawn on the Landing]].
 **Deviations (house, endorsed):** the Gaoler's Link (provenance, blind spot, burn), Kermin in the Greater Boneheart by 576, tether-mages and bone tethers, the Ashbox, the six sigil designs and their powers. Reasoning in [[Iuz#Sidebar Press Stance]]. The Warden's Brewfest Dinner and Vogelsang's custody of the Link are house additions to the Field Station.
 
 ## Fantasy Grounds Build
-Not started. Build as a reference manual (house rule), not story entries.
-- [ ] Reference manual chapters (one per scene, in index order)
-- [ ] Encounters: the Archive Pike (S05); the Handover (S06); the *Hecht* (S07)
-- [ ] NPCs: from the FGU Import sections of [[Tether-Mage]], [[Tethered Sleeper]], [[Trophy Guardian]]; stock quasit, scout, guard, noble, veteran
+v1 was built on 2026-11-06 by `FGU Kit/build/module.py` and installed as `SP-SQ-01 The Gaoler's Link.mod`. It is a reference manual (house rule), not story entries, and it has no maps or scene art yet. Rerun `python3 module.py --install` after the art lands in `99-Assets/SP-SQ/`: `plates/` and `maps/` are picked up automatically, and maps named `…archive…` or `…hecht…` attach to their encounters.
+- [x] Reference manual: Introduction (7 pages), Acts 1–4 (one page per scene, plus Rewards), and Appendices (Bestiary, Magic Items, 4 handouts)
+- [x] Encounters, one per APL: the Archive Pike (E5a–c), Caught by the Gate Rota (E5d), the Handover (E6a–c), the Hold (E7a–b), and the minion packs M5 and M6
+- [x] NPCs: Vesharan, the Tethered Sleeper, the Archive Pike (APL 2 and 3) and the lake gar, both minions; SRD quasit, noble, scout, veteran, guard and bandit, renamed and dressed
+- [x] Items: the Gaoler's Link, the Ashbox, the Bone Tether, the Omen-Taper, the Rubbing of the Six, the potion of water breathing
 - [ ] Maps: the Archive, the Landing and the *Hecht*
-- [ ] Handouts flagged shareable (the deed; the cipher letter; the provenance slip; the sigils)
+- [x] NPC portraits and tokens (15; `99-Assets/SP-SQ/portraits` and `tokens`; on NPC records, the Cast page and scene pages), 2026-11-06
+- [ ] Scene plates
+- [x] Verified in FGU, 2026-11-06: all records load; book index, page sidebars, encounter→NPC links and statblocks checked
 
 ## Playtest Notes
 No sessions yet. Log in `80-Sessions`.

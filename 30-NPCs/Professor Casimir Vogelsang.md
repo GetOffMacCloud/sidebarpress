@@ -20,6 +20,8 @@ A **placeholder department head** in the campaign vault's `04 — Department of 
 **Major:** Archaeology · **Minors:** Epigraphy & Iconography · Appraisal & Provenance. His lecturer: [[Lecturer Fennimore Tock]] (Epigraphy & Iconography). Appraisal practicals are held at [[The Assay House]].
 
 ## Appearance
+![[SP-SQ-01 Portrait - Casimir Vogelsang.png|300]]
+
 Forties, handsome and knows it, City-of-Greyhawk tailoring under a field coat, gloves he removes only to touch a relic.
 
 ## Personality & Mannerisms

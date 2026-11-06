@@ -17,6 +17,7 @@ The adventure runs on one law, one economy and two sets of alert states. Put the
 Full rules on [[The Gaoler's Link]]. The table version:
 - **The blind spot (30 ft).** Divination can't perceive anything near the unboxed Link, whoever casts it. Scrying shows grey fog.
 - **The broken tether (30 ft).** Enchantments laid by Iuz's servants are suppressed. A tethered creature is incapacitated until the end of its next turn, then wakes, confused, and stops fighting.
+- **The ache (30 ft).** A creature sworn to Iuz feels the unboxed Link nearby as a cold ache behind the eyes, and hangs back.
 - **The burn.** A creature sworn to Iuz that touches it takes 2d6 radiant damage and must drop it (DC 13 Constitution save to hold on, taking the damage again each turn).
 - **The Ashbox** seals all of it, and lets Iuz's divinations find the box again.
 
@@ -60,7 +61,7 @@ Track it openly, with a die on the table.
 - **Alert** (the students go to Vogelsang, Dolz, Grell or Hask, or capture Snick). He tries to have the Link taken *from* the students by his tethered bargemen, then sails at once.
 
 ## Snick's Watch
-Each day of Scene 03, Snick shadows one PC (DM's choice: whoever is doing the most interesting legwork). Spotting it takes a **DC 15 Wisdom (Perception)** check: a draft, a flicker, a whispered giggle. If it isn't spotted, Vesharan learns what that PC did. **Once the party holds the unboxed Link, Snick can't see them at all,** and it hisses about it.
+Each day of Scene 03, Snick shadows one PC (DM's choice: whoever is doing the most interesting legwork). Spotting it takes a **DC 15 Wisdom (Perception)** check: a draft, a flicker, a whispered giggle. If it isn't spotted, Vesharan learns what that PC did. **Once the party holds the unboxed Link, Snick won't come within 30 feet of them** (the ache), and Vesharan can't see through its eyes near them anyway. It hisses about it.
 
 ## Table Card
 ```

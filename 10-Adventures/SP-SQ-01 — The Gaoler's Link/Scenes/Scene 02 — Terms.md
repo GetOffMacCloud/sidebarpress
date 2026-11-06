@@ -4,7 +4,7 @@ adventure: "SP-SQ-01"
 section: act-1
 publish_order: 120
 publish: true
-status: drafted
+status: edited
 scene: 2
 session: 1
 ---
@@ -28,7 +28,7 @@ As Scene 01. [[Karet]], the Fiend's Rest's keeper, is wiping the same mug for th
 ## Beats
 
 ### The offer
-- **Pay:** **5 marks each**, half now. The mark is the gold piece, and a laborer earns 3 kleinmarks a day, so this is more than two weeks' wages for an hour's work: generous enough to tempt, and generous enough that a careful student asks why. **DC 14 Charisma (Persuasion)** raises it to 8 marks, after a nod from Fesch.
+- **Pay:** **5 marks each**, half now (2 marks and 5 kleinmarks in the hand). The mark is the gold piece, and a laborer earns 3 kleinmarks a day, so this is more than two weeks' wages for an hour's work: generous enough to tempt, and generous enough that a careful student asks why. **DC 14 Charisma (Persuasion)** raises it to 8 marks, after a nod from Fesch.
 - **The hint:** Brandmeier "knows a Schwartzenbruin house that hires University graduates." (True. It is his own. He doesn't remember that he said it.)
 - **The job as he describes it:** the coffer, the sealed stacks behind the grille in the Archive, the handover aboard the *Hecht* before dawn on Brewfest 4.
 
@@ -43,7 +43,7 @@ Brandmeier takes it graciously: *"Then drink the ale, and no hard feelings."* Fe
 
 ## Development
 - **The party takes the money** → half now, and the clock starts. Fesch writes their names in his ledger. They are now in Snick's watch ([[SP-SQ-01 — The Job#Snick's Watch]]).
-- **The party takes the money and plans to report it** → that's a fine plan; they still need to know enough to be believed. Vogelsang, told now, laughs: *"A Perrender wants an iron box? Let him want."* Give them Scene 03 to build the case.
+- **The party takes the money and plans to report it** → a fine plan. Told with nothing but a story, Vogelsang laughs (*"A Perrender wants an iron box? Let him want."*) and Grell logs it. Told with **any one of F1–F4**, the Field Station acts: go to the **Confession** approach in [[Scene 07 — Turning the Job]], and run Scene 05 as a **sting** (Vogelsang lets the "theft" happen while Hask waits at the Landing).
 - **The party asks to see the clerk's hands** → Fesch keeps his left hand gloved. The burn scar is under it (Scene 06).
 
 ## Clues Available Here
@@ -58,7 +58,7 @@ Brandmeier takes it graciously: *"Then drink the ale, and no hard feelings."* Fe
 
 ## Alternates
 - **The party haggles hard** → let them win 8 marks. The point is that they agree.
-- **A PC goes straight to the Proctor** → Grell takes a statement, says the Field Station will "keep an eye," and does nothing until Brewfest 5. Skip to Scene 03; the party knows they're on their own.
+- **A PC goes straight to the Proctor** → Grell takes a statement and asks for proof: *"Bring me one fact I can put in a ledger by the dinner, and I'll act on it."* He isn't ignoring them; he needs evidence. Run Scene 03 as evidence-gathering, and switch to the sting as soon as they bring him a fact.
 
 ## Transition
 Two days until the dinner. Go to [[Scene 03 — Legwork]].

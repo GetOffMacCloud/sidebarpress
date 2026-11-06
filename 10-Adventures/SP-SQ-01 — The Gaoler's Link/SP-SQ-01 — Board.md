@@ -38,13 +38,13 @@ publish: false
 
 ## 3 · Edit
 
-- [ ] Developmental edit: structure, pacing, railroad check
-- [ ] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max)
+- [x] Developmental edit: structure, pacing, railroad check ([[SP-SQ-01 — Developmental Edit]]; 11 findings applied 2026-11-06)
+- [x] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max) *(automated, 2026-11-06)*
 - [ ] Every read-aloud read aloud once; stumbles cut
-- [ ] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve
+- [x] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve *(2026-11-06)*
 - [ ] Canon Check table complete and page numbers verified against print (WGR5 pages; the four uncited sigil symbols)
-- [ ] Every scene `status: edited`
-- [ ] Playtest #1 run; session log in `80-Sessions`; fixes applied
+- [x] Every scene `status: edited` *(2026-11-06)*
+- [ ] Playtest #1 run; session log in `80-Sessions`; fixes applied *(a paper playtest is logged in the Developmental Edit; a real table is still needed)*
 - [ ] Every scene `status: final`
 
 
@@ -54,7 +54,7 @@ publish: false
 - [ ] Longform compile run; output saved as `SP-SQ-01 — Compiled.md`
 - [ ] Battlemaps (DM + Player) in `99-Assets/SP-SQ/`; Map Assets note written
 - [x] Art brief / Midjourney prompt pack started ([[SP-SQ-01 — Art Brief]])
-- [ ] Title block and cover art done
+- [x] Title block and cover art done (`99-Assets/SP-SQ/cover/SP-SQ-01-cover.png`; a print-resolution re-render is still due)
 - [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported
-- [ ] Fantasy Grounds module built and exported (reference manual; per FG checklist in adventure note)
+- [ ] Fantasy Grounds module built and exported (reference manual; per FG checklist in adventure note). v1 built and installed 2026-11-06, without maps or plates
 

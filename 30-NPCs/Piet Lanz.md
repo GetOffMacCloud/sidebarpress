@@ -13,6 +13,8 @@ aliases: [Piet Lanz]
 > A bargeman of the Graue Hecht, tethered since spring along with his master.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Hecht Bargeman.png|300]]
+
 Big, sunburned, a red wool cap with a bone pin through the band.
 
 ## Personality & Mannerisms

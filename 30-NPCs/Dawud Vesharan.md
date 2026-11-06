@@ -13,6 +13,8 @@ aliases: [Vesharan, Herr Fesch, Fesch, Dawud]
 > Kermin Mind-Bender's field agent, about 24, Bakluni, Ket-born, taken from a schoolroom at nine. In Ritterstadt he passes as "Herr Fesch," Ottokar Brandmeier's clerk. The recurring villain of the Shadow on the Quag.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Dawud Vesharan.png|300]]
+
 As Fesch: a thin Perrender clerk with ink on his cuffs and a glove on his left hand. As himself: a young Bakluni man with a close-trimmed beard, tired dark eyes, and a burn scar across his left palm from the one time he tried to hold a relic.
 
 ## Personality & Mannerisms

@@ -13,6 +13,8 @@ aliases: [the Registrar, Registrar Ammerlin, Hedwig Ammerlin]
 > Registrar of the Academic Registry: enrollment, the credit ledgers, declarations of major, and the sealed files. The station's conscience and its bureaucracy in one.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Hedwig Ammerlin.png|300]]
+
 Forty-four, Perrender, square-built, spectacles on a cord. A ring of keys at her belt that she never sets down, even at the Fiend's Rest.
 
 ## Personality & Mannerisms

@@ -4,7 +4,7 @@ adventure: "SP-SQ-01"
 section: act-1
 publish_order: 110
 publish: true
-status: drafted
+status: edited
 scene: 1
 session: 1
 ---
@@ -45,10 +45,13 @@ Brandmeier moves them out of the wind to a back table at [[The Fiend's Rest Publ
 
 He can describe the coffer exactly: black iron, a grey wax seal with a starburst and a cudgel. That description is Vesharan's, from a manifest.
 
+**A Cuthbertine at the table** knows that seal (DC 10 Religion). Asked why a family heirloom wears St. Cuthbert's seal, Brandmeier says *"Grandfather was devout,"* and glances at Fesch. It's a good catch, and a step toward **F1**.
+
 ### What a careful listener notices
 - **The dates don't work.** The Field Station charter is from **568** (it's framed in the Station House hall). "The University took it in 565" is three years before there was a University here. DC 10 Intelligence (History), or automatic for any student who has read the charter. **(F1 route.)**
 - **The repetition.** Asked for details (which saint, which chapel, what loan), Brandmeier repeats himself word for word and glances at Fesch. DC 14 Wisdom (Insight). **(F2 route.)**
 - **"The tide of the gate."** Fesch, fixing the time: *"Before dawn on the fourth, at the tide of the gate, as we say."* Lake Quag has no tide. Automatic for a Perrender PC; DC 12 Intelligence for anyone else. A wrong idiom from a man pretending to be a Perrender clerk.
+- **Magic.** *Detect magic* on Fesch shows an illusion aura (his *disguise self*), and on Brandmeier a faint enchantment at the collar. Either is a strong early route to **F3** or **F2**. Let it work; Fesch will notice the spell and go to Wary.
 - **Snick.** Anyone who sits near the honey cakes and succeeds on a DC 15 Wisdom (Perception) check sees a cake lose a bite by itself.
 
 ## Development

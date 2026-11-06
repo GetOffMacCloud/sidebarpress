@@ -13,6 +13,8 @@ aliases: [Snick]
 > Dawud Vesharan's quasit familiar: spiteful, talkative, greedy for sugar, and the arc's most reliable leak.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Snick.png|300]]
+
 A finger-thin green imp with a pot belly and a too-wide grin, usually invisible, usually eating something that isn't its own.
 
 ## Personality & Mannerisms

@@ -13,6 +13,8 @@ aliases: [Tegin]
 > A Wolf Nomad ice- and lake-pilot hired by "Fesch" for a run north. Tethered, and doesn't know it.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Tegin.png|300]]
+
 Lean, weathered, a braided horsehair cord at his throat with a lodestone on it.
 
 ## Personality & Mannerisms

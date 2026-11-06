@@ -13,6 +13,8 @@ aliases: [Perenna Dolz, Lecturer Dolz]
 > Lecturer in Divination & Omenry, Department of Arcane Studies. Ket-born Baklunish, thirty-nine. Reads the weather for the Landing and the omens for anyone who asks a better question.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Perenna Dolz.png|300]]
+
 Dark-eyed, quick, wrapped in a Ket shawl over her University gown, a pouch of knucklebones at her belt.
 
 ## Personality & Mannerisms

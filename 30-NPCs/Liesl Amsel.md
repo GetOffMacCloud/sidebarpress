@@ -13,6 +13,8 @@ aliases: [Liesl Amsel]
 > A Probationer working her labor levy in the Archive, with untrained wild talent. Kermin's real recruitment target.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Liesl Amsel.png|300]]
+
 Small, sharp-faced, ink on her fingers, always reading something she shouldn't.
 
 ## Personality & Mannerisms

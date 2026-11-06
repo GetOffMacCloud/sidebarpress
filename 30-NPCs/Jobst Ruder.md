@@ -13,6 +13,8 @@ aliases: [Jobst Ruder]
 > Master of the Graue Hecht, a Perrender lake-master in his fifties, loyal to Brandmeier and hostile to the clerk. Not tethered.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Jobst Ruder.png|300]]
+
 Weathered and slow-spoken; whittles while he watches the shore.
 
 ## Personality & Mannerisms

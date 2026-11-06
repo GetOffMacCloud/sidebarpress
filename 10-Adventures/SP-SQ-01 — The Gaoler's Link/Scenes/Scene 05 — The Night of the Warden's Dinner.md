@@ -4,7 +4,7 @@ adventure: "SP-SQ-01"
 section: act-3
 publish_order: 150
 publish: true
-status: drafted
+status: edited
 scene: 5
 session: 1
 ---
@@ -42,7 +42,7 @@ When the plan meets an obstacle, call for **one check**, or let a player spend a
 3. **Konstanz and Rudi Weil** are sneaking about too, with a crowbar and a bad plan (Fesch's backup). Rivals, witnesses or recruits, as the party prefers.
 4. Jens Ober stops on the palisade path to relieve himself in full view of the porch.
 5. Oswin Kettler, worried about the damp, heads for the map presses.
-6. Snick spooks a cat, which yowls (+1 Heat). If the party already holds the unboxed Link, Snick can't see them, and this result does nothing.
+6. Snick spooks a cat, which yowls (+1 Heat). If the party already holds the unboxed Link, Snick keeps its distance (the ache), and this result does nothing.
 
 ### Opening the coffer (A6)
 The moment the coffer opens, read the ESSENTIAL CLUE from A6: divination goes to fog, and a hiss comes from the grille as Snick loses the party. Then hand over [[SP-SQ-01 — Handout — The Provenance Slip]] if they lift the felt. **The Link is cold.** Anyone holding it feels it.

@@ -13,6 +13,8 @@ aliases: [the Proctor, Proctor Grell, Mathias Grell]
 > Proctor of Students. A former Traft watchman of thirty-six who keeps discipline, the gate rota, and the student organizations' charters from his room at the end of the Long Dormitory.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Mathias Grell.png|300]]
+
 Flan, lean, short-cropped hair, a watchman's leather coat he still wears, and a whistle on a cord.
 
 ## Personality & Mannerisms

@@ -4,7 +4,7 @@ adventure: "SP-SQ-01"
 section: act-4
 publish_order: 170
 publish: true
-status: drafted
+status: edited
 scene: 7
 session: 1
 ---

@@ -97,6 +97,7 @@ Three-clue rule: each conclusion has at least three routes.
 - **ESSENTIAL CLUE / last resort:** within 30 ft of the unboxed Link he forgets his own story mid-sentence (S06)
 
 **F3. Herr Fesch is the real client, and he serves Iuz**
+- [ ] *Detect magic* on Fesch: an illusion aura (S01)
 - [ ] Fesch won't pass the palisade gate (Hask, S03)
 - [ ] Dolz reads his hand: *"A Ket schoolroom hand."* (S03)
 - [ ] The cipher letter: a Horned Society seal and a skull-and-grin countermark (S07)

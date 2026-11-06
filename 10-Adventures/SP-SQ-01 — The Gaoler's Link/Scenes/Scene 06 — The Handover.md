@@ -4,7 +4,7 @@ adventure: "SP-SQ-01"
 section: act-4
 publish_order: 160
 publish: true
-status: drafted
+status: edited
 scene: 6
 session: 1
 ---
@@ -18,25 +18,27 @@ The reveal. Everything learned so far pays off here. **The scene turns on one qu
 **Budget:** 45 minutes. **Never cut this scene.** Running long? Open on the gangplank.
 
 ## Arrival
-> *Brewfest 4, before dawn. Fog lies on the lake like wool, and the Rhennee barges along the Landing are dark. The* Graue Hecht's *lantern is a yellow smear at the end of the quay. Two bargemen stand at the gangplank with their arms folded. Below, in the open hold, a lead box sits open on a crate, its lid lined with something grey.*
+> *Brewfest 4, before dawn. Fog lies on the lake like wool, and the Rhennee barges along the Landing are dark. The* Graue Hecht's *lantern is a yellow smear at the end of the quay, and two bargemen stand at her rail with their arms folded. At the foot of the gangplank, alone, Herr Fesch waits with a lead box open in his arms, its lid lined with something grey.*
 
-**To the table:** *"Fesch is at the hatch with his ledger. He says, 'Lay the piece in the box, please, and close the lid. The master's hands shake in the cold.' Who's carrying it?"*
+**To the table:** *"Fesch holds out the box. 'Lay the piece in here, please, and close the lid. The master is asleep aboard. No need to wake him.' Who's carrying it?"*
 
 ## Who Is Here
 - **[[Dawud Vesharan]]** as Fesch. *Wants:* the Link boxed. *Knows:* the laws of the Link. *Reacts:* see the escalation script below.
-- **[[Ottokar Brandmeier]]**, tethered, by the hatch, cheerful, cold.
-- **[[Piet Lanz]]** and **[[Arnold Fenn]]**, tethered bargemen at the gangplank.
-- **[[Snick]]**, invisible on a crate in the hold.
+- **[[Ottokar Brandmeier]]**, tethered, aboard at the far rail, about 40 feet from the quay. Vesharan keeps him out of range on purpose.
+- **[[Piet Lanz]]** and **[[Arnold Fenn]]**, tethered bargemen at the top of the gangplank, about 35 feet away, ready to come down.
+- **[[Snick]]**, invisible on a bollard near Fesch, keeping its distance from whoever smells of cold iron (the ache).
 - **[[Jobst Ruder]]**, under the awning, whittling, not tethered, not happy.
 - **[[Tegin]]**, the Wolf Nomad pilot, at the tiller (APL 4: he fights for pay).
 
 ## Beats
 
-### If the Link is boxed first
-The deal closes. Fesch pays the rest of the fee and shakes no one's hand. Brandmeier never wakes. The *Hecht* sails at dawn. If the party knows two or more of F1–F4, they can still act before the lines are cast off: go to [[Scene 07 — Turning the Job]]. If not, it is **Conclusion E** ([[Scene 08 — Dawn on the Landing]]).
+### If the Link is boxed on the quay
+The deal closes. Fesch pays the rest of the fee and shakes no one's hand. Brandmeier never wakes. The *Hecht* sails at dawn. If the party knows two or more of F1–F4, they can still act before the lines are cast off: go to [[Scene 07 — Turning the Job]].
 
-### If the Link comes aboard unboxed (even in a pocket)
-**Brandmeier's Waking.** Read when the Link comes within 30 feet of him:
+**Safety valve (Dolz).** The moment the Link is boxed, Lecturer Dolz's scrying clears for the first time in two years. She works out what that means and reaches the Landing, out of breath, as the lines come off: *"The fog's gone. Whatever was hiding in the Archive just left it. Was it you?"* The party gets one last chance: [[Scene 07 — Turning the Job]] (**Hold the boat** with Baba Yeska, or board her). If they shrug, it is **Conclusion E** ([[Scene 08 — Dawn on the Landing]]).
+
+### If the Link comes within 30 feet of Brandmeier
+This happens if the party carries it up the gangplank, insists on handing it to "the master" himself, or argues on the quay long enough (3 rounds) that Brandmeier comes down to see what's keeping them. **Brandmeier's Waking:**
 > *Brandmeier stops in the middle of a word and looks at his own hand as if he has never seen it. "Who — where is my ship? Where is my* wife*?" He stares at you, then at the thin shape at his elbow. "Who in all the hells is Fesch?"*
 
 At the same moment, Piet and Arnold blink, lower their arms, and look around as if waking on the wrong boat. **(F2 last resort; F1 last resort if Brandmeier is asked about his grandfather.)** Fesch, still disguised, says calmly: *"Box it, students."*

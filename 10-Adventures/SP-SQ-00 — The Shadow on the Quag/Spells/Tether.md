@@ -28,7 +28,7 @@ On a failed save, the target is charmed by the planter for 30 days, as long as t
 
 The effect ends early if the pin is removed, if the target is targeted by *remove curse* or a successful *dispel magic* (DC 15), or if the target is affected by [[Untether]]. It is suppressed while the target is within 30 feet of the unboxed [[The Gaoler's Link|Gaoler's Link]].
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, a tether planted on a target lasts 1 year instead of 30 days.
+***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the tether can be planted at any time within a year of its making, and a planted tether lasts 1 year instead of 30 days. Kermin makes his tethers this way, which is why an agent far from Dorakaa can carry a satchel of live pins, and why Brandmeier has held since Flocktime.
 
 ## Notes
 - **Villain magic.** Kermin Mind-Bender makes the tethers, and his tether-mages plant them (WGR5 p. 86: Kermin's mind-control specialty). A PC can learn *tether* only from a Kermin spellbook, and the DM should treat casting it as an evil act.

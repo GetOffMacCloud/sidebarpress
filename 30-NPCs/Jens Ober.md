@@ -13,6 +13,8 @@ aliases: [Jens Ober]
 > A Probationer on the gate rota, working off his first-term bond.
 
 ## Appearance
+![[SP-SQ-01 Portrait - Jens Ober.png|300]]
+
 Gangly, freckled, a lantern always held too high.
 
 ## Personality & Mannerisms

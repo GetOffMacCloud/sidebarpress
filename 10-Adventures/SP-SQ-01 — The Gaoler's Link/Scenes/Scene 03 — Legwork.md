@@ -4,7 +4,7 @@ adventure: "SP-SQ-01"
 section: act-2
 publish_order: 130
 publish: true
-status: drafted
+status: edited
 scene: 3
 session: 1
 ---
@@ -41,7 +41,7 @@ The open phase. The players choose leads, earn **Edges**, and gather the first r
 | **Vogelsang** | Attend his Brewfest lecture, "Provenance and Its Enemies," and steer the questions (DC 13 History or Insight) | He keeps the coffer key on his watch-chain and never drinks at the Warden's table; the guardian's watchword (he mutters it) | *"Some relics dislike being looked at. Some, I think, dislike being found."* (toward **F4**) |
 | **Lecturer Dolz** | Ask her about divination, or attend her omen class (automatic for a Divination & Omenry student) | An [[Omen-Taper of the Blind Spot]] on loan | *"Every scrying of the Archive comes back fog. I assumed my students were careless."* (**F4**). Shown Fesch's handwriting: *"That's a Ket schoolroom hand. Someone taught him young, and well."* (**F3**) |
 | **The *Hecht*** | Drink with the bargemen, or help unload (DC 12 Athletics or Persuasion) | The gangplank watch and the hold layout; Ruder's grudging goodwill | [[Piet Lanz]]: *"Master hasn't been right since spring. Lets the clerk sign for him."* (**F2**). Winter furs in the hold, for a run north. |
-| **Hogar's forge** | Bring Hogar work or a question (DC 12 Persuasion; automatic for a dwarf PC or anyone with Bitter Pass ties) | Hogar will forge a dummy coffer now, or a false Link later | *"Made a lead box for that clerk. Lid seals like a coffin. Wanted ash in the lining. Who seals a reliquary?"* (toward **F4**) |
+| **Hogar's forge** | Bring Hogar work or a question (DC 12 Persuasion; automatic for a dwarf PC or anyone with Bitter Pass ties) | Hogar will forge a dummy coffer now, or a false Link later | *"Made a lead box to a Perrender clerk's order. Sent the order by a boy, collected it at the Landing. Lid seals like a coffin. Who seals a reliquary?"* (toward **F4**) |
 | **The Landing and the gate** | Talk to Baba Yeska or Sergeant Hask (automatic) | The gate password for the dinner night, and where the gate-rota students drink | Hask: *"That clerk won't step inside the palisade. Pays a boy to carry his letters."* (**F3**). Yeska: *"A run to Schwartzenbruin, in Brewfest, in furs. With a Wolf pilot."* |
 
 **One Edge per lead,** maximum 4. Write down what each Edge *is*.
@@ -75,6 +75,7 @@ If any lead brings the party into the Archive, [[Liesl Amsel]] is shelving there
 ## Alternates
 - **The party tries to case the Archive at night now** → no dinner cover; Lax still, but any light in the windows is +2 Heat. Let them, and let it cost.
 - **The party ignores legwork and wants to go now** → fine. Run Scene 05 with no Edges and higher Heat.
+- **The party confesses during legwork** with a fact in hand → the job becomes a sting. Scene 05 runs with Vogelsang's blessing and no Heat; the real play moves to the quay (Scene 06) with the Field Station watching.
 
 ## Transition
 On the evening of Brewfest 3, the fiddles start in the Station House. Go to [[Scene 05 — The Night of the Warden's Dinner]], using [[Scene 04 — The Archive and the Sealed Stacks]] as the site key.

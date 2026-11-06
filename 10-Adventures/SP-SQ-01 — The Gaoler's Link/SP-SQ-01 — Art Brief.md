@@ -71,5 +71,24 @@ a dark archive interior at night, rows of shelves with sealed boxes, an iron gri
 the open hold of a small lake ship in thick fog, a single lantern, a broad merchant staring at his own hand in confusion, a thin young man in a clerk's coat half turning away, a small grinning imp perched on a crate with smoke rising from its clawed hands, a lead box open on a crate, students on the ladder above, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
+## Cover (approved)
+Approved by Greybeard, 2026-11-06. File: `99-Assets/SP-SQ/cover/SP-SQ-01-cover.png`
+
+![[SP-SQ-01-cover.png|360]]
+
+- **Scene:** the dawn handover on the Landing. Brandmeier offers the glowing Link, a student reaches for it, and Fesch waits with the open Ashbox. The *Graue Hecht* is in the fog behind them, with Brewfest torches along the quay.
+- **Color:** full color, a deliberate exception to the ink house style, for the cover only.
+- **Trade dress:** the Greyhawk UNV crest at the top (`greyhawk-unv-logo-transparent.png`). The type is Cinzel (code and title) and EB Garamond (subtitle), and the foot line reads "A Sidebar Press Adventure". There is no WotC logo.
+- **Layers:** `SP-SQ-01-cover-art-clean.png` is the text-free art, with Fesch's skin corrected from green to pale human. Use it for re-setting type in Canva or for the Kestrel edition (swap the crest).
+- **Before print:**
+  - [ ] Re-render at print resolution. The source is about 765×1024, upscaled 3×.
+  - [ ] Optional: make the student read as a young adult rather than about 12.
+
+## NPC Portraits & Tokens (approved)
+Approved by Greybeard, 2026-11-06. Made in Canva ("SP-SQ-01 NPC Portraits", 15 pages).
+- **Style (FGU portraits and tokens only):** anime-style cel shading blended with Disney animated-feature character appeal. Clean bold ink outlines, expressive eyes, dramatic lighting, painterly atmospheric backgrounds. Full color. Print plates stay in the ink house style.
+- **Files:** `99-Assets/SP-SQ/portraits/SP-SQ-01 Portrait - <Name>.png` (600 px) and `99-Assets/SP-SQ/tokens/SP-SQ-01 Token - <Name>.png` (280 px round, dark-bronze ring with a gold inner line).
+- **Cast:** Vesharan, Snick, Hecht Bargeman (Piet, Arnold), Tegin, Brandmeier, Ruder, Vogelsang, Dolz, Ammerlin, Grell, Liesl, Jens Ober, a generic Gate-Rota Probationer, the Archive Pike and the lake gar.
+
 ## Still to write
-Cover plate; map briefs are in [[SP-SQ-01 — Map Assets]].
+Map briefs are in [[SP-SQ-01 — Map Assets]].
