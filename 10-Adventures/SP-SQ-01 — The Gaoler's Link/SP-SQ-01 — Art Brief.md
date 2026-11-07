@@ -71,6 +71,28 @@ a dark archive interior at night, rows of shelves with sealed boxes, an iron gri
 the open hold of a small lake ship in thick fog, a single lantern, a broad merchant staring at his own hand in confusion, a thin young man in a clerk's coat half turning away, a small grinning imp perched on a crate with smoke rising from its clawed hands, a lead box open on a crate, students on the ladder above, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 
+**S02, Terms.** File: `99-Assets/SP-SQ/plates/SP-SQ-01 — Terms at the Fiend's Rest.png`
+```
+the back table of a low-beamed frontier tavern, a broad merchant in a fur-trimmed coat sliding a folded deed and a small purse across the table toward young students, a thin clerk standing at his shoulder, tankards, a hearth glowing behind, a carved fiend's head over the mantel, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+
+**S03, Legwork.** File: `99-Assets/SP-SQ/plates/SP-SQ-01 — Hogar's Forge.png`
+```
+a dwarf smith at a forge inside a timber palisade, holding up a heavy lead box with a coffin-like lid, students watching, a squat slate-roofed stone archive building beyond, a lake glimpsed past the stakes, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+
+**S07, Turning the Job.** File: `99-Assets/SP-SQ/plates/SP-SQ-01 — Into the Hold.png`
+```
+students climbing down a ladder into the hold of a small lake ship at night, hammocks with sleeping sailors, crates and bales of furs, a cramped stern cabin with an empty birdcage and a writing slope, an old sailor whittling on the deck above, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+
+**S08, Dawn on the Landing.** File: `99-Assets/SP-SQ/plates/SP-SQ-01 — Dawn on the Landing.png`
+```
+dawn over a misty lake beside a timber quay, empty festival trestles and fallen hop garlands, tired students sitting on the quay edge, a single-masted cog's sail small on the horizon, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, heavy solid black areas, scratchboard white line work, bold hand-inked contour lines, crosshatching for shadow, small adventurers for scale, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 26576 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+
+**Screen art (FGU and stream):** color versions of all eight scenes, in the anime/Disney portrait style, are in the Canva design "SP-SQ-01 Scene Art" and `99-Assets/SP-SQ/scenes/`. They're for the screen only; the ink plates above are the print set.
+
 ## Cover (approved)
 Approved by Greybeard, 2026-11-06. File: `99-Assets/SP-SQ/cover/SP-SQ-01-cover.png`
 
