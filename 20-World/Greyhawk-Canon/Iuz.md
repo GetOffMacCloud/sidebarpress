@@ -63,7 +63,7 @@ aliases: [Iuz, the Old One, Old Wicked]
 ## Sidebar Press Stance
 Deviations we endorse, with reasoning:
 
-- **The Gaoler's Link (house relic; [[The Gaoler's Link]]).** One link of the fetter that held Iuz from 505 to 570. Its six sigils are the six imprisoners' wards (WGR5 p. 5).
+- **The Gaoler's Link (house relic; [[The Gaoler's Link]]).** One link of the fetter that held Iuz from 505 to 570. Its six sigils are the six imprisoners' wards (WGR5 p. 5). House laws: blind spot, broken tethers, the Ache and the Ache's Shield (the sworn can't target its bearer within 30 ft), the Burn.
   - **Provenance.** It was dug out of the 570 cave-in (WGR5 p. 5), sold to Greyhawk University in 573, and sent to Ritterstadt in 574. Canon names no such relic; WGR5 leaves the imprisonment's artifacts unspecified.
   - **Blind spot.** Divination fails within 30 feet of it. This mirrors the third ebon skull, which Iuz "cannot detect" (WGR5 p. 75).
   - **The burn.** It burns hands sworn to Iuz. This is house material, from St. Cuthbert's ward.

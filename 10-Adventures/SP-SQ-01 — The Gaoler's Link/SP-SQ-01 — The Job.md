@@ -17,7 +17,7 @@ The adventure runs on one law, one economy and two sets of alert states. Put the
 Full rules on [[The Gaoler's Link]]. The table version:
 - **The blind spot (30 ft).** Divination can't perceive anything near the unboxed Link, whoever casts it. Scrying shows grey fog.
 - **The broken tether (30 ft).** Enchantments laid by Iuz's servants are suppressed. A tethered creature is incapacitated until the end of its next turn, then wakes, confused, and stops fighting.
-- **The ache (30 ft).** A creature sworn to Iuz feels the unboxed Link nearby as a cold ache behind the eyes, and hangs back.
+- **The ache (30 ft).** A creature sworn to Iuz feels the unboxed Link nearby as a cold ache behind the eyes, and hangs back. Within 30 feet it **can't target the Link's bearer** with an attack or a spell (areas, others, and range beyond 30 ft still work).
 - **The burn.** A creature sworn to Iuz that touches it takes 2d6 radiant damage and must drop it (DC 13 Constitution save to hold on, taking the damage again each turn).
 - **The Ashbox** seals all of it, and lets Iuz's divinations find the box again.
 

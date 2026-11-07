@@ -13,6 +13,8 @@ tags: [handout, clue]
 Back to [[SP-SQ-01-The-Gaolers-Link]] · Found in [[Scene 04 — The Archive and the Sealed Stacks]] (A6), under the felt
 
 ## Player Text
+![[SP-SQ-01 Handout - The Provenance Slip.png|420]]
+
 *(Two slips of good paper in a neat, sloped hand. The first is ruled like a catalogue card. The second is crowded with notes, some crossed out.)*
 
 > **ANTIQUITIES — SEALED STACKS — ITEM 574/1**

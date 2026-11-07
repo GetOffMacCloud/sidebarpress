@@ -13,6 +13,8 @@ tags: [handout, cipher, iuz]
 Back to [[SP-SQ-01-The-Gaolers-Link]] · Found in [[Scene 07 — Turning the Job]] (H3)
 
 ## Player Text
+![[SP-SQ-01 Handout - The Cipher Letter.png|420]]
+
 *(A single sheet of heavy paper, closed with black wax pressed with three curving horns. In the corner, a small mark in red ink: a skull, grinning.)*
 
 > MY MASTER IN THE HEART OF BONE
@@ -25,7 +27,9 @@ Back to [[SP-SQ-01-The-Gaolers-Link]] · Found in [[Scene 07 — Turning the Job
 
 ## The Key (DM)
 - **Cipher:** a simple Bakluni schoolroom shift: each letter moves forward by the position of the word in its line (1st word +1, 2nd +2, and so on). Breaking it takes a **DC 15 Intelligence** check, or a day with Lecturer Dolz or Tock, or *comprehend languages*.
-- **The plain text, as players should receive it once broken:**
+- **The plain text, as players should receive it once broken** (handout image below):
+
+![[SP-SQ-01 Handout - The Cipher Letter (Broken).png|420]]
 
 > *My master in the Heart of Bone —*
 > *The Link is found. The hole in the sky is the Archive.*

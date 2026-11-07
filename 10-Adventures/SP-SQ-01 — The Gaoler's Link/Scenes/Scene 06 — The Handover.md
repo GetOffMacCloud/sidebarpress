@@ -62,9 +62,9 @@ If Snick tries to take the Link, it shrieks as its claws smoke and drops it (the
 Statblocks: [[Tether-Mage]] (Vesharan), quasit (MM p. 63; Snick), [[Tethered Sleeper]] (bargemen), scout (MM p. 349; Tegin). See [[SP-SQ-01 — Bestiary]].
 **Terrain:** the deck (H1) and the open hold (H2), 10 feet below by ladder; the gangplank; fog beyond 30 feet (lightly obscured). The rail is the way out for anyone who can swim.
 **Tactics:**
-- **Vesharan** never touches the Link. He fights from range with *command* and *hold person*, uses Puppet's Shield every round he can, and keeps a crate between himself and any holy symbol.
+- **Vesharan** never touches the Link. He fights from range with *command* and *hold person*, uses Puppet's Shield every round he can, and keeps a crate between himself and any holy symbol. **The Ache's Shield:** within 30 feet of the unboxed Link he can't target its bearer, so he backs off to 35–60 ft before casting at the bearer, or works on everyone else. A bearer who closes on him shuts down his best spells against them; tell the players the first time he flinches away.
 - **The bargemen** wake the moment they come within 30 feet of the unboxed Link, and stop fighting. Carrying the Link toward them is a tactic; tell the players once.
-- **Snick** goes for the Link-bearer's hands and pays for it.
+- **Snick** can't attack the Link-bearer (the Ache's Shield), so it tries to snatch the Link instead: a contested Dexterity (Sleight of Hand) check against the bearer's Strength (Athletics) or Dexterity (Acrobatics). It pays for it either way (the Burn).
 - **At half hit points** Vesharan drinks his *potion of water breathing* and dives over the rail into the fog, making for the reed-shore. He is built to escape, but he can be stopped: grapple him, guard the rail, or put a PC in the water.
 **DM direction:** the fight ends when Vesharan is gone, captured or talking. Don't play it to the last hit point.
 

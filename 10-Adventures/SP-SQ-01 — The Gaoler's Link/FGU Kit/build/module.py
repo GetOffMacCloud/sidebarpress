@@ -32,6 +32,9 @@ NICE={'Cover':'Cover','item-gaolers-link':"Item — The Gaoler's Link"}
 for f in glob.glob(os.path.join(ASSETS,'handouts','Sigil *.png')):
     b=os.path.basename(f)[:-4]; NICE['handout-'+re.sub(r'[^a-z0-9]+','-',b.lower().replace(' — ',' ')).strip('-')]='Handout — '+b
 NICE.update(PORTN)
+HO={}
+for f in sorted(glob.glob(os.path.join(ASSETS,'handouts','SP-SQ-01 Handout - *.png'))):
+    n=os.path.basename(f)[:-4].split(' - ',1)[1]; k='ho-'+SL(n); stage(f,k); NICE[k]='Handout — '+n; HO[n]=k
 m.pretty=lambda n,_p=Mod.pretty: NICE.get(n,_p(n))
 m.images(STAGE,exclude=EXCLUDE_IMAGES)
 TOKF={}
@@ -154,8 +157,9 @@ m.page(A4,'Rewards, Endings & Continuity',conv(pick('Treasure & Rewards','Denoue
 m.page(AP,'Bestiary',conv(strip(body(BEST))),links=[m.N(k) for k in m.NPC])
 m.page(AP,'Magic Items',''.join('<h>%s</h>'%m.ITEMN[k]+itemdesc(f) for k,f in (('gaolerslink',"The Gaoler's Link"),('ashbox','The Ashbox'),('bonetether','Bone Tether'),('omentaper','Omen-Taper of the Blind Spot'),('rubbingofthesix','Rubbing of the Six'))),images=['item-gaolers-link'],links=[m.IT(k) for k in m.ITEM])
 for h in HAND:
-    six='Six Sigils' in h
-    m.page(AP,re.sub(r'^.*?Handout — ','Handout — ',os.path.basename(h)[:-3]),conv(strip(body(h))),images=SIG if six else [],links=[m.I(k) for k in SIG] if six else [])
+    hn=re.sub(r'^.*?Handout — ','',os.path.basename(h)[:-3]); six='Six Sigils' in h
+    hi=[HO[x] for x in sorted(HO) if x==hn or x.startswith(hn+' (')]; hi=[k for k in hi if k in m.IMG]
+    m.page(AP,'Handout — '+hn,conv(strip(nocallout(body(h),('art',)))),images=hi,links=[m.I(k) for k in hi]+([m.I(k) for k in SIG] if six else []))
 MAPS=[k for k in m.IMG if k.startswith('battlemap-')]
 if MAPS: m.page(AP,'Maps','<p>Battlemaps for Scenes 05–07. Calibrate the grid in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
 # ---- build ----

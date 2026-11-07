@@ -13,6 +13,8 @@ tags: [handout, forgery]
 Back to [[SP-SQ-01-The-Gaolers-Link]] · Given in [[Scene 02 — Terms]]
 
 ## Player Text
+![[SP-SQ-01 Handout - The Deed of Pledge.png|420]]
+
 *(Good rag paper, folded in four. Brown ink. At the foot, a seal drawn in ink: an open book above a crossed cudgel and quill.)*
 
 > **Be it known** that I, **Ulrich Brandmeier** of Schwartzenbruin, merchant, do pledge to the holder of this deed one **reliquary of iron, black, of the old work**, sealed in a coffer of iron with a seal of grey wax,

@@ -200,6 +200,7 @@ v1 was built on 2026-11-06 by `FGU Kit/build/module.py` and installed as `SP-SQ-
 - [x] Items: the Gaoler's Link, the Ashbox, the Bone Tether, the Omen-Taper, the Rubbing of the Six, the potion of water breathing
 - [ ] Maps: the Archive, the Landing and the *Hecht*
 - [x] NPC portraits and tokens (15; `99-Assets/SP-SQ/portraits` and `tokens`; on NPC records, the Cast page and scene pages), 2026-11-06
+- [x] Player handouts as images (deed, cipher letter and its broken text, provenance slip, Six Sigils rubbing; `99-Assets/SP-SQ/handouts/SP-SQ-01 Handout - *.png`), each on its handout page and shareable from the Images list, 2026-11-06
 - [ ] Scene plates
 - [x] Verified in FGU, 2026-11-06: all records load; book index, page sidebars, encounter→NPC links and statblocks checked
 

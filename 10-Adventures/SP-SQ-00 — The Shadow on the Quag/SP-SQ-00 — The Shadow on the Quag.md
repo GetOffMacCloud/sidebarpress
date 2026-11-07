@@ -33,6 +33,7 @@ Five jobs for Greyhawk University students at levels 3–4, from Brewfest 576 to
 - The **Warden's Brewfest Dinner** is now in the Field Station's Academic Calendar (RG-08, both vaults).
 - **576 CY is a Regents' audit year.** Commissioner Lucan Dray is in Ritterstadt for Patchwall, during SP-SQ-02.
 - **Coin:** the mark is the gold piece (kleinmark sp, pfennig cp, grossmark pp; [[Perrenland]], LGG p. 85).
+- **The Ache's Shield** (2026-11-06): within 30 ft of the unboxed Link, a creature sworn to Iuz can't target its bearer with an attack or a spell (areas, other targets and range beyond 30 ft still work). Full text: [[The Gaoler's Link]]. **Carry it forward:** in SP-SQ-04, Kermin's hunters must strike the bearer from range or hit the others. In SP-SQ-05, the hired fiend and the [[Leash Fiend]] are sworn, so design their tactics around it: grapples on companions, area attacks, or making someone else carry the Link.
 
 ## Canon Check (arc-wide)
 - [x] Iuz references verified against [[Iuz]] (new lore note, 2026-11-05)

@@ -13,6 +13,8 @@ tags: [handout, art]
 Back to [[SP-SQ-01-The-Gaolers-Link]] · Shown in [[Scene 05 — The Night of the Warden's Dinner]] (when the coffer opens) and with the [[Rubbing of the Six]]
 
 ## Player Text
+![[SP-SQ-01 Handout - The Six Sigils.png|420]]
+
 *(Show the art: the six sigils as a charcoal rubbing, in a ring.)*
 
 > [!art]+ The Six Sigils

@@ -97,7 +97,7 @@ The structure holds. It is a situation, not a plot:
 - [ ] **Read every read-aloud aloud once** at your table pace and cut the stumbles. Most likely to need it: the Scene 06 arrival box (just rewritten) and Brandmeier's Waking.
 - [ ] **Playtest #1** at a real table; log it in `80-Sessions` (template: `90-Templates/Session-Log`).
 - [ ] **Canon page check against print:** WGR5 pp. 3, 5, 15, 75, 86, 89–90 and LGG p. 85 in the main note's Canon Check, plus the four uncited sigil symbols.
-- [ ] **Design call (optional):** should the Ache also stop Vesharan from targeting the Link-bearer with *hold person* from closer than 30 feet? As written he simply keeps his distance and casts from 30–60 ft, which keeps the fight playable. Change it only if you want the Link to work as a shield.
+- [x] **Design call — resolved (Greybeard, 2026-11-06): yes.** Added as **the Ache's Shield** on [[The Gaoler's Link]], in the Job's laws, and in Scene 06 tactics (Vesharan, Snick). *Original question:* should the Ache also stop Vesharan from targeting the Link-bearer with *hold person* from closer than 30 feet? As written he simply keeps his distance and casts from 30–60 ft, which keeps the fight playable. Change it only if you want the Link to work as a shield.
 
 ## Package (not this pass)
 Battlemaps (3), plates (3 scene prompts and 7 handout prompts in the Art Brief), the compiled draft, the Homebrewery brew and PDF, and the FGU reference manual.

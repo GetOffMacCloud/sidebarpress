@@ -56,5 +56,5 @@ publish: false
 - [x] Art brief / Midjourney prompt pack started ([[SP-SQ-01 — Art Brief]])
 - [x] Title block and cover art done (`99-Assets/SP-SQ/cover/SP-SQ-01-cover.png`; a print-resolution re-render is still due)
 - [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported
-- [ ] Fantasy Grounds module built and exported (reference manual; per FG checklist in adventure note). v1 built and installed 2026-11-06, without maps or plates
+- [ ] Fantasy Grounds module built and exported (reference manual; per FG checklist in adventure note). v2 built 2026-11-06, with portraits, tokens and handouts; still without battlemaps or scene plates
 
