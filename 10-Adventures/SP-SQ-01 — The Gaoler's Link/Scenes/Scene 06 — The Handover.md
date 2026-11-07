@@ -11,6 +11,9 @@ session: 1
 
 # Scene 06 — The Handover
 
+> [!art]+ Scene art (screen)
+> ![[SP-SQ-01 — S06 The Handover.png|600]]
+
 [[10-Adventures/SP-SQ-01 — The Gaoler's Link/Scenes/00 — Scene Index]] · ← [[Scene 05 — The Night of the Warden's Dinner]] · Next → [[Scene 07 — Turning the Job]]
 
 ## Purpose

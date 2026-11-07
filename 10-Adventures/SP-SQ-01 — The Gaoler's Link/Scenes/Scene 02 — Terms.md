@@ -11,6 +11,9 @@ session: 1
 
 # Scene 02 — Terms
 
+> [!art]+ Scene art (screen)
+> ![[SP-SQ-01 — S02 Terms.png|600]]
+
 [[10-Adventures/SP-SQ-01 — The Gaoler's Link/Scenes/00 — Scene Index]] · ← [[Scene 01 — Brewfest on the Landing]] · Next → [[Scene 03 — Legwork]]
 
 ## Purpose

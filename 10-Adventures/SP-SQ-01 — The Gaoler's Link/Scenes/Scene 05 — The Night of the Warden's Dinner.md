@@ -11,6 +11,9 @@ session: 1
 
 # Scene 05 — The Night of the Warden's Dinner
 
+> [!art]+ Scene art (screen)
+> ![[SP-SQ-01 — S05 The Sealed Stacks.png|600]]
+
 [[10-Adventures/SP-SQ-01 — The Gaoler's Link/Scenes/00 — Scene Index]] · ← [[Scene 04 — The Archive and the Sealed Stacks]] · Next → [[Scene 06 — The Handover]]
 
 ## Purpose

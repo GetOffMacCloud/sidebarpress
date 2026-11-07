@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-11-06T23:59:47.528Z",
-      "total": 88,
+      "total": 166,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -119,16 +119,16 @@
           }
         },
         "10-Adventures/SP-SQ-01 — The Gaoler's Link/Scenes/00 — Scene Index.md": {
-          "total": 88,
+          "total": 166,
           "scenes": {
-            "Scene 01 — Brewfest on the Landing": 0,
-            "Scene 02 — Terms": 0,
-            "Scene 03 — Legwork": 0,
-            "Scene 04 — The Archive and the Sealed Stacks": 0,
-            "Scene 05 — The Night of the Warden's Dinner": 0,
-            "Scene 06 — The Handover": 88,
-            "Scene 07 — Turning the Job": 0,
-            "Scene 08 — Dawn on the Landing": 0
+            "Scene 01 — Brewfest on the Landing": 11,
+            "Scene 02 — Terms": 8,
+            "Scene 03 — Legwork": 8,
+            "Scene 04 — The Archive and the Sealed Stacks": 11,
+            "Scene 05 — The Night of the Warden's Dinner": 10,
+            "Scene 06 — The Handover": 97,
+            "Scene 07 — Turning the Job": 10,
+            "Scene 08 — Dawn on the Landing": 11
           }
         },
         "10-Adventures/SP-PBS-03 — The Red Cord/Scenes/00 — Scene Index.md": {

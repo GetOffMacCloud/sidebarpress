@@ -11,6 +11,9 @@ session: 1
 
 # Scene 07 — Turning the Job
 
+> [!art]+ Scene art (screen)
+> ![[SP-SQ-01 — S07 Turning the Job.png|600]]
+
 [[10-Adventures/SP-SQ-01 — The Gaoler's Link/Scenes/00 — Scene Index]] · ← [[Scene 06 — The Handover]] · Next → [[Scene 08 — Dawn on the Landing]]
 
 ## Purpose

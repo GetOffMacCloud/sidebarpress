@@ -44,6 +44,9 @@ New for Sidebar Press (2026-11-04/05). Built from the project doc `claude/SP-SQ-
 - **Tone:** a frontier campus at festival time. Malt on the air, fiddle music from the Station House, a grey cog in the fog, and a box lined with bone-ash.
 
 ## Ritterstadt Color
+> [!art]+ Ritterstadt
+> ![[scene-ritterstadt.png|600]]
+
 - **Brewfest.** Brewers' stalls along the Landing, barrel-wrestling, pike smoked at the smokehouse. Malzer's ale at the Fiend's Rest; Lotte Kesselring's at the Grey Wolf; both houses say the other's is water.
 - **The Warden's Dinner.** The one night the whole faculty sits at one table, in the Station House hall under the Chancellor's portrait, from the first toast until the midnight bell.
 - **The Scholar's Oath.** *"I shall not steal manuscripts…"* It hangs in the Station House. Nobody reads it before signing. "Selling research property" is a standing offense (RG-08).

@@ -11,6 +11,9 @@ session: 1
 
 # Scene 04 — The Archive and the Sealed Stacks
 
+> [!art]+ Scene art (screen)
+> ![[SP-SQ-01 — S04 The Archive by Day.png|600]]
+
 [[10-Adventures/SP-SQ-01 — The Gaoler's Link/Scenes/00 — Scene Index]] · ← [[Scene 03 — Legwork]] · Next → [[Scene 05 — The Night of the Warden's Dinner]]
 
 ## Purpose

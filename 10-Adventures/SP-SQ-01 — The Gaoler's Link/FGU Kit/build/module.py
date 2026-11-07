@@ -22,6 +22,9 @@ SIG=[]
 for f in sorted(glob.glob(os.path.join(ASSETS,'handouts','Sigil *.png'))):
     n='handout-'+re.sub(r'[^a-z0-9]+','-',os.path.basename(f)[:-4].lower().replace(' — ',' ')).strip('-'); stage(f,n); SIG.append(n)
 for f in sorted(glob.glob(os.path.join(ASSETS,'plates','*.png'))): stage(f,'scene-'+re.sub(r'[^a-z0-9]+','-',os.path.basename(f)[:-4].lower().replace(CODE.lower(),'')).strip('-'))
+for f in sorted(glob.glob(os.path.join(ASSETS,'scenes','SP-SQ-01 — S0*.png'))):
+    b=os.path.basename(f)[:-4].split(' — ',1)[1]; stage(f,'scene-'+re.sub(r'[^a-z0-9]+','-',b.lower()).strip('-'))
+stage(os.path.join(VAULT,'10-Adventures','SP-PBS-01 — The False Arrow','images','scene-ritterstadt.png'),'scene-ritterstadt')
 for f in sorted(glob.glob(os.path.join(ASSETS,'maps','*.*'))): stage(f,'battlemap-'+re.sub(r'[^a-z0-9]+','-',os.path.basename(f).rsplit('.',1)[0].lower().replace(CODE.lower(),'')).strip('-'))
 SL=lambda n: re.sub(r'[^a-z0-9]+','-',n.lower()).strip('-')
 PORTN={}
@@ -54,8 +57,8 @@ MAIN=P(CODE+'-The-Gaolers-Link.md'); BEST=P('*Bestiary.md'); JOB=P('*The Job.md'
 SC=sorted(glob.glob(os.path.join(SRC,'Scenes','Scene 0*.md')))
 HAND=[P('*Handout — The %s.md'%x) for x in ('Deed of Pledge','Cipher Letter','Provenance Slip','Six Sigils')]
 strip=lambda s: re.sub(r'Back to \[\[[^\]]*\]\]','',s)
-M=sections(body(MAIN)); pick=lambda *n: '\n'.join('## %s\n%s'%(x,M[x]) for x in n if x in M)
-scene=lambda n: re.sub(r'^# .*\n','',body(SC[n]),count=1)
+M=sections(body(MAIN)); pick=lambda *n: nocallout('\n'.join('## %s\n%s'%(x,M[x]) for x in n if x in M))
+scene=lambda n: nocallout(re.sub(r'^# .*\n','',body(SC[n]),count=1))
 title=lambda n: re.sub(r'^.*?(Scene 0\d —)',r'\1',os.path.basename(SC[n])[:-3])
 def nocallout(t,kinds=('art',)):
     out=[];skip=False
@@ -137,7 +140,7 @@ I1,A1,A2,A3,A4,AP='Introduction','Act 1 — The Offer','Act 2 — Casing the Job
 X=sections(body(IDX)); xpick=lambda *n: '\n'.join('## %s\n%s'%(k,X[k]) for k in n if k in X)
 m.page(I1,'Cover','<p><b>APL 3 (levels 2–4) · 4–6 characters · one 4-hour session</b></p><p>A heist for 3rd-level characters. Part 1 of <i>The Shadow on the Quag</i>. A Sidebar Press adventure for the %s campaign frame.</p>'%FRAME,images=['Cover'])
 m.page(I1,'Credits & How to Run','<p><b>The Gaoler\'s Link</b> · %s · Sidebar Press. Creature statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0).</p><p><b>Battlemaps</b> (personal and stream use; Inkarnate community maps, CC BY-NC-SA 4.0): The Archive by Timo. The <i>Graue Hecht</i> (four decks): Mehujel. The Landing by Sidebar Press. Calibrate each map\'s grid in Fantasy Grounds (5-ft squares). Scene art is not in this version.</p>'%CODE+conv(pick('Date','Design Frame','Hook','PC Objectives (the plot, as goals rather than events)','Subplots (keyed to PCs; assign at the table)','Act Structure')))
-m.page(I1,'Background',conv(pick('Ritterstadt Color','What the Locals Know',"What's Really Happening","Vesharan's Scheme",'Climax at a Glance')),links=[m.N('vesharan'),m.N('brandmeier'),m.IT('gaolerslink')])
+m.page(I1,'Background',images=['scene-ritterstadt'],xml=conv(pick('Ritterstadt Color','What the Locals Know',"What's Really Happening","Vesharan's Scheme",'Climax at a Glance')),links=[m.N('vesharan'),m.N('brandmeier'),m.IT('gaolerslink')])
 m.page(I1,'Cast & Locations',conv(pick('Key NPCs','Key Locations')),images=[k for k in PORTN if k in m.IMG],links=[m.N(k) for k in ('brandmeier','vesharan','snick','ruder','tegin','sleeper','gaterota','weil')])
 m.page(I1,'The Job: Edges, Heat & Alert',conv(strip(nocallout(body(JOB),('art','info'))).split('\n# ',1)[-1]),links=[m.IT('gaolerslink'),m.IT('ashbox'),m.N('snick')])
 m.page(I1,'Running the Adventure',conv(xpick('Run Sheet','Spotlight Check','Standing Trackers','Clue Ledger (tick as found)','Nudge List')))

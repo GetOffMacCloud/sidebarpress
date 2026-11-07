@@ -11,6 +11,9 @@ session: 1
 
 # Scene 01 — Brewfest on the Landing
 
+> [!art]+ Scene art (screen)
+> ![[SP-SQ-01 — S01 Brewfest on the Landing.png|600]]
+
 [[10-Adventures/SP-SQ-01 — The Gaoler's Link/Scenes/00 — Scene Index]] · Next → [[Scene 02 — Terms]]
 
 ## Purpose
