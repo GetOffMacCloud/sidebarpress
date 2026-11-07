@@ -43,6 +43,37 @@ New for Sidebar Press (2026-11-04/05). Built from the project doc `claude/SP-SQ-
 - **Session spine:** **Edges and Heat**, the heist economy in [[SP-SQ-01 — The Job]]. Legwork earns Edges; mistakes raise Heat; Heat drives the Field Station and the *Hecht* through Lax, Wary and Alert.
 - **Tone:** a frontier campus at festival time. Malt on the air, fiddle music from the Station House, a grey cog in the fog, and a box lined with bone-ash.
 
+## Opening Narration
+*Read or paraphrase this at the start of the session, before Scene 01. It is longer than a keyed box on purpose: it sets the town, the week and the common knowledge. It reveals nothing from What's Really Happening.*
+
+> *The barge comes out of the morning mist with the Quag flat and grey around it, and Ritterstadt rises on the north shore the way the bargemen promised: a timber palisade on a low hill, a squat stone tower, smoke from two hundred chimneys and one smokehouse. Down at the water, the Landing is already loud. Rhennee barges crowd the quay, trestles stand in rows under strings of hop-garlands, and someone is rolling barrels toward a ring of shouting farmhands.*
+>
+> *It is the first of Brewfest, 576. For one week the brewers of the Uplands sell their year's work on the Landing, and Ritterstadt drinks it.*
+>
+> *Inside the palisade waits the Greyhawk University Field Station: the Station House with its hall and its counting-room, the forge, the long dormitory, and the Archive, a squat stone building with narrow windows and a slate roof. You are its students. The University pays you in credits, not coin, and on the Landing this week a student's purse is as light as a student's purse ever is.*
+>
+> *Everyone knows the shape of the week. Stalls every day. Barrel-wrestling every afternoon. Malzer's ale at the Fiend's Rest, Lotte Kesselring's at the Grey Wolf, and each house swears the other is selling lake water. On the third night the Warden gives his Brewfest dinner in the Station House hall, and every master and senior sits at one table under the Chancellor's portrait until the midnight bell.*
+>
+> *Everyone knows the rules, too. You signed the Scholar's Oath in the Station House, the one that begins "I shall not steal manuscripts." Selling University property is a standing offense. And no flame is ever carried into the Archive. The Archivist will smell it.*
+>
+> *And everyone has heard the talk. Two years ago a crate came up from the City under seal, guarded by two City Watchmen, and went into the Archive's sealed stacks behind the iron grille. Nobody saw what was in it; only the Registrar holds that key. A week ago a Perrender cog out of Schwartzenbruin, the* Graue Hecht, *tied up at the end of the quay with furs and salt. Her owner, a big, generous merchant named Brandmeier, has been buying copper and asking people about "the University's old things." His thin clerk does most of the talking.*
+>
+> *Farther off, past the lake and the hills, the old fear sits where it always does. The Old One has been free for six years. Up here, people say it quietly.*
+>
+> *The barge bumps the quay. A bargeman throws a line. The smell of smoked pike and new ale comes over the water to meet you.*
+
+**To the table:** *"What brings each of you down to the Landing on the first day of Brewfest?"* Then go to [[Scene 01 — Brewfest on the Landing]].
+
+**If the party already lives at the Field Station** (a continuing campaign), skip the first paragraph and open with: *"Brewfest has come to Ritterstadt again."*
+
+**What the players now know** (the common knowledge; everything else they must learn in play):
+- It is Brewfest week, 576 CY. The Warden's dinner is on the third night, with the faculty in the Station House hall until midnight.
+- They are Field Station students, paid in credits, bound by the Scholar's Oath. Selling University property is a standing offense.
+- The Archive allows no flame. Its sealed stacks sit behind an iron grille, and the Registrar holds the key.
+- A sealed crate came up from the City two years ago and went into those stacks.
+- The *Graue Hecht* came in a week ago. Brandmeier is asking about "the University's old things," and his clerk does most of his talking.
+- Iuz, the Old One, has been free since 570.
+
 ## Ritterstadt Color
 > [!art]+ Ritterstadt
 > ![[scene-ritterstadt.png|600]]
