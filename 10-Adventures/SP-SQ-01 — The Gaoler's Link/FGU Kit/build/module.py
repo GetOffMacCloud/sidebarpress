@@ -113,18 +113,18 @@ m.npc('bargemanminion','Hecht Bargeman (Enforcer Minion)','Medium','humanoid (hu
 addf('bargemanminion',conditionimmunities='frightened')
 for k,sl in (('vesharan','dawud-vesharan'),('snick','snick'),('sleeper','hecht-bargeman'),('bargemanminion','hecht-bargeman'),('tegin','tegin'),('brandmeier','ottokar-brandmeier'),('ruder','jobst-ruder'),('gaterota','mathias-grell'),('probationer','gate-rota-probationer'),('archivepike','archive-pike'),('archivepike2','archive-pike'),('lakegar','lake-gar')): settok(k,sl)
 # ---- encounters (one per APL band; scenes give APL 2/3/4 rows) ----
-MAP=lambda k: k if k in m.IMG else None
+MAP=lambda k: next((x for x in sorted(m.IMG) if x.startswith(k) and 'dm' not in x.split('-')),None)
 m.battle('E5a','05 The Archive Pike (APL 2)',[('archivepike2',1)],MAP('battlemap-archive'))
 m.battle('E5b','05 The Archive Pike (APL 3)',[('archivepike',1)],MAP('battlemap-archive'))
 m.battle('E5c','05 The Archive Pike (APL 4)',[('archivepike',1),('lakegar',1)],MAP('battlemap-archive'))
 m.battle('E5d','05 Caught by the Gate Rota (nonlethal)',[('gaterota',3)],MAP('battlemap-archive'))
-m.battle('E6a','06 The Handover (APL 2)',[('vesharan',1),('sleeper',1),('snick',1)],MAP('battlemap-hecht'))
-m.battle('E6b','06 The Handover (APL 3)',[('vesharan',1),('snick',1),('sleeper',2)],MAP('battlemap-hecht'))
-m.battle('E6c','06 The Handover (APL 4)',[('vesharan',1),('snick',1),('sleeper',2),('tegin',1)],MAP('battlemap-hecht'))
-m.battle('E7a','07 The Hold (APL 2-3)',[('sleeper',2)],MAP('battlemap-hecht'))
-m.battle('E7b','07 The Hold (APL 4)',[('sleeper',2),('tegin',1)],MAP('battlemap-hecht'))
+m.battle('E6a','06 The Handover (APL 2)',[('vesharan',1),('sleeper',1),('snick',1)],MAP('battlemap-hecht-1'))
+m.battle('E6b','06 The Handover (APL 3)',[('vesharan',1),('snick',1),('sleeper',2)],MAP('battlemap-hecht-1'))
+m.battle('E6c','06 The Handover (APL 4)',[('vesharan',1),('snick',1),('sleeper',2),('tegin',1)],MAP('battlemap-hecht-1'))
+m.battle('E7a','07 The Hold (APL 2-3)',[('sleeper',2)],MAP('battlemap-hecht-3'))
+m.battle('E7b','07 The Hold (APL 4)',[('sleeper',2),('tegin',1)],MAP('battlemap-hecht-3'))
 m.battle('M5','Optional - 05 Gate-Rota Probationer minion pack',[('probationer',4)],MAP('battlemap-archive'))
-m.battle('M6','Optional - 06-07 Hecht Bargeman minion pack',[('bargemanminion',4)],MAP('battlemap-hecht'))
+m.battle('M6','Optional - 06-07 Hecht Bargeman minion pack',[('bargemanminion',4)],MAP('battlemap-hecht-1'))
 # ---- items ----
 m.item('gaolerslink',"The Gaoler's Link",'Wondrous Item',itemdesc("The Gaoler's Link"),rarity='Artifact',picture='item-gaolers-link')
 m.item('ashbox','The Ashbox','Wondrous Item',itemdesc('The Ashbox'),rarity='Uncommon')
@@ -136,7 +136,7 @@ m.item('waterbreathing',"Potion of Water Breathing (Vesharan's)",'Potion','<p><i
 I1,A1,A2,A3,A4,AP='Introduction','Act 1 — The Offer','Act 2 — Casing the Job','Act 3 — The Job','Act 4 — The Turn','Appendices'
 X=sections(body(IDX)); xpick=lambda *n: '\n'.join('## %s\n%s'%(k,X[k]) for k in n if k in X)
 m.page(I1,'Cover','<p><b>APL 3 (levels 2–4) · 4–6 characters · one 4-hour session</b></p><p>A heist for 3rd-level characters. Part 1 of <i>The Shadow on the Quag</i>. A Sidebar Press adventure for the %s campaign frame.</p>'%FRAME,images=['Cover'])
-m.page(I1,'Credits & How to Run','<p><b>The Gaoler\'s Link</b> · %s · Sidebar Press. Creature statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0).</p><p>Battlemaps and scene art are not in this version; calibrate grids yourself when maps are added.</p>'%CODE+conv(pick('Date','Design Frame','Hook','PC Objectives (the plot, as goals rather than events)','Subplots (keyed to PCs; assign at the table)','Act Structure')))
+m.page(I1,'Credits & How to Run','<p><b>The Gaoler\'s Link</b> · %s · Sidebar Press. Creature statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0).</p><p><b>Battlemaps</b> (personal and stream use; Inkarnate community maps, CC BY-NC-SA 4.0): The Archive by Timo. The <i>Graue Hecht</i> (four decks): creator credit to come. Calibrate each map\'s grid in Fantasy Grounds (5-ft squares). Scene art is not in this version.</p>'%CODE+conv(pick('Date','Design Frame','Hook','PC Objectives (the plot, as goals rather than events)','Subplots (keyed to PCs; assign at the table)','Act Structure')))
 m.page(I1,'Background',conv(pick('Ritterstadt Color','What the Locals Know',"What's Really Happening","Vesharan's Scheme",'Climax at a Glance')),links=[m.N('vesharan'),m.N('brandmeier'),m.IT('gaolerslink')])
 m.page(I1,'Cast & Locations',conv(pick('Key NPCs','Key Locations')),images=[k for k in PORTN if k in m.IMG],links=[m.N(k) for k in ('brandmeier','vesharan','snick','ruder','tegin','sleeper','gaterota','weil')])
 m.page(I1,'The Job: Edges, Heat & Alert',conv(strip(nocallout(body(JOB),('art','info'))).split('\n# ',1)[-1]),links=[m.IT('gaolerslink'),m.IT('ashbox'),m.N('snick')])
@@ -161,7 +161,7 @@ for h in HAND:
     hi=[HO[x] for x in sorted(HO) if x==hn or x.startswith(hn+' (')]; hi=[k for k in hi if k in m.IMG]
     m.page(AP,'Handout — '+hn,conv(strip(nocallout(body(h),('art',)))),images=hi,links=[m.I(k) for k in hi]+([m.I(k) for k in SIG] if six else []))
 MAPS=[k for k in m.IMG if k.startswith('battlemap-')]
-if MAPS: m.page(AP,'Maps','<p>Battlemaps for Scenes 05–07. Calibrate the grid in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
+if MAPS: m.page(AP,'Maps','<p>Battlemaps for Scenes 05–07. The <i>Hecht</i>: deck 1 (main deck, H1) is the Handover; deck 3 (lower deck and cabins, H2 and H3) is the Hold; decks 2 and 4 are spares. The cannons are set dressing from the source map: Oerth has no working gunpowder, so cover them with tokens or describe them as cargo. Calibrate the grid in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
 # ---- build ----
 OUT=os.path.join(ADV,'FGU Kit',NAME+'.mod')
 m.build(os.path.join(WORK,CODE+'.mod'),cover_image='Cover')
