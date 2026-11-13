@@ -212,6 +212,10 @@ For Greybeard's table only (`publish: false` material): run the **6-PC** column.
 - **Henry McCoy** (druid): the crows, the relay horse, the stag rite.
 - **Vaelin** (Gloom Stalker, Obad-Hai): the Hanged Stag is his god's myth; the copper-torc dead are what drove him out of the Vesve.
 - **Angus** (Hunter): his cousin **Pip Thistlebottom** is the dead signaller holding the unlit torch. *(Confirm with BoPerkins.)*
+
+> [!art]- Pip Thistlebottom (before)
+> ![[SP-PBS-05 portrait-pip-thistlebottom.jpg|200]]
+
 - Stealth disadvantage: Elric, Aeliana, Tu'ree. Nobody has *silence*, *pass without trace* or *purify food and drink* prepared; nothing requires them.
 
 ## Open Items

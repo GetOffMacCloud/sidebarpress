@@ -161,7 +161,7 @@ The clerk gives the wardens a sketch map marking Kalbach, Hollen Ford and Carn A
 > [!art]- DM map — The Route (overview)
 > ![[SP-PBS-05 map-route-overview.jpg|600]]
 
-**The clerk** knows the relay is "two riders and Pip, the signaller" and that the beacon "brings the garrison by noon." He believes it.
+**The clerk** knows the relay is "two riders and a signaller" and that the beacon "brings the garrison by noon." He believes it.
 
 ### Scene 2: Shadowing the Procession (20 min)
 *Purpose:* the Notice track (see [[SP-PBS-05 — DM's Notes#The Notice Track|DM's Notes]]), F1, the scouts' spotlight.
@@ -246,8 +246,8 @@ Ansgar and Halse can be seen at a distance: the tall, shaven-headed one at the f
 
 **Who is here:** the two riders (**ghouls**, in the stable loft, waiting for the wardens to split up) and the signaller, two travellers and a fox (**zombies**). The signaller still holds the unlit beacon torch (F3).
 
-> [!art]+ The signaller, before (Pip)
-> ![[SP-PBS-05 portrait-pip-thistlebottom.jpg|260]] ![[SP-PBS-05 token-zombie-pip.jpg|140]]
+> [!art]+ The signaller
+> ![[SP-PBS-05 token-zombie-pip.jpg|140]]
 
 Full encounter: **[[SP-PBS-05 — E2 — The Hollen Ford Relay]]**.
 
