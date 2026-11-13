@@ -10,11 +10,22 @@ tags: [ritterstadt, greyhawk-university, field-station, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-07 — Perrenland & the Neighbours]] · Next → [[RG-09 — Faculty & Staff Roster]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg08-opener-lecture-print.jpg|600]]
+
+> [!art]- Chapter opener (screen version)
+> ![[Ritterstadt rg08-opener-lecture.jpg|600]]
+
 > *The Field Station exists to map the frontier, and this is the department that holds the pens.* — Department of Exploration & Cartography
 
 Greyhawk University is seated in the **City of Greyhawk**. Its Ritterstadt Field Station is the farthest and smallest of its outposts, chartered in 568 CY to study the Sepia Uplands and to train students by sending them into it. The campaign vault's `02 Greyhawk University` import holds the rules the station runs on: departments, majors and minors, student organizations, research grants, publications, tuition and leveling, and the Academic Registry. This chapter is the institution around those rules.
 
 ## The Charter
+
+> [!art]+ The commission seal
+> ![[Ritterstadt commission-seal.jpg|300]]
+
 The **Field Station Charter** (568, amended 574) grants the University:
 - the right to **enroll** students and **grant credit** for field work;
 - the right to hold **land and buildings** for research: the Station House, the Archive, the Long Dormitory, the Assay House, the Forge, the Drill Yard, the Infirmary wing;

@@ -11,6 +11,10 @@ aliases: [Vogelsang, Professor Vogelsang]
 
 # Professor Casimir Vogelsang
 
+> [!art]+ Portrait
+> ![[Ritterstadt vogelsang.jpg|300]]
+
+
 > Head of the Department of Antiquities. Ambitious, polished, and the Regents' favourite. Feuds with Professor Brandt and Magistra Sternwald, and expects the Wardenship.
 
 ## Source

@@ -48,6 +48,10 @@ image: Template_Place_Placeholder.png
 
 # General
 
+> [!art]+ The Wachturm
+> ![[Ritterstadt wachturm-back-cover.jpg|500]]
+
+
 Select Settlement: `INPUT[suggester(optionQuery(#Category/Hub)):MyContainer]`
 
 Select Category: `INPUT[inlineSelect(option(Commerce), option(Agriculture), option(Military), option(Philosophy), option(Industrial), option(Nesting), option(Government)):MyCategory]`

@@ -11,6 +11,10 @@ aliases: [Federkiel, Professor Federkiel, Ilsabet Federkiel]
 
 # Professor Ilsabet Federkiel
 
+> [!art]+ Portrait
+> ![[Ritterstadt federkiel.jpg|300]]
+
+
 > Head of the Department of Letters & Cultures at Greyhawk University's Ritterstadt Field Station. Speaks eleven languages and gossips fluently in all of them. Her lectures run long; nobody minds.
 
 ## Source

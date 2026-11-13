@@ -10,6 +10,10 @@ tags: [ritterstadt, perrenland, cantons, neighbours, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-06 — Factions]] · Next → [[RG-08 — Greyhawk University, Ritterstadt Field Station]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg07-opener-neighbours-road.jpg|600]]
+
 Ritterstadt is **unincorporated**. It stands in the Sepia Uplands north of the Concatenated Cantons, which govern Perrenland as a loose confederation under an elected **Voormann** at Schwartzenbruin. The Voormann's tax-collectors stop at Traft. The University's charter comes from the City of Greyhawk, which is farther still. In practice, Ritterstadt's foreign policy is conducted by whoever is standing at the Job Board.
 
 ## The Concatenated Cantons

@@ -10,9 +10,20 @@ tags: [ritterstadt, buildings, services, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-03 — The Census]] · Next → [[RG-04a — Building Directory, Part 1]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg04-opener-rooftops-print.jpg|600]]
+
+> [!art]- Chapter opener (screen version)
+> ![[Ritterstadt rg04-opener-rooftops.jpg|600]]
+
 This chapter is the **quick reference**: where things are and what each building offers. Full descriptions, proprietors, price lists, and hooks are in the **Building Directory**: [[RG-04a — Building Directory, Part 1]] (the old village) and [[RG-04a — Building Directory, Part 2]] (the Field Station and the growing town).
 
 ## The Lay of the Town
+
+> [!art]+ Town map
+> ![[Ritterstadt town-map.jpg|700]]
+
 
 Ritterstadt is a lake port on the north shore of **Lake Quag**, where the Sepia Uplands come down to the water.
 - **The quay** lies below the town on the shore: the Rhennee barges, the tally-house, the smokehouse.

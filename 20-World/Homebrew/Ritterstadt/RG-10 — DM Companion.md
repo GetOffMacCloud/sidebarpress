@@ -11,6 +11,13 @@ tags: [ritterstadt, dm-only, secrets, hooks, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-09 — Faculty & Staff Roster]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg10-opener-cellar-chest-print.jpg|600]]
+
+> [!art]- Chapter opener (screen version)
+> ![[Ritterstadt rg10-opener-cellar-chest.jpg|600]]
+
 > [!danger] DM Eyes Only
 > This chapter is never published. It collects every secret in the book by layer, lists where this book reconciled campaign canon, and indexes the hooks by building and faction.
 

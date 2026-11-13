@@ -9,6 +9,10 @@ aliases: [the Grey Sickle, the Sickle, the barrow-cell]
 
 # Faction — The Grey Sickle
 
+> [!art]+ Emblem
+> ![[Ritterstadt grey-sickle.jpg|240]]
+
+
 > The Nerullite cell of Schwartzenbruin that opened the Hound-Mother's barrow at the Dreadverge. It has a list of the Sepia Uplands' old graves, and Ritterstadt sits among them.
 
 Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]] · First seen in [[SP-PBS-02-The-Bones-of-the-Dreadverge]]

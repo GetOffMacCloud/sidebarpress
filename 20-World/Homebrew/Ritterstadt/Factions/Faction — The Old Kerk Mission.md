@@ -9,6 +9,10 @@ aliases: [the Old Kerk Mission, the Kerk, the Mission]
 
 # Faction — The Old Kerk Mission
 
+> [!art]+ Emblem
+> ![[Ritterstadt old-kerk-mission.jpg|240]]
+
+
 > Perrenland's church, sent north in 575 to serve the Perrender faithful of the frontier — and to be there first if a canton ever claims Ritterstadt.
 
 Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]

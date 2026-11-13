@@ -11,6 +11,10 @@ aliases: [Goldwaage, Professor Goldwaage]
 
 # Professor Aldemar Goldwaage
 
+> [!art]+ Portrait
+> ![[Ritterstadt goldwaage.jpg|300]]
+
+
 > Head of the Department of Statecraft & Commerce. He teaches the Vogt's clerks, drafted the Moot Roll's wording in 574, and reads every form the Cantons send.
 
 ## Source

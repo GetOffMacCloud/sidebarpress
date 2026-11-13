@@ -11,6 +11,10 @@ aliases: [Sauerbrunn, Doktor Sauerbrunn, the Infirmarian]
 
 # Doktor Agathe Sauerbrunn
 
+> [!art]+ Portrait
+> ![[Ritterstadt sauerbrunn.jpg|300]]
+
+
 > Head of the Department of Physic & Alchemy and the Field Station's Infirmarian. Blunt, tireless, and keeps students alive — and charges the Bursar for every one of them.
 
 ## Source

@@ -11,6 +11,10 @@ aliases: [Karet, Keeper of the Board]
 
 # Karet
 
+> [!art]+ Portrait
+> ![[Ritterstadt karet.jpg|300]]
+
+
 > Publican of the Fiend's Rest Public House and Keeper of the Board. Nothing goes on the Job Board without her stamp beside the Warden's seal.
 
 ## Source

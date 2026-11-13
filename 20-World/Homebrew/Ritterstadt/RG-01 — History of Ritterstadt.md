@@ -10,6 +10,10 @@ tags: [ritterstadt, history, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · Next → [[RG-02 — Government & Law]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg01-opener-founders-trek.jpg|600]]
+
 Ritterstadt is a small port on the north shore of **Lake Quag**, where the Sepia Uplands come down to the water. It has been three things in its life: a fishers' waystation, a knight's hamlet, and — since the **re-founding of 565** — the town the Four Founders chose to guard what they carried out of Cold Stone Keep. The chapel's ledgers go back 87 years. The von Eisfelds have held the land for three generations. Both facts matter.
 
 ## Erikasrast (489–c. 510)

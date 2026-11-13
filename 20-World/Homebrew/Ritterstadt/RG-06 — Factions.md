@@ -10,9 +10,23 @@ tags: [ritterstadt, factions, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-05 — Economy & Trade]] · Next → [[RG-07 — Perrenland & the Neighbours]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg06-opener-factions-alley-print.jpg|600]]
+
+> [!art]- Chapter opener (screen version)
+> ![[Ritterstadt rg06-opener-factions-alley.jpg|600]]
+
 Eleven factions have a stake in Ritterstadt, the University, or the relics under the Sepia. Six are written up in the campaign vault's **Faction Dossiers** and are only summarized here. Five are new to this book and have their own notes in `20-World/Homebrew/Ritterstadt/Factions/`. Not all of them are hostile. None of them are simple.
 
 ## Existing Factions (campaign canon — see the Faction Dossiers)
+
+> [!art]+ Emblems
+> ![[Ritterstadt wolf-nomads.jpg|140]] ![[Ritterstadt druid-enclave.jpg|140]] ![[Ritterstadt agents-of-iuz.jpg|140]] ![[Ritterstadt hanselmann-consortium.jpg|140]] ![[Ritterstadt varek-doss.jpg|140]] ![[Ritterstadt velvet-shadow-winter-vanguard.jpg|140]]
+
+> [!art]+ Faces
+> ![[Ritterstadt elif-kayim.jpg|160]] ![[Ritterstadt giseth.jpg|160]] ![[Ritterstadt ewald-wennerberg.jpg|160]] ![[Ritterstadt vethkar-graun.jpg|160]] ![[Ritterstadt varek-doss.jpg|160]]
+
 
 | Faction | Public face | What they want from Ritterstadt | Current agent |
 |---|---|---|---|
@@ -26,6 +40,10 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 ## New Factions
 
 ### 1. The Regents' Commission *(Greyhawk University, City of Greyhawk)*
+
+> [!art]+ Emblem and face
+> ![[Ritterstadt regents-commission.jpg|200]] ![[Ritterstadt commissioner-dray.jpg|200]]
+
 **Public face.** The Board of Regents' standing committee on field stations and antiquities. It funds Ritterstadt's grants, prints its best Publications, and confirms its Warden. Its envoy, **Commissioner Lucan Dray**, arrives every second year to audit the station and leaves with a crate.
 **What they say they want.** A productive field station, graduates for the Cantons' hire, and the University's name on every map of the north.
 **What they actually want.** The Fiend's Embrace, which Calloway promised them in 568 "when safely movable," and the 10% of every relic their grant clause entitles them to. They are not villains; they are patrons who have decided that a sealed demonic fragment is safer in the City of Greyhawk than behind a frontier palisade, and they are prepared to be right about that by force of paperwork.
@@ -34,6 +52,10 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 → [[Faction — The Regents' Commission]]
 
 ### 2. The Pale Ledger *(a Scarlet Brotherhood cell)*
+
+> [!art]+ Emblem and face
+> ![[Ritterstadt pale-ledger.jpg|200]] ![[Ritterstadt hesta-varnholm.jpg|200]]
+
 **Public face.** Three Suel "exiles" on the lane behind the Grey Wolf: **Hesta Varnholm**, letter-writer and copyist; a tailor; and a "retired factor" who takes the air on the palisade walk every evening.
 **What they say they want.** To be left alone. Perrenland is kind to Suel exiles who don't explain themselves, and the frontier kinder.
 **What they actually want.** To count. Everything that moves north — iron, students, maps, Iuz's couriers — is written down in a ledger bound in pale calfskin and goes south twice a year sewn into a bolt of Yusuf al-Rashad's cloth (he does not know). The Brotherhood believes the Sepia Uplands will matter and wants to know who holds them when it does. They hold three logged Bloom crystals they should not have.
@@ -42,6 +64,10 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 → [[Faction — The Pale Ledger]]
 
 ### 3. The Grey Sickle *(the Nerullite barrow-cell of Schwartzenbruin)*
+
+> [!art]+ Emblem
+> ![[Ritterstadt grey-sickle.jpg|200]]
+
 **Public face.** There is no public face in Ritterstadt yet. A funeral mendicant of Wee Jas passed through in Harvester and asked the Vater which of the dead had no graves.
 **What they say they want.** Nothing. They are not here.
 **What they actually want.** The Sepia Uplands are full of old graves on old nodes, and the cell that opened the Hound-Mother's barrow at the Dreadverge ([[SP-PBS-02-The-Bones-of-the-Dreadverge]]) has a list. The Flan judgment circle at Hex G5 and the barrows under the Larch tree line are on it. Their interest in the binding network is practical: a degrading seal is a door.
@@ -50,6 +76,10 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 → [[Faction — The Grey Sickle]]
 
 ### 4. The Quag Bargemen *(the Rhennee of the Landing)*
+
+> [!art]+ Emblem and face
+> ![[Ritterstadt quag-bargemen.jpg|200]] ![[Ritterstadt baba-yeska.jpg|200]]
+
 **Public face.** Four barge-families under **Baba Yeska Marovna**, Warden of the Landing. They run the lake trade, the ferry, the salt pans, and the smokehouse, and they turned out for the wall on 18 Planting without being asked.
 **What they say they want.** Tolls, a dry winter berth, and to be left to the water.
 **What they actually want.** The lake. If Ritterstadt grows, the Landing grows with it, and whoever holds the Landing holds the fastest road to Traft. Yeska means to be that whoever, and to keep her grandchildren's parentage unspoken. Half her "Quag salt" is Traft salt sold back to Traft. The other half comes from a pan that should not exist.
@@ -58,6 +88,10 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 → [[Faction — The Quag Bargemen]]
 
 ### 5. The Old Kerk Mission *(Perrenland's church)*
+
+> [!art]+ Emblem and face
+> ![[Ritterstadt old-kerk-mission.jpg|200]] ![[Ritterstadt dominie-roth.jpg|200]]
+
 **Public face.** **Dominie Anselm Roth**, a priest of the Old Kerk sent north from Schwartzenbruin in 575 "to serve the Perrender faithful of the frontier," lodging at the Grey Wolf and preaching in the market on fair days. Courteous to Vater Sigmund. Patient.
 **What they say they want.** A Kerk chapel in Ritterstadt, so that Perrender souls are not left to a Pholtine frontier priest.
 **What they actually want.** The cantons will not spend coin on the frontier, but the Kerk will spend a priest. If Ritterstadt is ever to be brought under a canton, the Kerk wants to have been there first — with a congregation, a chapel, and a quiet correspondence with the Voormann's council about what the University is digging up. Roth also carries a brief from the Old Kerk's elders: find out whether the Pholtine chapel's foundation stone is what the Flan say it is.

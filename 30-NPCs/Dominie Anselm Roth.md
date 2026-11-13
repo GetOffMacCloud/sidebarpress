@@ -10,6 +10,10 @@ aliases: [Dominie Roth, Anselm Roth, the Dominie]
 
 # Dominie Anselm Roth
 
+> [!art]+ Portrait
+> ![[Ritterstadt dominie-roth.jpg|300]]
+
+
 > A priest of Perrenland's Old Kerk, sent north from Schwartzenbruin in 575 "to serve the Perrender faithful of the frontier." He preaches in the market on fair days and is courteous to Vater Sigmund, who likes him and does not trust him.
 
 ## Appearance

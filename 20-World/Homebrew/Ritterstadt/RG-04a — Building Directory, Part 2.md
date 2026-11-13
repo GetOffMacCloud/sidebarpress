@@ -18,6 +18,13 @@ The buildings the University and the town's newer people added after the re-foun
 ## The Field Station
 
 ### 12. The Station House *(University administration)*
+
+> [!art]+ The Station House
+> ![[Ritterstadt station-house-print.jpg|500]]
+
+> [!art]- The Station House (screen version)
+> ![[Ritterstadt station-house.jpg|500]]
+
 **Outside.** *A two-storey timber hall beside the Ritter's palisade with the University's arms painted over the door: an open book, a cudgel and a quill crossed beneath it. Ink and sealing-wax on the air.*
 
 **Inside.**
@@ -36,6 +43,10 @@ The buildings the University and the town's newer people added after the re-foun
 **Hooks.** The Bursar is 40 gp short at the quarter. A Probationer swears the portrait moved.
 
 ### 13. The Archive *(University library)*
+
+> [!art]+ The Archive
+> ![[Ritterstadt archive.jpg|500]]
+
 **Outside.** *A squat stone building with narrow windows of good glass and a slate roof — the only slate in town besides the McCockin house.*
 
 **Inside.** The reading room (six desks); the map presses of the Scouts & Surveyors; the Publications shelf (every Field Report since 569); the Illuminators' Guild's copy-table; and at the back, an iron grille padlocked across the **sealed stacks**, key held by the Registrar.
@@ -49,6 +60,13 @@ The buildings the University and the town's newer people added after the re-foun
 **Hooks.** A map is missing and its countersign is forged.
 
 ### 14. The Long Dormitory *(University lodging)*
+
+> [!art]+ The Long Dormitory
+> ![[Ritterstadt long-dormitory-print.jpg|500]]
+
+> [!art]- The Long Dormitory (screen version)
+> ![[Ritterstadt long-dormitory.jpg|500]]
+
 **Outside.** *A long, low timber hall with a peat-fire chimney at each end. Boots by the door, and somebody always awake.*
 
 **Inside.** Forty bunks in two bays; maps pinned over half of them; a common hearth in the middle where the student organizations meet; the Proctor's room at the far end.
@@ -71,6 +89,10 @@ The buildings the University and the town's newer people added after the re-foun
 **Hooks.** A patient from the last expedition won't stop shivering, and the cot frosts at night.
 
 ### 16. The Drill Yard *(University and garrison)*
+
+> [!art]+ The Drill Yard
+> ![[Ritterstadt drill-yard.jpg|500]]
+
 **Outside.** *A packed-earth square behind the Guardhouse: a pell hacked to half its width, a butts, and a whitewashed shield-wall line. On the fence, carved names: every student who held the line on 18 Planting.*
 
 **Proprietor.** [[Garrok Stonebrow]], Drill-Sergeant (goliath). Senior student Dagmar Brockdottir is his second. The garrison drills here at dawn.
@@ -83,6 +105,13 @@ The buildings the University and the town's newer people added after the re-foun
 
 ## Forge Row
 
+> [!art]+ Forge Row and the University Forge
+> ![[Ritterstadt forge-row-print.jpg|500]]
+
+> [!art]- Forge Row and the University Forge (screen version)
+> ![[Ritterstadt forge-row.jpg|500]]
+
+
 ### 17. The University Forge
 **Outside.** *Two hearths and a water-driven trip-hammer under one long roof; the loudest building in town after the Fiend's Rest.*
 
@@ -93,6 +122,13 @@ The buildings the University and the town's newer people added after the re-foun
 **Hooks.** A Clan Irongrip emissary came to court day and won't say why.
 
 ### 18. The Assay House
+
+> [!art]+ The Assay House
+> ![[Ritterstadt assay-house.jpg|500]]
+
+> [!art]+ A Bloom crystal
+> ![[Ritterstadt bloom-crystal.jpg|300]]
+
 **Outside.** *A squat stone house on Forge Row with acid-stained steps.*
 
 **Inside.** A long bench of crucibles and brass scales; a locked crystal cabinet; the logbook chained to the wall.
@@ -109,6 +145,10 @@ Seven dwarf households, the Mining Consortium's bunkhouse (five journeymen), and
 ---
 
 ## Market Hill and the Trades
+
+> [!art]+ Market Hill on a fair day
+> ![[Ritterstadt market-hill.jpg|500]]
+
 
 **Market Hill** ([[Market Hill]]) is the open slope where the market sets up on the first of each month and for the week of the Needfest Fair. Market-mistress: [[Mathilde Tauber]]. Stall fees go to the Moot. The trades below keep shops on or near the hill year-round.
 
@@ -167,9 +207,17 @@ Seven dwarf households, the Mining Consortium's bunkhouse (five journeymen), and
 Gnome-cut rooms under Market Hill. **Proprietors:** [[Nessa Quillfeather]] (the Seam-Finders' chart room) and [[Pim Wobblewright]] (instrument workshop). Compass 25 gp; bog-sounder 15 gp; instrument training. See [[The Burrows]].
 
 ### 29. The Larch Camp
+
+> [!art]+ The Larch Camp
+> ![[Ritterstadt larch-camp.jpg|500]]
+
 Outside the east gate at the tree line. **Proprietor:** [[Caelith of the Larch]], kin-leader; [[Ysmay Larchwind]] teaches archery and woodcraft for grain. Bow-staves 2 gp; never arrows. See [[The Larch Camp]].
 
 ### 30. The Landing (the quay)
+
+> [!art]+ The Landing
+> ![[Ritterstadt the-landing.jpg|500]]
+
 **Outside.** *Below the palisade, where the town meets Lake Quag: a timber quay with Rhennee barges tied along it in summer and hauled up on rollers for winter, the tally-house with its stove, nets drying on poles, and the smokehouse at the end where the wind takes the smoke out over the water.*
 **Inside the tally-house.** A stove, a bench, and no visible ledger.
 **Proprietor.** [[Baba Yeska Marovna]], Warden of the Landing; [[Dorrin Hollin]] runs the halfling ferry.

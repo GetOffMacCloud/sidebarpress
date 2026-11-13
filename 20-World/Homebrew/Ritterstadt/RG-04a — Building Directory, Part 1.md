@@ -46,6 +46,13 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 
 ## 2. The Fiend's Rest Public House *(Commerce)*
 
+> [!art]+ The Fiend's Rest and the Job Board
+> ![[Ritterstadt fiends-rest-job-board-print.jpg|500]]
+
+> [!art]- The Fiend's Rest and the Job Board (screen version)
+> ![[Ritterstadt fiends-rest-job-board.jpg|500]]
+
+
 **Outside.** *The loudest building in Ritterstadt. Lamplight in every window, a corkboard just inside the door so thick with pinned paper it has started to bow, and on a cold night the smell of mutton and wet wool reaching halfway to the gate.*
 
 **Inside.**
@@ -155,6 +162,10 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 ---
 
 ## 6. The Wachturm *(Military — and older)*
+
+> [!art]+ The Wachturm
+> ![[Ritterstadt wachturm-back-cover.jpg|500]]
+
 
 **Outside.** *A squat square tower of grey limestone at the northern edge of the village, four storeys, arrow-slits on three sides, a crenellated roof with an iron bell in a timber frame. Worn geometric carvings ring its base. The stonework fits tighter than anything else in the region.*
 

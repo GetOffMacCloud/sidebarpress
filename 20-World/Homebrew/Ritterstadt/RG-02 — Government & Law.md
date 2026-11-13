@@ -10,6 +10,13 @@ tags: [ritterstadt, government, law, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-01 — History of Ritterstadt]] · Next → [[RG-03 — The Census]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg02-opener-moot-print.jpg|600]]
+
+> [!art]- Chapter opener (screen version)
+> ![[Ritterstadt rg02-opener-moot.jpg|600]]
+
 Ritterstadt is **unincorporated frontier**. No canton claims it; the Voormann's tax-collectors stop at Traft. The town governs itself under three instruments, and most trouble in Ritterstadt is a dispute about which of the three applies.
 
 ## The Three Instruments

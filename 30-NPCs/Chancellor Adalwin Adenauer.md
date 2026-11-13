@@ -10,6 +10,10 @@ aliases: [the Chancellor, Chancellor Adenauer, Adalwin Adenauer]
 
 # Chancellor Adalwin Adenauer
 
+> [!art]+ Portrait
+> ![[Ritterstadt chancellor-adenauer.jpg|300]]
+
+
 > Chancellor of Greyhawk University, seated in the City of Greyhawk. He has never seen Ritterstadt and has read every Field Report it has sent. His portrait faces the Station House door.
 
 ## Appearance

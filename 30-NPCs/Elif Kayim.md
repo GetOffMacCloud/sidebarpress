@@ -11,6 +11,10 @@ aliases: [Kayim, Elif, the Wegwiur trader]
 
 # Elif Kayim
 
+> [!art]+ Portrait
+> ![[Ritterstadt elif-kayim.jpg|300]]
+
+
 > A garrulous, road-worn Wolf Nomad trader who has come a very long way south, half to sell amber and furs and half because the north has stopped feeling like home. The first of his people to trade at Ritterstadt, and an unwitting witness to something he can't name.
 
 ## Source

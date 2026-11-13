@@ -10,6 +10,10 @@ aliases: [Hesta, Hesta Varnholm]
 
 # Hesta Varnholm
 
+> [!art]+ Portrait
+> ![[Ritterstadt hesta-varnholm.jpg|300]]
+
+
 > A Suel "exile," letter-writer and copyist on the lane behind the Grey Wolf. She fair-copies for the Illuminators' Guild and reads everything she copies. She is the Pale Ledger's pen.
 
 ## Appearance

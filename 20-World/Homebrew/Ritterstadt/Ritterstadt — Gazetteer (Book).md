@@ -12,6 +12,10 @@ aliases: [Ritterstadt Gazetteer, RG]
 
 # Ritterstadt — A Gazetteer of the Field Station Town
 
+> [!art]+ Cover
+> ![[Ritterstadt cover.jpg|500]]
+
+
 > *"Ritterstadt was not founded by planners. It was founded by survivors."* — the Player Gazetteer, Planting 576 CY
 
 A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepia Uplands dissolve into the Quag Mires. It is three things at once: a Perrender settlement older than its own founding legend, the home of **Greyhawk University's Ritterstadt Field Station**, and the guardian of something four people carried out of Cold Stone Keep in 565 CY. This book is the reference for every Sidebar Press adventure set here and the shared truth of the *A Tourist In Greyhawk* campaign.
@@ -37,6 +41,10 @@ A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepi
 
 ## Ritterstadt in Five Lenses
 
+> [!art]+ Ritterstadt — town map
+> ![[Ritterstadt town-map.jpg|700]]
+
+
 - **Flavor.** Cold, close, and stubborn. A palisade town where soldiers, scholars, trappers, bargefolk, and dwarves share one firelight because there is nowhere else to sit. The campaign it supports is West Marches expedition play with a civic heart: the town grows or fails on what the parties bring back.
 - **Unique areas.** The Job Board at the Fiend's Rest, the Wachturm on its old foundation, the Hush, the Blackfrost Bloom, the lake landing, and a University that pays in credits and grades on survival.
 - **Mysteries.** What the Founders sealed and why here. What the Wachturm stands on. Why the Bloom is winding up. Who in a town of 200 is reporting to whom.
@@ -51,6 +59,10 @@ A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepi
 - Every chapter ends with **Hooks**: things a party can be hired, asked, or tempted to do.
 
 ## Companion Material
+
+> [!art]- Back cover and VTT stamp
+> ![[Ritterstadt wachturm-back-cover.jpg|300]] ![[Ritterstadt palisade-stamp.jpg|300]]
+
 - Campaign canon import: `00-Inbox/Greyhawk University Import (A Tourist In Greyhawk)/`
 - Lore: [[Chakyik]], [[Perrenland]], [[Iggwilvs-Conquest-of-Perrenland]]
 - Adventures set here: [[SP-PBS-01-The-False-Arrow]] (Scene 0)

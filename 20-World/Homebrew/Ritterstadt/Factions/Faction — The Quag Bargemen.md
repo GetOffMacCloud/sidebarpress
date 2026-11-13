@@ -9,6 +9,10 @@ aliases: [the Bargemen, the Landing, Quag Bargemen]
 
 # Faction — The Quag Bargemen
 
+> [!art]+ Emblem
+> ![[Ritterstadt quag-bargemen.jpg|240]]
+
+
 > Four Rhennee barge-families under Baba Yeska Marovna. They run the Landing, the ferry, the smokehouse, the salt pans, and the fastest road south — the lake.
 
 Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]

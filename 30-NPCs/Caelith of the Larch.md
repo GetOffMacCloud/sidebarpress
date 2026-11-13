@@ -10,6 +10,10 @@ aliases: [Caelith, Caelith of the Larch]
 
 # Caelith of the Larch
 
+> [!art]+ Portrait
+> ![[Ritterstadt caelith.jpg|300]]
+
+
 > Kin-leader of the fourteen sylvan elves at the tree line outside Ritterstadt's east gate. A forester and bowyer. Sells bow-staves and will not sell arrows at any price.
 
 ## Appearance

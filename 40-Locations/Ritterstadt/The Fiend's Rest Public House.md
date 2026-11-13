@@ -56,6 +56,16 @@ image: Template_Place_Placeholder.png
 
 # General
 
+> [!art]+ The Fiend's Rest and the Job Board
+> ![[Ritterstadt fiends-rest-job-board-print.jpg|500]]
+
+> [!art]- The Fiend's Rest and the Job Board (screen version)
+> ![[Ritterstadt fiends-rest-job-board.jpg|500]]
+
+> [!art]+ Karet, Keeper of the Board
+> ![[Ritterstadt karet.jpg|260]]
+
+
 Select Settlement: `INPUT[suggester(optionQuery(#Category/Hub)):MyContainer]`
 
 Select Category: `INPUT[inlineSelect(option(Commerce), option(Agriculture), option(Military), option(Philosophy), option(Industrial), option(Nesting), option(Government)):MyCategory]`

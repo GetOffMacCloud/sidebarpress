@@ -10,11 +10,22 @@ tags: [ritterstadt, greyhawk-university, faculty, staff, roster, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-08 — Greyhawk University, Ritterstadt Field Station]] · Next → [[RG-10 — DM Companion]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg09-opener-faculty-table-print.jpg|600]]
+
+> [!art]- Chapter opener (screen version)
+> ![[Ritterstadt rg09-opener-faculty-table.jpg|600]]
+
 **Twenty-two** people draw the University's pay at Ritterstadt: **6** in the administration (including the Drill-Sergeant), the **8** department heads, and their **8** lecturers. Two posts are doubled rather than staffed: the head of Physic & Alchemy is also Infirmarian, and the Logistics lecturer is also Quartermaster. The Master of the Forge lives on Forge Row and is counted there. The eight department heads are campaign canon (`00 — Department Index`), where they are placeholders; this book gives each a line of voice and a second lecturer. Everyone else is new.
 
 **Canon rule:** a head promoted to a full NPC note in the campaign vault overrides anything below.
 
 ## Administration (6)
+
+> [!art]+ Portrait
+> ![[Ritterstadt chancellor-adenauer.jpg|200]] ![[Ritterstadt rektor-weissmantel.jpg|200]]
+
 
 | Office | Name | People | Age | Voice |
 |---|---|---|---|---|
@@ -30,34 +41,66 @@ Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-08 — Greyhawk Univers
 ## Faculty (16)
 
 ### Arcane Studies
+
+> [!art]+ Portrait
+> ![[Ritterstadt sternwald.jpg|200]]
+
 **Head (canon):** **Magistra Odilia Sternwald** (human) — *"Magic is a tool. The Rain was a tool. Sit down."* Severe; distrusts sorcerers on principle; wants the Bloom crystals under her lock.
 **Second lecturer (new):** [[Lecturer Perenna Dolz]] (human, Baklunish, Ket-born) — *"The omen says yes. The omen always says yes. Ask it a better question."* Divination & Omenry; reads the weather for the Landing.
 
 ### Natural Sciences
+
+> [!art]+ Portrait
+> ![[Ritterstadt grasmeyer.jpg|200]]
+
 **Head (canon):** **Professor Berthold Grasmeyer** (human) — *"Everything in the Mires is adapting to the cold. Including the things that were already dead."* Field naturalist; keeps a live bog-adder in his rooms.
 **Second lecturer (new):** [[Lecturer Ilvadriel]] (high elf) — *"Count the legs before you name it."* Zoology & Beastmastery; the Larch kin-band's only friend at the station.
 
 ### Physic & Alchemy
+
+> [!art]+ Portrait
+> ![[Ritterstadt sauerbrunn.jpg|200]]
+
 **Head (canon):** **Doktor Agathe Sauerbrunn** (human) — also **Infirmarian** — *"You may pray. I will cauterize. We will see who is thanked."* Blunt, tireless, charges the Bursar for everything.
 **Second lecturer (new):** [[Lecturer Jorund Vesk]] (dwarf, Clan Brock) — *"The dead do not lie. They do, however, get up."* Necrology; the Grave-cleric of Wee Jas the Chapel pretends not to notice.
 
 ### Antiquities
+
+> [!art]+ Portrait
+> ![[Ritterstadt vogelsang.jpg|200]]
+
 **Head (canon):** **Professor Casimir Vogelsang** (human) — *"Provenance is the only morality a relic has."* Ambitious; the Regents' favourite; feuds with Brandt and Sternwald.
 **Second lecturer (new):** [[Lecturer Fennimore Tock]] (gnome) — *"Letters first. Pictures lie; letters only mislead."* Epigraphy & Iconography; the one person at the station who can read some Ur-Flan.
 
 ### Exploration & Cartography
+
+> [!art]+ Portrait
+> ![[Ritterstadt kartner.jpg|200]]
+
 **Head (canon):** **[[Magister-Roswitha-Kartner|Magister Roswitha Kartner]]** (human) — *"Know the exits before you enter."* Never lost, never hurried.
 **Second lecturer (new):** [[Lecturer Hamlin Dreel]] (human, Perrender) — *"Up is where the air moves. Down is where it doesn't. Remember which you want."* Subterranean Studies; lost two fingers to a Clatspur deep and will tell you how.
 
 ### War Studies & Engineering
+
+> [!art]+ Portrait
+> ![[Ritterstadt mauerbrecher.jpg|200]]
+
 **Head (canon):** **Professor Dietrich Mauerbrecher** (human) — *"A wall is a promise the town makes to itself."* Designed the eastern gate's repair; the Ritter's unofficial engineer.
 **Second lecturer (new):** [[Lecturer Dagny Holmgard]] (human, Oeridian) — also **Quartermaster** — *"Logistics is the art of being there with bread. Two bog poles a party. Not one."* Logistics & Quartermastery; keeps the kit store and the ration ledger and has never lost a student to cold she could have prevented.
 
 ### Letters & Cultures
+
+> [!art]+ Portrait
+> ![[Ritterstadt federkiel.jpg|200]]
+
 **Head (canon):** **[[Professor-Ilsabet-Federkiel|Professor Ilsabet Federkiel]]** (human) — *"You did not insult the khan. You insulted his horse."* Eleven languages; gossip in all of them.
 **Second lecturer (new):** [[Lecturer Aerendil Vaethis]] (high elf) — *"A word is a fossil. Dig."* Linguistics & Philology; the Polyglot Circle's quiet centre.
 
 ### Statecraft & Commerce
+
+> [!art]+ Portrait
+> ![[Ritterstadt goldwaage.jpg|200]]
+
 **Head (canon):** **Professor Aldemar Goldwaage** (human) — *"The Cantons will not send a garrison. They will send a form. Learn to read forms."* Teaches the Vogt's clerks; drafted the Moot Roll's wording.
 **Second lecturer (new):** [[Lecturer Bertram Falk]] (half-elf) — *"Heraldry is just law that learned to dress."* Law & Heraldry; identified the unfamiliar arms on the Ritter's Hall shield and has not said whose they are.
 

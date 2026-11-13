@@ -11,6 +11,10 @@ aliases: [Mauerbrecher, Professor Mauerbrecher]
 
 # Professor Dietrich Mauerbrecher
 
+> [!art]+ Portrait
+> ![[Ritterstadt mauerbrecher.jpg|300]]
+
+
 > Head of the Department of War Studies & Engineering. He designed the eastern gate's repair and is the Ritter's unofficial engineer.
 
 ## Source

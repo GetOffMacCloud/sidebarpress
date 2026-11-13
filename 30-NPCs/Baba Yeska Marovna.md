@@ -10,6 +10,10 @@ aliases: [Baba Yeska, Yeska Marovna, the Warden of the Landing]
 
 # Baba Yeska Marovna
 
+> [!art]+ Portrait
+> ![[Ritterstadt baba-yeska.jpg|300]]
+
+
 > Matriarch of the four Rhennee barge-families at the Landing and Warden of the Landing by the Moot Roll. She keeps the toll-book, the salt pans, and the lake.
 
 ## Appearance

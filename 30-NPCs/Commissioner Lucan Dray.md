@@ -10,6 +10,10 @@ aliases: [Commissioner Dray, Lucan Dray, the Commissioner]
 
 # Commissioner Lucan Dray
 
+> [!art]+ Portrait
+> ![[Ritterstadt commissioner-dray.jpg|300]]
+
+
 > The Regents' Commission's envoy to the Ritterstadt Field Station. He arrives every second Patchwall to audit the station and leaves with a crate. He carries the second seal.
 
 ## Appearance

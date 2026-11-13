@@ -9,6 +9,10 @@ aliases: [the Regents, the Commission, Regents' Commission]
 
 # Faction — The Regents' Commission
 
+> [!art]+ Emblem
+> ![[Ritterstadt regents-commission.jpg|240]]
+
+
 > The Board of Regents' standing committee on field stations and antiquities. It funds Ritterstadt, prints its Publications, confirms its Warden — and holds a promise made in 568 that the Fiend's Embrace would come south "when safely movable."
 
 Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]

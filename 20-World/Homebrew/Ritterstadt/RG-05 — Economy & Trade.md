@@ -10,6 +10,10 @@ tags: [ritterstadt, economy, trade, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-04a — Building Directory, Part 2]] · Next → [[RG-06 — Factions]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg05-opener-cider-press.jpg|600]]
+
 Ritterstadt lives on four things: **McCockin Cider**, what the lake and the bog give up, what the dwarves and gnomes dig, and what the University pays for. Coin is Perrender — **marks** (gp) and **kleinmarks** (sp) — and scarce; most local trade is in kind, tallied by the Vogt, the Reeve of Fields, and Baba Yeska. As a lake port, Ritterstadt ships south by water from its quay and north and east by the Sepia road.
 
 ## What Ritterstadt Produces

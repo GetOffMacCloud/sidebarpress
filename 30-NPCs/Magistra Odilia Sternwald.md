@@ -11,6 +11,10 @@ aliases: [Sternwald, Magistra Sternwald]
 
 # Magistra Odilia Sternwald
 
+> [!art]+ Portrait
+> ![[Ritterstadt sternwald.jpg|300]]
+
+
 > Head of the Department of Arcane Studies. Severe, exacting, and distrustful of sorcerers on principle. Wants every Bloom crystal in the station under her lock.
 
 ## Source

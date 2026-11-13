@@ -11,6 +11,10 @@ aliases: [Kartner, Magister Kartner, Roswitha Kartner]
 
 # Magister Roswitha Kartner
 
+> [!art]+ Portrait
+> ![[Ritterstadt kartner.jpg|300]]
+
+
 > Head of the Department of Exploration & Cartography at Greyhawk University's Ritterstadt Field Station. Never lost, never hurried. It is said she once corrected a river.
 
 ## Source

@@ -10,6 +10,10 @@ aliases: [the Warden, Rektor Weissmantel, Albrecht Weissmantel]
 
 # Rektor Albrecht Weissmantel
 
+> [!art]+ Portrait
+> ![[Ritterstadt rektor-weissmantel.jpg|300]]
+
+
 > Station Warden of Greyhawk University's Ritterstadt Field Station since 571 CY. He seals every commission on the Job Board and has drafted his resignation twice.
 
 ## Appearance

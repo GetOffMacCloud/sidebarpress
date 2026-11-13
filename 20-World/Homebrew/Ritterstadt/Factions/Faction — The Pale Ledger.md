@@ -9,6 +9,10 @@ aliases: [the Pale Ledger, the Ledger]
 
 # Faction — The Pale Ledger
 
+> [!art]+ Emblem
+> ![[Ritterstadt pale-ledger.jpg|240]]
+
+
 > A Scarlet Brotherhood counting-house disguised as three Suel exiles on the lane behind the Grey Wolf. It writes down everything that moves north and sends it south in a calfskin ledger.
 
 Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]

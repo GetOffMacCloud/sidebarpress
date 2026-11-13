@@ -11,6 +11,10 @@ aliases: [Grasmeyer, Professor Grasmeyer]
 
 # Professor Berthold Grasmeyer
 
+> [!art]+ Portrait
+> ![[Ritterstadt grasmeyer.jpg|300]]
+
+
 > Head of the Department of Natural Sciences. A field naturalist who keeps a live bog-adder in his rooms and believes the Mires are teaching everything in them to live with the cold.
 
 ## Source

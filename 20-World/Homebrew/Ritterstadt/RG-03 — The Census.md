@@ -12,6 +12,10 @@ tags: [ritterstadt, census, residents, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-02 — Government & Law]] · Next → [[RG-04 — Buildings & Services]]
 
+
+> [!art]+ Chapter opener
+> ![[Ritterstadt rg03-opener-census.jpg|600]]
+
 The Vogt's midsummer count of 576 CY: **200 souls** inside the palisade, on the quay, and on the farmsteads within sight of the Wachturm. The Vogt counts hands, not bloodlines; the peoples below are the University's tally, kept for the Regents.
 
 ## By People
