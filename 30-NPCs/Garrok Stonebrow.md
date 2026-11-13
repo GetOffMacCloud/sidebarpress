@@ -30,4 +30,4 @@ Loud on the yard, quiet off it. Counts every student's mistakes and forgives the
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-08, RG-09
-- [[SP-SQ-01-The-Gaolers-Link]]: turns out at Alert; Scene 05
+- [[SP-SQ-01-The-Gaolers-Link]]: runs the palisade gate and the gate rota; says the clerk won't come inside (Scene 03, F3); shuts the gate at Alert (Scene 05); the trap on the quay (Scenes 06–08). Took over this role from Sergeant Hask, who belongs to Schwartzenbruin (2026-11-07).

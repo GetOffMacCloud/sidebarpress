@@ -76,7 +76,7 @@ m.npc_srd('quasit','Snick (Quasit)','snick',dress="Vesharan's familiar, usually 
 m.npc_srd('noble','Ottokar Brandmeier (Noble)','brandmeier',dress='Not a combatant. Tethered: a bone pin in his collar lining (DC 13 Investigation). He wakes, confused, within 30 ft. of the unboxed Link or when the pin is pulled.')
 m.npc_srd('scout','Tegin (Scout)','tegin',dress="The Hecht's Wolf Nomad pilot (APL 4 only). Fights for pay and quits at half hit points. Tethered (a pin in the cap), so the pilot wakes near the Link.")
 m.npc_srd('veteran','Jobst Ruder (Veteran)','ruder',dress="Master of the Graue Hecht. Won't fight students; included for completeness.")
-m.npc_srd('guard','Gate Rota / Proctor (Guard)','gaterota',dress='Jens Ober, Mathias Grell, Garrok Stonebrow and Hask\'s men use this block. NONLETHAL: they grab, shout and hold. A PC who kills one ends their career (Conclusion D).')
+m.npc_srd('guard','Gate Rota / Proctor (Guard)','gaterota',dress='Jens Ober, Mathias Grell, Garrok Stonebrow and the gate rota use this block. NONLETHAL: they grab, shout and hold. A PC who kills one ends their career (Conclusion D).')
 m.npc_srd('bandit','Weil Brother (Bandit)','weil',dress='Konstanz and Rudi Weil, indebted Freshmen. Nonlethal; they surrender at the first sign of authority.')
 # ---- NPCs (homebrew; statblocks from 65-Bestiary/Shadow on the Quag) ----
 def addf(key,**kw):

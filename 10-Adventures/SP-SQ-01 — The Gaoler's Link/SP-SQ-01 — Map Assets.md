@@ -26,6 +26,6 @@ The painted art is in the Canva design **"SP-SQ-01 Battlemaps"**: page 2 is the 
 ## Build Notes
 - **M1, the Archive:** squat stone, narrow glass windows, slate roof. Six reading desks, map presses on the west wall, the iron grille wall to wall. Shelving aisles 5 ft wide in the stacks. The pike's board is on the far wall, and the coffer's plinth is at the end of the center aisle. The book-chute is on the back wall at shoulder height, opening to the alley. **No light sources anywhere** (the no-flame rule); the Player map should feel dark.
 - **M2, the Landing:** timber quay with room for four barges. The *Hecht* is tied at the end. Brewfest trestles with hop-garlands run along the shore; the tally-house and smokehouse stand at the far end. The palisade gate is up the slope.
-- **M3, the *Hecht*:** a single-masted lake cog. The open hatch is amidships with a ladder down. The hold holds two hammocks, crates of copper and furs, and the Ashbox on a crate in the middle. The clerk's cabin is aft, with a cot, a writing slope and an empty birdcage.
+- **M3, the *Hecht*:** a single-masted lake cog. The open hatch is amidships with a ladder down. The hold holds two hammocks, crates of copper and furs, and crates where the Ashbox stood before Fesch carried it down to the quay. The clerk's cabin is aft, with a cot, a writing slope and an empty birdcage.
 - **Fog:** export a separate fog overlay for M2 and M3 (lightly obscured beyond 30 ft) for VTT use.
 - **DM overlays** mark the A- and H-keys, the guardian's board, the grille's *alarm*, and Snick's usual perch.

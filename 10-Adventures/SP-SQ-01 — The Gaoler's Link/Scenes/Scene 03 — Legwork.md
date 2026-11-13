@@ -31,7 +31,7 @@ The open phase. The players choose leads, earn **Edges**, and gather the first r
 - **[[Professor Casimir Vogelsang]]**. *Wants:* the Link safe and his study secret. *Knows:* F1 and F4 (but not who "the sworn" are). *Reacts:* superior, then uneasy.
 - **[[Lecturer Perenna Dolz]]**. *Wants:* to know why her scrying shows fog. *Knows:* Ket schoolroom hands; Kermin's reputation. *Reacts:* curious, then alarmed, then a quiet ally.
 - **[[Hogar Irongrip]]**, at [[The University Forge]]. *Wants:* honest work and no Perrender secrets. *Knows:* the Ashbox commission.
-- **[[Jobst Ruder]]** and the *Hecht*'s bargemen; **[[Baba Yeska Marovna]]**; **[[Sergeant Ruwen Hask]]**; **[[Jens Ober]]** (gate rota).
+- **[[Jobst Ruder]]** and the *Hecht*'s bargemen; **[[Baba Yeska Marovna]]**; **[[Garrok Stonebrow]]** (Drill-Sergeant; runs the gate rota and the palisade gate); **[[Jens Ober]]** (gate rota).
 - **[[Liesl Amsel]]**, on her labor-levy shift in the Archive reading room. **[[Snick]]** is watching her too.
 
 ## Beats
@@ -45,7 +45,7 @@ The open phase. The players choose leads, earn **Edges**, and gather the first r
 | **Lecturer Dolz** | Ask her about divination, or attend her omen class (automatic for a Divination & Omenry student) | An [[Omen-Taper of the Blind Spot]] on loan | *"Every scrying of the Archive comes back fog. I assumed my students were careless."* (**F4**). Shown Fesch's handwriting: *"That's a Ket schoolroom hand. Someone taught him young, and well."* (**F3**) |
 | **The *Hecht*** | Drink with the bargemen, or help unload (DC 12 Athletics or Persuasion) | The gangplank watch and the hold layout; Ruder's grudging goodwill | [[Piet Lanz]]: *"Master hasn't been right since spring. Lets the clerk sign for him."* (**F2**). Winter furs in the hold, for a run north. |
 | **Hogar's forge** | Bring Hogar work or a question (DC 12 Persuasion; automatic for a dwarf PC or anyone with Bitter Pass ties) | Hogar will forge a dummy coffer now, or a false Link later | *"Made a lead box to a Perrender clerk's order. Sent the order by a boy, collected it at the Landing. Lid seals like a coffin. Who seals a reliquary?"* (toward **F4**) |
-| **The Landing and the gate** | Talk to Baba Yeska or Sergeant Hask (automatic) | The gate password for the dinner night, and where the gate-rota students drink | Hask: *"That clerk won't step inside the palisade. Pays a boy to carry his letters."* (**F3**). Yeska: *"A run to Schwartzenbruin, in Brewfest, in furs. With a Wolf pilot."* |
+| **The Landing and the gate** | Talk to Baba Yeska or Garrok at the gate (automatic) | The gate password for the dinner night, and where the gate-rota students drink | Garrok: *"That clerk won't step inside the palisade. Pays a boy to carry his letters."* (**F3**). Yeska: *"A run to Schwartzenbruin, in Brewfest, in furs. With a Wolf pilot."* |
 
 **One Edge per lead,** maximum 4. Write down what each Edge *is*.
 
@@ -64,7 +64,7 @@ If any lead brings the party into the Archive, [[Liesl Amsel]] is shelving there
 
 ## Clues Available Here
 - Piet: the master hasn't been right since spring → **F2**
-- Hask: the clerk won't pass the gate; Dolz: a Ket schoolroom hand → **F3**
+- Garrok: the clerk won't pass the gate; Dolz: a Ket schoolroom hand → **F3**
 - Dolz: the fog; Hogar: the ash-lined box → **F4**
 - Snick, caught → **F1** or **F3**
 

@@ -101,3 +101,14 @@ The structure holds. It is a situation, not a plot:
 
 ## Package (not this pass)
 Battlemaps (3), plates (3 scene prompts and 7 handout prompts in the Art Brief), the compiled draft, the Homebrewery brew and PDF, and the FGU reference manual.
+
+
+## Naming and continuity review (2026-11-07)
+- [x] **Sergeant Ruwen Hask** was Ritterstadt's gate sergeant here, but his note and SP-PBS-00 put him at Schwartzenbruin's lake-gate. **Replaced by [[Garrok Stonebrow]]** (Greybeard's call) in 14 places: main note, Job, Bestiary, Scene Index, Scenes 01, 02, 03, 06, 07, 08, and the FGU guard block. Hask's SP-SQ-01 appearance removed; Garrok's updated.
+- [x] **Fee raised to 25 marks each** (Greybeard): half up front (12 marks 5 kleinmarks), 30 if haggled; Brandmeier's reward if freed is 25 marks each. Main note, Scenes 02, 06, 07, arc hub.
+- [x] **Coldeven → Flocktime:** the Perrender PC hook said Ottokar stopped writing in Coldeven, two months before he was tethered.
+- [x] **Handover location:** Scene 02 still said "aboard the *Hecht*"; now the quay at the foot of the gangplank, matching Scene 06.
+- [x] **"Too new to be sixty years old"** (Scene 02 sensory line) → eleven years: the pledge is dated 565.
+- [x] **Art and maps:** the Brandmeier's Waking prompt was set in the hold and the M3 note put the Ashbox in the hold; both now match the quay handover.
+- **Checked and consistent:** every other NPC name, title and pronoun across the main note, scenes, Bestiary, handouts and `30-NPCs` (Vesharan/"Herr Fesch", Brandmeier, Grell, Ammerlin, Dolz, Vogelsang, Verenwyr, Tock, Hogar, Baba Yeska, Kettler, Liesl, Jens Ober, the Weils, Ruder, Tegin, Piet, Arnold, Snick, Weissmantel). *Zagig* on the provenance slip is deliberate (a dealer's catalogue spelling); the god is Zagyg elsewhere.
+- **Note:** two NPCs carry the title "Warden": Rektor Weissmantel (the Station Warden; "the Warden's dinner") and Baba Yeska (Warden of the Landing). The text always calls her "Baba Yeska," so it reads clearly; keep it that way.

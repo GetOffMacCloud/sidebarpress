@@ -81,7 +81,7 @@ New for Sidebar Press (2026-11-04/05). Built from the project doc `claude/SP-SQ-
 - **Brewfest.** Brewers' stalls along the Landing, barrel-wrestling, pike smoked at the smokehouse. Malzer's ale at the Fiend's Rest; Lotte Kesselring's at the Grey Wolf; both houses say the other's is water.
 - **The Warden's Dinner.** The one night the whole faculty sits at one table, in the Station House hall under the Chancellor's portrait, from the first toast until the midnight bell.
 - **The Scholar's Oath.** *"I shall not steal manuscripts…"* It hangs in the Station House. Nobody reads it before signing. "Selling research property" is a standing offense (RG-08).
-- **Money.** Perrenders count in **marks** (gp), **kleinmarks** (sp) and **pfennigs** (cp). A laborer earns 3 kleinmarks a day. Students are paid in credits, never coin, which is why 5 marks in the hand looks like a fortune.
+- **Money.** Perrenders count in **marks** (gp), **kleinmarks** (sp) and **pfennigs** (cp). A laborer earns 3 kleinmarks a day. Students are paid in credits, never coin, which is why 25 marks in the hand looks like a fortune.
 - **No flame in the Archive.** Ever. Verenwyr will smell it.
 
 ## What the Locals Know
@@ -107,9 +107,9 @@ New for Sidebar Press (2026-11-04/05). Built from the project doc `claude/SP-SQ-
 6. **Brewfest 5.** Vogelsang finds the coffer empty; [[Mathias Grell]] opens an inquiry. Anyone seen near the Archive is suspended from the Board. The Link reaches Dorakaa by Sunsebb.
 
 ## Hook
-1. **The Offer (default).** Brandmeier approaches the students at the Brewfest stalls, having seen them do something competent. **5 marks each**, half now, for "an hour's honest burglary of a thing that's mine."
+1. **The Offer (default).** Brandmeier approaches the students at the Brewfest stalls, having seen them do something competent. **25 marks each**, half now, for "an hour's honest burglary of a thing that's mine."
 2. **Tuition.** A PC is short of credits for their next step on the Tuition & Leveling Table, or still owes part of the 80-mark first-term bond. Brandmeier offers to cover it. Snick told him.
-3. **The Perrender PC.** A letter from home: the Brandmeiers are an honest house, so why hasn't Ottokar written to his wife since Coldeven?
+3. **The Perrender PC.** A letter from home: the Brandmeiers are an honest house, so why hasn't Ottokar written to his wife since Flocktime?
 4. **Thread (if SP-PBS-04 ended in Conclusion E).** Hendrik Saal's cipher letter carried the same skull-and-grin countermark as Fesch's. [[Lecturer Perenna Dolz]] asks the students to watch Perrender traders.
 
 **Decline path.** Fesch hires two indebted Freshmen, [[Konstanz Weil]] and [[Rudi Weil]]. On Brewfest 4 the coffer is empty, the cousins are missing, and Grell asks the students to find out why. Run Scenes 06–08 as a pursuit: a contrary wind holds the *Hecht* at the Landing until mid-morning.
@@ -144,7 +144,7 @@ New for Sidebar Press (2026-11-04/05). Built from the project doc `claude/SP-SQ-
 | Solution | Needs | Seeded in |
 |---|---|---|
 | **The false Link** | Hogar's Edge, or a fee and a persuasion; Tock's sigils | Scene 03 (Hogar's forge), Scene 04 (sigils) |
-| **The trap** | the Link carried aboard unboxed, with Hask on the quay | Scene 03 (the Landing lead), Scene 04 (the Link's laws in the provenance slip) |
+| **The trap** | the Link carried aboard unboxed, with Garrok on the quay | Scene 03 (the Landing lead), Scene 04 (the Link's laws in the provenance slip) |
 | **Confession** | any two facts, and the nerve to tell Vogelsang or Dolz | Scene 03 (Dolz), Scene 04 (the slip) |
 | **Boarding the *Hecht*** | the *Hecht* Edge; Ruder's goodwill | Scene 03 (the *Hecht* lead) |
 | **Turning Vesharan** | capture him within 30 feet of the Link | Scene 06 |
@@ -156,7 +156,7 @@ New for Sidebar Press (2026-11-04/05). Built from the project doc `claude/SP-SQ-
 - [[Jobst Ruder]], master of the *Graue Hecht*. [[Tegin]], her Wolf Nomad pilot. [[Piet Lanz]] and [[Arnold Fenn]], tethered bargemen.
 - [[Professor Casimir Vogelsang]], keeper of record for the Link. [[Registrar Hedwig Ammerlin]], keeper of the stacks key. [[Saelithan Verenwyr]], Archivist.
 - [[Lecturer Perenna Dolz]] (divination; the fog), [[Lecturer Fennimore Tock]] (the sigils), [[Mathias Grell]] (the Proctor), [[Oswin Kettler]] (the map archive), [[Jens Ober]] (the gate rota).
-- [[Hogar Irongrip]] (the forge), [[Baba Yeska Marovna]] (the Landing), [[Sergeant Ruwen Hask]] (the palisade gate).
+- [[Hogar Irongrip]] (the forge), [[Baba Yeska Marovna]] (the Landing), [[Garrok Stonebrow]] (Drill-Sergeant; the palisade gate).
 - [[Konstanz Weil]] and [[Rudi Weil]], indebted Freshmen (the decline path; a complication).
 - [[Liesl Amsel]], a Probationer on the Archive's labor levy. Watched, not met in earnest (arc seed).
 - [[Rektor Albrecht Weissmantel]], host of the dinner; offstage unless the students confess.
@@ -183,7 +183,7 @@ See [[SP-SQ-01 — Map Assets]]: the Archive (A1–A7), the Landing, and the *Gr
 **Adventuring day:** about 1,700–2,000 adjusted XP at APL 3, below the 4-PC daily budget (5,400), with a long rest possible only before Scene 05. Statblocks: [[SP-SQ-01 — Bestiary]].
 
 ## Treasure & Rewards
-- **Coin:** Brandmeier's fee, 5 marks (gp) each (8 if haggled), half up front. Brandmeier's own reward if freed: 25 marks to the party.
+- **Coin:** Brandmeier's fee, 25 marks (gp) each (30 if haggled), half up front. Brandmeier's own reward if freed: 25 marks each.
 - **Credits:** 40 base for the turned job (Conclusion A), plus up to 15 extra credit each. See [[Scene 08 — Dawn on the Landing]].
 - **Items:** [[The Ashbox]] (if taken), Vesharan's spellbook, a *potion of water breathing*, the [[Rubbing of the Six]] (Tock's gift after A or B), [[Omen-Taper of the Blind Spot]] (Dolz's loan).
 - **Standing:** Brandmeier's friendship in Schwartzenbruin; Dolz as a faculty sponsor; Vogelsang's debt (if the students kept his secret).

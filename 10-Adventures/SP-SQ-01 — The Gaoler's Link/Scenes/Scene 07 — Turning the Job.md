@@ -32,7 +32,7 @@ The double-cross, made the students' own. Use this scene when the party knows en
   - **[[Lecturer Fennimore Tock]]**, who can cut passable sigils.
   - **[[Lecturer Perenna Dolz]]**, who will help with a confession.
   - **[[Professor Casimir Vogelsang]]**, who wants his Link back quietly.
-  - **[[Sergeant Ruwen Hask]]**, at the gate with two watchmen.
+  - **[[Garrok Stonebrow]]**, at the gate with two gate-rota students.
   - **[[Baba Yeska Marovna]]**, who can hold any boat at the Landing for a toll dispute.
 
 ## Beats
@@ -43,7 +43,7 @@ The double-cross, made the students' own. Use this scene when the party knows en
   - Tock cuts sigils good enough to pass a glance (DC 12 Persuasion to wake him).
   - The students box the fake in the Ashbox, get paid, and the *Hecht* sails north with a lump of iron. Vesharan finds out at the first camp, and it's **Conclusion B**.
   - A suspicious Vesharan may try to touch it; a fake doesn't burn. DC 15 Charisma (Deception) to explain why the cold has gone out of it ("it lost its chill in the hold").
-- **The trap.** Bring the real Link aboard **unboxed**, with Hask and two watchmen (**guards**) waiting on the quay. Brandmeier's Waking happens in front of witnesses. Vesharan goes over the rail on round 1 unless someone is already at the rail. **Conclusion A.**
+- **The trap.** Bring the real Link aboard **unboxed**, with Garrok and two gate-rota students (**guards**) waiting on the quay. Brandmeier's Waking happens in front of witnesses. Vesharan goes over the rail on round 1 unless someone is already at the rail. **Conclusion A.**
 - **Confession.**
   - Go to Vogelsang or Dolz before dawn, confess, and plan the trap with them. Fewer credits lost, more questions asked, and **Conclusion A** with the Field Station's backing.
   - Vogelsang wants the Link back without the Warden hearing about his private study. Agreeing puts him in the party's debt (arc seed, SP-SQ-04).
@@ -66,7 +66,7 @@ The working deck. A ladder leads down to the hold (H2), and the clerk's cabin do
 **Treasure:**
 - **[[The Ashbox]]** (plot key).
 - A sealed crate of winter furs for a northern route (**F3**: the *Hecht* isn't going to Schwartzenbruin).
-- Brandmeier's strongbox: **25 marks**, which he pays as a reward if freed.
+- Brandmeier's strongbox: **25 marks for each student**, which he pays as a reward if freed.
 **Development:** taking the Ashbox leaves Vesharan with no safe way to carry the Link. He will try to make the students carry it all the way north, and that offer is his last card.
 
 **H3. THE CLERK'S CABIN**

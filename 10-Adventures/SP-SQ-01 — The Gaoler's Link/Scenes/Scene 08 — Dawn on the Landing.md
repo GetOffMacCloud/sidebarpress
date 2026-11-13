@@ -49,7 +49,7 @@ The *Hecht* sailed with Hogar's fake. Vesharan learns the truth at his first cam
 **Credits:** 30, plus up to 10 extra credit each.
 
 ### C — Caught, Then Believed
-The students were caught in the act and talked their way into the truth. Vogelsang and Hask sprang the trap themselves while the students watched from the quay.
+The students were caught in the act and talked their way into the truth. Vogelsang and Garrok sprang the trap themselves while the students watched from the quay.
 **Credits:** 25 each, no extra credit, and a mark in the Registrar's ledger.
 
 ### D — Caught, Not Believed (partial)

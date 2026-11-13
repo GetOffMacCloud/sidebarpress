@@ -37,7 +37,7 @@ Meet Brandmeier and Fesch, plant F2 (Brandmeier repeats someone else's words) an
 ### Something competent
 Brandmeier notices the party when one of them does something capable. Offer one of these, or let the players volunteer:
 - **The barrel-wrestle:** DC 13 Strength (Athletics), three wins needed; a Rhennee bargeman the size of a door is the champion.
-- **The fight:** two drovers squaring off over a spilled cask; DC 12 Persuasion or Intimidation to stop it before Hask does.
+- **The fight:** two drovers squaring off over a spilled cask; DC 12 Persuasion or Intimidation to stop it before Garrok does.
 - **The haggle:** a smoked-pike seller who cheats students; DC 12 Insight spots the thumb on the scale.
 
 Whatever they do, Brandmeier raises his tankard: *"Now, that's a crew. Sit. The ale's mine."*

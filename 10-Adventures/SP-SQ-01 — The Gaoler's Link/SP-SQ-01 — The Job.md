@@ -48,7 +48,7 @@ Track it openly, with a die on the table.
 ## Field Station Alert States
 - **Lax (Heat 0–2).** The Warden's dinner is in full swing in the Station House hall. The Registrar and Vogelsang sit at high table until midnight. Two gate-rota Probationers walk the palisade path with a lantern once an hour.
 - **Wary (Heat 3–4).** **[[Mathias Grell]]** leaves the dinner and walks the Field Station every 20 minutes. **[[Oswin Kettler]]** goes back to the Archive to "check the presses."
-- **Alert (Heat 5–6).** Grell, **[[Garrok Stonebrow]]** and two gate-rota students (**guards**, nonlethal) go to the Archive with a covered lantern. **[[Sergeant Ruwen Hask]]** shuts the palisade gate to the Landing; nobody passes without a story.
+- **Alert (Heat 5–6).** Grell and two gate-rota students (**guards**, nonlethal) go to the Archive with a covered lantern. **[[Garrok Stonebrow]]** leaves the dinner and shuts the palisade gate to the Landing; nobody passes without a story.
 
 **Scaled response.**
 - **Careful party:** the Field Station barely notices. Any inquiry blames "a Perrender sailor."
@@ -58,7 +58,7 @@ Track it openly, with a die on the table.
 ## The *Graue Hecht*'s Alert States (Vesharan)
 - **Lax.** He plays the clerk, stays aboard, and keeps [[Snick]] on the students.
 - **Wary** (pointed questions to Brandmeier, Snick spotted, or a visit to Hogar about the box). The handover moves up to midnight, and the *Hecht* readies to sail at the change of the watch.
-- **Alert** (the students go to Vogelsang, Dolz, Grell or Hask, or capture Snick). He tries to have the Link taken *from* the students by his tethered bargemen, then sails at once.
+- **Alert** (the students go to Vogelsang, Dolz, Grell or Garrok, or capture Snick). He tries to have the Link taken *from* the students by his tethered bargemen, then sails at once.
 
 ## Snick's Watch
 Each day of Scene 03, Snick shadows one PC (DM's choice: whoever is doing the most interesting legwork). Spotting it takes a **DC 15 Wisdom (Perception)** check: a draft, a flicker, a whispered giggle. If it isn't spotted, Vesharan learns what that PC did. **Once the party holds the unboxed Link, Snick won't come within 30 feet of them** (the ache), and Vesharan can't see through its eyes near them anyway. It hisses about it.

@@ -47,7 +47,7 @@ This happens if the party carries it up the gangplank, insists on handing it to 
 At the same moment, Piet and Arnold blink, lower their arms, and look around as if waking on the wrong boat. **(F2 last resort; F1 last resort if Brandmeier is asked about his grandfather.)** Fesch, still disguised, says calmly: *"Box it, students."*
 
 ### Vesharan's escalation script
-1. **Coax:** *"Five marks more. You've a good thing; don't spoil it."*
+1. **Coax:** *"Five marks more each. You've a good thing; don't spoil it."*
 2. **Recruit:** he drops the disguise to show a young Bakluni face, tired around the eyes. *"The University will teach you to catalogue things like that. My master would teach you to use them."* He makes this pitch to a Bakluni or Ket-born PC first, if there is one. (**F3 last resort.**)
 3. **Threaten:** Snick appears on the crate, grinning. *Hold person* on whoever holds the Link.
 4. **Grab:** he orders Piet and Arnold to wrestle the Link into the box. This works only while they are tethered, that is, more than 30 feet from the unboxed Link.
@@ -128,7 +128,7 @@ Use this if the *Hecht*'s other bargemen pile in at Alert: a pack of 4 **Hecht B
 ## Development
 - **Vesharan captured** → he says nothing until he is within 30 feet of the Link. Then he talks, frightened: *"He'll know I failed the moment that thing is boxed. Don't box it. Please."* (Arc seed: the defection path, SP-SQ-05.)
 - **Vesharan escapes** → he's in the reeds by sunrise and gone by Patchwall. Record it for SP-SQ-02.
-- **Brandmeier awake** → he is horrified, then grateful, then furious. He pays his reward (25 marks) and gives the party the run of the *Hecht*. Ruder searches the clerk's cabin with them (H3, Scene 07).
+- **Brandmeier awake** → he is horrified, then grateful, then furious. He pays his reward (25 marks each) and gives the party the run of the *Hecht*. Ruder searches the clerk's cabin with them (H3, Scene 07).
 - **The Link boxed in the fight** → Iuz's divinations can find it again. If it leaves the Landing boxed, it's Conclusion E unless the party gets it back before dawn.
 - **Heat 5–6 from Scene 05** → Grell arrives on the quay mid-fight with two proctors. He stops the fight first and asks questions second, which helps the party more than it hurts.
 
@@ -145,7 +145,7 @@ Use this if the *Hecht*'s other bargemen pile in at Alert: a pack of 4 **Hecht B
 - **Taste:** fog
 
 ## Alternates
-- **The party arrives with Hask and the watch** → that's the trap (Scene 07). Play the Waking with witnesses; Vesharan goes over the rail on round 1.
+- **The party arrives with Garrok and the gate rota** → that's the trap (Scene 07). Play the Waking with witnesses; Vesharan goes over the rail on round 1.
 - **The party doesn't come at all** → Fesch sends Snick to find them; the *Hecht* waits until full light, then sails without the Link (Conclusion B-variant: the Link stays, Brandmeier sails tethered).
 
 ## Transition

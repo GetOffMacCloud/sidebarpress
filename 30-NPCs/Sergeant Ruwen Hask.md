@@ -27,7 +27,6 @@ Not fought; **commoner** (MM p. 345) if needed.
 
 ## Appearances
 - [[SP-PBS-00-Nobodys-Colors]] — Scene 4 (Transition, the lake-gate)
-- [[SP-SQ-01-The-Gaolers-Link]]: the palisade gate; the trap on the quay; Scenes 03, 07
 
 ## Canon Notes
 Homebrew. *SP-PBS-03's dock sergeant at the same lake-gate is unnamed; he can be Hask, if that ruling goes this way.*

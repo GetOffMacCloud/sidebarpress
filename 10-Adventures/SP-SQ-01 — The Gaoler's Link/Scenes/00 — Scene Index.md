@@ -98,7 +98,7 @@ Three-clue rule: each conclusion has at least three routes.
 
 **F3. Herr Fesch is the real client, and he serves Iuz**
 - [ ] *Detect magic* on Fesch: an illusion aura (S01)
-- [ ] Fesch won't pass the palisade gate (Hask, S03)
+- [ ] Fesch won't pass the palisade gate (Garrok, S03)
 - [ ] Dolz reads his hand: *"A Ket schoolroom hand."* (S03)
 - [ ] The cipher letter: a Horned Society seal and a skull-and-grin countermark (S07)
 - **Last resort:** his disguise drops when he loses his temper (S06)

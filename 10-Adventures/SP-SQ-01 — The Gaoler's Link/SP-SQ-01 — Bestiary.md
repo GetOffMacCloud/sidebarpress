@@ -105,7 +105,7 @@ All statblocks use **2014 5e** rules; MM page numbers refer to the 2014 *Monster
 | [[Tegin]] | **scout** (MM p. 349) | 06, 07 | APL 4 only. Fights for pay and quits at half hit points; tethered, so he wakes near the Link. |
 | [[Jobst Ruder]] | **veteran** (MM p. 350) | 07 | Won't fight students; included for completeness. |
 | [[Ottokar Brandmeier]] | **noble** (MM p. 348) | 01, 02, 06 | Not a combatant. |
-| Gate rota, proctors, watchmen ([[Jens Ober]], [[Mathias Grell]], [[Garrok Stonebrow]], Hask's men) | **guard** (MM p. 347) | 05, 07 | **Nonlethal.** They grab, shout and hold. A PC who kills one ends their career (Conclusion D). |
+| Gate rota, proctors, watchmen ([[Jens Ober]], [[Mathias Grell]], [[Garrok Stonebrow]]) | **guard** (MM p. 347) | 05, 07 | **Nonlethal.** They grab, shout and hold. A PC who kills one ends their career (Conclusion D). |
 | [[Konstanz Weil]], [[Rudi Weil]] | **bandit** (MM p. 343) | 05 | Nonlethal; surrender at the first sign of authority. |
 
 ## Not Fought
