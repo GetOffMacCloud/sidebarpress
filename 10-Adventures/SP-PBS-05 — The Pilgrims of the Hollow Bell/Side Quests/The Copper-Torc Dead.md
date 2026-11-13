@@ -25,7 +25,7 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 - **Was a second Sun-Bell hollowed?** Find it before Readying.
 
 ## Links
-- [[Barrow Dead]]. For the Friday table: Vaelin's backstory.
+- [[Barrow Dead]]. Ties to any ranger's or undead-hunter's backstory.
 - Source: [[SP-PBS-05-The-Pilgrims-of-the-Hollow-Bell#Continuing the Adventure]]
 
 ## Theme

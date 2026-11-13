@@ -64,7 +64,7 @@ No Luna, a sliver of Celene, and a hard frost. A torch ring lights the crown and
 - **Halse** uses *hold person* on whoever reaches the frame, then *spiritual weapon*. She fights to the end. If she gets the clapper, she rings.
 - **Ansgar** never stops ringing unless forced. He uses his action for *inflict wounds* on anyone adjacent, or *guiding bolt* on a light-bearer.
 - **Barrow dead** go for whoever carries fire or light, then for the clapper-thief.
-- **Tu'ree-style darkvision sharing, *Eyes of Night*, dark-adapted scouts:** let them flank from outside the torch ring. Reward it.
+- **Shared darkvision (a Twilight cleric's *Eyes of Night*) and dark-adapted scouts:** let them flank from outside the torch ring. Reward it.
 
 ## Toll 13 — Cathal Red-Torc
 > *The thirteenth note doesn't fade. It hangs in the frost. In the ring, the earth humps up and splits, and a tall dead man in a corroded mail shirt stands, a twisted red-gold torc at his throat. He looks at the priest, then at you. He speaks in a language older than the hill.*

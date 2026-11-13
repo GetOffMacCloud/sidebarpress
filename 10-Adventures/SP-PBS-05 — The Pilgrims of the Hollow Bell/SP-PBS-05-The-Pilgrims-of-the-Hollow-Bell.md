@@ -39,7 +39,7 @@ tags: [one-shot, investigation, pursuit, undead, nerull, grey-sickle, old-faith,
 
 ## How to Use This Note
 This is the whole adventure, start to finish, in order of play. Supporting notes:
-- [[SP-PBS-05 — DM's Notes]]: the Notice track, the time budget, scaling, alert states, rumors, the Lore Ladder, weather, credits, canon notes and the Friday table insert. **Read it once before running.**
+- [[SP-PBS-05 — DM's Notes]]: the Notice track, the time budget, scaling, alert states, rumors, the Lore Ladder, weather, credits and canon notes. **Read it once before running.**
 - Encounter notes, each with its map, tokens, tactics, scaling and loot: [[SP-PBS-05 — E1 — The Kalbach Churchyard]] · [[SP-PBS-05 — E2 — The Hollen Ford Relay]] · [[SP-PBS-05 — E3 — The Orc Camp]] · [[SP-PBS-05 — E4 — Thirteen Tolls]]
 - [[SP-PBS-05 — Bestiary]] (all statblocks, with FGU import text in each creature note).
 - New spells: [[Ash Tally]] · [[Reaper's Tithe]] · [[Hollowing Toll]]. New items: [[Reaper's Penny]] · [[The Bone Clapper]] · [[The Sun-Bell of Carn Aedh]] · [[The Yati Lambskin]] · [[Red Torc of Cathal]].

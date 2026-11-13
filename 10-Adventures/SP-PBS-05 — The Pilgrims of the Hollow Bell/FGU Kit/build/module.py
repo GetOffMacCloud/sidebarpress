@@ -81,3 +81,80 @@ def srd(src,name,key,token,dress):
     e=m._cat('npc').find(key); old=e.find('token')
     if old is not None: e.remove(old)
     _S(e,'token','token',m.imgpath(token)); m.TOK[key]=m.imgpath(token)
+# ---- NPCs ----
+homebrew('ansgar',NOTE('30-NPCs','Brother-Reaper Ansgar Vell'),picture='portrait-ansgar-vell',token='portrait-ansgar-vell')
+homebrew('halse',NOTE('30-NPCs','Sister Halse'),picture='portrait-sister-halse',token='portrait-sister-halse')
+homebrew('grukka',NOTE('30-NPCs','Grukka One-Tusk'),picture='portrait-grukka-one-tusk',token='portrait-grukka-one-tusk')
+homebrew('cathal',NOTE('30-NPCs','Cathal Red-Torc'),picture='portrait-cathal-red-torc',token='portrait-cathal-red-torc')
+homebrew('barrowdead',NOTE('65-Bestiary/'+CODE,'Barrow Dead'),token='token-barrow-skeleton')
+homebrew('pennyrisen',NOTE('65-Bestiary/'+CODE,'Penny-Risen'),token='token-zombie-villager')
+homebrew('pennyrisenlamb',NOTE('65-Bestiary/'+CODE,'Penny-Risen'),token='token-zombie-lamb')
+m._cat('npc').find('pennyrisenlamb').find('name').text='Penny-Risen (Lamb)'
+homebrew('pennyrisensignaller',NOTE('65-Bestiary/'+CODE,'Penny-Risen'),token='token-zombie-signaller')
+m._cat('npc').find('pennyrisensignaller').find('name').text='Penny-Risen (Relay Signaller)'
+homebrew('pennyrisenfox',NOTE('65-Bestiary/'+CODE,'Penny-Risen'),token='token-zombie-fox')
+m._cat('npc').find('pennyrisenfox').find('name').text='Penny-Risen (Fox)'
+homebrew('ghoulrider',NOTE('65-Bestiary/'+CODE,'Ghoul Rider'),token='token-ghoul-rider')
+srd('acolyte','Grey Sickle Acolyte','sickleacolyte','token-grey-sickle-acolyte','Rust-red habit under undyed grey. On the Tor they ring the bell stair and cast sanctuary on Ansgar first, then sacred flame on anyone climbing. A muffle torn off the bell is an acolyte\'s action.')
+srd('orc','Orc Deserter','orcdeserter','token-orc-deserter',"One of Grukka's band, out of Iuz's war in the Vesve. Paid in green Flan grave-silver and uneasy about it. Turned orcs fight with the wardens on the Tor.")
+srd('ridinghorse','The Relay Horse (Riding Horse)','relayhorse','token-relay-horse',"A dead Hollen Ford rider's horse. Calmed (Animal Handling DC 10), it follows the wardens and carries one up the Tor path at full speed.")
+# ---- encounters (one per party size) ----
+PR,GH='pennyrisen','ghoulrider'
+for c,n,cr in (('E1a','01 Kalbach Churchyard (4 PCs)',[(PR,3),('pennyrisenlamb',1)]),('E1b','01 Kalbach Churchyard (5 PCs)',[(PR,4),('pennyrisenlamb',1)]),('E1c','01 Kalbach Churchyard (6 PCs)',[(PR,4),('pennyrisenlamb',2)])): m.battle(c,n,cr,'map-kalbach')
+for c,n,cr in (('E2a','02 Hollen Ford Relay (4 PCs)',[(GH,1),('pennyrisensignaller',1),(PR,1),('pennyrisenfox',1)]),('E2b','02 Hollen Ford Relay (5 PCs)',[(GH,2),('pennyrisensignaller',1),('pennyrisenfox',1)]),('E2c','02 Hollen Ford Relay (6 PCs)',[(GH,2),('pennyrisensignaller',1),(PR,2),('pennyrisenfox',1)])): m.battle(c,n,cr,'map-hollen-ford-relay')
+for c,n,k in (('E3a','03 The Orc Camp (4 PCs)',2),('E3b','03 The Orc Camp (5 PCs)',4),('E3c','03 The Orc Camp (6 PCs)',5)): m.battle(c,n,[('grukka',1),('orcdeserter',k)],'map-orc-camp')
+for c,n,a,b in (('E4a','04 Thirteen Tolls (4 PCs)',2,0),('E4b','04 Thirteen Tolls (5 PCs)',2,2),('E4c','04 Thirteen Tolls (6 PCs)',4,4)):
+    m.battle(c,n,[('ansgar',1),('halse',1),('sickleacolyte',a)]+([('barrowdead',b)] if b else []),'map-bell-tor')
+m.battle('W4','04 Wave - Barrow Dead (1 per toll)',[('barrowdead',1)],'map-bell-tor')
+m.battle('X4','04 Toll 13 - Cathal Red-Torc rises',[('cathal',1)],'map-bell-tor')
+# ---- items (from 50-Items notes) ----
+def itemtext(p):
+    t=fullnote(p); t=re.sub(r'^\*[^\n]*\*\n','',t.lstrip(),count=1)
+    return C(t)
+for key,name,typ,rar,pic in (('reaperspenny',"Reaper's Penny",'Wondrous Item','Common','item-reapers-penny'),('boneclapper','The Bone Clapper','Wondrous Item','Uncommon','item-bone-clapper'),
+    ('sunbell','The Sun-Bell of Carn Aedh','Wondrous Item','Very Rare','item-sun-bell'),('yatilambskin','The Yati Lambskin','Wondrous Item','Uncommon','item-yati-lambskin'),('redtorc','Red Torc of Cathal','Wondrous Item','Uncommon','portrait-cathal-red-torc')):
+    rl=re.search(r'^\*(Wondrous item[^\n]*)\*',fullnote(NOTE('50-Items',name)).lstrip(),re.M)
+    m.item(key,name,typ,'<p><i>%s</i></p>'%html.escape(rl.group(1) if rl else '')+itemtext(NOTE('50-Items',name)),rarity=rar,picture=pic)
+# ---- the Primer as a shareable story record ----
+pr=_S(m._cat('encounter'),'primer'); _S(pr,'name','string',"The Field Warden's Primer (Player Handout)"); _FT(pr,'text',C(fullnote(PRIMER)))
+PRIM=('encounter','encounter.primer',"Story: The Field Warden's Primer")
+# ---- reference manual ----
+I1,A1,A2,A3,AP='Introduction','Act 1 — The Road and Kalbach','Act 2 — Hollen Ford and the Orc Camp','Act 3 — The Bell-Tor','Appendices'
+ENC=lambda n: P('Encounters/*E%d —*.md'%n)
+B3=lambda e: [m.B(e+x) for x in 'abc']
+m.page(I1,'Cover','<p><b>APL 3 (level 3) · 4–6 characters · one 4-hour session</b></p><p><i>Nobody\'s coming to save you.</i></p><p>A Sidebar Press adventure for the %s campaign frame.</p>'%FRAME,images=['cover'])
+m.page(I1,'Credits & How to Use','<p><b>The Pilgrims of the Hollow Bell</b> · %s · Sidebar Press. Statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0).</p>'%CODE+C(pick(M,'Adventure Code','How to Use This Note','Design Frame')))
+m.page(I1,'Opening Narration',C(pick(M,'Opening Narration')),links=[PRIM])
+m.page(I1,'Background',C(pick(M,'Background','Adventure Outline')),images=['map-route-overview'])
+m.page(I1,'Facts & Hooks',C(pick(M,'Facts the Players Must Learn','Hooks')),images=imgs(M.get('Hooks','')))
+m.page(I1,'Running the Adventure',C(pick(D,'Running the Theme: *Nobody\'s coming to save you*','Time Budget (4 hours)','The Notice Track (Parts 1–2)',"Ansgar's Alert States",'Factions','Rumors (d6)')))
+m.page(I1,'Encounter Curve & Lanes',C(pick(D,'Encounter Curve (2014 DMG)','Every Seat Has a Lane')),links=[m.B(c) for c in m.BAT])
+m.page(I1,'Weather, Gods & the Land',C(pick(D,'Weather and Sky (Patchwall 23–25, 576 CY)','Learning the Gods (the Lore Ladder)','The Grieving Land')))
+m.page(I1,'Cast & Locations',C(pick(M,'Key NPCs','Key Locations')),images=['portrait-ansgar-vell','portrait-sister-halse','portrait-grukka-one-tusk','portrait-cathal-red-torc','portrait-udo-pfaff','portrait-brenna','portrait-field-office-clerk'],
+  links=[m.N(k) for k in ('ansgar','halse','grukka','cathal')])
+def scene(sec,part,i,links=()):
+    h,t=PART[part][i]; m.page(sec,h,C(t),images=imgs(t),links=links)
+P1,P2,P3,P4,P5=[k for k in PART]
+scene(A1,P1,0,[PRIM]); scene(A1,P1,1)
+scene(A1,P2,0,B3('E1')+[m.N(PR),m.IT('reaperspenny')])
+def encpage(sec,n,links):
+    t=fullnote(ENC(n)); m.page(sec,os.path.basename(ENC(n))[len(CODE)+3:-3],C(t),images=imgs(t),links=links)
+encpage(A1,1,B3('E1')+[m.N(PR),m.N('pennyrisenlamb'),m.I('map-kalbach'),m.IT('reaperspenny')])
+scene(A2,P3,0,B3('E2')+[m.N(GH),m.N('relayhorse')]); encpage(A2,2,B3('E2')+[m.N(GH),m.N('pennyrisensignaller'),m.N('pennyrisenfox'),m.N('relayhorse'),m.I('map-hollen-ford-relay')])
+scene(A2,P4,0,B3('E3')+[m.N('grukka')]); encpage(A2,3,B3('E3')+[m.N('grukka'),m.N('orcdeserter'),m.I('map-orc-camp')])
+scene(A3,P5,0,B3('E4')+[m.B('W4'),m.B('X4'),m.IT('sunbell'),m.IT('boneclapper')])
+encpage(A3,4,B3('E4')+[m.B('W4'),m.B('X4'),m.N('ansgar'),m.N('halse'),m.N('sickleacolyte'),m.N('barrowdead'),m.N('cathal'),m.I('map-bell-tor'),m.IT('sunbell'),m.IT('boneclapper'),m.IT('redtorc')])
+m.page(A3,'Concluding the Adventure',C(pick(M,'Concluding the Adventure'))+C(pick(D,'Credits (Greyhawk University frame)')),images=imgs(M['Concluding the Adventure']),links=[m.IT('yatilambskin'),m.IT('redtorc')])
+m.page(AP,'Bestiary',C(re.sub(r'^# .*\n','',body(BEST),count=1)),links=[m.N(k) for k in m.NPC])
+for s in ('Ash Tally',"Reaper's Tithe",'Hollowing Toll'): m.page(AP,'Spell — '+s,C(fullnote(P('Spells/%s.md'%s))))
+m.page(AP,'Magic Items','<p>The adventure\'s homebrew items are in the Items list.</p>',images=['item-reapers-penny','item-bone-clapper','item-sun-bell','item-yati-lambskin'],links=[m.IT(k) for k in m.ITEM])
+for h in sorted(glob.glob(os.path.join(SRC,'*Handout —*.md')),key=lambda p: re.search(r'Handout (\d)',open(p).read()).group(1)):
+    t=fullnote(h); m.page(AP,re.search(r'^title: "(.*)"',open(h).read(),re.M).group(1),C(t),images=imgs(t))
+m.page(AP,"The Field Warden's Primer",C(fullnote(PRIMER)),images=imgs(fullnote(PRIMER)),links=[PRIM])
+m.page(AP,'Continuing: Side Quests',''.join(C('## '+os.path.basename(q)[:-3]+'\n'+fullnote(q).split('## Theme')[0]) for q in sorted(glob.glob(os.path.join(SRC,'Side Quests','*.md')))))
+MAPS=['map-route-overview','map-kalbach','map-hollen-ford-relay','map-orc-camp','map-bell-tor']
+m.page(AP,'Maps','<p>Top-down ink maps for the four encounters and the route. No grid is set: calibrate it in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
+# ---- build ----
+OUT=os.path.join(ADV,'FGU Kit',NAME+'.mod')
+m.build(WORK+'.mod',cover_image='cover'); shutil.copyfile(WORK+'.mod',OUT)
+if '--install' in sys.argv: shutil.copyfile(OUT,os.path.join(FG,'modules',NAME+'.mod')); print('installed to FG modules')
