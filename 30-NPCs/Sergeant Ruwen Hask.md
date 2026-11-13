@@ -12,6 +12,7 @@ tags: [schwartzenbruin, patrol, sp-pbs-00]
 > The lake-gate patrol sergeant at Schwartzenbruin, who meets every boat with a lantern and three questions.
 
 ## Appearance
+![[SP-GQ00 Portrait - Ruwen Hask.png|300]]
 A patrol coat, a lantern, and a clerk at his elbow with a ledger on a stand.
 
 ## Personality & Mannerisms

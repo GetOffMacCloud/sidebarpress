@@ -13,6 +13,7 @@ aliases: [Garrok, the Drill-Sergeant, Sergeant Stonebrow]
 > The Field Station's Drill-Sergeant: a goliath of the Yatil Mountaineer clan, thirty-three, who came north as a caravan guard and stayed when the caravan left.
 
 ## Appearance
+![[SP-GQ00 Portrait - Garrok Stonebrow.png|300]]
 Seven and a half feet of grey-mottled mountain, tattooed with his clan's scree-marks, a practice shield always on his back.
 
 ## Personality & Mannerisms

@@ -129,6 +129,39 @@ six thick silver coins spilling out of a rolled wool stocking, each coin stamped
 ## E · Maps
 **Reuse GQ1's *Graue Hecht* deck maps** (`99-Assets/SP-SQ/maps/SP-GQ01 — Hecht 1–4 — Player.png`; credit Mehujel, Inkarnate). The prologue's ship key (H1–H5) is mapped to them. No new map prompt.
 
+## F · Additions (2026-11-13)
+
+Art the prologue needs that the first pass of this brief missed. Same tail and seed as above; use `cover/SP-GQ00 — Cover.png` as the `--sref`.
+
+**P15 — Sergeant Ruwen Hask** (Scene 1, the Schwartzenbruin lake-gate)
+File: `portraits/SP-GQ00 Portrait - Ruwen Hask.png`
+```
+a patient middle-aged Perrender patrol sergeant in a heavy buttoned patrol coat and a plain iron cap, close-cropped beard, holding up a hooded lantern in one hand, a pencil tucked behind his ear, courteous but watchful eyes, half-length portrait, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 [SREF] --seed 26576 --v 8.1 --style raw --stylize 75 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, frame, modern clothing
+```
+
+**P16 — Garrok Stonebrow** (Scene 6, the gate at landfall; also GQ1)
+File: `portraits/SP-GQ00 Portrait - Garrok Stonebrow.png`
+```
+a towering hairless goliath drill-sergeant of about thirty, skin mottled with dark stippled patches and small bony ridges over the brows, rounded human ears, a heavy jaw, a mountaineer's fur-collared jerkin over mail, a round shield slung on his back, arms folded, stern and unimpressed, half-length portrait, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 [SREF] --seed 26576 --v 8.1 --style raw --stylize 75 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, frame, modern clothing, pointed ears, orc, tusks
+```
+
+**P17 — The Chancellor's Letter** (Handout 1 background; set the letter text over it in Canva, like the GQ1 handouts)
+File: `handouts/SP-GQ00 Handout - The Chancellor's Letter.png` (finished) and `… (blank).png` (the art alone)
+```
+a single sheet of heavy laid paper, unfolded, with soft creases from being folded in three, a large blank writing area, a broken wax seal at the bottom pressed with an open book over a crossed cudgel and quill, a few ink blots in one margin, flat top-down view filling the frame, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, high contrast black and white line art --ar 3:4 [SREF] --seed 26576 --v 8.1 --style raw --stylize 75 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, writing, signature, watermark
+```
+*Text to set:* the letter in [[SP-GQ00 — Handout — The Chancellor's Letter]] (dated 2 Goodmonth 576, signed A. Adenauer, Chancellor).
+
+**P18 — Drowned cabin boy** (Scene 5's zombie; token source)
+File: `plates/Drowned Cabin Boy.png`
+```
+a drowned ship's boy of about twelve risen from a lake, bloated and grey, soaked shirt and rolled breeches, bare feet, lake weed in his hair, reaching forward with both hands, water dripping from his fingers, standing on wet planks, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 [SREF] --seed 26576 --v 8.1 --style raw --stylize 75 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+
+### Tokens (from the token maker, after the art above; save as `tokens/SP-GQ00 Token - <Name>.png`)
+- [ ] Fog-Drowned · [ ] Drowned Cabin Boy: **Scene 5 combatants, needed for FGU**
+- [ ] Mother Gunde · [ ] Agnes Feldhaus · [ ] Ruwen Hask · [ ] Garrok Stonebrow (optional, non-combat)
+
 ## Checklist
 - [x] P1 Cover (2026-11-13: `cover/SP-GQ00 — Cover.png`; use as the `--sref` for the rest of the set)
 - [x] P2 Arc opener (2026-11-13; at the head of Part One)
@@ -136,5 +169,6 @@ six thick silver coins spilling out of a rolled wool stocking, each coin stamped
 - [ ] **Upscale before print:** S1–S5 and S4b are 1344×896 (need ~2250 px wide for a half page). S2–S5 measure 58–63% solid black: test-print before layout.
 - [x] P9 Agnes Feldhaus (check the flat grey robe after 1-bit conversion) · [x] P10 Mother Gunde · [x] P14 Machteld Vreeswijk
 - [x] P11 Fog-Drowned plate · [x] P12 Letter-case · [x] P13 Dorakaa silver
+- [x] P15 Ruwen Hask (crop the stray "T" mark, bottom right) · [ ] P16 Garrok Stonebrow (re-roll: pointed ears read orc; prompt now says rounded ears, no orc) · [ ] P17 Chancellor's Letter (art in, but in colour and still blank: set the text; rename the art-only file "(blank)") · [x] P18 Drowned Cabin Boy
 - [ ] Density check (25–45% solid black) on every scene before upscaling
 - [x] Cover plaque: `99-Assets/_Covers/Cover — The Shadow on the Quag.png` (2026-11-13)

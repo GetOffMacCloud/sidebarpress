@@ -11,6 +11,9 @@ tags: [handout, shadow-on-the-quag, gaolers-link]
 
 # Handout 1 — The Chancellor's Letter
 
+> [!art]+ Handout 1
+> ![[SP-GQ00 Handout - The Chancellor's Letter.png|500]]
+
 *Give this only to a reader who opens the letter-case: Vesharan (by report, in GQ1), or the students if they break the seal (Conclusion C). Vogelsang reads it in Scene 7.*
 
 > *Greyhawk, the 2nd of Goodmonth, 576*
