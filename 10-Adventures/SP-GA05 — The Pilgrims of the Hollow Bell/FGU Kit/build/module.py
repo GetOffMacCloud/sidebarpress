@@ -10,17 +10,18 @@ FG=os.environ.get('FG_DIR',os.path.expanduser('~/mnt/Fantasy Grounds'))
 CODE='SP-GA05'; NAME='SP-GA05 The Pilgrims of the Hollow Bell'; DISPLAY='SP-GA05 — The Pilgrims of the Hollow Bell'
 SRC=ADV; ASSETS=os.path.join(VAULT,'99-Assets',CODE); TEXT_MAP={}
 EXCLUDE_IMAGES=('portrait-pip-thistlebottom',)                       # Friday-table only
-RENAME_IMAGES={'token-zombie-pip':'token-zombie-signaller','portrait-elrics-squire':'portrait-kalbach-letter-writer'}
+RENAME_IMAGES={'token-zombie-pip':'token-zombie-signaller','portrait-elrics-squire':'portrait-kalbach-letter-writer','SP-PBS-05 map-orc-camp':'map-orc-camp'}
 DROP_SECTIONS=('Friday Night Field Trips Insert','Open Items')       # DM's Notes sections left out of the sold module
 FRAME='Greyhawk University'
 # -----------------------------------------------------------------------
 WORK=os.path.expanduser('~/work/fgu/'+CODE); FLAT=WORK+'-src'; os.makedirs(FLAT,exist_ok=True)
 def ikey(f):  # vault asset file name -> module image key
-    n=os.path.splitext(f)[0]; n=n[len(CODE)+1:] if n.startswith(CODE+' ') else n
+    n=os.path.splitext(f)[0]
+    for pre in (CODE+' ','SP-PBS-05 '): n=n[len(pre):] if n.startswith(pre) else n  # old-code asset names
     return RENAME_IMAGES.get(n,n)
 for f in glob.glob(os.path.join(ASSETS,'*','*')):
     k=ikey(os.path.basename(f)); dst=os.path.join(FLAT,k+os.path.splitext(f)[1].lower())
-    if k not in EXCLUDE_IMAGES and not os.path.exists(dst): shutil.copyfile(f,dst)
+    if os.path.isfile(f) and k not in EXCLUDE_IMAGES and (not os.path.exists(dst) or os.path.getmtime(f)>os.path.getmtime(dst)): shutil.copyfile(f,dst)  # skip folders; refresh changed art
 m=Mod(NAME,DISPLAY,'Sidebar Press','Sidebar Press',FG,WORK,text_map=TEXT_MAP)
 m.images(FLAT)
 P=lambda pat: glob.glob(os.path.join(SRC,pat))[0]
@@ -103,6 +104,7 @@ PR,GH='pennyrisen','ghoulrider'
 for c,n,cr in (('E1a','01 Kalbach Churchyard (4 PCs)',[(PR,3),('pennyrisenlamb',1)]),('E1b','01 Kalbach Churchyard (5 PCs)',[(PR,4),('pennyrisenlamb',1)]),('E1c','01 Kalbach Churchyard (6 PCs)',[(PR,4),('pennyrisenlamb',2)])): m.battle(c,n,cr,'map-kalbach')
 for c,n,cr in (('E2a','02 Hollen Ford Relay (4 PCs)',[(GH,1),('pennyrisensignaller',1),(PR,1),('pennyrisenfox',1)]),('E2b','02 Hollen Ford Relay (5 PCs)',[(GH,2),('pennyrisensignaller',1),('pennyrisenfox',1)]),('E2c','02 Hollen Ford Relay (6 PCs)',[(GH,2),('pennyrisensignaller',1),(PR,2),('pennyrisenfox',1)])): m.battle(c,n,cr,'map-hollen-ford-relay')
 for c,n,k in (('E3a','03 The Orc Camp (4 PCs)',2),('E3b','03 The Orc Camp (5 PCs)',4),('E3c','03 The Orc Camp (6 PCs)',5)): m.battle(c,n,[('grukka',1),('orcdeserter',k)],'map-orc-camp')
+m.battle('R3','03 Orc Camp - Foraging Party (if the horn sounds, round 3)',[('orcdeserter',2)],'map-orc-camp')
 for c,n,a,b in (('E4a','04 Thirteen Tolls (4 PCs)',2,0),('E4b','04 Thirteen Tolls (5 PCs)',2,2),('E4c','04 Thirteen Tolls (6 PCs)',4,4)):
     m.battle(c,n,[('ansgar',1),('halse',1),('sickleacolyte',a)]+([('barrowdead',b)] if b else []),'map-bell-tor')
 m.battle('W4','04 Wave - Barrow Dead (1 per toll)',[('barrowdead',1)],'map-bell-tor')
@@ -141,7 +143,7 @@ def encpage(sec,n,links):
     t=fullnote(ENC(n)); m.page(sec,os.path.basename(ENC(n))[len(CODE)+3:-3],C(t),images=imgs(t),links=links)
 encpage(A1,1,B3('E1')+[m.N(PR),m.N('pennyrisenlamb'),m.I('map-kalbach'),m.IT('reaperspenny')])
 scene(A2,P3,0,B3('E2')+[m.N(GH),m.N('relayhorse')]); encpage(A2,2,B3('E2')+[m.N(GH),m.N('pennyrisensignaller'),m.N('pennyrisenfox'),m.N('relayhorse'),m.I('map-hollen-ford-relay')])
-scene(A2,P4,0,B3('E3')+[m.N('grukka')]); encpage(A2,3,B3('E3')+[m.N('grukka'),m.N('orcdeserter'),m.I('map-orc-camp')])
+scene(A2,P4,0,B3('E3')+[m.N('grukka')]); encpage(A2,3,B3('E3')+[m.B('R3'),m.N('grukka'),m.N('orcdeserter'),m.I('map-orc-camp')])
 scene(A3,P5,0,B3('E4')+[m.B('W4'),m.B('X4'),m.IT('sunbell'),m.IT('boneclapper')])
 encpage(A3,4,B3('E4')+[m.B('W4'),m.B('X4'),m.N('ansgar'),m.N('halse'),m.N('sickleacolyte'),m.N('barrowdead'),m.N('cathal'),m.I('map-bell-tor'),m.IT('sunbell'),m.IT('boneclapper'),m.IT('redtorc')])
 m.page(A3,'Concluding the Adventure',C(pick(M,'Concluding the Adventure'))+C(pick(D,'Credits (Greyhawk University frame)')),images=imgs(M['Concluding the Adventure']),links=[m.IT('yatilambskin'),m.IT('redtorc')])

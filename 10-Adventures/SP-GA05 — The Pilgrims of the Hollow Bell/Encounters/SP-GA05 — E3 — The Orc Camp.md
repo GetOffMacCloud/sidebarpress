@@ -30,6 +30,9 @@ Grukka's deserters fled Iuz's war in the Vesve and took the Sickle's grave-silve
 One or two **orcs** (one at 4 PCs, two at 5–6), passive Perception 10. If either acts, the horn sounds and the rest arrive in 2 rounds.
 **Tactics:** blow the horn first, fight second. *Sleep* or a silent kill before the horn changes the whole fight.
 
+> [!danger] The Foraging Party
+> If the horn sounds, **2 more orcs** come back from foraging and arrive at the camp's edge at the **start of round 3** (from the direction the wardens didn't come). Skip this if the picket is silenced before the horn. 5–6 PC tables only; at 4 PCs, send 1.
+
 **O2. THE FIRE**
 > *Five or six hide tents ring a stone-circled fire. Orcs sit close to it, dicing on a shield. One of them flicks a green coin into the flames and spits.*
 
@@ -49,6 +52,8 @@ The only way up without climbing. North face: Athletics DC 15 skips the camp; he
 | 4 PCs | [[Grukka One-Tusk]], **orcs** (2) | 1,300 |
 | 5 PCs | [[Grukka One-Tusk]], **orcs** (4) | 1,700 |
 | 6 PCs | [[Grukka One-Tusk]], **orcs** (5) | 1,425 |
+
+*If the horn sounds:* +2 **orcs** in round 3 (6 PCs: about 2,300 adjusted XP, top of Hard).
 
 > [!art]- Tokens
 > ![[SP-GA05 token-orc-deserter.jpg|140]] ![[SP-GA05 portrait-grukka-one-tusk.jpg|140]]
