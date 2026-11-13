@@ -44,61 +44,61 @@ The Vogt's midsummer count of 576 CY: **200 souls** inside the palisade, on the 
 
 ## Named Residents
 
-Existing notes from the campaign vault are marked **(canon)**. New residents are marked **(new)** and have Sidebar Press notes. Full building-by-building detail is in [[RG-04a — Building Directory, Part 1]] and [[RG-04a — Building Directory, Part 2]].
+Full building-by-building detail is in [[RG-04a — Building Directory, Part 1]] and [[RG-04a — Building Directory, Part 2]].
 
 ### The Hall and the Garrison
-- [[Ritter Konrad von Eisfeld]] — Ritter, third of his line **(canon)**
-- [[Vogt Ruprecht Ackermann]] — Vogt, steward and magistrate **(canon)**
-- [[Hauptmann Hildegard Stahlwulf]] — captain of the garrison **(canon)**
-- [[Ewald Wennerberg]] — soldier of the garrison; see his file **(canon)**
-- [[Gunter Hellsing]] · [[Detlef Fellmann]] · [[Wendel Klagenbach]] — residents; roles per their campaign notes **(canon)**
+- [[Ritter Konrad von Eisfeld]] — Ritter, third of his line
+- [[Vogt Ruprecht Ackermann]] — Vogt, steward and magistrate
+- [[Hauptmann Hildegard Stahlwulf]] — captain of the garrison
+- [[Ewald Wennerberg]] — soldier of the garrison; see his file
+- [[Gunter Hellsing]] · [[Detlef Fellmann]] · [[Wendel Klagenbach]] — residents; roles per their campaign notes
 
 ### The Chapel, the Inns, and the Old Village
-- [[Vater Sigmund Wolfherz]] — Pholtine chaplain, keeper of the ledgers **(canon)**
-- [[Karet]] — publican of the Fiend's Rest, Keeper of the Board **(canon)**
-- [[Lotte Kesselring]] — owner of the Grey Wolf; brews its ale **(canon)**
-- [[Hanz Korngut]] — miller **(canon)**
-- [[Brunhilde Hammerschlag]] — village smith **(canon)**
-- [[Dietrich Hammerschlag]] — deceased **(canon)**
-- [[Kurt Beckenhaus]] — farmer of the Beckenhaus longhouse **(canon)**
-- [[Tamera of the Hushmark]] · [[Annelise Volker]] · [[Sigmund Holt]] — residents; roles per their campaign notes **(canon)**
-- **Grant McCockin**, **Winifred Simmons**, and their household — the McCockin Orchard **(canon)**
-- [[Jakob Renner]] — farmer, Reeve of Fields **(new)**
-- [[Old Hebe Strasser]] — midwife and layer-out **(new)**
-- [[Dominie Anselm Roth]] — Old Kerk priest, lodging at the Grey Wolf **(new)**
-- [[Hesta Varnholm]] — Suel "exile," copyist; see [[RG-06 — Factions]] **(new)**
-- [[Vethkar Graun]] — Kettenhaus assessor, lodging in town **(canon)**
+- [[Vater Sigmund Wolfherz]] — Pholtine chaplain, keeper of the ledgers
+- [[Karet]] — publican of the Fiend's Rest, Keeper of the Board
+- [[Lotte Kesselring]] — owner of the Grey Wolf; brews its ale
+- [[Hanz Korngut]] — miller
+- [[Brunhilde Hammerschlag]] — village smith
+- [[Dietrich Hammerschlag]] — deceased
+- [[Kurt Beckenhaus]] — farmer of the Beckenhaus longhouse
+- [[Tamera of the Hushmark]] · [[Annelise Volker]] · [[Sigmund Holt]] — residents; roles per their campaign notes
+- **Grant McCockin**, **Winifred Simmons**, and their household — the McCockin Orchard
+- [[Jakob Renner]] — farmer, Reeve of Fields
+- [[Old Hebe Strasser]] — midwife and layer-out
+- [[Dominie Anselm Roth]] — Old Kerk priest, lodging at the Grey Wolf
+- [[Hesta Varnholm]] — Suel "exile," copyist; see [[RG-06 — Factions]]
+- [[Vethkar Graun]] — Kettenhaus assessor, lodging in town
 
 ### Market Hill and the Trades
-- [[Mathilde Tauber]] — market-mistress **(new)**
-- [[Reinholt Tauber]] — cooper, Moot Speaker **(new)**
-- [[Yusuf al-Rashad]] — cloth and salt, the stone stall **(new)**
+- [[Mathilde Tauber]] — market-mistress
+- [[Reinholt Tauber]] — cooper, Moot Speaker
+- [[Yusuf al-Rashad]] — cloth and salt, the stone stall
 - **Wilhelm Talg** — chandler · **Grete Lederer** — tanner · **Jost Brotmann** — baker · **Ingrid Webber** — weaver · **Hamund Malzer** — brewer · **Anno Radmacher** — wheelwright **(new; directory entries in RG-04a Part 2)**
 
 ### Forge Row (dwarves)
-- [[Hogar Irongrip]] — Master of the Forge **(canon)**
-- [[Drunik Runevault]] — Mining Consortium factor **(canon)**
-- [[Brunna Deepdelve]] — assayer **(new)**
-- [[Orrim Stoneweir]] — cutting foreman **(new)**
+- [[Hogar Irongrip]] — Master of the Forge
+- [[Drunik Runevault]] — Mining Consortium factor
+- [[Brunna Deepdelve]] — assayer
+- [[Orrim Stoneweir]] — cutting foreman
 
 ### The Burrows (gnomes)
-- [[Nessa Quillfeather]] — the Seam-Finders **(new)**
-- [[Pim Wobblewright]] — instrument-maker **(new)**
+- [[Nessa Quillfeather]] — the Seam-Finders
+- [[Pim Wobblewright]] — instrument-maker
 
 ### The Larch Kin-Band (sylvan elves)
-- [[Caelith of the Larch]] — kin-leader **(new)**
-- [[Ysmay Larchwind]] — ranger **(new)**
+- [[Caelith of the Larch]] — kin-leader
+- [[Ysmay Larchwind]] — ranger
 
 ### The Quay (Rhennee and halflings)
-- [[Baba Yeska Marovna]] — Warden of the Landing **(new)**
-- [[Dorrin Hollin]] — halfling ferryman **(new)**
+- [[Baba Yeska Marovna]] — Warden of the Landing
+- [[Dorrin Hollin]] — halfling ferryman
 
 ### Faculty and Staff
-See [[RG-09 — Faculty & Staff Roster]]. Visiting: [[Professor Wilhelmina Brandt]] **(canon)**.
+See [[RG-09 — Faculty & Staff Roster]]. Visiting: [[Professor Wilhelmina Brandt]].
 
 ### Not Yet Arrived
-- [[Elif Kayim]] — Wolf Nomad trader (renamed from Temür Bayan); a planned arrival **(canon)**
-- Varek Doss — Eru Tovar scholar; expected after Graun's report **(canon)**
+- [[Elif Kayim]] — Wolf Nomad trader (renamed from Temür Bayan); a planned arrival
+- Varek Doss — Eru Tovar scholar; expected after Graun's report
 
 ## The Vogt's Roll (unnamed hearths)
 

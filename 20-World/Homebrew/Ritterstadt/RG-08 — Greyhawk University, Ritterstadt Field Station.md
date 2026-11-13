@@ -54,7 +54,7 @@ In return the University owes the town a physician, a forge, a share of its maps
 **Headcount: 22** on the University's pay — six administrators (Warden, Registrar, Bursar, Proctor, Archivist, Drill-Sergeant), eight department heads (one also Infirmarian), and eight lecturers (one also Quartermaster). The Master of the Forge is counted with Forge Row; the Chancellor and the Commission are paid in the City of Greyhawk.
 
 ## The Eight Departments
-From the campaign canon (`00 — Department Index`). Each offers a Major, two Minors, and hosts student organizations.
+Each offers a Major, two Minors, and hosts student organizations.
 
 | Department | Head | Major | Minors |
 |---|---|---|---|
@@ -112,4 +112,3 @@ Heard by the Proctor, confirmed by the Warden. Fines in credits; suspension from
 > - **The Chancellor** has never seen Ritterstadt and has read every Field Report. He is honest, careful, and persuaded that the Fiend's Embrace belongs in the City of Greyhawk. He has not given Dray the word because he is waiting for Varek Doss to tell him whether moving it is survivable. If Doss says yes, the second seal is used within the season. On the Link the Chancellor and the Commission disagree: he hid it here and has told Vogelsang to stall any order to send it south ([[SP-GQ00 — Handout — The Chancellor's Letter]]).
 > - **The Warden** knows about the second seal and has drafted his resignation twice.
 > - **The Registrar's sealed files** are sealed on the Chancellor's standing instruction: anything that touches the Founders' Compact, the Embrace, or the tower's sub-floor. Since 574 the stacks also hold the Chancellor's crate, [[The Gaoler's Link]], with Vogelsang as its keeper of record (SP-GQ series).
-> - **Starting level.** The campaign's house rules say students begin at 1st level while the department index calls Freshmen 3rd level. This book reconciles them with the **Probationer** rank at levels 1–2.

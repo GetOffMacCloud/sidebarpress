@@ -20,9 +20,9 @@ aliases: [Ritterstadt Gazetteer, RG]
 
 > *"Ritterstadt was not founded by planners. It was founded by survivors."* — the Player Gazetteer, Planting 576 CY
 
-A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepia Uplands dissolve into the Quag Mires. It is three things at once: a Perrender settlement older than its own founding legend, the home of **Greyhawk University's Ritterstadt Field Station**, and the guardian of something four people carried out of Cold Stone Keep in 565 CY. This book is the reference for every Sidebar Press adventure set here and the shared truth of the *A Tourist In Greyhawk* campaign.
+A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepia Uplands dissolve into the Quag Mires. It is three things at once: a Perrender settlement older than its own founding legend, the home of **Greyhawk University's Ritterstadt Field Station**, and the guardian of something four people carried out of Cold Stone Keep in 565 CY. This book is everything you need to run it: its history and government, its 200 people, every building, eleven factions, the University, and the secret under all of them. You need nothing else to use it.
 
-**Authority.** This gazetteer extends the campaign vault's canon and never overwrites it. Where the two differ, see [[RG-10 — DM Companion]] § *Reconciliations* for the chosen reading. Both vaults carry the same copy of this book.
+**What is canon.** Ritterstadt, its people, and the University's field station are original to this book. Perrenland, Iuz, the Wolf Nomads, Iggwilv, and the wider Flanaess follow the published World of Greyhawk setting as it stands in 576 CY.
 
 **Snapshot.** 2 Patchwall, 576 CY. Blackfrost Bloom active. Eastern palisade under repair. Wolf Nomad herders drifting south toward winter pasture.
 
@@ -47,7 +47,7 @@ A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepi
 > ![[Ritterstadt town-map.jpg|700]]
 
 
-- **Flavor.** Cold, close, and stubborn. A palisade town where soldiers, scholars, trappers, bargefolk, and dwarves share one firelight because there is nowhere else to sit. The campaign it supports is West Marches expedition play with a civic heart: the town grows or fails on what the parties bring back.
+- **Flavor.** Cold, close, and stubborn. A palisade town where soldiers, scholars, trappers, bargefolk, and dwarves share one firelight because there is nowhere else to sit. It is built for expedition play with a civic heart: parties go out from the palisade, come back, and the town grows or fails on what they bring.
 - **Unique areas.** The Job Board at the Fiend's Rest, the Wachturm on its old foundation, the Hush, the Blackfrost Bloom, the lake landing, and a University that pays in credits and grades on survival.
 - **Mysteries.** What the Founders sealed and why here. What the Wachturm stands on. Why the Bloom is winding up. Who in a town of 200 is reporting to whom.
 - **Personalities.** A Ritter in debt, a Vogt who knows more than his lord, a captain short one soldier, a publican whose ledger is the most valuable map in the north, and a University that wants relics as much as it wants its students home.
@@ -56,8 +56,10 @@ A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepi
 **Signature element to exercise every session:** the town counts. Someone always asks what the party brought back, and someone always writes it down.
 
 ## How to Use This Book
-- **Player-safe sections** are the main text of each chapter. **DM-only sections** sit under a `> [!danger] DM Eyes Only` callout, in the style of the campaign vault's dossiers.
-- NPCs link to notes in `30-NPCs`; buildings link to `40-Locations`; factions link to `20-World/Homebrew/Ritterstadt/Factions`.
+- **Player-safe sections** are the main text of each chapter. **DM-only sections** sit under a `> [!danger] DM Eyes Only` callout.
+- **Read the secret first.** [[RG-10 — DM Companion]] § *The Ground Beneath* explains the Wachturm, the Blackfrost Bloom, and the binding network. Every chapter assumes you know it.
+- **Finding people.** Every named resident appears in [[RG-03 — The Census]] and again at their building in RG-04a. University staff are in [[RG-09 — Faculty & Staff Roster]]. Each faction has a full write-up after [[RG-06 — Factions]].
+- **Dates** are Common Year (CY). The book's present is **2 Patchwall 576 CY**; everything in it is true as of that morning.
 - Every chapter ends with **Hooks**: things a party can be hired, asked, or tempted to do.
 
 ## Companion Material
@@ -65,6 +67,9 @@ A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepi
 > [!art]- Back cover and VTT stamp
 > ![[Ritterstadt wachturm-back-cover.jpg|300]] ![[Ritterstadt palisade-stamp.jpg|300]]
 
-- Campaign canon import: `00-Inbox/Greyhawk University Import (A Tourist In Greyhawk)/`
-- Lore: [[Chakyik]], [[Perrenland]], [[Iggwilvs-Conquest-of-Perrenland]]
-- Adventures set here: [[SP-GA01-The-False-Arrow]] (Scene 0)
+**Sidebar Press adventures set in Ritterstadt**
+- *GA0 — Nobody's Colors*
+- *GA1 — The False Arrow*
+- *GA2 — The Bones of the Dreadverge*
+- *GA5 — The Pilgrims of the Hollow Bell*
+- *GQ0 — The Shadow on the Quag*, the opening of a quest arc

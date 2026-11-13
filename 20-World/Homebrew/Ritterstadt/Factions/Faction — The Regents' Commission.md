@@ -73,4 +73,4 @@ The Commission is the Board of Regents' standing committee on field stations and
 
 > [!danger] DM Eyes Only
 > - The drafted commission reads: *Recover and convey the object held at Ritterstadt under the Founders' Compact.* The Chancellor has not given the word; he waits on Doss.
-> - If the second seal is used, the Warden resigns, Vogelsang becomes Warden, and the Fiend's Embrace leaves the palisade for the first time since 565. What the binding network does when that happens is the campaign's question, not the Regents'.
+> - If the second seal is used, the Warden resigns, Vogelsang becomes Warden, and the Fiend's Embrace leaves the palisade for the first time since 565. What the binding network does when that happens is your campaign's question, not the Regents'.

@@ -11,7 +11,7 @@ tags: [ritterstadt, buildings, directory, proprietors, gazetteer]
 
 Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-04 — Buildings & Services]] · Next → [[RG-04a — Building Directory, Part 2]]
 
-This directory describes every building in Ritterstadt and the person who keeps it. **Part 1** covers the buildings defined in the *A Tourist In Greyhawk* campaign vault. Their canon notes are the authority; prices, services, and rumours below are taken from them. **Part 2** covers the Field Station's buildings and the Market Hill trades added by this book.
+This directory describes every building in Ritterstadt and the person who keeps it. **Part 1** covers the village: the inns, the Ritter's Hall, the chapel, the garrison and the Wachturm, the trades, and the farmsteads. **Part 2** covers the Field Station's buildings and the Market Hill trades added by this book.
 
 Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Proprietor**, **Hours**, **What it offers**, and **Hooks**.
 
@@ -67,7 +67,7 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 
 **What it offers.** Rooms, meals, and ale; the Job Board; the back room for briefings; University credit chits honoured for beds and meals. **The Hush ale:** any patron who reports walking through the Hush is owed a free ale.
 
-**Hooks.** Roll on the campaign's Rumor Dashboard when the party lingers; on market days gossip runs hot.
+**Hooks.** When the party lingers, give them a rumour from [[RG-10 — DM Companion]]; on market days gossip runs hot.
 
 > [!danger] DM Eyes Only
 > Karet's ledger of redeemed Hush ales is five years of dots on a hand-drawn map. The dots form six clusters — the binding network's stress points.
@@ -263,20 +263,3 @@ Roughly central, slightly east of the Big Barn. **Gottfried** (≈60) and **Ilse
 ## 11. The Kettenhaus *(not a building in Ritterstadt)*
 
 The Kettenhaus — *Haus Hanselmann van Traft*, the House of the Chain — is a Perrender lending house seated in **Traft**. It holds the Eisfeld *Schuldbrief* on [[Ritter Konrad von Eisfeld]]. In Ritterstadt it is present only in the person of its assessor, [[Vethkar Graun]]. Motto: *Ketten binden beide Enden* — "a chain binds at both ends."
-
----
-
-## Canon Corrections Made in This Directory
-
-The directory follows the campaign's building notes. Earlier gazetteer chapters have been corrected to match.
-
-| Earlier chapter said | Canon says | Now |
-|---|---|---|
-| Weapon drill at the Guardhouse | The Guardhouse is not open to civilians | Training only at the Drill Yard (RG-04 corrected) |
-| Grey Wolf beds 3 sp / 5 sp | Pallet 3 cp; rooms 4 sp / 7 sp | Canon prices (RG-04 corrected) |
-| A Market Hill brewer supplies both inns | Lotte brews the Grey Wolf's own ale | Malzer supplies the Fiend's Rest only (RG-05 corrected) |
-| McCockin orchard brandy | McCockin **Cider**, the town's prime export | Cider (RG-05 corrected) |
-| The Wachturm has a lamp in its top window | An iron bell on the roof | The bell (RG-04 corrected) |
-| The Four Founders built the town in 565 | The current Ritter's grandfather built St. Erika's; "the old Ritter held this village" | **Decided:** the von Eisfelds held Ritterstadt from c. 510; the Founders re-founded it in 565 (RG-01 rewritten) |
-| — | Lake fish "traded up the road" | **Decided:** Ritterstadt is a lake port on Lake Quag's shore; the quay is below the palisade |
-| Kurt Beckenhaus, Reeve of Fields | The Beckenhauses arrived two years ago | **Decided:** [[Jakob Renner]] is Reeve (RG-02, RG-03 corrected) |
