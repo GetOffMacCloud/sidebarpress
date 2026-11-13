@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-11-13T06:29:05.806Z",
-      "total": 0,
+      "total": 79540,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -116,6 +116,114 @@
             "Book 1 — Part 1": 0,
             "Book 1 — Part 2": 0,
             "Book 1 — Part 3": 0
+          }
+        },
+        "10-Adventures/SP-GA00 — Nobody's Colors/Scenes/00 — Scene Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "10-Adventures/SP-GA02 — The Bones of the Dreadverge/Scenes/00 — Scene Index.md": {
+          "total": 8920,
+          "scenes": {
+            "Scene 01 — Dusk at the Pound": 1850,
+            "Scene 02 — Counting the Missing": 1536,
+            "Scene 03 — Crossing the Dreadverge": 1696,
+            "Scene 04 — The Cutters' Camp": 1327,
+            "Scene 05 — The Three Sisters": 2511
+          }
+        },
+        "10-Adventures/SP-GA03 — The Red Cord/Scenes/00 — Scene Index.md": {
+          "total": 11257,
+          "scenes": {
+            "Scene 01 — The Ritter's Hall": 1513,
+            "Scene 02 — Across the Quag": 924,
+            "Scene 03 — Under the Red Cord": 1929,
+            "Scene 04 — The Brawl": 1802,
+            "Scene 05 — Dornhalm's Yard": 2330,
+            "Scene 06 — The Midnight Bell": 2759
+          }
+        },
+        "10-Adventures/SP-GQ01 — The Gaoler's Link/Scenes/00 — Scene Index.md": {
+          "total": 9512,
+          "scenes": {
+            "Scene 01 — Brewfest on the Landing": 951,
+            "Scene 02 — Terms": 716,
+            "Scene 03 — Legwork": 1223,
+            "Scene 04 — The Archive and the Sealed Stacks": 1025,
+            "Scene 05 — The Night of the Warden's Dinner": 1522,
+            "Scene 06 — The Handover": 1894,
+            "Scene 07 — Turning the Job": 1354,
+            "Scene 08 — Dawn on the Landing": 827
+          }
+        },
+        "10-Adventures/SP-OS02 — The Hollow Lantern/Scenes/00 — Scene Index.md": {
+          "total": 7304,
+          "scenes": {
+            "Scene 00 — Marrowmere at Dusk": 813,
+            "Scene 01 — The Mourning Procession": 1252,
+            "Scene 02 — Crossing the Mere": 1143,
+            "Scene 03 — The Great Hall": 1426,
+            "Scene 04 — Below the Water": 1237,
+            "Scene 05 — The Toast": 1433
+          }
+        },
+        "10-Adventures/SP-KA01 — The False Arrow (Kestrel)/Scenes/SP-KA01 — Scene Index.md": {
+          "total": 9262,
+          "scenes": {
+            "SP-KA01 — Scene 00 — Kestrel University": 764,
+            "SP-KA01 — Scene 01 — The High Pass": 1072,
+            "SP-KA01 — Scene 02 — The Cold Welcome": 1166,
+            "SP-KA01 — Scene 03 — Trial of the Horse": 886,
+            "SP-KA01 — Scene 04 — Trial of the Bow": 1156,
+            "SP-KA01 — Scene 05 — Night in Karash": 1394,
+            "SP-KA01 — Scene 06 — Trial of the Fire": 763,
+            "SP-KA01 — Scene 07 — The War Council": 2061
+          }
+        },
+        "10-Adventures/SP-GA01 — The False Arrow/Scenes/00 — Scene Index.md": {
+          "total": 9211,
+          "scenes": {
+            "Scene 00 — Greyhawk University": 762,
+            "Scene 01 — The High Pass": 1067,
+            "Scene 02 — The Cold Welcome": 1159,
+            "Scene 03 — Trial of the Horse": 880,
+            "Scene 04 — Trial of the Bow": 1146,
+            "Scene 05 — Night in Yecha": 1390,
+            "Scene 06 — Trial of the Fire": 756,
+            "Scene 07 — The War Council": 2051
+          }
+        },
+        "10-Adventures/SP-OS01 — Straw Men/Scenes/00 — Scene Index.md": {
+          "total": 7324,
+          "scenes": {
+            "Scene 00 — Arrival at Hollow Ford": 947,
+            "Scene 01 — The Closing Reel": 1349,
+            "Scene 02 — The Bobbing Game": 747,
+            "Scene 03 — Mother Nettle's Cottage": 968,
+            "Scene 04 — Fields and Stall": 1509,
+            "Scene 05 — The Mill": 1804
+          }
+        },
+        "10-Adventures/SP-OS03 — The Night That Doesn't End/Scenes/00 — Scene Index.md": {
+          "total": 8247,
+          "scenes": {
+            "Scene 00 — The Gate at Dusk": 985,
+            "Scene 01 — Midnight, the First Time": 1361,
+            "Scene 02 — Not Again": 1656,
+            "Scene 03 — The Ossuary": 1413,
+            "Scene 04 — The Chain Crypt": 1091,
+            "Scene 05 — The Thirteenth Toll": 1741
+          }
+        },
+        "10-Adventures/SP-OS04 — The Tithe of Thornbury/Scenes/00 — Scene Index.md": {
+          "total": 8503,
+          "scenes": {
+            "Scene 00 — Harvest Home": 837,
+            "Scene 01 — The Hundredth Feast": 1034,
+            "Scene 02 — The Long Night": 1304,
+            "Scene 03 — The Blackthorn Copse": 1589,
+            "Scene 04 — The Procession": 1561,
+            "Scene 05 — The Tithe Barn": 2178
           }
         }
       }

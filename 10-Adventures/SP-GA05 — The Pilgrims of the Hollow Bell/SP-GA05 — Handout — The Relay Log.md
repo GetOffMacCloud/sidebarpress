@@ -22,4 +22,4 @@ Found on the desk at Hollen Ford (E2). Fact F3. Returning it earns +6 credits.
 *Below it, in a different hand:* "Toll for the reaped, toll for the sown; ring the bell hollow and the dead walk home."
 
 > [!warning] Art fix
-> The Canva design reads "Reading" for "Readying" (design DAHawMLhgak). Fix before print.
+> Fixed in Canva on 2026-11-13: design DAHawMLhgak now reads "Readying". Still to do: download the PNG from Canva over `99-Assets/SP-GA05/handouts/SP-GA05 handout-2-relay-log.png`, then rebuild the GA5 FGU module so it picks up the new image.
