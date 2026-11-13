@@ -7,6 +7,9 @@ tags: [location, schwartzenbruin, greyhawk-university, shadow-on-the-quag]
 
 # The University Post-House
 
+> [!art]+ The Post-House
+> ![[SP-GQ00 — S1 Post-House.png|600]]
+
 Two rooms over a chandler's on the Schwartzenbruin waterfront, kept by [[Agnes Feldhaus]]. The City of Greyhawk's post for the Ritterstadt Field Station comes up the Velverdyva with the river post and goes north on whatever ship is sailing. It smells of tar and sealing-wax.
 
 ## Notable Features

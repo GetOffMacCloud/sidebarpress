@@ -253,6 +253,9 @@ If the students attack Fesch, pull his glove, or drag him into the light, his *d
 ### Scene 6: The Landing (Harvester 21) (20 min)
 *Purpose:* deliver the letter; set up GQ1.
 
+> [!art]+ Scene 6 — The Landing
+> ![[Ritterstadt the-landing.jpg|600]]
+
 > *Ritterstadt comes out of the morning haze: a palisade on a rise above the lake with a raw new stretch of timber at the eastern gate, peat-smoke, the Wachturm on the highest ground. The* Hecht *noses in among the Rhennee barges at the Landing. An old woman in layered skirts stands on the quay with a knotted cord at her belt, counting the salt sacks before the gangplank is down.*
 
 - **[[Baba Yeska Marovna]]** charges the *Hecht*'s toll and looks the ship over. If told the *Hecht* went into the grey: *"And came out. Mind you're grateful. The Ket woman up at the University read me calm water all week. Calm is what puts you in the grey."* If asked about the isle (P4): *"There's an isle in the grey. Nobody fishes it. Somebody keeps a fire there in winter."*

@@ -9,6 +9,9 @@ aliases: [the Landing, the quay]
 
 # The Landing (the Quay)
 
+> [!art]+ The Landing
+> ![[Ritterstadt the-landing.jpg|600]]
+
 > Ritterstadt is a lake port, and this is its front door: a timber quay below the palisade on Lake Quag's north shore, the town's road south by water.
 
 ## Outside
