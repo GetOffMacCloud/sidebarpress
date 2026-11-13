@@ -24,7 +24,7 @@ Perrenland has eight cantons (*Living Greyhawk Gazetteer*). The four that touch 
 |---|---|---|---|---|---|
 | **Traft** | Traft | The gateway: wants the trade, fears the liability. Its 10-man garrison is the nearest Perrender steel. | Maps of the lake road; a physician in Traft one month a year; students who don't die on canton roads | 10 gp a map copy; 50 gp a season for the physician | The Hanselmann Consortium (unofficially); the Traft levy-clerk |
 | **Clatspurgen** | Clatspur highlands | Distant cousin. The Dreadverge haunting ([[SP-GA02-The-Bones-of-the-Dreadverge]]) made its council aware that old graves wake. | Someone who can tell a barrow from a treasure pit; a copy of the Antiquities department's grave-site survey | A Waycombe debt of honour; cantonal thanks in Schwartzenbruin | Reeve Odila Marsh of Waycombe |
-| **Quagfludt** | the Quag shore | Watches the lake. Resents the Rhennee running salt untaxed through "their" water. | A toll agreement for the Landing; charts of the lake's north shore | Recognition of Ritterstadt's fishing rights; a fair on the lake road | A Quagfludt harbour-reeve who visits the Landing twice a year and is not welcome |
+| **Quagflood** | the Quag shore | Watches the lake. Resents the Rhennee running salt untaxed through "their" water. | A toll agreement for the Landing; charts of the lake's north shore | Recognition of Ritterstadt's fishing rights; a fair on the lake road | A Quagflood harbour-reeve who visits the Landing twice a year and is not welcome |
 | **Yattenhied** | the eastern cantons toward the Vesve | Nervous. Iuz's couriers cross Yattenhied's border on the way to the Sepia. | Warning. Anything the University learns about traffic from the east. | Information in kind; a company of pikes if it ever came to that | The Yatil Mountaineers' free company, which recruits in Ritterstadt |
 | **The Voormann's Council** | Schwartzenbruin | Nominal claim; wants the frontier "stable" and will express concern afterward | Nothing it has to pay for | — | Dominie Anselm Roth's letters (see [[RG-06 — Factions]]) |
 
@@ -64,12 +64,13 @@ Six weeks away by road and barge, and the source of the charter, the grants, the
 
 ## Hooks
 - Traft's levy-clerk arrives with a form that would make Ritterstadt a canton dependency "for its own protection." The Vogt wants it lost in the lake.
-- Quagfludt's harbour-reeve seizes a Rhennee barge for unpaid toll. Baba Yeska wants it back tonight.
+- Quagflood's harbour-reeve seizes a Rhennee barge for unpaid toll. Baba Yeska wants it back tonight.
 - Clan Brock sends word that it will acknowledge Dagmar — if the town returns her tools, which nobody has seen since 566.
 - Yattenhied's free company offers to garrison the eastern gate for a season. Stahlwulf wants to know who pays them.
 
 > [!danger] DM Eyes Only
 > - **Traft's dependency form** is the Hanselmann Consortium's idea. Foreclosure under canton law is cleaner than under the Ritter's.
-> - **Quagfludt's harbour-reeve** is honest and badly informed. He thinks the Landing's salt is lake salt. If he learns where the real pan is, Node 3 gets a canton survey party.
+> - **The reeve's clerk of 575** was Edrik Saumann, now Commissioner Dray's junior secretary and Kermin Mind-Bender's recruiter ([[SP-GQ00 — The Shadow on the Quag]]). He catalogued every hull at the Landing that season, and Baba Yeska knows his face.
+> - **Quagflood's harbour-reeve** is honest and badly informed. He thinks the Landing's salt is lake salt. If he learns where the real pan is, Node 3 gets a canton survey party.
 > - **Dagmar's tools** are in the Wachturm's locked ground floor, where she left them in 566 when she stopped building the fifth bastion and told Edmund von Eisfeld why.
 > - **The Yatil Mountaineers'** captain is honest. One of his sergeants is the Grey Sickle's first man in town.

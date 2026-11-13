@@ -54,17 +54,17 @@ Rhennee barge-families work the waters of the Flanaess and belong to none of the
 - Keep the Node 3 salt pan unknown and unvisited.
 **Minor:**
 - Keep the salt fraud running: Traft salt in, "Quag salt" out, at a premium.
-- Fend off Quagfludt's harbour-reeve and his toll agreement.
+- Fend off Quagflood's harbour-reeve and his toll agreement.
 - Keep the Moot's goodwill without enrolling — the Landing's loyalty is to the Landing first.
 - Move the northbound crate without questions, twice a season.
 
 ## Relationships
 - **Allies:** the halfling ferrymen; the Moot (uneasily).
-- **Rivals:** the Hanselmann Consortium's road trade; the canton of Quagfludt, whose harbour-reeve wants a toll agreement.
+- **Rivals:** the Hanselmann Consortium's road trade; the canton of Quagflood, whose harbour-reeve wants a toll agreement.
 - **Compromised by:** Iuz's recruiter, through Yeska's daughter.
 
 ## Hooks
-- Quagfludt seizes a barge for unpaid toll. Yeska wants it back tonight.
+- Quagflood seizes a barge for unpaid toll. Yeska wants it back tonight.
 - Passage to Traft at half toll — and a night's silence about what else is aboard.
 - A barge comes to the Landing at night and leaves lighter.
 

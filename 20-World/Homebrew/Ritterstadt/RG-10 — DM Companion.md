@@ -54,7 +54,7 @@ Reveal from the top down.
 - Dagmar of Clan Brock stopped building the fifth bastion on the Wachturm rise in 566 because of what her footings found. Her tools are still on the tower's locked ground floor.
 - Node 2 lies under the timber rights. Node 3 lies under Baba Yeska's salt pan. Karet's Hush ledger maps the six stress points.
 - The Grey Sickle has a list of the Sepia's barrows copied from the Historical Society.
-- Baba Yeska's daughter went north with Iuz's recruiter and writes to her mother through Kermin's recruiter. Yeska burns the letters.
+- Baba Yeska's daughter went north with Iuz's recruiter and writes to her mother through Kermin's recruiter, Edrik Saumann, who was Quagflood's harbour clerk at the Landing in 575. Yeska burns the letters.
 
 ## Canon Reconciliations
 
@@ -70,6 +70,7 @@ Reveal from the top down.
 | Hogar Irongrip is "master smith" **and** Brunhilde runs the Smithy | Hogar runs the **University Forge**; Brunhilde runs the **village Smithy** | Two forges, two trades |
 | Students start at 1st level **and** Freshmen are 3rd level | **Probationer** rank at levels 1–2 | Both rules survive |
 | "Department of Frontier Studies" published the Gazetteer; eight departments listed | Frontier Studies is the station's **imprint** | — |
+| The canton of Quagfludt (canon) | **Quagflood** | Sidebar Press ruling (2026-11-13): English form in all Sidebar Press text |
 | Voormann rules from "Schwungdorf" | **Schwartzenbruin** | Canon capital |
 | Wolf Nomad trader Temür Bayan | **Elif Kayim** | Name clash with Khan Temur (SP-GA01) |
 | The Kettenhaus listed among buildings | A Traft lending house; its man in town is Vethkar Graun | — |
@@ -92,7 +93,7 @@ Reveal from the top down.
 | Station House | Dray's crate; the second seal | Regents |
 | Archive | The sealed stacks; Hassenrath's second notebook | Regents, Varek Doss |
 | Assay House | Three missing crystals | Pale Ledger, Curio Club |
-| Quay | The northbound crate; Quagfludt's seizure | Bargemen, Iuz, Quagfludt |
+| Quay | The northbound crate; Quagflood's seizure | Bargemen, Iuz, Quagflood |
 | Larch camp | What they fled in the Vesve; the pale figure at the Hush | Ilvadriel, the Vesve |
 | Drill Yard | Field Day's wager; a sergeant who isn't what he says | Grey Sickle |
 | Market Hill | Talg's lamp-oil buyer; Webber's songs; the loaf at the Wachturm | Pale Ledger, Druids |
@@ -102,7 +103,7 @@ Reveal from the top down.
 - **Regents' Commission:** Dray's audit year. The party is commissioned under the second seal to "inventory the Founders' Compact items." Do they do the job, or warn the Warden?
 - **Pale Ledger:** Yusuf's cloth bolt is stolen on the Traft road by bandits who find a calfskin ledger they can't read.
 - **Grey Sickle:** ash circles appear on Peat-cutters' Row the week the Larch barrows thaw.
-- **Quag Bargemen:** Quagfludt's harbour-reeve seizes a barge; the party finds the northbound crate aboard.
+- **Quag Bargemen:** Quagflood's harbour-reeve seizes a barge; the party finds the northbound crate aboard.
 - **Old Kerk Mission:** Roth wants the foundation stone read; the Wolf Nomad outriders come down off the moor.
 - **Iuz:** Ewald asks the party to carry a letter to Kottsmort "for his sister."
 - **Kettenhaus:** Traft's dependency form arrives with a clerk and a Needfest deadline.

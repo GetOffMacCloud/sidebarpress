@@ -27,7 +27,7 @@ Warm to children and customers, flat as still water to officials. Speaks Common,
 ## Goals & Secrets
 - **Wants:** the Landing to grow with the town, and the Landing to be hers when it does.
 - **Runs:** the ferry, the smokehouse, the salt pans, and night barges south that pay no toll.
-- **Secret:** half her "Quag salt" is Traft salt sold back to Traft; the other half comes from a pan at the Mire margin where nothing should be dry. Twice a season a sealed crate goes north with a letter in her daughter's hand to Iuz's recruiter. Yeska reads the replies and burns them. Her grandchildren are the two tieflings the town does not discuss. The recruiter is Kermin Mind-Bender's, the same one who courts [[Liesl Amsel]] in SP-GQ02 ([[SP-GQ00 — The Shadow on the Quag]]).
+- **Secret:** half her "Quag salt" is Traft salt sold back to Traft; the other half comes from a pan at the Mire margin where nothing should be dry. Twice a season a sealed crate goes north with a letter in her daughter's hand to Iuz's recruiter. Yeska reads the replies and burns them. Her grandchildren are the two tieflings the town does not discuss. The recruiter is Kermin Mind-Bender's: **Edrik Saumann**, who sat in her tally-house in 575 as Quagflood's harbour clerk and is now Commissioner Dray's junior secretary. He courts [[Liesl Amsel]] in SP-GQ02; Yeska will know his face ([[SP-GQ00 — The Shadow on the Quag]]).
 - **Would:** burn the Landing before she let it be used against the town.
 
 ## Stat Block

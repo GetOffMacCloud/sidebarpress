@@ -30,6 +30,7 @@ Courteous, exact, and never in a hurry to be disliked. Writes his findings befor
 - **Saw it arrive:** in Patchwall 574, on his first audit, he watched the Chancellor's sealed crate come off the barge and go into the sealed stacks, and logged it *"not inventoried."* Vogelsang has told him only that it is a fetter fragment of the Zagyg period.
 - **Also wants:** the "consignment of 574" ([[The Gaoler's Link]]) sent south. On this the Chancellor disagrees and has told Vogelsang to stall ([[SP-GQ00 — Handout — The Chancellor's Letter]]).
 - **Waits for:** the Chancellor's word, which waits on Varek Doss.
+- **His junior secretary:** Edrik Saumann, appointed on a Regent's letter Dray accepted without question. Saumann is Kermin Mind-Bender's recruiter (SP-GQ02); before the Commission he clerked for Quagflood's harbour-reeve at the Landing (575).
 - **His man on the faculty:** Professor Casimir Vogelsang, who expects the Wardenship.
 
 ## Stat Block

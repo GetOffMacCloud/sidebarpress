@@ -40,7 +40,7 @@ Dawn to dusk in the open season; the tally-house stove is lit all year.
 - **Missions:** crossings; seized barges; what the night barges carry.
 
 ## Hooks
-- Quagfludt's harbour-reeve seizes a barge for unpaid toll.
+- Quagflood's harbour-reeve seizes a barge for unpaid toll.
 - Passage to Traft at half toll — for a night's silence.
 - A barge comes in at night and leaves lighter.
 
