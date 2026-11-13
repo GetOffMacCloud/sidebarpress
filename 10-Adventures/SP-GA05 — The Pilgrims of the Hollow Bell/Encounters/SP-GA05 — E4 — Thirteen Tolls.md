@@ -20,7 +20,7 @@ tags: [encounter, deadly, climax, nerull, grey-sickle, sun-bell, carn-aedh]
 > ![[SP-GA05 map-bell-tor.jpg|600]]
 
 ## Setup
-No Luna, a sliver of Celene, and a hard frost. A torch ring lights the crown and nothing beyond it. Ansgar is casting the [[Hollowing Toll]] on [[The Sun-Bell of Carn Aedh]] with [[The Bone Clapper]]. The barrow field at the Tor's foot browns in a widening circle with every stroke.
+No Luna, Celene not yet risen, and a hard frost. A torch ring lights the crown and nothing beyond it. Ansgar is casting the [[Hollowing Toll]] on [[The Sun-Bell of Carn Aedh]] with [[The Bone Clapper]]. The barrow field at the Tor's foot browns in a widening circle with every stroke.
 
 **Areas:**
 - **T1. The ring.** Tumbled stone wall around the crown; torches every 10 ft. Bright light inside, darkness outside.

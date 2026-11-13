@@ -128,7 +128,7 @@ Let the weather tell the Winter Myth: grey and wet while the dead are seeded; a 
 | **Day 2** (Patchwall 24) | Cloud breaks by afternoon; first sleet showers | ~38°F | Lighting the beacon in wind: action + DC 10 check (tinderbox) or any fire spell. Orc fires visible a mile off. |
 | **Night 2** (Patchwall 25, dark of Luna) | Clear, still, freezing; thick stars | ~20°F | **Hard frost:** scree slide save DC 14. Outside the torch ring: darkness. Every toll is heard in Kalbach. |
 
-**Celene**, the Handmaiden, is a thin sliver low in the east *(verify phase)*. No useful light, but a cleric or druid may know the Flan said Celene "watches the dead when Luna won't."
+**Celene**, the Handmaiden, is a thin waning crescent. She doesn't rise until the small hours, low in the east before dawn, so the climax begins under stars and frost alone. No useful light, but a cleric or druid may know the Flan said Celene "watches the dead when Luna won't."
 
 ---
 
@@ -148,7 +148,12 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 **Ansgar's Sermon** (if parleyed with or overheard):
 > *"The Sun is a thief. Every winter the Reaper takes what is owed, and every winter that one comes down the hill with his little knife and steals it back. Tonight the knife is blunted. Tonight the Green Man hangs, and stays hanging, and the valley learns what the Reaper is owed."*
 
-**The God Cards** (Handout 6): give one when its god is learned. Nerull (rungs 1–3, 5); Pelor, Obad-Hai, Beory (rung 4, the bell, the stag). Titles and symbols for the last three: *(verify against LGG)*.
+**The God Cards** (Handout 6): give one when its god is learned. Nerull (rungs 1–3, 5); Pelor, Obad-Hai, Beory (rung 4, the bell, the stag).
+
+- **Nerull**, the Reaper. Symbol: a skull and scythe.
+- **Pelor**, the Sun Father, the Shining One. Symbol: a sun.
+- **Obad-Hai**, the Shalm. Symbol: an oak leaf and acorn, often shown as a face of oak leaves.
+- **Beory**, the Oerth Mother. Symbol: a rounded female figurine.
 
 **What the stakes mean by faith:**
 | Faith at the table | What this is to them | Lane |
@@ -220,7 +225,7 @@ For Greybeard's table only (`publish: false` material): run the **6-PC** column.
 
 ## Open Items
 - [ ] Confirm adventure code SP-GA05.
-- [ ] Verify Pelor/Obad-Hai/Beory card titles and symbols (LGG); Luna and Celene phases for Patchwall 25, 576.
+- [x] Verify Pelor/Obad-Hai/Beory card titles and symbols (LGG); Luna and Celene phases for Patchwall 25, 576. (Done 2026-11-13: Celene waning crescent; titles as on the God Cards list.)
 - [ ] Fix the relay-log typo in Canva ("Reading" → "Readying").
 - [ ] Add Kalbach to RG-07 in both vaults; add a Timeline row (Patchwall 23–25, 576 CY).
 - [ ] Test-import the FGU blocks.

@@ -11,11 +11,24 @@ def sections(t):
         if m: cur=m.group(1).strip(); out[cur]=[]
         elif cur: out[cur].append(l)
     return {k:'\n'.join(v) for k,v in out.items()}
+NAMES={}   # vault note name -> name shown in the module (set by module.py)
+STRIP=[]   # note-name prefixes to drop when no NAMES entry (e.g. 'SP-GA05 — ')
+SEEN=[]    # wikilink targets met since the last page/record was built (for "See also" links)
+def resolve(target):
+    target=target.split('#')[0].split('/')[-1].strip()
+    SEEN.append(target)
+    if target in NAMES: return NAMES[target]
+    for pre in STRIP:
+        if target.startswith(pre): return target[len(pre):]
+    return target
+def _wl(m):
+    target,alias=m.group(1),m.group(2)
+    shown=resolve(target)
+    return alias if alias else shown
 def inline(s):
     s=html.escape(s,quote=False)
     s=re.sub(r'!\[\[[^\]]*\]\]','',s)
-    s=re.sub(r'\[\[[^\]|]*\|([^\]]*)\]\]',r'\1',s)
-    s=re.sub(r'\[\[(?:[^\]]*/)?([^\]#]*)(#[^\]]*)?\]\]',r'\1',s)
+    s=re.sub(r'\[\[([^\]|]*?)(?:\\?\|([^\]]*))?\]\]',_wl,s)
     s=re.sub(r'`([^`]*)`',r'\1',s)
     s=re.sub(r'\*\*([^*]+?)\*([^*]+?)\*\*\*',r'<b>\1<i>\2</i></b>',s)  # **text *italic*** (bold ending in italic)
     s=re.sub(r'\*\*\*(.+?)\*\*\*',r'<b><i>\1</i></b>',s)
@@ -58,7 +71,7 @@ def conv(t):
             close(); rows=[]
             while i<len(lines) and lines[i].startswith('|'):
                 r=lines[i].strip().strip('|')
-                if not re.match(r'^[\s:\-|]+$',r): rows.append([c.strip() for c in r.split('|')])
+                if not re.match(r'^[\s:\-|]+$',r): rows.append([c.strip().replace('\x00','|') for c in r.replace('\\|','\x00').split('|')])  # \| inside [[note\|label]] is not a cell break
                 i+=1
             tb='<table>'
             for k,r in enumerate(rows): tb+='<tr>'+''.join('<td>%s</td>'%(('<b>%s</b>' if k==0 else '%s')%inline(c)) for c in r)+'</tr>'

@@ -27,4 +27,9 @@ One card per god, given as each is learned (see the Lore Ladder in [[SP-GA05 —
 | Obad-Hai | Rung 4; the Hanged Stag |
 | Beory | Rung 4; Beory's tears |
 
-*Pelor, Obad-Hai and Beory titles and symbols: verify against LGG.*
+| God | Titles | Symbol |
+|---|---|---|
+| Nerull | The Reaper | Skull and scythe |
+| Pelor | The Sun Father, the Shining One | A sun |
+| Obad-Hai | The Shalm | Oak leaf and acorn (a face of oak leaves) |
+| Beory | The Oerth Mother | A rounded female figurine |
