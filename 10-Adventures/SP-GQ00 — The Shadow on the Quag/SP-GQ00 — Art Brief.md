@@ -168,6 +168,6 @@ a drowned ship's boy of about twelve risen from a lake, bloated and grey, soaked
 - [x] **Upscaled** (2026-11-13): S1–S5 and S4b are now 2688×1792 (FSRCNN ×2 + light sharpening); the 1344 originals are in `scenes/_original/`. S2–S5 measure 58–63% solid black: test-print before layout.
 - [x] P9 Agnes Feldhaus (check the flat grey robe after 1-bit conversion) · [x] P10 Mother Gunde · [x] P14 Machteld Vreeswijk
 - [x] P11 Fog-Drowned plate · [x] P12 Letter-case · [x] P13 Dorakaa silver
-- [x] P15 Ruwen Hask (crop the stray "T" mark, bottom right) · [x] P16 Garrok Stonebrow (re-rolled) · [ ] P17 Chancellor's Letter (text set in Canva design DAHa0U76uuA; art-only file kept as "(blank)"; **download the PNG from Canva into `handouts/` as `SP-GQ00 Handout - The Chancellor's Letter.png`**) · [x] P18 Drowned Cabin Boy
+- [x] P15 Ruwen Hask (crop the stray "T" mark, bottom right) · [x] P16 Garrok Stonebrow (re-rolled) · [x] P17 Chancellor's Letter (2026-11-13: generated in Canva, design DAHa0cJRs4Q, 1545×1999; the ink-art version is kept as "(blank)") · [x] P18 Drowned Cabin Boy
 - [ ] Density check (25–45% solid black) on every scene before upscaling
 - [x] Cover plaque: `99-Assets/_Covers/Cover — The Shadow on the Quag.png` (2026-11-13)
