@@ -31,6 +31,9 @@ This book holds the whole arc. Part One is the **arc guide**: what the DM needs 
 
 ## Part One: The Arc Guide
 
+> [!art]+ Arc opener
+> ![[SP-GQ00 — Arc Opener.png|700]]
+
 ### What the Arc Is
 Six years after his release, Iuz is rebuilding. The Greyhawk Wars are still six years away. What reaches Ritterstadt in 576 isn't an army but people: agents and dupes, a merchant who isn't himself, and a student someone else marked for recruitment before the University ever saw her. The students meet the Old One's war through its quiet beginnings, and every adventure is a **job**: a crossing, a theft, a mole hunt, a contract, a smuggling run and a rescue on the ice.
 

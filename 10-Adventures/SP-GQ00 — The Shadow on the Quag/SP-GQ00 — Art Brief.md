@@ -130,10 +130,10 @@ six thick silver coins spilling out of a rolled wool stocking, each coin stamped
 **Reuse GQ1's *Graue Hecht* deck maps** (`99-Assets/SP-SQ/maps/SP-GQ01 — Hecht 1–4 — Player.png`; credit Mehujel, Inkarnate). The prologue's ship key (H1–H5) is mapped to them. No new map prompt.
 
 ## Checklist
-- [ ] P1 Cover (lock as `--sref` if GQ1 has none yet)
-- [ ] P2 Arc opener
+- [x] P1 Cover (2026-11-13: `cover/SP-GQ00 — Cover.png`; use as the `--sref` for the rest of the set)
+- [x] P2 Arc opener (2026-11-13; at the head of Part One)
 - [ ] P3 Post-House · [ ] P4 Casting Off · [ ] P5 First Night · [ ] P6 Into the Grey · [ ] P7 The Drowned · [ ] P8 Isle in the Grey
 - [ ] P9 Agnes Feldhaus · [ ] P10 Mother Gunde · [ ] P14 Machteld Vreeswijk
 - [ ] P11 Fog-Drowned plate · [ ] P12 Letter-case · [ ] P13 Dorakaa silver
 - [ ] Density check (25–45% solid black) on every scene before upscaling
-- [ ] Cover plaque: add GQ0 to `make_covers.py` (series line "Greyhawk University · The Shadow on the Quag", code GQ0, "An adventure for 1st- and 2nd-level characters")
+- [x] Cover plaque: `99-Assets/_Covers/Cover — The Shadow on the Quag.png` (2026-11-13)

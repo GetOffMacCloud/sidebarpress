@@ -34,6 +34,10 @@ COVERS = [  # art path (vault-relative), series line, title, subtitle, code, ban
      "Ritterstadt", "A Gazetteer of the Field Station Town", "GR1", "A setting book for the Sepia Uplands"),
     ("99-Assets/SP-GA05/cover/SP-GA05 cover.jpg", "Greyhawk University · Field Wardens",
      "The Pilgrims of the Hollow Bell", "A Sidebar Press Greyhawk Adventure", "GA5", "An adventure for 3rd-level characters"),
+    ("99-Assets/SP-GA00/cover/SP-GA00 cover.png", "Greyhawk University · Field Wardens",
+     "Nobody's Colors", "A Sidebar Press Greyhawk Adventure", "GA0", "An adventure for characters of levels 1–4"),
+    ("99-Assets/SP-SQ/cover/SP-GQ00 — Cover.png", "Greyhawk University · Field Wardens",
+     "The Shadow on the Quag", "Arc Guide & Prologue", "GQ0", "An adventure for levels 1–4"),
 ]
 
 def font(name, size): return ImageFont.truetype(str(FONTS / name), size)
