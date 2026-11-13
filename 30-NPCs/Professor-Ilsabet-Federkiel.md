@@ -34,3 +34,4 @@ Not met in the field. If needed: **noble** (MM p. 348) with eleven languages.
 
 ## Appearances
 - [[SP-PBS-01-The-False-Arrow]] — Scene 0
+- [[Ritterstadt — Gazetteer (Book)]] — RG-08, RG-09

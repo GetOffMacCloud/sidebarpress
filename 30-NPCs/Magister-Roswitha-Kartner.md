@@ -34,3 +34,4 @@ Not met in the field. If needed: **scout** (MM p. 349) with expertise in Surviva
 
 ## Appearances
 - [[SP-PBS-01-The-False-Arrow]] — Scene 0
+- [[Ritterstadt — Gazetteer (Book)]] — RG-08, RG-09

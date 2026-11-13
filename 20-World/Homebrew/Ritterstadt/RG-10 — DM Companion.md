@@ -58,7 +58,7 @@ Reveal from the top down.
 | A gap in the ledgers "about forty years back" **and** "eleven years" | The Silent Years, **525–536** | Fits Hanz's youth and Sigmund's evasion |
 | Hassenrath c. 490 **and** "forty years ago" | **c. 536 CY** | Fits the window and the Silent Years |
 | Greyhawk Wars destroyed Node 4 (impossible in 576) | A Furyondian road-cutting crew, 571 CY | Same loss, plausible date |
-| Lake Quag fish "traded up the road" | Ritterstadt is a **lake port**; the quay lies below the palisade | Greybeard's ruling |
+| Lake Quag fish "traded up the road" | Ritterstadt is a **lake port**; the quay lies below the palisade | Sidebar Press ruling |
 | Hogar Irongrip is "master smith" **and** Brunhilde runs the Smithy | Hogar runs the **University Forge**; Brunhilde runs the **village Smithy** | Two forges, two trades |
 | Students start at 1st level **and** Freshmen are 3rd level | **Probationer** rank at levels 1–2 | Both rules survive |
 | "Department of Frontier Studies" published the Gazetteer; eight departments listed | Frontier Studies is the station's **imprint** | — |

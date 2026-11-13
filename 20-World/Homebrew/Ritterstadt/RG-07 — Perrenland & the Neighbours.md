@@ -43,6 +43,7 @@ The sylvan elves at the Larch camp came down from the Vesve border in 575 after 
 | Place | Distance | Souls | Character | Relationship |
 |---|---|---|---|---|
 | **Kottsmort** | ~25 miles E | 60–80 | Trapper's outpost; the closest news of the northern bog | Furs and amber west; news both ways. Iuz's handler for Ewald sits here. |
+| **Kalbach** | ~15 miles SE (a day's walk) | 40–60 | Sheep hamlet of turf-roofed houses around a stone well; a churchyard, a sexton (Udo Pfaff), Yati drovers passing through | Sells wool and mutton to the station; the first stop on the drove road toward Hollen Ford and Carn Aedh ([[SP-PBS-05-The-Pilgrims-of-the-Hollow-Bell]]). *Table canon (Sidebar Press), not Greyhawk canon.* |
 | **Horstham** | ~3 days SW | 200–400 (seasonal) | Iron-mining town; tough, unimpressed | Rival for bog iron; buys the University's assays |
 | **Vostren** | ~4 days E | ~150 | Valley settlement; gnome trade point | The Seam-Finders' charts come through here |
 | **Traft** | ~4 days S | ~400 | Last market town before the Clatspurs | Everything goes through Traft, and the Consortium takes a cut |

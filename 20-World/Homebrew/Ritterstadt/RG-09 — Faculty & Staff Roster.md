@@ -46,7 +46,7 @@ Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-08 — Greyhawk Univers
 **Second lecturer (new):** [[Lecturer Fennimore Tock]] (gnome) — *"Letters first. Pictures lie; letters only mislead."* Epigraphy & Iconography; the one person at the station who can read some Ur-Flan.
 
 ### Exploration & Cartography
-**Head (canon):** **[[Magister Roswitha Kartner]]** (human) — *"Know the exits before you enter."* Never lost, never hurried.
+**Head (canon):** **[[Magister-Roswitha-Kartner|Magister Roswitha Kartner]]** (human) — *"Know the exits before you enter."* Never lost, never hurried.
 **Second lecturer (new):** [[Lecturer Hamlin Dreel]] (human, Perrender) — *"Up is where the air moves. Down is where it doesn't. Remember which you want."* Subterranean Studies; lost two fingers to a Clatspur deep and will tell you how.
 
 ### War Studies & Engineering
@@ -54,7 +54,7 @@ Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-08 — Greyhawk Univers
 **Second lecturer (new):** [[Lecturer Dagny Holmgard]] (human, Oeridian) — also **Quartermaster** — *"Logistics is the art of being there with bread. Two bog poles a party. Not one."* Logistics & Quartermastery; keeps the kit store and the ration ledger and has never lost a student to cold she could have prevented.
 
 ### Letters & Cultures
-**Head (canon):** **[[Professor Ilsabet Federkiel]]** (human) — *"You did not insult the khan. You insulted his horse."* Eleven languages; gossip in all of them.
+**Head (canon):** **[[Professor-Ilsabet-Federkiel|Professor Ilsabet Federkiel]]** (human) — *"You did not insult the khan. You insulted his horse."* Eleven languages; gossip in all of them.
 **Second lecturer (new):** [[Lecturer Aerendil Vaethis]] (high elf) — *"A word is a fossil. Dig."* Linguistics & Philology; the Polyglot Circle's quiet centre.
 
 ### Statecraft & Commerce

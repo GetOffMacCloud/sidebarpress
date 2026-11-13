@@ -241,11 +241,11 @@ Roughly central, slightly east of the Big Barn. **Gottfried** (≈60) and **Ilse
 - **The cider-house:** the oak press runs from first frost to deep winter; casks stacked to the beams.
 - **The estate house:** the finest building in the Sepia Uplands, finer than the Ritter's Hall — a comparison the family never makes aloud. Chuck McCockin built it with cider money and his own hands on the frame.
 
-**Proprietors.** **Grant McCockin** runs the orchard and the cider trade: generous, shrewd, and unapologetic about being both, and the **largest financial supporter of the University's Field Station**. His wife **Winifred Simmons** manages the trade contracts and ledgers. Their daughter is **Bethany McCockin-Simmons**, who grew up hauling crates in these rows.
+**Proprietors.** **Grant McCockin** runs the orchard and the cider trade: generous, shrewd, and unapologetic about being both, and the **largest financial supporter of the University's Field Station**. His wife **Winifred Simmons** manages the trade contracts and ledgers.
 
 **What it offers.** **McCockin Cider**, the hamlet's one genuinely valuable export, carried south by barge and pack-train as far as Verbobonc and the City of Greyhawk. Apples in season. Work at the press from first frost.
 
-**Hooks.** See the campaign's McCockin Orchard note and its GM note.
+**Hooks.** Grant pays well for escorts on the first cider barges south, and better for anyone who can find out who keeps breaching casks at the Landing. A Regents' auditor wants the orchard's ledgers "for the station's accounts"; Winifred wants to know why before she opens them.
 
 ---
 

@@ -55,7 +55,7 @@ Ritterstadt is a lake port on the north shore of **Lake Quag**, where the Sepia 
 
 ## Services at a Glance
 - **Healing:** St. Erika's (free herbal care) · the Infirmary (potions at cost for the enrolled)
-- **Rest:** the Fiend's Rest (travellers, Questers, merchants) · the Grey Wolf (locals; pallet 3 cp, rooms 4–7 sp) · the Long Dormitory (enrolled only)
+- **Rest:** the Fiend's Rest (travellers, adventurers, merchants) · the Grey Wolf (locals; pallet 3 cp, rooms 4–7 sp) · the Long Dormitory (enrolled only)
 - **Training:** the Drill Yard (weapons) · the Larch Camp (archery, woodcraft) · the Archive (research) · the Assay House (appraisal) · the Infirmary (medicine) · the Burrows (instruments)
 - **Information:** the Fiend's Rest for the road, the Grey Wolf for the village, St. Erika's for the past, the quay for the lake, Hanz for the land
 - **Arms and repairs:** the Smithy (village work) · the University Forge (expeditions)

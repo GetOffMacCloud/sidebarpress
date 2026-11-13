@@ -58,7 +58,7 @@ Existing notes from the campaign vault are marked **(canon)**. New residents are
 - [[Dietrich Hammerschlag]] — deceased **(canon)**
 - [[Kurt Beckenhaus]] — farmer of the Beckenhaus longhouse **(canon)**
 - [[Tamera of the Hushmark]] · [[Annelise Volker]] · [[Sigmund Holt]] — residents; roles per their campaign notes **(canon)**
-- **Grant McCockin**, **Winifred Simmons**, and **Bethany McCockin-Simmons** — the McCockin Orchard **(canon)**
+- **Grant McCockin**, **Winifred Simmons**, and their household — the McCockin Orchard **(canon)**
 - [[Jakob Renner]] — farmer, Reeve of Fields **(new)**
 - [[Old Hebe Strasser]] — midwife and layer-out **(new)**
 - [[Dominie Anselm Roth]] — Old Kerk priest, lodging at the Grey Wolf **(new)**
