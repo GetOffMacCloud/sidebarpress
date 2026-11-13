@@ -159,16 +159,15 @@ a drowned ship's boy of about twelve risen from a lake, bloated and grey, soaked
 ```
 
 ### Tokens (from the token maker, after the art above; save as `tokens/SP-GQ00 Token - <Name>.png`)
-- [ ] Fog-Drowned · [ ] Drowned Cabin Boy: **Scene 5 combatants, needed for FGU**
-- [ ] Mother Gunde · [ ] Agnes Feldhaus · [ ] Ruwen Hask · [ ] Garrok Stonebrow (optional, non-combat)
+- [x] All six made 2026-11-13 from the ink art, 280 px in the GQ1 bronze-and-gold ring (ink by choice; GQ1's tokens are colour): Fog-Drowned, Drowned Cabin Boy, Mother Gunde, Agnes Feldhaus, Ruwen Hask, Garrok Stonebrow.
 
 ## Checklist
 - [x] P1 Cover (2026-11-13: `cover/SP-GQ00 — Cover.png`; use as the `--sref` for the rest of the set)
 - [x] P2 Arc opener (2026-11-13; at the head of Part One)
 - [x] P3 Post-House · [x] P4 Casting Off · [x] P5 First Night · [x] P6 Into the Grey (Ruder at a wheel, not a tiller; acceptable) · [x] P7 The Drowned (sun disc) · [x] P8 Isle in the Grey
-- [ ] **Upscale before print:** S1–S5 and S4b are 1344×896 (need ~2250 px wide for a half page). S2–S5 measure 58–63% solid black: test-print before layout.
+- [x] **Upscaled** (2026-11-13): S1–S5 and S4b are now 2688×1792 (FSRCNN ×2 + light sharpening); the 1344 originals are in `scenes/_original/`. S2–S5 measure 58–63% solid black: test-print before layout.
 - [x] P9 Agnes Feldhaus (check the flat grey robe after 1-bit conversion) · [x] P10 Mother Gunde · [x] P14 Machteld Vreeswijk
 - [x] P11 Fog-Drowned plate · [x] P12 Letter-case · [x] P13 Dorakaa silver
-- [x] P15 Ruwen Hask (crop the stray "T" mark, bottom right) · [ ] P16 Garrok Stonebrow (re-roll: pointed ears read orc; prompt now says rounded ears, no orc) · [ ] P17 Chancellor's Letter (art in, but in colour and still blank: set the text; rename the art-only file "(blank)") · [x] P18 Drowned Cabin Boy
+- [x] P15 Ruwen Hask (crop the stray "T" mark, bottom right) · [x] P16 Garrok Stonebrow (re-rolled) · [ ] P17 Chancellor's Letter (text set in Canva design DAHa0U76uuA; art-only file kept as "(blank)"; **download the PNG from Canva into `handouts/` as `SP-GQ00 Handout - The Chancellor's Letter.png`**) · [x] P18 Drowned Cabin Boy
 - [ ] Density check (25–45% solid black) on every scene before upscaling
 - [x] Cover plaque: `99-Assets/_Covers/Cover — The Shadow on the Quag.png` (2026-11-13)
