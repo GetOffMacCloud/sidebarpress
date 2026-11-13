@@ -26,7 +26,7 @@ Prices everything, including silence. Asks nothing about weight that's on the ro
 Social only; **commoner** (MM p. 345).
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scenes 3–4
+- [[SP-GA00-Nobodys-Colors]] — Scenes 3–4
 
 ## Canon Notes
 Homebrew.

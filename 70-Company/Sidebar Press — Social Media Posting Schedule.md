@@ -3,7 +3,7 @@
 **Funnel:** Every product post points at RPGSidebar.com, FantasyGrounds.com, and/or DriveThruRPG.
 **Brand voice:** Canon-continuity Greyhawk, table-tested, Fantasy Grounds-ready. You are the continuity guy — say so without saying so.
 
-> Standing rule: SP-001 (The Deepstil Rift) stays out of all commercial promotion until the Hartin map license is cleared. Market SP-PBS-01 (The False Arrow) as the launch product.
+> Standing rule: SP-001 (The Deepstil Rift) stays out of all commercial promotion until the Hartin map license is cleared. Market SP-GA01 (The False Arrow) as the launch product.
 
 ---
 
@@ -88,7 +88,7 @@ Ratio target: for every 1 Product Spotlight, post 3+ from the other four pillars
 
 **Week 1 — Brand + lead magnet.** Announce Sidebar Press properly: who you are, the canon-continuity promise, FG-ready modules. Posts: intro thread (X), logo/brand art (IG), "why continuity matters" video (TikTok), lore post (Reddit). End of week: publish the free lead-magnet adventure/hook PDF on RPGSidebar.com and announce everywhere. Goal: first 100 newsletter signups.
 
-**Week 2 — SP-PBS-01 spotlight.** The False Arrow, all week, one angle per day: the hook (Mon), the Tiger Nomads and the Favor engine (Tue/Wed), the three trials (Thu), art + map reveals (Fri + video). Every post links the three stores. Goal: first sales; watch which angle gets clicks.
+**Week 2 — SP-GA01 spotlight.** The False Arrow, all week, one angle per day: the hook (Mon), the Tiger Nomads and the Favor engine (Tue/Wed), the three trials (Thu), art + map reveals (Fri + video). Every post links the three stores. Goal: first sales; watch which angle gets clicks.
 
 **Week 3 — Behind the screen + the FG edge.** Design notes from building the adventure; a video walkthrough of the Fantasy Grounds module (this is the differentiator — show it running). Lore post on Yecha/Tiger Nomads canon. Community poll: "what should the next adventure be?" Goal: FG community pickup; gather product feedback.
 

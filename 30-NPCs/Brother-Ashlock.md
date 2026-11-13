@@ -4,7 +4,7 @@ status: alive # update after play: alive | dead | missing
 canon: false
 faction: "Nerullite barrow-cell (Schwartzenbruin)"
 location: "The Dreadverge"
-tags: [villain, nerull, cleric, perrenland, SP-PBS-02]
+tags: [villain, nerull, cleric, perrenland, SP-GA02]
 ---
 
 # Brother Ashlock
@@ -30,10 +30,10 @@ He is gentle, unhurried, and genuinely kind to the dying, because he thinks of t
 
 ## Stat Block
 - APL 1–2: Acolyte (MM p. 342), modified. APL 3–4: Cult Fanatic (MM p. 345), modified.
-- See [[SP-PBS-02 — Bestiary#Brother Ashlock — two chassis]].
+- See [[SP-GA02 — Bestiary#Brother Ashlock — two chassis]].
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scenes 1, 2 (by reputation), 4 (camp), and 5 (climax)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scenes 1, 2 (by reputation), 4 (camp), and 5 (climax)
 
 ## Canon Notes
 Homebrew. His god Nerull and his cover deity Wee Jas are canon; see the main adventure note's Canon Check. If captured, he faces a cantonal Rechter (judge).

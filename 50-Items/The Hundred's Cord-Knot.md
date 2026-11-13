@@ -17,7 +17,7 @@ tags: [token, reward, the-hundred, perrenland, sp-pbs-03]
 *Homebrew.* The Hundred's device. See [[The Hundred]].
 
 ## Found In
-- [[SP-PBS-03-The-Red-Cord]] — given by [[Hauptfrau Ilse Brandauer]] in the denouement ([[Scene 06 — The Midnight Bell]])
+- [[SP-GA03-The-Red-Cord]] — given by [[Hauptfrau Ilse Brandauer]] in the denouement ([[Scene 06 — The Midnight Bell]])
 
 ## Continuity
 None.

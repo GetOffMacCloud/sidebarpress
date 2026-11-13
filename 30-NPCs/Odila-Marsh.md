@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Waycombe"
 location: "Waycombe"
-tags: [waycombe, reeve, perrenland, SP-PBS-02]
+tags: [waycombe, reeve, perrenland, SP-GA02]
 ---
 
 # Odila Marsh
@@ -28,7 +28,7 @@ She is brisk and arithmetical, and she thinks in notches. She answers questions 
 Commoner (MM p. 345). She will not fight unless Tam is in reach.
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — patron and quest-giver (Scenes 1, 2, and the denouement)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — patron and quest-giver (Scenes 1, 2, and the denouement)
 
 ## Canon Notes
 Homebrew. "Reeve" is Sidebar Press house usage for an elected hamlet warden, not a canon Perrender office.

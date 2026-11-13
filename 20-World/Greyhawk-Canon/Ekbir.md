@@ -38,8 +38,8 @@ tags: [ekbir, baklunish, caliphate, nation, west]
 - **Ekbir–Zeif relations "near ruin"** is 591 CY material. It does not apply in 576.
 
 ## Sidebar Press Stance
-- **No canon** supports Ekbir trading with Perrenland over the Yatils, or names an "Ekbiri dialect." Both are Sidebar Press extrapolation in [[SP-PBS-01-The-False-Arrow]] (the Perrenland–Ekbir caravan road; Kezrin's dialect). They are plausible, since Ekbir borders the Yatils and trades with the nomads, but they should be listed as deviations.
+- **No canon** supports Ekbir trading with Perrenland over the Yatils, or names an "Ekbiri dialect." Both are Sidebar Press extrapolation in [[SP-GA01-The-False-Arrow]] (the Perrenland–Ekbir caravan road; Kezrin's dialect). They are plausible, since Ekbir borders the Yatils and trades with the nomads, but they should be listed as deviations.
 - **Kezrin's "Ekbiri silver":** if a coin name is wanted, call it a **charger** (silver; 2e/3e coin name).
 
 ## Linked Adventures
-- [[SP-PBS-01-The-False-Arrow]]
+- [[SP-GA01-The-False-Arrow]]

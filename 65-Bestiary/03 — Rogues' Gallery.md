@@ -1,6 +1,6 @@
 ---
 type: front-matter
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: rogues-gallery
 publish_order: 5000
 publish: true

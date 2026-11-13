@@ -26,7 +26,7 @@ Speaks in riddles about "what the water keeps." Helpful to anyone who shows resp
 **Commoner** (MM 345) with proficiency in Survival (+4) and Nature (+2). Not a druid; she has no spells, only the path.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scenes 00, 02
+- [[SP-OS02-The-Hollow-Lantern]] — Scenes 00, 02
 
 ## Canon Notes
 Homebrew.

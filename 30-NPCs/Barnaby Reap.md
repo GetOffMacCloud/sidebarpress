@@ -27,7 +27,7 @@ Jolly, loud, weeps easily (at toasts, at hymns, at the oven). Laughs a half-seco
 **Commoner** (MM 345). He never fights. If the barn burns he carries children out of it until the roof comes down.
 
 ## Appearances
-- [[SP-HAL-04-The-Tithe-of-Thornbury]] — Scenes 00, 01, 04, 05
+- [[SP-OS04-The-Tithe-of-Thornbury]] — Scenes 00, 01, 04, 05
 
 ## Canon Notes
 Homebrew.

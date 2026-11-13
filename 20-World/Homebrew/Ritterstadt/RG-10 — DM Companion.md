@@ -44,7 +44,8 @@ Reveal from the top down.
 - Calloway's charter promised the Regents the Fiend's Embrace "when safely movable." The Regents' Commission holds a second seal and a drafted commission to recover it.
 - Chancellor Adalwin Adenauer is waiting on Varek Doss's assessment before giving the word.
 - Vogelsang reports to Commissioner Dray and expects the Wardenship.
-- The Registrar's sealed files hold AR-001, Hassenrath's second notebook, and the charter correspondence.
+- The Registrar's sealed files hold AR-001, Hassenrath's second notebook, the charter correspondence, and since 574 the Chancellor's crate ([[The Gaoler's Link]]). The Commission wants it south; the Chancellor does not.
+- Two of Iuz's operations work the town unaware of each other: Ewald's (the Embrace) and Kermin's (the Link).
 - Lecturer Tock has read one line of the clay tablet: *"the one who knew first is not asleep; it is counting."*
 
 **Layer 4 — The ground.**
@@ -53,7 +54,7 @@ Reveal from the top down.
 - Dagmar of Clan Brock stopped building the fifth bastion on the Wachturm rise in 566 because of what her footings found. Her tools are still on the tower's locked ground floor.
 - Node 2 lies under the timber rights. Node 3 lies under Baba Yeska's salt pan. Karet's Hush ledger maps the six stress points.
 - The Grey Sickle has a list of the Sepia's barrows copied from the Historical Society.
-- Baba Yeska's daughter went north with Iuz's recruiter and writes to her mother. Yeska burns the letters.
+- Baba Yeska's daughter went north with Iuz's recruiter and writes to her mother through Kermin's recruiter. Yeska burns the letters.
 
 ## Canon Reconciliations
 
@@ -70,7 +71,7 @@ Reveal from the top down.
 | Students start at 1st level **and** Freshmen are 3rd level | **Probationer** rank at levels 1–2 | Both rules survive |
 | "Department of Frontier Studies" published the Gazetteer; eight departments listed | Frontier Studies is the station's **imprint** | — |
 | Voormann rules from "Schwungdorf" | **Schwartzenbruin** | Canon capital |
-| Wolf Nomad trader Temür Bayan | **Elif Kayim** | Name clash with Khan Temur (SP-PBS-01) |
+| Wolf Nomad trader Temür Bayan | **Elif Kayim** | Name clash with Khan Temur (SP-GA01) |
 | The Kettenhaus listed among buildings | A Traft lending house; its man in town is Vethkar Graun | — |
 | Reeve of Fields (book's invention) | **Jakob Renner**, not Kurt Beckenhaus | The Beckenhauses arrived only two years ago |
 

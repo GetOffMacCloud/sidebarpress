@@ -26,7 +26,7 @@ Tells things in the order he thinks of them.
 Not fought.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 0
+- [[SP-GA00-Nobodys-Colors]] — Scene 0
 
 ## Canon Notes
 Homebrew.

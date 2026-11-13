@@ -3,7 +3,7 @@ type: location
 canon: false
 region: "Yatil Mountains — the Perrenland–Ekbir caravan road"
 parent_location: "Yatil Mountains"
-tags: [hospice, cuthbert, yatils, caravan-road, SP-PBS-01]
+tags: [hospice, cuthbert, yatils, caravan-road, SP-GA01]
 aliases: [the hospice, Hospice of St. Cuthbert]
 ---
 
@@ -26,7 +26,7 @@ aliases: [the hospice, Hospice of St. Cuthbert]
 *Homebrew.* Twice in the winter of 575–576 CY, Chakyik raiders took its supply trains.
 
 ## Adventure Use
-- [[SP-PBS-01-The-False-Arrow]] — Scene 1 and the ending
+- [[SP-GA01-The-False-Arrow]] — Scene 1 and the ending
 
 ## Canon Notes
 Homebrew, placed on a plausible pass between Perrenland and Ekbir. The church of St. Cuthbert is canon.

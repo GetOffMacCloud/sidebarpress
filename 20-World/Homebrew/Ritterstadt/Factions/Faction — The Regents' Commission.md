@@ -46,7 +46,7 @@ The Commission is the Board of Regents' standing committee on field stations and
 - **568 CY.** Calloway's charter is granted on the strength of her promise. The Commission opens its Ritterstadt ledger: every grant thereafter carries the 10% antiquities clause.
 - **571 CY.** Calloway takes a seat on the Commission itself. The station's first Warden, Albrecht Weissmantel, is confirmed by the Board.
 - **573 CY.** The five-year underwriting lapses. The station survives on credits, grants, and Konrad's loan — and the Commission's purse becomes its lifeline. Its patience starts to price itself.
-- **574 CY onward.** Commissioner Lucan Dray's biennial audits begin: every second Patchwall he arrives, inspects, and leaves with a crate. Professor Casimir Vogelsang is cultivated as the Commission's man on the faculty.
+- **574 CY onward.** Commissioner Lucan Dray's biennial audits begin: every second Patchwall he arrives, inspects, and leaves with a crate. Professor Casimir Vogelsang is cultivated as the Commission's man on the faculty. On that first audit Dray watches the Chancellor's own sealed crate land at the quay and go into the sealed stacks uninventoried ([[The Gaoler's Link]]).
 - **576 CY.** Dray carries a drafted commission — *recover and convey the object held at Ritterstadt under the Founders' Compact* — and the second seal. The Chancellor has not yet said the word. He waits on Varek Doss.
 
 ## Goals

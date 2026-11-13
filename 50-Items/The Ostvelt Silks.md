@@ -18,7 +18,7 @@ tags: [colors, silks, plot-key, sp-pbs-00]
 *Homebrew.* Rented from [[Jorick Weisel]]. The register has never been purged.
 
 ## Found In
-- [[SP-PBS-00-Nobodys-Colors]] — [[Scene 05 — The Stewards' Tent]]; handed from Corwin to Adalinde in [[Scene 07 — Post Time]]
+- [[SP-GA00-Nobodys-Colors]] — [[Scene 05 — The Stewards' Tent]]; handed from Corwin to Adalinde in [[Scene 07 — Post Time]]
 
 ## Continuity
 None.

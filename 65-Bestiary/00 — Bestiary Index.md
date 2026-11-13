@@ -1,6 +1,6 @@
 ---
 type: scene-index
-adventure: SP-BST-01
+adventure: SP-OM01
 section: internal
 publish_order: 0
 publish: false
@@ -107,9 +107,9 @@ longform:
 ---
 # Bestiary Index — The Fell Harvest
 
-Product: [[SP-BST-01-The-Fell-Harvest]] · Board: [[SP-BST-01 — Board]] · Template: [[90-Templates/Creature]]
+Product: [[SP-OM01-The-Fell-Harvest]] · Board: [[SP-OM01 — Board]] · Template: [[90-Templates/Creature]]
 
-> [!info] This note is the **build manifest** and the **Longform project index** for SP-BST-01. Every creature is one note in `65-Bestiary`, filed alphabetically by `publish_order` (gaps of 10). The bestiary is **setting-agnostic** and uses **2014 5e** rules, with MM page numbers from the 2014 *Monster Manual*. Adventures link here instead of copying statblocks. To add a creature, create it from [[90-Templates/Creature]], give it a free alphabetical slot, and add it to `longform: scenes:` above.
+> [!info] This note is the **build manifest** and the **Longform project index** for SP-OM01. Every creature is one note in `65-Bestiary`, filed alphabetically by `publish_order` (gaps of 10). The bestiary is **setting-agnostic** and uses **2014 5e** rules, with MM page numbers from the 2014 *Monster Manual*. Adventures link here instead of copying statblocks. To add a creature, create it from [[90-Templates/Creature]], give it a free alphabetical slot, and add it to `longform: scenes:` above.
 
 ## Build Manifest
 
@@ -120,8 +120,8 @@ TABLE WITHOUT ID
   publish_order AS "Order",
   default(status, "—") AS "Status",
   choice(publish, "✅", "—") AS "Ships"
-FROM "65-Bestiary" OR "10-Adventures/SP-BST-01 — The Fell Harvest"
-WHERE adventure = "SP-BST-01" AND publish_order > 0
+FROM "65-Bestiary" OR "10-Adventures/SP-OM01 — The Fell Harvest"
+WHERE adventure = "SP-OM01" AND publish_order > 0
 SORT publish_order ASC
 ```
 
@@ -172,7 +172,7 @@ SORT creature ASC
 
 - **Tail:** `--ar 3:4 --v 8.1 --style raw --stylize 75 --seed 26500 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark`. Add `--sref` from our first approved plate once it's locked.
 - **Print:** convert to 1-bit black and white at 600 dpi before placing.
-- Production tracking lives in [[SP-BST-01 — Art Brief]].
+- Production tracking lives in [[SP-OM01 — Art Brief]].
 
 ## Entry Checklist (every creature)
 - [ ] One-line read-aloud (≤25 words)

@@ -18,7 +18,7 @@ aliases: [Kayim, Elif, the Wegwiur trader]
 > A garrulous, road-worn Wolf Nomad trader who has come a very long way south, half to sell amber and furs and half because the north has stopped feeling like home. The first of his people to trade at Ritterstadt, and an unwitting witness to something he can't name.
 
 ## Source
-The campaign vault's Wolf Nomad trader, renamed from **Temür Bayan** to avoid a clash with Khan Temur in [[SP-PBS-01-The-False-Arrow]]. Everything below that isn't in that note is Gazetteer elaboration.
+The campaign vault's Wolf Nomad trader, renamed from **Temür Bayan** to avoid a clash with Khan Temur in [[SP-GA01-The-False-Arrow]]. Everything below that isn't in that note is Gazetteer elaboration.
 
 ## Appearance
 Weather-cured and wind-burned, in layered felt and white-fur travelling clothes hung with amber beads and horn trinkets. A string of shaggy ponies follows him. One hand is always drifting to the wolf-tooth charm at his neck.
@@ -46,4 +46,5 @@ Talks the way a man talks who has been alone on a cold road too long. Superstiti
 **Scout** (MM p. 349), as a hardy long-road trader. Languages: Common (broken), the Wolf Nomad tongue.
 
 ## Appearances
+- [[SP-GQ00 — The Shadow on the Quag]]: the between-job beat after GQ3 (arrives with the first hard frosts)
 - [[Ritterstadt — Gazetteer (Book)]] — RG-03, RG-06, RG-07, RG-10

@@ -1,6 +1,6 @@
 ---
 type: fgu-templates
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: internal
 publish: false
 tags: [fgu, minion, template, index]

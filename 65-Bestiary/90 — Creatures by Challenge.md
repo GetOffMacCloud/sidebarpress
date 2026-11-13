@@ -1,6 +1,6 @@
 ---
 type: appendix
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: appendix-tables
 publish_order: 9000
 publish: true

@@ -1,6 +1,6 @@
 ---
 type: npc
-adventure: "SP-PBS-05"
+adventure: "SP-GA05"
 section: appendix-bestiary
 publish: true
 title: "Brother-Reaper Ansgar Vell"
@@ -15,7 +15,7 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 # Brother-Reaper Ansgar Vell
 
 > [!art]+ Portrait
-> ![[SP-PBS-05 portrait-ansgar-vell.jpg|300]]
+> ![[SP-GA05 portrait-ansgar-vell.jpg|300]]
 
 *Homebrew variant of the priest (MM), *inflict wounds* in place of *spiritual weapon*; Hollowing Toll added. 2014 rules.*
 
@@ -24,7 +24,7 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 - **Fears:** Dying unremembered, his name unspoken (see **Name Him**).
 - **Knows:** Everything about the ritual and the winter myth; nothing about the orcs' past.
 - **Escalation:** Blesses ("The Reaper comes for all; we only keep the hours.") → warns (the penny in their water) → pays (Grukka's silver) → reaps. **Flees at half hit points (13)** down the south scree, passing the clapper to Halse.
-- **In this adventure:** Leader of the Grey Sickle procession. Shadowed in Scene 2; fought in [[SP-PBS-05 — E4 — Thirteen Tolls|E4]].
+- **In this adventure:** Leader of the Grey Sickle procession. Shadowed in Scene 2; fought in [[SP-GA05 — E4 — Thirteen Tolls|E4]].
 
 ## Statblock
 
@@ -60,13 +60,13 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 > ***Mace.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage.
 
 ## Appearances
-- [[SP-PBS-05-The-Pilgrims-of-the-Hollow-Bell]]: Scenes 2 and 6. Recurs in [[Ansgar Returns]].
+- [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]: Scenes 2 and 6. Recurs in [[Ansgar Returns]].
 
 ## FGU Import
 Paste into **NPCs → Import Text** (mode "2022 – Monsters of the Multiverse"; the block is 2014 content).
 
 > [!art]- FGU Portrait & Token
-> ![[SP-PBS-05 portrait-ansgar-vell.jpg|300]]
+> ![[SP-GA05 portrait-ansgar-vell.jpg|300]]
 
 ```text
 Brother-Reaper Ansgar Vell

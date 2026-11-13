@@ -27,8 +27,8 @@ Polished, careful, answers questions with questions. Glances at the hall wheneve
 **Commoner** (MM 345). Doesn't fight; weeps.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scenes 00, 02 (sleepwalker), 05 (invitee), denouement (hook out)
-- [[SP-HAL-03-The-Night-That-Doesnt-End]] — the Letters hook
+- [[SP-OS02-The-Hollow-Lantern]] — Scenes 00, 02 (sleepwalker), 05 (invitee), denouement (hook out)
+- [[SP-OS03-The-Night-That-Doesnt-End]] — the Letters hook
 
 ## Canon Notes
 Homebrew.

@@ -1,6 +1,6 @@
 ---
 type: npc
-adventure: "SP-PBS-05"
+adventure: "SP-GA05"
 section: appendix-bestiary
 publish: true
 title: "Grukka One-Tusk"
@@ -15,7 +15,7 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 # Grukka One-Tusk
 
 > [!art]+ Portrait
-> ![[SP-PBS-05 portrait-grukka-one-tusk.jpg|300]]
+> ![[SP-GA05 portrait-grukka-one-tusk.jpg|300]]
 
 *Homebrew variant of the orog (MM); Duelist's Word added. 2014 rules.*
 
@@ -24,7 +24,7 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 - **Fears:** The "barrow coin" curse.
 - **Knows:** The Sickle's numbers and the Tor path; that Iuz's recruiters are combing the woods for deserters.
 - **Escalation:** Threatens → bargains (offers the wardens grave-silver to turn back) → accepts a duel → honors the result. Turns on the Sickle if shown Halse's notes (DC 12).
-- **In this adventure:** War-chief of the deserters holding the Tor path. [[SP-PBS-05 — E3 — The Orc Camp|E3]].
+- **In this adventure:** War-chief of the deserters holding the Tor path. [[SP-GA05 — E3 — The Orc Camp|E3]].
 
 ## Statblock
 
@@ -57,13 +57,13 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 > ***Javelin.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage.
 
 ## Appearances
-- [[SP-PBS-05-The-Pilgrims-of-the-Hollow-Bell]]: Scene 5. Recurs in [[Grukka's Deserters]].
+- [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]: Scene 5. Recurs in [[Grukka's Deserters]].
 
 ## FGU Import
 Paste into **NPCs → Import Text** (mode "2022 – Monsters of the Multiverse"; the block is 2014 content).
 
 > [!art]- FGU Portrait & Token
-> ![[SP-PBS-05 portrait-grukka-one-tusk.jpg|300]] ![[SP-PBS-05 token-orc-deserter.jpg|140]]
+> ![[SP-GA05 portrait-grukka-one-tusk.jpg|300]] ![[SP-GA05 token-orc-deserter.jpg|140]]
 
 ```text
 Grukka One-Tusk

@@ -29,10 +29,10 @@ Dry and watchful. She sees everything that happens at the door and says nothing 
 **Commoner**, MM p. 345. Her two bouncers are **Veterans** (retired Ernes).
 
 ## Appearances
-- [[SP-PBS-03-The-Red-Cord]] — Scenes 3, 4 and 6
+- [[SP-GA03-The-Red-Cord]] — Scenes 3, 4 and 6
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-None after SP-PBS-03.
+None after SP-GA03.

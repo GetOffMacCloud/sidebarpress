@@ -241,7 +241,7 @@ Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Group
 
 ## Appearances
 Sidebar Press adventures this NPC appears in:
-- [[SP-PBS-03-The-Red-Cord]] — Scenes 1–6 (the noble; Temper and Trust tracks; swords or coin)
+- [[SP-GA03-The-Red-Cord]] — Scenes 1–6 (the noble; Temper and Trust tracks; swords or coin)
 
 # Relationships
 

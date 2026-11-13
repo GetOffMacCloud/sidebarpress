@@ -29,9 +29,9 @@ The Obsidian vault for **Sidebar Press, LLC** — adventure writing for D&D 2014
 
 ## Naming
 
-- **Adventure codes:** `SP-PBS-NN`, a two-digit sequence (`SP-PBS-01`, `SP-PBS-02`, …). Codes are sequential and never reused, even for scrapped adventures.
-- **Adventure folders:** `10-Adventures/SP-PBS-NN — Title/`, e.g. `SP-PBS-02 — The Bones of the Dreadverge/`.
-  - Main note: `SP-PBS-NN-Title-Slug.md`, e.g. `SP-PBS-02-The-Bones-of-the-Dreadverge.md`.
+- **Adventure codes:** `SP-PBS-NN`, a two-digit sequence (`SP-GA01`, `SP-GA02`, …). Codes are sequential and never reused, even for scrapped adventures.
+- **Adventure folders:** `10-Adventures/SP-PBS-NN — Title/`, e.g. `SP-GA02 — The Bones of the Dreadverge/`.
+  - Main note: `SP-PBS-NN-Title-Slug.md`, e.g. `SP-GA02-The-Bones-of-the-Dreadverge.md`.
   - Supporting notes: `SP-PBS-NN — Bestiary.md`, `SP-PBS-NN — Handout — <Title>.md`, and so on.
   - Scene notes: `Scenes/00 — Scene Index.md` and `Scenes/Scene NN — <Title>.md`.
 - **Assets:** `99-Assets/SP-PBS-NN/`, with files prefixed `SP-PBS-NN - `.

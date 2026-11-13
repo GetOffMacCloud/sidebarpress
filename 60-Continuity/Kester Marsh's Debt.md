@@ -2,7 +2,7 @@
 type: plot-thread
 status: dangling
 priority: low
-introduced_in: "SP-PBS-02"
+introduced_in: "SP-GA02"
 tags: [schwartzenbruin, debt, waycombe, perrenland]
 ---
 
@@ -11,10 +11,10 @@ tags: [schwartzenbruin, debt, waycombe, perrenland]
 > A Waycombe boy owes a dice-runner in Schwartzenbruin. That debt is why the Hound-Mother's barrow was robbed.
 
 ## Status
-**Dangling.** It is unpaid after SP-PBS-02.
+**Dangling.** It is unpaid after SP-GA02.
 
 ## History
-- **Patchwall 576 CY** — planted in [[SP-PBS-02-The-Bones-of-the-Dreadverge]]: [[Kester-Marsh]] confesses to stealing the torc to pay it.
+- **Patchwall 576 CY** — planted in [[SP-GA02-The-Bones-of-the-Dreadverge]]: [[Kester-Marsh]] confesses to stealing the torc to pay it.
 
 ## Involved
 - NPCs: [[Kester-Marsh]], [[Odila-Marsh]], the dice-runner (unnamed)

@@ -22,10 +22,10 @@ Unknown to the party except through Hale's silence and the village's toast: *"To
 - Thorne keeps her lantern where he can see it. *"I hadn't meant to take her. One does, though."*
 
 ## Stat Block
-None. As a soul she can't act. Her body, if found, is an **Echo** (see [[SP-HAL-03 — Bestiary]]).
+None. As a soul she can't act. Her body, if found, is an **Echo** (see [[SP-OS03 — Bestiary]]).
 
 ## Appearances
-- [[SP-HAL-03-The-Night-That-Doesnt-End]] — the toast; the Echo Lanes; Elsbeth's Niche (O4)
+- [[SP-OS03-The-Night-That-Doesnt-End]] — the toast; the Echo Lanes; Elsbeth's Niche (O4)
 
 ## Canon Notes
 Homebrew. No canon source.

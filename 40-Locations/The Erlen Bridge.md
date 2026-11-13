@@ -25,10 +25,10 @@ A stone toll bridge three wagons wide over the slow, four-foot-deep Erlen, with 
 Homebrew. The tolls are Aerden's, and Aerden's council seat is Otwin's. Corwin mortgaged them on a forged seal.
 
 ## Adventure Use
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 2
+- [[SP-GA00-Nobodys-Colors]] — Scene 2
 
 ## Map Reference
-To be made: `99-Assets/SP-PBS-00/`.
+To be made: `99-Assets/SP-GA00/`.
 
 ## Canon Notes
 Homebrew.

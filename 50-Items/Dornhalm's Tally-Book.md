@@ -19,7 +19,7 @@ tags: [evidence, ledger, schwartzenbruin, sp-pbs-03]
 *Homebrew.*
 
 ## Found In
-- [[SP-PBS-03-The-Red-Cord]] — on the desk in the tally-office at [[Dornhalm's Yard]] ([[Scene 05 — Dornhalm's Yard]])
+- [[SP-GA03-The-Red-Cord]] — on the desk in the tally-office at [[Dornhalm's Yard]] ([[Scene 05 — Dornhalm's Yard]])
 
 ## Continuity
 It goes to the patrol as evidence.

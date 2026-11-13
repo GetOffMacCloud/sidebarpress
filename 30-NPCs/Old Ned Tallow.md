@@ -27,7 +27,7 @@ Cheerful, oblivious, delighted. Greets the PC he knows like a cousin and tells e
 **Commoner** (MM 345). In the Colossus's cage he cannot make the DC 15 Strength check to escape.
 
 ## Appearances
-- [[SP-HAL-04-The-Tithe-of-Thornbury]] — Scenes 00, 01, 04, 05
+- [[SP-OS04-The-Tithe-of-Thornbury]] — Scenes 00, 01, 04, 05
 
 ## Canon Notes
 Homebrew. Swap the surname for one that fits the PC's backstory if the DM prefers; keep it on the pact.

@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-04"
+adventure: "SP-GQ04"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [forest, hill]
 origin: harvested
 credit: ""
 base_block: "none (TSR losel, converted to 2014 5e)"
-source_adventures: ["SP-SQ-04"]
+source_adventures: ["SP-GQ04"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, iuz, orc]
 art_plate: todo
 portrait: todo
@@ -88,7 +88,7 @@ Nothing of value. Orc handlers carry 2d6 sp and a whip of knotted hide.
 - *Average:* **CR 1/2.**
 
 ## Appears In
-- SP-SQ-04 — The Quiet Cargo (Iuz's scouts on the Vesve margin)
+- SP-GQ04 — The Quiet Cargo (Iuz's scouts on the Vesve margin)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

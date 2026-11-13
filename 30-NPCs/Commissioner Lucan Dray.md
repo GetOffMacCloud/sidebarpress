@@ -27,6 +27,8 @@ Courteous, exact, and never in a hurry to be disliked. Writes his findings befor
 ## Goals & Secrets
 - **Public:** a productive station, sound ledgers, and the Regents' tenth of any relic recovered under commission.
 - **Actual:** the Fiend's Embrace, promised to the Regents in 568 "when safely movable." He carries a drafted commission — *Recover and convey the object held at Ritterstadt under the Founders' Compact* — and the **second seal** that makes it an order the Warden cannot refuse.
+- **Saw it arrive:** in Patchwall 574, on his first audit, he watched the Chancellor's sealed crate come off the barge and go into the sealed stacks, and logged it *"not inventoried."* Vogelsang has told him only that it is a fetter fragment of the Zagyg period.
+- **Also wants:** the "consignment of 574" ([[The Gaoler's Link]]) sent south. On this the Chancellor disagrees and has told Vogelsang to stall ([[SP-GQ00 — Handout — The Chancellor's Letter]]).
 - **Waits for:** the Chancellor's word, which waits on Varek Doss.
 - **His man on the faculty:** Professor Casimir Vogelsang, who expects the Wardenship.
 
@@ -34,6 +36,7 @@ Courteous, exact, and never in a hurry to be disliked. Writes his findings befor
 **Noble** (MM p. 348). Travels with two hired guards (**veterans**) who wait at the Grey Wolf.
 
 ## Appearances
+- SP-GQ02 *Tethers* (planned): the Patchwall 576 audit
 - [[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-06, RG-08, RG-09
 
 ## Continuity

@@ -3,5 +3,6 @@
   "cssTheme": "CyberGlow",
   "enabledCssSnippets": [
     "sidebar-art-callout"
-  ]
+  ],
+  "showRibbon": true
 }

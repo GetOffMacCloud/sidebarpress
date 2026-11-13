@@ -2,7 +2,7 @@
 type: item
 rarity: "" # treasure; cursed if taken
 canon: false
-tags: [treasure, grave-goods, flan, cursed, test, SP-PBS-02]
+tags: [treasure, grave-goods, flan, cursed, test, SP-GA02]
 ---
 
 # Grave Goods of Kethra
@@ -18,7 +18,7 @@ tags: [treasure, grave-goods, flan, cursed, test, SP-PBS-02]
 *Homebrew.* Flan burial goods, fifteen centuries old.
 
 ## Found In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — on Kethra's bier inside the barrow at [[The-Three-Sisters]] ([[Scene 05 — The Three Sisters]])
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — on Kethra's bier inside the barrow at [[The-Three-Sisters]] ([[Scene 05 — The Three Sisters]])
 
 ## Continuity
 Record whether the barrow was looted, in [[The-Three-Sisters]]. The denouement should notice.

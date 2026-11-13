@@ -1,11 +1,11 @@
-"""Frame the Canva token art (99-Assets/SP-CV-01/token-art) with the Blackmire bronze ring.
-Output: 99-Assets/SP-CV-01/tokens/<Name> — Token.png (512 px, transparent outside the ring)."""
+"""Frame the Canva token art (99-Assets/SP-CV01/token-art) with the Blackmire bronze ring.
+Output: 99-Assets/SP-CV01/tokens/<Name> — Token.png (512 px, transparent outside the ring)."""
 import os
 from PIL import Image,ImageEnhance
 import tokens as T
 S=T.S
 H=os.path.dirname(os.path.abspath(__file__))
-ASSETS=next(p for p in [os.path.join(H,'..','..','..','..','99-Assets','SP-CV-01'),os.path.expanduser('~/mnt/99-Assets/SP-CV-01')] if os.path.isdir(p))
+ASSETS=next(p for p in [os.path.join(H,'..','..','..','..','99-Assets','SP-CV01'),os.path.expanduser('~/mnt/99-Assets/SP-CV01')] if os.path.isdir(p))
 ART=os.path.join(ASSETS,'token-art'); OUT=os.path.join(ASSETS,'tokens'); os.makedirs(OUT,exist_ok=True)
 # key: (display name, ring accent, crop inset — portraits already sit in a circle, so trim a little)
 TOK={'juvenilecrocodile':('Juvenile Crocodile',T.GREEN,0.0),'huntingcrocodile':('Hunting Crocodile',T.TEAL,0.0),

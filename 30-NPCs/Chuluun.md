@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Chakyik (Tiger Nomads) — Temur's riders"
 location: "Yecha"
-tags: [chakyik, rider, baklunish, SP-PBS-01]
+tags: [chakyik, rider, baklunish, SP-GA01]
 ---
 
 # Chuluun
@@ -27,7 +27,7 @@ Mocking and good-humoured, a born heckler. She calls odds in Baklunish and jeers
 **Scout** (MM p. 349), mounted. Not fought.
 
 ## Appearances
-- [[SP-PBS-01-The-False-Arrow]] — Scene 3 (Trial of the Horse)
+- [[SP-GA01-The-False-Arrow]] — Scene 3 (Trial of the Horse)
 
 ## Canon Notes
 Homebrew.

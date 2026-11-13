@@ -25,7 +25,7 @@ A tall, narrow stone house a few streets from the Red Cord. A red cord-knot is c
 Homebrew. See [[The Hundred]].
 
 ## Adventure Use
-- [[SP-PBS-03-The-Red-Cord]] — offstage unless needed. The dawn meeting happens here if the cord is cut (see [[SP-PBS-03 — Cord, Temper and Trust]]). It costs a Bell segment to fetch the company copy if the Soldbrief burns (Scene 5). It is the source of the chest's papers for the "Open the chest" route (Scene 6).
+- [[SP-GA03-The-Red-Cord]] — offstage unless needed. The dawn meeting happens here if the cord is cut (see [[SP-GA03 — Cord, Temper and Trust]]). It costs a Bell segment to fetch the company copy if the Soldbrief burns (Scene 5). It is the source of the chest's papers for the "Open the chest" route (Scene 6).
 
 ## Map Reference
 None needed (theater of the mind).

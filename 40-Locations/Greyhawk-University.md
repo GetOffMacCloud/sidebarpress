@@ -32,9 +32,9 @@ The full location — buildings, residents, departments, lore, and timeline — 
 Students are paid in **credits**, not money. The total credit limit is **600**. Patron reports award **field credit** toward that limit; some sources award **extra credit** outside it (e.g., Sister Halya's letter of field expertise; Historical Society discovery bonuses).
 
 ## Sidebar Press Adventures Set Here
-- [[SP-PBS-01-The-False-Arrow]] — Scene 0 (the contract on the Job Board, Fireseek 576 CY)
-- [[SP-PBS-03-The-Red-Cord]] — Scene 1 (the scholars'-witness commission, Ready'reat 576 CY)
+- [[SP-GA01-The-False-Arrow]] — Scene 0 (the contract on the Job Board, Fireseek 576 CY)
+- [[SP-GA03-The-Red-Cord]] — Scene 1 (the scholars'-witness commission, Ready'reat 576 CY)
 
 ## Continuity Notes
-- SP-PBS-01 takes place in **Needfest–Fireseek 576 CY**, before the campaign's recorded sessions (Planting 576 onward).
-- Name clash resolved: the campaign's Wolf Nomad trader is being renamed **Elif Kayim** (was Temür Bayan) so it doesn't collide with SP-PBS-01's Khan Temur.
+- SP-GA01 takes place in **Needfest–Fireseek 576 CY**, before the campaign's recorded sessions (Planting 576 onward).
+- Name clash resolved: the campaign's Wolf Nomad trader is being renamed **Elif Kayim** (was Temür Bayan) so it doesn't collide with SP-GA01's Khan Temur.

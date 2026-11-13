@@ -26,7 +26,7 @@ Everyone's uncle. Talks about the bridge until stopped.
 Not fought.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 0, Scene 2
+- [[SP-GA00-Nobodys-Colors]] — Scene 0, Scene 2
 
 ## Canon Notes
 Homebrew.

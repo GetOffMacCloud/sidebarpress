@@ -1,6 +1,6 @@
 ---
 type: item
-adventure: "SP-PBS-05"
+adventure: "SP-GA05"
 section: appendix-mechanics
 publish_order: 420
 publish: true
@@ -8,7 +8,7 @@ title: "The Sun-Bell of Carn Aedh"
 rarity: very rare
 item_type: wondrous item (relic, immovable)
 attunement: false
-image: "99-Assets/SP-PBS-05/items/SP-PBS-05 item-sun-bell.jpg"
+image: "99-Assets/SP-GA05/items/SP-GA05 item-sun-bell.jpg"
 edition: "2014"
 status: draft
 tags: [item, homebrew, relic, pelor, flan, carn-aedh, sun-bell]
@@ -19,7 +19,7 @@ tags: [item, homebrew, relic, pelor, flan, carn-aedh, sun-bell]
 *Wondrous item (relic), very rare*
 
 > [!art]+ Plate
-> ![[SP-PBS-05 item-sun-bell.jpg|360]]
+> ![[SP-GA05 item-sun-bell.jpg|360]]
 
 A bronze bell twice a man's height and nearly two tons in weight, hung from a frame of black oak on the crown of the Bell-Tor. Its waist is cast with a ring of Flan sun-faces, worn almost smooth. The Yati say it "rang the dead to sleep": a Flan priesthood of **Pelor** rang it once, when the barrow-kings were buried, to cut the dead down and let the winter turn.
 
@@ -36,5 +36,5 @@ The bell has three states.
 **Moving it.** It weighs nearly two tons. The Grey Sickle brought a handcart, rope and block, and enough acolytes. Students don't take it home.
 
 ## Found In
-- [[SP-PBS-05-The-Pilgrims-of-the-Hollow-Bell]]: Part 5, the Bell-Tor crown ([[SP-PBS-05 — E4 — Thirteen Tolls]]).
+- [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]: Part 5, the Bell-Tor crown ([[SP-GA05 — E4 — Thirteen Tolls]]).
 - Ending B or E: [[Ansgar Returns]].

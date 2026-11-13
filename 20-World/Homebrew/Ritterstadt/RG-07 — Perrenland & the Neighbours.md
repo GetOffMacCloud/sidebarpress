@@ -23,7 +23,7 @@ Perrenland has eight cantons (*Living Greyhawk Gazetteer*). The four that touch 
 | Canton | Seat | Stance on Ritterstadt | What they want from the University | What they'd pay for | Standing contact |
 |---|---|---|---|---|---|
 | **Traft** | Traft | The gateway: wants the trade, fears the liability. Its 10-man garrison is the nearest Perrender steel. | Maps of the lake road; a physician in Traft one month a year; students who don't die on canton roads | 10 gp a map copy; 50 gp a season for the physician | The Hanselmann Consortium (unofficially); the Traft levy-clerk |
-| **Clatspurgen** | Clatspur highlands | Distant cousin. The Dreadverge haunting ([[SP-PBS-02-The-Bones-of-the-Dreadverge]]) made its council aware that old graves wake. | Someone who can tell a barrow from a treasure pit; a copy of the Antiquities department's grave-site survey | A Waycombe debt of honour; cantonal thanks in Schwartzenbruin | Reeve Odila Marsh of Waycombe |
+| **Clatspurgen** | Clatspur highlands | Distant cousin. The Dreadverge haunting ([[SP-GA02-The-Bones-of-the-Dreadverge]]) made its council aware that old graves wake. | Someone who can tell a barrow from a treasure pit; a copy of the Antiquities department's grave-site survey | A Waycombe debt of honour; cantonal thanks in Schwartzenbruin | Reeve Odila Marsh of Waycombe |
 | **Quagfludt** | the Quag shore | Watches the lake. Resents the Rhennee running salt untaxed through "their" water. | A toll agreement for the Landing; charts of the lake's north shore | Recognition of Ritterstadt's fishing rights; a fair on the lake road | A Quagfludt harbour-reeve who visits the Landing twice a year and is not welcome |
 | **Yattenhied** | the eastern cantons toward the Vesve | Nervous. Iuz's couriers cross Yattenhied's border on the way to the Sepia. | Warning. Anything the University learns about traffic from the east. | Information in kind; a company of pikes if it ever came to that | The Yatil Mountaineers' free company, which recruits in Ritterstadt |
 | **The Voormann's Council** | Schwartzenbruin | Nominal claim; wants the frontier "stable" and will express concern afterward | Nothing it has to pay for | — | Dominie Anselm Roth's letters (see [[RG-06 — Factions]]) |
@@ -47,20 +47,20 @@ The sylvan elves at the Larch camp came down from the Vesve border in 575 after 
 | Place | Distance | Souls | Character | Relationship |
 |---|---|---|---|---|
 | **Kottsmort** | ~25 miles E | 60–80 | Trapper's outpost; the closest news of the northern bog | Furs and amber west; news both ways. Iuz's handler for Ewald sits here. |
-| **Kalbach** | ~15 miles SE (a day's walk) | 40–60 | Sheep hamlet of turf-roofed houses around a stone well; a churchyard, a sexton (Udo Pfaff), Yati drovers passing through | Sells wool and mutton to the station; the first stop on the drove road toward Hollen Ford and Carn Aedh ([[SP-PBS-05-The-Pilgrims-of-the-Hollow-Bell]]). *Table canon (Sidebar Press), not Greyhawk canon.* |
+| **Kalbach** | ~15 miles SE (a day's walk) | 40–60 | Sheep hamlet of turf-roofed houses around a stone well; a churchyard, a sexton (Udo Pfaff), Yati drovers passing through | Sells wool and mutton to the station; the first stop on the drove road toward Hollen Ford and Carn Aedh ([[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]). *Table canon (Sidebar Press), not Greyhawk canon.* |
 | **Horstham** | ~3 days SW | 200–400 (seasonal) | Iron-mining town; tough, unimpressed | Rival for bog iron; buys the University's assays |
 | **Vostren** | ~4 days E | ~150 | Valley settlement; gnome trade point | The Seam-Finders' charts come through here |
 | **Traft** | ~4 days S | ~400 | Last market town before the Clatspurs | Everything goes through Traft, and the Consortium takes a cut |
-| **Eru Tovar** | far S | — | Where the Founders left from | Varek Doss's home; the Regents' post goes through it |
+| **Eru Tovar** | far S | — | Where the Founders left from | Varek Doss's home |
 
 ## The Wolf Nomads
 The eastern Sepia is their ancestral ground; their routes run south in autumn and north in late spring along the network nodes they no longer have words for. They have never traded at Ritterstadt. **Elif Kayim**'s arrival would be the first time, and the kin-band's rumours would come with the furs. See the campaign Faction Dossiers for how to bring them in — through the standing stones at G5, respectfully, overnight.
 
 ## The Chakyik (Tiger Nomads)
-Beyond the Wolves, west and north around the Yatils. In the winter of 576 a University field party carried a parley to Ilkhan Cligir at Yecha ([[SP-PBS-01-The-False-Arrow]]). Whatever came of it, the station now has a name among the Chakyik, and the Wolf Nomads know it.
+Beyond the Wolves, west and north around the Yatils. In the winter of 576 a University field party carried a parley to Ilkhan Cligir at Yecha ([[SP-GA01-The-False-Arrow]]). Whatever came of it, the station now has a name among the Chakyik, and the Wolf Nomads know it.
 
 ## The City of Greyhawk
-Six weeks away by road and barge, and the source of the charter, the grants, the paper, and the Chancellor's expectations. The Regents' Commission's envoy comes every second year. Letters take a month each way. Decisions made in Ritterstadt are therefore made in Ritterstadt, and explained later.
+Six weeks away by road and barge, and the source of the charter, the grants, the paper, and the Chancellor's expectations. The Regents' Commission's envoy comes every second year. Letters take a month each way: the post comes up the Velverdyva to the University's post-house in Schwartzenbruin, kept by [[Agnes Feldhaus]], and crosses the lake on whatever ship is sailing north ([[The University Post-House]]). Decisions made in Ritterstadt are therefore made in Ritterstadt, and explained later.
 
 ## Hooks
 - Traft's levy-clerk arrives with a form that would make Ritterstadt a canton dependency "for its own protection." The Vogt wants it lost in the lake.

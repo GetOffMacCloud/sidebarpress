@@ -2,7 +2,7 @@
 type: plot-thread
 status: open
 priority: high
-introduced_in: "SP-PBS-01"
+introduced_in: "SP-GA01"
 tags: [iuz, chakyik, wegwiur, kezrin, yulbar, plains-of-blood-and-steel]
 ---
 
@@ -15,14 +15,14 @@ tags: [iuz, chakyik, wegwiur, kezrin, yulbar, plains-of-blood-and-steel]
 
 ## History
 - **Sunsebb 575 CY** — Kezrin's Wolf-dressed riders ambush a Chakyik patrol; Tsolmon dies in Yecha saying "Wolves."
-- **Needfest–Fireseek 576 CY** — [[SP-PBS-01-The-False-Arrow]]: the false flag is exposed (or not) at Cligir's war council.
+- **Needfest–Fireseek 576 CY** — [[SP-GA01-The-False-Arrow]]: the false flag is exposed (or not) at Cligir's war council.
 
 ## Involved
 - NPCs: [[Master-Kezrin]], [[Khan-Temur]], [[Ilkhan-Cligir]], [[Mother-Sarnai]], Yulbar of the Wolf (unnamed note)
 - Locations: [[Yecha]], the Wolf Nomad lands, Dorakaa
-- Items: [[SP-PBS-01 — Handout — Kezrin's Papers]]
+- Items: [[SP-GA01 — Handout — Kezrin's Papers]]
 
-## State After SP-PBS-01 (fill in per table)
+## State After SP-GA01 (fill in per table)
 - Council result: ______
 - Temur: stood down / rode east with half / rode east with all
 - Kezrin: captured / escaped, papers recovered / escaped with papers

@@ -2,8 +2,8 @@
 type: item
 rarity: uncommon
 canon: false
-adventure: "SP-SQ-01"
-tags: [item, shadow-on-the-quag, iuz, SP-SQ-01]
+adventure: "SP-GQ01"
+tags: [item, shadow-on-the-quag, iuz, SP-GQ01]
 ---
 
 # The Ashbox
@@ -21,7 +21,7 @@ tags: [item, shadow-on-the-quag, iuz, SP-SQ-01]
 Vesharan commissioned the box from the University Forge in Brewfest 576. He lined and lettered it himself with ash from Dorakaa. *Homebrew.*
 
 ## Found In
-- SP-SQ-01 — The Gaoler's Link: open on a crate in the *Graue Hecht*'s hold (Scene 6; H2)
+- SP-GQ01 — The Gaoler's Link: open on a crate in the *Graue Hecht*'s hold (Scene 6; H2)
 
 ## Continuity
 If the party keeps it, it's the safest way to carry the Link, and the easiest way for Iuz to find it. Vogelsang will want it for the collection.

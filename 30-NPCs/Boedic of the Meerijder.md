@@ -23,10 +23,10 @@ Polite, sorry about it, and immovable. Apologizes while not moving. Curious what
 - **Reacts:** stands aside for clan kinship, the jurisdiction argument, or twelve marks. Fights defensively and calls it off at two drovers down.
 
 ## Stat Block
-**Bandit captain** (MM p. 344) with changes; see [[SP-PBS-00 — Bestiary]].
+**Bandit captain** (MM p. 344) with changes; see [[SP-GA00 — Bestiary]].
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 2
+- [[SP-GA00-Nobodys-Colors]] — Scene 2
 
 ## Canon Notes
 Homebrew. Clan Meerijder is Living Greyhawk material.

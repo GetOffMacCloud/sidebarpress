@@ -18,7 +18,7 @@ tags: [document, evidence, sp-pbs-00]
 *Homebrew.* Written at dawn after [[Old Hartwin]] reported the chain-dragging stranger at the bridge.
 
 ## Found In
-- [[SP-PBS-00-Nobodys-Colors]] — [[Scene 02 — The Erlen Bridge]]; Boedic gives it up if asked once he stands aside
+- [[SP-GA00-Nobodys-Colors]] — [[Scene 02 — The Erlen Bridge]]; Boedic gives it up if asked once he stands aside
 
 ## Continuity
 None.

@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Waycombe"
 location: "Waycombe"
-tags: [waycombe, child, perrenland, SP-PBS-02]
+tags: [waycombe, child, perrenland, SP-GA02]
 ---
 
 # Bett Marsh
@@ -25,7 +25,7 @@ She follows the PC she has chosen everywhere and says almost nothing.
 Noncombatant.
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Subplots (folk hero); Scene 2
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Subplots (folk hero); Scene 2
 
 ## Canon Notes
 Homebrew.

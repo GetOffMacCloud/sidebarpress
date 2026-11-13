@@ -334,7 +334,7 @@ Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Group
 
 ## Appearances
 Sidebar Press adventures this NPC appears in:
-- [[SP-PBS-03-The-Red-Cord]] — referenced only (his unfiled Kettenhaus report; Konrad's choice of swords or coin bears on it)
+- [[SP-GA03-The-Red-Cord]] — referenced only (his unfiled Kettenhaus report; Konrad's choice of swords or coin bears on it)
 
 # Relationships
 

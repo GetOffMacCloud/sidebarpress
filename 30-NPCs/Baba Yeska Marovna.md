@@ -27,7 +27,7 @@ Warm to children and customers, flat as still water to officials. Speaks Common,
 ## Goals & Secrets
 - **Wants:** the Landing to grow with the town, and the Landing to be hers when it does.
 - **Runs:** the ferry, the smokehouse, the salt pans, and night barges south that pay no toll.
-- **Secret:** half her "Quag salt" is Traft salt sold back to Traft; the other half comes from a pan at the Mire margin where nothing should be dry. Twice a season a sealed crate goes north with a letter in her daughter's hand to Iuz's recruiter. Yeska reads the replies and burns them. Her grandchildren are the two tieflings the town does not discuss.
+- **Secret:** half her "Quag salt" is Traft salt sold back to Traft; the other half comes from a pan at the Mire margin where nothing should be dry. Twice a season a sealed crate goes north with a letter in her daughter's hand to Iuz's recruiter. Yeska reads the replies and burns them. Her grandchildren are the two tieflings the town does not discuss. The recruiter is Kermin Mind-Bender's, the same one who courts [[Liesl Amsel]] in SP-GQ02 ([[SP-GQ00 — The Shadow on the Quag]]).
 - **Would:** burn the Landing before she let it be used against the town.
 
 ## Stat Block
@@ -35,7 +35,8 @@ Warm to children and customers, flat as still water to officials. Speaks Common,
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-02, RG-03, RG-04, RG-05, RG-06
-- [[SP-SQ-01-The-Gaolers-Link]]: the Landing; the Hecht's stores; Scenes 01, 03, 07
+- [[SP-GQ01-The-Gaolers-Link]]: the Landing; the Hecht's stores; Scenes 01, 03, 07
+- [[SP-GQ00 — Prologue — The Crossing]]: Scene 6
 
 ## Continuity
 Record whether a party learns about the northbound crate, and what Yeska does when they do. → [[Faction — The Quag Bargemen]]

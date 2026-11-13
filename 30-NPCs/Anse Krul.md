@@ -23,10 +23,10 @@ Describes cruelty as craftsmanship. Runs before he fights.
 - **Reacts:** needs three uninterrupted rounds in the stall. Cornered, he talks; captured, he names Vuurzward without much pressing.
 
 ## Stat Block
-**Spy** (MM p. 349) with changes; see [[SP-PBS-00 — Bestiary]].
+**Spy** (MM p. 349) with changes; see [[SP-GA00 — Bestiary]].
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 4; Scene 6 at APL 3–4 if he escaped
+- [[SP-GA00-Nobodys-Colors]] — Scene 4; Scene 6 at APL 3–4 if he escaped
 
 ## Canon Notes
 Homebrew. Clan Vuurzward is Living Greyhawk material; see [[Perrenland-Mercenary-Companies]].

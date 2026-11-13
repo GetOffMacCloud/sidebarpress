@@ -23,10 +23,10 @@ Courteous, patient, never threatens, never lies; he leaves things out. Makes his
 - **Reacts:** offers to burn the note for the mare. Lies only once ("I don't know the name," Insight DC 18). Asked straight about the leak: "I don't lie, scholar. Ask me something else." Cannot be punched: his cousin is the Schultheiss.
 
 ## Stat Block
-Not fought; see [[SP-PBS-00 — Bestiary]].
+Not fought; see [[SP-GA00 — Bestiary]].
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 5; offstage in Scenes 4, 6 and 7
+- [[SP-GA00-Nobodys-Colors]] — Scene 5; offstage in Scenes 4, 6 and 7
 
 ## Canon Notes
 Homebrew. Clan Vuurzward is Living Greyhawk material; see [[Perrenland-Mercenary-Companies]].

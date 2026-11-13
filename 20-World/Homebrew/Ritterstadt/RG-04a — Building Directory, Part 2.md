@@ -155,7 +155,7 @@ Seven dwarf households, the Mining Consortium's bunkhouse (five journeymen), and
 ### 20. The Stone Stall — Yusuf al-Rashad, cloth and salt
 **Outside.** *The only stone stall on the hill, under an indigo awning that never comes down.*
 **Proprietor.** [[Yusuf al-Rashad]], Baklunish merchant up from Ket: round, immaculate, courtly. Tea before prices.
-**Sells.** Dyed cloth (2 sp–2 gp a yard), salt (5 cp a pound), Ket spices, needles and thread, letters carried south for a fee.
+**Sells.** Dyed cloth (2 sp–2 gp a yard), salt (5 sp a pound), Ket spices, needles and thread, letters carried south for a fee.
 
 ### 21. Talg's Chandlery — candles, lamp-oil, soap
 **Outside.** *A narrow house at the top of the hill smelling of tallow and lye, candles hung in bundles in the window like strings of onions.*

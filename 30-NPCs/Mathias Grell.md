@@ -13,7 +13,7 @@ aliases: [the Proctor, Proctor Grell, Mathias Grell]
 > Proctor of Students. A former Traft watchman of thirty-six who keeps discipline, the gate rota, and the student organizations' charters from his room at the end of the Long Dormitory.
 
 ## Appearance
-![[SP-SQ-01 Portrait - Mathias Grell.png|300]]
+![[SP-GQ01 Portrait - Mathias Grell.png|300]]
 
 Flan, lean, short-cropped hair, a watchman's leather coat he still wears, and a whistle on a cord.
 
@@ -32,4 +32,4 @@ Fair, humourless, and respected. Never raises his voice; writes everything down.
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-02, RG-04, RG-08, RG-09
-- [[SP-SQ-01-The-Gaolers-Link]]: the Proctor; the inquiry; Scenes 05, 08
+- [[SP-GQ01-The-Gaolers-Link]]: the Proctor; the inquiry; Scenes 05, 08

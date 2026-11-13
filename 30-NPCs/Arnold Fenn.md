@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: ""
 location: "Ritterstadt"
-tags: [perrenland, bargeman, tethered, shadow-on-the-quag, SP-SQ-01]
+tags: [perrenland, bargeman, tethered, shadow-on-the-quag, SP-GQ01]
 aliases: [Arnold Fenn]
 ---
 
@@ -26,7 +26,7 @@ Wiry, quiet, missing two front teeth; a bone pin in his cap.
 [[Tethered Sleeper]].
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: Scenes 06, 07
+- [[SP-GQ01-The-Gaolers-Link]]: Scenes 06, 07
 
 ## Canon Notes
 Homebrew.

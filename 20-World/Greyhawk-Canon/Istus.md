@@ -39,8 +39,8 @@ tags: [deity, istus, baklunish, fate, neutral]
 - **Tiger Nomad worship** is explicit only in the LGG (591). Having her honoured by Chakyik shamans in 576 is a reasonable extrapolation, not a 1983 statement.
 
 ## Sidebar Press Stance
-- Mother Sarnai in [[SP-PBS-01-The-False-Arrow]] is a shaman of Istus. Her thread, cloth and loom imagery fits the spindle canon. Keep "Istus weaves" to the two uses already in the text.
+- Mother Sarnai in [[SP-GA01-The-False-Arrow]] is a shaman of Istus. Her thread, cloth and loom imagery fits the spindle canon. Keep "Istus weaves" to the two uses already in the text.
 - A follower of Istus values honesty. A lie told to Sarnai is an offence against her goddess, not just against her.
 
 ## Linked Adventures
-- [[SP-PBS-01-The-False-Arrow]]
+- [[SP-GA01-The-False-Arrow]]

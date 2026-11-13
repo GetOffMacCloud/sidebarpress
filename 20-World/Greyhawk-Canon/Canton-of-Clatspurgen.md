@@ -36,8 +36,8 @@ None known between editions. The tension is between core canon (a thinly describ
 
 ## Sidebar Press Stance
 - Use the LGG core freely. Use Living Greyhawk detail (Roodberg, Vosser, Phalzgraf) as optional color, and cite it as LG when we do.
-- **Waycombe** ([[SP-PBS-02-The-Bones-of-the-Dreadverge]]) sits in a high Clatspur valley. That puts it naturally among the Vosser highlanders. A future pass could make Odila's levy dispute part of the Vosser–Phalzgraf quarrel. This is not used yet.
+- **Waycombe** ([[SP-GA02-The-Bones-of-the-Dreadverge]]) sits in a high Clatspur valley. That puts it naturally among the Vosser highlanders. A future pass could make Odila's levy dispute part of the Vosser–Phalzgraf quarrel. This is not used yet.
 - Our "cantonal council of Clatspurgen" and "levy-office" are generic house terms. If we adopt LG, the levy is owed to the Phalzgraf.
 
 ## Linked Adventures
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]

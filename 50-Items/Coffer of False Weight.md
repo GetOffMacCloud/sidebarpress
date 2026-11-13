@@ -2,8 +2,8 @@
 type: item
 rarity: uncommon
 canon: false
-adventure: "SP-SQ-04"
-tags: [item, shadow-on-the-quag, heist, decoy, SP-SQ-04]
+adventure: "SP-GQ04"
+tags: [item, shadow-on-the-quag, heist, decoy, SP-GQ04]
 ---
 
 # Coffer of False Weight
@@ -17,10 +17,10 @@ tags: [item, shadow-on-the-quag, heist, decoy, SP-SQ-04]
 - When the last charge is spent, the coffer is ordinary iron.
 
 ## History
-Lecturer Perenna Dolz and Hogar Irongrip made two of them in Ready'reat 576, for the decoy runs of SP-SQ-04. Dolz's notes say she copied the effect "by imitating a silence." *Homebrew.*
+Lecturer Perenna Dolz and Hogar Irongrip made two of them in Ready'reat 576, for the decoy runs of SP-GQ04. Dolz's notes say she copied the effect "by imitating a silence." *Homebrew.*
 
 ## Found In
-- SP-SQ-04 — The Quiet Cargo: two decoy coffers sent by other roads
+- SP-GQ04 — The Quiet Cargo: two decoy coffers sent by other roads
 
 ## Continuity
 A coffer that comes back with charges left is a prize for Dolz's department. One that is captured tells Kermin's diviners exactly how they were fooled.

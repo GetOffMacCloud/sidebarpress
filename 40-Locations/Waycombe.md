@@ -3,7 +3,7 @@ type: location
 canon: false
 region: "Perrenland — Canton of Clatspurgen"
 parent_location: "Canton of Clatspurgen, Perrenland"
-tags: [hamlet, perrenland, clatspurgen, SP-PBS-02]
+tags: [hamlet, perrenland, clatspurgen, SP-GA02]
 ---
 
 # Waycombe
@@ -30,10 +30,10 @@ tags: [hamlet, perrenland, clatspurgen, SP-PBS-02]
 *Homebrew.* A highland herding hamlet that owes a 40-mark (gp) annual levy to the cantonal council of Clatspurgen. Folk speak Common and Stamtaal. They fear Iuz over the ridges and remember Iggwilv's dead. Its folk song is the last remnant of a warning about the Hound-Mother's barrow.
 
 ## Adventure Use
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scenes 1, 2, and the denouement
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scenes 1, 2, and the denouement
 
 ## Map Reference
-`99-Assets/SP-PBS-02/` — not yet drawn.
+`99-Assets/SP-GA02/` — not yet drawn.
 
 ## Canon Notes
 Homebrew. Placed within the canon Canton of Clatspurgen, Perrenland, in a high valley of the Clatspurs; see the main adventure note's Canon Check.

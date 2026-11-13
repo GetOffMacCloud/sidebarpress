@@ -34,6 +34,7 @@ Patient, genial, and genuinely charitable. Remembers every fisher's child's name
 **Priest** (MM p. 348). Sincere.
 
 ## Appearances
+- His brief comes from [[Ouderling Machteld Vreeswijk]] (the Old Kerk's Keeper of Oaths), who has her own reasons ([[SP-GQ00 — The Shadow on the Quag]]).
 - [[Ritterstadt — Gazetteer (Book)]] — RG-03, RG-06, RG-07
 
 ## Continuity

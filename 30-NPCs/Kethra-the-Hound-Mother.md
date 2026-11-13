@@ -4,7 +4,7 @@ status: dead
 canon: false
 faction: "Flan (ancient)"
 location: "The Three Sisters (barrow)"
-tags: [flan, undead-binding, barrow, perrenland, SP-PBS-02]
+tags: [flan, undead-binding, barrow, perrenland, SP-GA02]
 ---
 
 # Kethra, the Hound-Mother
@@ -24,7 +24,7 @@ Her binding wants the torc back. That is all. *Never give her a voice.*
 None.
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 5 (the bier)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scene 5 (the bier)
 
 ## Canon Notes
 Homebrew, inspired by the canon Flan tribes of the Yatil and Clatspur highlands. See [[The-Hound-Mother-of-the-Dreadverge]].

@@ -3,7 +3,7 @@ type: location
 canon: false
 region: "Perrenland — Canton of Clatspurgen"
 parent_location: "Clatspur Range"
-tags: [wilderness, heath, perrenland, clatspurgen, SP-PBS-02]
+tags: [wilderness, heath, perrenland, clatspurgen, SP-GA02]
 ---
 
 # The Dreadverge
@@ -28,10 +28,10 @@ tags: [wilderness, heath, perrenland, clatspurgen, SP-PBS-02]
 *Homebrew.* The name is a Stamtaal corruption of an older Flan word for "the Mother's verge," the edge of her land. Waycombe folk cut turf on its western edge; nobody grazed the Sisters' slope until this autumn.
 
 ## Adventure Use
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scenes 3 and 4
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scenes 3 and 4
 
 ## Map Reference
-- **Cut-Trenches battlemap** (Encounter 5): `99-Assets/SP-PBS-02/SP-PBS-02 - Cut-Trenches - DM.svg` and `- Player.svg`. The grid is 30 × 30 squares (150 × 150 ft); the PNG export is 100 px/sq. See [[SP-PBS-02 — Map Assets]].
+- **Cut-Trenches battlemap** (Encounter 5): `99-Assets/SP-GA02/SP-GA02 - Cut-Trenches - DM.svg` and `- Player.svg`. The grid is 30 × 30 squares (150 × 150 ft); the PNG export is 100 px/sq. See [[SP-GA02 — Map Assets]].
 - The overland crossing (four legs, the Beck, the camp detour) is run as theater of the mind, so no map is needed. An optional regional sketch map is still open.
 
 ## Canon Notes

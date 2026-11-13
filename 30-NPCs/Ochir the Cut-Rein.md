@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Kezrin's men (agent of Iuz)"
 location: "Yecha"
-tags: [chakyik, exile, iuz, villain-minion, SP-PBS-01]
+tags: [chakyik, exile, iuz, villain-minion, SP-GA01]
 ---
 
 # Ochir the Cut-Rein
@@ -23,10 +23,10 @@ Quiet, patient and contemptuous. He calls the riders of the horde "brothers" in 
 - **Reacts:** leads the Scene 5 night attack. Knocks PCs out rather than killing them, and runs when Naran's riders arrive. Captured, he says nothing; one of his thugs talks instead.
 
 ## Stat Block
-Homebrew, CR 2: see [[SP-PBS-01 — Bestiary]] (Ochir the Cut-Rein), with FGU import text.
+Homebrew, CR 2: see [[SP-GA01 — Bestiary]] (Ochir the Cut-Rein), with FGU import text.
 
 ## Appearances
-- [[SP-PBS-01-The-False-Arrow]] — Scene 5 (the night attack)
+- [[SP-GA01-The-False-Arrow]] — Scene 5 (the night attack)
 
 ## Canon Notes
 Homebrew.

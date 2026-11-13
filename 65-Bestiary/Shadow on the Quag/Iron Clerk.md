@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-03"
+adventure: "SP-GQ03"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [urban]
 origin: new
 credit: ""
 base_block: "none"
-source_adventures: ["SP-SQ-03"]
+source_adventures: ["SP-GQ03"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, construct]
 art_plate: todo
 portrait: todo
@@ -77,7 +77,7 @@ The clerk stays seated until something in its room moves. Then it rises, clamps 
 The clerk's iron ledger (a 50 gp curiosity, and sometimes a record of every coin that moved through the room in a century). Its bell (25 gp). Dwarven makers' marks of interest to Hogar Irongrip.
 
 ## Design Notes
-**New creature** (Sidebar Press, 2026-11-05). A guardian for SP-SQ-03's counting-house heist that rewards a swap over a fight.
+**New creature** (Sidebar Press, 2026-11-05). A guardian for SP-GQ03's counting-house heist that rewards a swap over a fight.
 
 | Change | — | Now | Why |
 |---|---|---|---|
@@ -89,7 +89,7 @@ The clerk's iron ledger (a 50 gp curiosity, and sometimes a record of every coin
 - *Average:* CR 1.5, rounded up to **CR 2** for Shackle Clamp, a restraining effect the damage math doesn't count.
 
 ## Appears In
-- SP-SQ-03 — The Molag Contract (the counting-house's strongroom)
+- SP-GQ03 — The Molag Contract (the counting-house's strongroom)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-01"
+adventure: "SP-GQ01"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [urban, village, ruins]
 origin: new
 credit: ""
 base_block: "Animated armor (MM p. 19), as a model"
-source_adventures: ["SP-SQ-01"]
+source_adventures: ["SP-GQ01"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, construct]
 art_plate: todo
 portrait: todo
@@ -79,7 +79,7 @@ It blocks the only exit and bites whoever is carrying the most. It doesn't chase
 The guardian's glass eye (a 25 gp piece of rock crystal) and, for anyone willing to haul it, the mount itself: a curiosity worth 50 gp to a collector, or 5 credits to the Antiquities department.
 
 ## Design Notes
-**New creature** (Sidebar Press, 2026-11-05). Modeled on animated armor (Antimagic Susceptibility and False Appearance kept) and reshaped as a beast-form construct for SP-SQ-01's sealed stacks.
+**New creature** (Sidebar Press, 2026-11-05). Modeled on animated armor (Antimagic Susceptibility and False Appearance kept) and reshaped as a beast-form construct for SP-GQ01's sealed stacks.
 
 | Change | Animated armor | Now | Why |
 |---|---|---|---|
@@ -93,7 +93,7 @@ The guardian's glass eye (a 25 gp piece of rock crystal) and, for anyone willing
 - *Average:* **CR 1.**
 
 ## Appears In
-- SP-SQ-01 — The Gaoler's Link (A5, the Archive Pike; the lake gar at APL 4)
+- SP-GQ01 — The Gaoler's Link (A5, the Archive Pike; the lake gar at APL 4)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

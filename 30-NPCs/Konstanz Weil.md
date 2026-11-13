@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: ""
 location: "Ritterstadt"
-tags: [greyhawk-university, freshman, shadow-on-the-quag, SP-SQ-01]
+tags: [greyhawk-university, freshman, shadow-on-the-quag, SP-GQ01]
 aliases: [Konstanz Weil]
 ---
 
@@ -26,10 +26,10 @@ Handsome, broke, a borrowed doublet; laughs too much.
 **Bandit** (MM p. 343), nonlethal.
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: Scenes 01, 05 (complication); the decline path
+- [[SP-GQ01-The-Gaolers-Link]]: Scenes 01, 05 (complication); the decline path
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-Speaks in SP-SQ-01; named per the functionaries rule (2026-10-23).
+Speaks in SP-GQ01; named per the functionaries rule (2026-10-23).

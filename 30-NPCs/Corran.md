@@ -4,7 +4,7 @@ status: undead
 canon: false
 faction: "Brother Ashlock's risen"
 location: "The Dreadverge — the cutters' camp"
-tags: [dreadverge, undead, ghoul, peat-cutter, SP-PBS-02]
+tags: [dreadverge, undead, ghoul, peat-cutter, SP-GA02]
 ---
 
 # Corran
@@ -23,10 +23,10 @@ None left but hunger. He comes out of the big hut fast.
 - **His second, Hob,** is also a ghoul, at APL 4 only.
 
 ## Stat Block
-**Ghoul** (MM p. 148), at APL 3–4. See [[SP-PBS-02 — Bestiary]].
+**Ghoul** (MM p. 148), at APL 3–4. See [[SP-GA02 — Bestiary]].
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 4 (the cutters' camp)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scene 4 (the cutters' camp)
 
 ## Canon Notes
 Homebrew.

@@ -3,12 +3,12 @@ type: lore
 canon: false
 homebrew: true
 based_on: "Flan tribes of the Yatil/Clatspur highlands and Perrenland history (canon; see sources)"
-tags: [homebrew, flan, barrow, clatspurs, perrenland, SP-PBS-02]
+tags: [homebrew, flan, barrow, clatspurs, perrenland, SP-GA02]
 ---
 
 # The Hound-Mother of the Dreadverge
 
-> **HOMEBREW — not canon.** This is a Sidebar Press invention for [[SP-PBS-02-The-Bones-of-the-Dreadverge]].
+> **HOMEBREW — not canon.** This is a Sidebar Press invention for [[SP-GA02-The-Bones-of-the-Dreadverge]].
 
 ## Summary
 Fifteen centuries ago, the Flan buried their great hunters with their beasts. They bound the dead animals to the barrow with a **binding object** laid on the chieftain's body, so the pack would guard the grave and sleep until the object was disturbed. **Kethra, the Hound-Mother,** is the westernmost of nine such chieftain-barrows under the Clatspurs, raised by Flan clans who held these valleys before the Oeridians crossed the passes.
@@ -34,5 +34,5 @@ Highland Perrenders have half-forgotten the barrows. What survives is a nursery 
 > Create `20-World/Greyhawk-Canon` Lore notes for each item above with page citations, then link them here.
 
 ## Used In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]
 - [[The Nine Chiefs of the Clatspurs]]

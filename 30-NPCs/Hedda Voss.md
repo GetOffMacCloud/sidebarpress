@@ -22,10 +22,10 @@ Tall, grey at the temples, chain mail polished for market day. Gauntlets on, alw
 *The double wants:* nobody to look too closely at anything until midnight. It will arrest troublemakers, "lose" witnesses in the chapel cellar, and keep the militia away from the mill. *Secret:* under the gauntlets, her fingers are straw.
 
 ## Stat Block
-**The double:** Straw Double with 22 hp, AC 16, longsword +3 (1d8 + 1); see [[SP-HAL-01 — Bestiary]]. **The real Hedda:** **veteran** (MM 350), but she spends the adventure asleep.
+**The double:** Straw Double with 22 hp, AC 16, longsword +3 (1d8 + 1); see [[SP-OS01 — Bestiary]]. **The real Hedda:** **veteran** (MM 350), but she spends the adventure asleep.
 
 ## Appearances
-- [[SP-HAL-01-Straw-Men]] — Scene 00 (first tell), Scene 01 (arrives after the fight), Scene 04 (unmasked), Scene 05 (wakes in M4).
+- [[SP-OS01-Straw-Men]] — Scene 00 (first tell), Scene 01 (arrives after the fight), Scene 04 (unmasked), Scene 05 (wakes in M4).
 
 ## Canon Notes
 Homebrew. The Hommlet "agent hidden in the guard" pattern, made literal.

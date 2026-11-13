@@ -39,7 +39,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, dwarves, bitter-pass, i
 
 ### What's Really Happening
 - Nine centuries ago, Irongrip smiths and Flan wardens jointly kept the Dawn Hold's seal. Tolle was built to carry word if the seal ever weakened. It has walked since the seal first cracked.
-- **What is sealed:** the Horned King's line ended in the hold. Behind the black door lies what the last heir bound, a demon the Tally names only as the **Bound One**, and the last heir's undead remains. *(House placeholders, consistent with SP-PBS-04's Tally.)*
+- **What is sealed:** the Horned King's line ended in the hold. Behind the black door lies what the last heir bound, a demon the Tally names only as the **Bound One**, and the last heir's undead remains. *(House placeholders, consistent with SP-GA04's Tally.)*
 - Iuz's hunters, a **nalfeshnee** and **vrocks** led by Vathra's successor or Vathra herself, want Tolle's memory-core: it holds the seal's binding-words.
 
 ### If Nobody Interferes
@@ -130,7 +130,7 @@ Tolle arrives in Ritterstadt with fragments of its warning, and the Dean asks th
 ## Canon Notes
 - Canon: Bitter Pass (WGR4; LGG). Iuz has been free since 570 CY.
 - House material: Tolle, the pact, the Dawn Hold, the Horned King, and the Bound One.
-- **Reconciled (2026-10-26):** SP-PBS-04's Tally now records the hold sealed over the Horned King's tomb and over the Bound One. The knock behind the black door is the Bound One.
+- **Reconciled (2026-10-26):** SP-GA04's Tally now records the hold sealed over the Horned King's tomb and over the Bound One. The knock behind the black door is the Bound One.
 
 ## Links & Threads
 - Links 25, 1, 2, 3 → **20**. Closes the thread and opens the finale: *The Dawn Hold*.

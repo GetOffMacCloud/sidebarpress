@@ -43,7 +43,7 @@ tags: [deity, zilchus, oeridian, money, business, lawful-neutral]
 - Note that his status as **state religion of Ahlissa and Dyvers** comes after the Greyhawk Wars (591 CY). It does not apply in 576.
 
 ## Sidebar Press Stance
-- Merchants' witnesses and factors in Perrenland keep Zilchus. A Zilchite witness is valued because he records everything exactly and cannot be bought. That makes him dangerous to anyone with a secret debt. Used for Benedikt Roos in [[SP-PBS-03-The-Red-Cord]].
+- Merchants' witnesses and factors in Perrenland keep Zilchus. A Zilchite witness is valued because he records everything exactly and cannot be bought. That makes him dangerous to anyone with a secret debt. Used for Benedikt Roos in [[SP-GA03-The-Red-Cord]].
 
 ## Linked Adventures
-- [[SP-PBS-03-The-Red-Cord]]
+- [[SP-GA03-The-Red-Cord]]

@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: bestiary
 publish_order: 0 # alphabetical slot, gaps of 10 (see 65-Bestiary/00 — Bestiary Index)
 publish: true
@@ -16,7 +16,7 @@ environment: [] # arctic, coastal, desert, forest, grassland, hill, mountain, sw
 origin: "" # harvested | new | remix | folklore | contributed
 credit: "" # contributor name, for contributed entries
 base_block: "" # e.g. "Commoner (MM p. 345)" or "none"
-source_adventures: [] # e.g. ["SP-HAL-01"]
+source_adventures: [] # e.g. ["SP-OS01"]
 tags: [bestiary, statblock, 2014-5e]
 ---
 
@@ -25,7 +25,7 @@ tags: [bestiary, statblock, 2014-5e]
 *One line a DM can read aloud when the creature first appears (≤25 words).*
 
 > [!art]+ Plate
-> ![[99-Assets/SP-BST-01/plates/{{name}}.png|360]]
+> ![[99-Assets/SP-OM01/plates/{{name}}.png|360]]
 
 > [!example]+ {{name}} (CR X, X XP)
 > *Size type, alignment*

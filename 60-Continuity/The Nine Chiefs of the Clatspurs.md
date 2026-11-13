@@ -2,7 +2,7 @@
 type: plot-thread
 status: open
 priority: high
-introduced_in: "SP-PBS-02"
+introduced_in: "SP-GA02"
 tags: [nerull, flan, clatspurs, perrenland, barrows]
 ---
 
@@ -14,7 +14,7 @@ tags: [nerull, flan, clatspurs, perrenland, barrows]
 **Open.** One barrow (Kethra's, at [[The-Three-Sisters]]) has been opened, and eight remain. The cell's agent was [[Brother-Ashlock]]. His superior is "Sister Morrow."
 
 ## History
-- **Patchwall 576 CY** — introduced in [[SP-PBS-02-The-Bones-of-the-Dreadverge]]: Ashlock steers Kethra's pack with her crown and plans a rite at Celene-set. *(Update with the outcome after play.)*
+- **Patchwall 576 CY** — introduced in [[SP-GA02-The-Bones-of-the-Dreadverge]]: Ashlock steers Kethra's pack with her crown and plans a rite at Celene-set. *(Update with the outcome after play.)*
 
 ## Involved
 - NPCs: [[Brother-Ashlock]], Sister Morrow (not yet written), [[Kethra-the-Hound-Mother]]

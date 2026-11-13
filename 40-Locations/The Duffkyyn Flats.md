@@ -28,10 +28,10 @@ Striped pavilions in clan colors, cook-fires, a sale ring, and beyond it all the
 Homebrew. The Duffkyyn runs on the middle day of Richfest every year. The Derby's red cord is older than the company taverns' custom at [[The Red Cord]].
 
 ## Adventure Use
-- [[SP-PBS-00-Nobodys-Colors]] — Scenes 5–8
+- [[SP-GA00-Nobodys-Colors]] — Scenes 5–8
 
 ## Map Reference
-To be made: the stable rows, `99-Assets/SP-PBS-00/`.
+To be made: the stable rows, `99-Assets/SP-GA00/`.
 
 ## Canon Notes
 Homebrew. Schwartzenbruin is canon; see [[Schwartzenbruin]].

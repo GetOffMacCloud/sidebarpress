@@ -24,10 +24,10 @@ Cold, possessive, precise. Opens with a bargain if the party opens with words. S
 - **Insight DC 14** confirms the first half is true.
 
 ## Stat Block
-**Wight** (MM 300), CR 3, with two **drowned guests** (zombie variant, [[SP-HAL-02 — Bestiary]]). Immune to Ysolde's Wail; will stand in front of a PC if allied.
+**Wight** (MM 300), CR 3, with two **drowned guests** (zombie variant, [[SP-OS02 — Bestiary]]). Immune to Ysolde's Wail; will stand in front of a PC if allied.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scenes 04, 05
+- [[SP-OS02-The-Hollow-Lantern]] — Scenes 04, 05
 
 ## Canon Notes
 Homebrew.

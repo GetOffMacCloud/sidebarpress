@@ -46,4 +46,4 @@ Second bell to sunset. The Warden's light burns later.
 [[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-04a Part 2, RG-08
 
 ## Adventure Use
-- [[SP-SQ-01-The-Gaolers-Link]]: the Warden's Brewfest Dinner; the Registrar's counting-room; Scenes 03, 05
+- [[SP-GQ01-The-Gaolers-Link]]: the Warden's Brewfest Dinner; the Registrar's counting-room; Scenes 03, 05

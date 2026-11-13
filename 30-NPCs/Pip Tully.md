@@ -24,10 +24,10 @@ Bold. Climbs things. Talks to strangers because his father does. Remembers faces
 **Commoner** (MM 345), 4 hp. Non-combatant.
 
 ## Appearances
-- [[SP-HAL-01-Straw-Men]] — the hook; Scene 02 (the apple vision shows him); Scene 05 (asleep in M4). Appears awake only if rescued.
+- [[SP-OS01-Straw-Men]] — the hook; Scene 02 (the apple vision shows him); Scene 05 (asleep in M4). Appears awake only if rescued.
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-If rescued, Pip is the one person who can describe the hag's true face, which makes him useful if Chaff escaped. If lost, he is a corn dolly on the Gentleman in Grey's shelf, and a party that bargains with the Gentleman in [[SP-HAL-04-The-Tithe-of-Thornbury]] may see him there.
+If rescued, Pip is the one person who can describe the hag's true face, which makes him useful if Chaff escaped. If lost, he is a corn dolly on the Gentleman in Grey's shelf, and a party that bargains with the Gentleman in [[SP-OS04-The-Tithe-of-Thornbury]] may see him there.

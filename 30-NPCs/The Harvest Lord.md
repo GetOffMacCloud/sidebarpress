@@ -24,13 +24,13 @@ Patient, ancient, courteous in the way of a thing that has never been refused. S
 - **Weakness:** the pact itself. It will accept anything the words allow: a bell with a reaper in it, a corn-dolly double, a corpse that was welcomed at the table. It cannot refuse what is legally given.
 
 ## Stat Block
-Custom: see [[SP-HAL-04 — Bestiary]] (**treant** base, MM 289, rooted, 20-ft reach, lair actions *Grasping Wheat* and *Harvest Bounty*). CR 9.
+Custom: see [[SP-OS04 — Bestiary]] (**treant** base, MM 289, rooted, 20-ft reach, lair actions *Grasping Wheat* and *Harvest Bounty*). CR 9.
 
 ## Appearances
-- [[SP-HAL-04-The-Tithe-of-Thornbury]] — Scene 05 (and the fields, Scenes 02–03, as its hands)
+- [[SP-OS04-The-Tithe-of-Thornbury]] — Scene 05 (and the fields, Scenes 02–03, as its hands)
 
 ## Canon Notes
 Homebrew. The pact is the thing to keep if reskinning: the Harvest Lord can be any hungry land-spirit the setting already has.
 
 ## Continuity
-Fed for a century by [[Josiah Thorne]]'s reaping (see [[SP-HAL-03-The-Night-That-Doesnt-End]]). If the pact is fulfilled by the letter (bell or doll), it closes and the Harvest Lord goes dormant: the fields are ordinary after, and it does not wake again unless someone makes a new bargain. If it is killed, the fields rot overnight. If it is paid, it sleeps for a hundred years, and the next hundredth Hallow's Eve is someone else's problem. If the party ignores it, it takes whoever is given and is perfectly satisfied.
+Fed for a century by [[Josiah Thorne]]'s reaping (see [[SP-OS03-The-Night-That-Doesnt-End]]). If the pact is fulfilled by the letter (bell or doll), it closes and the Harvest Lord goes dormant: the fields are ordinary after, and it does not wake again unless someone makes a new bargain. If it is killed, the fields rot overnight. If it is paid, it sleeps for a hundred years, and the next hundredth Hallow's Eve is someone else's problem. If the party ignores it, it takes whoever is given and is perfectly satisfied.

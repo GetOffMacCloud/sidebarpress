@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-04"
+adventure: "SP-GQ04"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [forest, hill, grassland, road]
 origin: remix
 credit: ""
 base_block: "Swarm of ravens (MM p. 339)"
-source_adventures: ["SP-SQ-04"]
+source_adventures: ["SP-GQ04"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, iuz, swarm]
 art_plate: todo
 portrait: todo
@@ -92,7 +92,7 @@ None. A cut-down messenger raven sometimes carries a bone band on its leg with a
 **IP:** "clawcloud" is a TSR name (WGR5). The Kestrel edition must rename it (suggestion: "tell-flock").
 
 ## Appears In
-- SP-SQ-04 — The Quiet Cargo (the watchers over the Uplands road)
+- SP-GQ04 — The Quiet Cargo (the watchers over the Uplands road)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

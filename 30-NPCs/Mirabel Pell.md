@@ -26,7 +26,7 @@ Brave, practical, sharp with anyone who talks over her. Wants to row out and see
 **Commoner** (MM 345); as an ally, treat as a **guard** (MM 347) with a boat-hook.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scenes 00, 02 (sleepwalker), 05 (invitee); the coffin's name if no PC is invited
+- [[SP-OS02-The-Hollow-Lantern]] — Scenes 00, 02 (sleepwalker), 05 (invitee); the coffin's name if no PC is invited
 
 ## Canon Notes
 Homebrew.

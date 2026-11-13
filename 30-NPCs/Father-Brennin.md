@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Church of St. Cuthbert"
 location: "Hospice of St. Cuthbert"
-tags: [cuthbert, priest, oeridian, patron, SP-PBS-01]
+tags: [cuthbert, priest, oeridian, patron, SP-GA01]
 aliases: [Brennin, Father Brennin]
 ---
 
@@ -28,7 +28,7 @@ He wrings his hands when he's worried, which is always. He holds things — lett
 **Priest** (MM p. 348). Noncombatant.
 
 ## Appearances
-- [[SP-PBS-01-The-False-Arrow]] — Scene 1 and the ending
+- [[SP-GA01-The-False-Arrow]] — Scene 1 and the ending
 
 ## Canon Notes
 Homebrew. St. Cuthbert's church is canon.

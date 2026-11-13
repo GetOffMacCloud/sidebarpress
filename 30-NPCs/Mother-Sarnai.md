@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Chakyik (Tiger Nomads) — clergy of Istus"
 location: "Yecha"
-tags: [chakyik, shaman, istus, baklunish, SP-PBS-01]
+tags: [chakyik, shaman, istus, baklunish, SP-GA01]
 aliases: [Sarnai, Mother Sarnai]
 ---
 
@@ -30,7 +30,7 @@ Quiet, certain, faintly kind. She has no spell for lies; she watches faces the w
 **Priest** (MM p. 348), Istus's domain of fate. Noncombatant in this adventure.
 
 ## Appearances
-- [[SP-PBS-01-The-False-Arrow]] — Scenes 2, 3, 4, 5 (morning), 6, 7
+- [[SP-GA01-The-False-Arrow]] — Scenes 2, 3, 4, 5 (morning), 6, 7
 
 ## Canon Notes
 Homebrew. Istus as the Baklunish goddess of fate is canon (*WoG* 1983; *Greyhawk Adventures* 1988).

@@ -2,7 +2,7 @@
 type: item
 rarity: "" # mundane evidence
 canon: false
-tags: [evidence, clue, chakyik, wolf-nomads, iuz, SP-PBS-01]
+tags: [evidence, clue, chakyik, wolf-nomads, iuz, SP-GA01]
 aliases: [false Wolf arrows, Tsolmon's arrow, the ravine arrows]
 ---
 
@@ -20,7 +20,7 @@ aliases: [false Wolf arrows, Tsolmon's arrow, the ravine arrows]
 *Homebrew.* Made by Kezrin's men for the false-flag ambush on Tsolmon's patrol. The sinew-binding tell is Sidebar Press invention, since canon gives no Wolf fletching details (see [[Wolf-Nomads]]).
 
 ## Found In
-- [[SP-PBS-01-The-False-Arrow]] — the ravine, by the bodies ([[Scene 04 — Trial of the Bow]]); Tsolmon's arrow in Temur's sash ([[Scene 07 — The War Council]])
+- [[SP-GA01-The-False-Arrow]] — the ravine, by the bodies ([[Scene 04 — Trial of the Bow]]); Tsolmon's arrow in Temur's sash ([[Scene 07 — The War Council]])
 
 ## Continuity
 The arrows are the physical proof behind [[The War Iuz Wants]]. Record who holds them after the council.

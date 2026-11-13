@@ -27,7 +27,7 @@ Sardonic, precise, tired past caring about manners. Answers a question with a sm
 **Acolyte** (MM 342) with 22 hit points and AC 12 (chain shirt under the cassock). Carries a *mace of disruption* he no longer uses; gives it to the party at the end. In the belfry he fights the shadows with luck and stubbornness.
 
 ## Appearances
-- [[SP-HAL-03-The-Night-That-Doesnt-End]] — the jailer; gate, cottage, belfry, dawn
+- [[SP-OS03-The-Night-That-Doesnt-End]] — the jailer; gate, cottage, belfry, dawn
 
 ## Canon Notes
 Homebrew. No canon source.

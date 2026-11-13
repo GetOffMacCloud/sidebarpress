@@ -2,8 +2,8 @@
 type: item
 rarity: "artifact (minor; plot key)"
 canon: false
-adventure: "SP-SQ-01"
-tags: [item, plot-key, shadow-on-the-quag, iuz, SP-SQ-01, SP-SQ-04, SP-SQ-05]
+adventure: "SP-GQ01"
+tags: [item, plot-key, shadow-on-the-quag, iuz, SP-GQ01, SP-GQ04, SP-GQ05]
 ---
 
 # The Gaoler's Link
@@ -44,12 +44,12 @@ The six sigils are cut around the Link's curve, each about the size of a thumbpr
 *Notes:* the canon symbols are from the Great Library of Greyhawk wiki. Only Murlynd's carries a printed citation (*Slavers*, 2000, p. 128); the others are uncited there, so check them against LGG and the vault's Greyhawk-Canon notes before print. Pairing each sigil with a property is house material. For the Kestrel edition, replace all six with original marks.
 
 ## History
-The six who imprisoned Iuz (Zagyg, St. Cuthbert, Heward, Murlynd, Keoghtom and Kelanen; WGR5 p. 5) each set a ward in the fetter. When Iuz was freed in 570, the backwash caved in the deepest dungeons. City of Greyhawk delvers dug through the rubble in 571–72, and a dealer sold the Link to Greyhawk University in 573. In 574 a sage identified the sigils, and soon after someone attempted a burglary at the parent campus. Chancellor Adenauer sent it north under seal to the Ritterstadt Field Station. There it went into the Archive's sealed stacks, in the keeping of Professor Casimir Vogelsang. *Homebrew*, grounded in WGR5 pp. 3, 5 and 75. Logged as an endorsed deviation in [[Iuz#Sidebar Press Stance]].
+The six who imprisoned Iuz (Zagyg, St. Cuthbert, Heward, Murlynd, Keoghtom and Kelanen; WGR5 p. 5) each set a ward in the fetter. When Iuz was freed in 570, the backwash caved in the deepest dungeons. City of Greyhawk delvers dug through the rubble in 571–72, and a dealer sold the Link to Greyhawk University in 573. In 574 a sage identified the sigils, and soon after someone attempted a burglary at the parent campus. Chancellor Adenauer sent it north under seal to the Ritterstadt Field Station. On the way it waited three nights in the undercroft of the Elders' Kerk at Schwartzenbruin, where it burned the palm of a recanted Iuzite lay-brother ([[Ouderling Machteld Vreeswijk]] recorded it). It reached Ritterstadt in Patchwall 574, while Commissioner Dray was there for his first audit; he logged it uninventoried. There it went into the Archive's sealed stacks, in the keeping of Professor Casimir Vogelsang. *Homebrew*, grounded in WGR5 pp. 3, 5 and 75. Logged as an endorsed deviation in [[Iuz#Sidebar Press Stance]].
 
 ## Found In
-- SP-SQ-01 — The Gaoler's Link: the Archive's sealed stacks (A6); stolen, and then the job turns
-- SP-SQ-04 — The Quiet Cargo: carried to Philidor on the Vesve margin
-- SP-SQ-05 — The Ice Road: its fate frames the finale
+- SP-GQ01 — The Gaoler's Link: the Archive's sealed stacks (A6); stolen, and then the job turns
+- SP-GQ04 — The Quiet Cargo: carried to Philidor on the Vesve margin
+- SP-GQ05 — The Ice Road: its fate frames the finale
 
 ## Continuity
 Kermin Mind-Bender of the Greater Boneheart wants it. In enemy hands it can hide a war council from Iuz. Kermin may also want to learn what Zagyg's magic did to Iuz in that cell. Record where it ends the arc: with Philidor, with the University, or lost north.

@@ -29,4 +29,4 @@ Noncombatant. **Commoner** (MM p. 345), Intelligence 17, expertise in History.
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-09, RG-10
-- [[SP-SQ-01-The-Gaolers-Link]]: reads the six sigils; the Rubbing of the Six; Scenes 07, 08
+- [[SP-GQ01-The-Gaolers-Link]]: reads the six sigils; the Rubbing of the Six; Scenes 07, 08

@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Chakyik (Tiger Nomads) — Sarnai's household"
 location: "Yecha"
-tags: [chakyik, tent-guard, baklunish, SP-PBS-01]
+tags: [chakyik, tent-guard, baklunish, SP-GA01]
 ---
 
 # Naran
@@ -26,7 +26,7 @@ Eager and loud. He uses his three words ("hello," "horse," "good") at every chan
 **Commoner** (MM p. 345) with a shortbow, or **Scout** (MM p. 349) if he has to fight.
 
 ## Appearances
-- [[SP-PBS-01-The-False-Arrow]] — Scene 5 (guest tent; the fire), Scene 6 (fetches the party), Scene 7 (holds the flap; translates)
+- [[SP-GA01-The-False-Arrow]] — Scene 5 (guest tent; the fire), Scene 6 (fetches the party), Scene 7 (holds the flap; translates)
 
 ## Canon Notes
 Homebrew.

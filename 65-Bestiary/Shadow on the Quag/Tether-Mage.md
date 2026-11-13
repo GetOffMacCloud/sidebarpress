@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-01"
+adventure: "SP-GQ01"
 section: bestiary
 publish_order: 0
 publish: true
@@ -15,8 +15,8 @@ alignment: neutral evil
 environment: [urban, village, road]
 origin: new
 credit: ""
-base_block: "none (new; replaces the reflavored cult fanatic in the SP-SQ-01 outline)"
-source_adventures: ["SP-SQ-01", "SP-SQ-02", "SP-SQ-05"]
+base_block: "none (new; replaces the reflavored cult fanatic in the SP-GQ01 outline)"
+source_adventures: ["SP-GQ01", "SP-GQ02", "SP-GQ05"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, iuz, villain-type]
 art_plate: todo
 portrait: todo
@@ -74,7 +74,7 @@ The mage fights from behind its puppets. It opens with *hold person* on the most
 **Running it:** the mage values its own skin over the mission until the mission is nearly won. At half hit points it runs, and it always has a planned exit (a boat, a back door, a potion). If cornered, it bargains, and the bargain is usually an offer to recruit the PCs.
 
 ## Named Example
-**Dawud Vesharan**, alias "Herr Fesch" (SP-SQ-01, SP-SQ-02, SP-SQ-05). A Bakluni man of about 24, taken from a Ket schoolroom at nine and trained under Kermin. He carries a *potion of water breathing* as his exit, and his familiar is **Snick**, a quasit (MM p. 63). He has a burn scar across his left palm from the one time he tried to hold a relic. He wants a place among Kermin's mid-level mages and dreads his master's attention more than death. Unlike most tether-mages, he can be turned (see SP-SQ-05).
+**Dawud Vesharan**, alias "Herr Fesch" (SP-GQ01, SP-GQ02, SP-GQ05). A Bakluni man of about 24, taken from a Ket schoolroom at nine and trained under Kermin. He carries a *potion of water breathing* as his exit, and his familiar is **Snick**, a quasit (MM p. 63). He has a burn scar across his left palm from the one time he tried to hold a relic. He wants a place among Kermin's mid-level mages and dreads his master's attention more than death. Unlike most tether-mages, he can be turned (see SP-GQ05).
 
 ## Adventure Hooks
 1. A Perrender merchant hires students to recover a "family heirloom" from the University. His clerk does the talking. *Twist:* the merchant has never heard of the heirloom when he isn't wearing his coat.
@@ -85,7 +85,7 @@ The mage fights from behind its puppets. It opens with *hold person* on the most
 A satchel of unplanted bone tethers (1d4; each a [[Bone Tether]] awaiting a target), a spellbook (*charm person, command, disguise self, hold person, mage armor, suggestion*), 3d10 gp in mixed coin, and a cipher letter to "my master in the Heart of Bone."
 
 ## Design Notes
-**New creature** (Sidebar Press, 2026-11-05). Built for the Shadow on the Quag arc to replace the reflavored cult fanatic in the SP-SQ-01 outline. It keeps the same CR and XP (2, 450), so Part 1's encounter math is unchanged.
+**New creature** (Sidebar Press, 2026-11-05). Built for the Shadow on the Quag arc to replace the reflavored cult fanatic in the SP-GQ01 outline. It keeps the same CR and XP (2, 450), so Part 1's encounter math is unchanged.
 
 | Change | As outlined | Now | Why |
 |---|---|---|---|
@@ -100,9 +100,9 @@ A satchel of unplanted bone tethers (1d4; each a [[Bone Tether]] awaiting a targ
 **Canon basis:** Kermin Mind-Bender, his mind-control specialty, and his recruitment of gifted children (WGR5 p. 86). Tether-mages as a rank, the bone tethers, and Vesharan are house material. *Ruling (Greybeard, 2026-11-05):* Kermin sits in the Greater Boneheart by 576 CY.
 
 ## Appears In
-- SP-SQ-01 — The Gaoler's Link (Vesharan; Scene 6, the Handover)
-- SP-SQ-02 — Tethers (Vesharan or his replacement)
-- SP-SQ-05 — The Ice Road (Vesharan's last gambit)
+- SP-GQ01 — The Gaoler's Link (Vesharan; Scene 6, the Handover)
+- SP-GQ02 — Tethers (Vesharan or his replacement)
+- SP-GQ05 — The Ice Road (Vesharan's last gambit)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

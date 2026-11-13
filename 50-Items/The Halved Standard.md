@@ -20,7 +20,7 @@ aliases: [the torn banner, the banner we failed, the Eisfeld half-standard]
 *Homebrew.* Gerhard carried his half north around 510 and hung it in [[The Ritter's Hall]]. Lorenz Kammerer's half lay in the company chest for ninety-six years.
 
 ## Found In
-- [[SP-PBS-03-The-Red-Cord]] — the Eisfeld half among Gerhard's banners ([[Scene 01 — The Ritter's Hall]]), brought as Konrad's colours; the Hundred's half on Ilse's table ([[Scene 03 — Under the Red Cord]])
+- [[SP-GA03-The-Red-Cord]] — the Eisfeld half among Gerhard's banners ([[Scene 01 — The Ritter's Hall]]), brought as Konrad's colours; the Hundred's half on Ilse's table ([[Scene 03 — Under the Red Cord]])
 
 ## Continuity
 Afterwards, Konrad has the halves stitched together and hung above his chair: one banner, with a seam.

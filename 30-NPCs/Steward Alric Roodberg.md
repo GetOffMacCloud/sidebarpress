@@ -26,7 +26,7 @@ Loves the rules more than the people. Not bribable with money; very bribable wit
 Social only.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scenes 5 and 7
+- [[SP-GA00-Nobodys-Colors]] — Scenes 5 and 7
 
 ## Canon Notes
 Homebrew. Clan Roodberg is Living Greyhawk material; see [[Canton-of-Clatspurgen]].

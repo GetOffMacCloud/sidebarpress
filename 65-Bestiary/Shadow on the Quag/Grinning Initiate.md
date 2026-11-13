@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-03"
+adventure: "SP-GQ03"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [urban, village, road, hill]
 origin: new
 credit: ""
 base_block: "Priest (MM p. 348), as a model"
-source_adventures: ["SP-SQ-03", "SP-SQ-05"]
+source_adventures: ["SP-GQ03", "SP-GQ05"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, iuz, villain-type]
 art_plate: todo
 portrait: todo
@@ -89,11 +89,11 @@ A holy symbol of Iuz (a grinning skull on a cord; carrying it openly is a crime 
 - *Offensive:* two flails (12) plus Grin (7) is 19 a round, the CR 2 band (15–20). +4 is 1 above the expected +3, which doesn't move it. **Offensive CR 2.**
 - *Average:* CR 1.5, rounded up to **CR 2** for its control spells (*hold person*, *command*, *bonechain*), which the damage math doesn't count.
 
-**Canon basis:** the priesthood's culture of fear, its homeland old guard, and the change-self power (WGR5 pp. 7, 83); Panshazek as Iuz's spy in the Horned Society before the Wars (WGR5 p. 88). *Ruling (Greybeard, 2026-11-05):* Master Kezrin (SP-PBS-01) belongs to Panshazek's arm, the rival of Kermin's mages.
+**Canon basis:** the priesthood's culture of fear, its homeland old guard, and the change-self power (WGR5 pp. 7, 83); Panshazek as Iuz's spy in the Horned Society before the Wars (WGR5 p. 88). *Ruling (Greybeard, 2026-11-05):* Master Kezrin (SP-GA01) belongs to Panshazek's arm, the rival of Kermin's mages.
 
 ## Appears In
-- SP-SQ-03 — The Molag Contract (Panshazek's thieves, under Master Kezrin)
-- SP-SQ-05 — The Ice Road (the rival tip, optional)
+- SP-GQ03 — The Molag Contract (Panshazek's thieves, under Master Kezrin)
+- SP-GQ05 — The Ice Road (the rival tip, optional)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

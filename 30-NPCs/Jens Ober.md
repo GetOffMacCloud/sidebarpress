@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: ""
 location: "Ritterstadt"
-tags: [greyhawk-university, probationer, gate-rota, shadow-on-the-quag, SP-SQ-01]
+tags: [greyhawk-university, probationer, gate-rota, shadow-on-the-quag, SP-GQ01]
 aliases: [Jens Ober]
 ---
 
@@ -13,7 +13,7 @@ aliases: [Jens Ober]
 > A Probationer on the gate rota, working off his first-term bond.
 
 ## Appearance
-![[SP-SQ-01 Portrait - Jens Ober.png|300]]
+![[SP-GQ01 Portrait - Jens Ober.png|300]]
 
 Gangly, freckled, a lantern always held too high.
 
@@ -28,10 +28,10 @@ Gangly, freckled, a lantern always held too high.
 **Guard** (MM p. 347), nonlethal; or a Gate-Rota Probationer minion (Scene 05).
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: Scenes 03, 05
+- [[SP-GQ01-The-Gaolers-Link]]: Scenes 03, 05
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-Speaks in SP-SQ-01; named per the functionaries rule (2026-10-23).
+Speaks in SP-GQ01; named per the functionaries rule (2026-10-23).

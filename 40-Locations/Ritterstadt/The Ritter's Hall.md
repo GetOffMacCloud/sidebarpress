@@ -123,7 +123,7 @@ views:
 | Right of shelter in the palisade | Civic duty / No cost | Opens during attacks, extreme weather, or Ritter's declaration |
 
 ## Adventure Use
-- [[SP-PBS-03-The-Red-Cord]] — Scene 1 (the Hundred's letter; the "torn" half-banner among Gerhard's standards, which is cut clean and is the climax key)
+- [[SP-GA03-The-Red-Cord]] — Scene 1 (the Hundred's letter; the "torn" half-banner among Gerhard's standards, which is cut clean and is the climax key)
 
 # Rumours
 

@@ -26,7 +26,7 @@ Polite and exact. He writes down every promise said aloud and reads it back.
 **Noble** (MM p. 348). Noncombatant.
 
 ## Appearances
-- [[SP-PBS-03-The-Red-Cord]] — Scenes 3 and 6 (the merchants' witness)
+- [[SP-GA03-The-Red-Cord]] — Scenes 3 and 6 (the merchants' witness)
 
 ## Canon Notes
 Homebrew. See [[Zilchus]].

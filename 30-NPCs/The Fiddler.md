@@ -26,11 +26,11 @@ Plays faster when the subject comes near. Won't meet a musician's eye. Speaks on
 **Ghost** (MM 147), but he does not fight or possess. Treat him as a haunt with a voice.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scenes 03, 05, denouement (the bell line)
+- [[SP-OS02-The-Hollow-Lantern]] — Scenes 03, 05, denouement (the bell line)
 - Subplot: *the fiddler's tune*; a musician PC's teacher learned the reel from him
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-Lingers after the exposure ending until someone forgives him: a dangling hook. His last line is the bridge to [[SP-HAL-03-The-Night-That-Doesnt-End]]: *"That bell rang the night we drowned. Wherever it hangs, that night hangs with it."*
+Lingers after the exposure ending until someone forgives him: a dangling hook. His last line is the bridge to [[SP-OS03-The-Night-That-Doesnt-End]]: *"That bell rang the night we drowned. Wherever it hangs, that night hangs with it."*

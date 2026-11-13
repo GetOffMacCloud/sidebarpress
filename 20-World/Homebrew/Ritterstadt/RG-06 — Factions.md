@@ -70,7 +70,7 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 
 **Public face.** There is no public face in Ritterstadt yet. A funeral mendicant of Wee Jas passed through in Harvester and asked the Vater which of the dead had no graves.
 **What they say they want.** Nothing. They are not here.
-**What they actually want.** The Sepia Uplands are full of old graves on old nodes, and the cell that opened the Hound-Mother's barrow at the Dreadverge ([[SP-PBS-02-The-Bones-of-the-Dreadverge]]) has a list. The Flan judgment circle at Hex G5 and the barrows under the Larch tree line are on it. Their interest in the binding network is practical: a degrading seal is a door.
+**What they actually want.** The Sepia Uplands are full of old graves on old nodes, and the cell that opened the Hound-Mother's barrow at the Dreadverge ([[SP-GA02-The-Bones-of-the-Dreadverge]]) has a list. The Flan judgment circle at Hex G5 and the barrows under the Larch tree line are on it. Their interest in the binding network is practical: a degrading seal is a door.
 **Tools.** Patience, ash circles on doors, and the fact that a priest of the dead is welcome where the dead outnumber the living.
 **Allies and enemies.** Enemies of the druid enclave and the Wolf Nomads, though neither knows it yet. They would find Iuz's agents useful and be used by them in turn.
 → [[Faction — The Grey Sickle]]
@@ -124,7 +124,9 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 
 > [!danger] DM Eyes Only
 > - **The Regents and the Embrace.** Commissioner Dray carries the second seal and a commission already drafted: *Recover and convey the object held at Ritterstadt under the Founders' Compact.* He has not used it because the Chancellor, [[Chancellor Adalwin Adenauer]], has not yet said the word. The Chancellor is waiting for Doss's assessment of whether moving the Embrace is survivable.
-> - **The Pale Ledger's crystals** are going to the Brotherhood's own scholars, who want to know whether Bloom crystals can be grown.
+> - **The Regents and the Link.** The Commission also wants the "consignment of 574" ([[The Gaoler's Link]]) sent south. Here the Chancellor disagrees: he wants the Embrace brought south but hid the Link at Ritterstadt, and has told Vogelsang to stall. Dray saw the crate land in Patchwall 574. The Chancellor's second opinion on it came from the Old Kerk ([[Ouderling Machteld Vreeswijk]]), the Commission's rival.
+- **Two of Iuz's operations.** Ewald's Kottsmort network is after the Embrace; Kermin's (Dawud Vesharan, the SP-GQ series) is after the Link. Neither knows the other is in town.
+- **The Pale Ledger's crystals** are going to the Brotherhood's own scholars, who want to know whether Bloom crystals can be grown.
 > - **The Grey Sickle's list** was copied from the Historical Society's archive by a member who did not know what he was copying. The Illuminators' Guild made the fair copy. Hesta Varnholm made a second.
-> - **Baba Yeska's northbound crate** is salt, furs, and once a season a letter in her daughter's hand. Iuz's recruiter writes back. Yeska reads the letters and burns them and has told no one, and would set fire to the Landing before she let it be used against the town.
+> - **Baba Yeska's northbound crate** is salt, furs, and once a season a letter in her daughter's hand. Iuz's recruiter writes back. The recruiter is Kermin Mind-Bender's, the same one who courts Liesl Amsel in SP-GQ02 ([[SP-GQ00 — The Shadow on the Quag]]). Yeska reads the letters and burns them and has told no one, and would set fire to the Landing before she let it be used against the town.
 > - **Dominie Roth** is sincere about the chapel and honest about the brief. He has already written to the Voormann's council that the University is "digging where it should not," and he will regret it when he learns who else reads the Voormann's post.

@@ -2,7 +2,7 @@
 type: item
 rarity: "uncommon"
 canon: false
-tags: [crown, flan, wondrous, SP-PBS-02]
+tags: [crown, flan, wondrous, SP-GA02]
 ---
 
 # Antler Crown of Kethra
@@ -19,7 +19,7 @@ tags: [crown, flan, wondrous, SP-PBS-02]
 *Homebrew.* It was buried with [[Kethra-the-Hound-Mother]]. [[Brother-Ashlock]] took it after the barrow was opened.
 
 ## Found In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 5, on Ashlock
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scene 5, on Ashlock
 
 ## Continuity
 The Nerullite cell in Schwartzenbruin wants it as proof that the other chieftain-barrows can be opened and steered. If Ashlock escapes with it, he will discover it is dead and come looking for whoever killed it. See [[The Nine Chiefs of the Clatspurs]].

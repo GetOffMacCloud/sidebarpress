@@ -23,10 +23,10 @@ Never stops skipping. Never answers a question. Chants, on the beat: *"Toll the 
 - **Reaching her:** *calm emotions*, or a kind and patient hour, gets one clear sentence: *"The grandfather in the chains asks me to sing it."* *Speak with dead* fails; she isn't dead.
 
 ## Stat Block
-**Echo** (see [[SP-HAL-03 — Bestiary]]). She never snaps; disrupting her routine only makes her skip faster.
+**Echo** (see [[SP-OS03 — Bestiary]]). She never snaps; disrupting her routine only makes her skip faster.
 
 ## Appearances
-- [[SP-HAL-03-The-Night-That-Doesnt-End]] — the chapel yard, every loop
+- [[SP-OS03-The-Night-That-Doesnt-End]] — the chapel yard, every loop
 
 ## Canon Notes
 Homebrew. No canon source.

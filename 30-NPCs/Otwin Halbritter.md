@@ -26,7 +26,7 @@ Talks in numbers, even about his children. Not cruel: correct about the money an
 Social only.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 2 (if held), Scene 7, Scene 8
+- [[SP-GA00-Nobodys-Colors]] — Scene 2 (if held), Scene 7, Scene 8
 
 ## Canon Notes
 Homebrew.

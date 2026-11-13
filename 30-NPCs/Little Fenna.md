@@ -23,10 +23,10 @@ Watchful and patient. She moves the moment Rudi throws the first punch.
 - **Reacts:** she runs by the kitchen door and the river alley. If caught, she trades the name "Dornhalm" for a head start.
 
 ## Stat Block
-**Bandit** (MM p. 343), with Sleight of Hand +5, Stealth +4, and Cunning Action (Dash, Disengage). See [[SP-PBS-03 — Bestiary]].
+**Bandit** (MM p. 343), with Sleight of Hand +5, Stealth +4, and Cunning Action (Dash, Disengage). See [[SP-GA03 — Bestiary]].
 
 ## Appearances
-- [[SP-PBS-03-The-Red-Cord]] — Scene 3 (watching the case), Scene 4 (the theft), Scene 5 (the chase)
+- [[SP-GA03-The-Red-Cord]] — Scene 3 (watching the case), Scene 4 (the theft), Scene 5 (the chase)
 
 ## Canon Notes
 Homebrew.

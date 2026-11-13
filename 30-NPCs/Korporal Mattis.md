@@ -27,7 +27,7 @@ Laconic, with a soldier's humour, and he would rather be drinking.
 **Veteran** (MM p. 350). Not fought.
 
 ## Appearances
-- [[SP-PBS-03-The-Red-Cord]] — Scenes 3, 4 and 6 (the swords' witness)
+- [[SP-GA03-The-Red-Cord]] — Scenes 3, 4 and 6 (the swords' witness)
 
 ## Canon Notes
 Homebrew. His company comes from fan material (*Oerth Journal* #5). See [[Perrenland-Mercenary-Companies]].

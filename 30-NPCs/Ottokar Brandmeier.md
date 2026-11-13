@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "House Brandmeier, Schwartzenbruin (merchant)"
 location: "Aboard the Graue Hecht, Ritterstadt (Brewfest 576)"
-tags: [perrenland, schwartzenbruin, merchant, tethered, shadow-on-the-quag, SP-SQ-01]
+tags: [perrenland, schwartzenbruin, merchant, tethered, shadow-on-the-quag, SP-GQ01]
 aliases: [Brandmeier, Herr Brandmeier, Ottokar]
 ---
 
@@ -13,7 +13,7 @@ aliases: [Brandmeier, Herr Brandmeier, Ottokar]
 > A Schwartzenbruin merchant in furs, salt and copper. Since Flocktime he has been tethered: a bone pin in his collar makes his clerk's suggestions into his own memories.
 
 ## Appearance
-![[SP-SQ-01 Portrait - Ottokar Brandmeier.png|300]]
+![[SP-GQ01 Portrait - Ottokar Brandmeier.png|300]]
 
 Broad and red-faced, in a fur-trimmed coat; a big laugh. He used to sing at the tiller.
 
@@ -32,10 +32,11 @@ Tethered: genial, generous, repetitive; he glances at his clerk before every num
 **Noble** (MM p. 348).
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: Scenes 01, 02, 06, 07, 08
+- [[SP-GQ01-The-Gaolers-Link]]: Scenes 01, 02, 06, 07, 08
+- [[SP-GQ00 — Prologue — The Crossing]]: Scenes 2–6 (tethered; free passage)
 
 ## Canon Notes
 Homebrew. Perrender coinage and Schwartzenbruin are canon ([[Perrenland]], [[Schwartzenbruin]]).
 
 ## Continuity
-Freed, he is the party's friend and way in to Schwartzenbruin's counting-houses (SP-SQ-03). Still tethered (Conclusion B or D), freeing him opens SP-SQ-02.
+Freed, he is the party's friend and way in to Schwartzenbruin's counting-houses (SP-GQ03). Still tethered (Conclusion B or D), freeing him opens SP-GQ02.

@@ -16,7 +16,7 @@ def lk(r): return f'[[{r["_stem"]}]]' if r['_stem']==r['creature'] else f'[[{r["
 def sec(r): return "Rogues' Gallery" if r.get("section") == "rogues-gallery" else "Bestiary"
 def crs(r): return "—" if r["cr"] == "none" else r["cr"]
 def xps(r): return "—" if r["cr"] == "none" else f'{r["xp"]:,}'
-out = ['---','type: appendix','adventure: "SP-BST-01"','section: appendix-tables','publish_order: 9000','publish: true','status: drafted','---','',
+out = ['---','type: appendix','adventure: "SP-OM01"','section: appendix-tables','publish_order: 9000','publish: true','status: drafted','---','',
        '# Creatures by Challenge','',
        '*Generated from each entry\'s frontmatter. Regenerate after changing a CR.*','',
        '| CR | XP | Creature | Type | Origin | Section |','|---|---|---|---|---|---|']
@@ -28,7 +28,7 @@ envs = {}
 for r in rows:
     for e in r.get("environment", []):
         envs.setdefault(e, []).append(r)
-out = ['---','type: appendix','adventure: "SP-BST-01"','section: appendix-tables','publish_order: 9100','publish: true','status: drafted','---','',
+out = ['---','type: appendix','adventure: "SP-OM01"','section: appendix-tables','publish_order: 9100','publish: true','status: drafted','---','',
        '# Creatures by Environment','',
        '*Generated from each entry\'s frontmatter. Creatures are listed by CR within each environment.*','',
        '| Environment | Creatures (CR) |','|---|---|']

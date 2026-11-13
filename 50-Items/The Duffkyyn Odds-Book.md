@@ -19,7 +19,7 @@ tags: [document, evidence, duffkyyn, sp-pbs-00]
 *Homebrew.* Kept by [[Steward Alric Roodberg]].
 
 ## Found In
-- [[SP-PBS-00-Nobodys-Colors]] — [[Scene 05 — The Stewards' Tent]]; with Krul as a witness, enough for Roodberg to bar Vuurzward's own horses
+- [[SP-GA00-Nobodys-Colors]] — [[Scene 05 — The Stewards' Tent]]; with Krul as a witness, enough for Roodberg to bar Vuurzward's own horses
 
 ## Continuity
 None.

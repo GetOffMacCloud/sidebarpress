@@ -1,10 +1,10 @@
-"""SP-CV-01 The Blackmire Swamp — Fantasy Grounds Unity (5E) module build.
+"""SP-CV01 The Blackmire Swamp — Fantasy Grounds Unity (5E) module build.
 Source: The Blackmire Swamp Adventure Book.docx (EndYourStreamTV). Developed for FG by GetOffMacCloud.
 Run:  python3 module.py [--install]"""
 import os,sys,re,html,shutil,zipfile,io,glob
 HERE=os.path.dirname(os.path.abspath(__file__))
 # ---------- edition settings
-CODE='SP-CV-01'; NAME='SP-CV-01 The Blackmire Swamp'; DISPLAY='The Blackmire Swamp'
+CODE='SP-CV01'; NAME='SP-CV01 The Blackmire Swamp'; DISPLAY='The Blackmire Swamp'
 SRC=os.path.normpath(os.path.join(HERE,'..','..')); DOCX=os.path.join(SRC,'The Blackmire Swamp Adventure Book.docx')
 TOOLS=[os.environ.get('FGMOD_TOOLS',''),os.path.join(SRC,'..','..','70-Company','Tools','fgu-module-builder'),os.path.expanduser('~/mnt/fgu-module-builder')]
 FGDIRS=[os.environ.get('FG_DIR',''),os.path.expanduser('~/SmiteWorks/Fantasy Grounds'),os.path.expanduser('~/mnt/Fantasy Grounds')]
@@ -35,7 +35,7 @@ def stage_images():
         if not os.path.exists(o): shutil.copyfile(os.path.join(SRC,f),o)
     import frame_canva
     o=os.path.join(d,'cover-blackmire.jpg')
-    if not os.path.exists(o): shutil.copyfile(os.path.join(frame_canva.ASSETS,'cover','SP-CV-01 — Cover.jpg'),o)
+    if not os.path.exists(o): shutil.copyfile(os.path.join(frame_canva.ASSETS,'cover','SP-CV01 — Cover.jpg'),o)
     z=zipfile.ZipFile(DOCX)
     for f,n in DOCX_MEDIA.items():
         o=os.path.join(d,n+'.png')

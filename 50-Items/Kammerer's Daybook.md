@@ -19,7 +19,7 @@ aliases: [Lorenz Kammerer's daybook, the captain's daybook]
 *Homebrew.* Passed from Lorenz to his son, then to Jost.
 
 ## Found In
-- [[SP-PBS-03-The-Red-Cord]] — on Jost's person ([[Scene 06 — The Midnight Bell]])
+- [[SP-GA03-The-Red-Cord]] — on Jost's person ([[Scene 06 — The Midnight Bell]])
 
 ## Continuity
 Jost gives it to Konrad at the end, which ends his grandfather's duty.

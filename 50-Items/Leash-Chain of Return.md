@@ -2,8 +2,8 @@
 type: item
 rarity: uncommon
 canon: false
-adventure: "SP-SQ-05"
-tags: [item, shadow-on-the-quag, iuz, fiend, SP-SQ-05]
+adventure: "SP-GQ05"
+tags: [item, shadow-on-the-quag, iuz, fiend, SP-GQ05]
 ---
 
 # Leash-Chain of Return
@@ -20,7 +20,7 @@ tags: [item, shadow-on-the-quag, iuz, fiend, SP-SQ-05]
 A smith willing to work a leash fiend's hook can make one (Hogar Irongrip will, for a price and an argument). *Homebrew.*
 
 ## Found In
-- SP-SQ-05 — The Ice Road: forged from the Hound of Return's leash after the fight
+- SP-GQ05 — The Ice Road: forged from the Hound of Return's leash after the fight
 
 ## Continuity
 Kermin's people would recognize the chain. A bearer has turned Iuz's tool against him, and Kermin will notice.

@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: ""
 location: "Ritterstadt"
-tags: [greyhawk-university, senior, scouts, shadow-on-the-quag, SP-SQ-01]
+tags: [greyhawk-university, senior, scouts, shadow-on-the-quag, SP-GQ01]
 aliases: [Oswin Kettler]
 ---
 
@@ -26,10 +26,10 @@ Tall, stooped, map-ink on every finger; never carries a light near paper.
 **Commoner** (MM p. 345).
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: Scenes 04, 05, 08
+- [[SP-GQ01-The-Gaolers-Link]]: Scenes 04, 05, 08
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-Speaks in SP-SQ-01; named per the functionaries rule (2026-10-23).
+Speaks in SP-GQ01; named per the functionaries rule (2026-10-23).

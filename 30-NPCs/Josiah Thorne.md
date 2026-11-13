@@ -24,17 +24,17 @@ Patient, courteous, endlessly hungry. Speaks like a kindly grandfather and never
 - **The offer:** unchain him and he'll spare the party and leave Vesper Hollow forever. The first half is true. He means to take Hale first and then walk west.
 
 ## Stat Block
-**Josiah Thorne, the Tithe-Reaper** — wraith (MM 302) with changes; roughly CR 7. Full block in [[SP-HAL-03 — Bestiary]]. *Bound to the Bone:* he must move toward his severed finger when it's within 30 feet.
+**Josiah Thorne, the Tithe-Reaper** — wraith (MM 302) with changes; roughly CR 7. Full block in [[SP-OS03 — Bestiary]]. *Bound to the Bone:* he must move toward his severed finger when it's within 30 feet.
 
 ## Appearances
-- [[SP-HAL-03-The-Night-That-Doesnt-End]] — the Chain Crypt; the Thirteenth Toll; a voice from the bell at dawn
-- [[SP-HAL-04-The-Tithe-of-Thornbury]] — sealed in the Vesper Bell as a substitute guest, or free and arriving at 11 PM to claim one
+- [[SP-OS03-The-Night-That-Doesnt-End]] — the Chain Crypt; the Thirteenth Toll; a voice from the bell at dawn
+- [[SP-OS04-The-Tithe-of-Thornbury]] — sealed in the Vesper Bell as a substitute guest, or free and arriving at 11 PM to claim one
 
 ## Canon Notes
 Homebrew. No canon source.
 
 ## Continuity
-Three fates, decided in SP-HAL-03 and paid in SP-HAL-04:
+Three fates, decided in SP-OS03 and paid in SP-OS04:
 - **Bound in the bell:** carried to Thornbury, set at the Empty Chair, and given to the field as the guest who came uninvited.
 - **Destroyed:** gone. Thornbury must find its own guest.
 - **Escaped:** rides west; joins the Tithe Barn climax as a wraith with his changes, and the Harvest Lord is reduced to 110 hit points to compensate.

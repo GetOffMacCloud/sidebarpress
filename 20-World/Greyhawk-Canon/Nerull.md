@@ -38,8 +38,8 @@ tags: [deity, nerull, flan, death, evil]
 - **4e:** the Raven Queen myth is not Greyhawk canon. Ignore it.
 
 ## Sidebar Press Stance
-- Nerullite clergy in our adventures follow the canon pattern of **wandering murderers who appear innocent**. [[Brother-Ashlock]] in [[SP-PBS-02-The-Bones-of-the-Dreadverge]] is a textbook case. He also wears grey (a Wee Jas mendicant's color) instead of Nerull's rust-red or black, as a deliberate disguise.
+- Nerullite clergy in our adventures follow the canon pattern of **wandering murderers who appear innocent**. [[Brother-Ashlock]] in [[SP-GA02-The-Bones-of-the-Dreadverge]] is a textbook case. He also wears grey (a Wee Jas mendicant's color) instead of Nerull's rust-red or black, as a deliberate disguise.
 - The sickle is the giveaway weapon: a cleric PC recognizes it with Religion DC 10.
 
 ## Linked Adventures
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]

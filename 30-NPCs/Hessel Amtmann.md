@@ -26,7 +26,7 @@ Answers a different question than the one asked. Says "I couldn't spare a man" t
 Not fought.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 0 (the notice), Scene 1 (the walk out); named in Scene 8
+- [[SP-GA00-Nobodys-Colors]] — Scene 0 (the notice), Scene 1 (the walk out); named in Scene 8
 
 ## Canon Notes
 Homebrew.

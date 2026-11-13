@@ -26,7 +26,7 @@ Exact, unhurried, and incurious about anything that is already on the roll.
 Not fought; **commoner** (MM p. 345) if needed.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 3
+- [[SP-GA00-Nobodys-Colors]] — Scene 3
 
 ## Canon Notes
 Homebrew.

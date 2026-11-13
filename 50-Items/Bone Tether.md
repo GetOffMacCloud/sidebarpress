@@ -2,8 +2,8 @@
 type: item
 rarity: uncommon
 canon: false
-adventure: "SP-SQ-02"
-tags: [item, shadow-on-the-quag, iuz, evil, SP-SQ-01, SP-SQ-02, SP-SQ-05]
+adventure: "SP-GQ02"
+tags: [item, shadow-on-the-quag, iuz, evil, SP-GQ01, SP-GQ02, SP-GQ05]
 ---
 
 # Bone Tether
@@ -21,9 +21,9 @@ tags: [item, shadow-on-the-quag, iuz, evil, SP-SQ-01, SP-SQ-02, SP-SQ-05]
 Kermin Mind-Bender makes them in Dorakaa and issues them to his tether-mages by the satchel. *Homebrew*, built on Kermin's mind-control specialty (WGR5 p. 86).
 
 ## Found In
-- SP-SQ-01 — The Gaoler's Link: in Brandmeier's collar, and in the two bargemen's
-- SP-SQ-02 — Tethers: on three Ritterstadt sleepers; a satchel of unplanted pins
-- SP-SQ-05 — The Ice Road: on the Wolf Nomad trackers
+- SP-GQ01 — The Gaoler's Link: in Brandmeier's collar, and in the two bargemen's
+- SP-GQ02 — Tethers: on three Ritterstadt sleepers; a satchel of unplanted pins
+- SP-GQ05 — The Ice Road: on the Wolf Nomad trackers
 
 ## Continuity
-Every tether is evidence. The *tether-register* (SP-SQ-02) lists who carries one. Carrying an unplanted tether marks the bearer for Kermin's diviners.
+Every tether is evidence. The *tether-register* (SP-GQ02) lists who carries one. Carrying an unplanted tether marks the bearer for Kermin's diviners.

@@ -4,7 +4,7 @@ status: alive # dies and rises if the party arrives very late
 canon: false
 faction: "Waycombe"
 location: "The Three Sisters (captive)"
-tags: [waycombe, drover, captive, perrenland, SP-PBS-02]
+tags: [waycombe, drover, captive, perrenland, SP-GA02]
 ---
 
 # Brannoc Brennan
@@ -26,7 +26,7 @@ He is stubborn and practical, and he fights his ropes the whole time.
 **Commoner** (MM p. 345). With a longbow, use **Guard** (MM p. 347). If the party arrives very late, he has already risen as a **skeleton** (MM p. 272).
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 2 (missing), Scene 5 (captive, north stone)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scene 2 (missing), Scene 5 (captive, north stone)
 
 ## Canon Notes
 Homebrew.

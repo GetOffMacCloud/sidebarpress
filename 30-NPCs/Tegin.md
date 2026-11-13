@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: ""
 location: "Ritterstadt"
-tags: [wolf-nomads, pilot, tethered, shadow-on-the-quag, SP-SQ-01]
+tags: [wolf-nomads, pilot, tethered, shadow-on-the-quag, SP-GQ01]
 aliases: [Tegin]
 ---
 
@@ -13,7 +13,7 @@ aliases: [Tegin]
 > A Wolf Nomad ice- and lake-pilot hired by "Fesch" for a run north. Tethered, and doesn't know it.
 
 ## Appearance
-![[SP-SQ-01 Portrait - Tegin.png|300]]
+![[SP-GQ01 Portrait - Tegin.png|300]]
 
 Lean, weathered, a braided horsehair cord at his throat with a lodestone on it.
 
@@ -28,10 +28,10 @@ Lean, weathered, a braided horsehair cord at his throat with a lodestone on it.
 **Scout** (MM p. 349).
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: Scenes 03, 06, 07
+- [[SP-GQ01-The-Gaolers-Link]]: Scenes 03, 06, 07
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-Freed of his tether, he gives the party his [[Ice-Pilot's Lodestar]] (SP-SQ-05). Wolf Nomads are hostile to Iuz in 576 ([[Wolf-Nomads]]). Named per the functionaries rule (2026-10-23).
+Freed of his tether, he gives the party his [[Ice-Pilot's Lodestar]] (SP-GQ05). Wolf Nomads are hostile to Iuz in 576 ([[Wolf-Nomads]]). Named per the functionaries rule (2026-10-23).

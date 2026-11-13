@@ -1,5 +1,7 @@
 ---
 type: gazetteer
+product_code: "GR1"
+adventure: "SP-GR01"
 title: "Ritterstadt — A Gazetteer of the Field Station Town"
 canon: false
 source_canon: "A Tourist In Greyhawk vault (Greyhawk University, 05. The Hamlet of Ritterstadt, Lore & History)"
@@ -65,4 +67,4 @@ A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepi
 
 - Campaign canon import: `00-Inbox/Greyhawk University Import (A Tourist In Greyhawk)/`
 - Lore: [[Chakyik]], [[Perrenland]], [[Iggwilvs-Conquest-of-Perrenland]]
-- Adventures set here: [[SP-PBS-01-The-False-Arrow]] (Scene 0)
+- Adventures set here: [[SP-GA01-The-False-Arrow]] (Scene 0)

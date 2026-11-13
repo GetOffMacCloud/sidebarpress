@@ -307,4 +307,4 @@ dv.paragraph("```mermaid\n" + lines.join("\n") + "\n```");
 | | | |
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: made the Ashbox; forges the false Link; Scenes 03, 07
+- [[SP-GQ01-The-Gaolers-Link]]: made the Ashbox; forges the false Link; Scenes 03, 07

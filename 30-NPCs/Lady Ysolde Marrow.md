@@ -19,17 +19,17 @@ Wounded, regal, entirely sure she's the wronged one. A hostess first: polite to 
 
 ## Goals & Secrets
 - **Wants:** the guest list finished: the four families who "left early" and their blood, every cup drunk at the toast.
-- **The truth:** traded her mother's ring to a hag for Sweetsleep (see [[SP-HAL-01-Straw-Men]]), drugged the wine, opened the sluice with both hands, and waited in the tower for the fiddler's boat. He ran. She drowned.
+- **The truth:** traded her mother's ring to a hag for Sweetsleep (see [[SP-OS01-Straw-Men]]), drugged the wine, opened the sluice with both hands, and waited in the tower for the fiddler's boat. He ran. She drowned.
 - **What ends her:** destruction; exposure before the guests (Persuasion DC 15 with evidence); or her mother's voice, if the ring is back in Rowena's stone hand.
 
 ## Stat Block
-**Banshee** (MM 23), CR 4. Tactics in [[SP-HAL-02 — Bestiary]]: no Wail at APL 3; Wail telegraphed one round ahead; Edric immune.
+**Banshee** (MM 23), CR 4. Tactics in [[SP-OS02 — Bestiary]]: no Wail at APL 3; Wail telegraphed one round ahead; Edric immune.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scene 05 (and her voice in Scene 01)
+- [[SP-OS02-The-Hollow-Lantern]] — Scene 05 (and her voice in Scene 01)
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-Her ring and her Sweetsleep tie back to [[SP-HAL-01-Straw-Men]]. If the PCs ignore her, the invitees drink and the party's names are on next year's list.
+Her ring and her Sweetsleep tie back to [[SP-OS01-Straw-Men]]. If the PCs ignore her, the invitees drink and the party's names are on next year's list.

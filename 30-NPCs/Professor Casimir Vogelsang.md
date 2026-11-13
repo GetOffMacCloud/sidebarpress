@@ -24,7 +24,7 @@ A **placeholder department head** in the campaign vault's `04 — Department of 
 **Major:** Archaeology · **Minors:** Epigraphy & Iconography · Appraisal & Provenance. His lecturer: [[Lecturer Fennimore Tock]] (Epigraphy & Iconography). Appraisal practicals are held at [[The Assay House]].
 
 ## Appearance
-![[SP-SQ-01 Portrait - Casimir Vogelsang.png|300]]
+![[SP-GQ01 Portrait - Casimir Vogelsang.png|300]]
 
 Forties, handsome and knows it, City-of-Greyhawk tailoring under a field coat, gloves he removes only to touch a relic.
 
@@ -43,5 +43,7 @@ Charming in public, cutting in faculty meetings. Praises every find and asks who
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-06, RG-08, RG-09 · [[Faction — The Regents' Commission]]
-- [[SP-PBS-01-The-False-Arrow]] — Scene 0 (Field Station frame); a student who took his Antiquities lectures recognises the fletching (Scene 4)
-- [[SP-SQ-01-The-Gaolers-Link]]: keeper of record for the Gaoler's Link; Scenes 03, 05, 07, 08
+- [[SP-GA01-The-False-Arrow]] — Scene 0 (Field Station frame); a student who took his Antiquities lectures recognises the fletching (Scene 4)
+- [[SP-GQ01-The-Gaolers-Link]]: keeper of record for the Gaoler's Link; Scenes 03, 05, 07, 08
+- [[SP-GQ00 — Prologue — The Crossing]]: Scene 7 (receives the Chancellor's letter)
+

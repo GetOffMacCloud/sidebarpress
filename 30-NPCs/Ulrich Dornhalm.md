@@ -30,10 +30,10 @@ Courteous and unbothered. He speaks of people as prices. He never raises his voi
 **Noble**, MM p. 348. Noncombatant.
 
 ## Appearances
-- [[SP-PBS-03-The-Red-Cord]] — Scenes 3 (unseen), 5 and 6
+- [[SP-GA03-The-Red-Cord]] — Scenes 3 (unseen), 5 and 6
 
 ## Canon Notes
-Homebrew. *Ritterstadt continuity:* he can be identified with the unnamed Schwartzenbruin timber surveyor from the Ritterstadt campaign's 0005 if your table met him. That identification is optional, and SP-PBS-03 does not depend on it.
+Homebrew. *Ritterstadt continuity:* he can be identified with the unnamed Schwartzenbruin timber surveyor from the Ritterstadt campaign's 0005 if your table met him. That identification is optional, and SP-GA03 does not depend on it.
 
 ## Continuity
-He is taken by the patrol (or flees south, disowned). Nothing continues after SP-PBS-03.
+He is taken by the patrol (or flees south, disowned). Nothing continues after SP-GA03.

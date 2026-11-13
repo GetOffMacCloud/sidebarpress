@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Chakyik (Tiger Nomads) — Temur's riders"
 location: "Yecha"
-tags: [chakyik, rider, baklunish, SP-PBS-01]
+tags: [chakyik, rider, baklunish, SP-GA01]
 ---
 
 # Batzorig
@@ -27,10 +27,10 @@ Rude, and for now that's as far as it goes. He speaks broken Common slowly, like
 - **Escalation:** first he demands ("blades on the snow"), then he draws (six bows), then he escorts the PC under guard. He never shoots to kill a guest.
 
 ## Stat Block
-**Scout** (MM p. 349), mounted on a steppe pony. See [[SP-PBS-01 — Bestiary]].
+**Scout** (MM p. 349), mounted on a steppe pony. See [[SP-GA01 — Bestiary]].
 
 ## Appearances
-- [[SP-PBS-01-The-False-Arrow]] — Scenes 2 and 3
+- [[SP-GA01-The-False-Arrow]] — Scenes 2 and 3
 
 ## Canon Notes
 Homebrew.

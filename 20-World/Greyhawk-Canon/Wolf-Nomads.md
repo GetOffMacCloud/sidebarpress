@@ -40,9 +40,9 @@ aliases: [Wegwiur, Wolf Nomads]
 - **5.5e:** the 2024 DMG names a "Wolf-Mother Bargra Yefkos" for 576. **Rejected.** Bargru rules.
 
 ## Sidebar Press Stance
-- **Fletching:** canon has no fletching details. The sinew crisscross binding used as the "Wolf arrow" tell in [[SP-PBS-01-The-False-Arrow]] is Sidebar Press invention, and it is documented there.
+- **Fletching:** canon has no fletching details. The sinew crisscross binding used as the "Wolf arrow" tell in [[SP-GA01-The-False-Arrow]] is Sidebar Press invention, and it is documented there.
 - Their reputation for keeping their word is what makes a staged Wolf massacre believable. Use it.
 - In Ritterstadt continuity, Eru-Tovar is where the Four Founders set out from in 565 (see [[RG-01 — History of Ritterstadt]]).
 
 ## Linked Adventures
-- [[SP-PBS-01-The-False-Arrow]]
+- [[SP-GA01-The-False-Arrow]]

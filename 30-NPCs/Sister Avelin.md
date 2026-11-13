@@ -26,7 +26,7 @@ Calm, tired, honest. Explains the rite of rest without being asked twice. Disapp
 **Priest** (MM 348). Can cast *protection from evil and good* on an invitee if asked, which keeps them awake past 11.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scenes 00, 02 (sleepwalker), 05 (invitee)
+- [[SP-OS02-The-Hollow-Lantern]] — Scenes 00, 02 (sleepwalker), 05 (invitee)
 
 ## Canon Notes
 Homebrew.

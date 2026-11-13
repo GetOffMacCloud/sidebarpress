@@ -79,6 +79,6 @@ Ritterstadt is a lake port on the north shore of **Lake Quag**, where the Sepia 
 
 > [!danger] DM Eyes Only
 > - **The Station House seal** has a twin held by the Regents' Commission. A commission sealed with the second die is an order the Warden cannot refuse.
-> - **The sealed stacks** hold AR-001 (Yrith Kael), Hassenrath's second notebook, and Calloway's charter correspondence.
+> - **The sealed stacks** hold AR-001 (Yrith Kael), Hassenrath's second notebook, Calloway's charter correspondence, and since 574 the Chancellor's crate ([[The Gaoler's Link]], SP-GQ series).
 > - **The Assay House** logs Bloom crystals. Three are missing. The Pale Ledger has them.
 > - **The quay's night barges** carry Baba Yeska's salt south without toll and, twice a season, a sealed crate north.

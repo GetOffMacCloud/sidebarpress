@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-02"
+adventure: "SP-GQ02"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [urban, village, swamp]
 origin: new
 credit: ""
 base_block: "none"
-source_adventures: ["SP-SQ-02"]
+source_adventures: ["SP-GQ02"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, iuz]
 art_plate: todo
 portrait: todo
@@ -69,7 +69,7 @@ In a fight, a leech goes for whoever is nearest and smallest, attaches, and hold
 A live leech in a jar (Physic & Alchemy or Arcane Studies pays 10 credits for one; a fence pays 15 gp). A waxed jar with Abyssal letters scratched in the seal.
 
 ## Design Notes
-**New creature** (Sidebar Press, 2026-11-05). A small charm-and-drain pest so SP-SQ-02's mole hunt has a monster that works the way Kermin does.
+**New creature** (Sidebar Press, 2026-11-05). A small charm-and-drain pest so SP-GQ02's mole hunt has a monster that works the way Kermin does.
 
 | Change | — | Now | Why |
 |---|---|---|---|
@@ -81,7 +81,7 @@ A live leech in a jar (Physic & Alchemy or Arcane Studies pays 10 credits for on
 - *Average:* **CR 1/4.**
 
 ## Appears In
-- SP-SQ-02 — Tethers (in Liesl Amsel's bedding; from the recruiter's satchel)
+- SP-GQ02 — Tethers (in Liesl Amsel's bedding; from the recruiter's satchel)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

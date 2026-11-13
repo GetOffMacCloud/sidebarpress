@@ -45,6 +45,6 @@ tags: [perrenland, nation, flanaess, northwest]
 - Before 583 CY, Iuz is a live border threat. After 583 CY, villagers blame Iuz for "breaking the pact."
 
 ## Linked Adventures
-- [[SP-PBS-01-The-False-Arrow]]
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
-- [[SP-PBS-03-The-Red-Cord]]
+- [[SP-GA01-The-False-Arrow]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA03-The-Red-Cord]]

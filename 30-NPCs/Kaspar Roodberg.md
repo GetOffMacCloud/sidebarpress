@@ -26,7 +26,7 @@ Cheerful, quick with numbers, and quicker to name a price.
 Not fought; **commoner** (MM p. 345) if needed.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 0
+- [[SP-GA00-Nobodys-Colors]] — Scene 0
 
 ## Canon Notes
 Homebrew. Clan Roodberg is Living Greyhawk material; see [[Canton-of-Clatspurgen]].

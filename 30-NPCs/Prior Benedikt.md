@@ -26,7 +26,7 @@ Stiff, devout, courteous, protective of his flock. Warms to any show of piety. P
 **Priest** (MM 348).
 
 ## Appearances
-- [[SP-HAL-03-The-Night-That-Doesnt-End]] — the chapel yard; the crypt key; Midnight Mass
+- [[SP-OS03-The-Night-That-Doesnt-End]] — the chapel yard; the crypt key; Midnight Mass
 
 ## Canon Notes
 Homebrew. No canon source.

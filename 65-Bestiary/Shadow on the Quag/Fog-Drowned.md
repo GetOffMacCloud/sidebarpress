@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-05"
+adventure: "SP-GQ05"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [coastal, swamp, arctic]
 origin: new
 credit: ""
 base_block: "none"
-source_adventures: ["SP-SQ-05"]
+source_adventures: ["SP-GQ05"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, undead, lake-quag]
 art_plate: todo
 portrait: todo
@@ -69,7 +69,7 @@ The fog-drowned close in from several sides, grab, and hold on. They don't let g
 Sodden purses with 2d6 cp and lake-tarnished silver. Now and then a ring or a ship's token that a Ritterstadt family would pay to have returned.
 
 ## Design Notes
-**New creature** (Sidebar Press, 2026-11-05). It gives canon's Lake Quag undead (WoG; LGG) a body for SP-SQ-05's fog-bound island.
+**New creature** (Sidebar Press, 2026-11-05). It gives canon's Lake Quag undead (WoG; LGG) a body for SP-GQ05's fog-bound island.
 
 | Change | — | Now | Why |
 |---|---|---|---|
@@ -83,7 +83,7 @@ Sodden purses with 2d6 cp and lake-tarnished silver. Now and then a ring or a sh
 **Canon basis:** undead in the lake's central fogs and ghost ships near where crews died (WoG 1980/1983; LGG). The fog-drowned as a kind is house material.
 
 ## Appears In
-- SP-SQ-05 — The Ice Road (the fog around Vesharan's winter island)
+- SP-GQ05 — The Ice Road (the fog around Vesharan's winter island)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).
@@ -121,3 +121,5 @@ Fog-Fed. If the fog-drowned starts its turn in fog or mist, it regains 3 hit poi
 Actions
 Drowning Grip. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the fog-drowned can't use Drowning Grip on another target, and the grappled creature takes 5 (2d4) cold damage at the start of each of its turns as lake water wells up in its throat.
 ```
+
+- [[SP-GQ00 — Prologue — The Crossing]]: Scene 5 (the drowned come aboard)

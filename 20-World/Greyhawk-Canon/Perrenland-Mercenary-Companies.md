@@ -57,8 +57,8 @@ aliases: [Perrender free companies, Perrenland mercenaries]
 - **The "never serve Iuz" rule** exists only in Living Greyhawk. It does not matter in 576, before the pact.
 
 ## Sidebar Press Stance
-- **Adopted from the fan material:** company charters, neutral ground in winter, "the swords" as one of three unofficial voices, and Jürgen's Ernes. These match Region Report 0003 and underpin [[SP-PBS-03-The-Red-Cord]]. In 576, Jürgen is a young captain building his name.
+- **Adopted from the fan material:** company charters, neutral ground in winter, "the swords" as one of three unofficial voices, and Jürgen's Ernes. These match Region Report 0003 and underpin [[SP-GA03-The-Red-Cord]]. In 576, Jürgen is a young captain building his name.
 - **Homebrew on top:** [[The Hundred]], the red cord, the halved-standard custom, and the charter-roll review by the Council of Hetmen.
 
 ## Linked Adventures
-- [[SP-PBS-03-The-Red-Cord]]
+- [[SP-GA03-The-Red-Cord]]

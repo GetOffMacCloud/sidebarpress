@@ -1,6 +1,6 @@
 ---
 type: item
-adventure: "SP-PBS-05"
+adventure: "SP-GA05"
 section: appendix-mechanics
 publish_order: 410
 publish: true
@@ -8,7 +8,7 @@ title: "The Bone Clapper"
 rarity: uncommon
 item_type: wondrous item (cursed)
 attunement: "by a cleric or warlock"
-image: "99-Assets/SP-PBS-05/items/SP-PBS-05 item-bone-clapper.jpg"
+image: "99-Assets/SP-GA05/items/SP-GA05 item-bone-clapper.jpg"
 edition: "2014"
 status: draft
 tags: [item, homebrew, cursed, necromancy, nerull, sun-bell, quest-item]
@@ -19,7 +19,7 @@ tags: [item, homebrew, cursed, necromancy, nerull, sun-bell, quest-item]
 *Wondrous item, uncommon (requires attunement by a cleric or warlock; cursed)*
 
 > [!art]+ Plate
-> ![[SP-PBS-05 item-bone-clapper.jpg|360]]
+> ![[SP-GA05 item-bone-clapper.jpg|360]]
 
 A clapper four feet long, made from two human thighbones fused end to end and capped with iron. It is wrapped in black linen stitched with the hours of the dead. Halse's notes say the bones were "given" by two Sickle novices at their burial-alive.
 
@@ -34,5 +34,5 @@ A clapper four feet long, made from two human thighbones fused end to end and ca
 **Not loot.** The clapper is evidence and a quest seed. Hand it to a priest, the Field Office or the Yati, and let the destroying be a scene.
 
 ## Found In
-- [[SP-PBS-05 — E4 — Thirteen Tolls]]: in Ansgar's hands, or Halse's if he flees.
+- [[SP-GA05 — E4 — Thirteen Tolls]]: in Ansgar's hands, or Halse's if he flees.
 - If Ansgar escapes with it: [[Ansgar Returns]].

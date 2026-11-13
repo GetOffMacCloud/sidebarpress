@@ -1,6 +1,6 @@
 ---
 type: npc
-adventure: "SP-PBS-05"
+adventure: "SP-GA05"
 section: appendix-bestiary
 publish: true
 title: "Sister Halse"
@@ -15,7 +15,7 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 # Sister Halse
 
 > [!art]+ Portrait
-> ![[SP-PBS-05 portrait-sister-halse.jpg|300]]
+> ![[SP-GA05 portrait-sister-halse.jpg|300]]
 
 *Homebrew variant of the cult fanatic (MM); *ash tally* and *reaper's tithe* added. 2014 rules.*
 
@@ -23,7 +23,7 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 - **Wants:** To be the one who rings the thirteenth toll.
 - **Knows:** The ritual's rules (her notes are Handout 3), the list of barrows, which houses drank.
 - **Escalation:** Doubles back at Notice 3 to poison the wardens' water. Drops her notes at the relay. On the Tor, *hold person* on whoever reaches the frame; takes the clapper if Ansgar flees. Fights to the end.
-- **In this adventure:** Tallykeeper of the procession. Fought in [[SP-PBS-05 — E4 — Thirteen Tolls|E4]].
+- **In this adventure:** Tallykeeper of the procession. Fought in [[SP-GA05 — E4 — Thirteen Tolls|E4]].
 
 ## Statblock
 
@@ -60,13 +60,13 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 > ***Dagger.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 
 ## Appearances
-- [[SP-PBS-05-The-Pilgrims-of-the-Hollow-Bell]]: Scenes 2, 4 (her notes) and 6. Keeps [[The Grey Sickle's List]] if she survives.
+- [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]: Scenes 2, 4 (her notes) and 6. Keeps [[The Grey Sickle's List]] if she survives.
 
 ## FGU Import
 Paste into **NPCs → Import Text** (mode "2022 – Monsters of the Multiverse"; the block is 2014 content).
 
 > [!art]- FGU Portrait & Token
-> ![[SP-PBS-05 portrait-sister-halse.jpg|300]]
+> ![[SP-GA05 portrait-sister-halse.jpg|300]]
 
 ```text
 Sister Halse

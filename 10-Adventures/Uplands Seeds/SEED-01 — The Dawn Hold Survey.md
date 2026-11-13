@@ -9,7 +9,7 @@ levels: "5-7"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "wilderness + mystery"
-date_cy: "576 CY (after SP-PBS-04 if run; set when built)"
+date_cy: "576 CY (after SP-GA04 if run; set when built)"
 region: "Mounds of Dawn, Canton of Hugelrote, western Perrenland (across Lake Quag)"
 thread: "Road to the Dawn Hold (25 → 1 → 2, 3 → 20)"
 section: overview
@@ -64,7 +64,7 @@ The students cross Lake Quag and pick up the old survey at the Vestflow (1). The
 ## Hooks
 1. **Job Board (default).** *"Flan Antiquities seeks a field team to complete the Mounds of Dawn approach survey. Barge passage provided. 40 credits each; the Prefect of Exag's reward to be shared."*
 2. **Personal.** A PC with dwarf kin in the Clatspurs is told by Hogar Irongrip: "If you meet the Hollow folk, show them this," a stamped iron ring.
-3. **Thread (SP-PBS-04).** If the Watchers' door was opened, the students already know the hold's hall. The stakes point to it.
+3. **Thread (SP-GA04).** If the Watchers' door was opened, the students already know the hold's hall. The stakes point to it.
 - **Decline path:** Vex goes alone. A month later the students hear that Stonekeep Hollow burned, and a stranger in Ritterstadt is asking about "the Watchers."
 
 ## Scene Plan
@@ -129,7 +129,7 @@ The students cross Lake Quag and pick up the old survey at the Vestflow (1). The
 - Exag is a living city; it appears only through the prefect.
 
 ## Links & Threads
-- 25 (SP-PBS-04) → **1** → 2 (the warden-token) and 3 (the map, if delivered).
+- 25 (SP-GA04) → **1** → 2 (the warden-token) and 3 (the map, if delivered).
 
 ## Build Checklist
 - [ ] Assign the SP-PBS code and create the folder `10-Adventures/SP-PBS-NN — The Dawn Hold Survey/`

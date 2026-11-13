@@ -52,10 +52,10 @@ Counting from the canon anchors (Luna full Fireseek 11 and Richfest 4; Celene fu
 
 ## Sidebar Press Stance
 - **Celene is aquamarine.** Use that color in read-alouds and art, not plain white.
-- **SP-PBS-02 continuity flag.** The adventure's "dark of Luna in Patchwall" is **Patchwall 4**. On that night Celene is a bright waning gibbous, only 7 days past its Brewfest full. On Earth-like moon geometry it would rise about two hours after sunset and set after dawn, not "four hours after midnight." Two ways to fix it:
+- **SP-GA02 continuity flag.** The adventure's "dark of Luna in Patchwall" is **Patchwall 4**. On that night Celene is a bright waning gibbous, only 7 days past its Brewfest full. On Earth-like moon geometry it would rise about two hours after sunset and set after dawn, not "four hours after midnight." Two ways to fix it:
   1. **Narrative fix (no rewrite):** canon gives no rise or set times, so declare that Celene runs a fast, low path across the northern sky and sets well before dawn. Change only the read-aloud color from "white chip" to "aquamarine." *Recommended.*
   2. **Calendar fix:** move the adventure to **Goodmonth 11, "Dark Night,"** when both moons are new. That is a perfect night for a Nerullite, but it requires re-keying the deadline away from Celene, which would no longer appear in the sky.
 - Nights with notable moon conditions (Dark Night, Great Moon's Glory, the double full moon at Richfest) are strong hooks for rites. Log their use in [[Timeline]].
 
 ## Linked Adventures
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]

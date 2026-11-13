@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: bestiary
 publish_order: 160
 publish: true
@@ -30,7 +30,7 @@ token: todo
 *Created by **GrimmGrixis**, Writers Guild.*
 
 > [!info]+ Plate
-> ![[99-Assets/SP-BST-01/plates/Bloodfiend.png|360]]
+> ![[99-Assets/SP-OM01/plates/Bloodfiend.png|360]]
 
 > [!example]+ Bloodfiend (CR 14, 11,500 XP)
 > *Large fiend, chaotic evil*
@@ -145,7 +145,7 @@ Paste each block into Fantasy Grounds Unity: **NPCs → Import Text**, mode **20
 %%
 
 > [!info]- FGU Portrait & Token
-> ![[99-Assets/SP-BST-01/portraits/Bloodfiend — Portrait.png|300]] ![[99-Assets/SP-BST-01/tokens/Bloodfiend — Token.png|140]]
+> ![[99-Assets/SP-OM01/portraits/Bloodfiend — Portrait.png|300]] ![[99-Assets/SP-OM01/tokens/Bloodfiend — Token.png|140]]
 
 %%
 ```text

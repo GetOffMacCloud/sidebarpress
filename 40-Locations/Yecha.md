@@ -3,7 +3,7 @@ type: location
 canon: true
 region: "The Chakyik steppe, at the foot of the Yatils"
 parent_location: "Chakyik (Tiger Nomads)"
-tags: [yecha, chakyik, tiger-nomads, capital, SP-PBS-01]
+tags: [yecha, chakyik, tiger-nomads, capital, SP-GA01]
 ---
 
 # Yecha
@@ -19,7 +19,7 @@ tags: [yecha, chakyik, tiger-nomads, capital, SP-PBS-01]
 - **The guest tents:** felt over willow, dung-braziers, within sight of the war camp.
 - **Temur's war camp:** torchlit drill ground; new black-steel blades.
 - **Sarnai's tent:** set apart, with a juniper fire before it.
-- **The tiger's ravine:** a cleft in the hills a short ride from the camp, where the saber-tooth denned and the Trial of the Bow is shot. Beaters loose from the rim but will not go down. Map: `SP-PBS-01 - Ravine`.
+- **The tiger's ravine:** a cleft in the hills a short ride from the camp, where the saber-tooth denned and the Trial of the Bow is shot. Beaters loose from the rim but will not go down. Map: `SP-GA01 - Ravine`.
 
 ## Inhabitants
 - [[Ilkhan-Cligir]], [[Khan-Temur]], [[Mother-Sarnai]], [[Batzorig]]
@@ -30,10 +30,10 @@ tags: [yecha, chakyik, tiger-nomads, capital, SP-PBS-01]
 **Canon:** capital of the Tiger Nomads; earth-and-timber walls; pop. 3,800 in 576 CY, 4,100 in 591 CY (*LGG* 2000 p. 114). **Homebrew:** the winter tent-city's layout and everything named above.
 
 ## Adventure Use
-- [[SP-PBS-01-The-False-Arrow]] — Scenes 2–7
+- [[SP-GA01-The-False-Arrow]] — Scenes 2–7
 
 ## Map Reference
-`99-Assets/SP-PBS-01/` — see [[SP-PBS-01 — Map Assets]] (Night Camp, Duel Ring) and the locale map prompt in [[SP-PBS-01 — Midjourney Prompt Pack]].
+`99-Assets/SP-GA01/` — see [[SP-GA01 — Map Assets]] (Night Camp, Duel Ring) and the locale map prompt in [[SP-GA01 — Midjourney Prompt Pack]].
 
 ## Canon Notes
 Page numbers to verify against print.

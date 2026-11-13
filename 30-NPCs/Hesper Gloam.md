@@ -27,7 +27,7 @@ Terrifying to look at, kind underneath, and never says anything kind. Assumes th
 **Druid** (MM 346), with *spike growth* prepared in place of *barkskin*. She joins the party at the barn if asked, and fights from the rear door or the lofts.
 
 ## Appearances
-- [[SP-HAL-04-The-Tithe-of-Thornbury]] — Scenes 00 (seen on the ridge), 03, 05
+- [[SP-OS04-The-Tithe-of-Thornbury]] — Scenes 00 (seen on the ridge), 03, 05
 
 ## Canon Notes
 Homebrew.

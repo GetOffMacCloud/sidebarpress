@@ -26,7 +26,7 @@ Refuses to be thanked. Has already decided the party are decent and is waiting f
 Not fought.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 0
+- [[SP-GA00-Nobodys-Colors]] — Scene 0
 
 ## Canon Notes
 Homebrew.

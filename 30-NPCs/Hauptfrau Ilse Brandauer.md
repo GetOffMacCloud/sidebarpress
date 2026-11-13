@@ -29,10 +29,10 @@ Precise and dignified, with no small talk. She says "the company" rather than "I
 **Knight**, MM p. 347. Not fought.
 
 ## Appearances
-- [[SP-PBS-03-The-Red-Cord]] — Scenes 3 and 6
+- [[SP-GA03-The-Red-Cord]] — Scenes 3 and 6
 
 ## Canon Notes
 Homebrew. See [[The Hundred]].
 
 ## Continuity
-None after SP-PBS-03. This is a one-and-done.
+None after SP-GA03. This is a one-and-done.

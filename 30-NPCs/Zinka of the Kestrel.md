@@ -26,7 +26,7 @@ Amused, direct, and unwilling to say more than she has been paid to.
 Not fought; **commoner** (MM p. 345) if needed.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 4
+- [[SP-GA00-Nobodys-Colors]] — Scene 4
 
 ## Canon Notes
 Homebrew. The Rhennee are canon; their barges on Lake Quag are house. *(Dangling: who sent her?)*

@@ -2,7 +2,7 @@
 type: item
 rarity: "" # mundane, with one narrative effect
 canon: false
-tags: [token, child, waycombe, SP-PBS-02]
+tags: [token, child, waycombe, SP-GA02]
 aliases: [Bett's stag]
 ---
 
@@ -18,7 +18,7 @@ aliases: [Bett's stag]
 *Homebrew.* Carved by someone in Waycombe for Bett. Nobody remembers who.
 
 ## Found In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — given in Waycombe (folk-hero subplot; [[Scene 02 — Counting the Missing]]); used at [[Scene 05 — The Three Sisters]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — given in Waycombe (folk-hero subplot; [[Scene 02 — Counting the Missing]]); used at [[Scene 05 — The Three Sisters]]
 
 ## Continuity
 None.

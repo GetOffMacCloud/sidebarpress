@@ -23,10 +23,10 @@ Charming in a way that sounds practiced. Answers questions nobody asked and talk
 - **Reacts:** won't offer his sister the ride; if a PC says it, he finally asks her himself. Wants to stand the Derby-eve watch alone.
 
 ## Stat Block
-**Noble** (MM p. 348) with changes; see [[SP-PBS-00 — Bestiary]].
+**Noble** (MM p. 348) with changes; see [[SP-GA00 — Bestiary]].
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scenes 1–8; the stable-rows watch (Scene 6); the rider question (Scene 7)
+- [[SP-GA00-Nobodys-Colors]] — Scenes 1–8; the stable-rows watch (Scene 6); the rider question (Scene 7)
 
 ## Canon Notes
 Homebrew.

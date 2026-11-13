@@ -19,14 +19,14 @@ Stern and kind. Speaks once, and the room listens. *"You sold my ring to drown y
 
 ## Goals & Secrets
 - **Wants:** her daughter home.
-- **Condition:** she rises at the toast only if the pearl ring (from [[SP-HAL-01-Straw-Men]], or Pell's eel trap) is set in her effigy's hand before midnight.
+- **Condition:** she rises at the toast only if the pearl ring (from [[SP-OS01-Straw-Men]], or Pell's eel trap) is set in her effigy's hand before midnight.
 - **Seeded by:** Sister Avelin's remark (Scene 00), Pell's confession (Scene 01), her portrait and the empty hand (Scene 03).
 
 ## Stat Block
 **Ghost** (MM 147). She does not fight. If attacked, she's incorporeal and simply finishes her sentence.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scene 05 (the ring-returned ending)
+- [[SP-OS02-The-Hollow-Lantern]] — Scene 05 (the ring-returned ending)
 
 ## Canon Notes
 Homebrew.

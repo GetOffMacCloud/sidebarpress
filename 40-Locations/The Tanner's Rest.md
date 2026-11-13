@@ -24,7 +24,7 @@ A low room that smells of the trade, a back door to the tannery yard, and a brok
 Homebrew.
 
 ## Adventure Use
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 7 (or Scene 5, if the party hunts him early)
+- [[SP-GA00-Nobodys-Colors]] — Scene 7 (or Scene 5, if the party hunts him early)
 
 ## Map Reference
 None.

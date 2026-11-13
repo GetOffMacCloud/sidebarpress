@@ -35,8 +35,8 @@ tags: [perrenland, mountains, clatspurs, geography]
 None known.
 
 ## Sidebar Press Stance
-- Canon gives the Clatspurs no barrow tradition. The **Flan chieftain-barrows** of [[SP-PBS-02-The-Bones-of-the-Dreadverge]] are homebrew, extrapolated from the Flan history of the Yatil highlands. See [[The-Hound-Mother-of-the-Dreadverge]] (`20-World/Homebrew`).
+- Canon gives the Clatspurs no barrow tradition. The **Flan chieftain-barrows** of [[SP-GA02-The-Bones-of-the-Dreadverge]] are homebrew, extrapolated from the Flan history of the Yatil highlands. See [[The-Hound-Mother-of-the-Dreadverge]] (`20-World/Homebrew`).
 - The range is our "over the ridges" frontier. In play, Iuz lies just past it.
 
 ## Linked Adventures
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]

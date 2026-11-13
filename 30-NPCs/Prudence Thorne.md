@@ -27,10 +27,10 @@ Grandmotherly, gentle, and never raises her voice. Presses food on everyone. Nev
 **Druid** (MM 346), but she does not cast unless attacked. At the pit she is there to speak. If she fights, she fights to protect the children on the threshing floor, not the Harvest Lord.
 
 ## Appearances
-- [[SP-HAL-04-The-Tithe-of-Thornbury]] — Scenes 00, 01, 02, 04, 05
+- [[SP-OS04-The-Tithe-of-Thornbury]] — Scenes 00, 01, 02, 04, 05
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-Tied to the pact of Thornbury and, through Josiah, to [[SP-HAL-03-The-Night-That-Doesnt-End]]. If the PCs ignore her, she gives Ned to the field at midnight and Thornbury gets its hundred years. If the pact is broken, she lays down the Sheaf and leads the village into its first hungry winter. If the barn burns, she leads the hunt for the party, quietly, for the rest of her life.
+Tied to the pact of Thornbury and, through Josiah, to [[SP-OS03-The-Night-That-Doesnt-End]]. If the PCs ignore her, she gives Ned to the field at midnight and Thornbury gets its hundred years. If the pact is broken, she lays down the Sheaf and leads the village into its first hungry winter. If the barn burns, she leads the hunt for the party, quietly, for the rest of her life.

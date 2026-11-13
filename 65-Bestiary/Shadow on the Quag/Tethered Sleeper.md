@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-02"
+adventure: "SP-GQ02"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [urban, village, road]
 origin: new
 credit: ""
 base_block: "Commoner (MM p. 345), heavily modified"
-source_adventures: ["SP-SQ-01", "SP-SQ-02"]
+source_adventures: ["SP-GQ01", "SP-GQ02"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, iuz]
 art_plate: todo
 portrait: todo
@@ -95,8 +95,8 @@ The [[Bone Tether]] itself (evidence). A sleeper's ordinary belongings: 1d6 sp, 
 **Minion Pack:** use the Enforcer minion at the scene's APL if the crowd rushes in, and remind the table that they are innocents.
 
 ## Appears In
-- SP-SQ-01 — The Gaoler's Link (the *Graue Hecht*'s two tethered bargemen)
-- SP-SQ-02 — Tethers (the three Ritterstadt sleepers)
+- SP-GQ01 — The Gaoler's Link (the *Graue Hecht*'s two tethered bargemen)
+- SP-GQ02 — Tethers (the three Ritterstadt sleepers)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

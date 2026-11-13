@@ -26,7 +26,7 @@ Never quite meets anyone's eye at the gate; never misses a word of the rules.
 Not fought; **commoner** (MM p. 345) if needed.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 5 (the gate), Scene 7 (post time), Scene 8 (the prize chest)
+- [[SP-GA00-Nobodys-Colors]] — Scene 5 (the gate), Scene 7 (post time), Scene 8 (the prize chest)
 
 ## Canon Notes
 Homebrew.

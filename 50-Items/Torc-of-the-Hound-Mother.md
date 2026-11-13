@@ -2,7 +2,7 @@
 type: item
 rarity: "uncommon" # cursed binding object; not a combat item
 canon: false
-tags: [torc, flan, binding, cursed, SP-PBS-02]
+tags: [torc, flan, binding, cursed, SP-GA02]
 ---
 
 # Torc of the Hound-Mother
@@ -22,7 +22,7 @@ tags: [torc, flan, binding, cursed, SP-PBS-02]
 *Homebrew.* It was laid on Kethra's breast at her burial. [[Kester-Marsh]] stole it in Goodmonth 576 CY and sold it to [[Tamsin-the-Tinker]] for 12 kleinmarks (sp).
 
 ## Found In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Tamsin's cart, Waycombe (Scene 2)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Tamsin's cart, Waycombe (Scene 2)
 
 ## Continuity
 It is the key to the climax. Returning it lays the pack to rest for good. If it is kept, the curse makes it a recurring liability.

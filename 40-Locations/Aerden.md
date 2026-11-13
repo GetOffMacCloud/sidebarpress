@@ -26,7 +26,7 @@ Grey slate and cream plaster; a clan band painted on every doorpost but two. Che
 Homebrew. The Halbritters came up from Nederboden three generations ago and bought Erlenhof.
 
 ## Adventure Use
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 0 (the Rest), Scene 1 (Erlenhof)
+- [[SP-GA00-Nobodys-Colors]] — Scene 0 (the Rest), Scene 1 (Erlenhof)
 
 ## Map Reference
 To be made only if needed: Erlenhof yard.

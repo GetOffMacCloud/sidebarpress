@@ -1,6 +1,6 @@
 ---
 type: item
-adventure: "SP-PBS-05"
+adventure: "SP-GA05"
 section: appendix-mechanics
 publish_order: 440
 publish: true
@@ -18,7 +18,7 @@ tags: [item, homebrew, flan, barrow, reward]
 *Wondrous item, uncommon (requires attunement)*
 
 > [!art]+ Cathal Red-Torc
-> ![[SP-PBS-05 portrait-cathal-red-torc.jpg|300]]
+> ![[SP-GA05 portrait-cathal-red-torc.jpg|300]]
 
 A twisted torc of red gold as thick as a thumb, its ends shaped as two sleeping hounds. The barrow-king **Cathal** wore it into the ground under Carn Aedh. If he is laid to rest by parley, he takes it from his own throat and leaves it on the stone.
 
@@ -29,4 +29,4 @@ A twisted torc of red gold as thick as a thumb, its ends shaped as two sleeping 
 **A gift, not plunder.** Taken from Cathal's corpse after a fight, the torc is only gold (250 gp) and has no magic. The Yati will know which it is.
 
 ## Found In
-- [[SP-PBS-05 — E4 — Thirteen Tolls]]: Ending D, if Cathal is laid to rest.
+- [[SP-GA05 — E4 — Thirteen Tolls]]: Ending D, if Cathal is laid to rest.

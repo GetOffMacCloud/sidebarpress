@@ -27,7 +27,7 @@ Sharp, nervous, keeps almost saying something and then saying her father's name 
 **Commoner** (MM 345). Not a fighter. She holds doors.
 
 ## Appearances
-- [[SP-HAL-04-The-Tithe-of-Thornbury]] — Scenes 00, 01, 02, 05
+- [[SP-OS04-The-Tithe-of-Thornbury]] — Scenes 00, 01, 02, 05
 
 ## Canon Notes
 Homebrew.

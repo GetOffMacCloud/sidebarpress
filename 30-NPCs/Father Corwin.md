@@ -24,7 +24,7 @@ Stern in public, kind in private. Preaches against "the witch on the wood's edge
 **Priest** (MM 348). He never fights as written; if forced, he casts *sanctuary* on whoever is being hurt, villager or PC.
 
 ## Appearances
-- [[SP-HAL-01-Straw-Men]] — Scene 00 (blessing the market), Scene 01 (watching from the edge of the light), Scene 03 (the 10 PM mob), Denouement.
+- [[SP-OS01-Straw-Men]] — Scene 00 (blessing the market), Scene 01 (watching from the edge of the light), Scene 03 (the 10 PM mob), Denouement.
 
 ## Canon Notes
 Homebrew. The Hommlet "rival faiths" pattern: the priest is the red-herring accuser, the druid is the ally.

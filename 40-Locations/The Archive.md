@@ -39,4 +39,4 @@ aliases: [the Archive]
 [[Ritterstadt — Gazetteer (Book)]] — RG-04, RG-08
 
 ## Adventure Use
-- [[SP-SQ-01-The-Gaolers-Link]]: the sealed stacks, keyed A1–A7; Scenes 03, 04, 05
+- [[SP-GQ01-The-Gaolers-Link]]: the sealed stacks, keyed A1–A7; Scenes 03, 04, 05

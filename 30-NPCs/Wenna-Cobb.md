@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Waycombe"
 location: "The Three Sisters (captive)"
-tags: [waycombe, herbwife, captive, perrenland, SP-PBS-02]
+tags: [waycombe, herbwife, captive, perrenland, SP-GA02]
 ---
 
 # Wenna Cobb
@@ -26,7 +26,7 @@ Calm and folk-wise, and she prays under her breath. She makes the warding sign a
 **Commoner** (MM p. 345), with proficiency in Medicine.
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 2 (missing; marked door), Scene 5 (captive)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scene 2 (missing; marked door), Scene 5 (captive)
 
 ## Canon Notes
 Homebrew.

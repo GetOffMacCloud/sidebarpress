@@ -34,8 +34,8 @@ aliases: [Tiger Nomads, Chakyik]
 - **Who rules?** Cligir in 576 CY; Gajtak by 591 CY. Sidebar Press uses 576 CY, so Cligir.
 
 ## Sidebar Press Stance
-- In [[SP-PBS-01-The-False-Arrow]], Yecha's walled town is ringed by the horde's **winter tent-city** (homebrew detail on canon Yecha).
+- In [[SP-GA01-The-False-Arrow]], Yecha's walled town is ringed by the horde's **winter tent-city** (homebrew detail on canon Yecha).
 - The Wolf Nomads' **sinew-crisscross fletching** is a Sidebar Press invention used as a clue.
 
 ## Linked Adventures
-- [[SP-PBS-01-The-False-Arrow]]
+- [[SP-GA01-The-False-Arrow]]

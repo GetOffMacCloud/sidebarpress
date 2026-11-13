@@ -2,8 +2,8 @@
 type: item
 rarity: common
 canon: false
-adventure: "SP-SQ-03"
-tags: [item, shadow-on-the-quag, iuz, SP-SQ-01, SP-SQ-03]
+adventure: "SP-GQ03"
+tags: [item, shadow-on-the-quag, iuz, SP-GQ01, SP-GQ03]
 ---
 
 # Rubbing of the Six
@@ -16,11 +16,11 @@ tags: [item, shadow-on-the-quag, iuz, SP-SQ-01, SP-SQ-03]
 - Only six good rubbings can be taken before the charcoal smears the sigils. Lecturer Fennimore Tock has three; the party can earn the rest.
 
 ## History
-After SP-SQ-01, Lecturer Tock (Epigraphy & Iconography) rubs the six sigils for his records and realizes the linen itself has turned warm. He gives one to each student who handled the Link and asks them not to tell Vogelsang. *Homebrew.* The sigils are described in [[The Gaoler's Link#The Six Sigils]].
+After SP-GQ01, Lecturer Tock (Epigraphy & Iconography) rubs the six sigils for his records and realizes the linen itself has turned warm. He gives one to each student who handled the Link and asks them not to tell Vogelsang. *Homebrew.* The sigils are described in [[The Gaoler's Link#The Six Sigils]].
 
 ## Found In
-- SP-SQ-01 — The Gaoler's Link: Tock's reward after Conclusion A or B
-- SP-SQ-03 — The Molag Contract: the party's protection against Panshazek's initiates
+- SP-GQ01 — The Gaoler's Link: Tock's reward after Conclusion A or B
+- SP-GQ03 — The Molag Contract: the party's protection against Panshazek's initiates
 
 ## Continuity
 Vogelsang would call taking the rubbings "an unauthorized reproduction of research property." Tock knows this.

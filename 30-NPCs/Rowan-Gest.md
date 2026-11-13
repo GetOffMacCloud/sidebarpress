@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Waycombe"
 location: "Waycombe — the mill"
-tags: [waycombe, child, perrenland, SP-PBS-02]
+tags: [waycombe, child, perrenland, SP-GA02]
 ---
 
 # Rowan Gest
@@ -25,7 +25,7 @@ Curious and unafraid of strangers. She asks questions adults don't.
 Noncombatant.
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 2 (the marked mill door; the nudge), Scene 5 (fourth captive, if the party waited)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scene 2 (the marked mill door; the nudge), Scene 5 (fourth captive, if the party waited)
 
 ## Canon Notes
 Homebrew.

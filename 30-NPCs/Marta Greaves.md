@@ -23,10 +23,10 @@ Warm, loud, a second bowl before the first is empty. Laughs at the crows. Toasts
 - **Secret:** none. She's the stake.
 
 ## Stat Block
-**Commoner** (MM 345). As an Echo, see [[SP-HAL-03 — Bestiary]].
+**Commoner** (MM 345). As an Echo, see [[SP-OS03 — Bestiary]].
 
 ## Appearances
-- [[SP-HAL-03-The-Night-That-Doesnt-End]] — the feast; the first midnight
+- [[SP-OS03-The-Night-That-Doesnt-End]] — the feast; the first midnight
 
 ## Canon Notes
 Homebrew. No canon source.

@@ -1,6 +1,6 @@
 ---
 type: npc
-adventure: "SP-PBS-05"
+adventure: "SP-GA05"
 section: appendix-bestiary
 publish: true
 title: "Cathal Red-Torc"
@@ -15,7 +15,7 @@ tags: [npc, homebrew, sp-pbs-05, undead]
 # Cathal Red-Torc
 
 > [!art]+ Portrait
-> ![[SP-PBS-05 portrait-cathal-red-torc.jpg|300]]
+> ![[SP-GA05 portrait-cathal-red-torc.jpg|300]]
 
 *Homebrew variant of the wight (MM); Barrow-King traits added. 2014 rules.*
 
@@ -23,7 +23,7 @@ tags: [npc, homebrew, sp-pbs-05, undead]
 - **Wants:** To sleep, and to know who woke him.
 - **Knows:** The Flan names of every barrow under the Tor; that the bell was rung once, for him.
 - **Reaction:** Parleys with anyone who honors the Flan dead (Religion or Persuasion DC 15; advantage with the lambskin, a Yati PC, or a faith that keeps the rest of the dead). Kills whoever holds the bone clapper.
-- **In this adventure:** Rises on toll 13 in [[SP-PBS-05 — E4 — Thirteen Tolls|E4]] (Ending D). Not in the base XP budget.
+- **In this adventure:** Rises on toll 13 in [[SP-GA05 — E4 — Thirteen Tolls|E4]] (Ending D). Not in the base XP budget.
 
 ## Statblock
 
@@ -63,13 +63,13 @@ tags: [npc, homebrew, sp-pbs-05, undead]
 > ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 ## Appearances
-- [[SP-PBS-05-The-Pilgrims-of-the-Hollow-Bell]]: Scene 6, toll 13 only. Leaves the [[Red Torc of Cathal]] if laid to rest.
+- [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]: Scene 6, toll 13 only. Leaves the [[Red Torc of Cathal]] if laid to rest.
 
 ## FGU Import
 Paste into **NPCs → Import Text** (mode "2022 – Monsters of the Multiverse"; the block is 2014 content).
 
 > [!art]- FGU Portrait & Token
-> ![[SP-PBS-05 portrait-cathal-red-torc.jpg|300]]
+> ![[SP-GA05 portrait-cathal-red-torc.jpg|300]]
 
 ```text
 Cathal Red-Torc

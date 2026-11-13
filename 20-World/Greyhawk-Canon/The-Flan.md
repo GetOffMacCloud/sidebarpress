@@ -36,4 +36,4 @@ tags: [flan, people, culture, old-faith, history]
 - Flan words decay into Perrender place-names through Stamtaal; *Dreadverge* is one example.
 
 ## Linked Adventures
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]

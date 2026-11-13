@@ -70,8 +70,8 @@ Deviations we endorse, with reasoning:
   - **Why we keep it.** It gives Iuz's relic-hunting (WGR5 p. 3) a target that low-level heroes can steal and protect. It touches no canon outcome: the Wars still happen.
 - **Kermin Mind-Bender in the Greater Boneheart by 576** (ruled 2026-11-05). WGR5 p. 86 places him there around 584 and gives no date. He is not among the members it says rose after the Wars.
 - **Tether-mages and bone tethers.** House material. They are built on Kermin's mind-control specialty and his recruitment of gifted children (WGR5 p. 86), and on the Boneshadow's use of charmed servitors (pp. 89–90).
-- **Rival arms.** Panshazek's priest-spies in the Horned Society (WGR5 p. 88) and Kermin's mages compete for the same prizes. This draws on WGR5's agents hiding missions to keep the credit (pp. 75–76). Master Kezrin (SP-PBS-01) is ruled Panshazek's man.
+- **Rival arms.** Panshazek's priest-spies in the Horned Society (WGR5 p. 88) and Kermin's mages compete for the same prizes. This draws on WGR5's agents hiding missions to keep the credit (pp. 75–76). Master Kezrin (SP-GA01) is ruled Panshazek's man.
 
 ## Linked Adventures
-- [[SP-PBS-01-The-False-Arrow]] (Kezrin; [[The War Iuz Wants]])
-- [[SP-SQ-00 — The Shadow on the Quag]]
+- [[SP-GA01-The-False-Arrow]] (Kezrin; [[The War Iuz Wants]])
+- [[SP-GQ00 — The Shadow on the Quag]]

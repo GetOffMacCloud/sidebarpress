@@ -1,13 +1,13 @@
 ---
 type: creature-template
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: bestiary
 publish_order: 170
 publish: true
 status: drafted
 creature: "Bone Beast Template"
 origin: harvested
-source_adventures: ["SP-PBS-02"]
+source_adventures: ["SP-GA02"]
 tags: [bestiary, template, 2014-5e]
 art_plate: todo        # todo | generated | approved | placed
 ---
@@ -30,7 +30,7 @@ A bone beast is an animal skeleton raised and bound into a pack by a necromancer
 
 **Tell the table early that bludgeoning works.** The vulnerability balances the immunities for low-level parties armed with maces, staves, and clubs, but only if they know to use them. An NPC who says "the smith's hammer broke one like a pot" is enough.
 
-**Why CR is unchanged:** Vulnerability to the most common damage type cancels out the poison immunity and the darkvision. This has been playtested at CR 1/4 in [[SP-PBS-02-The-Bones-of-the-Dreadverge]].
+**Why CR is unchanged:** Vulnerability to the most common damage type cancels out the poison immunity and the darkvision. This has been playtested at CR 1/4 in [[SP-GA02-The-Bones-of-the-Dreadverge]].
 
 ## The Pack
 | Creature | Base | CR | XP |
@@ -43,7 +43,7 @@ A bone beast is an animal skeleton raised and bound into a pack by a necromancer
 **Bigger packs:** for higher levels, apply the template to a dire wolf (CR 1), brown bear (CR 1), giant elk (CR 2), or mammoth (CR 6).
 
 ## Appears In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Its relic is the Antler Crown, and its law is the Hound-Mother's Law (never attack a creature bound at the Three Sisters). Statblocks are in [[SP-PBS-02 — Bestiary]].
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Its relic is the Antler Crown, and its law is the Hound-Mother's Law (never attack a creature bound at the Three Sisters). Statblocks are in [[SP-GA02 — Bestiary]].
 
 ## Art Prompt
 **Plate** (print: the template's page art). Save it as `plates/Bone Beast Template.png`. A template has no FGU portrait or token; each pack beast's own entry carries those.

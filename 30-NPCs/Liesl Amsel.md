@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: ""
 location: "Ritterstadt"
-tags: [greyhawk-university, probationer, arc-seed, shadow-on-the-quag, SP-SQ-01]
+tags: [greyhawk-university, probationer, arc-seed, shadow-on-the-quag, SP-GQ01]
 aliases: [Liesl Amsel]
 ---
 
@@ -13,7 +13,7 @@ aliases: [Liesl Amsel]
 > A Probationer working her labor levy in the Archive, with untrained wild talent. Kermin's real recruitment target.
 
 ## Appearance
-![[SP-SQ-01 Portrait - Liesl Amsel.png|300]]
+![[SP-GQ01 Portrait - Liesl Amsel.png|300]]
 
 Small, sharp-faced, ink on her fingers, always reading something she shouldn't.
 
@@ -28,10 +28,11 @@ Small, sharp-faced, ink on her fingers, always reading something she shouldn't.
 **Commoner** (MM p. 345).
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: Scene 03 (a passing line)
+- [[SP-GQ01-The-Gaolers-Link]]: Scene 03 (a passing line)
+- [[SP-GQ00 — Prologue — The Crossing]]: Scenes 1–6 (the new Probationer; hears the invisible)
 
 ## Canon Notes
 Homebrew.
 
 ## Continuity
-Kermin's recruitment target across the arc: courted in SP-SQ-02, taken in SP-SQ-05. Thread: [[The Girl on the Levy]]. Named per the functionaries rule (2026-10-23).
+Kermin's recruitment target across the arc: courted in SP-GQ02, taken in SP-GQ05. Thread: [[The Girl on the Levy]]. Named per the functionaries rule (2026-10-23).

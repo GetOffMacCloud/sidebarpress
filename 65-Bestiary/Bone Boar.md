@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: bestiary
 publish_order: 180
 publish: true
@@ -15,7 +15,7 @@ alignment: unaligned
 environment: [forest, hill, ruins, graveyard]
 origin: harvested
 base_block: "Boar (MM p. 319) + Bone Beast Template"
-source_adventures: ["SP-PBS-02"]
+source_adventures: ["SP-GA02"]
 tags: [bestiary, statblock, 2014-5e, bone-beast]
 art_plate: todo        # todo | generated | approved | placed
 portrait: todo
@@ -27,7 +27,7 @@ token: todo
 *A boar's skeleton crashes out of the bracken with its head down. A bronze band rings each tusk.*
 
 > [!info]+ Plate
-> ![[99-Assets/SP-BST-01/plates/Bone Boar.png|360]]
+> ![[99-Assets/SP-OM01/plates/Bone Boar.png|360]]
 
 > [!example]+ Bone Boar (CR 1/4, 50 XP)
 > *Medium undead, unaligned*
@@ -72,7 +72,7 @@ Tusk-bands are worth 5 gp each in bronze. A pair of intact tusks is worth 10 gp 
 **Built from** the Boar (MM p. 319) with the [[Bone Beast Template]]. CR is unchanged at **1/4**.
 
 ## Appears In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Statblocks are in [[SP-PBS-02 — Bestiary]].
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Statblocks are in [[SP-GA02 — Bestiary]].
 %%
 ## Art Prompt
 ```
@@ -90,7 +90,7 @@ Paste each block into Fantasy Grounds Unity: **NPCs → Import Text**, mode **20
 %%
 
 > [!info]- FGU Portrait & Token
-> ![[99-Assets/SP-BST-01/portraits/Bone Boar — Portrait.png|300]] ![[99-Assets/SP-BST-01/tokens/Bone Boar — Token.png|140]]
+> ![[99-Assets/SP-OM01/portraits/Bone Boar — Portrait.png|300]] ![[99-Assets/SP-OM01/tokens/Bone Boar — Token.png|140]]
 
 %%
 ```text

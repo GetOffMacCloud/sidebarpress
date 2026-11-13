@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-SQ-05"
+adventure: "SP-GQ05"
 section: bestiary
 publish_order: 0
 publish: true
@@ -16,7 +16,7 @@ environment: [arctic, hill, forest, urban]
 origin: new
 credit: ""
 base_block: "none"
-source_adventures: ["SP-SQ-05"]
+source_adventures: ["SP-GQ05"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, iuz, demon]
 art_plate: todo
 portrait: todo
@@ -65,10 +65,10 @@ It isn't clever, and it can't be bargained with. It doesn't care whom it hurts o
 
 ## Tactics
 The fiend goes straight for its quarry, leashes it, and drags it toward its destination, biting anyone who gets in the way. If the quarry is protected, it leashes the protector and throws them aside first.
-**Running it:** the fiend makes a three-way fight. Let the party learn who its quarry really is. In SP-SQ-05 the quarry can be Liesl (Vesharan's prize) or Vesharan himself (Kermin's recall), at the DM's choice. Either way, protecting the quarry is a better win than killing the fiend.
+**Running it:** the fiend makes a three-way fight. Let the party learn who its quarry really is. In SP-GQ05 the quarry can be Liesl (Vesharan's prize) or Vesharan himself (Kermin's recall), at the DM's choice. Either way, protecting the quarry is a better win than killing the fiend.
 
 ## Named Example
-**The Hound of Return** (SP-SQ-05). Kermin Mind-Bender sends it after Vesharan's second failure, telling the agent it is "an escort for the girl." Its quarry is **Vesharan himself**, and its destination is the Boneheart Citadel. Vesharan learns this on the ice. It becomes the moment he can be turned.
+**The Hound of Return** (SP-GQ05). Kermin Mind-Bender sends it after Vesharan's second failure, telling the agent it is "an escort for the girl." Its quarry is **Vesharan himself**, and its destination is the Boneheart Citadel. Vesharan learns this on the ice. It becomes the moment he can be turned.
 
 ## Adventure Hooks
 1. A hunter offers the party a share of a bounty on a man the fiend is chasing. *Twist:* the man is the hunter.
@@ -79,7 +79,7 @@ The fiend goes straight for its quarry, leashes it, and drags it toward its dest
 The hook on its leash: a black iron hook, ice-cold, that can be made into the [[Leash-Chain of Return]] by a smith willing to work it.
 
 ## Design Notes
-**New creature** (Sidebar Press, 2026-11-05). The "hired fiend" of SP-SQ-05, built as a single tracking threat at the top of the APL 4 budget.
+**New creature** (Sidebar Press, 2026-11-05). The "hired fiend" of SP-GQ05, built as a single tracking threat at the top of the APL 4 budget.
 
 | Change | — | Now | Why |
 |---|---|---|---|
@@ -93,7 +93,7 @@ The hook on its leash: a black iron hook, ice-cold, that can be made into the [[
 **Encounter caution:** at APL 4 with four PCs (thresholds: medium 1,000, hard 1,500, deadly 2,000), the fiend alone is medium (1,100 XP). If Vesharan fights beside it, the fight is deadly (1,550 × 1.5 = 2,325). In the intended play Vesharan is its quarry, not its ally. Don't add fog-drowned to the same fight.
 
 ## Appears In
-- SP-SQ-05 — The Ice Road (the Hound of Return)
+- SP-GQ05 — The Ice Road (the Hound of Return)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

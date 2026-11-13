@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Waycombe"
 location: "The Three Sisters (captive)"
-tags: [waycombe, child, captive, perrenland, SP-PBS-02]
+tags: [waycombe, child, captive, perrenland, SP-GA02]
 ---
 
 # Tam Marsh
@@ -25,7 +25,7 @@ Silent. When freed he does not run. He walks to the barrow mouth and stands look
 Noncombatant (**Commoner**, MM p. 345, with 2 HP).
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 2 (missing), Scene 5 (captive; reunion with [[Odila-Marsh|Odila]])
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scene 2 (missing), Scene 5 (captive; reunion with [[Odila-Marsh|Odila]])
 
 ## Canon Notes
 Homebrew.

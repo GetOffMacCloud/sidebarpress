@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Waycombe"
 location: "Waycombe"
-tags: [waycombe, perrenland, SP-PBS-02]
+tags: [waycombe, perrenland, SP-GA02]
 aliases: [Kester]
 ---
 
@@ -29,7 +29,7 @@ He will not come indoors and sits on the woodpile. He is quick to confess to any
 Commoner (MM p. 345).
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scene 2 (confession), denouement
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scene 2 (confession), denouement
 
 ## Canon Notes
 Homebrew. Renamed (formerly "Pell") to keep the series' names distinct.

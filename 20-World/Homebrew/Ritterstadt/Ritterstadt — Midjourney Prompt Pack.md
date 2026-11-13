@@ -22,7 +22,7 @@ Every print prompt is **subject + composition + spine + parameter tail**, using 
 
 - **Lamplight** is still the town's signature, drawn now as the one **white-lined light source in a black scene**: every window, the Wachturm lamp, the Fiend's Rest door. The cold outside is solid black mass and dense hatching. Paste the **LAMPLIGHT** anchor.
 - **Black ice and Bloom crystals** are the only "wrong" thing in the book: a **distinctive crystalline white-line pattern** (fine radiating white lines scratched into faceted black shards) that nothing else is drawn with. Paste the **BLOOM** anchor, and use it only where the Bloom is present.
-- Uses the same house spines as every Sidebar Press print product, so the town and [[SP-PBS-01 — Midjourney Prompt Pack]] sit together in print once that pack is on the house style too.
+- Uses the same house spines as every Sidebar Press print product, so the town and [[SP-GA01 — Midjourney Prompt Pack]] sit together in print once that pack is on the house style too.
 
 ### 2. Consistency workflow
 - Render **A1** first, in the ink style (an older painted A1 can't serve as the anchor). Never use the `99-Assets/_Style-Reference/` samples as `--sref`. Add `--sref <A1 URL> --sw 300` to every later prompt in place of `[SREF]`.

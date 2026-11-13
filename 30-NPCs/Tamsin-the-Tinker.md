@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: ""
 location: "Waycombe (passing through)"
-tags: [merchant, tinker, perrenland, SP-PBS-02]
+tags: [merchant, tinker, perrenland, SP-GA02]
 aliases: [Tamsin]
 ---
 
@@ -28,7 +28,7 @@ She is a haggler, practical, and superstitious only when it is profitable. She c
 Commoner (MM p. 345). Armed with a hammer (club numbers).
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scenes 1 and 2 (the torc negotiation)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scenes 1 and 2 (the torc negotiation)
 
 ## Canon Notes
 Homebrew. Renamed (formerly "Ysolde") to keep the series' names distinct.

@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: bestiary
 publish_order: 590
 publish: true
@@ -15,7 +15,7 @@ alignment: neutral evil
 environment: [village, graveyard, farmland]
 origin: harvested
 base_block: "Wraith (MM p. 302)"
-source_adventures: ["SP-HAL-03", "SP-HAL-04"]
+source_adventures: ["SP-OS03", "SP-OS04"]
 tags: [bestiary, statblock, 2014-5e, villain-type]
 art_plate: todo        # todo | generated | approved | placed
 portrait: todo
@@ -27,7 +27,7 @@ token: todo
 *He doesn't raise his voice. He looks at you the way a reeve looks at a field, counting what is owed.*
 
 > [!art]+ Plate
-> ![[99-Assets/SP-BST-01/plates/Tithe-Reaper.png|360]]
+> ![[99-Assets/SP-OM01/plates/Tithe-Reaper.png|360]]
 
 > [!example]+ Tithe-Reaper (CR 7, 2,900 XP)
 > *Medium undead, neutral evil*
@@ -69,7 +69,7 @@ A tithe-reaper is what rises from that. It remembers every name in the ledger, a
 The reaper wants three things in order: its anchor bone, the instrument of its death (the rope, the stake, the trowel), and the road out of the village. It drains whoever stands between it and those things and raises each victim to stand guard. It speaks to one PC by a name only their dead kin used, to unsettle them. It retreats from sunlight and avoids fighting near its own bone.
 
 ## Named Example
-**Josiah Thorne** ([[Josiah Thorne]]). He is the Tithe-Reaper of [[SP-HAL-03-The-Night-That-Doesnt-End]] and returns in [[SP-HAL-04-The-Tithe-of-Thornbury]]. Unique to him:
+**Josiah Thorne** ([[Josiah Thorne]]). He is the Tithe-Reaper of [[SP-OS03-The-Night-That-Doesnt-End]] and returns in [[SP-OS04-The-Tithe-of-Thornbury]]. Unique to him:
 - **Chained (until the first toll).** While chained in the Chain Crypt, he can't move or attack. Each grave-iron link has AC 19 and 50 hit points, and two links hold him.
 - **The Bone Circle.** If his anchor bone lies at the center of the Bone Circle and he is inside the circle when the twelfth toll sounds, he is restrained until the end of the following round.
 - His Create Specter targets only creatures that died in the ossuary during the current loop.
@@ -85,13 +85,13 @@ A destroyed reaper leaves its ledger, a rotted book naming every life it collect
 ## Design Notes
 **Changes from the Wraith block:** AC 14 (from 13); 97 hp (from 67); Dex 18, Wis 16, and Cha 17; Life Drain at +7 for 4d8 + 4; Legendary Resistance 1/day; and Anchor Bone added.
 
-**Errata against SP-HAL-03.** The adventure's block prints 99 (18d8 + 18) hp, Dex 16, and a Life Drain save of DC 15. Those numbers don't agree with its own ability scores. Dex 18 is what makes AC 14, +7 to hit, and +4 damage consistent, and 13d8 + 39 = 97 is the closest valid hit point total for Con 16. The Con-based save DC is 8 + 3 + 3 = 14. This entry uses the corrected numbers. The adventure still needs the same fix, which is logged for its next edit pass.
+**Errata against SP-OS03.** The adventure's block prints 99 (18d8 + 18) hp, Dex 16, and a Life Drain save of DC 15. Those numbers don't agree with its own ability scores. Dex 18 is what makes AC 14, +7 to hit, and +4 damage consistent, and 13d8 + 39 = 97 is the closest valid hit point total for Con 16. The Con-based save DC is 8 + 3 + 3 = 14. This entry uses the corrected numbers. The adventure still needs the same fix, which is logged for its next edit pass.
 
 **CR verification (DMG p. 274):** *Defensive:* 97 hp × 1.5 (broad resistances at expected CR 5–10) is about 146, plus 20 for Legendary Resistance (1/day), which gives about 166 effective hp. That is the CR 7 band (161–175). AC 14 is one below the expected 15, so defensive CR is about **6.5**. *Offensive:* Life Drain deals 22 damage per round, which is the CR 3 band (21–26). +7 to hit is three above the expected +4, so offensive CR is about **4.5**. *Average:* about 5.5, so the math gives **CR 6**. **It is published at CR 7 (2,900 XP)** because Create Specter turns every death near it into another attacker, which the formula doesn't count. Where nobody can die near it (for example, a chained or warded reaper), price the encounter at CR 6 (2,300 XP).
 
 ## Appears In
-- [[SP-HAL-03-The-Night-That-Doesnt-End]]: Scenes 04–05, as the villain. Statblocks are in [[SP-HAL-03 — Bestiary]].
-- [[SP-HAL-04-The-Tithe-of-Thornbury]]: Scenes 04–05, if he is free (Halloween bundle only).
+- [[SP-OS03-The-Night-That-Doesnt-End]]: Scenes 04–05, as the villain. Statblocks are in [[SP-OS03 — Bestiary]].
+- [[SP-OS04-The-Tithe-of-Thornbury]]: Scenes 04–05, if he is free (Halloween bundle only).
 
 ## Art Prompt
 ```
@@ -108,7 +108,7 @@ A gaunt hovering wraith in the rotted black coat and broad hat of a tithe-collec
 Paste each block into Fantasy Grounds Unity: **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse** (the 2014-style layout). Spells link only if a module containing them is open in the campaign. If a field comes in blank, check the NPC's Notes tab, which shows where parsing stopped. *Generated by `70-Company/Tools/fgu_import.py`; re-run it after any statblock change rather than editing by hand.*
 
 > [!art]- FGU Portrait & Token
-> ![[99-Assets/SP-BST-01/portraits/Tithe-Reaper — Portrait.png|300]] ![[99-Assets/SP-BST-01/tokens/Tithe-Reaper — Token.png|140]]
+> ![[99-Assets/SP-OM01/portraits/Tithe-Reaper — Portrait.png|300]] ![[99-Assets/SP-OM01/tokens/Tithe-Reaper — Token.png|140]]
 
 ```text
 Tithe-Reaper

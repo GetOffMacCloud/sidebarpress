@@ -33,9 +33,9 @@ tags: [perrenland, iggwilv, history, iuz, grazzt]
 - **Why she fell:** older sources say a ritual mistake freed Graz'zt. *Dungeon* #151 adds the Tsojcanth "living seal" ritual. These are compatible; use the later detail if needed.
 
 ## Sidebar Press Stance
-- In our adventures, Perrender villagers remember "**the Witch's dead**." Treat this as **folk memory, not canon fact**. Ninety years of retelling has turned humanoid legions and demon-haunted valleys into a march of the dead. That suits [[SP-PBS-02-The-Bones-of-the-Dreadverge]], where the villagers' Iggwilv fear is a red herring and Ashlock exploits it. Never state in DM-facing canon text that her army was undead.
+- In our adventures, Perrender villagers remember "**the Witch's dead**." Treat this as **folk memory, not canon fact**. Ninety years of retelling has turned humanoid legions and demon-haunted valleys into a march of the dead. That suits [[SP-GA02-The-Bones-of-the-Dreadverge]], where the villagers' Iggwilv fear is a red herring and Ashlock exploits it. Never state in DM-facing canon text that her army was undead.
 - In 576 CY, the oldest Perrenders (born before 491) remember her reign firsthand or through their parents. By 598 CY, it is grandparents' stories.
 
 ## Linked Adventures
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
-- [[SP-PBS-03-The-Red-Cord]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA03-The-Red-Cord]]

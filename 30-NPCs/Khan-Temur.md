@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Chakyik (Tiger Nomads) — war faction"
 location: "Yecha"
-tags: [chakyik, tiger-nomads, heir, baklunish, SP-PBS-01]
+tags: [chakyik, tiger-nomads, heir, baklunish, SP-GA01]
 aliases: [Temur]
 ---
 
@@ -28,10 +28,10 @@ He paces when he talks, like a man who'd rather be riding. He touches the arrow 
 - **Escalation:** first he denies ("Wolf arrows, in Wolf fashion"). Then he redirects ("the Wolves raided our herds; that part was true"). Then he acts (he rides east). Shown the arrows side by side, he wavers. Given his brother's body, he listens.
 
 ## Stat Block
-**Gladiator** (MM p. 346) if it ever comes to a fight. In the council duel he sends a champion (berserker; see [[SP-PBS-01 — Bestiary]]).
+**Gladiator** (MM p. 346) if it ever comes to a fight. In the council duel he sends a champion (berserker; see [[SP-GA01 — Bestiary]]).
 
 ## Appearances
-- [[SP-PBS-01-The-False-Arrow]] — Scenes 2, 3 (watching), 5 (war camp), 7
+- [[SP-GA01-The-False-Arrow]] — Scenes 2, 3 (watching), 5 (war camp), 7
 
 ## Canon Notes
 Homebrew. No canon heir is named for Cligir in the sources used.

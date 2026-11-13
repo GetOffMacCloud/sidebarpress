@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: bestiary
 publish_order: 600
 publish: true
@@ -15,7 +15,7 @@ alignment: unaligned
 environment: [ruins, village, urban]
 origin: harvested
 base_block: "none (haunt; no statblock)"
-source_adventures: ["SP-HAL-02"]
+source_adventures: ["SP-OS02"]
 tags: [bestiary, haunt, 2014-5e]
 art_plate: todo        # todo | generated | approved | placed
 portrait: todo
@@ -27,7 +27,7 @@ token: todo
 *A woman in a cook's apron kneels by the cask and scrubs it. She has been scrubbing it for fifty years. "Getting the sweet out," she says.*
 
 > [!art]+ Plate
-> ![[99-Assets/SP-BST-01/plates/Toiling Haunt.png|360]]
+> ![[99-Assets/SP-OM01/plates/Toiling Haunt.png|360]]
 
 > [!example]+ Toiling Haunt (haunt, no CR)
 > *Medium undead (haunt), unaligned*
@@ -55,7 +55,7 @@ A toiling haunt forms when someone dies in the middle of a task that *matters*, 
 4. **Let it rest** when the truth is exposed or the wrongdoer is destroyed. Give it a final beat when it ends: the scrubbing stops, the haunt looks up, and it is gone.
 
 ## Named Example
-**The Cook's Ghost** ([[SP-HAL-02-The-Hollow-Lantern]]). She scrubs the poisoned cask in the cellar and says only *"Getting the sweet out."* She stops when [[Lord Edric Vane]] is destroyed or Lady Ysolde is exposed.
+**The Cook's Ghost** ([[SP-OS02-The-Hollow-Lantern]]). She scrubs the poisoned cask in the cellar and says only *"Getting the sweet out."* She stops when [[Lord Edric Vane]] is destroyed or Lady Ysolde is exposed.
 
 ## Adventure Hooks
 1. A newly bought manor has a scullery maid who polishes the same silver spoon all night. The spoon is engraved with a family crest the previous owners never had.
@@ -66,10 +66,10 @@ A toiling haunt forms when someone dies in the middle of a task that *matters*, 
 None from the haunt itself. The thing it was working on is the reward: the evidence, the hidden coin, or the confession.
 
 ## Design Notes
-**Harvested from** "The Cook's Ghost (haunt, no stat block)" in [[SP-HAL-02 — Bestiary]]. The Interruption save and the XP award are optional additions for DMs who want a haunt to carry a little mechanical weight. The SP-HAL-02 haunt works as written without them.
+**Harvested from** "The Cook's Ghost (haunt, no stat block)" in [[SP-OS02 — Bestiary]]. The Interruption save and the XP award are optional additions for DMs who want a haunt to carry a little mechanical weight. The SP-OS02 haunt works as written without them.
 
 ## Appears In
-- [[SP-HAL-02-The-Hollow-Lantern]]: the cellar, Scene 04.
+- [[SP-OS02-The-Hollow-Lantern]]: the cellar, Scene 04.
 
 ## Art Prompt
 ```
@@ -86,7 +86,7 @@ The translucent pale blue ghost of an older woman in a cook's cap and stained ap
 Paste this block into Fantasy Grounds Unity: **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse** (the 2014-style layout). If a field comes in blank, check the NPC's Notes tab, which shows where parsing stopped. *Written by hand: the haunt has no statblock, so `70-Company/Tools/fgu_import.py` skips this note and won't overwrite this section. Its AC, hit points and ability scores are placeholders the parser needs; the haunt can't actually be harmed. Challenge 0 keeps it out of encounter difficulty; grant the optional 200 XP from the party sheet when the haunt is laid to rest.*
 
 > [!art]- FGU Portrait & Token
-> ![[99-Assets/SP-BST-01/portraits/Toiling Haunt — Portrait.png|300]] ![[99-Assets/SP-BST-01/tokens/Toiling Haunt — Token.png|140]]
+> ![[99-Assets/SP-OM01/portraits/Toiling Haunt — Portrait.png|300]] ![[99-Assets/SP-OM01/tokens/Toiling Haunt — Token.png|140]]
 
 ```text
 Toiling Haunt

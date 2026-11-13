@@ -26,7 +26,7 @@ Already leaving.
 Social only; **commoner** (MM p. 345).
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 5 (leaving), Scene 7 (the Tanner's Rest)
+- [[SP-GA00-Nobodys-Colors]] — Scene 5 (leaving), Scene 7 (the Tanner's Rest)
 
 ## Canon Notes
 Homebrew.

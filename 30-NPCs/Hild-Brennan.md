@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: "Waycombe"
 location: "Waycombe"
-tags: [waycombe, shepherd, guide, perrenland, SP-PBS-02]
+tags: [waycombe, shepherd, guide, perrenland, SP-GA02]
 ---
 
 # Hild Brennan
@@ -28,7 +28,7 @@ She is laconic and speaks in single lines while watching something else. She is 
 Commoner (MM p. 345), with proficiency in Survival (+2). Her crook is a quarterstaff.
 
 ## Appearances
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]] — Scenes 1 and 2 (witness), Scene 3 (guide), Scene 5 (if she comes)
+- [[SP-GA02-The-Bones-of-the-Dreadverge]] — Scenes 1 and 2 (witness), Scene 3 (guide), Scene 5 (if she comes)
 
 ## Canon Notes
 Homebrew.

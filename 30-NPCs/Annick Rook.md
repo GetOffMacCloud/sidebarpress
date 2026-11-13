@@ -26,11 +26,11 @@ Curious about strangers, quick to trust animals and slow to trust people. Speaks
 **Druid** (MM 346). Her crows are a **swarm of ravens** (MM 339) that will not fight unless she's attacked.
 
 ## Appearances
-- [[SP-HAL-03-The-Night-That-Doesnt-End]] — the orchard; the Crows Count; dawn (her crows fly west)
-- [[SP-HAL-04-The-Tithe-of-Thornbury]] — her crows can arrive at the Tithe Barn if the party sent word
+- [[SP-OS03-The-Night-That-Doesnt-End]] — the orchard; the Crows Count; dawn (her crows fly west)
+- [[SP-OS04-The-Tithe-of-Thornbury]] — her crows can arrive at the Tithe Barn if the party sent word
 
 ## Canon Notes
 Homebrew. No canon source.
 
 ## Continuity
-She is the second soul taken in Loop 2 if unprotected. If the loop ends, her crows fly west at dawn toward Thornbury. She can be written to for help in SP-HAL-04.
+She is the second soul taken in Loop 2 if unprotected. If the loop ends, her crows fly west at dawn toward Thornbury. She can be written to for help in SP-OS04.

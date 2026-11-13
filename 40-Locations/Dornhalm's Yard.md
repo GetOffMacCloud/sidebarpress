@@ -27,10 +27,10 @@ Stacks of squared pine taller than a house, a sawpit, a crane boom with one log 
 Homebrew.
 
 ## Adventure Use
-- [[SP-PBS-03-The-Red-Cord]] — Scene 5
+- [[SP-GA03-The-Red-Cord]] — Scene 5
 
 ## Map Reference
-To be made: `99-Assets/SP-PBS-03/`.
+To be made: `99-Assets/SP-GA03/`.
 
 ## Canon Notes
 Homebrew. The Velverdyva leaves Lake Quag at Schwartzenbruin (canon).

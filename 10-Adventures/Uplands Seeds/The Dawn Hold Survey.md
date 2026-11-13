@@ -9,7 +9,7 @@ levels: "5-7"
 party_size: "4-6" 
 play_time: "one 3-4 hour session" 
 adventure_type: "wilderness + mystery" 
-date_cy: "576 CY (after SP-PBS-04 if run; set when built)" 
+date_cy: "576 CY (after SP-GA04 if run; set when built)" 
 region: "Mounds of Dawn, Canton of Hugelrote, western Perrenland (across Lake Quag)" 
 thread: "Road to the Dawn Hold (25 → 1 → 2, 3 → 20)" 
 section: overview 
@@ -65,7 +65,7 @@ The students cross Lake Quag and pick up the old survey at the Vestflow (1). The
 
 1. **Job Board (default).** _"Flan Antiquities seeks a field team to complete the Mounds of Dawn approach survey. Barge passage provided. 40 credits each; the Prefect of Exag's reward to be shared."_
 2. **Personal.** A PC with dwarf kin in the Clatspurs is told by Hogar Irongrip: "If you meet the Hollow folk, show them this," a stamped iron ring.
-3. **Thread (SP-PBS-04).** If the Watchers' door was opened, the students already know the hold's hall. The stakes point to it.
+3. **Thread (SP-GA04).** If the Watchers' door was opened, the students already know the hold's hall. The stakes point to it.
 
 - **Decline path:** Vex goes alone. A month later the students hear that Stonekeep Hollow burned, and a stranger in Ritterstadt is asking about "the Watchers."
 
@@ -140,7 +140,7 @@ The students cross Lake Quag and pick up the old survey at the Vestflow (1). The
 
 ## Links & Threads
 
-- 25 (SP-PBS-04) → **1** → 2 (the warden-token) and 3 (the map, if delivered).
+- 25 (SP-GA04) → **1** → 2 (the warden-token) and 3 (the map, if delivered).
 
 ## Build Checklist
 
@@ -1596,7 +1596,7 @@ The students attend Stahl's muster and choose to sign on undercover or tail the 
 
 1. **Job Board (default).** _"Families of Ritterstadt seek word of their sons."_ The Reeve adds 25 credits each.
 2. **Personal.** A PC's sibling or friend signed on.
-3. **Thread (SP-PBS-00).** Perrender companies and their charters, with Sergeant Ruwen Hask as a contact.
+3. **Thread (SP-GA00).** Perrender companies and their charters, with Sergeant Ruwen Hask as a contact.
 
 - **Decline path:** the recruits march east. A year later one comes home with an Iuz brand and a story.
 
@@ -1669,7 +1669,7 @@ The students attend Stahl's muster and choose to sign on undercover or tail the 
 
 ## Links & Threads
 
-- Hooks 10 and 17; SP-PBS-00 (Perrender companies).
+- Hooks 10 and 17; SP-GA00 (Perrender companies).
 
 ## Build Checklist
 
@@ -2709,7 +2709,7 @@ _Tier 3 framing: the party are graduate fellows, or the original students at the
 ### What's Really Happening
 
 - Nine centuries ago, Irongrip smiths and Flan wardens jointly kept the Dawn Hold's seal. Tolle was built to carry word if the seal ever weakened. It has walked since the seal first cracked.
-- **What is sealed:** the Horned King's line ended in the hold. Behind the black door lies what the last heir bound, a demon the Tally names only as the **Bound One**, and the last heir's undead remains. _(House placeholders, consistent with SP-PBS-04's Tally.)_
+- **What is sealed:** the Horned King's line ended in the hold. Behind the black door lies what the last heir bound, a demon the Tally names only as the **Bound One**, and the last heir's undead remains. _(House placeholders, consistent with SP-GA04's Tally.)_
 - Iuz's hunters, a **nalfeshnee** and **vrocks** led by Vathra's successor or Vathra herself, want Tolle's memory-core: it holds the seal's binding-words.
 
 ### If Nobody Interferes
@@ -2813,7 +2813,7 @@ Tolle arrives in Ritterstadt with fragments of its warning, and the Dean asks th
 
 - Canon: Bitter Pass (WGR4; LGG). Iuz has been free since 570 CY.
 - House material: Tolle, the pact, the Dawn Hold, the Horned King, and the Bound One.
-- **Reconciled (2026-10-26):** SP-PBS-04's Tally now records the hold sealed over the Horned King's tomb and over the Bound One. The knock behind the black door is the Bound One.
+- **Reconciled (2026-10-26):** SP-GA04's Tally now records the hold sealed over the Horned King's tomb and over the Bound One. The knock behind the black door is the Bound One.
 
 ## Links & Threads
 

@@ -36,9 +36,9 @@ tags: [deity, wee-jas, suel, death, magic, law]
 - **Undead:** 2e permits commanding some undead; later fan and organized-play material sometimes presents Jasites as hunters of *unlawful* undead. **Stance:** Jasites tolerate lawful, respectful use of the dead and oppose desecration.
 
 ## Sidebar Press Stance
-- **Why Ashlock's cover works** ([[SP-PBS-02-The-Bones-of-the-Dreadverge]]): a Jasite funeral priest is expected to handle the dead and does not turn undead. Villagers see nothing odd in a Wee Jas mendicant fussing over graves, bones, and the newly dead. That is the right cover for a Nerullite.
+- **Why Ashlock's cover works** ([[SP-GA02-The-Bones-of-the-Dreadverge]]): a Jasite funeral priest is expected to handle the dead and does not turn undead. Villagers see nothing odd in a Wee Jas mendicant fussing over graves, bones, and the newly dead. That is the right cover for a Nerullite.
 - **House detail (not canon):** our "grey-robed funeral mendicant" is a Sidebar Press invention, a humble wandering order that buries the poor. Canon Jasite colors are ruby-red and black. A Religion DC 13 check notices that a Jasite in plain grey with **no ruby or skull ornament** is unusual. This makes a good optional clue against Ashlock.
 - A real Jasite NPC would treat Ashlock's rite as **desecration**. Use that as a potential future ally against the Nine Chiefs cell.
 
 ## Linked Adventures
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]

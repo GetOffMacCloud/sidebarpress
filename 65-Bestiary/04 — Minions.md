@@ -1,6 +1,6 @@
 ---
 type: front-matter
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: minions
 publish_order: 7000
 publish: true

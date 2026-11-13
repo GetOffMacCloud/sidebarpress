@@ -33,7 +33,7 @@ The **Field Station Charter** (568, amended 574) grants the University:
 - **research property**: Bloom crystals, relics recovered under commission, maps, and field reports belong to the University until released;
 - **discipline** over the enrolled, short of high justice, which stays with the Ritter.
 
-In return the University owes the town a physician, a forge, a share of its maps, and students on the wall when the horn sounds twice.
+In return the University owes the town a physician, a forge, a share of its maps, and students on the wall when the Wachturm bell rings twice.
 
 ## Administration
 
@@ -71,7 +71,7 @@ From the campaign canon (`00 — Department Index`). Each offers a Major, two Mi
 
 ## Students
 
-**Enrollment.** Anyone the Registrar admits. The station's test is survival, not pedigree; the Chancellor's office prefers it did not say so in print. Admission costs a signature on the Scholar's Oath and a **first-term bond of 80 marks**, paid in coin or, if coin is short, worked off as a term on the labour levy (the Drill Yard, the Archive and the gate rota, alongside the Probationers' usual duties). The bond is the one place the University takes marks; it is held by the Bursar and does not convert to credits. *(Figure set in [[SP-PBS-00-Nobodys-Colors]], 2026-10-23.)*
+**Enrollment.** Anyone the Registrar admits. The station's test is survival, not pedigree; the Chancellor's office prefers it did not say so in print. Admission costs a signature on the Scholar's Oath and a **first-term bond of 80 marks**, paid in coin or, if coin is short, worked off as a term on the labour levy (the Drill Yard, the Archive and the gate rota, alongside the Probationers' usual duties). The bond is the one place the University takes marks; it is held by the Bursar and does not convert to credits. *(Figure set in [[SP-GA00-Nobodys-Colors]], 2026-10-23.)*
 
 **Progression.** Students advance by **level**, and the Registrar's **Tuition & Leveling Table** (campaign canon) prices each step in credits.
 - **Probationer** — levels 1–2. Admitted, not yet enrolled on the Board. Works the Drill Yard, the Archive, and the gate rota. Quests only in company with an enrolled party.
@@ -89,7 +89,7 @@ Two **semesters** make a year. For play, a semester turns over after **four sanc
 - **Needfest** — the Needfest Fair; the Warden's address; majors declared.
 - **Planting** — first commissions of the year; the Bloom's worst month.
 - **Reaping–Harvester** — the Scouts' Field Day; the midsummer census.
-- **Brewfest** — the **Warden's Brewfest Dinner**: on the third night of the festival week the Warden hosts the faculty and senior students in the Station House hall. It is the one night of the year the whole faculty sits at one table, from the first toast until the midnight bell. *(Set in Sidebar Press SP-SQ-01, The Gaoler's Link, 2026-11-05.)*
+- **Brewfest** — the **Warden's Brewfest Dinner**: on the third night of the festival week the Warden hosts the faculty and senior students in the Station House hall. It is the one night of the year the whole faculty sits at one table, from the first toast until the midnight bell. *(Set in Sidebar Press SP-GQ01, The Gaoler's Link, 2026-11-05.)*
 - **Patchwall** — the Regents' audit (every second year; **576 CY is an audit year**); Publications submitted.
 - **Sunsebb** — the pass closes; the station winters on what it has.
 
@@ -109,7 +109,7 @@ Heard by the Proctor, confirmed by the Warden. Fines in credits; suspension from
 - A Probationer swears she saw the Chancellor's portrait move.
 
 > [!danger] DM Eyes Only
-> - **The Chancellor** has never seen Ritterstadt and has read every Field Report. He is honest, careful, and persuaded that the Fiend's Embrace belongs in the City of Greyhawk. He has not given Dray the word because he is waiting for Varek Doss to tell him whether moving it is survivable. If Doss says yes, the second seal is used within the season.
+> - **The Chancellor** has never seen Ritterstadt and has read every Field Report. He is honest, careful, and persuaded that the Fiend's Embrace belongs in the City of Greyhawk. He has not given Dray the word because he is waiting for Varek Doss to tell him whether moving it is survivable. If Doss says yes, the second seal is used within the season. On the Link the Chancellor and the Commission disagree: he hid it here and has told Vogelsang to stall any order to send it south ([[SP-GQ00 — Handout — The Chancellor's Letter]]).
 > - **The Warden** knows about the second seal and has drafted his resignation twice.
-> - **The Registrar's sealed files** are sealed on the Chancellor's standing instruction: anything that touches the Founders' Compact, the Embrace, or the tower's sub-floor.
+> - **The Registrar's sealed files** are sealed on the Chancellor's standing instruction: anything that touches the Founders' Compact, the Embrace, or the tower's sub-floor. Since 574 the stacks also hold the Chancellor's crate, [[The Gaoler's Link]], with Vogelsang as its keeper of record (SP-GQ series).
 > - **Starting level.** The campaign's house rules say students begin at 1st level while the department index calls Freshmen 3rd level. This book reconciles them with the **Probationer** rank at levels 1–2.

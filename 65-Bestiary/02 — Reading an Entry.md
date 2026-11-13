@@ -1,6 +1,6 @@
 ---
 type: front-matter
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: overview
 publish_order: 20
 publish: true

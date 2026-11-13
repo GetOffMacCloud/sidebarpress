@@ -1,6 +1,6 @@
 ---
 type: creature
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: bestiary
 publish_order: 190
 publish: true
@@ -15,7 +15,7 @@ alignment: unaligned
 environment: [forest, hill, grassland, ruins]
 origin: harvested
 base_block: "Elk (MM p. 322) + Bone Beast Template"
-source_adventures: ["SP-PBS-02"]
+source_adventures: ["SP-GA02"]
 tags: [bestiary, statblock, 2014-5e, bone-beast]
 art_plate: todo        # todo | generated | approved | placed
 portrait: todo
@@ -27,7 +27,7 @@ token: todo
 *An elk's skeleton stands in the birches, as tall as a horse. Its antlers are bound in bronze, and its head is already lowered.*
 
 > [!info]+ Plate
-> ![[99-Assets/SP-BST-01/plates/Bone Elk.png|360]]
+> ![[99-Assets/SP-OM01/plates/Bone Elk.png|360]]
 
 > [!example]+ Bone Elk (CR 1/4, 50 XP)
 > *Large undead, unaligned*
@@ -72,7 +72,7 @@ The bronze antler-bands are worth 10 gp. Intact antlers make a fine trophy, wort
 **Built from** the Elk (MM p. 322) with the [[Bone Beast Template]]. CR is unchanged at **1/4**.
 
 ## Appears In
-- [[SP-PBS-02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Statblocks are in [[SP-PBS-02 — Bestiary]].
+- [[SP-GA02-The-Bones-of-the-Dreadverge]]: Kethra's pack. Statblocks are in [[SP-GA02 — Bestiary]].
 %%
 ## Art Prompt
 ```
@@ -90,7 +90,7 @@ Paste each block into Fantasy Grounds Unity: **NPCs → Import Text**, mode **20
 %%
 
 > [!info]- FGU Portrait & Token
-> ![[99-Assets/SP-BST-01/portraits/Bone Elk — Portrait.png|300]] ![[99-Assets/SP-BST-01/tokens/Bone Elk — Token.png|140]]
+> ![[99-Assets/SP-OM01/portraits/Bone Elk — Portrait.png|300]] ![[99-Assets/SP-OM01/tokens/Bone Elk — Token.png|140]]
 
 %%
 ```text

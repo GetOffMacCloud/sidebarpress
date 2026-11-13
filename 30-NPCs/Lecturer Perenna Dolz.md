@@ -13,7 +13,7 @@ aliases: [Perenna Dolz, Lecturer Dolz]
 > Lecturer in Divination & Omenry, Department of Arcane Studies. Ket-born Baklunish, thirty-nine. Reads the weather for the Landing and the omens for anyone who asks a better question.
 
 ## Appearance
-![[SP-SQ-01 Portrait - Perenna Dolz.png|300]]
+![[SP-GQ01 Portrait - Perenna Dolz.png|300]]
 
 Dark-eyed, quick, wrapped in a Ket shawl over her University gown, a pouch of knucklebones at her belt.
 
@@ -32,4 +32,4 @@ Wry and impatient with vague questions. Treats divination as a craft, not a myst
 
 ## Appearances
 - [[Ritterstadt — Gazetteer (Book)]] — RG-09
-- [[SP-SQ-01-The-Gaolers-Link]]: the fog in her scrying; reads Fesch's hand; Scenes 03, 07, 08
+- [[SP-GQ01-The-Gaolers-Link]]: the fog in her scrying; reads Fesch's hand; Scenes 03, 07, 08

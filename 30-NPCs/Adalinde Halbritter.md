@@ -26,7 +26,7 @@ Dry and slow to speak. Says less than she knows, and never less than the truth. 
 Social only; **scout** (MM p. 349) if she must ride or run.
 
 ## Appearances
-- [[SP-PBS-00-Nobodys-Colors]] — Scenes 1, 4, 7, 8; the decline-path re-hook (Scene 0–1)
+- [[SP-GA00-Nobodys-Colors]] — Scenes 1, 4, 7, 8; the decline-path re-hook (Scene 0–1)
 
 ## Canon Notes
 Homebrew.

@@ -237,7 +237,7 @@ Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Group
 
 ## Appearances
 Sidebar Press adventures this NPC appears in:
-- [[SP-PBS-03-The-Red-Cord]] — Scene 1 (Hook 2: "Keep his hand off it"; packs the half-banner)
+- [[SP-GA03-The-Red-Cord]] — Scene 1 (Hook 2: "Keep his hand off it"; packs the half-banner)
 
 # Relationships
 

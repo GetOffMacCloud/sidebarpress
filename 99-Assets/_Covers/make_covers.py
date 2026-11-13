@@ -31,9 +31,9 @@ W, H = 1600, 2400
 
 COVERS = [  # art path (vault-relative), series line, title, subtitle, code, band text
     ("99-Assets/Ritterstadt/cover/Ritterstadt cover.jpg", "Greyhawk University · Field Station Gazetteer",
-     "Ritterstadt", "A Gazetteer of the Field Station Town", "SP-RG", "A setting book for the Sepia Uplands"),
-    ("99-Assets/SP-PBS-05/cover/SP-PBS-05 cover.jpg", "Greyhawk University · Field Wardens",
-     "The Pilgrims of the Hollow Bell", "A Sidebar Press Greyhawk Adventure", "SP-PBS-05", "An adventure for 3rd-level characters"),
+     "Ritterstadt", "A Gazetteer of the Field Station Town", "GR1", "A setting book for the Sepia Uplands"),
+    ("99-Assets/SP-GA05/cover/SP-GA05 cover.jpg", "Greyhawk University · Field Wardens",
+     "The Pilgrims of the Hollow Bell", "A Sidebar Press Greyhawk Adventure", "GA5", "An adventure for 3rd-level characters"),
 ]
 
 def font(name, size): return ImageFont.truetype(str(FONTS / name), size)

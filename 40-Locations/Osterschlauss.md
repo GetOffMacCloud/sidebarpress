@@ -24,7 +24,7 @@ A hundred houses and a stone quay on the western shore. The Hafenmeister's clerk
 Homebrew.
 
 ## Adventure Use
-- [[SP-PBS-00-Nobodys-Colors]] — Scene 3
+- [[SP-GA00-Nobodys-Colors]] — Scene 3
 
 ## Map Reference
 None.

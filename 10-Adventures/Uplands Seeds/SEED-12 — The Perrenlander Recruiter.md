@@ -59,7 +59,7 @@ The students attend Stahl's muster and choose to sign on undercover or tail the 
 ## Hooks
 1. **Job Board (default).** *"Families of Ritterstadt seek word of their sons."* The Reeve adds 25 credits each.
 2. **Personal.** A PC's sibling or friend signed on.
-3. **Thread (SP-PBS-00).** Perrender companies and their charters, with Sergeant Ruwen Hask as a contact.
+3. **Thread (SP-GA00).** Perrender companies and their charters, with Sergeant Ruwen Hask as a contact.
 - **Decline path:** the recruits march east. A year later one comes home with an Iuz brand and a story.
 
 ## Scene Plan
@@ -122,7 +122,7 @@ The students attend Stahl's muster and choose to sign on undercover or tail the 
 - Stahl, Mirek, and the camp are house material.
 
 ## Links & Threads
-- Hooks 10 and 17; SP-PBS-00 (Perrender companies).
+- Hooks 10 and 17; SP-GA00 (Perrender companies).
 
 ## Build Checklist
 - [ ] Assign the SP-PBS code and create the folder `10-Adventures/SP-PBS-NN — The Perrenlander Recruiter/`

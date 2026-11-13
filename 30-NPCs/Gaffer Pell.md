@@ -26,7 +26,7 @@ Gruff, guilt-ridden, drinks to sleep. Won't talk sober. Treats Mirabel as fragil
 **Commoner** (MM 345). Rows the party across if asked; Strength DC 14 against whatever drags the oars.
 
 ## Appearances
-- [[SP-HAL-02-The-Hollow-Lantern]] — Scenes 00, 01, 02; the Frightened Grandfather hook
+- [[SP-OS02-The-Hollow-Lantern]] — Scenes 00, 01, 02; the Frightened Grandfather hook
 
 ## Canon Notes
 Homebrew.

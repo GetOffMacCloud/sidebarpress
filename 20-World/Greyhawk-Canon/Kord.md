@@ -47,8 +47,8 @@ tags: [deity, kord, suel, strength, brawling, chaotic-good]
 - **Perrender worship:** official canon is silent, Living Greyhawk says "a few followers," and the fan *Oerth Journal* says "widely followed by mercenaries." **Stance:** the mercenary companies keep Kord loudly. The farmers and townsfolk of the Old Kerk do not. This follows Region Report 0003 and is a fan-sourced extrapolation, so flag it as such.
 
 ## Sidebar Press Stance
-- A fist-fight "under Kord" (a formal bout between champions, unarmed, to yield or knockout) is how soldiers settle a dispute without bloodshed. *This custom is homebrew,* and it fits the god of brawling and courage. Used in [[SP-PBS-03-The-Red-Cord]].
+- A fist-fight "under Kord" (a formal bout between champions, unarmed, to yield or knockout) is how soldiers settle a dispute without bloodshed. *This custom is homebrew,* and it fits the god of brawling and courage. Used in [[SP-GA03-The-Red-Cord]].
 - "Wood is Kord's" (the Red Cord's house rule that wooden weapons are fair in a brawl) is also homebrew.
 
 ## Linked Adventures
-- [[SP-PBS-03-The-Red-Cord]]
+- [[SP-GA03-The-Red-Cord]]

@@ -22,10 +22,10 @@ Floury, stooped, a miller's smock. Smells of wet hay and river water if you stan
 *The double wants:* the mill left alone. It bars the mill door from the inside each night and walks the footprint path through the flour to the loft. *Secret:* Widow Haskell says "closed for repairs" in exactly his cadence, because she wrote the phrase.
 
 ## Stat Block
-Straw Double (standard, 9 hp); see [[SP-HAL-01 — Bestiary]]. The real Aldous is a **commoner** (MM 345), asleep in M4.
+Straw Double (standard, 9 hp); see [[SP-OS01 — Bestiary]]. The real Aldous is a **commoner** (MM 345), asleep in M4.
 
 ## Appearances
-- [[SP-HAL-01-Straw-Men]] — Scene 00 (at the bar), Scene 04 (his cadence in Haskell's mouth), Scene 05 (wakes in M4; the mill is his).
+- [[SP-OS01-Straw-Men]] — Scene 00 (at the bar), Scene 04 (his cadence in Haskell's mouth), Scene 05 (wakes in M4; the mill is his).
 
 ## Canon Notes
 Homebrew.

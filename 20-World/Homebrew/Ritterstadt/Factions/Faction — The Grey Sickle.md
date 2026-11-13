@@ -3,7 +3,7 @@ type: faction
 canon: false
 alignment_tendency: "neutral evil"
 scope: "Nerullite barrow-cell, Schwartzenbruin"
-tags: [ritterstadt, faction, nerull, barrow-cell, undead, gazetteer, SP-PBS-02]
+tags: [ritterstadt, faction, nerull, barrow-cell, undead, gazetteer, SP-GA02]
 aliases: [the Grey Sickle, the Sickle, the barrow-cell]
 ---
 
@@ -15,7 +15,7 @@ aliases: [the Grey Sickle, the Sickle, the barrow-cell]
 
 > The Nerullite cell of Schwartzenbruin that opened the Hound-Mother's barrow at the Dreadverge. It has a list of the Sepia Uplands' old graves, and Ritterstadt sits among them.
 
-Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]] · First seen in [[SP-PBS-02-The-Bones-of-the-Dreadverge]]
+Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]] · First seen in [[SP-GA02-The-Bones-of-the-Dreadverge]]
 
 ## At a Glance
 | | |
@@ -41,7 +41,7 @@ A cell of Nerull's faithful gathered in Schwartzenbruin around funerary work —
 
 ## History
 - **Before 576 CY.** The cell works quietly in the south: tending the unburied, copying barrow-lore, waiting. Its patience is its liturgy.
-- **576 CY.** The cell opens the Hound-Mother's barrow at the Dreadverge (see [[SP-PBS-02-The-Bones-of-the-Dreadverge]]). Brother Ashlock leads; a Sister of the cell is named in his letter. It works.
+- **576 CY.** The cell opens the Hound-Mother's barrow at the Dreadverge (see [[SP-GA02-The-Bones-of-the-Dreadverge]]). Brother Ashlock leads; a Sister of the cell is named in his letter. It works.
 - **576 CY.** A Historical Society member copies barrow-lore he doesn't understand; the Illuminators fair-copy it; Hesta Varnholm makes a second. The Sickle has its list: the Flan judgment circle at Hex G5, the barrows under the Larch tree line, and more.
 - **Harvester 576 CY.** A funeral mendicant of Wee Jas passes through Ritterstadt, asks the Vater which of the dead have no graves, and moves on. Reconnaissance, in a cassock.
 - **576 CY.** A sergeant of the Yatil Mountaineers' free company becomes the cell's first man in town — though the town doesn't know it.

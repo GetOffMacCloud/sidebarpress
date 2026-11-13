@@ -1,6 +1,6 @@
 ---
 type: creature-template
-adventure: "SP-BST-01"
+adventure: "SP-OM01"
 section: minions
 publish_order: 7050
 publish: true

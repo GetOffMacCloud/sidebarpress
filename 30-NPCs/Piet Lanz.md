@@ -4,7 +4,7 @@ status: alive
 canon: false
 faction: ""
 location: "Ritterstadt"
-tags: [perrenland, bargeman, tethered, shadow-on-the-quag, SP-SQ-01]
+tags: [perrenland, bargeman, tethered, shadow-on-the-quag, SP-GQ01]
 aliases: [Piet Lanz]
 ---
 
@@ -13,7 +13,7 @@ aliases: [Piet Lanz]
 > A bargeman of the Graue Hecht, tethered since spring along with his master.
 
 ## Appearance
-![[SP-SQ-01 Portrait - Hecht Bargeman.png|300]]
+![[SP-GQ01 Portrait - Hecht Bargeman.png|300]]
 
 Big, sunburned, a red wool cap with a bone pin through the band.
 
@@ -28,7 +28,7 @@ Big, sunburned, a red wool cap with a bone pin through the band.
 [[Tethered Sleeper]].
 
 ## Appearances
-- [[SP-SQ-01-The-Gaolers-Link]]: Scenes 03, 06, 07
+- [[SP-GQ01-The-Gaolers-Link]]: Scenes 03, 06, 07
 
 ## Canon Notes
 Homebrew.

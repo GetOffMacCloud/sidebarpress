@@ -24,7 +24,7 @@ A big laugh that keeps cracking in the middle. Refills cups nobody asked him to 
 **Commoner** (MM 345). If pushed to fight, he swings a cleaver (+2 to hit, 1d6 slashing) and has 11 hp.
 
 ## Appearances
-- [[SP-HAL-01-Straw-Men]] — Scene 00 (the hook), Scene 02 (tips the barrel), Scene 04 (leads the party upstream if nobody else does), Denouement.
+- [[SP-OS01-Straw-Men]] — Scene 00 (the hook), Scene 02 (tips the barrel), Scene 04 (leads the party upstream if nobody else does), Denouement.
 
 ## Canon Notes
 Homebrew. Built on the Hommlet "friendly innkeeper" pattern; in this adventure, the innkeeper is exactly what he looks like.
