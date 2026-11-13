@@ -60,7 +60,7 @@ Rhennee barge-families work the waters of the Flanaess and belong to none of the
 
 ## Relationships
 - **Allies:** the halfling ferrymen; the Moot (uneasily).
-- **Rivals:** the Hanselmann Consortium's road trade; the canton of Quagflood, whose harbour-reeve wants a toll agreement.
+- **Rivals:** the Kettenhaus and its Traft road trade; the canton of Quagflood, whose harbour-reeve wants a toll agreement.
 - **Compromised by:** Iuz's recruiter, through Yeska's daughter.
 
 ## Hooks

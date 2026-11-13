@@ -17,29 +17,85 @@ Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-05 — Economy & Trade]
 > [!art]- Chapter opener (screen version)
 > ![[Ritterstadt rg06-opener-factions-alley.jpg|600]]
 
-Eleven factions have a stake in Ritterstadt, the University, or the relics under the Sepia. Six are written up in the campaign vault's **Faction Dossiers** and are only summarized here. Five are new to this book and have their own notes in `20-World/Homebrew/Ritterstadt/Factions/`. Not all of them are hostile. None of them are simple.
+Eleven factions have a stake in Ritterstadt, the University, or what lies under the Sepia. Six are powers of the wider Uplands whose business brings them to the palisade. Five live in or work through the town itself. Each has a full write-up in this chapter's faction notes. Not all of them are hostile. None of them are simple.
 
-## Existing Factions (campaign canon — see the Faction Dossiers)
+## Powers of the Uplands
 
-> [!art]+ Emblems
-> ![[Ritterstadt wolf-nomads.jpg|140]] ![[Ritterstadt druid-enclave.jpg|140]] ![[Ritterstadt agents-of-iuz.jpg|140]] ![[Ritterstadt hanselmann-consortium.jpg|140]] ![[Ritterstadt varek-doss.jpg|140]] ![[Ritterstadt velvet-shadow-winter-vanguard.jpg|140]]
+### 1. The Wolf Nomads *(the Wegwiur bands of the eastern Sepia)*
 
-> [!art]+ Faces
-> ![[Ritterstadt elif-kayim.jpg|160]] ![[Ritterstadt giseth.jpg|160]] ![[Ritterstadt ewald-wennerberg.jpg|160]] ![[Ritterstadt vethkar-graun.jpg|160]] ![[Ritterstadt varek-doss.jpg|160]]
+> [!art]+ Emblem and face
+> ![[Ritterstadt wolf-nomads.jpg|200]] ![[Ritterstadt elif-kayim.jpg|200]]
 
+**Public face.** Herders who ride the eastern Sepia south in autumn and north in late spring, hostile to fences and unwilling to talk. Their outriders have watched Ritterstadt from the high moor every autumn since 565. **Elif Kayim**, a trader, is on the road south: the first of his people ever to trade here.
+**What they say they want.** Nothing. Outriders do not explain themselves to settlers.
+**What they actually want.** Recognition, not land. Their routes run from one old Flan site to the next, and they still keep the prohibitions: the stones at G5 are not touched on certain nights, and the Wachturm is "the place that must not be opened." They have never raided Ritterstadt because they saw the chapel's foundation stone and know what it marks. They want someone in town to know it too. And they want the Bloom stopped: every Bloom year is worse, and the Quag is spreading.
+**Tools.** Horses, the moor, and an oral tradition nobody else has. A party that spends a respectful night at the G5 stones without touching them is met by an outrider within two days.
+**Allies and enemies.** Watching everyone; allied with no one. Enemies of the Grey Sickle, though neither knows it.
+→ [[Faction — The Wolf Nomads]]
 
-| Faction | Public face | What they want from Ritterstadt | Current agent |
-|---|---|---|---|
-| **The Wolf Nomads** | Territorial herders on ancestral routes | The moor sites acknowledged; someone to take the Wachturm seriously | Outriders on the high moor; [[Elif Kayim]] (arriving) |
-| **The Druid Enclave at Ehlonna's Mount** | Neutral observers of the land's cycles | The binding network stabilized; a formal relationship; the clay tablet translated | Giseth, the enclave's Ur-Flan reader |
-| **Agents of Iuz** | Travellers, traders, a scholar, a soldier | The Fiend's Embrace; anything about the Wachturm; the town weak enough to take it | [[Ewald Wennerberg]]; a handler at Kottsmort |
-| **The Hanselmann Consortium** (Traft) | A mercantile house holding the Ritter's debt | 1,000 gp — 800 borrowed in 573, the rest interest and fees — or, preferably, the timber rights: a reusable commodity worth far more than 1,000 gp over the years | [[Vethkar Graun]] |
-| **Varek Doss** | An Eru Tovar scholar of the Prior Period | Access to the Wachturm's sub-floor and the tablet, for study | Arriving after Graun's report |
-| **The Velvet Shadow / Winter Vanguard** | A bad winter with a war in it | Not yet known in Ritterstadt | The rumours Elif Kayim carries |
+### 2. The Druid Enclave at Ehlonna's Mount
 
-## New Factions
+> [!art]+ Emblem and face
+> ![[Ritterstadt druid-enclave.jpg|200]] ![[Ritterstadt giseth.jpg|200]]
 
-### 1. The Regents' Commission *(Greyhawk University, City of Greyhawk)*
+**Public face.** A circle of druids who have recorded the Sepia's seasons for four hundred years. Neutral, evaluating, and silent to letters.
+**What they say they want.** To observe and be left to their work.
+**What they actually want.** The Bloom stopped at its root. Their records show each Bloom worse than the last and each recovery weaker: not a cycle, but something winding up. This year, for the first time, crystals are growing on the stones. They want a formal relationship with Ritterstadt that lets them see what the expeditions find, the Ur-Flan clay tablet translated, and the town not to make things worse.
+**Tools.** Four centuries of records; the trust of every spirit-site in the Uplands; **Giseth**, an old woman who claims she cannot read Ur-Flan well enough to help and then translates the tablet in three weeks.
+**Allies and enemies.** Rivals of the Regents' Commission; wary of the Old Kerk; enemies of Iuz's agents. They open to deeds of stewardship and close for a year to anyone who pockets a Bloom crystal.
+→ [[Faction — The Druid Enclave]]
+
+### 3. The Agents of Iuz
+
+> [!art]+ Emblem and face
+> ![[Ritterstadt agents-of-iuz.jpg|200]] ![[Ritterstadt ewald-wennerberg.jpg|200]]
+
+**Public face.** None of their own: a traveller, a trader, a clerk, a soldier. In Ritterstadt, **Ewald Wennerberg**, the garrison's reliable second watch leader.
+**What they say they want.** Whatever the cover says.
+**What they actually want.** The Fiend's Embrace, recovered or destroyed: a bound fragment of the Abyssal domain of Iuz's father, worth more to the Old One's cult as a relic than as a weapon. Anything the University learns about the Wachturm. And a town weak enough that it cannot stop them.
+**Tools.** A chain of dead-drops running south through the Wolf Nomad borderlands, active since the mid-560s; a handler at Kottsmort; patience. A second, separate operation, Kermin Mind-Bender's tether-mages, works the lake trade after a different prize.
+**Allies and enemies.** Enemies of the Regents, the Old Kerk, and the druids; competitors of the Pale Ledger; leverage over the Bargemen.
+→ [[Faction — The Agents of Iuz]]
+
+### 4. The Kettenhaus *(Haus Hanselmann van Traft)*
+
+> [!art]+ Emblem and face
+> ![[Ritterstadt hanselmann-consortium.jpg|200]] ![[Ritterstadt vethkar-graun.jpg|200]]
+
+**Public face.** A Traft lending house, the House of the Chain, conducting a routine assessment of a frontier debt through its appraiser, **Vethkar Graun**, who keeps the corner room at the Grey Wolf.
+**What they say they want.** The Ritter's debt repaid: 700 gp borrowed in 573 on a *Schuldbrief*, about 900 gp with interest by Patchwall 576.
+**What they actually want.** The collateral. The Eisfeld timber rights are worth far more over the years than the debt, and a Schwartzenbruin logging concern is ready to buy them. Better still, Ritterstadt brought under Traft, where foreclosure is cleaner.
+**Tools.** The *Schuldbrief*; the patronage of the Hussen clan, whose Pfalzgraf was elected Voormann this year; the Voormann's post, which it reads.
+**Allies and enemies.** Useful to the Regents; rivals of the Bargemen's lake trade; watched by the Pale Ledger.
+→ [[Faction — The Kettenhaus]]
+
+### 5. Varek Doss *(a scholar of Eru Tovar)*
+
+> [!art]+ Face
+> ![[Ritterstadt varek-doss.jpg|200]]
+
+**Public face.** A Baklunish academic with an interest in the pre-Migration ruins of the northwest. He has not yet come north. He hired Vethkar Graun to look first.
+**What he says he wants.** To study the Wachturm.
+**What he actually wants.** Exactly that, which is the problem. He has tied the tower to the Prior Period: a network of binding works older than Baklunish civilization. His notes use the word *catastrophic*, underlined. He wants the sub-floor chamber, the tablet, and the node sites, and he cannot leave them alone. The Chancellor is waiting on his word about whether the Embrace can be moved.
+**Tools.** Money, expertise, and Baklunish archives nobody else in the north can read.
+**Allies and enemies.** Useful to the Regents; unaware of almost everyone else.
+→ [[Faction — Varek Doss]]
+
+### 6. The Velvet Shadow and the Winter Vanguard
+
+> [!art]+ Emblem
+> ![[Ritterstadt velvet-shadow-winter-vanguard.jpg|200]]
+
+**Public face.** None in Ritterstadt: only the stories Elif Kayim carries south. The northern clans ride in rows now, under a knight in black plate with a face like cooled ash, and grey-skinned dwarves cut a shaft into the Burneal ice.
+**What they say they want.** Nothing. The clans who serve do not know they have a master.
+**What they actually want.** The Velvet Shadow, a rogue bound to a cloak of fiend's hide, means to reach Iggwilv's buried laboratory under the glacier and use it to free herself of the fiend while keeping its power.
+**Tools.** The Winter Vanguard, drilled by her infernal warmaster; duergar dig crews; ten years' head start; Iuz fooled into calling it a squabble between chieftains.
+**Allies and enemies.** Unknown to everyone in this chapter. Her shadow reaches Ritterstadt late, and from the north.
+→ [[Faction — The Velvet Shadow and the Winter Vanguard]]
+
+## Powers in Town
+
+### 7. The Regents' Commission *(Greyhawk University, City of Greyhawk)*
 
 > [!art]+ Emblem and face
 > ![[Ritterstadt regents-commission.jpg|200]] ![[Ritterstadt commissioner-dray.jpg|200]]
@@ -51,7 +107,7 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 **Allies and enemies.** Allied with Calloway's memory and the Chancellor's office; rivals of the druid enclave; useful to Varek Doss; a danger to the Ritter's independence.
 → [[Faction — The Regents' Commission]]
 
-### 2. The Pale Ledger *(a Scarlet Brotherhood cell)*
+### 8. The Pale Ledger *(a Scarlet Brotherhood cell)*
 
 > [!art]+ Emblem and face
 > ![[Ritterstadt pale-ledger.jpg|200]] ![[Ritterstadt hesta-varnholm.jpg|200]]
@@ -63,7 +119,7 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 **Allies and enemies.** No allies; they want none. They regard Iuz's agents as competitors and would sell Ewald to Stahlwulf for the right price. Vethkar Graun has noticed them. They have noticed him noticing.
 → [[Faction — The Pale Ledger]]
 
-### 3. The Grey Sickle *(the Nerullite barrow-cell of Schwartzenbruin)*
+### 9. The Grey Sickle *(the Nerullite barrow-cell of Schwartzenbruin)*
 
 > [!art]+ Emblem
 > ![[Ritterstadt grey-sickle.jpg|200]]
@@ -75,7 +131,7 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 **Allies and enemies.** Enemies of the druid enclave and the Wolf Nomads, though neither knows it yet. They would find Iuz's agents useful and be used by them in turn.
 → [[Faction — The Grey Sickle]]
 
-### 4. The Quag Bargemen *(the Rhennee of the Landing)*
+### 10. The Quag Bargemen *(the Rhennee of the Landing)*
 
 > [!art]+ Emblem and face
 > ![[Ritterstadt quag-bargemen.jpg|200]] ![[Ritterstadt baba-yeska.jpg|200]]
@@ -84,10 +140,10 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 **What they say they want.** Tolls, a dry winter berth, and to be left to the water.
 **What they actually want.** The lake. If Ritterstadt grows, the Landing grows with it, and whoever holds the Landing holds the fastest road to Traft. Yeska means to be that whoever, and to keep her grandchildren's parentage unspoken. Half her "Quag salt" is Traft salt sold back to Traft. The other half comes from a pan that should not exist.
 **Tools.** Boats, night, and a toll-book nobody else can read.
-**Allies and enemies.** Allied with the halfling ferrymen and, uneasily, the Moot; rivals of the Hanselmann Consortium's road trade; enemies of anyone who asks about the sealed crate that goes north twice a season.
+**Allies and enemies.** Allied with the halfling ferrymen and, uneasily, the Moot; rivals of the Kettenhaus and its Traft road trade; enemies of anyone who asks about the sealed crate that goes north twice a season.
 → [[Faction — The Quag Bargemen]]
 
-### 5. The Old Kerk Mission *(Perrenland's church)*
+### 11. The Old Kerk Mission *(Perrenland's church)*
 
 > [!art]+ Emblem and face
 > ![[Ritterstadt old-kerk-mission.jpg|200]] ![[Ritterstadt dominie-roth.jpg|200]]
@@ -101,7 +157,7 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 
 ## The Faction Map
 
-| | Regents | Pale Ledger | Grey Sickle | Bargemen | Old Kerk | Iuz | Consortium | Druids | Nomads |
+| | Regents | Pale Ledger | Grey Sickle | Bargemen | Old Kerk | Iuz | Kettenhaus | Druids | Nomads |
 |---|---|---|---|---|---|---|---|---|---|
 | **Regents** | — | unaware | unaware | indifferent | rival | enemy | useful | rival | indifferent |
 | **Pale Ledger** | watching | — | watching | watching | watching | competitor | watched by | indifferent | watching |
@@ -111,9 +167,9 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 | **Wolf Nomads** | indifferent | unaware | enemy (neither knows) | indifferent | unaware | unaware | indifferent | indifferent | — |
 | **Druid Enclave** | rival | indifferent | enemy (neither knows) | indifferent | wary | enemy | unaware | — | indifferent |
 | **Agents of Iuz** | enemy | competitor | useful | *leverage* | enemy | — | unaware | enemy | unaware |
-| **Hanselmann Consortium** | useful | watching | unaware | rival | cautious | unaware | — | unaware | indifferent |
+| **Kettenhaus** | useful | watching | unaware | rival | cautious | unaware | — | unaware | indifferent |
 | **Varek Doss** | useful | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware |
-| **Velvet Shadow** | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware |
+| **Velvet Shadow** | unaware | unaware | unaware | unaware | unaware | *deceiving* | unaware | unaware | rules their northern kin |
 
 ## Hooks
 - Commissioner Dray's crate: what goes in it this year, and who decides.
@@ -125,8 +181,8 @@ Eleven factions have a stake in Ritterstadt, the University, or the relics under
 > [!danger] DM Eyes Only
 > - **The Regents and the Embrace.** Commissioner Dray carries the second seal and a commission already drafted: *Recover and convey the object held at Ritterstadt under the Founders' Compact.* He has not used it because the Chancellor, [[Chancellor Adalwin Adenauer]], has not yet said the word. The Chancellor is waiting for Doss's assessment of whether moving the Embrace is survivable.
 > - **The Regents and the Link.** The Commission also wants the "consignment of 574" ([[The Gaoler's Link]]) sent south. Here the Chancellor disagrees: he wants the Embrace brought south but hid the Link at Ritterstadt, and has told Vogelsang to stall. Dray saw the crate land in Patchwall 574. The Chancellor's second opinion on it came from the Old Kerk ([[Ouderling Machteld Vreeswijk]]), the Commission's rival.
-- **Two of Iuz's operations.** Ewald's Kottsmort network is after the Embrace; Kermin's (Dawud Vesharan, the SP-GQ series) is after the Link. Neither knows the other is in town.
-- **The Pale Ledger's crystals** are going to the Brotherhood's own scholars, who want to know whether Bloom crystals can be grown.
+> - **Two of Iuz's operations.** Ewald's Kottsmort network is after the Embrace; Kermin's (Dawud Vesharan, the SP-GQ series) is after the Link. Neither knows the other is in town.
+> - **The Pale Ledger's crystals** are going to the Brotherhood's own scholars, who want to know whether Bloom crystals can be grown.
 > - **The Grey Sickle's list** was copied from the Historical Society's archive by a member who did not know what he was copying. The Illuminators' Guild made the fair copy. Hesta Varnholm made a second.
 > - **Baba Yeska's northbound crate** is salt, furs, and once a season a letter in her daughter's hand. Iuz's recruiter writes back. The recruiter is Kermin Mind-Bender's, the same one who courts Liesl Amsel in SP-GQ02 ([[SP-GQ00 — The Shadow on the Quag]]). Yeska reads the letters and burns them and has told no one, and would set fire to the Landing before she let it be used against the town.
 > - **Dominie Roth** is sincere about the chapel and honest about the brief. He has already written to the Voormann's council that the University is "digging where it should not," and he will regret it when he learns who else reads the Voormann's post.

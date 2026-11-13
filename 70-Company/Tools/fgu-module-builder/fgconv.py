@@ -35,6 +35,9 @@ def inline(s):
     s=re.sub(r'\*\*(.+?)\*\*',r'<b>\1</b>',s)
     s=re.sub(r'(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])',r'<i>\1</i>',s)
     return s.strip()
+def plain(s):
+    """A metadata field (spell components etc.): wikilinks resolved, no markup."""
+    return html.unescape(re.sub(r'<[^>]+>','',inline(s)))
 def conv(t):
     o=[]; lines=t.split('\n'); i=0; lst=None
     def close():
@@ -71,7 +74,7 @@ def conv(t):
             close(); rows=[]
             while i<len(lines) and lines[i].startswith('|'):
                 r=lines[i].strip().strip('|')
-                if not re.match(r'^[\s:\-|]+$',r): rows.append([c.strip().replace('\x00','|') for c in r.replace('\\|','\x00').split('|')])  # \| inside [[note\|label]] is not a cell break
+                if not re.match(r'^[\s:\-|]+$',r): rows.append([c.strip().replace('\x00','|') for c in re.sub(r'\[\[[^\]]*\]\]',lambda w: w.group(0).replace('\\|','\x00').replace('|','\x00'),r).split('|')])  # a pipe inside [[note|label]] is not a cell break
                 i+=1
             tb='<table>'
             for k,r in enumerate(rows): tb+='<tr>'+''.join('<td>%s</td>'%(('<b>%s</b>' if k==0 else '%s')%inline(c)) for c in r)+'</tr>'

@@ -43,7 +43,7 @@ The Old Kerk is Perrenland's church, seated at Schwartzenbruin. The cantons will
 ## History
 - **575 CY.** Roth arrives, lodges at the Grey Wolf, and begins preaching on fair days. He is courteous to Vater Sigmund Wolfherz, and patient, and everywhere.
 - **575–576 CY.** A congregation gathers: most of Alder Row's Perrender fishers, a few Moot households, the unenrolled the Moot hasn't found work for. Alms do what sermons can't.
-- **576 CY.** Roth writes to the Voormann's council that the University is "digging where it should not." He does not know the Hanselmann Consortium reads the Voormann's post.
+- **576 CY.** Roth writes to the Voormann's council that the University is "digging where it should not." He does not know the Kettenhaus reads the Voormann's post.
 - **576 CY.** The elders' brief sharpens: determine whether St. Erika's foundation stone is the Flan threshold marker of the old songs. Roth asks, kindly, for help looking at it.
 
 ## Goals
@@ -61,7 +61,7 @@ The Old Kerk is Perrenland's church, seated at Schwartzenbruin. The cantons will
 - **Allies:** the Moot's Perrender households (cautiously).
 - **Rivals:** the Regents' Commission, over the town's future; Vater Sigmund, gently.
 - **Enemies:** the Grey Sickle (when they meet); Iuz's agents.
-- **Watched by:** the Hanselmann Consortium, which reads the Voormann's post.
+- **Watched by:** the Kettenhaus, which reads the Voormann's post.
 
 ## Hooks
 - Roth asks the party, kindly, to look at the chapel's foundation stone and tell him what they see.
@@ -70,5 +70,5 @@ The Old Kerk is Perrenland's church, seated at Schwartzenbruin. The cantons will
 
 > [!danger] DM Eyes Only
 > - Roth's brief is [[Ouderling Machteld Vreeswijk]]'s. She gave the Chancellor his "second opinion" on the Gaoler's Link in 576, and her price was his quiet support for a Kerk chapel lot in Ritterstadt. Roth knows nothing of it.
-> - Roth has already written that the University is "digging where it should not." He doesn't know the Consortium reads the Voormann's post.
+> - Roth has already written that the University is "digging where it should not." He doesn't know the Kettenhaus reads the Voormann's post.
 > - If the stone is read aloud in Old Flan, the Wolf Nomad outriders come down off the moor for the first time in eleven years. Roth will be standing next to it.
