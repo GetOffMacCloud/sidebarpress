@@ -132,8 +132,8 @@ six thick silver coins spilling out of a rolled wool stocking, each coin stamped
 ## Checklist
 - [x] P1 Cover (2026-11-13: `cover/SP-GQ00 — Cover.png`; use as the `--sref` for the rest of the set)
 - [x] P2 Arc opener (2026-11-13; at the head of Part One)
-- [ ] P3 Post-House · [ ] P4 Casting Off · [ ] P5 First Night · [ ] P6 Into the Grey · [ ] P7 The Drowned · [ ] P8 Isle in the Grey
-- [ ] P9 Agnes Feldhaus · [ ] P10 Mother Gunde · [ ] P14 Machteld Vreeswijk
-- [ ] P11 Fog-Drowned plate · [ ] P12 Letter-case · [ ] P13 Dorakaa silver
+- [x] P3 Post-House (keep; upscale) · [ ] P4 Casting Off (re-roll: Fesch must be a thin *young* clerk; check Brandmeier vs GQ1 portrait) · [ ] P5 First Night (re-roll: Liesl 15, enclosed below deck, strap lifting by itself) · [ ] P6 Into the Grey (re-roll: a lamp in *each* hand; cog not longship; lighter) · [x] P7 The Drowned (fix: replace the real-world cross with a sun disc) · [x] P8 Isle in the Grey (keep; upscale)
+- [ ] P9 Agnes Feldhaus (re-roll: drawn with pointed elf ears; add "human, rounded ears") · [x] P10 Mother Gunde · [x] P14 Machteld Vreeswijk
+- [x] P11 Fog-Drowned plate · [x] P12 Letter-case · [x] P13 Dorakaa silver
 - [ ] Density check (25–45% solid black) on every scene before upscaling
 - [x] Cover plaque: `99-Assets/_Covers/Cover — The Shadow on the Quag.png` (2026-11-13)

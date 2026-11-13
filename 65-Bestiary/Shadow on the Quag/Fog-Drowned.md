@@ -18,7 +18,7 @@ credit: ""
 base_block: "none"
 source_adventures: ["SP-GQ05"]
 tags: [bestiary, statblock, 2014-5e, greyhawk, shadow-on-the-quag, undead, lake-quag]
-art_plate: todo
+art_plate: "99-Assets/SP-SQ/plates/Fog-Drowned.png"
 portrait: todo
 token: todo
 ---

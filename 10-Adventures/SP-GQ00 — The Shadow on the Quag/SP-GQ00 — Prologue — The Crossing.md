@@ -80,9 +80,15 @@ None of these are essential to finish the prologue; each one pays off in GQ1–G
 ### Scene 1: Factor Feldhaus (15 min)
 *Purpose:* the job, the letter, Liesl, the passage.
 
+> [!art]+ Scene 1 — The Post-House
+> ![[SP-GQ00 — S1 Post-House.png|600]]
+
 > *The University's post-house is two rooms over a chandler's on the Schwartzenbruin waterfront, smelling of tar and sealing-wax. A grey-haired woman with spectacles on a ribbon stacks oilcloth bundles on the counter. Beside the stove a thin girl in a borrowed cloak sits on a sea-chest, reading a pamphlet she has clearly read before.*
 
 **Factor [[Agnes Feldhaus]]** hands over the Field Station's post: two oilcloth bundles of letters and a **letter-case** of black leather, locked, with the Chancellor's seal on the strap. *"That one goes into Professor Vogelsang's hand and no other. Not the Registrar's. Not the Warden's. His."* She gives the key to nobody; Vogelsang has the other.
+
+> [!art]+ Prop — the Chancellor's letter-case
+> ![[SP-GQ00 — Letter-Case.png|300]]
 
 She also hands over **[[Liesl Amsel]]**: *"New Probationer. She's to be on the Archive's labor levy. See she gets there."*
 
@@ -103,6 +109,9 @@ The only ship going north this week is the *Graue Hecht*. Feldhaus has already a
 
 ### Scene 2: Casting Off (Harvester 19, noon) (15 min)
 *Purpose:* meet the ship, Brandmeier, Fesch and Ruder.
+
+> [!art]+ Scene 2 — Casting Off
+> ![[SP-GQ00 — S2 Casting Off.png|600]]
 
 > *The* Graue Hecht *is a broad-bellied cog with a grey-painted pike's head on her stem post and salt sacks stacked to the gunwales. A big red-faced man in a fur-trimmed coat booms a welcome from the quarterdeck and waves away your purse before you can open it. At his elbow a thin clerk in black writes in a ledger and does not look up.*
 
@@ -135,10 +144,16 @@ The same ship and the same maps as GQ1: the four *Hecht* deck maps in `99-Assets
 **H2. THE BERTHS AND THE HOLD.** The students and Liesl sleep in the forward berths, above the salt sacks and copper ingots in the hold. One hatch to the deck. Dark at night except for a shuttered lantern.
 **H3. THE CLERK'S CABIN.** A cupboard of a room aft: a cot, a writing slope, a ledger in a careful hand, a birdcage with no bird, and a smell of brimstone and cloves. Fesch is never far from it. **Treasure:** the ledger (Perrender in a Ket schoolroom hand: Lecturer Dolz could identify it in GQ1); a pot of sugar.
 **H4. THE STERN CABIN.** Brandmeier's: a cot, a sea-chest, a strongbox bolted to the deck. **Treasure:** 40 marks in Brandmeier's own coin and, wrapped in a stocking, **six silver coins stamped with a skull** (Dorakaa silver; Religion or History DC 14 to know Iuz's mint; Brandmeier doesn't know where they came from). Opening the strongbox without leave is theft.
+
+> [!art]+ Prop — Dorakaa silver
+> ![[SP-GQ00 — Dorakaa Silver.png|300]]
 **H5. THE GALLEY.** A brazier in a sand box forward; the cook, [[Mother Gunde]], a Rhennee widow who knows the fog.
 
 ### Scene 3: The First Night (Harvester 19–20) (30 min)
 *Purpose:* Snick's first and second tries; Liesl's talent; legwork aboard.
+
+> [!art]+ Scene 3 — The First Night
+> ![[SP-GQ00 — S3 First Night.png|600]]
 
 > *Night on the lake is black water and the creak of the yard. The salt in the hold smells of the sea it came from. Somewhere aft the clerk's candle burns late behind his curtain. Liesl lies awake with her eyes open, listening to something.*
 
@@ -173,6 +188,9 @@ If the students corner Snick (for example by covering the hatch and swinging lan
 ### Scene 4: Into the Fog (Harvester 20, night) (30 min)
 *Purpose:* the set piece. Navigation, Liesl's talent, the boarding.
 
+> [!art]+ Scene 4 — Into the Grey
+> ![[SP-GQ00 — S4 Into the Grey.png|600]]
+
 > *The wind dies at dusk and does not come back. The* Hecht *drifts on a slow black current, and ahead a wall of fog stands on the water, pale under no moon. Ruder stops whittling. Mother Gunde lights two lamps and holds one in each hand.*
 
 The current carries the ship into the grey. **Navigating out** is a group effort: **3 successes before 3 failures**. Each character may try one approach per round; describe a round as about ten minutes of drifting.
@@ -187,10 +205,16 @@ The current carries the ship into the grey. **Navigating out** is a group effort
 
 **Each failure:** the drowned come closer. The first failure triggers the boarding (Scene 5) if it hasn't started; later failures add one **fog-drowned** to the deck.
 **Three failures:** the *Hecht* grounds softly on a fog-bound isle. Through the grey the students see a timber lodge with a smoking chimney and an iceskimmer drawn up under a tarpaulin (P4). The ship floats free at dawn. Vesharan, at the rail, sees it too, and remembers it (this is the lodge of GQ5).
+
+> [!art]+ Failure branch — The Isle in the Grey
+> ![[SP-GQ00 — S4b Isle in the Grey.png|600]]
 **Three successes:** the *Hecht* drifts out of the grey before midnight, with the drowned left behind on the water.
 
 ### Scene 5: The Drowned Come Aboard (Encounter, Medium)
 *Purpose:* the fight, and Snick's real try for the letter.
+
+> [!art]+ Scene 5 — The Drowned Come Aboard
+> ![[SP-GQ00 — S5 The Drowned.png|600]]
 
 > *Something knocks on the hull. Then a hand comes over the rail, swollen and grey, with a rope still knotted round the wrist. A drowned bargeman pulls himself up out of the fog, water running from his mouth, and behind him another face rises out of the lake.*
 

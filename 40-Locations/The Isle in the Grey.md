@@ -7,6 +7,9 @@ tags: [location, lake-quag, fog, shadow-on-the-quag]
 
 # The Isle in the Grey
 
+> [!art]+ The Isle in the Grey
+> ![[SP-GQ00 — S4b Isle in the Grey.png|600]]
+
 A low, reed-fringed island inside the fog-bank at the heart of Lake Quag. Nobody fishes it. A timber lodge stands among stunted alders; in winter someone keeps a fire there. The canon grey fogs of the Quag, where ships go missing, hide it from the shore.
 
 ## Notable Features

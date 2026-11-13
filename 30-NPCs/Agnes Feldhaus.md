@@ -13,6 +13,7 @@ aliases: [Feldhaus, Factor Feldhaus]
 > The University's factor in Schwartzenbruin: she receives the City's post for the Ritterstadt Field Station and sends it north on whatever ship is going.
 
 ## Appearance
+![[SP-GQ00 Portrait - Agnes Feldhaus.png|300]]
 Grey-haired, sixty, spectacles on a ribbon, ink and sealing-wax on her fingers.
 
 ## Personality & Mannerisms
