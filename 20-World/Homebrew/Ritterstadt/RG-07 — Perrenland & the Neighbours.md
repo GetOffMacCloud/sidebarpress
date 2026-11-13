@@ -70,7 +70,7 @@ Six weeks away by road and barge, and the source of the charter, the grants, the
 
 > [!danger] DM Eyes Only
 > - **Traft's dependency form** is the Kettenhaus's idea. Foreclosure under canton law is cleaner than under the Ritter's.
-> - **The reeve's clerk of 575** was Edrik Saumann, now Commissioner Dray's junior secretary and Kermin Mind-Bender's recruiter ([[SP-GQ00 — The Shadow on the Quag]]). He catalogued every hull at the Landing that season, and Baba Yeska knows his face.
+> - **The reeve's clerk of 575** catalogued every hull at the Landing that season, and Baba Yeska knows his face. Who he was and where he went is the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*.
 > - **Quagflood's harbour-reeve** is honest and badly informed. He thinks the Landing's salt is lake salt. If he learns where the real pan is, Node 3 gets a canton survey party.
 > - **Dagmar's tools** are in the Wachturm's locked ground floor, where she left them in 566 when she stopped building the fifth bastion and told Edmund von Eisfeld why.
 > - **The Yatil Mountaineers'** captain is honest. One of his sergeants is the Grey Sickle's first man in town.

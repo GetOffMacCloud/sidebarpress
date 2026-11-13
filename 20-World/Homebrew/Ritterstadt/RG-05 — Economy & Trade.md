@@ -69,7 +69,7 @@ Salt (dearer than it should be), cloth and dye (Yusuf al-Rashad), southern steel
 | **Patchwall** | Apples in. The autumn slaughter at the Big Barn. Timber felling begins. The pack-merchants' last run. |
 | **First frost to deep winter** | The McCockin press runs; casks go south by barge until the lake closes. |
 
-*In a Bloom year the cold comes early: in 576 the Quag freezes right across by late Sunsebb, hard enough for the Wolf Nomads' iceskimmers (SP-GQ05).*
+*In a Bloom year the cold comes early: in 576 the Quag freezes right across by late Sunsebb, hard enough for the Wolf Nomads' iceskimmers.*
 
 ## Credits and Coin
 Students are paid in **credits**, not marks. Credits buy tuition, infirmary care at cost, forge work at cost, and standing; they cannot buy ale. The total credit limit is **600**; extra credit sits outside it. Karet accepts a University chit for a bed and redeems it with the Bursar at the quarter.

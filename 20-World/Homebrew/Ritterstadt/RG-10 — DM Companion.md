@@ -115,8 +115,8 @@ Reveal from the top down.
 - Calloway's charter promised the Regents the Fiend's Embrace "when safely movable." The Regents' Commission holds a second seal and a drafted commission to recover it.
 - Chancellor Adalwin Adenauer is waiting on Varek Doss's assessment before giving the word.
 - Vogelsang reports to Commissioner Dray and expects the Wardenship.
-- The Registrar's sealed files hold AR-001, Hassenrath's second notebook, the charter correspondence, and since 574 the Chancellor's crate ([[The Gaoler's Link]]). The Commission wants it south; the Chancellor does not.
-- Two of Iuz's operations work the town unaware of each other: Ewald's (the Embrace) and Kermin's (the Link).
+- The Registrar's sealed files hold AR-001, Hassenrath's second notebook, the charter correspondence, and since 574 the Chancellor's crate. The Commission wants the crate south; the Chancellor does not. See the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*.
+- Two of Iuz's operations work the town unaware of each other: Ewald's Kottsmort network, and Kermin Mind-Bender's (the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*).
 - Lecturer Tock has read one line of the clay tablet: *"the one who knew first is not asleep; it is counting."*
 
 **Layer 4 — The ground.**
@@ -125,7 +125,7 @@ Reveal from the top down.
 - Dagmar of Clan Brock stopped building the fifth bastion on the Wachturm rise in 566 because of what her footings found. Her tools are still on the tower's locked ground floor.
 - Node 2 lies under the timber rights. Node 3 lies under Baba Yeska's salt pan. Karet's Hush ledger maps the six stress points.
 - The Grey Sickle has a list of the Sepia's barrows copied from the Historical Society.
-- Baba Yeska's daughter went north with Iuz's recruiter and writes to her mother through Kermin's recruiter, Edrik Saumann, who was Quagflood's harbour clerk at the Landing in 575. Yeska burns the letters.
+- Baba Yeska's daughter went north with Iuz's recruiter in 575 and writes to her mother. Yeska burns the letters. The recruiter's story is the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*.
 
 ## Hooks by Building
 

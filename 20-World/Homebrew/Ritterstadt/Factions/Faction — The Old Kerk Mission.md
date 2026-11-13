@@ -69,6 +69,6 @@ The Old Kerk is Perrenland's church, seated at Schwartzenbruin. The cantons will
 - A sermon on Market Hill names the University's dig at the Wachturm in front of the whole town.
 
 > [!danger] DM Eyes Only
-> - Roth's brief is [[Ouderling Machteld Vreeswijk]]'s. She gave the Chancellor his "second opinion" on the Gaoler's Link in 576, and her price was his quiet support for a Kerk chapel lot in Ritterstadt. Roth knows nothing of it.
+> - Roth's brief comes from [[Ouderling Machteld Vreeswijk]], a Kerk elder who has her own dealings with the Chancellor (the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*). Roth knows nothing of them.
 > - Roth has already written that the University is "digging where it should not." He doesn't know the Kettenhaus reads the Voormann's post.
 > - If the stone is read aloud in Old Flan, the Wolf Nomad outriders come down off the moor for the first time in eleven years. Roth will be standing next to it.

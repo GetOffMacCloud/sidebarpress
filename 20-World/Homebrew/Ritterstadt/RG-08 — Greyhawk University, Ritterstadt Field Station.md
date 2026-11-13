@@ -89,7 +89,7 @@ Two **semesters** make a year. For play, a semester turns over after **four sanc
 - **Needfest** — the Needfest Fair; the Warden's address; majors declared.
 - **Planting** — first commissions of the year; the Bloom's worst month.
 - **Reaping–Harvester** — the Scouts' Field Day; the midsummer census.
-- **Brewfest** — the **Warden's Brewfest Dinner**: on the third night of the festival week the Warden hosts the faculty and senior students in the Station House hall. It is the one night of the year the whole faculty sits at one table, from the first toast until the midnight bell. *(Set in Sidebar Press SP-GQ01, The Gaoler's Link, 2026-11-05.)*
+- **Brewfest** — the **Warden's Brewfest Dinner**: on the third night of the festival week the Warden hosts the faculty and senior students in the Station House hall. It is the one night of the year the whole faculty sits at one table, from the first toast until the midnight bell. *(The setting of GQ1, The Gaoler's Link.)*
 - **Patchwall** — the Regents' audit (every second year; **576 CY is an audit year**); Publications submitted.
 - **Sunsebb** — the pass closes; the station winters on what it has.
 
@@ -109,6 +109,6 @@ Heard by the Proctor, confirmed by the Warden. Fines in credits; suspension from
 - A Probationer swears she saw the Chancellor's portrait move.
 
 > [!danger] DM Eyes Only
-> - **The Chancellor** has never seen Ritterstadt and has read every Field Report. He is honest, careful, and persuaded that the Fiend's Embrace belongs in the City of Greyhawk. He has not given Dray the word because he is waiting for Varek Doss to tell him whether moving it is survivable. If Doss says yes, the second seal is used within the season. On the Link the Chancellor and the Commission disagree: he hid it here and has told Vogelsang to stall any order to send it south ([[SP-GQ00 — Handout — The Chancellor's Letter]]).
+> - **The Chancellor** has never seen Ritterstadt and has read every Field Report. He is honest, careful, and persuaded that the Fiend's Embrace belongs in the City of Greyhawk. He has not given Dray the word because he is waiting for Varek Doss to tell him whether moving it is survivable. If Doss says yes, the second seal is used within the season. On one thing the Chancellor and the Commission disagree: his own sealed crate of 574, which he will not send south (the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*).
 > - **The Warden** knows about the second seal and has drafted his resignation twice.
-> - **The Registrar's sealed files** are sealed on the Chancellor's standing instruction: anything that touches the Founders' Compact, the Embrace, or the tower's sub-floor. Since 574 the stacks also hold the Chancellor's crate, [[The Gaoler's Link]], with Vogelsang as its keeper of record (SP-GQ series).
+> - **The Registrar's sealed files** are sealed on the Chancellor's standing instruction: anything that touches the Founders' Compact, the Embrace, or the tower's sub-floor. Since 574 the stacks also hold the Chancellor's crate, with Vogelsang as its keeper of record (the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*).

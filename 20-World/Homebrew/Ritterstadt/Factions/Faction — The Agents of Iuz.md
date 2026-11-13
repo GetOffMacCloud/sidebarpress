@@ -3,7 +3,7 @@ type: faction
 canon: true
 alignment_tendency: "chaotic evil"
 scope: "Iuz's intelligence network in the northwestern Flanaess"
-tags: [ritterstadt, faction, iuz, spies, fiends-embrace, gaolers-link, gazetteer]
+tags: [ritterstadt, faction, iuz, spies, fiends-embrace, gazetteer]
 aliases: [Agents of Iuz, Iuz's agents, the Kottsmort network]
 ---
 
@@ -21,7 +21,7 @@ Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]
 | | |
 |---|---|
 | **Seat** | Dorakaa, by way of a long chain of handlers |
-| **In Ritterstadt** | [[Ewald Wennerberg]], second watch leader of the garrison (the Kottsmort network). "Herr Fesch," a clerk (Kermin's tether-mages; see the SP-GQ series) |
+| **In Ritterstadt** | [[Ewald Wennerberg]], second watch leader of the garrison (the Kottsmort network). a second operation of Kermin Mind-Bender's (see the GQ series) |
 | **Handler** | A contact at Kottsmort, the trappers' outpost 25 miles east, who sends dispatches north by an intermediary Ewald has never met |
 | **Public face** | None of their own. Every agent wears someone else's |
 | **Resources** | Patience, dead-drops, and fifteen years of groundwork |
@@ -41,13 +41,13 @@ Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]
   3. The town is weak: the Ritter's debt called in, the garrison's loyalty in doubt.
 
 ## The Other Operation
-**Kermin Mind-Bender**, a mage of Iuz's Greater Boneheart, runs his own people. He recruits gifted children and trains them as tether-mages. His field agent in 576 is **Dawud Vesharan**, who passes in Ritterstadt as "Herr Fesch," a merchant's clerk. His recruiter works the lake trade. Kermin's people want [[The Gaoler's Link]], not the Embrace. The two operations report up different chains and have never been told about each other.
+**Kermin Mind-Bender**, a mage of Iuz's Greater Boneheart, runs his own people in Ritterstadt, after the Chancellor's sealed crate rather than the Embrace. The two operations report up different chains and have never been told about each other. Kermin's people, and the crate, are the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*.
 
 ## History
 - **c. 561–565 CY.** Iuz's apparatus flags the Founders' expedition and its cargo.
 - **565–575 CY.** The network is built: dead-drops, a handler at Kottsmort, couriers through the borderlands.
 - **c. 575 CY.** Ewald Wennerberg joins the Ritterstadt garrison.
-- **576 CY.** Kermin's tether-mages arrive in Ritterstadt by water, after the Link.
+- **576 CY.** Kermin Mind-Bender's people reach Ritterstadt by water (the GQ series).
 
 ## Goals
 **Major:**
@@ -57,7 +57,7 @@ Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]
 **Minor:**
 - Keep Ewald unidentified.
 - Exploit the Ritter's debt, which they did not cause but have noticed.
-- (Kermin's operation) Take the Link and recruit Ritterstadt's gifted young.
+- (Kermin's operation) See the GQ series.
 
 ## Relationships
 - **Enemies:** the Regents' Commission, the Old Kerk Mission, the druid enclave.
