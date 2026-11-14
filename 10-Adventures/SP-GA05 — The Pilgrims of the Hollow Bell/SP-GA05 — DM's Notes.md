@@ -187,6 +187,17 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 
 **Extra credit:** Kalbach saved +12 · bell intact +12 · Lore of the Gods (Winter Telling and Nerull's cult in the field report) +9 · relay log returned +6 · land restored (both wells *and* the stag) +6. The Antiquities lintel rubbing (hook) is +9 within the cap. Never exceed the 600-credit cap. Log each award in the PC's Credit Ledger.
 
+**Lead credits** (on top of the extra credit above, on endings A–D): each side quest the wardens uncover pays when it's written up in the field report. Up to +36.
+
+| Side quest | Credit | Earned when |
+|---|---|---|
+| [[The Grey Sickle's List]] | +9 | The field report includes the list page and names the next targets: Hex G5 and the Larch tree line |
+| [[The Copper-Torc Dead]] | +9 | The field report notes the copper torcs and connects them to the dead walking out of the Vesve |
+| [[The Grave-Silver]] | +6 | The wardens bring back a green Flan coin and the report identifies it as barrow-struck |
+| [[Ansgar Returns]] | +6 | After Ending B only: the report says Ansgar escaped with the clapper and will come back for the bell at the next new moon. Ending E pays nothing: a hollowed bell is a crisis, not a lead |
+| [[Grukka's Deserters]] | +3 | Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off |
+| [[Hollen Ford Must Be Manned]] | +3 | The report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it |
+
 **Outside the University frame:** 50 gp each on A, 30 gp on B–D. XP as normal, or advance to 4th level on A–D with milestones.
 
 ---

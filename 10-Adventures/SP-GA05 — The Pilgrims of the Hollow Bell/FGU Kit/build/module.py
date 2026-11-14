@@ -168,6 +168,13 @@ for key,name,typ,rar,pic in (('reaperspenny',"Reaper's Penny",'Wondrous Item','C
 # ---- the Primer as a shareable story record ----
 pr=_S(m._cat('encounter'),'primer'); _S(pr,'name','string',"The Field Warden's Primer (Player Handout)"); _FT(pr,'text',C(fullnote(PRIMER)))
 PRIM=('encounter','encounter.primer',"Story: The Field Warden's Primer")
+# ---- quests: one per side-quest note (Player Lead -> description; seed, lead credit and links -> GM notes) ----
+QLINKS={"The Grey Sickle's List":lambda:[m.N('halse'),m.SP('ashtally')],'The Copper-Torc Dead':lambda:[m.N('barrowdead')],'The Grave-Silver':lambda:[],
+        'Ansgar Returns':lambda:[m.N('ansgar'),m.IT('boneclapper'),m.IT('sunbell')],"Grukka's Deserters":lambda:[m.N('grukka')],'Hollen Ford Must Be Manned':lambda:[m.N('relayhorse')]}
+QKEY=lambda n: re.sub(r'^the','',re.sub(r'[^a-z]','',n.lower()))
+for q in sorted(glob.glob(os.path.join(SRC,'Side Quests','*.md'))):
+    qn=os.path.basename(q)[:-3]; qs=sections(body(q)); lv=re.search(r'^levels: "APL ([^"]*)"',open(q).read(),re.M)
+    m.quest(QKEY(qn),qn,lv.group(1).replace('–','-') if lv else '',C(qs.get('Player Lead','')),C(pick(qs,'The Seed','Lead Credit')),links=QLINKS.get(qn,lambda:[])())
 # ---- reference manual ----
 I1,A1,A2,A3,AP='Introduction','Act 1 — The Road and Kalbach','Act 2 — Hollen Ford and the Orc Camp','Act 3 — The Bell-Tor','Appendices'
 ENC=lambda n: P('Encounters/*E%d —*.md'%n)
@@ -220,7 +227,7 @@ m.page(AP,'Magic Items','<h>Magic Items</h><p>The adventure\'s homebrew items. C
 for h in sorted(glob.glob(os.path.join(SRC,'*Handout —*.md')),key=lambda p: re.search(r'Handout (\d)',open(p).read()).group(1)):
     t=fullnote(h); hi=imgs(t); m.page(AP,re.search(r'^title: "(.*)"',open(h).read(),re.M).group(1),C(t),images=hi,place={k:'$end' for k in hi})  # heading first, handout under it
 m.page(AP,"The Field Warden's Primer",C(fullnote(PRIMER)),images=imgs(fullnote(PRIMER)),links=[PRIM])
-m.page(AP,'Continuing: Side Quests',''.join(C('## '+os.path.basename(q)[:-3]+'\n'+fullnote(q).split('## Theme')[0]) for q in sorted(glob.glob(os.path.join(SRC,'Side Quests','*.md')))))
+m.page(AP,'Continuing: Side Quests',''.join(C('## '+os.path.basename(q)[:-3]+'\n'+fullnote(q).split('## Theme')[0]) for q in sorted(glob.glob(os.path.join(SRC,'Side Quests','*.md')))),links=[m.Q(k) for k in m.QUEST])
 MAPS=['map-route-overview','map-kalbach','map-hollen-ford-relay','map-orc-camp','map-bell-tor']
 m.page(AP,'Maps','<p>Top-down ink maps for the four encounters and the route. No grid is set: calibrate it in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
 # ---- build ----

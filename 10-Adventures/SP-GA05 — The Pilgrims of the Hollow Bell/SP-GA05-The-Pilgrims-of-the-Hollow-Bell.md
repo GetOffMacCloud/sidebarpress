@@ -371,7 +371,7 @@ Back at the Field Office, the clerk reads the relay log, then the wardens' repor
 | **B**, **C**, **D** (laid down or defeated) | 90 | up to 30 (C: up to 33, not *Kalbach saved*) |
 | **E** | 0 | — |
 
-**Extra credit:** Kalbach saved +12 · the bell intact +12 · **Lore of the Gods** in the field report +9 · the relay log returned +6 · the land restored (both wells cleansed and the stag cut down) +6. Never exceed the 600-credit cap. Details in [[SP-GA05 — DM's Notes]].
+**Extra credit:** Kalbach saved +12 · the bell intact +12 · **Lore of the Gods** in the field report +9 · the relay log returned +6 · the land restored (both wells cleansed and the stag cut down) +6. **Lead credits** on top: The Grey Sickle's List +9 · The Copper-Torc Dead +9 · The Grave-Silver +6 · Ansgar Returns +6 (Ending B) · Grukka's Deserters +3 · Hollen Ford Must Be Manned +3, each paid when the lead is written up in the field report. Never exceed the 600-credit cap. Details in [[SP-GA05 — DM's Notes]].
 
 ### Rewards Beyond Credits
 - **The God Cards:** each card is earned as its god is learned in play (see the Lore Ladder). Players keep them.

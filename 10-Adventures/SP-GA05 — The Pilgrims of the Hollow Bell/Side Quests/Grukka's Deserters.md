@@ -6,6 +6,7 @@ publish_order: 540
 publish: true
 title: "Grukka's Deserters"
 status: seed
+lead_credit: 3
 levels: "APL 4"
 tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 ---
@@ -23,6 +24,12 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 - **Iuz's recruiters** come looking for deserters: a half-orc sergeant with a writ and a dozen loyal orcs. Grukka calls in his side of the debt.
 - Hill folk and Yati blame the orcs for every lost sheep. One accusation is true.
 - Grukka's stolen Furyondian cloak has a cut-off knight's badge. Someone in Furyondy wants to know where its owner died.
+
+## Player Lead
+Grukka One-Tusk's deserters owe the wardens a favor, and Iuz's army wants its deserters back.
+
+## Lead Credit
+**+3** on top of the session's extra credit. Earned when Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off.
 
 ## Links
 - [[Grukka One-Tusk]]. Links to **SEED-12, "The Perrenlander Recruiter"** (is the Sickle Molag's?).

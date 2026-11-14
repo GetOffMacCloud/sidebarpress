@@ -6,6 +6,7 @@ publish_order: 560
 publish: true
 title: "Hollen Ford Must Be Manned"
 status: seed
+lead_credit: 3
 levels: "APL 3–4"
 tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 ---
@@ -23,6 +24,12 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 - **Every night is a scene:** a Yati rider with news; a refugee family from the Vesve; a courier with sealed orders who isn't who she says; a fox with a lead penny in its mouth.
 - The well still needs cleansing if the wardens didn't do it.
 - The theme pays off: this time, *they* are the help that someone else is waiting for.
+
+## Player Lead
+The Hollen Ford relay has no riders and no signaller. Somebody has to hold it until Readying.
+
+## Lead Credit
+**+3** on top of the session's extra credit. Earned when the report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it.
 
 ## Links
 - [[SP-GA05 — E2 — The Hollen Ford Relay]].

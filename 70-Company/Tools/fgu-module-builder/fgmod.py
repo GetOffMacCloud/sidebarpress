@@ -25,7 +25,7 @@ class Mod:
         s.map=text_map or {}
         z=zipfile.ZipFile(os.path.join(fg_dir,'modules',srd_module)); s.srd=ET.fromstring(z.read('db.xml')).find('reference/npcdata')
         s.root=ET.Element('root',{'version':'5.1','dataversion':'20260124','release':'9|CoreRPG:7'})
-        s.cat={}; s.IMG={}; s.imgfiles=[]; s.NPC={}; s.TOK={}; s.XP={}; s.BAT={}; s.BATN={}; s.ITEM={}; s.ITEMN={}; s.SPELL={}; s.SPELLN={}; s.pages=[]
+        s.cat={}; s.IMG={}; s.imgfiles=[]; s.NPC={}; s.TOK={}; s.XP={}; s.BAT={}; s.BATN={}; s.ITEM={}; s.ITEMN={}; s.SPELL={}; s.SPELLN={}; s.QUEST={}; s.QUESTN={}; s.pages=[]
         s.LINT=[]  # regexes that must not survive into the module text (vault names, open notes)
     def t(s,x):  # apply the edition's rename map to any text
         for a,b in s.map.items(): x=x.replace(a,b)
@@ -130,6 +130,13 @@ class Mod:
         for k,v in (('castingtime',castingtime),('range',rng),('components',components),('duration',duration),('source',source)): _S(r,k,'string',v)
         _FT(r,'description',s.t(desc_xml)); fgconv.SEEN.clear()
         s.SPELL[key]='spell.'+key; s.SPELLN[key]=s.t(name)
+    # ---------- quests (Quest list: description = what the players know, gmnotes = the GM's seed, credit and links)
+    def quest(s,key,name,cr,desc_xml,gm_xml,links=()):
+        r=_S(s._cat('quest'),key); _S(r,'name','string',s.t(name)); _S(r,'cr','string',cr)
+        _FT(r,'description',s.t(desc_xml))
+        ll=''.join('<link class="%s" recordname="%s">%s</link>'%(c,rr,html.escape(l)) for c,rr,l in links)
+        _FT(r,'gmnotes',s.t(gm_xml)+('<linklist>%s</linklist>'%ll if ll else '')); fgconv.SEEN.clear()
+        s.QUEST[key]='quest.'+key; s.QUESTN[key]=s.t(name)
     # ---------- NPC spell lists (clickable spells + slot counts) from the Spellcasting trait
     def npc_spells(s,key,lookup):
         """lookup(name) -> (level, desc_text) for every spell named in the Spellcasting trait."""
@@ -162,6 +169,7 @@ class Mod:
     def I(s,k): return ('imagewindow','image.'+s.IMG[k][0],'Image: '+s.pretty(k))
     def IT(s,k): return ('item',s.ITEM[k],'Item: '+s.ITEMN[k])
     def SP(s,k): return ('power',s.SPELL[k],'Spell: '+s.SPELLN[k])
+    def Q(s,k): return ('quest',s.QUEST[k],'Quest: '+s.QUESTN[k])
     # ---------- reference manual
     def page(s,section,name,xml,images=(),links=(),place=None):
         """images: image keys for the page. place: {key: anchor} puts an image where it belongs in the text:
@@ -239,7 +247,7 @@ class Mod:
         libkey=re.sub(r'[^a-z0-9]','',s.name.lower()); le=_S(_S(s.root,'library'),libkey); le.set('static','true')
         _S(le,'categoryname','string',s.category); _S(le,'name','string',libkey); en=_S(le,'entries')
         x=_S(en,'_story_book'); _WR(x,'librarylink','reference_manual','reference.refmanualindex'); _S(x,'name','string','Book - '+s.display)
-        for tag,label in (('battle','Encounters'),('encounter','Story'),('image','Images'),('item','Items'),('npc','NPCs'),('spell','Spells')):
+        for tag,label in (('battle','Encounters'),('encounter','Story'),('image','Images'),('item','Items'),('npc','NPCs'),('quest','Quests'),('spell','Spells')):
             if tag in s.cat: x=_S(en,tag); _WR(x,'librarylink','reference_list','..'); _S(x,'name','string',label); _S(x,'recordtype','string',tag)
         ET.indent(s.root,'\t'); db=b'<?xml version="1.0" encoding="utf-8"?>\n'+ET.tostring(s.root,encoding='utf-8'); s.check(db); s.lint(db)
         d='<?xml version="1.0" encoding="utf-8"?>\n<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">\n\t<name>%s</name>\n\t<displayname>%s</displayname>\n\t<category>%s</category>\n\t<author>%s</author>\n\t<ruleset>5E</ruleset>\n</root>\n'%tuple(html.escape(x) for x in (s.name,s.display,s.category,s.author))
