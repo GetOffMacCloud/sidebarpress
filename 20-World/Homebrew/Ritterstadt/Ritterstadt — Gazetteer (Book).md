@@ -20,7 +20,7 @@ aliases: [Ritterstadt Gazetteer, RG]
 
 > *"Ritterstadt was not founded by planners. It was founded by survivors."* — the Player Gazetteer, Planting 576 CY
 
-A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepia Uplands dissolve into the Quag Mires. It is three things at once: a Perrender settlement older than its own founding legend, the home of **Greyhawk University's Ritterstadt Field Station**, and the guardian of something four people carried out of Cold Stone Keep in 565 CY. This book is everything you need to run it: its history and government, its 200 people, every building, eleven factions, the University, and the secret under all of them. You need nothing else to use it.
+A frontier town of **200 souls** on the north shore of Lake Quag, where the Sepia Uplands dissolve into the Quag Mires. It is three things at once: a Perrender settlement older than its own founding legend, the home of **Greyhawk University's Ritterstadt Field Station**, and the keeper of a sealed reliquary five Founders brought home from Cold Stone Keep in 565 CY. This book is everything you need to run it: its history and government, its 200 people, every building, eleven factions, the University, and the secret under all of them. You need nothing else to use it.
 
 **What is canon.** Ritterstadt, its people, and the University's field station are original to this book. Perrenland, Iuz, the Wolf Nomads, Iggwilv, and the wider Flanaess follow the published World of Greyhawk setting as it stands in 576 CY.
 

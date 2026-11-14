@@ -77,7 +77,7 @@ Full building-by-building detail is in [[RG-04a — Building Directory, Part 1]]
 
 ### Forge Row (dwarves)
 - [[Hogar Irongrip]] — Master of the Forge
-- [[Drunik Runevault]] — Mining Consortium factor
+- [[Drunik Runevault]] — Mining Consortium factor; the last of the Five Founders still in Ritterstadt
 - [[Brunna Deepdelve]] — assayer
 - [[Orrim Stoneweir]] — cutting foreman
 

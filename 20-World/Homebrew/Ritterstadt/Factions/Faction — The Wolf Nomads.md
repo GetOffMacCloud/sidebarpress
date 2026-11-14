@@ -51,7 +51,7 @@ The Wolf Nomads are the last people in the Sepia who still keep the shrine-tende
 
 ## History
 - **Before memory.** Flan shrine-tenders keep the sites. Their descendants become herders who keep the routes.
-- **565 CY.** The Founders re-found Ritterstadt. Outriders see the chapel stone and decide to watch.
+- **565 CY.** The Founders, back from Cold Stone Keep, re-found Ritterstadt. Outriders see the chapel stone and decide to watch.
 - **566–571 CY.** Something in the far north begins to unite the clans of the Burneal margin. The southern bands hear of it only as rumour (see [[Faction — The Velvet Shadow and the Winter Vanguard]]).
 - **576 CY.** The Bloom returns worse than any band remembers. The outriders watch the town more closely than ever. A trader, Elif Kayim, comes south to trade at Ritterstadt for the first time, carrying news from the north.
 

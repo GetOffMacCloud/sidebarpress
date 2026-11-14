@@ -14,7 +14,7 @@ Back to [[Ritterstadt — Gazetteer (Book)]] · Next → [[RG-02 — Government 
 > [!art]+ Chapter opener
 > ![[Ritterstadt rg01-opener-founders-trek.jpg|600]]
 
-Ritterstadt is a small port on the north shore of **Lake Quag**, where the Sepia Uplands come down to the water. It has been three things in its life: a fishers' waystation, a knight's hamlet, and — since the **re-founding of 565** — the town the Four Founders chose to guard what they carried out of Cold Stone Keep. The chapel's ledgers go back 87 years. The von Eisfelds have held the land for three generations. Both facts matter.
+Ritterstadt is a small port on the north shore of **Lake Quag**, where the Sepia Uplands come down to the water. It has been three things in its life: a fishers' waystation, a knight's hamlet, and — since the **re-founding of 565** — the town five Founders built on the gold of Cold Stone Keep, around a sealed reliquary everyone believes holds what they carried out of it. The chapel's ledgers go back 87 years. The von Eisfelds have held the land for three generations. Both facts matter.
 
 ## Erikasrast (489–c. 510)
 
@@ -36,21 +36,28 @@ Ritterstadt is a small port on the north shore of **Lake Quag**, where the Sepia
 
 ## The Re-founding (565)
 
-**565 — The Trek.** Four people leave Eru Tovar and strike north through the Quag Mire margin to the ruins of Cold Stone Keep. They come back to Edmund's half-empty hamlet carrying the **Fiend's Embrace** and a decision: it stays here, and so do they.
+**565 — The Trek.** Six adventurers hired in **Eru Tovar**, the Wolf Nomads' capital, strike north into the Cold Marshes for the ruins of **Cold Stone Keep**. Their prize is the **Fiend's Embrace**: a cloak flayed from the pit fiend Drokkarn, made long ago for Iggwilv the Witch-Queen, mother of Iuz. They beat a company of Iuz's mercenaries, the Fingers of Iuz, to it. At the Keep one of the six, **Eglantine Price**, an elven assassin of the Vesve, puts the cloak on, and it takes her. She is gone before the others can stop her.
 
-The Four Founders:
-- **Ritter Edmund von Eisfeld** — who had the land, the hall, and the right to say yes.
-- **Magistra Wren Calloway** — a scholar of the City of Greyhawk, Hassenrath's former student, who saw what a field station here could learn.
-- **Dagmar of Clan Brock** — a mountain dwarf engineer who rebuilt the palisade around the whole hamlet and planned the forge.
-- **Tam Hollin** — a halfling guide of the valley floors who knew the Mire margin paths.
+The five come back to Eru Tovar with the Keep's gold and without the Embrace. They travel south to Lake Quag with the **Knights of the Hart**, who had backed the expedition, and come to Ritter Edmund's half-empty hamlet with a sealed iron reliquary and a decision: they stay.
 
-**565–566.** The hamlet is re-walled: the old Ritter's palisade becomes the inner wall around the Hall, and Dagmar's new palisade rings the village, the chapel, and the shore. The landing is rebuilt as a working quay. Ritterstadt keeps its name; the town dates its charter from here.
+The Five Founders:
+- **Drunik Runevault** — a mountain dwarf of the Yatils and a priest of Boccob; the expedition's scholar.
+- **Kuruk Ironhide** — a goliath of the Yatil heights; its strong arm.
+- **Lealand Kashi** — a Rhennee wizard who knew the lake.
+- **Toaren Zoyas** — a Suel sorcerer who heard things in the Blackfrost nobody else could.
+- **Dah Voud** — the Knights of the Hart's man in the party.
+
+Ritter **Edmund von Eisfeld** had the land, the hall, and the right to say yes. He said it.
+
+**565–566.** The Founders' gold rebuilds the hamlet. The old Ritter's palisade becomes the inner wall around the Hall, and a new palisade, planned by the dwarf engineer **Dagmar of Clan Brock**, rings the village, the chapel, and the shore. The landing is rebuilt as a working quay. The Knights of the Hart raise a ring of stone **watchtowers** on the heights around the town, then ride home. Ritterstadt keeps its name; the town dates its charter from here.
 
 ## The Field Station (568–575)
 
-**568 — The Charter.** Calloway returns to the City of Greyhawk and comes back with a **Field Station Charter** from the University's Board of Regents: the station may enroll students, grant credit, and hold land for research, and the Chancellor underwrites its first five years.
+**567.** **Magistra Wren Calloway**, a scholar of the City of Greyhawk and Hassenrath's former student, comes north to see what the Founders found. She stays the winter and sees what a field station here could learn.
 
-**569 — The First Cohort.** Twelve students. Tam Hollin leads the first expedition into the Mires and is lost there.
+**568 — The Charter.** Calloway goes to the City of Greyhawk and comes back with a **Field Station Charter** from the University's Board of Regents: the station may enroll students, grant credit, and hold land for research, and the Chancellor underwrites its first five years.
+
+**569 — The First Cohort.** Twelve students. Tam Hollin, the halfling guide who brought the Founders down to the lake, leads the first expedition into the Mires and is lost there.
 
 **571.** Calloway goes south for good to sit on the Regents' Commission. **Rektor Albrecht Weissmantel** arrives as Station Warden. The Fiend's Rest opens its door. The McCockin Orchard's cider begins travelling south with the pack-merchants; within two years **Grant McCockin** is the station's largest private benefactor.
 
@@ -64,7 +71,7 @@ The Four Founders:
 
 ## The Bloom Year (576)
 
-The Blackfrost Bloom returns. Black ice in Planting, undead closer to the wall than anyone remembers. On the night of **18 Planting** something comes out of the margin bog and breaks the eastern gate; two of the watch die holding it. The gate and forty feet of palisade are still under repair in Patchwall. **Vethkar Graun** of the Kettenhaus arrives to assess the debt. The midsummer census counts **200 souls**.
+The Blackfrost Bloom returns. Black ice in Planting, undead closer to the wall than anyone remembers. On the night of **18 Planting** something comes out of the margin bog and breaks the eastern gate; two of the watch die holding it. The gate and forty feet of palisade are still under repair in Patchwall. In spring the last of the travelling Founders ride south for good; only **Drunik Runevault** stays. **Vethkar Graun** of the Kettenhaus arrives to assess the debt. The midsummer census counts **200 souls**.
 
 ## Year by Year
 
@@ -76,7 +83,8 @@ The Blackfrost Bloom returns. Black ice in Planting, undead closer to the wall t
 | 525–536 | The Silent Years — eleven years without ledger entries |
 | c. 536 | Hassenrath winters here, donates the window, walks north |
 | c. 548 | Gerhard dies; Edmund inherits and goes errant |
-| 565 | The Trek; the Fiend's Embrace; the Four Founders re-found the town; Dagmar's palisade |
+| 565 | The Trek to Cold Stone Keep; the Embrace taken by Eglantine; the Five Founders re-found the town; Dagmar's palisade; the Knights of the Hart raise the watchtowers |
+| 567 | Wren Calloway comes north |
 | 568 | Field Station Charter from the Board of Regents |
 | 569 | First cohort; Tam Hollin lost in the Mires |
 | 571 | Calloway south to the Regents; Weissmantel arrives; the Fiend's Rest opens; McCockin cider goes south |
@@ -84,16 +92,18 @@ The Blackfrost Bloom returns. Black ice in Planting, undead closer to the wall t
 | 573 | Kettenhaus *Schuldbrief* against the timber rights |
 | 574 | Moot chartered; eight departments; Hogar Irongrip takes the Forge |
 | 575 | Rhennee winter at the quay; the Larch kin-band arrives; population passes 150 |
-| 576 | Blackfrost Bloom; eastern gate breached 18 Planting; census 200; Graun arrives |
+| 576 | Blackfrost Bloom; eastern gate breached 18 Planting; the Founders ride south, Drunik stays; census 200; Graun arrives |
 
 ## Hooks
 - The Silent Years: Hanz was there. He is the only one left who knows.
 - Tam Hollin's third map, never recovered, marked a dry path to Cold Stone Keep.
+- Nobody in town has ever seen inside the Founders' reliquary. Drunik Runevault changes the subject.
 - Dagmar's palisade plans show a fifth bastion that was never built — on the Wachturm rise.
 - The locked study in the Ritter's Hall was Gerhard's before it was Edmund's.
 
 > [!danger] DM Eyes Only
 > - **The Silent Years.** Old Ritter Gerhard believed the Flan songs that something valuable lay under the Wachturm, and from 525 he dug beside its foundation. The hamlet emptied around him. In 536 the digging stopped — something in the shaft made it stop — and the villagers who were left, Hanz among them, backfilled it. It is his "Kammer." Gerhard lived another twelve years and never went near the tower again. Hassenrath arrived that same winter of 536, which is not a coincidence.
 > - **The locked study** holds Gerhard's journal of the dig. Edmund read it in 565 and agreed to the Founders' plan because of it.
+> - **The reliquary is empty.** Eglantine Price put the Embrace on at Cold Stone Keep and vanished with it. The Founders came home with gold and a sealed iron box with nothing in it, and let the world believe otherwise: if Iuz thought the cloak sat under a frontier tower, his hounds would watch the tower and not hunt their friend. Edmund knew. The other Founders knew. Calloway did not.
 > - **Node 4** of the binding network was a mound on the line of the Velverdyva trade road. A Furyondian road crew levelled it in **571 CY** without knowing what it was. See [[RG-10 — DM Companion]] § *The Ground Beneath*.
-> - **The Founders' bargain.** Calloway's charter was granted because she promised the Regents the Fiend's Embrace would come to the City of Greyhawk "when safely movable." It never has. See [[RG-06 — Factions]].
+> - **The Founders' bargain.** Calloway's charter was granted because she promised the Regents the Fiend's Embrace would come to the City of Greyhawk "when safely movable." She believed it was in the reliquary. It never has come, because it was never there. See [[RG-06 — Factions]].

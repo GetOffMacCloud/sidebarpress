@@ -28,6 +28,7 @@ This chapter is the **quick reference**: where things are and what each building
 Ritterstadt is a lake port on the north shore of **Lake Quag**, where the Sepia Uplands come down to the water.
 - **The quay** lies below the town on the shore: the Rhennee barges, the tally-house, the smokehouse.
 - **Dagmar's palisade** (565) rings the town, the chapel, and the shore. The **eastern gate** has been timber-and-rope since 18 Planting.
+- **The Hart towers.** A ring of stone watchtowers on the heights around the town, raised by the Knights of the Hart in 565. The garrison keeps a few manned; the rest stand empty.
 - **The Ritter's Hall** stands inside its own older palisade (Gerhard's, c. 510), the town's inner wall, with an iron-banded gate onto the **village square**. The **Guardhouse** is built against its eastern side; the **Station House** stands beside it.
 - **The Wachturm** rises at the **northern edge** of the village, the oldest thing in Ritterstadt, its bell on the roof.
 - **The Farmsteads** — eleven longhouses and the **Big Barn** — lie between the Hall and **the Mill**, which sits at the **southern edge** where a cold stream cuts down a limestone gully.

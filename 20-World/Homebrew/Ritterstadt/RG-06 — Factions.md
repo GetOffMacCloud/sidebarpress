@@ -52,7 +52,7 @@ Eleven factions have a stake in Ritterstadt, the University, or what lies under 
 
 **Public face.** None of their own: a traveller, a trader, a clerk, a soldier. In Ritterstadt, **Ewald Wennerberg**, the garrison's reliable second watch leader.
 **What they say they want.** Whatever the cover says.
-**What they actually want.** The Fiend's Embrace, recovered or destroyed: a bound fragment of the Abyssal domain of Iuz's father, worth more to the Old One's cult as a relic than as a weapon. Anything the University learns about the Wachturm. And a town weak enough that it cannot stop them.
+**What they actually want.** The Fiend's Embrace, recovered or destroyed: the pit-fiend cloak made for Iggwilv, Iuz's mother, worth more to the Old One's cult as a relic than as a weapon. They believe it is in the Founders' reliquary. Anything the University learns about the Wachturm. And a town weak enough that it cannot stop them.
 **Tools.** A chain of dead-drops running south through the Wolf Nomad borderlands, active since the mid-560s; a handler at Kottsmort; patience. A second, separate operation, Kermin Mind-Bender's tether-mages, works the lake trade after a different prize.
 **Allies and enemies.** Enemies of the Regents, the Old Kerk, and the druids; competitors of the Pale Ledger; leverage over the Bargemen.
 → [[Faction — The Agents of Iuz]]
@@ -102,7 +102,7 @@ Eleven factions have a stake in Ritterstadt, the University, or what lies under 
 
 **Public face.** The Board of Regents' standing committee on field stations and antiquities. It funds Ritterstadt's grants, prints its best Publications, and confirms its Warden. Its envoy, **Commissioner Lucan Dray**, arrives every second year to audit the station and leaves with a crate.
 **What they say they want.** A productive field station, graduates for the Cantons' hire, and the University's name on every map of the north.
-**What they actually want.** The Fiend's Embrace, which Calloway promised them in 568 "when safely movable," and the 10% of every relic their grant clause entitles them to. They are not villains; they are patrons who have decided that a sealed demonic fragment is safer in the City of Greyhawk than behind a frontier palisade, and they are prepared to be right about that by force of paperwork.
+**What they actually want.** The Fiend's Embrace, which Calloway promised them in 568 "when safely movable" and which they believe sits in the Founders' sealed reliquary, and the 10% of every relic their grant clause entitles them to. They are not villains; they are patrons who have decided that a sealed demonic fragment is safer in the City of Greyhawk than behind a frontier palisade, and they are prepared to be right about that by force of paperwork.
 **Tools.** The second commission seal (see [[RG-04 — Buildings & Services]]), the grant purse, the Warden's appointment, and the Curio Club, which they quietly tolerate as a collection arm.
 **Allies and enemies.** Allied with Calloway's memory and the Chancellor's office; rivals of the druid enclave; useful to Varek Doss; a danger to the Ritter's independence.
 → [[Faction — The Regents' Commission]]
@@ -179,6 +179,7 @@ Eleven factions have a stake in Ritterstadt, the University, or what lies under 
 - Baba Yeska offers passage to Traft at half toll in exchange for a night's silence.
 
 > [!danger] DM Eyes Only
+> - **The reliquary is empty.** Eglantine Price, one of the six who went to Cold Stone Keep, walked away wearing the Embrace in 565 and became the Velvet Shadow. The Regents, the Chancellor, Doss, and Iuz are all after an empty box. See [[RG-10 — DM Companion]] § *Where the Embrace is*.
 > - **The Regents and the Embrace.** Commissioner Dray carries the second seal and a commission already drafted: *Recover and convey the object held at Ritterstadt under the Founders' Compact.* He has not used it because the Chancellor, [[Chancellor Adalwin Adenauer]], has not yet said the word. The Chancellor is waiting for Doss's assessment of whether moving the Embrace is survivable.
 > - **The Regents and the Chancellor's crate.** The Commission also wants a sealed crate the Chancellor sent north in 574 brought back south. The Chancellor refuses and has told Vogelsang to stall. Dray saw the crate land in Patchwall 574. The quarrel, and what is in the crate, are the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*.
 > - **Two of Iuz's operations.** Ewald's Kottsmort network is one. The other, run by Kermin Mind-Bender, is after the Chancellor's crate; it is the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*. Neither knows the other is in town.

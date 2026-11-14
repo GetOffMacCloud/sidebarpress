@@ -73,4 +73,4 @@ He just needs to be frightened in the right direction first.
 > [!danger] DM Eyes Only
 > - **If the party meets him first** (on the road, in Traft, by letter), they can make him an ally. **If they don't,** he arrives with his own agenda and starts work that speeds up the very collapse he is studying.
 > - **What he doesn't know:** what the network contains. He suspects it is large, old, and bad in the way things sealed by a coalition older than civilization tend to be. He is right (see [[RG-10 — DM Companion]] § *The Ground Beneath*).
-> - **If he tells the Chancellor "yes,"** the second seal is used within the season.
+> - **If he tells the Chancellor "yes,"** the second seal is used within the season, and the reliquary is found empty. Doss is the one person in this chapter who would find that more interesting than the cloak.

@@ -21,7 +21,7 @@ Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]
 | | |
 |---|---|
 | **Seat** | The Burneal Forest, at the frozen edge of the Land of Black Ice |
-| **Head** | **The Velvet Shadow**, a human rogue of genius, bound to an intelligent cloak |
+| **Head** | **The Velvet Shadow**: Eglantine Price, an elven assassin of the Vesve, bound to the Fiend's Embrace |
 | **Warmaster** | **Kaelen Vane, the Ashen Knight**, a hell-knight of Dis bound by infernal contract |
 | **In Ritterstadt** | Nobody. Only the rumours [[Elif Kayim]] carries south |
 | **Public face** | None. The clans who serve her do not know they have a master |
@@ -47,8 +47,8 @@ All three are true.
 - **Misdirection.** To Iuz's border commanders the whole thing looks like a squabble among chieftains. Now and then she feeds a rebellious clan to Iuz's forces to keep his inquisitors fat, complacent, and looking the wrong way.
 
 ## History
-- **566 CY.** A rogue puts on the cloak and vanishes from her companions. The cloak carries her into the Burneal.
-- **566–568 CY.** Two years of survival and madness. She learns of Tasha's buried laboratory.
+- **565 CY.** At Cold Stone Keep, Eglantine Price puts on the Fiend's Embrace and vanishes from her five companions. The cloak carries her into the Burneal. The five go on to found Ritterstadt.
+- **565–568 CY.** Two years of survival and madness. She learns of Tasha's buried laboratory.
 - **569–571 CY.** The northern clans are bound to her, one khan at a time.
 - **572–573 CY.** At a desecrated shrine she bargains with the Nine Hells. Kaelen Vane answers, signs, and forges the Winter Vanguard.
 - **574–575 CY.** Iuz is fooled.
@@ -74,8 +74,8 @@ All three are true.
 - A loremaster in Traft is found murdered, his notes on Iggwilv taken.
 
 > [!danger] DM Eyes Only
-> - **The cloak** is the flayed hide of the pit fiend **Drokkarn**, clasped at the throat by a six-fingered hand worked in obsidian. Drokkarn's ego still rides inside it. She is the first wearer clever enough to out-think it, and it does not yet understand that the hand it chose means to skin it.
-> - **The key walked away.** The Sanctorum's final seal needs the spiritual resonance of the companions the Shadow walked with before she fell. She spent ten years leaving a trail for them to follow north. In 576 they went south instead. *Who they were is yours to decide:* a former party of your players, a mentor's old crew, or faces from a character's backstory. If the originals are out of reach, she will look for a substitute with a similar resonance, and a party that picks up her trail becomes a candidate.
+> - **The cloak** is the **Fiend's Embrace**, the flayed hide of the pit fiend **Drokkarn**, stitched by Graz'zt as a gift for Iggwilv, clasped at the throat by a six-fingered hand worked in obsidian. Drokkarn's ego still rides inside it. She is the first wearer clever enough to out-think it, and it does not yet understand that the hand it chose means to skin it.
+> - **The key walked away.** The Sanctorum's final seal needs the spiritual resonance of the companions the Shadow walked with before she fell. They are the **Five Founders** of Ritterstadt. She spent ten years leaving a trail for them to follow north. In 576 four of them rode south instead. The fifth, **Drunik Runevault**, is still in Ritterstadt, and he is the nearest key she has. If the originals are out of reach, she will look for a substitute with a similar resonance, and a party that picks up her trail becomes a candidate.
 > - **The crack in the contract.** Kaelen Vane's price included the souls of those same companions. If she cannot deliver them, his loyalty cracks, and the party can widen it.
-> - **Why she turns toward Ritterstadt.** The binding network's failing seams are thin places of exactly the kind the cloak hunts. Her agents come south along the trade roads; the Wolf Nomad rumours are the first sign.
+> - **Why she turns toward Ritterstadt.** Drunik is there, and the binding network's failing seams are thin places of exactly the kind the cloak hunts. Her agents come south along the trade roads; the Wolf Nomad rumours are the first sign.
 > - **Advancing the threat.** Run her in three stages. *Distant*: rumours only. *Nearer*: her network reaches south (a murdered sage, a nomad in iron). *Closing*: her agents are on the frontier. Move a stage when a beat lands or the party has heard enough.

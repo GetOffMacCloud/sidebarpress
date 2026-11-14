@@ -106,7 +106,7 @@ Back to [[Ritterstadt — Gazetteer (Book)]] · ← [[RG-08 — Greyhawk Univers
 Counted among the 36 students, not the 22 staff.
 - **Oswin Kettler** (human, Senior, Cartography) — runs the Scouts & Surveyors' map archive.
 - **Rook Ashveil** (half-elf, Senior, Anthropology) — leads Polyglot Circle sessions; the Grugach student the Vesve has not forgotten.
-- **Dagmar Brockdottir** (dwarf, Senior, Military Theory) — Garrok's second on the Drill Yard; named for a Founder she has never been told was kin.
+- **Dagmar Brockdottir** (dwarf, Senior, Military Theory) — Garrok's second on the Drill Yard; named for the engineer of the palisade, whom she has never been told was kin.
 - **[[Ulf Hadric]]** (half-orc, Junior, Logistics minor) — keeps Holmgard's kit store on the Station House yard. *"Two bog poles a party. She says so, I hand them out, you bring them back."*
 
 ## Visiting
@@ -128,7 +128,7 @@ Counted among the 36 students, not the 22 staff.
 ## Hooks
 - Lecturer Falk knows whose arms are on the Hall's old shield. He is waiting to be asked by the right person.
 - Lecturer Tock has translated a line of the clay tablet and told no one, because it frightened him.
-- Dagmar Brockdottir's name is on a Founder's tools in the Wachturm's locked floor.
+- Dagmar Brockdottir's name is on Dagmar of Clan Brock's tools in the Wachturm's locked floor.
 
 > [!danger] DM Eyes Only
 > - **Vogelsang** is the Regents' Commission's man on the faculty; he reports to Dray directly and expects the Wardenship when Weissmantel resigns. He is not corrupt. He believes the Embrace should go south and that the station's job is to find things worth sending.

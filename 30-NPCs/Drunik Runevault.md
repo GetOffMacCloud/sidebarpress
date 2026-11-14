@@ -23,7 +23,7 @@ town_role: Mining Consortium Liaison — commissions and assays field specimens 
 alignment: Lawful Neutral
 disposition: Curt but fair
 shop:
-founder: false
+founder: true
 party_trust: 2
 deceased_date:
 char_alignment: Lawful Neutral
@@ -175,6 +175,9 @@ monster: Commoner
 > [!danger] DM Eyes Only
 
 ## 🕵️ Secrets & Hidden Motivations
+
+### The Last Founder (Sidebar Press ruling, 2026-11-13)
+Drunik is one of the **Five Founders** of Ritterstadt: the six who went to Cold Stone Keep from Eru Tovar in 565 came home five. **Eglantine Price** put on the Fiend's Embrace at the Keep and vanished; she is now the Velvet Shadow. The Founders came south with the Keep's gold and the Knights of the Hart, built the town, and sealed an **empty** iron reliquary on the Wachturm's locked ground floor so that Iuz would watch a tower and not hunt their friend. Kuruk, Lealand, Toaren and Dah Voud rode south in 576. Drunik stayed. He is the only person in Ritterstadt who knows the box is empty, and the nearest of the companions the Velvet Shadow needs.
 
 ### The Vein and the Wachturm
 Drunik genuinely wants the ore — the commission is real. But his private reason for re-running a survey no one had touched in two seasons is that he suspects the secondary ferrotholite vein is the same material as the Wachturm's foundation stone, which would date it four thousand years before Oeridian Ritterstadt. He will not file this until he is certain, because of what it would invite.

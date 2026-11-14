@@ -35,7 +35,7 @@ Perrenland has eight cantons (*Living Greyhawk Gazetteer*). The four that touch 
 | Hold | Clan | Stance | Trade | Standing irregularity |
 |---|---|---|---|---|
 | **Bitter Pass** (2½ days W) | Clan Irongrip | Autonomous; grudging coexistence; 40–60 guards | Buys bog iron, sells finished steel; never explains prices | [[Hogar Irongrip]], an exile, runs the University's forge. Neither side has formally noticed. |
-| **Brock's Aerie** (3 days WSW) | Clan Brock | Autonomous; watchers of the western approach; 30–50 guards | Information and metal; declassifies border reports in part | Dagmar of Clan Brock was a Founder. The Aerie has never acknowledged it. [[Brunna Deepdelve]] at the Assay House is Clan Brock and writes home. |
+| **Brock's Aerie** (3 days WSW) | Clan Brock | Autonomous; watchers of the western approach; 30–50 guards | Information and metal; declassifies border reports in part | Dagmar of Clan Brock planned the Founders' palisade. The Aerie has never acknowledged it. [[Brunna Deepdelve]] at the Assay House is Clan Brock and writes home. |
 
 **Never ask a Clatspur dwarf about Bitter Pass politics.** The University has a standing rule and a standing fine.
 
@@ -51,7 +51,7 @@ The sylvan elves at the Larch camp came down from the Vesve border in 575 after 
 | **Horstham** | ~3 days SW | 200–400 (seasonal) | Iron-mining town; tough, unimpressed | Rival for bog iron; buys the University's assays |
 | **Vostren** | ~4 days E | ~150 | Valley settlement; gnome trade point | The Seam-Finders' charts come through here |
 | **Traft** | ~4 days S | ~400 | Last market town before the Clatspurs | Everything goes through Traft, and the Kettenhaus takes a cut |
-| **Eru Tovar** | far S | — | Where the Founders left from | Varek Doss's home |
+| **Eru Tovar** | north, in the Wolf Nomad lands | — | The Wolf Nomads' capital; where the Founders' trek began | Varek Doss's home |
 
 ## The Wolf Nomads
 The eastern Sepia is their ancestral ground; their routes run south in autumn and north in late spring along the network nodes they no longer have words for. They have never traded at Ritterstadt. **Elif Kayim**'s arrival would be the first time, and the kin-band's rumours would come with the furs. See the campaign Faction Dossiers for how to bring them in — through the standing stones at G5, respectfully, overnight.

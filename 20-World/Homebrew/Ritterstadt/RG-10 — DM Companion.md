@@ -90,7 +90,10 @@ Eleven years is long enough that the threat is not panic, and short enough that 
 6. A practitioner who can do the work: the druids, a Wolf Nomad band leader, a Flan-blooded character, or the party once it knows enough. The Beckenhauses are an unwitting shrine-tender line; Kurt, with guidance, could learn.
 
 ### The Wachturm and the Embrace
-Iuz's scholar believes the Wachturm's binding apparatus and the Fiend's Embrace are connected. He is not entirely wrong. This book leaves the exact connection to you. One reading: the Founders brought the Embrace here because a working binding was the safest place in the north to keep it, and the binding has been holding both ever since. If so, the network will notice the day the Embrace leaves the palisade.
+Iuz's scholar believes the Wachturm's binding apparatus and the Fiend's Embrace are connected. He is wrong, and usefully so: the Embrace has never been in Ritterstadt. The Founders' sealed reliquary sits on the Wachturm's locked ground floor and holds nothing. Every faction that wants the Embrace is circling an empty box on top of a failing binding, and the first one to open the box will learn two things at once: the cloak is gone, and the five people who know where it went founded this town.
+
+### Where the Embrace is
+On Eglantine Price's back, in the Burneal Forest. She is the **Velvet Shadow** (see [[Faction — The Velvet Shadow and the Winter Vanguard]]). The Sanctorum's last seal needs the resonance of the companions she walked with in 565: the Five Founders. Four rode south in 576. One, Drunik Runevault, is still in Ritterstadt.
 
 ## The Secrets, by Layer
 
@@ -113,6 +116,7 @@ Reveal from the top down.
 
 **Layer 3 — The University's bargain.**
 - Calloway's charter promised the Regents the Fiend's Embrace "when safely movable." The Regents' Commission holds a second seal and a drafted commission to recover it.
+- **The Founders' reliquary is empty.** Eglantine Price walked out of Cold Stone Keep wearing the Embrace in 565. The Founders let the world believe it came home sealed, to keep Iuz watching a tower instead of hunting her. Only Drunik Runevault, of the Founders still here, knows.
 - Chancellor Adalwin Adenauer is waiting on Varek Doss's assessment before giving the word.
 - Vogelsang reports to Commissioner Dray and expects the Wardenship.
 - The Registrar's sealed files hold AR-001, Hassenrath's second notebook, the charter correspondence, and since 574 the Chancellor's crate. The Commission wants the crate south; the Chancellor does not. See the GQ adventure series, beginning with *GQ0 The Shadow on the Quag*.
@@ -151,7 +155,7 @@ Reveal from the top down.
 
 ## Hooks by Faction (one adventure seed each)
 
-- **Regents' Commission:** Dray's audit year. The party is commissioned under the second seal to "inventory the Founders' Compact items." Do they do the job, or warn the Warden?
+- **Regents' Commission:** Dray's audit year. The party is commissioned under the second seal to "inventory the Founders' Compact items." The reliquary is empty. Do they report it, or warn Drunik?
 - **Pale Ledger:** Yusuf's cloth bolt is stolen on the Traft road by bandits who find a calfskin ledger they can't read.
 - **Grey Sickle:** ash circles appear on Peat-cutters' Row the week the Larch barrows thaw.
 - **Quag Bargemen:** Quagflood's harbour-reeve seizes a barge; the party finds the northbound crate aboard.
