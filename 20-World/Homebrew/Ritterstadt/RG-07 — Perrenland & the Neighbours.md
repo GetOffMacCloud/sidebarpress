@@ -47,14 +47,14 @@ The sylvan elves at the Larch camp came down from the Vesve border in 575 after 
 | Place | Distance | Souls | Character | Relationship |
 |---|---|---|---|---|
 | **Kottsmort** | ~25 miles E | 60–80 | Trapper's outpost; the closest news of the northern bog | Furs and amber west; news both ways. Iuz's handler for Ewald sits here. |
-| **Kalbach** | ~15 miles SE (a day's walk) | 40–60 | Sheep hamlet of turf-roofed houses around a stone well; a churchyard, a sexton (Udo Pfaff), Yati drovers passing through | Sells wool and mutton to the station; the first stop on the drove road toward Hollen Ford and Carn Aedh ([[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]). *Table canon (Sidebar Press), not Greyhawk canon.* |
+| **Kalbach** | ~15 miles SE (a day's walk) | 40–60 | Sheep hamlet of turf-roofed houses around a stone well; a churchyard, a sexton (Udo Pfaff), Yati drovers passing through | Sells wool and mutton to the station; the first stop on the drove road toward Hollen Ford and Carn Aedh ([[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]). *Sidebar Press original, not Greyhawk canon.* |
 | **Horstham** | ~3 days SW | 200–400 (seasonal) | Iron-mining town; tough, unimpressed | Rival for bog iron; buys the University's assays |
 | **Vostren** | ~4 days E | ~150 | Valley settlement; gnome trade point | The Seam-Finders' charts come through here |
 | **Traft** | ~4 days S | ~400 | Last market town before the Clatspurs | Everything goes through Traft, and the Kettenhaus takes a cut |
 | **Eru Tovar** | north, in the Wolf Nomad lands | — | The Wolf Nomads' capital; where the Founders' trek began | Varek Doss's home |
 
 ## The Wolf Nomads
-The eastern Sepia is their ancestral ground; their routes run south in autumn and north in late spring along the network nodes they no longer have words for. They have never traded at Ritterstadt. **Elif Kayim**'s arrival would be the first time, and the kin-band's rumours would come with the furs. See the campaign Faction Dossiers for how to bring them in — through the standing stones at G5, respectfully, overnight.
+The eastern Sepia is their ancestral ground; their routes run south in autumn and north in late spring along the network nodes they no longer have words for. They have never traded at Ritterstadt. **Elif Kayim**'s arrival would be the first time, and the kin-band's rumours would come with the furs. See [[Faction — The Wolf Nomads]] for how to bring them in: through the stone circle on the high moor, respectfully, overnight.
 
 ## The Chakyik (Tiger Nomads)
 Beyond the Wolves, west and north around the Yatils. In the winter of 576 a University field party carried a parley to Ilkhan Cligir at Yecha ([[SP-GA01-The-False-Arrow]]). Whatever came of it, the station now has a name among the Chakyik, and the Wolf Nomads know it.

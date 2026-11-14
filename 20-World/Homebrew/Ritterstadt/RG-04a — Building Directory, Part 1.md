@@ -61,6 +61,9 @@ Each entry gives: **Outside** (a read-aloud), **Inside** (keyed spaces), **Propr
 - **The back room** behind the hearth: one long table, tallow candles, and Drunik Runevault's survey map pinned to the wall with a mining pick. Briefings and debriefs happen here.
 - **Rooms** upstairs for travellers and pack-merchants (Mistress Vehlda Brett of Verbobonc when she's in town).
 
+> [!art]+ Karet, Keeper of the Board
+> ![[Ritterstadt karet.jpg|300]]
+
 **Proprietor.** [[Karet]] — observant, dry, unflappable. She pours, cooks, lets the rooms, and runs the Board. She coined "Sharkenbearnado," which the University has formally deprecated and failed to suppress. Her ale comes from Malzer's Brewhouse on Market Hill.
 
 **Hours.** From midmorning until the last party home.

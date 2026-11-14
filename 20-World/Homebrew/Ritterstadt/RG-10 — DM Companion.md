@@ -50,7 +50,7 @@ The network runs at about **15%** of its design capacity.
 | Node | Where | State |
 |---|---|---|
 | **1. The Wachturm** | Ritterstadt, on the Rustrock Escarpment | **Leaking.** The anchor stone, a fist-sized piece of black basalt carved with Ur-Flan notation, is missing from its socket. Without it the pressure bleeds as a deep, sub-audible resonance that draws predators and agitates spirits. |
-| **2. The Flan Waymark** | Hex E3, an incised monolith in the escarpment face; under the Eisfeld timber rights | **Degraded.** Anchor cracked; binding script worn. Repairable with the tablet's schematic and a skilled hand. |
+| **2. The Flan Waymark** | An incised monolith in the escarpment face; under the Eisfeld timber rights | **Degraded.** Anchor cracked; binding script worn. Repairable with the tablet's schematic and a skilled hand. |
 | **3. The Quag margin** | About 11 miles NE, under Baba Yeska's salt pan | **Unknown.** Submerged about fifty years ago. Two University students, Osa Veld and Renn Farr, went that way and have not come back. |
 | **4. The road mound** | On the line of the Velverdyva trade road | **Destroyed.** Levelled in 571 by a Furyondian road crew clearing a mound. Cannot be repaired; its load must be carried another way. |
 | **5 and 6.** | Unknown; probably the southeastern Sepia toward the Vesve, and beyond the Rust Seams to the north | **Unlocated.** Their positions are on the clay tablet. |

@@ -33,11 +33,11 @@ Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]]
 
 ## How They Operate
 - **The routes.** Every band rides the same seasonal paths its grandparents rode. The paths run from one old site to the next. The nomads call them "the ancestor routes" and can no longer say why they matter, only that they must be kept.
-- **The prohibitions.** The standing stones at the moor circle (G5) are not to be touched on certain nights of the year. The Wachturm is "the place that must not be opened": exact words, carried in song, with no explanation left attached.
+- **The prohibitions.** The standing stones at the moor circle are not to be touched on certain nights of the year. The Wachturm is "the place that must not be opened": exact words, carried in song, with no explanation left attached.
 - **Watching.** The outriders saw the chapel's foundation stone the year the Founders came. They know the old Flan carving on it and what it marks. That is why they have never raided Ritterstadt.
 
 ## Bringing Them In
-Nobody meets a band by riding up to it. The way in is the stone circle at G5:
+Nobody meets a band by riding up to it. The way in is the stone circle on the high moor:
 1. Go to the stones and do not touch them.
 2. Spend the night there.
 3. Wait.

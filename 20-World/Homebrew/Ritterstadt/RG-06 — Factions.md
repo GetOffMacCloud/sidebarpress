@@ -28,8 +28,8 @@ Eleven factions have a stake in Ritterstadt, the University, or what lies under 
 
 **Public face.** Herders who ride the eastern Sepia south in autumn and north in late spring, hostile to fences and unwilling to talk. Their outriders have watched Ritterstadt from the high moor every autumn since 565. **Elif Kayim**, a trader, is on the road south: the first of his people ever to trade here.
 **What they say they want.** Nothing. Outriders do not explain themselves to settlers.
-**What they actually want.** Recognition, not land. Their routes run from one old Flan site to the next, and they still keep the prohibitions: the stones at G5 are not touched on certain nights, and the Wachturm is "the place that must not be opened." They have never raided Ritterstadt because they saw the chapel's foundation stone and know what it marks. They want someone in town to know it too. And they want the Bloom stopped: every Bloom year is worse, and the Quag is spreading.
-**Tools.** Horses, the moor, and an oral tradition nobody else has. A party that spends a respectful night at the G5 stones without touching them is met by an outrider within two days.
+**What they actually want.** Recognition, not land. Their routes run from one old Flan site to the next, and they still keep the prohibitions: the moor-circle stones are not touched on certain nights, and the Wachturm is "the place that must not be opened." They have never raided Ritterstadt because they saw the chapel's foundation stone and know what it marks. They want someone in town to know it too. And they want the Bloom stopped: every Bloom year is worse, and the Quag is spreading.
+**Tools.** Horses, the moor, and an oral tradition nobody else has. A party that spends a respectful night at the moor-circle stones without touching them is met by an outrider within two days.
 **Allies and enemies.** Watching everyone; allied with no one. Enemies of the Grey Sickle, though neither knows it.
 → [[Faction — The Wolf Nomads]]
 
@@ -126,7 +126,7 @@ Eleven factions have a stake in Ritterstadt, the University, or what lies under 
 
 **Public face.** There is no public face in Ritterstadt yet. A funeral mendicant of Wee Jas passed through in Harvester and asked the Vater which of the dead had no graves.
 **What they say they want.** Nothing. They are not here.
-**What they actually want.** The Sepia Uplands are full of old graves on old nodes, and the cell that opened the Hound-Mother's barrow at the Dreadverge ([[SP-GA02-The-Bones-of-the-Dreadverge]]) has a list. The Flan judgment circle at Hex G5 and the barrows under the Larch tree line are on it. Their interest in the binding network is practical: a degrading seal is a door.
+**What they actually want.** The Sepia Uplands are full of old graves on old nodes, and the cell that opened the Hound-Mother's barrow at the Dreadverge ([[SP-GA02-The-Bones-of-the-Dreadverge]]) has a list. The Flan judgment circle on the high moor and the barrows under the Larch tree line are on it. Their interest in the binding network is practical: a degrading seal is a door.
 **Tools.** Patience, ash circles on doors, and the fact that a priest of the dead is welcome where the dead outnumber the living.
 **Allies and enemies.** Enemies of the druid enclave and the Wolf Nomads, though neither knows it yet. They would find Iuz's agents useful and be used by them in turn.
 → [[Faction — The Grey Sickle]]

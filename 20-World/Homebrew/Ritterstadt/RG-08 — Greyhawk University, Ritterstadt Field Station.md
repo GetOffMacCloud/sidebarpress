@@ -71,9 +71,9 @@ Each offers a Major, two Minors, and hosts student organizations.
 
 ## Students
 
-**Enrollment.** Anyone the Registrar admits. The station's test is survival, not pedigree; the Chancellor's office prefers it did not say so in print. Admission costs a signature on the Scholar's Oath and a **first-term bond of 80 marks**, paid in coin or, if coin is short, worked off as a term on the labour levy (the Drill Yard, the Archive and the gate rota, alongside the Probationers' usual duties). The bond is the one place the University takes marks; it is held by the Bursar and does not convert to credits. *(Figure set in [[SP-GA00-Nobodys-Colors]], 2026-10-23.)*
+**Enrollment.** Anyone the Registrar admits. The station's test is survival, not pedigree; the Chancellor's office prefers it did not say so in print. Admission costs a signature on the Scholar's Oath and a **first-term bond of 80 marks**, paid in coin or, if coin is short, worked off as a term on the labour levy (the Drill Yard, the Archive and the gate rota, alongside the Probationers' usual duties). The bond is the one place the University takes marks; it is held by the Bursar and does not convert to credits.
 
-**Progression.** Students advance by **level**, and the Registrar's **Tuition & Leveling Table** (campaign canon) prices each step in credits.
+**Progression.** Students advance by **level**, and the Registrar's **Tuition & Leveling Table** prices each step in credits.
 - **Probationer** — levels 1–2. Admitted, not yet enrolled on the Board. Works the Drill Yard, the Archive, and the gate rota. Quests only in company with an enrolled party.
 - **Freshman** — level 3. Undeclared. Attends lectures anywhere.
 - **Sophomore** — level 4. Declares a **Major**; first boon.
@@ -97,7 +97,7 @@ Two **semesters** make a year. For play, a semester turns over after **four sanc
 Heard by the Proctor, confirmed by the Warden. Fines in credits; suspension from the Board; expulsion, which returns a student to the Ritter's law as a private person. Standing offences: pocketing Bloom crystals unlogged; taking a map from the Archive without the Scouts' countersign; selling research property; drawing steel inside the palisade; asking a Clatspur dwarf about Bitter Pass politics.
 
 ## Student Life
-- **Organizations** (campaign canon): the Scouts & Surveyors, the Ramblers' Fellowship, the Polyglot Circle, the Historical Society, the Illuminators' Guild, the Fencing Club, the Curio Club, and the rest listed in `Extracurricular Organizations`. One club per student.
+- **Organizations:** the Scouts & Surveyors, the Ramblers' Fellowship, the Polyglot Circle, the Historical Society, the Illuminators' Guild, the Fencing Club, the Curio Club, and a dozen smaller societies. One club per student.
 - **Lodging:** the Long Dormitory, forty bunks. Married students and the senior three lodge in town.
 - **Mess:** the Fiend's Rest after dark; mutton, always mutton.
 - **Rivalries:** the Scouts and the Fencing Club over which discipline keeps parties alive; Antiquities and Letters & Cultures over the Historical Society's archive; Arcane Studies and everyone over lab space.

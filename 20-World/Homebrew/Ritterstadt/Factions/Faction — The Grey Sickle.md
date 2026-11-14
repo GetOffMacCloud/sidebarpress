@@ -29,7 +29,7 @@ Back to [[RG-06 — Factions]] · [[Ritterstadt — Gazetteer (Book)]] · First 
 
 ## What They Want
 - **Said:** nothing. They are not here.
-- **Meant:** to open the Sepia's old graves on old nodes and raise their guardians as a host for Nerull. The Flan judgment circle at Hex G5 and the barrows under the Larch tree line are on their list. A degrading seal is a door.
+- **Meant:** to open the Sepia's old graves on old nodes and raise their guardians as a host for Nerull. The Flan judgment circle on the high moor and the barrows under the Larch tree line are on their list. A degrading seal is a door.
 
 ## How They Operate
 - A mendicant arrives, blesses grieving doors with circles of ash, and asks which of the dead have no graves.
@@ -42,7 +42,7 @@ A cell of Nerull's faithful gathered in Schwartzenbruin around funerary work —
 ## History
 - **Before 576 CY.** The cell works quietly in the south: tending the unburied, copying barrow-lore, waiting. Its patience is its liturgy.
 - **576 CY.** The cell opens the Hound-Mother's barrow at the Dreadverge (see [[SP-GA02-The-Bones-of-the-Dreadverge]]). Brother Ashlock leads; a Sister of the cell is named in his letter. It works.
-- **576 CY.** A Historical Society member copies barrow-lore he doesn't understand; the Illuminators fair-copy it; Hesta Varnholm makes a second. The Sickle has its list: the Flan judgment circle at Hex G5, the barrows under the Larch tree line, and more.
+- **576 CY.** A Historical Society member copies barrow-lore he doesn't understand; the Illuminators fair-copy it; Hesta Varnholm makes a second. The Sickle has its list: the Flan judgment circle on the high moor, the barrows under the Larch tree line, and more.
 - **Harvester 576 CY.** A funeral mendicant of Wee Jas passes through Ritterstadt, asks the Vater which of the dead have no graves, and moves on. Reconnaissance, in a cassock.
 - **576 CY.** A sergeant of the Yatil Mountaineers' free company becomes the cell's first man in town — though the town doesn't know it.
 

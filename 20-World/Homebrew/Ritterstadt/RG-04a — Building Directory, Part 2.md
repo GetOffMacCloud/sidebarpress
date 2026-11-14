@@ -211,6 +211,9 @@ Gnome-cut rooms under Market Hill. **Proprietors:** [[Nessa Quillfeather]] (the 
 > [!art]+ The Larch Camp
 > ![[Ritterstadt larch-camp.jpg|500]]
 
+> [!art]+ Caelith of the Larch
+> ![[Ritterstadt caelith.jpg|300]]
+
 Outside the east gate at the tree line. **Proprietor:** [[Caelith of the Larch]], kin-leader; [[Ysmay Larchwind]] teaches archery and woodcraft for grain. Bow-staves 2 gp; never arrows. See [[The Larch Camp]].
 
 ### 30. The Landing (the quay)

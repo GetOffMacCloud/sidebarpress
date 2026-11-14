@@ -51,7 +51,10 @@ Full building-by-building detail is in [[RG-04a — Building Directory, Part 1]]
 - [[Vogt Ruprecht Ackermann]] — Vogt, steward and magistrate
 - [[Hauptmann Hildegard Stahlwulf]] — captain of the garrison
 - [[Ewald Wennerberg]] — soldier of the garrison; see his file
-- [[Gunter Hellsing]] · [[Detlef Fellmann]] · [[Wendel Klagenbach]] — residents; roles per their campaign notes
+- [[Gunter Hellsing]] — Konstabler, sergeant of the watch; a border veteran who keeps the Guardhouse roster
+- [[Wendel Klagenbach]] — the night watch's youngest soldier, on duty the night the Guardhouse was robbed
+- [[Annelise Volker]] — clerk of the Ritter's accounts under the Vogt; approves nothing without a signed requisition
+- [[Sigmund Holt]] — University field scholar lodged at the Hall; reviews research filings for the City of Greyhawk, not for the Warden
 
 ### The Chapel, the Inns, and the Old Village
 - [[Vater Sigmund Wolfherz]] — Pholtine chaplain, keeper of the ledgers
@@ -61,7 +64,7 @@ Full building-by-building detail is in [[RG-04a — Building Directory, Part 1]]
 - [[Brunhilde Hammerschlag]] — village smith
 - [[Dietrich Hammerschlag]] — deceased
 - [[Kurt Beckenhaus]] — farmer of the Beckenhaus longhouse
-- [[Tamera of the Hushmark]] · [[Annelise Volker]] · [[Sigmund Holt]] — residents; roles per their campaign notes
+- [[Detlef Fellmann]] — furrier at the drying racks outside the east gate; buys pelts from students and pays in University credits
 - **Grant McCockin**, **Winifred Simmons**, and their household — the McCockin Orchard
 - [[Jakob Renner]] — farmer, Reeve of Fields
 - [[Old Hebe Strasser]] — midwife and layer-out
@@ -126,4 +129,5 @@ See [[RG-09 — Faculty & Staff Roster]]. Visiting: [[Professor Wilhelmina Brand
 > [!danger] DM Eyes Only
 > - **The two tieflings** are Baba Yeska's grandchildren. The barge-families say their mother was taken by the Mires in 575. She went north with Iuz's recruiter.
 > - **The "retired factor"** behind the Grey Wolf is Hesta Varnholm's handler. See the Pale Ledger in [[RG-06 — Factions]].
+> - **The orchard haunt.** The McCockin cider-house has a ghost nobody counts: [[Tamera of the Hushmark]], a Flan apprentice stone-setter who died at the Waymark four thousand years ago, before anyone performed her release. A University field party finished the rite, and she followed them home. She can read Waymark script aloud without knowing what it means, which makes her the most valuable primary source in the Sepia.
 > - **The grain discrepancy** resolves to the Larch kin-band: they trade bow-staves to Hamund Malzer for barley and grain off the book, because the Moot won't enroll a household that lives outside the wall. Jakob Renner knows and lets it ride.
