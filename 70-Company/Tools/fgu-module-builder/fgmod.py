@@ -144,14 +144,24 @@ class Mod:
         if not tr: return
         txt=tr[0].findtext('desc'); L=e.find('spells')
         if L is None: L=_S(e,'spells')
-        n=len(L)
+        n=len(L); mine=[]
         for m in re.finditer(r'^(Cantrips|(\d)(?:st|nd|rd|th) level) \(([^)]*)\): (.*)$',txt,re.M):
             lvl=0 if m.group(1)=='Cantrips' else int(m.group(2))
             tag='Cantrip (At will)' if lvl==0 else '%s level (%s)'%(m.group(1).split(' ')[0],m.group(3))
             for sp in [x.strip() for x in m.group(4).split(',') if x.strip()]:
                 nm=re.sub(r'\s*\(ritual\)','',sp); _,desc=lookup(nm)
                 n+=1; it=_S(L,ids(n)); _S(it,'desc','string',desc); _S(it,'name','string','%s - %s'%(nm.title().replace("'S","'s"),tag))
+                hb=[k for k,v in s.SPELLN.items() if v.lower()==nm.lower()]
+                if hb: mine.append((hb[0],lvl))
         s._slots(e)
+        # NPC spell entries are plain strings and can't hold links, so link the module's own spells from the NPC's notes.
+        tx=e.find('text')
+        if mine and tx is not None:
+            ordn=lambda l:{1:'1st',2:'2nd',3:'3rd'}.get(l,'%dth'%l)
+            p=ET.SubElement(tx,'p'); b=ET.SubElement(p,'b'); b.text='Spells' ; b.tail=' (Sidebar Press homebrew; click for the full spell):'
+            ll=ET.SubElement(tx,'linklist')
+            for k,l in mine:
+                a=ET.SubElement(ll,'link',{'class':'power','recordname':s.SPELL[k]}); a.text='Spell: %s (%s)'%(s.SPELLN[k],ordn(l) if l else 'cantrip')
     def _slots(s,e):
         """Fill spellslots from 'Nth level (N slots)' lines so FGU tracks them (the SRD copies ship with 0)."""
         txt=' '.join(x.findtext('desc') or '' for x in (e.find('traits') if e.find('traits') is not None else []) if x.findtext('name')=='Spellcasting')
