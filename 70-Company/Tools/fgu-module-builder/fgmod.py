@@ -4,6 +4,8 @@ story-book exports (class story_book_page_advanced). See the fgu-module-build sk
 import os,re,html,copy,zipfile,glob
 import xml.etree.ElementTree as ET
 import fgconv
+def _stale(out,src):  # rebuild a cached image when it is missing or the source art changed
+    return not os.path.exists(out) or os.path.getmtime(src)>os.path.getmtime(out)
 from fgconv import conv, body, sections
 
 def _S(p,tag,typ=None,text=None):
@@ -43,8 +45,8 @@ class Mod:
             out=os.path.join(s.img,n+'.webp')
             if n in keep_original or ext.lower()=='.webp':
                 out=os.path.join(s.img,f)
-                if not os.path.exists(out): open(out,'wb').write(open(os.path.join(src_dir,f),'rb').read())
-            elif not os.path.exists(out):
+                if _stale(out,os.path.join(src_dir,f)): open(out,'wb').write(open(os.path.join(src_dir,f),'rb').read())
+            elif _stale(out,os.path.join(src_dir,f)):
                 im=Image.open(os.path.join(src_dir,f))
                 if im.mode not in ('RGB','RGBA'): im=im.convert('RGB')
                 im.save(out,'WEBP',quality=88 if n.startswith('battlemap') else 82,method=4)

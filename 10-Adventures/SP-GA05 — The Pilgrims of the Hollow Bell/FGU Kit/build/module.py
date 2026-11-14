@@ -38,6 +38,12 @@ def ikey(f):  # vault asset file name -> module image key
 for f in glob.glob(os.path.join(ASSETS,'*','*')):
     k=ikey(os.path.basename(f)); dst=os.path.join(FLAT,k+os.path.splitext(f)[1].lower())
     if os.path.isfile(f) and k not in EXCLUDE_IMAGES and (not os.path.exists(dst) or os.path.getmtime(f)>os.path.getmtime(dst)): shutil.copyfile(f,dst)  # skip folders; refresh changed art
+# The finished cover (title + Sidebar Press logo) is the module cover and thumbnail; the bare painting stays as 'cover-art'.
+_fc=os.path.join(VAULT,'99-Assets','_Covers','Cover — '+NAME.split(' ',1)[1]+'.png')
+for x in glob.glob(os.path.join(FLAT,'cover.*')):
+    if x.endswith('cover.png'): os.remove(x); continue  # our own copy from a previous run
+    os.replace(x,os.path.join(FLAT,'cover-art'+os.path.splitext(x)[1]))
+shutil.copyfile(_fc,os.path.join(FLAT,'cover.png'))
 m=Mod(NAME,DISPLAY,'Sidebar Press','Sidebar Press',FG,WORK,text_map=TEXT_MAP)
 m.images(FLAT)
 P=lambda pat: glob.glob(os.path.join(SRC,pat))[0]
