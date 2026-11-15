@@ -164,24 +164,27 @@ Full table in **§6 Encounter math**.
 Nine creatures need new blocks. They are presented as Obsidian callouts; FG Import Text blocks get generated from these after you approve them.
 
 > [!example]- Magman — CR 1 (200 XP) · Area 10 ×5, 11 ×4, 23 ×5, 28 ×4, wandering 1d12
-> *Medium elemental, chaotic neutral*
-> **Armor Class** 13 (natural armor) · **Hit Points** 26 (4d8 + 8) · **Speed** 25 ft., swim 15 ft. (lava and magma only)
+> *Small elemental, chaotic neutral*
+> **Armor Class** 13 (natural armor) · **Hit Points** 26 (4d6 + 12) · **Speed** 25 ft., swim 15 ft. (lava and magma only)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | 14 (+2) | 12 (+1) | 15 (+2) | 8 (−1) | 10 (+0) | 6 (−2) |
+> | 14 (+2) | 12 (+1) | 16 (+3) | 6 (−2) | 10 (+0) | 6 (−2) |
 >
 > **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > **Damage Immunities** fire
-> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** Ignan · **Challenge** 1 (200 XP) · **Proficiency Bonus** +2
+> **Senses** darkvision 60 ft., passive Perception 10 · **Languages** understands Ignan but speaks no Prime language · **Challenge** 1 (200 XP) · **Proficiency Bonus** +2
 >
 > ***Melting Body.*** A nonmagical weapon, or a weapon with a +1 bonus, that hits the magman melts: after dealing damage it takes a permanent, cumulative −1 penalty to damage rolls, and it is destroyed when the penalty reaches −5. Nonmagical ammunition that hits is destroyed.
 > ***Combustion.*** Flammable objects the magman touches that aren't being worn or carried catch fire.
+> ***Bonfire Heat (MM2).*** It radiates heat like a small bonfire and sheds dim light for 10 ft.
+> ***Lava-Bound (MM2).*** Out of lava for more than 6 hours, it stiffens and can't move until returned to it.
 >
 > **Actions**
-> ***Combustion Touch.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 13 (3d8) fire damage.
+> ***Combustion Touch.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 13 (3d8) fire damage. A creature hit **catches fire** (MM2): it takes **4 (1d8) fire** at the start of each of its turns for **1d4 + 2 rounds**, or until it or a creature within reach spends an action to put the flames out. Flammable gear it carries burns too.
 >
 > **Conversion note.** 1e: AC 6, MV 9"/6", HD 2, 3d8 combustion touch, +1 weapons to hit, weapons under +2 melt. **The 3d8 carries straight across**, which is the right damage for CR 1–2. The low CR comes from defence: 26 HP with resistance.
+> **✅ Checked against *Monster Manual II* (p. 82), 2026-11-15.** MM2: AC 6, MV 9" (6"), HD 2, combustion touch 3–24, **the victim burns for 1–8 a round for 3–6 rounds** (added), +1 or better weapon to hit, immune to fire, **any weapon below +2 that touches one melts** (🔒 kept as the gentler cumulative −1 rule, 2026-11-15), **size S (3')** (fixed; it was Medium), low intelligence, CN, no Prime languages. MM2 magmen are mischievous rather than murderous: they **run when hurt** unless cornered. **C12 overrides that**: six centuries trapped, they fight to the death (p. 14). With the burning added, its damage per round sits near CR 2, but its low defence keeps it at **CR 1**.
 
 > [!example]- Caryatid Column — CR 2 (450 XP) · Areas 4–5, one per alcove (four total)
 > *Medium construct, unaligned*
@@ -210,43 +213,49 @@ Nine creatures need new blocks. They are presented as Obsidian callouts; FG Impo
 > **✅ Checked against the *Fiend Folio* (p. 18), 2026-11-15.** FF: AC 5, MV 6", **22 hit points (fixed)**, one sword attack for 2–8 striking as a 5 HD monster, **all saving throws at +4**, normal weapons do half damage, magic weapons full damage without their bonus. Height 7' as a pillar, shrinking to about 5½' as it animates and takes on the look of a fair young maiden. Created like a stone golem, by a 16th-level magic-user. **Weapon breakage in the FF:** *any* weapon, magical or not, that hits has a 25% chance to snap, **minus 5% per plus** (a +4 sword: 5%). A magic weapon with no plus counts as +1. 🔒 **Adopted** (D5, revised 2026-11-15). The module's 2d4+2 (the FF's 2–8 plus its sword's +2) is kept.
 
 > [!example]- Harginn Grue — CR 2 (450 XP) · Area 13 ×4, wandering 1d2
-> *Medium elemental, neutral evil*
+> *Medium elemental (shapechanger), neutral evil*
 > **Armor Class** 15 (natural armor) · **Hit Points** 39 (6d8 + 12) · **Speed** 50 ft.
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | 16 (+3) | 16 (+3) | 14 (+2) | 6 (−2) | 12 (+1) | 6 (−2) |
+> | 16 (+3) | 16 (+3) | 14 (+2) | 12 (+1) | 12 (+1) | 8 (−1) |
 >
 > **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 > **Damage Immunities** fire
 > **Senses** darkvision 60 ft., passive Perception 11 · **Languages** Ignan · **Challenge** 2 (450 XP) · **Proficiency Bonus** +2
 >
-> ***Flame Eater.*** The grue is immune to spells that deal fire damage. When such a spell targets the grue or includes it in its area, the spell is dispelled and has no effect on any creature. A magical fire effect the grue enters (such as *wall of fire* or *flaming sphere*) ends.
+> ***Flame Eater (MM2).*** The grue is immune to spells that deal fire damage. **Any fire spell or magical fire effect within 20 ft of the grue is dispelled, even a permanent one** (such as *wall of fire*, *flaming sphere* or a fire trap). A spell cast with the grue in its area or as its target simply fails. **Fire from magic items is unaffected** (MM2).
+> ***Shapechanger (MM2).*** As an action, it takes the form of a bonfire, an 8-ft column of fire, a flame-legged humanoid (its true form) or a bronze statue. While motionless as a bonfire or statue, it is indistinguishable from the real thing.
 > ***Blinking.*** The grue flickers in and out of sight. Attack rolls against it have disadvantage unless it is incapacitated. (It doesn't move, so the Temple's marble doesn't stop it.)
 >
 > **Actions**
-> ***Searing Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+> ***Gout of Flame (MM2).*** A gout of fire from its fingertips fills a **5-ft-wide, 10-ft line**. Each creature in it makes a **DC 13 Dexterity save**, taking **10 (2d6 + 3) fire** on a failure or half as much on a success.
 >
-> **Conversion note.** 1e (via 2e grue): AC 3, MV 15", HD 4+4, 1d4+4, +1 weapons to hit, dispels fire spells, blinking. **Flame Eater is the danger to plan around:** a caster who opens with *fireball* loses the spell entirely. FG can't automate it; use a label-only effect: `Flame Eater - fire spells touching me are dispelled`.
+> **Conversion note.** 1e (via 2e grue): AC 3, MV 15", HD 4+4, 1d4+4, +1 weapons to hit, dispels fire spells, blinking. **Flame Eater is the danger to plan around:** a caster who opens with *fireball* loses the spell entirely.
+> **✅ Checked against *Monster Manual II* (p. 73), 2026-11-15.** The harginn ("flame horror") is an MM2 elemental grue: AC 3, MV 15", HD 4+4, **one attack of 5–8 that is a gout of flame filling an area 3 ft wide and 6 ft long** (rebuilt as a line attack; it was a single-target claw), +1 or better weapon to hit, immune to fire-based spells, and **its presence within 20 ft dispels fire magic, even permanent effects; magic items are unaffected** (Flame Eater widened to match). Shapes: bonfire, column of fire, humanoid, bronze statue (added). **Average to high intelligence** (Int fixed from 6 to 12). NE. ⚠️ **MM2's blink is the 1e *blink* spell, a short random teleport, which the Temple's marble would block (ledger M1).** The module's own statline still lists *Blinking* in the Temple, so the in-place flicker (disadvantage on attacks) is kept as the conversion of that. FG can't automate it; use a label-only effect: `Flame Eater - fire spells touching me are dispelled`.
 
 > [!example]- Fire Bat — CR 1/4 (50 XP) · Area 16 ×12, wandering 1d6
-> *Tiny elemental, neutral evil*
-> **Armor Class** 12 · **Hit Points** 10 (3d4 + 3) · **Speed** 5 ft., fly 60 ft.
+> *Small elemental, neutral evil*
+> **Armor Class** 12 · **Hit Points** 11 (2d6 + 4) · **Speed** 5 ft., fly 60 ft.
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | 4 (−3) | 15 (+2) | 12 (+1) | 2 (−4) | 12 (+1) | 6 (−2) |
+> | 6 (−2) | 15 (+2) | 14 (+2) | 6 (−2) | 12 (+1) | 6 (−2) |
 >
 > **Damage Immunities** fire
-> **Senses** blindsight 60 ft., passive Perception 11 · **Languages** — · **Challenge** 1/4 (50 XP) · **Proficiency Bonus** +2
+> **Senses** blindsight 60 ft. (sees invisible creatures), darkvision 60 ft., passive Perception 11 · **Languages** — · **Challenge** 1/4 (50 XP) · **Proficiency Bonus** +2
 >
 > ***Flyby.*** The bat doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 > ***Echolocation.*** The bat can't use its blindsight while deafened.
+> ***Pack Hunters (MM2).*** The colony spreads its attacks evenly across a group. When fewer than a quarter of the starting bats remain, the rest flee to their lair; cornered there, they fight to the death.
+> ***Doused (MM2).*** At least 10 gallons of cool water on one bat (*create or destroy water* is enough) puts it out for 10 rounds: it can't fly, and its bite deals only 2 (1d4) fire.
+> ***Return to Fire.*** When it dies, it bursts into flame and its body vanishes back to the Elemental Plane of Fire.
 >
 > **Actions**
-> ***Burning Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) fire damage.
+> ***Burning Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) fire damage, and the bat **attaches** (MM2). While attached it doesn't attack; instead, at the start of each of its turns, the target **automatically takes 5 (2d4) fire** from burning and blood loss. After two such turns (three rounds of damage in all) it drops off, sated, and flies home. A creature can pull it off with an action and a DC 12 Strength check.
 >
 > **Conversion note.** 1e: AC 8, MV 6"/20", HD 2, 2d4, immune to fire. The 2d4 carries straight across.
+> **✅ Checked against *Monster Manual II* (p. 16), 2026-11-15.** MM2: size **S** (2' body, wingspan nearly 4'; changed from Tiny), **semi-intelligent**, NE. It **attaches on a hit and burns automatically for three rounds in all, then drops off sated** (added). It sees invisible creatures by sonar and infravision, isn't harmed by sunlight, flees as a colony below 25% strength, is doused by 10 gallons of cool water, and is allied to fire elementals (it never attacks one). Lair treasure is gems, especially rubies, jacinths and carnelians, which fits Area 16's carnelian and jacinth. Each bat's damage over three rounds is now about 15, so it sits at the top of **CR 1/4**.
 
 > [!example]- Phantom Stalker — CR 3 (700 XP) · Area 19 ×3, wandering 1d2
 > *Large elemental, neutral evil (FF: neutral; the module's are maddened)*
@@ -283,19 +292,22 @@ Nine creatures need new blocks. They are presented as Obsidian callouts; FG Impo
 > |---|---|---|---|---|---|
 > | 18 (+4) | 8 (−1) | 16 (+3) | 3 (−4) | 10 (+0) | 1 (−5) |
 >
-> **Damage Resistances** piercing and slashing
+> **Damage Resistances** piercing and slashing; cold, fire, and lightning damage from spells
 > **Damage Immunities** poison, psychic; damage from nonmagical ranged weapon attacks
 > **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-> **Senses** darkvision 60 ft., *see invisibility* (always active), passive Perception 10 · **Languages** — · **Challenge** 3 (700 XP) · **Proficiency Bonus** +2
+> **Senses** darkvision 60 ft., *see invisibility* (always active; module, and MM2 when built with *detect invisibility*), passive Perception 10 · **Languages** — · **Challenge** 3 (700 XP) · **Proficiency Bonus** +2
 >
 > ***Mosaic Body.*** The guardian forms from the floor mosaic in 1 round when its trigger is met. It won't leave the room.
-> ***Spell Warding.*** The guardian has advantage on saving throws against spells.
+> ***Mindless (MM2).*** It never makes Intelligence, Wisdom or Charisma saving throws against charm, fear, hold or paralysis effects; they simply fail.
+> ***Stone Vulnerability (MM2).*** *Stone to flesh* (or *flesh to stone* reversed), *transmute rock* (to mud), *stone shape*, and any spell that digs through stone **destroy it instantly**.
+> ***Fails to Heed (MM2: 20%).*** When it first animates, roll a d10. On a 1–2 it ignores its instructions and attacks every creature in sight, Xuel or not.
 >
 > **Actions**
 > ***Multiattack.*** The guardian makes two fist attacks.
 > ***Fist.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) bludgeoning damage.
 >
 > **Conversion note.** 1e: AC 2, MV 10", HD 4+4, 1d8+1 ×2, **¼ damage from edged weapons**, immune to normal missiles, many spell immunities, sees invisible. **¼ damage becomes resistance**; 5e has no quarter step.
+> **✅ Checked against *Monster Manual II* (p. 115), 2026-11-15.** MM2: AC 2, MV 10", HD 4+4, fists 2–9/2–9 (= 1d8+1, matches), **¼ damage from edged weapons**, normal missiles can't harm it, **half damage from cold, fire and electrical spells** (added; replaces the invented *Spell Warding*), can't be poisoned, held, charmed, paralysed or frightened, attacks until destroyed, **killed instantly by stone to flesh, transmute rock to mud, stone shape or dig** (added), and a **20% chance on activation of disobeying and attacking anything** (added). Size 75% M / 25% L. It is built from mud with a heart of stone, using *enchant an item*, *transmute mud to rock*, *magic mouth*, *detect invisibility* and *limited wish*. A special **ring of protection from stone guardians** makes its wearer and everyone within 10 ft immune to its attacks; none is placed in C12. CR stays **3**.
 
 > [!example]- Swordwraith (Naskin and Yrsi ad-Laar) — CR 5 (1,800 XP) each · Area 32
 > *Medium undead, lawful evil*
