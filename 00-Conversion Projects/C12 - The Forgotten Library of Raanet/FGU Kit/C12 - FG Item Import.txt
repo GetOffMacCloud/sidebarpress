@@ -1,0 +1,555 @@
+Name: Castellan's Breastplate
+Non-Identified Name: Steel breastplate
+Type: Armor
+Subtype: Medium Armor
+Rarity: Very Rare
+Weight: 20
+AC Base: 14
+Bonus: 2
+Description: Breastplate +2. You have a +2 bonus to AC while wearing this armor. Its wearer counts as proficient with it even without medium armor proficiency (it protects as elfin chain +2). C12 Area 8, on the Castellan's rack. Worn with the Castellan's Raptor Helm, it lets the helm's wearer see invisibility.
+DM Only: C12 Area 8. 1e: breastplate that protects as elfin chain mail +2.
+Version: Legacy
+
+Name: Castellan's Raptor Helm
+Non-Identified Name: Feathered steel helm
+Type: Wondrous Item
+Rarity: Uncommon
+Weight: 3
+Description: (Requires attunement.) A steel helm crested with the feathers of a great raptor. While you wear it together with the Castellan's Breastplate, you can cast see invisibility on yourself three times per day; each casting lasts 1 minute and lets you see invisible creatures and objects only within 30 feet.
+DM Only: C12 Area 8. 1e: see invisible 3/day at a range of 3 inches, only when worn with the breastplate.
+Version: Legacy
+
+Name: Shortsword of Sharpness
+Non-Identified Name: Fine Xuel shortsword
+Type: Weapon
+Subtype: Martial Melee Weapons
+Rarity: Very Rare
+Weight: 2
+Damage: 1d6 slashing
+Properties: Finesse, Light
+Description: (Requires attunement.) This Xuel shortsword deals slashing damage rather than piercing, so it can carry a sword of sharpness enchantment. When you attack an object with it and hit, maximize its weapon damage dice against the target. When you attack a creature with it and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead. In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
+DM Only: C12 Area 8, Castellan's rack. Strikes the Area 3 fire elemental (it counts as magical).
+Version: Legacy
+
+Name: Ornate Silver Dagger -1
+Non-Identified Name: Ornate silver dagger
+Type: Weapon
+Subtype: Simple Melee Weapons
+Rarity: Uncommon
+Weight: 1
+Bonus: -1
+Damage: 1d4 piercing
+Properties: Finesse, Light, Thrown (range 20/60)
+Description: (Requires attunement.) A silvered dagger of beautiful workmanship. You take a -1 penalty to attack and damage rolls made with it. Curse. Once you attune to it, you can't voluntarily part with it, and whenever you draw a weapon you draw this dagger. Remove curse ends the attunement and the curse.
+DM Only: C12 Area 9, at the bottom of the Oubliette. 1e cursed dagger -1. Identify does not reveal the curse.
+Version: Legacy
+
+Name: Xuel Gold Coin
+Type: Treasure
+Rarity: Common
+Cost: 50 gp
+Weight: 0.02
+Description: A gold coin of the drowned Xuel Imperium, struck before the Rain of Invisible Flame. Worth 50 gp to a numismatist or collector of Xuel antiquities.
+DM Only: C12. Enter Xuel coins as items, never in a coin field: Area 8 (10), Area 9 (27), Area 13 (250), Area 15 (240), Area 32 (120).
+Version: Legacy
+
+Name: Robe of Raanet's Faithful
+Type: Adventuring Gear
+Rarity: Common
+Weight: 4
+Description: A loose black-and-red robe in the manner of a toga, worn by the faithful of Raanet. Anyone wearing it (or accompanied by someone wearing it) can enter the alcoves of the Historiums (Areas 4 and 5) without triggering the wall of stone or waking the caryatid columns.
+DM Only: C12 Area 6, two sets on the bench.
+Version: Legacy
+
+Name: Lyre of Building
+Non-Identified Name: Lyre with three broken strings
+Type: Wondrous Item
+Rarity: Rare
+Weight: 2
+Description: This lyre can't be told from an ordinary instrument, or from an instrument of the bards, until it is played. It doesn't work until its three broken strings are replaced (a DC 15 check with a musical instrument or tinker's tools, or 50 gp at a luthier). Protect (1/day). As a reaction, playing it negates, for constructions only, the effect of a horn of blasting, a disintegrate spell, or up to 6 minutes of an earth elemental's attack on a structure. Build (1/week). 30 minutes of playing does the work of 100 laborers for 3 days: buildings, mines, tunnels, ditches. False chord. Each use, roll a d20; on a 1-4 the effect is negated. If the player is proficient with the lyre, only a 1 negates it. If the player takes damage or suffers a mental attack while playing, a 1-10 negates it.
+DM Only: C12 Area 11, in the wreckage of the desk. Converted from the 1e DMG.
+Version: Legacy
+
+Name: Wand of Ice Storm
+Non-Identified Name: Ancient Xuel wand
+Type: Wand
+Rarity: Rare
+Weight: 1
+Description: This wand has 10 charges and does not regain them. While holding it, you can use an action to expend 1 charge to cast ice storm (save DC 15) from it. When the last charge is used, the wand becomes an ordinary stick of carved wood. As a Xuel antique it is worth double the usual price to a collector.
+DM Only: C12 Area 13, in the strongbox. 10 charges, no recharge (1e).
+Version: Legacy
+
+Name: Potion of Levitation
+Type: Potion
+Rarity: Uncommon
+Weight: 0.5
+Description: When you drink this potion, you gain the effect of the levitate spell on yourself for 10 minutes (no concentration required).
+DM Only: C12 Area 15, in the Child of Fire's footlocker.
+Version: Legacy
+
+Name: ad-Dax's Glass Jar
+Non-Identified Name: Spice jar of silvery powder
+Type: Wondrous Item
+Rarity: Uncommon
+Weight: 15
+Description: A glass spice jar marked with the bard Ersin ad-Dax's personal rune on its base (DC 13 Investigation to notice). Its mouth stretches to admit far larger objects: it works exactly as a bag of holding (500 pounds, 64 cubic feet). When found it holds dust of disappearance (5 uses) and, invisible beneath the dust, a ring of protection.
+DM Only: C12 Area 20, the kitchen.
+Version: Legacy
+
+Name: Alabaster Wand of Fire
+Non-Identified Name: Alabaster wand
+Type: Wand
+Rarity: Rare
+Weight: 1
+Description: (Requires attunement by a spellcaster.) This wand has 7 charges and holds 5 when found. It regains 1d6 + 1 expended charges daily at dawn. It can be used once per round. Spell save DC 15. 1 charge: burning hands. 1 charge: pyrotechnics. 2 charges: fireball (8d6). 2 charges: wall of fire. Its fireball is too weak to charge a Summoning Sigil rod (10 dice of fire are needed).
+DM Only: C12 Area 22, Mariana il-Xanna's desk. Converted from the 1e DMG wand of fire.
+Version: Legacy
+
+Name: Ring of Human Influence
+Non-Identified Name: Silver and emerald ring
+Type: Ring
+Rarity: Rare
+Weight: 0
+Description: (Requires attunement.) While wearing this ring, your Charisma counts as 18 for Charisma checks made to influence humanoids (no effect if it is already higher). Once per day you can cast suggestion (save DC 15) on a humanoid you are talking with, and once per day you can cast charm person as a 5th-level spell (save DC 15, up to five humanoids).
+DM Only: C12 Area 25, urn a. Converted from the 1e DMG.
+Version: Legacy
+
+Name: Xuel Luckstone
+Non-Identified Name: Small smooth stone
+Type: Wondrous Item
+Rarity: Uncommon
+Weight: 0
+Description: (Requires attunement.) For a worshipper of the Xuel (Suel) pantheon, this works as a stone of good luck: +1 to ability checks and saving throws. For anyone else it is a cursed stone of weight: your speed drops by 10 feet, and you can't rid yourself of it until it is the target of remove curse.
+DM Only: C12 Area 25, urn c.
+Version: Legacy
+
+Name: Soldier's Sword Charm
+Non-Identified Name: Miniature sword
+Type: Weapon
+Subtype: Martial Melee Weapons
+Rarity: Rare
+Weight: 3
+Bonus: 2
+Damage: 1d8 slashing
+Properties: Versatile (1d10)
+Description: A tiny sword charm. In the hand of a fighter, paladin or ranger it expands into a longsword +2 (+2 bonus to attack and damage rolls). In anyone else's hand it stays a charm.
+DM Only: C12 Area 25, urn g. 1e: broadsword +2 for a fighter or subclass.
+Version: Legacy
+
+Name: Holy Symbol of Raanet
+Non-Identified Name: Painted flame holy symbol
+Type: Wondrous Item
+Rarity: Rare
+Weight: 1
+Description: (Requires attunement by a devotee of Raanet.) You gain a +1 bonus to AC and saving throws while wearing this holy symbol. The bonus stacks with other protective magic items. It also serves as a holy symbol.
+DM Only: C12 Area 25, urn h. 1e ring of protection +2 that stacks; 5e caps it at +1.
+Version: Legacy
+
+Name: Bountiful Cornucopia
+Non-Identified Name: Ceramic cornucopia figurine
+Type: Wondrous Item
+Rarity: Very Rare
+Weight: 0.5
+Description: A 2-inch ceramic figurine painted with cheeses, grains, fruits, meats and vegetables. Three times per day, by concentrating on your hunger, you create 12 cubic feet of food and drink of the finest quality, enough to feed 36 humanoids or 12 horses for a day. Each use produces at least one food and one drink, chosen at random. If you try a fourth use in a day, it produces nothing and its magic is ruined forever: the painted food vanishes from the figurine.
+DM Only: C12 Area 30, among the wights. Module Appendix A.
+Version: Legacy
+
+Name: Xuel Longsword +2
+Non-Identified Name: Xuel bastard sword
+Type: Weapon
+Subtype: Martial Melee Weapons
+Rarity: Rare
+Weight: 3
+Bonus: 2
+Damage: 1d8 slashing
+Properties: Versatile (1d10)
+Description: A bastard sword of the Xuel Imperium. You have a +2 bonus to attack and damage rolls made with this magic weapon. As a Xuel antique it is worth double the usual price to a collector.
+DM Only: C12 Area 32, one each wielded by Naskin and Yrsi ad-Laar.
+Version: Legacy
+
+Name: Xuel Chain Shirt +1
+Type: Armor
+Subtype: Medium Armor
+Rarity: Rare
+Weight: 20
+AC Base: 13
+Bonus: 1
+Description: A chain shirt of the Xuel Imperium. You have a +1 bonus to AC while wearing this armor. Worth double the usual price to a collector.
+DM Only: C12 Area 32, worn by Naskin ad-Laar.
+Version: Legacy
+
+Name: Xuel Shield +2
+Type: Armor
+Subtype: Shield
+Rarity: Rare
+Weight: 6
+AC Base: 2
+Bonus: 2
+Description: A small metal shield of the Xuel Imperium. While holding it, you have a +2 bonus to AC in addition to the shield's normal bonus. Worth double the usual price to a collector.
+DM Only: C12 Area 32, carried by Yrsi ad-Laar.
+Version: Legacy
+
+Name: Flail +2
+Type: Weapon
+Subtype: Martial Melee Weapons
+Rarity: Rare
+Weight: 2
+Bonus: 2
+Damage: 1d8 bludgeoning
+Description: You have a +2 bonus to attack and damage rolls made with this magic weapon.
+DM Only: C12 Area 13 (the Bellows' rack) and Area 33 (Anras il-Fruztii's dresser). 1e footman's flail +2.
+Version: Legacy
+
+Name: Dagger +2
+Type: Weapon
+Subtype: Simple Melee Weapons
+Rarity: Rare
+Weight: 1
+Bonus: 2
+Damage: 1d4 piercing
+Properties: Finesse, Light, Thrown (range 20/60)
+Description: You have a +2 bonus to attack and damage rolls made with this magic weapon.
+DM Only: C12 Area 22, Mariana il-Xanna's dresser.
+Version: Legacy
+
+Name: Summoning Sigil Rod (charged)
+Non-Identified Name: Glowing ruby rod
+Type: Wondrous Item
+Rarity: Artifact
+Weight: 1
+Description: A wand-length rod of pure ruby that glows as if with an inner fire. It is one of the four pieces of il-Xanna's Summoning Sigil, a Xuel matrix. Touched end to end, the rods fuse into their appointed shape. Placed whole and empowered on the pedestal in Area 34, the Sigil recalls the Burning Athenium to the world. It is as hard to damage as an artifact.
+DM Only: C12 Areas 13, 15 and 22 (three charged rods).
+Version: Legacy
+
+Name: Summoning Sigil Rod (quiescent)
+Non-Identified Name: Dull ruby rod
+Type: Wondrous Item
+Rarity: Artifact
+Weight: 1
+Description: A wand-length rod of pure ruby, dark and lifeless. It is one of the four pieces of il-Xanna's Summoning Sigil. It is charged in one of two ways. (1) Touch it to a creature of elemental fire of at least 8 Hit Dice (a melee attack with the rod as an improvised weapon). On a hit the creature is destroyed, no saving throw, and the rod glows. (2) Expose it to a single burst of fire damage of 10 or more dice. Once charged, it can't absorb another creature.
+DM Only: C12 Area 33, on Anras il-Fruztii's bookshelf. Eligible creatures: Keeper-of-the-Hearth, Ranzaar, Yox, Ixthasus, the wandering efreeti. Salamanders do not qualify.
+Version: Legacy
+
+Name: ad-Dax's Golden Medallion
+Type: Wondrous Item
+Rarity: Uncommon
+Cost: 100 gp
+Weight: 0.5
+Description: A heavy gold medallion, attuned to the dead bard Ersin ad-Dax and useless to anyone else. Three phantom stalkers are bound to it. Destroying it (AC 15, 5 hit points) kills all three instantly.
+DM Only: C12 Area 19, in the ashes where the table stood.
+Version: Legacy
+
+Name: Spell Scroll (Monster Summoning IV)
+Type: Scroll
+Rarity: Very Rare
+Weight: 0
+Description: A spell scroll bearing monster summoning IV (6th-level conjuration, wizard). Spell save DC 17, attack bonus +9. If the spell is on your class's list but you can't yet cast 6th-level spells, you must succeed on a DC 16 ability check using your spellcasting ability to cast it. Within 1d3 rounds, 1d3 creatures rolled on the Monster Summoning IV table appear and fight for you (concentration, up to 10 minutes). Summoning works inside the Temple Incandescent.
+DM Only: C12 Area 22. See C12 - Monster Summoning I-VII (5e). The other four spells on the Mariana scroll (comprehend languages, contact other plane, slow, wall of stone) use FG's standard Spell Scroll.
+Version: Legacy
+
+Name: Avraasha's Ember
+Type: Wondrous Item
+Rarity: Artifact
+Weight: 0
+Description: A coal that never cools, given by Avraasha, the First Servant of Raanet. Once, the bearer can speak a wish aloud to it and the wish is granted as the wish spell, with none of the stress of casting it. Separately, once in their hour of greatest need, the bearer can speak Avraasha's name three times and she will come to their aid. The ember crumbles when its wish is used.
+DM Only: C12 Epilogue. One per PC if Avraasha is calmed.
+Version: Legacy
+
+Name: Horn of Acheron
+Non-Identified Name: Iron horn
+Type: Wondrous Item
+Rarity: Very Rare
+Weight: 2
+Description: (Requires attunement by a worshipper of Wee Jas.) Three times per day, you can use an action to blow this iron horn and summon either 2d6 skeletons or 1d6 zombies (your choice). They appear within 30 feet of you, obey your commands, and remain for 1 hour or until reduced to 0 hit points. Summoning works inside the Temple Incandescent.
+DM Only: C12 pregen, Adria il-Xandra. Straight from the 1e sheet; the GM may cut it to 1/day.
+Version: Legacy
+
+Name: Ruby Skull
+Non-Identified Name: Ruby skull
+Type: Wondrous Item
+Rarity: Rare
+Weight: 1
+Description: (Requires attunement.) Once per day you can cast augury through the skull. Roll a d10 when you do; on a 1 the casting becomes commune instead.
+DM Only: C12 pregen, Adria il-Xandra.
+Version: Legacy
+
+Name: Gnome-Forged Halberd +1
+Type: Weapon
+Subtype: Martial Melee Weapons
+Rarity: Rare
+Weight: 4
+Bonus: 1
+Damage: 1d10 slashing
+Properties: Reach, Two-Handed
+Description: A halberd forged short and light for gnomish hands. You have a +1 bonus to attack and damage rolls made with this magic weapon. It lacks the Heavy property, so Small wielders suffer no disadvantage with it.
+DM Only: C12 pregen, Salok Swifthare.
+Version: Legacy
+
+Name: Potion of Rainbow Hues
+Type: Potion
+Rarity: Common
+Weight: 0.5
+Description: For 1 hour after drinking this potion, you can change the color of your skin, hair and gear at will. While motionless against a background whose color you match, you have advantage on Dexterity (Stealth) checks.
+DM Only: C12 pregen, Salok Swifthare.
+Version: Legacy
+
+Name: The Sorceress' Gaze
+Non-Identified Name: Longsword with a ruby pommel
+Type: Weapon
+Subtype: Martial Melee Weapons
+Rarity: Rare
+Weight: 3
+Bonus: 1
+Damage: 1d8 slashing
+Properties: Versatile (1d10)
+Description: You have a +1 bonus to attack and damage rolls made with this magic weapon. Once per day you can cast see invisibility on yourself from it, and once per day you can use it to sense illusions: as an action, you learn whether any illusion is within 30 feet of you and where.
+DM Only: C12 pregen, Lady Kiralee of Westburn.
+Version: Legacy
+
+Name: Handaxe of Hurling +1
+Type: Weapon
+Subtype: Simple Melee Weapons
+Rarity: Rare
+Weight: 2
+Bonus: 1
+Damage: 1d6 slashing
+Properties: Light, Thrown (range 20/60)
+Description: You have a +1 bonus to attack and damage rolls made with this magic weapon. When thrown, it deals an extra 1d6 damage and flies back to your hand immediately after the attack.
+DM Only: C12 pregen, Xaran Radavi. 1e: double damage when thrown.
+Version: Legacy
+
+Name: Horn of Fog
+Type: Wondrous Item
+Rarity: Uncommon
+Weight: 2
+Description: As an action, you can blow this horn to fill a 10-foot cube next to you with fog. The area is heavily obscured for 1 minute. Blowing it again each round adds another cube.
+DM Only: C12 pregen, Xaran Radavi.
+Version: Legacy
+
+Name: Helm of Comprehending Languages and Reading Magic
+Type: Wondrous Item
+Rarity: Uncommon
+Weight: 3
+Description: While wearing this helm, you understand any spoken language you hear and can read any written language, including the text of spell scrolls. Reading a scroll this way doesn't let you cast it.
+DM Only: C12 pregen, Creek Hareburrow. Lets him read Ancient Xuloise.
+Version: Legacy
+
+Name: Moonsight
+Non-Identified Name: Dwarven handaxe
+Type: Weapon
+Subtype: Simple Melee Weapons
+Rarity: Rare
+Weight: 2
+Bonus: 1
+Damage: 1d6 slashing
+Properties: Light, Thrown (range 20/60)
+Description: You have a +1 bonus to attack and damage rolls made with this magic weapon. Once per day, as a bonus action, you can make it shed an invisible light that only you can see: for 10 minutes you see normally in darkness, magical or nonmagical, within 30 feet.
+DM Only: C12 pregen, Merah Coldiron.
+Version: Legacy
+
+Name: Iron Star-Barrier
+Type: Treasure
+Rarity: Common
+Cost: 1,000 gp
+Weight: 200
+Description: A 2-foot-high polished iron barrier pierced with star shapes that cast the Xuel night sky on the walls. It rolls into a cylinder 2 feet thick. Worth 1,000 gp to a student of the Xuel, astronomy or astrology.
+DM Only: C12 Area 3, the Welcome Hearth.
+Version: Legacy
+
+Name: Diary of Mariana il-Xanna
+Type: Treasure
+Rarity: Common
+Cost: 15,000 gp
+Weight: 3
+Description: The personal diary of the Temple's Sovereign Magus, including her account of watching Nitorels open his passage through the Hellforges. Its last pages describe the Summoning Sigil and are smeared with blood. Worth up to 15,000 gp to a collector of Xuel history.
+DM Only: C12 Area 5. Player handout H2.
+Version: Legacy
+
+Name: Small Ruby
+Type: Treasure
+Rarity: Common
+Cost: 100 gp
+Weight: 0
+Description: A small ruby.
+DM Only: C12 Area 13, strongbox (5).
+Version: Legacy
+
+Name: Portrait by Karvik il-Xon
+Type: Treasure
+Rarity: Common
+Cost: 3,500 gp
+Weight: 15
+Description: An oil portrait of a leader of Raanet's faith by the master painter Karvik il-Xon, in a white marble frame. Worth 2,000 to 5,000 gp depending on the market.
+DM Only: C12 Area 14 (9 portraits). Values fixed at 3,500 gp each for FG.
+Version: Legacy
+
+Name: Warmed by the Flame
+Type: Treasure
+Rarity: Common
+Cost: 2,500 gp
+Weight: 5
+Description: A compilation of prayers, stories and songs of the faith of Raanet. A note from M. is tucked inside as a bookmark.
+DM Only: C12 Area 15. The note is player handout H3.
+Version: Legacy
+
+Name: Carnelian
+Type: Treasure
+Rarity: Common
+Cost: 50 gp
+Weight: 0
+Description: A carnelian.
+DM Only: C12 Area 16, fire bat nest.
+Version: Legacy
+
+Name: Jacinth
+Type: Treasure
+Rarity: Common
+Cost: 250 gp
+Weight: 0
+Description: A large jacinth.
+DM Only: C12 Area 16, fire bat nest.
+Version: Legacy
+
+Name: Silver Platters and Cutlery
+Type: Treasure
+Rarity: Common
+Cost: 100 gp
+Weight: 10
+Description: Silver platters, iron goblets and cutlery from the Temple pantry, worth 100 gp together as curios.
+DM Only: C12 Area 17.
+Version: Legacy
+
+Name: Cask of Xuel Wine
+Type: Treasure
+Rarity: Common
+Cost: 2,500 gp
+Weight: 250
+Description: A sealed wooden cask of ancient Xuel wine of excellent vintage. Worth 2,500 gp in a large city or to a private collector.
+DM Only: C12 Area 17 (2 casks).
+Version: Legacy
+
+Name: Bloodstone
+Type: Treasure
+Rarity: Common
+Cost: 50 gp
+Weight: 0
+Description: A red-flecked bloodstone.
+DM Only: C12 Area 21 gem cache (6).
+Version: Legacy
+
+Name: Carnelian (75 gp)
+Type: Treasure
+Rarity: Common
+Cost: 75 gp
+Weight: 0
+Description: A fine carnelian.
+DM Only: C12 Area 21 gem cache (4).
+Version: Legacy
+
+Name: Carnelian (100 gp)
+Type: Treasure
+Rarity: Common
+Cost: 100 gp
+Weight: 0
+Description: A large, clear carnelian.
+DM Only: C12 Area 21 gem cache (3).
+Version: Legacy
+
+Name: Jacinth (500 gp)
+Type: Treasure
+Rarity: Common
+Cost: 500 gp
+Weight: 0
+Description: A deep orange jacinth.
+DM Only: C12 Area 21 gem cache (5).
+Version: Legacy
+
+Name: Ruby (1,000 gp)
+Type: Treasure
+Rarity: Common
+Cost: 1,000 gp
+Weight: 0
+Description: A fine ruby.
+DM Only: C12 Area 21 gem cache (3).
+Version: Legacy
+
+Name: Fist-Sized Ruby
+Type: Treasure
+Rarity: Common
+Cost: 5,000 gp
+Weight: 1
+Description: A ruby the size of a fist.
+DM Only: C12 Area 21 gem cache (1).
+Version: Legacy
+
+Name: Xuel Fire Tomes
+Type: Treasure
+Rarity: Common
+Cost: 2,500 gp
+Weight: 60
+Description: A shelf of rare books on the nature of fire, as researched by Xuel magi. Worth 2,500 gp together to a student of fire magic or Xuel history.
+DM Only: C12 Area 22.
+Version: Legacy
+
+Name: Gold Slag
+Type: Treasure
+Rarity: Common
+Cost: 250 gp
+Weight: 5
+Description: A lump of melted gold that was once a pile of Xuel coins.
+DM Only: C12 Area 10.
+Version: Legacy
+
+Name: Golden Wedding Ring
+Type: Treasure
+Rarity: Common
+Cost: 100 gp
+Weight: 0
+Description: A plain gold wedding ring, one of a pair.
+DM Only: C12 Area 25, urn f (2).
+Version: Legacy
+
+Name: Golden Needle
+Type: Treasure
+Rarity: Common
+Cost: 1 gp
+Weight: 0
+Description: A tailor's golden needle.
+DM Only: C12 Area 25, urn i.
+Version: Legacy
+
+Name: Miniature Spyglass
+Type: Treasure
+Rarity: Common
+Cost: 25 gp
+Weight: 0.5
+Description: An astronomer's tiny brass spyglass.
+DM Only: C12 Area 25, urn d. Value is a conversion call.
+Version: Legacy
+
+Name: Xuel Building Tools
+Type: Treasure
+Rarity: Common
+Cost: 100 gp
+Weight: 40
+Description: A bench of post-migration Xuel tools, worth 100 gp as curios.
+DM Only: C12 Area 31.
+Version: Legacy
+
+Name: Flawed Diamond
+Type: Treasure
+Rarity: Common
+Cost: 25 gp
+Weight: 0
+Description: A tiny, flawed diamond.
+DM Only: C12 Area 32 (3).
+Version: Legacy
+
+Name: Adamantine Ring
+Type: Treasure
+Rarity: Common
+Cost: 250 gp
+Weight: 0
+Description: A ring of adamantine.
+DM Only: C12 Area 32 (2).
+Version: Legacy
