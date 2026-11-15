@@ -198,13 +198,16 @@ Nine creatures need new blocks. They are presented as Obsidian callouts; FG Impo
 >
 > ***False Appearance.*** While motionless, it is indistinguishable from a marble statue.
 > ***Dampening Stone.*** A magic weapon that hits the column deals its normal damage dice, but its bonus to attack and damage rolls doesn't apply.
-> ***Weapon Breaker.*** When a nonmagical weapon hits the column, roll a d4. On a 1 the weapon breaks.
+> ***Weapon Breaker (FF).*** When a weapon hits the column, roll a d20. It snaps on **1–5 if nonmagical, 1–4 if +1, 1–3 if +2, 1–2 if +3, or a 1 if +4**. A magic weapon with no bonus counts as +1; artifacts never break.
 > ***Robe-Bound.*** The column does not attack a creature wearing the robes of Raanet's faithful, or a creature accompanied by one.
+> ***Warded Stone (FF: all saving throws at +4).*** The column adds +4 to every saving throw.
+> ***Task-Bound (FF).*** It acts only to carry out its guarding task. It won't pursue beyond its alcove and hall. When its task ends (intruders dead or gone), it returns to its place and reverts to stone, and so does its sword. If destroyed, it turns back to stone.
 >
 > **Actions**
 > ***Concealed Sword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) slashing damage.
 >
 > **Conversion note.** 1e: AC 5, MV 6", HD 5, 2d4+2, normal weapons do half damage, magic weapons do full but without their bonus, 25% weapon breakage. **The sword's +2 is built into +7/+5** ("equivalent of +2 weapons" that become useless when the column falls). 1e breakage applied to all weapons; 5e breaks nonmagical ones only (**D5**).
+> **✅ Checked against the *Fiend Folio* (p. 18), 2026-11-15.** FF: AC 5, MV 6", **22 hit points (fixed)**, one sword attack for 2–8 striking as a 5 HD monster, **all saving throws at +4**, normal weapons do half damage, magic weapons full damage without their bonus. Height 7' as a pillar, shrinking to about 5½' as it animates and takes on the look of a fair young maiden. Created like a stone golem, by a 16th-level magic-user. **Weapon breakage in the FF:** *any* weapon, magical or not, that hits has a 25% chance to snap, **minus 5% per plus** (a +4 sword: 5%). A magic weapon with no plus counts as +1. 🔒 **Adopted** (D5, revised 2026-11-15). The module's 2d4+2 (the FF's 2–8 plus its sword's +2) is kept.
 
 > [!example]- Harginn Grue — CR 2 (450 XP) · Area 13 ×4, wandering 1d2
 > *Medium elemental, neutral evil*
@@ -246,7 +249,7 @@ Nine creatures need new blocks. They are presented as Obsidian callouts; FG Impo
 > **Conversion note.** 1e: AC 8, MV 6"/20", HD 2, 2d4, immune to fire. The 2d4 carries straight across.
 
 > [!example]- Phantom Stalker — CR 3 (700 XP) · Area 19 ×3, wandering 1d2
-> *Large elemental, neutral evil*
+> *Large elemental, neutral evil (FF: neutral; the module's are maddened)*
 > **Armor Class** 16 (natural armor) · **Hit Points** 52 (7d10 + 14) · **Speed** 30 ft., fly 60 ft.
 >
 > | STR | DEX | CON | INT | WIS | CHA |
@@ -261,14 +264,16 @@ Nine creatures need new blocks. They are presented as Obsidian callouts; FG Impo
 > ***Fire Absorption.*** Whenever the stalker would take fire damage, it takes none and instead regains 1 hit point per damage die.
 > ***Shapechanger.*** As an action, the stalker polymorphs into a Large or smaller beast or humanoid, or back into its true form. Its statistics don't change. It reverts on death.
 > ***Medallion-Bound.*** If ad-Dax's medallion is destroyed, the stalker dies instantly.
+> ***Bound Bodyguard (FF).*** A phantom stalker serves its summoner and obeys orders to the letter. If its summoner is slain, it vanishes, returns 1d4 hours later and hunts the slayer through the Ethereal Plane. ad-Dax died of age, so in C12 this is grief, not vengeance (module text).
 > ***Unseen Vigil.*** As an action, the stalker becomes invisible until it attacks or uses Self-Immolation.
 >
 > **Actions**
 > ***Multiattack.*** The stalker makes two claw attacks.
 > ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) slashing damage.
-> ***Self-Immolation.*** The stalker explodes and dies. Each creature within 20 feet of it makes a DC 13 Dexterity saving throw, taking 28 (8d6) fire damage on a failure or half as much on a success. Other phantom stalkers in the area regain 8 hit points (Fire Absorption).
+> ***Self-Immolation (FF: a last resort when its death is imminent).*** **Usable only when the stalker has 15 hit points or fewer.** The stalker explodes and dies. Each creature within 20 feet of it makes a DC 13 Dexterity saving throw, taking 28 (8d6) fire damage on a failure or half as much on a success. Other phantom stalkers in the area regain 8 hit points (Fire Absorption).
 >
 > **Conversion note.** 1e: AC 3, MV 12"/24", HD 6, 1d4/1d4, detonates as a 6 HD fireball, heals 1 hp per die of fire damage, polymorph, vulnerable to cold. **The 1e 6-dice fireball becomes the 5e 8d6 fireball**, the same conversion WotC made for the spell. ⚠️ **Unseen Vigil comes from the module's prose** ("invisible guardians", p. 20), not from its statline (**D5**).
+> **✅ Checked against the *Fiend Folio* (p. 72), 2026-11-15.** FF: AC 3, MV 12"/24" (it can fly in any shape), HD 6, claws 1–4/1–4, **impervious to fire, and magical fire heals it 1 hp per die**, saves against cold at −2 and takes +1 per die from cold (→ vulnerability), polymorph self (usually a reddish 8' humanoid with fiery eyes), size variable (usually L), semi-intelligent, **neutral**. It explodes as a 6-dice fireball **only as a last resort when its death is imminent**, and never if the blast would harm its summoner. **Two changes made:** Self-Immolation is now limited to 15 HP or fewer, and the FF's summoner-vengeance rule is added. **The FF gives phantom stalkers no invisibility.** *Unseen Vigil* comes only from the module's "invisible guardians" line, and 🔒 **it is kept for C12's stalkers** (D5, reconfirmed 2026-11-15).
 
 > [!example]- Stone Guardian — CR 3 (700 XP) · Area 25
 > *Medium construct, unaligned*
@@ -551,7 +556,7 @@ Shown so the FG parcels can be checked later. Excludes the sage-only finds, whic
 - [x] **D2 · A22 salamanders.** 🔒 **Four.** At 6 × L6, four are 171% of Deadly and five are 214%, so four is the closer of the two (2026-11-08). For reference, three would be 129% and two would be Hard. The wandering efreeti is 🔒 **a second efreeti** (§4.3).
 - [x] **D3 · Avraasha's missing powers.** 🔒 *Telekinesis* 1/day and *heal* 3/day (once calmed) added. CR unchanged (2026-11-08).
 - [x] **D4 · Item power limits.** 🔒 **Accepted as recommended** (2026-11-09): the +2 rings and cloak become +1, the ice-storm wand has 10 non-recharging charges, the dust has 5 uses, the shortsword of sharpness deals slashing damage, and Ixthasus's trident isn't treasure.
-- [x] **D5 · Abilities from the prose.** 🔒 (2026-11-09) The phantom stalkers **keep Unseen Vigil** (invisibility). The caryatids break **nonmagical weapons only**. *Monster summoning IV* becomes a **new 5e series**, [[C12 - Monster Summoning I-VII (5e)]], rebuilt from the 1e DMG Appendix M tables. The Area 22 scroll is the **fourth spell in that series**.
+- [x] **D5 · Abilities from the prose.** 🔒 (2026-11-09) The phantom stalkers **keep Unseen Vigil** (invisibility). The caryatids break weapons **by the *Fiend Folio* rule**: any weapon, less likely the higher its plus (revised 2026-11-15; the first ruling was nonmagical only). *Monster summoning IV* becomes a **new 5e series**, [[C12 - Monster Summoning I-VII (5e)]], rebuilt from the 1e DMG Appendix M tables. The Area 22 scroll is the **fourth spell in that series**.
 - [x] **D6 · "No save" traps.** 🔒 **No save on A18, A23, A26 and the A21 heat. Saves for half on A9 (DC 15 Con) and A24 (DC 15 Dex)** (2026-11-08). Applied in §3.
 - [x] **D7 · Child of Fire.** ✅ **A title passed from leader to leader.** At least three holders appear in the text: an unnamed man (built the Oubliette, A8), **Kaara ad-Karza** (A15), and **Leathri il-Varzii**, her successor and the last (A14). No edit to the module is needed. See §3, A14.
 - [x] **D8 · A15's coins.** 🔒 **240 Xuel coins at 50 gp = 12,000 gp** (2026-11-08).
