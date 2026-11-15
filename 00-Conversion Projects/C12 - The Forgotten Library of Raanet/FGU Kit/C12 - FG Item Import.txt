@@ -553,3 +553,12 @@ Weight: 0
 Description: A ring of adamantine.
 DM Only: C12 Area 32 (2).
 Version: Legacy
+
+Name: Castellan's Iron Key
+Non-Identified Name: Iron key on a great ring
+Type: Adventuring Gear
+Rarity: Common
+Weight: 0.5
+Description: A heavy iron key on a great iron ring. Touched to the south wall of the Castellan's office, it dispels the illusion hiding the secret door to the Oubliette and disarms the door's trap.
+DM Only: C12 Area 8, in the Castellan's robes. Opens the way to Area 9 safely.
+Version: Legacy

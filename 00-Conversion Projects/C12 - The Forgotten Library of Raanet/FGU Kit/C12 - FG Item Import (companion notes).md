@@ -7,13 +7,13 @@ publish: false
 ---
 # C12 - FG Item Import (companion notes)
 
-**The paste file:** `C12 - FG Item Import.txt` in this folder, for the **5E Custom Item Importer → List Import**. **58 items**, `Version: Legacy`.
+**The paste file:** `C12 - FG Item Import.txt` in this folder, for the **5E Custom Item Importer → List Import**. **59 items**, `Version: Legacy`.
 
 Machine-checked: every label is one of the importer's nineteen, there are no duplicate labels or names, every `Description:` is on one line, and the text is pure ASCII.
 
 | Group | Count | What |
 |---|---|---|
-| Module magic and plot items | 26 | The custom items, the Xuel antique weapons and armor, the Sigil rods (charged and quiescent), the medallion, the *Monster Summoning IV* scroll and *Avraasha's Ember* |
+| Module magic and plot items | 27 | The custom items, the Xuel antique weapons and armor, the Sigil rods (charged and quiescent), the medallion, the Castellan's iron key, the *Monster Summoning IV* scroll and *Avraasha's Ember* |
 | Pregen items | 9 | Horn of Acheron, Ruby Skull, Gnome-Forged Halberd +1, Potion of Rainbow Hues, The Sorceress' Gaze, Handaxe of Hurling +1, Horn of Fog, Helm of Comprehending Languages and Reading Magic, Moonsight |
 | Treasure (gems, art, goods) | 23 | Every priced treasure in the dungeon, for the parcels. Quantities are in each `DM Only:` line |
 

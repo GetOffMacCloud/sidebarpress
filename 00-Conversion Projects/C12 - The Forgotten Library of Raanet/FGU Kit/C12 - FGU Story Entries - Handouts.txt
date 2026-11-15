@@ -1,0 +1,92 @@
+C12 - FGU STORY ENTRIES - PLAYER HANDOUTS
+Create one Story entry per ENTRY below, in group HANDOUTS. Paste the text under it.
+Read-aloud and player text sits between >>>>> markers. Text is verbatim from the module.
+
+============================================================
+ENTRY NAME - H1 - The Historium Book
+GROUP - HANDOUTS
+============================================================
+WHERE - Area 4, Historium West. The book on the white marble pedestal.
+WHEN - When a character who can read Ancient Xuloise (or uses comprehend languages) reads its last page. The rest of the book tells the Temple's founding: Xuel refugees, faithful of Raanet, who stayed behind and summoned creatures of fire to ask after their silent goddess.
+[SHARE HANDOUT H1 - image or PDF]
+
+>>>>> PLAYER TEXT - HANDOUT H1 >>>>>
+...and now, all hope must surely be gone. The First Servant - she who sat to
+the right hand of the Kindly Flame - has been lost, shaken from our very midst
+in a terrible cataclysm like ten thousand peals of thunder, ten thousand more
+flashes of lightning.
+
+Vathri and Kystera were killed in the event, crushed by falling pieces of the
+temple. Now, the entirety of the Athenium is gone. Hastra, Rondil, and Xarik
+have dug through the Temple wall - clearly, to a place, where it should have
+been - but have only been met by cold, unfeeling rock. The Hearthmistress
+believes that it is no more. Perhaps she has finally managed the feat - she is
+at the side of the Kindly Flame once more. Perhaps, such was her might, that
+she took the entirety of the Athenium with her.
+
+I can only hope their meeting is joyful. And that some future yet lies ahead
+for those left behind.
+>>>>> END PLAYER TEXT >>>>>
+
+DM ONLY - The "First Servant" is Avraasha. The "Hearthmistress" is Raanet. The
+cataclysm is the Athenium tearing free of the world. Quoting this text to
+Avraasha counts as quoting Raanet's scripture (+2 to calm her).
+
+============================================================
+ENTRY NAME - H2 - The Diary of Mariana il-Xanna
+GROUP - HANDOUTS
+============================================================
+WHERE - Area 5, Historium East. The diary on the pedestal, its last pages smeared with blood.
+WHEN - When it is read in Ancient Xuloise. The rest of the diary is Mariana's account of the flight from the Imperium (worth up to 15,000 gp to a collector).
+[SHARE HANDOUT H2 - image or PDF]
+
+>>>>> PLAYER TEXT - HANDOUT H2 >>>>>
+[a wide smear of blood] ...complicated, yet effective. The device relies upon
+four pieces, which I have [illegible]. They will assemble themselves once
+touched to one another's substance.
+
+I have entrusted [illegible] of lending each device its power, as I have grown
+old and frail in the process of waiting for some sign of favor from the
+Hearth-[illegible]. I can only hope that my friends retain enough of their
+wits to activate its power. Time and tedium have frayed upon their sanities, I
+suspect. They have become quite unpredic- [the rest is illegible, except for
+the last words] - in her forever warm embrace.
+>>>>> END PLAYER TEXT >>>>>
+
+DM ONLY - The device is the Summoning Sigil: four ruby rods, three charged
+(Areas 13, 15, 22) and one quiescent (Area 33). The blood is Mariana's; one of
+the four she trusted murdered her at this desk.
+
+============================================================
+ENTRY NAME - H3 - Letter from M.
+GROUP - HANDOUTS
+============================================================
+WHERE - Area 15, the Child of Fire's footlocker. Tucked as a bookmark in the book Warmed by the Flame, above a glowing ruby rod.
+WHEN - When the book is opened. The letter is in Ancient Xuloise.
+[SHARE HANDOUT H3 - image or PDF]
+
+>>>>> PLAYER TEXT - HANDOUT H3 >>>>>
+Esteemed Child of Fire,
+
+In your hands, you hold one part of the matrix of my creation. Again, it must
+be steeped within a great fire in order to empower it. Bathing it within
+Ranzaar's substance will be more than sufficient to see to this, but if your
+companion should blanch at the notion, any potent creature of elemental fire
+would do (perhaps the Keeper-of-the-Hearth might be more amenable?).
+
+Once empowered, the matrix will assemble itself. It only need be touched to
+another portion of its divine geometry. When all four pieces are empowered and
+assembled, I firmly believe we shall be able to recall the Athenium and speak
+to Azraasha once more.
+
+I look forward to the occasion with bated breath.
+
+Forever, your friend,
+
+-M.
+>>>>> END PLAYER TEXT >>>>>
+
+DM ONLY - M. is Mariana il-Xanna, the Sovereign Magus. "Azraasha" is the
+module's own misspelling of Avraasha; keep it as written. The letter confirms
+the creature route for charging a rod: Ranzaar or the Keeper-of-the-Hearth.
+
