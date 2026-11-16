@@ -14,7 +14,7 @@ region: "Any lonely pilgrim road, crossroads abbey or old cemetery"
 in_world_date: "Any"
 created: 2026-11-16
 fg_module: "SP-OP01 What the Dead Fear"
-tags: [one-page-session, one-shot, horror, aberration, avolakia, undead, twist, november-2026]
+tags: [pocket-module, one-shot, horror, aberration, avolakia, undead, twist, november-2026]
 ---
 
 # What the Dead Fear
@@ -26,10 +26,10 @@ tags: [one-page-session, one-shot, horror, aberration, avolakia, undead, twist, 
 > A soft-spoken caretaker begs the party to clear restless dead from his catacombs. At the bottom they find the dead hiding, and they're hiding from him. Brother Ossian is an **avolakia**, an aberration of worm-flesh that wears the faces of the dead and eats undead flesh cured like meat in a cellar. He didn't hire exterminators. He hired beaters to flush his dinner out of hiding, and to stay for dessert.
 
 ## Adventure Code
-`SP-OP01` (printed **OP1**). The first of the **One-Page Sessions** line: O for open (setting-agnostic), P for one-page. One post a month, two-page spread plus a stat-block page. See `claude/module-codes.md`.
+`SP-OP01` (printed **OP1**). The first **Pocket Module**: O for open (setting-agnostic), P for Pocket Module. One post a month, two-page spread plus a stat-block page. See `claude/module-codes.md`.
 
 ## Format
-Published as the November 2026 one-page session post: a two-page spread (scenes 1–3) and a stat-block page. The posting copy lives in the Claude doc *OP1 What the Dead Fear*; these vault notes are the build source for the FGU module and any later print.
+Published as the November 2026 Pocket Module post: a two-page spread (scenes 1–3) and a stat-block page. The posting copy lives in the Claude doc *OP1 What the Dead Fear*; these vault notes are the build source for the FGU module and any later print.
 
 ## Design Frame
 - **Thesis:** The monster at the bottom of the crypt is the one who hired you.

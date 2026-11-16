@@ -1,6 +1,6 @@
 """SP-OP01 What the Dead Fear -> Fantasy Grounds module. Run: python3 module.py [--test|--install]
 Uses the shared builder in 70-Company/Tools/fgu-module-builder (see the fgu-module-build skill).
-Modeled on SP-GA05's module.py, cut down for a one-page session (3 scenes, 1 homebrew NPC, 3 encounter bands)."""
+Modeled on SP-GA05's module.py, cut down for a Pocket Module (3 scenes, 1 homebrew NPC, 3 encounter bands)."""
 import os,sys,re,glob,shutil,html,zipfile
 import xml.etree.ElementTree as ET
 HERE=os.path.dirname(os.path.abspath(__file__)); ADV=os.path.dirname(os.path.dirname(HERE)); VAULT=os.path.dirname(os.path.dirname(ADV))
@@ -102,7 +102,7 @@ SC=lambda n: P('Scenes/Scene 0%d —*.md'%n)
 B3=[m.B(c) for c in ('E1a','E1b','E1c')]+[m.B('L1')]
 for x in (CODE+' — Bestiary',CODE+' — Map Assets',CODE+' — Art Brief',CODE+' — Board','Build-Pipeline'): fgconv.SEEN.append(x)
 cover=['cover'] if has('cover') else []
-m.page(I1,'Cover','<p><b>APL 7 (levels 6–8) · 4–6 characters · one 3–4 hour session</b></p><p><i>The mortician thanks you for coming. He thanks you for everything. He never once blinks.</i></p><p>OP1 · A Sidebar Press One-Page Session · November 2026. Setting-agnostic.</p>',images=cover)
+m.page(I1,'Cover','<p><b>APL 7 (levels 6–8) · 4–6 characters · one 3–4 hour session</b></p><p><i>The mortician thanks you for coming. He thanks you for everything. He never once blinks.</i></p><p>OP1 · A Sidebar Press Pocket Module · November 2026. Setting-agnostic.</p>',images=cover)
 HOWTO=('<h>How to Use This Module</h><p>The whole adventure, in order of play: three scenes, then the ending. The fight has ready-made combat tracker entries for 4, 5 and 6 PCs, '
  'plus a <b>Larder</b> entry (Harrow and four ghouls, set to neutral) to add alongside. Every statblock is in the NPC list; the Urn is in Items.</p>'
  '<p><b>Boxed text:</b> read it as written or paraphrase it, but keep every clue. Stats are 2014 5e.</p>')

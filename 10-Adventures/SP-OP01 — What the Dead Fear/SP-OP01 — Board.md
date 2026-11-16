@@ -48,7 +48,7 @@ publish: false
 
 ## 5 · Release
 
-- [ ] November one-page session posted
+- [ ] November Pocket Module posted
 - [ ] Played at Friday Night Field Trips
 
 
