@@ -67,3 +67,16 @@ Tactical pinch points that suffer at a 10-ft grid:
 - `FGU Kit/Maps/C12 Source Map - M2 Burning Athenium (10ft grid).png`: 300-dpi extract, 2074 × 2688 px
 
 Use these as tracing references or as a stopgap FG image. They are not cleaned player versions.
+
+## Finished FG images (2026-11-16)
+
+| File | Cells (5 ft) | px/cell | Notes |
+|---|---|---|---|
+| `Maps/C12 Map - M1 Temple Incandescent (5ft grid).png` | 93 x 117 | 48 | DM: room numbers, alcove letters, S/$ secret doors |
+| `Maps/C12 Map - M1 Temple Incandescent (5ft grid, Player).png` | 93 x 117 | 48 | No labels; all 8 secret doors drawn as wall |
+| `Maps/C12 Map - M2 Burning Athenium (5ft grid).png` | 52 x 62 | 60 | DM: "35" label |
+| `Maps/C12 Map - M2 Burning Athenium (5ft grid, Player).png` | 52 x 62 | 60 | No label |
+
+Both maps are the module's own artwork with the 10-ft squares split into 5-ft cells. Grid offset 0 in FG.
+
+**Added to M2 (conversion call):** the dais and coal bed the text describes but the map omits. Dais 50 x 80 ft, centred in the 90 x 150 ft hall, with a 5-ft band of steps all round (difficult terrain if you want it). Sunken coal bed 30 x 50 ft in its centre (cross-hatched), which is Avraasha's lair. Run the coal bed as the ledger's A35 heat and terrain.
