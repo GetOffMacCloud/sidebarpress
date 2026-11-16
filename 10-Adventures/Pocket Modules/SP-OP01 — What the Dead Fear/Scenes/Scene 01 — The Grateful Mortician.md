@@ -75,7 +75,7 @@ Ossian has staged a demonstration. As he raises his toast, the lychgate bells ri
 | E1b | 5 | 10 zombies + 2 ogre zombies | 4,200 | Medium |
 | E1c | 6 | 10 zombies + 3 ogre zombies | 4,625 | Medium |
 
-**Terrain:** The open graves are 6 ft. deep. A creature shoved into one takes 3 (1d6) bludgeoning damage and lands prone. Headstones give half cover.
+**DM map:** `map-graveyard-dm.png` (spawn points Z1–Z8 and O1–O3, Ossian's route, Pell, the dog). **Terrain:** The open graves are 6 ft. deep. A creature shoved into one takes 3 (1d6) bludgeoning damage and lands prone. Headstones give half cover.
 
 ## Developments
 - **Unmasked early.** *Detect evil and good* and Divine Sense find an **aberration** where he stands. If the party unmasks him here, he smiles, thanks them for the conversation, and casts *suggestion*: "Go down. Bring me the urn. Then we can talk." If that fails, he fights in the nave without his larder and flees up the bone chute behind the altar once he's bloodied. Go straight to [[Scene 03 — What the Dead Fear]]'s statblock and endings; the dead below can still be saved.

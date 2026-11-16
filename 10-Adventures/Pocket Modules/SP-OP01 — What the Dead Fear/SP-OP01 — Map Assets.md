@@ -25,9 +25,10 @@ Three battlemaps: the Saint's Ossuary (Scene 03), Merrow's Rest above ground (`m
 | Map | Scene | Size (squares) | 100 px/sq | MJ base | Player | DM |
 |---|---|---|---|---|---|---|
 | The Saint's Ossuary | [[Scene 03 — What the Dead Fear]] | 16 × 18.4 (whole image) | 1600 × 1840 | CharGen ✅ | ✅ `map-saints-ossuary.png` (2026-11-16) | use the ink DM map |
-| Merrow's Rest above ground: graveyard + roofless chapel (E1, early-unmasking fight) | [[Scene 01 — The Grateful Mortician]] | 32 × 21.3 at **72 px/sq** | 2304 × 1536 | CharGen ✅ | ✅ `map-graveyard.png` (2026-11-16) | use the ink site key |
+| Merrow's Rest above ground: graveyard + roofless chapel (E1, early-unmasking fight) | [[Scene 01 — The Grateful Mortician]] | 32 × 21.3 at **72 px/sq** | 2304 × 1536 | CharGen ✅ | ✅ `map-graveyard.png` (2026-11-16) | use the graveyard DM map |
 | The catacombs, C1–C4 (E2, E3, W1–W3, barred-doors fight) | [[Scene 02 — The Catacombs]] | 24 × 34 | 2400 × 3400 | CharGen ✅ | ✅ `map-catacombs.png` (2026-11-16) | use the ink site key |
 | Saint's Ossuary — ink DM map (print) | [[Scene 03 — What the Dead Fear]] | 5-ft. grid | — | — | — | ✅ `map-saints-ossuary-dm.png` (2026-11-16) |
+| Merrow's Rest graveyard — ink DM map (print) | [[Scene 01 — The Grateful Mortician]] | 5-ft. grid, matches the VTT map (32 × 21) | — | — | — | ✅ `map-graveyard-dm.png` (2026-11-16) |
 | Merrow's Rest — ink site key (print) | [[Scene 02 — The Catacombs]] | 10-ft. grid | — | — | — | ✅ `map-merrows-rest-key.png` (2026-11-16) |
 
 ## The Saint's Ossuary: layout brief

@@ -260,7 +260,7 @@ Non-Identified Name: Iron horn
 Type: Wondrous Item
 Rarity: Very Rare
 Weight: 2
-Description: (Requires attunement by a worshipper of Wee Jas.) Three times per day, you can use an action to blow this iron horn and summon either 2d6 skeletons or 1d6 zombies (your choice). They appear within 30 feet of you, obey your commands, and remain for 1 hour or until reduced to 0 hit points. Summoning works inside the Temple Incandescent.
+Description: (Requires attunement by a worshipper of Wee Saj.) Three times per day, you can use an action to blow this iron horn and summon either 2d6 skeletons or 1d6 zombies (your choice). They appear within 30 feet of you, obey your commands, and remain for 1 hour or until reduced to 0 hit points. Summoning works inside the Temple Incandescent.
 DM Only: C12 pregen, Adria il-Xandra. Straight from the 1e sheet; the GM may cut it to 1/day.
 Version: Legacy
 

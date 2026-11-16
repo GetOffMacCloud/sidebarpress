@@ -82,7 +82,7 @@ A one-shot tests whether the party survives. A Capstone tests whether *this stud
 
 ### 6. Results
 - **Pass:** pay the remaining 90% of tuition, gain the level, and the Registrar records the Declaration and its Boon. **A Capstone pays no Credits**; the level is the reward. Extra credit still applies.
-- **Fail:** the sitting fee is lost and the Candidate waits one week (real time) before resitting.
+- **Fail:** the sitting fee is lost and the Candidate waits one week (in game) before resitting.
 - **Death:** a Candidate who dies fails. If raised, they may resit after the wait.
 - **Three failures in a row:** a **Registrar's Hold**, meaning no Capstone for one semester (four quests).
 - **Abandoning a Capstone** mid-mission triggers Academic Probation, as below.

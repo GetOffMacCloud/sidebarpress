@@ -138,7 +138,7 @@ m.page(I1,'Rumors',C(pick(M,'Rumors (d6)')))
 m.page(I1,"Merrow's Rest",C(fullnote(os.path.join(VAULT,'40-Locations',"Merrow's Rest.md")).split('## Adventure Use')[0]))
 m.page(I1,'Brother Ossian',C(fullnote(os.path.join(VAULT,'30-NPCs','Brother Ossian.md')).split('## Stat Block')[0]),images=[i for i in ('portrait-ossian-guise','portrait-ossian-color') if has(i)],links=[m.N('ossian')])
 m.page(I1,'Encounters & Cast',C(pick(M,'Encounters','Key NPCs','Key Locations')),links=BX('E1')+BX('E2')+BX('E3')+B3+[m.B(w+x) for w in ('W1','W2','W3') for x in 'abc']+[m.N(k) for k in ('ossian','harrow','larderghoul','pallbearer','husk','ogrehusk','crawler','mouther','curedhand')])
-m.page(A1,'Scene 1 — The Grateful Mortician',C(fullnote(SC(1))),images=[i for i in ('portrait-ossian-guise',) if has(i)],links=BX('E1')+[m.N('ossian'),m.N('husk'),m.N('ogrehusk')])
+m.page(A1,'Scene 1 — The Grateful Mortician',C(fullnote(SC(1))),images=[i for i in ('portrait-ossian-guise','map-graveyard-dm') if has(i)],place={'map-graveyard-dm':'Fight: The Graveyard Rising'},links=BX('E1')+[m.N('ossian'),m.N('husk'),m.N('ogrehusk')])
 m.page(A2,'Scene 2 — The Catacombs',C(fullnote(SC(2))),images=[i for i in ('map-merrows-rest-key',) if has(i)],links=BX('E2')+BX('E3')+[m.B(w+x) for w in ('W1','W2','W3') for x in 'abc']+[m.N('larderghoul'),m.N('crawler'),m.N('mouther'),m.N('curedhand'),m.N('husk')])
 s3=[i for i in ('scene-the-trap','plate-ossian','portrait-sexton-harrow','map-saints-ossuary-dm') if has(i)]
 m.page(A3,'Scene 3 — What the Dead Fear',C(fullnote(SC(3))),images=s3+([MAP] if MAP else []),links=B3+[m.N('ossian'),m.N('harrow'),m.IT('urn')]+([m.I(MAP)] if MAP else []))
