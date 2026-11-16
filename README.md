@@ -14,6 +14,7 @@ The Obsidian vault for **Sidebar Press, LLC** — adventure writing for D&D 2014
 | `40-Locations` | Places. Linked from adventures and lore. |
 | `50-Items` | Magic items, artifacts, notable treasure. |
 | `55-Classes-and-Subclasses` | Homebrew classes and subclasses (2014 rules). One note each, named `Class — Subclass`. |
+| `56-Rules-and-Mechanics` | House subsystems (2014 rules), e.g. The Price of Power. One note each. |
 | `60-Continuity` | The connective tissue: plot threads, timeline, dangling hooks. |
 | `70-Company` | Publishing checklists, release tracker, style guide. |
 | `80-Sessions` | Actual-play logs from your table, used to validate adventures. |

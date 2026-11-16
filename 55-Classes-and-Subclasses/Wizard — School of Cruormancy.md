@@ -25,7 +25,7 @@ Cruormancy (from Old Suloise *cruor*, "spilled blood") is magic that reaches int
 > A **ninth school of magic**, wizard-only · Every leveled spell carries a **Blood (B) component** paid in hit points · Only affects **creatures with blood** · Casting it leaves a **Stain** that deepens toward damnation · Spells are **Proscribed**: they can't be taken as level-up picks except by a **School of Cruormancy** wizard.
 
 > [!info] Rules base
-> **2014 Player's Handbook.** The school works on its own at any 2014 table. Hooks into the A Tourist In Greyhawk house rules (Gygaxian Magic, Spell Strain, The Price of Power) are collected under *At Your Table* below. A player cruormancer requires DM approval.
+> **2014 Player's Handbook.** The school works on its own at any 2014 table. Hooks into the A Tourist In Greyhawk house rules (Gygaxian Magic and Spell Strain) and the optional [[The Price of Power]] corruption track are collected under *At Your Table* below. A player cruormancer requires DM approval.
 
 ---
 
@@ -199,7 +199,7 @@ All cruormancy spells are wizard-only, affect only creatures with blood, and are
 > - **Gygaxian Magic.** Proscribed spells work like Signature Spells (Module 3), and coded texts use the Module 2 coding rule. Copying halves under Cruormancy Savant as written. Dial A (Twice and No More) applies normally: preparing *boil blood* twice doesn't let you cast it a third time.
 > - **Spell Strain.** The Blood cost is separate and triggers nothing in Strain. A cruormancer pushing a high slot pays both prices.
 > - **Safe-haven long rests.** This is where Sanguine Offering's Hit Dice cost really bites. Don't soften it.
-> - **The Price of Power.** If it's running at the table, feed Stain into it instead of using the Stain track, one point for one point. Keep the school's other rules unchanged.
+> - **[[The Price of Power]].** If it's running at the table, each point of Stain becomes 1 Corruption and its track replaces the Stain track. Blood Debt still applies. Keep the school's other rules unchanged.
 
 ## DM Notes
 
@@ -222,7 +222,7 @@ Merged 2026-11-15 from three copies in the A Tourist In Greyhawk vault:
 | `03. Mechanics/Homebrew Rules/Cruormancy.md` | Older draft (Oct 20, 01:36). Its callouts are collapsed onto single lines and won't render. Every rule it has is superseded by the current text, with one exception noted below. | Checked only |
 
 **Changes from the base text:**
-- Proscribed spells and coding are now defined in the note itself, so the subclass runs at any 2014 table. All Tourist house-rule hooks moved to *At Your Table*, and the unresolvable links (Gygaxian Magic, Spell Strain, Campaign House Rules, The Price of Power, Permitted Classes & Subclasses) were removed.
+- Proscribed spells and coding are now defined in the note itself, so the subclass runs at any 2014 table. All Tourist house-rule hooks moved to *At Your Table*, and the unresolvable links (Gygaxian Magic, Spell Strain, Campaign House Rules, Permitted Classes & Subclasses) were removed. The Price of Power link was restored on 2026-11-16, once that note was written in `56-Rules-and-Mechanics`.
 - Fixed module numbers: Signature Spells are Gygaxian Magic **Module 3** and coded books are **Module 2** (the base text said 2 and 1).
 - Wee Jas and Nerull link to the Sidebar Press canon notes.
 - The spell list is a summary table (range, resolution, damage, duration) built from the 14 spell source notes.
