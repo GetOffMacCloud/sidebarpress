@@ -539,10 +539,16 @@ def build(mode):
     for pts in cfg.get('LINES', []):
         d = 'M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in pts)
         o.append(f'<path d="{d}" fill="none" stroke="{INK}" stroke-width="{LW:.1f}" stroke-linecap="square"/>')
-    for (x, y, orient, kind) in cfg.get('DOORS', []):
+    for _dd in cfg.get('DOORS', []):
+        x, y, orient, kind = _dd[:4]
+        _dl, _dw = (_dd[4], _dd[5]) if len(_dd) > 5 else cfg.get('DOOR_SIZE', (5.5, 15))[::-1]
         X, Y = x * S, y * S
         if kind == 'rect':
-            w, h = (5.5 * S, 15 * S) if orient == 'v' else (15 * S, 5.5 * S)
+            if isinstance(orient, (int, float)):
+                w, h = _dl * S, _dw * S
+                o.append(f'<rect x="{X - w / 2:.1f}" y="{Y - h / 2:.1f}" width="{w:.1f}" height="{h:.1f}" rx="{1.5 * S:.1f}" fill="{FLOOR}" stroke="{INK}" stroke-width="{2.2 * S:.1f}" transform="rotate({orient} {X:.1f} {Y:.1f})"/>')
+                continue
+            w, h = (_dw * S, _dl * S) if orient == 'v' else (_dl * S, _dw * S)
             o.append(f'<rect x="{X - w / 2:.1f}" y="{Y - h / 2:.1f}" width="{w:.1f}" height="{h:.1f}" rx="{1.5 * S:.1f}" fill="{FLOOR}" stroke="{INK}" stroke-width="{2.2 * S:.1f}"/>')
         else:   # tick pair across the wall line
             for off in (-2.2, 2.2):
@@ -563,13 +569,71 @@ def build(mode):
         txt, x, y, size = t[:4]; txt = txt.replace('&', '&amp;'); anchor = t[4] if len(t) > 4 else 'middle'; style = t[5] if len(t) > 5 else 'bold'
         fw = 'bold' if 'bold' in style else 'normal'; fs = 'italic' if 'italic' in style else 'normal'
         o.append(f'<text x="{x * S:.1f}" y="{y * S:.1f}" font-size="{size * S:.1f}" font-weight="{fw}" font-style="{fs}" text-anchor="{anchor}" letter-spacing="{0.06 * size * S:.1f}" fill="{INK}" stroke="{FLOOR}" stroke-width="{0.28 * size * S:.1f}" stroke-linejoin="round" paint-order="stroke">{txt}</text>')
+    for (xa, ya, xb, yb) in cfg.get('ARROWS', []):     # box px; head at (xb, yb)
+        dx, dy = xb - xa, yb - ya; L = (dx * dx + dy * dy) ** 0.5; ux, uy = dx / L, dy / L; hl, hw = 9, 3.6
+        o.append(f'<line x1="{xa * S:.1f}" y1="{ya * S:.1f}" x2="{(xb - ux * hl) * S:.1f}" y2="{(yb - uy * hl) * S:.1f}" stroke="{INK}" stroke-width="{1.7 * S:.1f}"/>')
+        o.append(f'<path d="M{xb * S:.1f} {yb * S:.1f} L{(xb - ux * hl - uy * hw) * S:.1f} {(yb - uy * hl + ux * hw) * S:.1f} L{(xb - ux * hl + uy * hw) * S:.1f} {(yb - uy * hl - ux * hw) * S:.1f}Z" fill="{INK}"/>')
+    for pts in cfg.get('DASHLINES', []):
+        d = 'M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in pts)
+        o.append(f'<path d="{d}" fill="none" stroke="{INK}" stroke-width="{2.0 * S:.1f}" stroke-dasharray="{2.2 * S:.1f} {3.2 * S:.1f}" stroke-linecap="round"/>')
+    for (x, y, r) in cfg.get('DASHCIRCLES', []):
+        o.append(f'<circle cx="{x * S:.1f}" cy="{y * S:.1f}" r="{r * S:.1f}" fill="none" stroke="{INK}" stroke-width="{1.8 * S:.1f}" stroke-dasharray="{2.6 * S:.1f} {2.4 * S:.1f}"/>')
+    for k_, poly in enumerate(cfg.get('RUBBLE', [])):   # stippled rubble inside a polygon (box px)
+        import random as _r; _r.seed(1000 + k_)
+        _pm = np.zeros((H, W), np.uint8); cv2.fillPoly(_pm, [np.array(poly, np.int32)], 1)
+        ys_, xs_ = np.nonzero(_pm); n_ = int(len(xs_) / cfg.get('RUBBLE_SPARSE', 14))
+        cid = f'rb{k_}'; d_ = 'M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in poly) + 'Z'
+        o.append(f'<clipPath id="{cid}"><path d="{d_}"/></clipPath><g clip-path="url(#{cid})" stroke="{INK}" stroke-linecap="round">')
+        for _ in range(n_):
+            i_ = _r.randrange(len(xs_)); x, y = xs_[i_] + _r.random(), ys_[i_] + _r.random()
+            if _r.random() < 0.45:
+                o.append(f'<circle cx="{x * S:.1f}" cy="{y * S:.1f}" r="{_r.uniform(0.5, 0.9) * S:.1f}" fill="{INK}" stroke="none"/>')
+            else:
+                a_ = _r.uniform(0, 3.1416); L_ = _r.uniform(1.5, 3.5)
+                o.append(f'<line x1="{x * S:.1f}" y1="{y * S:.1f}" x2="{(x + L_ * np.cos(a_)) * S:.1f}" y2="{(y + L_ * np.sin(a_)) * S:.1f}" stroke-width="{_r.uniform(0.7, 1.2) * S:.1f}"/>')
+        o.append('</g>')
+    for (x, y, dr, sz) in cfg.get('TRIS', []):      # statue triangles, apex pointing dr (r/l/u/d)
+        h_ = sz / 2
+        pts = {'r': [(x + h_, y), (x - h_, y - h_), (x - h_, y + h_)], 'l': [(x - h_, y), (x + h_, y - h_), (x + h_, y + h_)],
+               'u': [(x, y - h_), (x - h_, y + h_), (x + h_, y + h_)], 'd': [(x, y + h_), (x - h_, y - h_), (x + h_, y - h_)]}[dr]
+        d_ = 'M' + ' L'.join(f'{px * S:.1f} {py * S:.1f}' for px, py in pts) + 'Z'
+        o.append(f'<path d="{d_}" fill="{FLOOR}" stroke="{INK}" stroke-width="{2.0 * S:.1f}" stroke-linejoin="round"/>')
+    for (cx, cy, rx, ry, sw) in cfg.get('ELLIPSES', []):
+        o.append(f'<ellipse cx="{cx * S:.1f}" cy="{cy * S:.1f}" rx="{rx * S:.1f}" ry="{ry * S:.1f}" fill="none" stroke="{INK}" stroke-width="{sw * S:.1f}"/>')
+    for (x0_, x1_, y_, amp, per, sw) in cfg.get('WAVES', []):
+        n_ = max(8, int((x1_ - x0_) * 3)); pts = []
+        for i in range(n_ + 1):
+            xx = x0_ + (x1_ - x0_) * i / n_; pts.append((xx, y_ + amp * np.sin(2 * np.pi * (xx - x0_) / per)))
+        d_ = 'M' + ' L'.join(f'{px * S:.1f} {py * S:.1f}' for px, py in pts)
+        o.append(f'<path d="{d_}" fill="none" stroke="{INK}" stroke-width="{sw * S:.1f}" stroke-linecap="round" stroke-linejoin="round"/>')
+    for (y_, xa_, xb_, sw_) in cfg.get('TREADS', []):
+        o.append(f'<line x1="{xa_ * S:.1f}" y1="{y_ * S:.1f}" x2="{xb_ * S:.1f}" y2="{y_ * S:.1f}" stroke="{INK}" stroke-width="{sw_ * S:.1f}" stroke-linecap="butt"/>')
+    for (x, y) in cfg.get('DOTS', []):
+        o.append(f'<circle cx="{x * S:.1f}" cy="{y * S:.1f}" r="{cfg.get("DOT_R", 4.2) * S:.1f}" fill="{INK}"/>')
+    for (x, y, r) in cfg.get('STARS', []):
+        pts = [(x + (r if k % 2 == 0 else r * 0.42) * np.sin(np.pi * k / 5), y - (r if k % 2 == 0 else r * 0.42) * np.cos(np.pi * k / 5)) for k in range(10)]
+        o.append('<path d="M' + ' L'.join(f'{px * S:.1f} {py * S:.1f}' for px, py in pts) + f'Z" fill="{INK}"/>')
+    for (p0, pc, p1, wd) in cfg.get('CHAINARCS', []):
+        d_ = f'M{p0[0] * S:.1f} {p0[1] * S:.1f} Q{pc[0] * S:.1f} {pc[1] * S:.1f} {p1[0] * S:.1f} {p1[1] * S:.1f}'
+        o.append(f'<path d="{d_}" fill="none" stroke="{INK}" stroke-width="{wd * S:.1f}" stroke-linecap="round"/>')
+        o.append(f'<path d="{d_}" fill="none" stroke="{FLOOR}" stroke-width="{(wd - 3.2) * S:.1f}" stroke-dasharray="{3.0 * S:.1f} {2.2 * S:.1f}"/>')
+    for (d_, sw) in cfg.get('PATHS', []):          # raw path in box px
+        o.append(f'<g transform="scale({S:.5f})"><path d="{d_}" fill="none" stroke="{INK}" stroke-width="{sw}" stroke-linecap="round" stroke-linejoin="round"/></g>')
+    for (x, y) in cfg.get('XMARKS', []):
+        for sg in (1, -1):
+            o.append(f'<line x1="{(x - 3.5) * S:.1f}" y1="{(y - 3.5 * sg) * S:.1f}" x2="{(x + 3.5) * S:.1f}" y2="{(y + 3.5 * sg) * S:.1f}" stroke="{INK}" stroke-width="{1.6 * S:.1f}" stroke-linecap="round"/>')
     if gm and GM_PATH and cfg.get('DRAW_GM_INK', True):
         o.append(f'<g transform="scale({S:.5f})"><path d="{GM_PATH}" fill="{INK}" fill-rule="evenodd"/></g>')
     if gm:
-        for t, (gx, gy) in cfg['LABELS'].items():
+        for t, (gx, gy) in cfg.get('LABELS', {}).items():
             x, y = (OX + gx * PX) * S, (OY + gy * PY) * S
             _ls = cfg.get('LABEL_SIZE', 24)
             o.append(f'<text x="{x:.1f}" y="{y + _ls / 3:.1f}" font-size="{_ls}" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="{_ls / 4.5:.1f}" paint-order="stroke">{t.strip()}</text>')
+        for it in cfg.get('LABEL_LIST', []):       # (text, x, y, size, rot) in box px
+            t, x, y, sz = it[:4]; rot = it[4] if len(it) > 4 else 0
+            fs = sz * S * cfg.get('LABEL_SCALE', 1.25); tr = f' transform="rotate({rot} {x * S:.1f} {y * S:.1f})"' if rot else ''
+            ff = ' font-family="Times New Roman, serif"' if set(t) <= set('IV') else ''
+            o.append(f'<text x="{x * S:.1f}" y="{y * S + fs * 0.36:.1f}" font-size="{fs:.1f}" font-weight="bold"{ff} text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="{fs / 4.5:.1f}" paint-order="stroke"{tr}>{t}</text>')
         for (bx, by) in cfg.get('SECRETS', []):     # secret doors: bold ink S, GM only (box px)
             _ss = cfg.get('SECRET_SIZE', 26)
             o.append(f'<text x="{bx * S:.1f}" y="{by * S + _ss / 3:.1f}" font-size="{_ss}" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="{_ss / 5:.1f}" paint-order="stroke">S</text>')
