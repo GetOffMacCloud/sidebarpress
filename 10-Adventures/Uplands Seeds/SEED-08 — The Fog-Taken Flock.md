@@ -4,8 +4,8 @@ adventure: "SEED-08"
 title: "The Fog-Taken Flock"
 hook_number: 8
 tier: 1
-apl: 2
-levels: "1-3"
+apl: 3
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "rescue with no villain"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, dragon, rescue, fog]
 
 # SEED-08 — The Fog-Taken Flock
 
-**APL 2 (levels 1–3) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"The fog takes; the fog gives back. Leave milk."* — Yati shepherds' saying
 
@@ -60,7 +60,7 @@ The students go into the fog to find Tam. They cross the fell by landmarks and s
 | F3 | Brogan means to poison the dragon. | His pack holds wolfsbane-salted meat (Investigation DC 11). | He boasts in Kottsmort-road taverns. | Bran admits he hired "something sharper than me." | Brogan lays the bait in front of them. |
 
 ## Hooks
-1. **Job Board (default).** *"Boy and flock lost in the fog on Corrow Fell. Reward from the Ruadh family, with University thanks."* 15 credits each.
+1. **Job Board (default).** *"Boy and flock lost in the fog on Corrow Fell. Reward from the Ruadh family, with University thanks."* 300 credits each.
 2. **Personal.** A druid or ranger PC is sent by the Ehlonna's Mount enclave: "Something new is breathing on Corrow."
 3. **Thread.** If SEED-15 has been run, the Corrish families vouch for the students to Bran.
 - **Decline path:** Brogan goes in alone. The fog lifts on day 6, and Tam comes home silent. Rumors spread of an angry dragon in the Mires.
@@ -92,7 +92,7 @@ The students go into the fog to find Tam. They cross the fell by landmarks and s
 - **A — full success:** Tam is home, Wisp lives, and the wolves are driven off. Wisp becomes a recurring fog-friend.
 - **B — partial:** Tam is home, but Wisp is dead or driven away. Tam doesn't forgive easily.
 - **C — retreat or defeat:** Tam stays in the fog, or the wolves take the flock. Bran never trusts the University again.
-- **Credits:** 15 base each, +5 for Tam returned unharmed, +5 for Wisp alive and settled, +5 for a field report on the mist dragon.
+- **Credits:** 300 base each, +25 for Tam returned unharmed, +25 for Wisp alive and settled, +25 for a field report on the mist dragon.
 
 ## Key NPCs
 **Tam Ruadh**, 10, Yati shepherd boy. *Deity:* [Beory]. *Wants:* to keep Wisp. *Knows:* Wisp's habits and the cairn paths. *Reacts:* hides → argues → agrees if Wisp is safe.
@@ -107,7 +107,7 @@ The students go into the fog to find Tam. They cross the fell by landmarks and s
 | Creature | Block | Count by APL | Notes |
 |---|---|---|---|
 | Wisp | **silver dragon wyrmling** reskin | 1 | Cold breath becomes a blinding fog cone (save or blinded 1 round); paralyzing breath unchanged. Not meant as a fight |
-| Wolves | wolf | 3 / 4 / 6 | Pack tactics; flee if two fall |
+| Wolves | wolf | 4 / 6 (APL 3/4) | Pack tactics; flee if two fall |
 | Brogan Hale | scout | 1 | Poisoned arrows |
 
 ## Treasure & Items

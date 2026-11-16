@@ -57,7 +57,7 @@ The students attend Stahl's muster and choose to sign on undercover or tail the 
 | F3 | The recruits will be passed to Iuz. | Mirek's letter (Investigation DC 15) | Orc escort arriving | A captured orc talks | Mirek says it when cornered |
 
 ## Hooks
-1. **Job Board (default).** *"Families of Ritterstadt seek word of their sons."* The Reeve adds 25 credits each.
+1. **Job Board (default).** *"Families of Ritterstadt seek word of their sons."* The Reeve adds 600 credits each.
 2. **Personal.** A PC's sibling or friend signed on.
 3. **Thread (SP-GA00).** Perrender companies and their charters, with Sergeant Ruwen Hask as a contact.
 - **Decline path:** the recruits march east. A year later one comes home with an Iuz brand and a story.
@@ -90,7 +90,7 @@ The students attend Stahl's muster and choose to sign on undercover or tail the 
   - **Buy out the contracts:** 20 gp per recruit, or credits pledged by the students.
 
 ## Concluding the Adventure
-- **A — all home:** 25 credits plus 10 extra credit each; Stahl's company disgraced or reformed; the families' gratitude.
+- **A — all home:** 600 credits plus 150 extra credit each; Stahl's company disgraced or reformed; the families' gratitude.
 - **B — partial:** some recruits lost, or the contract stands but the handover fails.
 - **C — retreat:** the recruits march east, and Ritterstadt blames the Reeve.
 

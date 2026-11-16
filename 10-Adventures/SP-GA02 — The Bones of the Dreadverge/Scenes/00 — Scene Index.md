@@ -60,7 +60,6 @@ Back to [[SP-GA02-The-Bones-of-the-Dreadverge]] · Mechanics: [[SP-GA02 — The 
 > - **At 1:15 on the clock**, end Scene 2: Hild is at the door with her crook, and the party leaves now.
 > - **Skip the Leg 1 beat.** Narrate it in one sentence and advance the Rite Clock.
 > - **Make The Pack Hunts the only Howl fight.** If the Howl reaches 3 first, the hounds shadow the party instead of attacking.
-> - **At APL 1–2, run the cut-trenches with half the creatures** (round down; keep at least one boar).
 > - **Skip Scene 4.** The clues it carries resurface in Scene 5 (see Scene 4's Alternates).
 
 ## Standing Trackers

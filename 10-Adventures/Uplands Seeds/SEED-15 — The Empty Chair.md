@@ -57,7 +57,7 @@ The students arrive as guests and take field notes on the customs (1). The guest
 | F3 | Cold iron banishes him, at a cost. | A smith's iron horseshoe makes him flinch | Fergus: "never iron at table" | Nature DC 15 | He warns of it himself |
 
 ## Hooks
-1. **Invitation (default).** The Folklore department pays 20 credits each for field notes on a Yati wedding.
+1. **Invitation (default).** The Folklore department pays 500 credits each for field notes on a Yati wedding.
 2. **Personal.** A Yati PC is kin to the bride.
 3. **Thread (hooks 8, 11).** The Corrish clan from the Hill Moot, if it has been run.
 - **Decline path:** the Corrish luck fails. The clan's flocks sicken, and they blame the University's absence.
@@ -90,7 +90,7 @@ The students arrive as guests and take field notes on the customs (1). The guest
   - **Cold iron:** banish him. The Corrish line loses its luck.
 
 ## Concluding the Adventure
-- **A — boon won:** 20 credits plus 10 extra credit each (exceptional field notes); a fey boon (one *potion of healing* that never empties fully; `50-Items`).
+- **A — boon won:** 500 credits plus 125 extra credit each (exceptional field notes); a fey boon (one *potion of healing* that never empties fully; `50-Items`).
 - **B — debt paid:** a PC owes service. Everything is restored. Plot thread.
 - **C — banished:** the night is safe, but the Corrish luck fails for a hundred years.
 

@@ -60,7 +60,7 @@ The fellows reach the slide and the first waystation, already defaced (Part 1). 
 | F3 | Karaith can be bargained with. | He speaks before he strikes. | The steles' warden oath, read aloud. | A Yati or Flan PC's courtesy, by Old Faith rite. | He halts when Vathra attacks him first. |
 
 ## Hooks
-1. **The commission (default).** *"Fellows to secure and map a newly exposed causeway, Mounds of Dawn. Antiquities and the Provost jointly. 75 credits each, plus the prefect of Exag's reward."*
+1. **The commission (default).** *"Fellows to secure and map a newly exposed causeway, Mounds of Dawn. Antiquities and the Provost jointly. 1,300 credits each, plus the prefect of Exag's reward."*
 2. **Personal.** A Flan-descended PC's family keeps a song about the masked king.
 3. **Thread.** If hook 25 ended with Saal escaping (Conclusion E), the agents have his rubbing and are a day ahead.
 - **Decline path:** Vathra succeeds. Within a year Iuz's priests in the north preach the forged record, and hook 20's Tolle arrives to find the Dawn Hold's gate already being dug.
@@ -99,7 +99,7 @@ The fellows reach the slide and the first waystation, already defaced (Part 1). 
 - **A — Truth kept:** the University publishes the record, and the prefect of Exag pays out.
 - **B — Road buried:** no one gets the record, and the Dawn Hold stays lost.
 - **C — Forgery stands:** Iuz's propaganda spreads, and Vathra recurs.
-- **Credits:** 75 base. Extra credit: +5 for rubbings of all three steles, +5 for a report to the prefect of Exag.
+- **Credits:** 1,300 base. Extra credit: +160 for rubbings of all three steles, +160 for a report to the prefect of Exag.
 
 ## Key NPCs
 - **Vathra**, agent of Iuz. *Deity:* [Iuz].

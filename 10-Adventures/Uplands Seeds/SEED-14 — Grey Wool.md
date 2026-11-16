@@ -5,7 +5,7 @@ title: "Grey Wool"
 hook_number: 14
 tier: 1
 apl: 3
-levels: "2-4"
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "investigation + conscience"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, yati, investigation, oo
 
 # SEED-14 — Grey Wool
 
-**APL 3 (levels 2–4) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"The water went sweet, then the wool went grey."* — a Yati herder, to the Dean's secretary
 
@@ -59,7 +59,7 @@ The students are sent to "disprove the accusation." They meet angry herders and 
 | F3 | The University buried it. | The seal on the crates. | The 568 requisition in the Dean's archive (Investigation DC 13). | Pike's nervous bribe. | A crate stenciled "DEPT. ALCH. — HADDON." |
 
 ## Hooks
-1. **Job Board (default).** *"The Dean's office requires a field assessment of pasture disease among the Yati flocks."* 15 credits each.
+1. **Job Board (default).** *"The Dean's office requires a field assessment of pasture disease among the Yati flocks."* 300 credits each.
 2. **Personal.** A Yati PC's family flock is among the sick.
 3. **Thread.** If SEED-11 has been run, the Lennaghs or Corrishes ask the students by name.
 - **Decline path:** another team files "pasture blight." The passes close, and the field campus loses its Yati guides for a year.
@@ -92,7 +92,7 @@ The students are sent to "disprove the accusation." They meet angry herders and 
 - **A — full success:** the cave is sealed and an honest report is filed. An alchemy professor *(GU roster)* neutralizes the seep, and the passes stay open.
 - **B — partial:** the cave is sealed but the report is fudged. The flocks recover, but suspicion lingers.
 - **C — retreat or defeat:** the oozes reach the spring and the pasture is lost. The clans close the passes.
-- **Credits:** 15 base each. Pike's bribe is 10 extra credit each, and taking it is noted in a sealed file. +5 each for an honest report, +5 for the cave sealed.
+- **Credits:** 300 base each. Pike's bribe is 75 extra credit each, and taking it is noted in a sealed file. +25 each for an honest report, +25 for the cave sealed.
 
 ## Key NPCs
 **Gran Ailidh**, eldest Yati herder. *Deity:* [Beory]. *Wants:* the truth, and the flocks healed. *Knows:* the wagons of 568. *Reacts:* scornful → tests the students → trusts honesty only.
@@ -104,9 +104,9 @@ The students are sent to "disprove the accusation." They meet angry herders and 
 ## Opposition & Stat Pointers (2014 MM)
 | Creature | Block | Count by APL | Notes |
 |---|---|---|---|
-| Gray oozes | gray ooze | 2 / 3 / 5 | Camouflaged in the seep |
-| Ochre jelly | ochre jelly | 0 / 1 / 1 | Splits when slashed |
-| Rats | swarm of rats | 1 / 2 / 2 | Upstream, faintly glowing |
+| Gray oozes | gray ooze | 3 / 5 (APL 3/4) | Camouflaged in the seep |
+| Ochre jelly | ochre jelly | 1 / 1 (APL 3/4) | Splits when slashed |
+| Rats | swarm of rats | 2 / 2 (APL 3/4) | Upstream, faintly glowing |
 
 ## Treasure & Items
 - Unspoiled reagents in one sealed barrel: worth 50 gp to an alchemist, or useful to make *potions of healing* (2).

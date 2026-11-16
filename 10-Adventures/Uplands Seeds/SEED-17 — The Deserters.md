@@ -5,7 +5,7 @@ title: "The Deserters"
 hook_number: 17
 tier: 1
 apl: 3
-levels: "2-4"
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "moral siege"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, iuz, orcs, siege]
 
 # SEED-17 — The Deserters
 
-**APL 3 (levels 2–4) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"We did not run from you. We ran from him."* — Gutch, at Kettle Cave
 
@@ -59,7 +59,7 @@ The students scout Kettle Cave and parley with Gutch, who tells the truth. They 
 | F3 | The hunters track by a cursed token. | *Detect magic* on Gutch's cloak. | Religion DC 13: the symbol of Iuz stitched inside. | The Eye of Gruumsh's taunt: "We can always find you." | It glows when the hunters are close. |
 
 ## Hooks
-1. **Job Board (default).** *"Scouts wanted ahead of the militia. Alderman's commission."* 15 credits each.
+1. **Job Board (default).** *"Scouts wanted ahead of the militia. Alderman's commission."* 300 credits each.
 2. **Personal.** A half-orc PC is recognized by Gutch's people, and they look to the PC for a promise.
 3. **Thread.** If SEED-10 has been run, Grumbold the giant vouches for Gutch.
 - **Decline path:** the militia attacks and the hunters finish the job. Ritterstadt buries four of its own.
@@ -92,7 +92,7 @@ The students scout Kettle Cave and parley with Gutch, who tells the truth. They 
 - **A — full success:** hunters defeated, the deserters spared, and the militia won over. Gutch's band could become a homebrew ally.
 - **B — partial:** the deserters escape onward, but there are losses on one side or the other.
 - **C — retreat or defeat:** the militia or the hunters wipe out the orcs. The token goes north to Iuz.
-- **Credits:** 15 base each, +5 for no townsfolk deaths, +5 for the hunters defeated, +5 for the token recovered for University study.
+- **Credits:** 300 base each, +25 for no townsfolk deaths, +25 for the hunters defeated, +25 for the token recovered for University study.
 
 ## Key NPCs
 **Gutch**, deserter chief. *Deity:* none now (renounced Gruumsh and Iuz). *Wants:* his band alive and a place to stay. *Knows:* Iuz's Vesve raid routes, and the hunters' leader. *Reacts:* wary → honest → desperate → fights to the death only if cornered.
@@ -107,8 +107,8 @@ The students scout Kettle Cave and parley with Gutch, who tells the truth. They 
 | Creature | Block | Count by APL | Notes |
 |---|---|---|---|
 | Vorg Splitlip | orc Eye of Gruumsh | 1 | Hunt leader |
-| Hunters | orc | 2 / 4 / 5 | |
-| Worgs | worg | 1 / 2 / 3 | Flank |
+| Hunters | orc | 4 / 5 (APL 3/4) | |
+| Worgs | worg | 2 / 3 (APL 3/4) | Flank |
 | Militia (if fought) | guard + veteran | 6 + 1 | Avoid; the conflict is moral |
 
 ## Treasure & Items

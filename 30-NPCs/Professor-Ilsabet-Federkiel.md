@@ -31,7 +31,7 @@ Warm, digressive, delighted by conjugations. Believes most diplomatic disasters 
 > *"You did not insult the khan. You insulted his horse. In Baklunish, this is worse."*
 
 ## Role in Sidebar Press Adventures
-- **SP-GA01:** students from her Baklunish lectures follow the Chakyik war council without Sarnai's softening and can read Kezrin's ledger (Intelligence DC 12). **Extra-credit hook:** if Kezrin's papers reach the Historical Society, that's a documented discovery — 50 bonus credits (outside the 600-credit limit).
+- **SP-GA01:** students from her Baklunish lectures follow the Chakyik war council without Sarnai's softening and can read Kezrin's ledger (Intelligence DC 12). **Extra-credit hook:** if Kezrin's papers reach the Historical Society, that's a documented discovery — 50 bonus credits (extra credit, on top of the quest's pay).
 
 ## Stat Block
 Not met in the field. If needed: **noble** (MM p. 348) with eleven languages.

@@ -41,7 +41,7 @@ Under the cord, every weapon attack is replaced:
 > **At the yard (Scene 5):** normal weapons. Two sit by the office with a jug; they surrender when half their side is down.
 
 > [!example]- Rudi Brack, and Hired Muscle — Thug (CR 1/2, 100 XP), MM p. 350
-> *Medium humanoid (human), any non-good alignment* — [[Rudi Brack]] (APL 2–4) and the heavier hirelings
+> *Medium humanoid (human), any non-good alignment* — [[Rudi Brack]] and the heavier hirelings
 > **AC** 11 (leather armor) · **HP** 32 (5d8 + 10) · **Speed** 30 ft.
 >
 > | STR | DEX | CON | INT | WIS | CHA |
@@ -59,7 +59,6 @@ Under the cord, every weapon attack is replaced:
 >
 > **Brawl swap (Scene 4):** ***Fists.*** +4 to hit, 4 (1d4 + 2) bludgeoning, twice per Multiattack.
 > ***The Knife (Rudi only, APL 3–4).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage. Drawing it **breaks the cord**; the room sees it. A PC can disarm it bare-handed (a grapple, or an Athletics contest against the thug's Athletics +2).
-> **Rudi at APL 1:** use the Bandit block, with Intimidation +2.
 > **Rudi's script:** throws the first punch; fights two rounds; leaves by the front door at the end of round 2. Beaten or shown the tally-book (Intimidation DC 13), he names Dornhalm.
 
 > [!example]- Yard Lookout — Scout (CR 1/2, 100 XP), MM p. 349
@@ -120,25 +119,6 @@ Under the cord, every weapon attack is replaced:
 > **Changes from the Bandit block:** Str 8 / Dex 14 / Wis 12, the two skills, and Cunning Action. CR is unchanged.
 > **Use:** she is not part of any encounter's XP. In Scene 4 she steals the case in round 2 and is gone by the kitchen door. In Scene 5 she is the quarry of the chase. Caught, she trades the name "Dornhalm" for a head start.
 
-> [!example]- Feldwebel Jost Kammerer, APL 1–2 — Thug chassis (CR 1/2, 100 XP), MM p. 350
-> *Medium humanoid (human), lawful neutral* — [[Feldwebel Jost Kammerer]], 76, in the ring under Kord (Encounter 6)
-> **AC** 11 (buff coat) · **HP** 20 (APL 1) or 32 (APL 2) · **Speed** 25 ft. (old knees)
->
-> | STR | DEX | CON | INT | WIS | CHA |
-> |---|---|---|---|---|---|
-> | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 12 (+1) | 11 (+0) |
->
-> **Skills** Athletics +4, Intimidation +2 · **Senses** passive Perception 11 · **Languages** Common · **Challenge** 1/2 (100 XP)
->
-> ***Old Knees.*** Jost makes his second Multiattack attack only if he has not moved on this turn. He has disadvantage on saving throws and checks to avoid being shoved or knocked prone.
-> ***Kord's Honor.*** Jost yields when he drops to a quarter of his HP or below and is clearly beaten. He never targets a creature that is prone or has yielded.
->
-> **Actions**
-> ***Multiattack.*** Jost makes two fist attacks (see *Old Knees*).
-> ***Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) bludgeoning damage. Nonlethal.
->
-> **Changes from the Thug block:** HP set by APL, speed 25 ft., Wis 12, Athletics +4, brawl swap, Old Knees and Kord's Honor; Pack Tactics removed (a bout has no allies).
-
 > [!example]- Feldwebel Jost Kammerer, APL 3–4 — Veteran chassis (CR 3, 700 XP), MM p. 350
 > *Medium humanoid (human), lawful neutral* — as above
 > **AC** 12 (buff coat) · **HP** 40 (APL 3) or 58 (APL 4) · **Speed** 25 ft. (old knees)
@@ -186,10 +166,10 @@ These NPCs act in play but should never be in initiative. If a table insists, us
 | [[Mutter Ilka Sennhauser]] · [[Benedikt Roos]] · the Council's clerk | **Commoner** (MM p. 345) · **Noble** (MM p. 348) · **Commoner** | Noncombatants. |
 
 ## Encounter XP Check (4 PCs, 2014 DMG pp. 82–83)
-| # | Encounter | APL 1 | APL 2 | APL 3 | APL 4 |
-|---|---|---|---|---|---|
-| 3 | The Brawl | 4 × 25 = 100 × 2 = **200** (Medium) | 2 × 100 + 2 × 25 = 250 × 2 = **500** (Medium) | 3 × 100 + 2 × 25 = 350 × 2 = **700** (Medium) | 4 × 100 + 2 × 25 = 450 × 2 = **900** (Easy+) |
-| 5 | The Yard | 4 × 25 = 100 × 2 = **200** (Medium) | 100 + 3 × 25 = 175 × 2 = **350** (Easy+) | 2 × 100 + 100 + 2 × 25 = 350 × 2 = **700** (Medium) | 450 + 2 × 100 + 2 × 25 = 700 × 2 = **1,400** (Medium–Hard) |
-| 6 | The Bout | one champion vs. Jost; not a party encounter | | | |
+| # | Encounter | APL 3 | APL 4 |
+| --- | --- | --- | --- |
+| 3 | The Brawl | 3 × 100 + 2 × 25 = 350 × 2 = **700** (Medium) | 4 × 100 + 2 × 25 = 450 × 2 = **900** (Easy+) |
+| 5 | The Yard | 2 × 100 + 100 + 2 × 25 = 350 × 2 = **700** (Medium) | 450 + 2 × 100 + 2 × 25 = 700 × 2 = **1,400** (Medium–Hard) |
+| 6 | The Bout |  |  |
 
-Thresholds per 4 PCs: APL 1 — 100 / 200 / 300 / 400; APL 2 — 200 / 400 / 600 / 800; APL 3 — 300 / 600 / 900 / 1,600; APL 4 — 500 / 1,000 / 1,500 / 2,000 (Easy / Medium / Hard / Deadly). Fenna and Dornhalm are not counted.
+Thresholds per 4 PCs: APL 3 — 300 / 600 / 900 / 1,600; APL 4 — 500 / 1,000 / 1,500 / 2,000 (Easy / Medium / Hard / Deadly). Fenna and Dornhalm are not counted.

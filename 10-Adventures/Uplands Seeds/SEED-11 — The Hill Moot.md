@@ -5,7 +5,7 @@ title: "The Hill Moot"
 hook_number: 11
 tier: 1
 apl: 3
-levels: "2-4"
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "investigation + social"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, yati, investigation, so
 
 # SEED-11 — The Hill Moot
 
-**APL 3 (levels 2–4) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"Stones don't lie. Men lift them."* — Yati proverb
 
@@ -60,7 +60,7 @@ The students hear both clans' claims in their own halls. They walk the boundary 
 | F3 | Brenner did it. | The assay receipt in his name. | Clay from the gully on his boots and cart. | His hired men drinking in Ritterstadt, flush with coin (Insight DC 13). | He offers the students a share to rule "unoccupied." |
 
 ## Hooks
-1. **Job Board (default).** *"Assessors wanted for the Greystair moot, at the request of the Reeve of Fields. Tact required."* 15 credits each.
+1. **Job Board (default).** *"Assessors wanted for the Greystair moot, at the request of the Reeve of Fields. Tact required."* 300 credits each.
 2. **Personal.** A Yati PC is kin to one clan and is asked to "help your own."
 3. **Thread.** If SEED-14 has been run, the clans already distrust the University's word.
 - **Decline path:** the moot fails and the feud begins. Brenner's claim crosses the Reeve's desk, and a Yati spear crosses the University gate.
@@ -95,7 +95,7 @@ The students hear both clans' claims in their own halls. They walk the boundary 
 - **A — full success:** feud averted, Brenner exposed, and the stones reset with both clans present.
 - **B — partial:** feud averted, but the silver goes to the University. Trust is damaged.
 - **C — retreat or defeat:** blood is spilled. The feud is on and the valley is lost to both clans.
-- **Credits:** 15 base each, +5 for the evidence presented, +5 for no deaths, +5 for a written compact both elders sign.
+- **Credits:** 300 base each, +25 for the evidence presented, +25 for no deaths, +25 for a written compact both elders sign.
 
 ## Key NPCs
 **Mor Lennagh**, clan head. *Deity:* [Beory]. *Wants:* the spring grazing kept, and respect. *Knows:* the old boundary chant. *Reacts:* proud → wary → fair once shown proof.
@@ -109,8 +109,8 @@ The students hear both clans' claims in their own halls. They walk the boundary 
 ## Opposition & Stat Pointers (2014 MM)
 | Creature | Block | Count by APL | Notes |
 |---|---|---|---|
-| Brenner's hired men | thug | 2 / 2 / 3 | Guard the dig |
-| Brenner's hired men | bandit | 2 / 4 / 4 | One is the archer at the moot |
+| Brenner's hired men | thug | 2 / 3 (APL 3/4) | Guard the dig |
+| Brenner's hired men | bandit | 4 / 4 (APL 3/4) | One is the archer at the moot |
 | Hot-headed clansmen | tribal warrior | 0–6 | Only if the feud track hits 6 |
 | Udo Brenner | spy | 1 | Flees rather than fights |
 

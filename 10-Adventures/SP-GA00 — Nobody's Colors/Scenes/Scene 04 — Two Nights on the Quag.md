@@ -67,8 +67,6 @@ Run the encounter. Krul needs **three uninterrupted rounds** in the stall. Mark 
 ## Encounter (if any)
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | Krul alone; flees on his second turn | Medium (200) |
-| 2 | Krul + 1 deckhand | Medium (450) |
 | 3 | Krul + 2 deckhands, one with a hand crossbow | Medium (800) |
 | 4 | Krul + 2 deckhands, one with a hand crossbow | Easy (800) |
 
@@ -102,8 +100,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Bribed Deckhand** m
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 13 | +3 | 13 | 5 | 50 |
-| 2 | 13 | +3 | 13 | 7 | 112 |
 | 3 (built) | 13 | +4 | 13 | 9 | 175 |
 | 4 | 14 | +5 | 14 | 12 | 275 |
 

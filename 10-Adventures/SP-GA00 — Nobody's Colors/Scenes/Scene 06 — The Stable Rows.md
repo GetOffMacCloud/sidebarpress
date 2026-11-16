@@ -71,8 +71,6 @@ At half strength, seeing the horses start: *"Down! Get him down and get him out,
 ## Encounter (if any)
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | 2 bravos | Hard (300) |
-| 2 | 3 bravos | Hard (600) |
 | 3 | 4 bravos + Krul (if he is free) | Hard (1,200) |
 | 4 | 4 bravos + Krul (if he is free) | Medium (1,200) |
 
@@ -106,8 +104,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Vuurzward Bravo** m
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 13 | +3 | 13 | 3 | 50 |
-| 2 | 13 | +3 | 13 | 4 | 112 |
 | 3 (built) | 13 | +4 | 13 | 5 | 175 |
 | 4 | 14 | +5 | 14 | 6 | 275 |
 

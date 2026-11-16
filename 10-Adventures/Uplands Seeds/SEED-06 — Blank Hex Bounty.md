@@ -4,8 +4,8 @@ adventure: "SEED-06"
 title: "Blank Hex Bounty"
 hook_number: 6
 tier: 1
-apl: 2
-levels: "1-3"
+apl: 3
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "wilderness + rivalry"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, hag, wilderness]
 
 # SEED-06 — Blank Hex Bounty
 
-**APL 2 (levels 1–3) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"A map is a promise that the land will keep still."* — motto over the Registrar's map-table
 
@@ -33,7 +33,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, hag, wilderness]
 ## Background
 
 ### What the Locals Know
-- The Registrar pays 5 credits per hex verified by a second team.
+- The Registrar pays 10 extra credit per hex verified by a second team.
 - **Ansel Quill's** team, the Quillers, filed eleven hexes in nine days. Nobody walks that fast in the Uplands.
 - The Quillers have been drinking with a Yati peddler-woman who sells "hill knowledge" for silver.
 - Shepherds say not to follow a woman who asks your name twice.
@@ -60,7 +60,7 @@ The students are hired to verify the Quillers' maps. They shadow the rivals or w
 | F3 | The peddler is a hag who wants a map of Ritterstadt. | *Detect magic* or Arcana DC 13 on her "charms." | Ansel admits she asked for "wells and walls." | Tobiah, once found, repeats her price. | She names her price herself. |
 
 ## Hooks
-1. **Job Board (default).** *"Second-survey teams wanted for hexes 14–24, Quill filing. Verify or refute."* 5 credits per hex verified, 20 credits each for proving forgery.
+1. **Job Board (default).** *"Second-survey teams wanted for hexes 14–24, Quill filing. Verify or refute."* 300 credits each, and 10 extra credit per hex verified.
 2. **Personal.** A Yati-descended PC's grandmother warns them about "the woman who asks your name twice."
 3. **Thread.** If SEED-13 has been run, the archmage's cat knew Fennick, and the students may carry a token she respects.
 - **Decline path:** the Registrar pays the forgers. Two weeks later a first-year student goes missing in a valley that is on the official survey.
@@ -85,7 +85,7 @@ The students are hired to verify the Quillers' maps. They shadow the rivals or w
 ## Climax
 - **Set piece:** a cottage of woven willow on an islet in a marsh pool. The fog is lightly obscuring and the water is difficult terrain. Tobiah sleeps in a hanging cage.
 - **Choices:**
-  - Fight the hag (dangerous at APL 2; she uses illusions and flees at half hit points).
+  - Fight the hag (dangerous at APL 3; she uses illusions and flees at half hit points).
   - Out-bargain her with a gift she values: a true secret, a song never sung, or a map of somewhere she can't hurt.
   - Free Tobiah and burn the forged map. The valley "un-maps" and the cottage fades for a year.
 
@@ -93,7 +93,7 @@ The students are hired to verify the Quillers' maps. They shadow the rivals or w
 - **A — full success:** forgery proved, Tobiah rescued, and the map burned or the bargain beaten. The Registrar bars the Quillers for a term.
 - **B — partial:** Tobiah is rescued, but Fennick escapes and keeps a grudge and a student's name.
 - **C — retreat or defeat:** the bargain is struck. Fennick gains a foothold, and a recurring threat is planted.
-- **Credits:** 20 base each, +5 for proving forgery, +5 for Tobiah's safe return, +5 for an accurate map of Hollowmere filed without its secret.
+- **Credits:** 300 base each, +25 for proving forgery, +25 for Tobiah's safe return, +25 for an accurate map of Hollowmere filed without its secret.
 
 ## Key NPCs
 **Ansel Quill**, rival team leader. *Deity:* [Zilchus]. *Wants:* top marks and a fellowship. *Knows:* the source of the maps and the hag's price. *Reacts:* bluster → bribe → confess when Tobiah's danger is clear.
@@ -108,7 +108,7 @@ The students are hired to verify the Quillers' maps. They shadow the rivals or w
 | Creature | Block | Count by APL | Notes |
 |---|---|---|---|
 | Mother Fennick | green hag | 1 | Flees at half hp; illusions first |
-| Twig blights | twig blight | 4 / 6 / 8 (APL 1/2/3) | Valley sentries |
+| Twig blights | twig blight | 8 / 10 (APL 3/4) | Valley sentries |
 | Quillers | scout | 0–3 | Only if the students force a fight |
 
 ## Treasure & Items

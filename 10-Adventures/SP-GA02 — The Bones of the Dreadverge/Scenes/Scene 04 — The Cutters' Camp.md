@@ -28,8 +28,6 @@ Then, one at a time:
 ## Encounter 6 — The Cutters' Camp
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | 2 zombies | Easy (150 adj.) |
-| 2 | 3 zombies | Easy (300 adj.) |
 | 3 | 3 zombies + **Corran** (ghoul) | Medium (700 adj.) |
 | 4 | 4 zombies + **Corran** + his second, **Hob** (ghouls) | Medium (1,200 adj.) |
 
@@ -65,8 +63,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Risen Peat-Cutter**
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 15 | +3 | 13 | 4 | 50 |
-| 2 | 15 | +3 | 13 | 5 | 112 |
 | 3 (built) | 15 | +4 | 13 | 7 | 175 |
 | 4 | 16 | +5 | 14 | 9 | 275 |
 
@@ -92,7 +88,7 @@ Use this when the fight needs more bodies: a pack of 4–8 **Risen Peat-Cutter**
 
 ## Searching the Camp
 **Quick look (no clock cost):**
-- Ashlock's **bedroll** in the smallest hut, with a whetstone and a **sickle** (APL 1–2; at APL 3–4 he carries it)
+- Ashlock's **bedroll** in the smallest hut, with a whetstone (he carries his **sickle**)
 - A pot of **ash, tallow, and bone-meal**, the same mix as the door circles
 - The **tally-board:** six names, and *"Adv. from the Reeve — 6 marks"*
 - **No sign of Iuz.** No orc-sign, no fiend-marks, nothing from over the ridges. *(If the table is still chasing Iuz, this is where you say so plainly.)*
@@ -101,7 +97,7 @@ Use this when the fight needs more bodies: a pack of 4–8 **Risen Peat-Cutter**
 - Wrapped in oilcloth under the bedroll: **[[SP-GA02 — Handout — Ashlock's Letter|Ashlock's letter]]**, a draft to his superior in Schwartzenbruin. **Hand this to the players.**
 - Ashlock's purse (if he did not carry it): see Treasure in [[SP-GA02-The-Bones-of-the-Dreadverge]].
 - A **bone whistle** carved from a stag's tine. Blowing it makes every bone beast within 300 ft stop and face the sound for 1 round (once per night). *It is a tool of the crown, but it works without it.*
-- APL 1–2: a *potion of healing*. APL 3–4: two *potions of healing* and the *spell scroll of lesser restoration*.
+- Two *potions of healing* and the *spell scroll of lesser restoration*.
 
 ## What the Letter Unlocks
 The handout names the **crown**, the **rite at Celene-set**, the **order of the captives**, and the line *"her own boy went down into the dark and took the seal from the Mother's breast. He spared me the work."* A party holding the torc now has the solution in writing. If they have not gotten the torc, the letter tells them it exists and who has it: *"Let the tinker-woman keep the ring on the roads."* A fast party can still turn back, at the cost of 2 Rite Clock segments.

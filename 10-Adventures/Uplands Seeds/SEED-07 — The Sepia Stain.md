@@ -58,7 +58,7 @@ The naturalists send fellows for samples (Part 1). Lindhof is silent, and its pe
 | F3 | Destroying the heart also destroys the "star." | The naturalist warns them. | *Identify* on a sample shows a relic-grade essence. | Moira: "Kill it and you kill what fell." | The crater glass shatters when the heart dies. |
 
 ## Hooks
-1. **The faculty request (default).** *"Fellows to collect samples of the Lindgraben stain and assess its spread. Danger pay. 50 credits each."*
+1. **The faculty request (default).** *"Fellows to collect samples of the Lindgraben stain and assess its spread. Danger pay. 1,100 credits each."*
 2. **Personal.** A PC's former classmate is posted at the Lindhof weather post.
 3. **Thread.** If hook 14 or 18 was run, the Yati expect the University to make it worse.
 - **Decline path:** the stain reaches Ritterstadt's fields on day 12. Run a follow-up at higher stakes, with evacuation.
@@ -98,7 +98,7 @@ The naturalists send fellows for samples (Part 1). Lindhof is silent, and its pe
 - **A — Star-sleep:** the valley recovers, and the Yati trust the fellows.
 - **B — Heart burned:** the valley is scarred but safe, and the relic is lost.
 - **C — Bottled culture, or a failed attempt:** the threat continues in another form.
-- **Credits:** 50 base. Extra credit: +5 for a map of the spread, +5 for transcribed star-lore.
+- **Credits:** 1,100 base. Extra credit: +135 for a map of the spread, +135 for transcribed star-lore.
 
 ## Key NPCs
 - **Moira Tíreach**, Yati star-singer. *Deity:* [Beory].

@@ -4,8 +4,8 @@ adventure: "SEED-22"
 title: "The Runaway Grimoire"
 hook_number: 22
 tier: 1
-apl: 2
-levels: "1-3"
+apl: 3
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "chase + small dungeon"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, chase, dungeon, spellbo
 
 # SEED-22 — The Runaway Grimoire
 
-**APL 2 (levels 1–3) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"Return all volumes to their shelves. All volumes."* — sign in the field library, recently underlined
 
@@ -59,7 +59,7 @@ The students try to catch the escaping book across Ritterstadt's rooftops, marke
 | F3 | Edda can be laid to rest. | Her journal: "I promised to keep them together." | The specter repeats "together" in combat. | Religion DC 13: her bond is a promise, not hate. | She stops attacking when the books touch. |
 
 ## Hooks
-1. **Job Board (default).** *"Library volume at large. Return it intact."* 10 credits each.
+1. **Job Board (default).** *"Library volume at large. Return it intact."* 300 credits each.
 2. **Personal.** A wizard PC wakes up to find the book reading *them*: it is open on their bunk.
 3. **Thread.** If SEED-13 has been run, the archmage named Vell as an old rival.
 - **Decline path:** a first-year follows the book. The students hear about it at their funeral, or their convalescence.
@@ -92,7 +92,7 @@ The students try to catch the escaping book across Ritterstadt's rooftops, marke
 - **A — full success:** books reunited, Edda at rest, and the homunculus a library familiar.
 - **B — partial:** books recovered, but Edda is unresolved and the tower stays haunted.
 - **C — retreat or defeat:** the students flee. The books stay in the ruin, waiting.
-- **Credits:** 10 base each, +5 for both books delivered, +5 for Edda laid to rest, +5 for a catalog note on Vell's binding.
+- **Credits:** 300 base each, +25 for both books delivered, +25 for Edda laid to rest, +25 for a catalog note on Vell's binding.
 
 ## Key NPCs
 **Edda**, specter (Vell's apprentice). *Wants:* the books kept together, and rest. *Knows:* Vell's wards, and which spells the books hold. *Reacts:* whisper → chill → attack → at peace if the books touch.
@@ -105,7 +105,7 @@ The students try to catch the escaping book across Ritterstadt's rooftops, marke
 | Creature | Block | Count by APL | Notes |
 |---|---|---|---|
 | The *Lesser Codex* | flying sword reskin | 1 | Nonlethal; flees |
-| Guardians | animated armor | 1 / 1 / 2 | Tower entry |
+| Guardians | animated armor | 2 / 3 (APL 3/4) | Tower entry |
 | Edda | specter | 1 | Retreats at half hp |
 | Wick | homunculus | 1 | Rarely fights |
 

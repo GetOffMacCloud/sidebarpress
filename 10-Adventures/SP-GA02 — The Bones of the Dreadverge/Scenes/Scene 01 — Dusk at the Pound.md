@@ -37,8 +37,6 @@ Let the party talk for two or three exchanges at most. Hild answers in single li
 ### Encounter 1 — The Pound at Dusk
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | 2 bone hounds | Easy (150 adj.) |
-| 2 | 3 bone hounds | Easy (300 adj.) |
 | 3 | 4 bone hounds | Easy (400 adj.) |
 | 4 | 4 bone hounds + 1 bone elk | Easy (500 adj.) |
 
@@ -84,8 +82,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Bone Hound** minion
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 13 | +3 | 13 | 5 | 50 |
-| 2 | 13 | +3 | 13 | 7 | 112 |
 | 3 (built) | 13 | +4 | 13 | 9 | 175 |
 | 4 | 14 | +5 | 14 | 12 | 275 |
 
@@ -112,7 +108,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Bone Hound** minion
 ## Aftermath
 - **The remains:** loose bone, black sinew that crumbles like old bark, and a **green-bronze collar-ring** with a triple spiral. *History DC 12:* Flan work, very old, and the kind of thing laid in graves. *Religion DC 12:* undead raised as a guardian pack, not by an ordinary necromancer's art. Something is binding them to a place.
 - **Ashlock** arrives promptly, kneels by the wounded (Hild's arm, or a PC), and heals.
-  - APL 1–2 (Acolyte): he casts *cure wounds* in plain view. *"Wee Jas keeps the gate. She is generous to those who keep her rites."*
   - APL 3–4 (Cult Fanatic): he binds wounds with Medicine. If asked why he does not use magic, he says, *"Wee Jas grants her servants the dead, not the dying."*
 - If anyone mentions Iuz, Ashlock nods gravely and lets it stand.
 - He asks the party one thing: which of the dead have no bodies to bury. Then he says the deadline line, gently, to Hild:

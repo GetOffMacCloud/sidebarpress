@@ -61,8 +61,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Yard Hand** minions
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 13 | +3 | 13 | 5 | 50 |
-| 2 | 13 | +3 | 13 | 7 | 112 |
 | 3 (built) | 13 | +4 | 13 | 9 | 175 |
 | 4 | 14 | +5 | 14 | 12 | 275 |
 
@@ -110,12 +108,10 @@ Use this when the fight needs more bodies: a pack of 4–8 **Yard Hand** minions
 ## Encounter 5 — The Yard
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | 4 bandits | Medium (200 adj.) |
-| 2 | 1 thug + 3 bandits | Easy+ (350 adj.) |
 | 3 | 2 thugs + 1 scout + 2 bandits | Medium (700 adj.) |
 | 4 | **yard foreman** (bandit captain) + 2 thugs + 2 bandits | Medium-Hard (1,400 adj.) |
 
-For 5 PCs, add one bandit. For 3 PCs, remove one creature (never the foreman). If **Rudi** escaped the brawl, he is one of the thugs (APL 2+). Statblocks: [[SP-GA03 — Bestiary]]. **Out here, everyone uses real weapons.**
+For 5 PCs, add one bandit. For 3 PCs, remove one creature (never the foreman). If **Rudi** escaped the brawl, he is one of the thugs. Statblocks: [[SP-GA03 — Bestiary]]. **Out here, everyone uses real weapons.**
 
 **Creatures:** Dornhalm's yard hands (the bandits), sitting on a log by the office with a jug; the thugs, Rudi's kind, waiting to be paid; at APL 3, a **scout** on top of a stack (Y2) with a longbow; at APL 4, the **yard foreman**, a big man in a leather apron, by the crane (Y4).
 
@@ -149,7 +145,7 @@ Drawn by the noise, the **sergeant from the dock** arrives with four riders (vet
 
 ## Treasure
 - **The Soldbrief of 480**, in the document case. It is the only thing the party must carry back.
-- **Dornhalm's purse:** APL 1–2, 30 gp in new marks; APL 3–4, 60 gp and a silver measuring-chain fob (25 gp). The patrol takes it as evidence unless the party has pocketed it first. Taking it is theft, and the sergeant's ledger will say so if he sees.
+- **Dornhalm's purse:** 60 gp in new marks and a silver measuring-chain fob (25 gp). The patrol takes it as evidence unless the party has pocketed it first. Taking it is theft, and the sergeant's ledger will say so if he sees.
 - **Dornhalm's Tally-Book** and the Kettenhaus letter: evidence. They go to the patrol.
 
 ## Clues Available Here

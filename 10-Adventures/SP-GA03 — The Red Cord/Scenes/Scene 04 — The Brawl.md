@@ -27,8 +27,6 @@ Roll initiative. Remind the table of the law in one line: *fists, chairs and woo
 ## Encounter 3 — The Brawl
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | **Rudi** (bandit) + 3 bandits | Medium (200 adj.) |
-| 2 | **Rudi** (thug) + 1 thug + 2 bandits | Medium (500 adj.) |
 | 3 | **Rudi** (thug) + 2 thugs + 2 bandits | Medium (700 adj.) |
 | 4 | **Rudi** (thug) + 3 thugs + 2 bandits | Easy+ (900 adj.) |
 
@@ -47,7 +45,7 @@ For 5 PCs, add one bandit. For 3 PCs, remove one bandit. Statblocks and the **br
 
 ### Tactics
 - **Rudi's hirelings** go for whoever has been answering Rudi, or for Konrad. They want Konrad hit, humiliated, and near the cord-board.
-- **Rudi** throws the first punch, fights for two rounds, and slips out the front door at the end of round 2. A PC adjacent to him can stop him with a grapple (escape DC 12 at APL 1, DC 13 at APL 2+).
+- **Rudi** throws the first punch, fights for two rounds, and slips out the front door at the end of round 2. A PC adjacent to him can stop him with a grapple (escape DC 13).
 - **Konrad** stays out at Trust 2+ (he stands by Ilse's table, arms folded, and lets the party fight for him). At Trust 0–1 he wades in. **Temper +1 for each round in which he is hit.** A PC who stays adjacent to him and stands between him and the fight ("I keep in front of him") keeps him from being targeted that round.
 
 ### Minion Pack (just in case)
@@ -74,8 +72,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Hired Muscle** mini
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 12 | +3 | 13 | 8 | 50 |
-| 2 | 12 | +3 | 13 | 11 | 112 |
 | 3 (built) | 12 | +4 | 13 | 14 | 175 |
 | 4 | 13 | +5 | 14 | 18 | 275 |
 
@@ -119,7 +115,7 @@ Jost, asked about it, says: *"I didn't take it. I'd have burned it in front of y
 
 **Development.**
 - **Prisoners.** Any hireling held after the brawl talks under Intimidation DC 12: *"Rudi paid us. A mark each and beer. Didn't say who paid him."* Rudi himself, if caught, holds out until shown proof or beaten (Intimidation DC 13), then names **Dornhalm** and the yard on the Velverdyva quays.
-- **Rudi escapes.** He goes to the yard to be paid. He is there in Scene 5 at APL 2+ as one of the thugs.
+- **Rudi escapes.** He goes to the yard to be paid. He is there in Scene 5 as one of the thugs.
 - **Fenna caught before the door.** She has already passed the case to a runner through the kitchen window. The party has a prisoner who trades a name for a head start (Intimidation or Persuasion DC 12): *"Dornhalm's yard. Below the lake mouth. He pays in new coin."* Skip the chase and go straight to the yard.
 - **Ilka saw it.** Asked, she points: *"Kitchen door. River way. The small one in the shawl."*
 

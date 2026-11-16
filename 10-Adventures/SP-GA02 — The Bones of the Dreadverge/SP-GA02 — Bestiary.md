@@ -97,14 +97,7 @@ Apply this to any MM beast to make one of Kethra's pack:
 
 ## Brother Ashlock — two chassis
 
-[[Brother-Ashlock]] uses an MM statblock by name, chosen by APL. Both versions carry the [[Antler-Crown-of-Kethra|Antler Crown]] and run the rite.
-
-> [!example]- Ashlock, APL 1–2 — Acolyte (CR 1/4, 50 XP), MM p. 342
-> Use the Acolyte as written (**AC** 10, **HP** 9, club +2 for 1d4, spell save DC 12, +4 to hit; cantrips *light, sacred flame, thaumaturgy*; 1st level ×3 *bless, cure wounds, sanctuary*), with these changes:
-> - **HP 13** (3d8). This gives him one extra hit to survive, so the rite runs for at least a round.
-> - ***Crown-Bearer.*** As a bonus action, Ashlock chooses one bone beast within 60 ft. It uses its reaction to move up to half its speed (no attack).
-> - ***Rite of the Reaper.*** See the Rite Track in [[SP-GA02 — The Howl and the Rite]]. Chanting takes his action.
-> - In town (Scene 1), he casts *cure wounds* on a mauled villager in front of the party. His healing is real, and that is his best cover.
+[[Brother-Ashlock]] uses the Cult Fanatic statblock. He carries the [[Antler-Crown-of-Kethra|Antler Crown]] and run the rite.
 
 > [!example]- Ashlock, APL 3–4 — Cult Fanatic (CR 2, 450 XP), MM p. 345
 > Use the Cult Fanatic as written (**AC** 13 leather, **HP** 33, *Dark Devotion*, Multiattack: two dagger attacks +4 for 1d4 + 2; spell save DC 11, +3 to hit; cantrips *light, sacred flame, thaumaturgy*; 1st level ×4 *command, inflict wounds, shield of faith*; 2nd level ×3 *hold person, spiritual weapon*), with these changes:

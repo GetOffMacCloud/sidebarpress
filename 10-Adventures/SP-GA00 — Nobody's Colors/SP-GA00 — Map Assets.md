@@ -32,9 +32,9 @@ One battlemap per encounter. The three sites are non-contiguous, so there is no 
 Midjourney bases (2026-10-25) are in `99-Assets/SP-GA00/` as `SP-GA00 — [Map] — MJ base.png`; prompts in [[SP-GA00 — Art Brief]] § 7. **Exports (2026-10-25):** built from the MJ bases at 100 px/square, grid on. Each map has three files: `— Player.png` (grid only), `— DM.png` (grid + DM marks) and `— DM Overlay.png` (the DM marks alone on transparency, the same size). Drop the overlay onto Inkarnate's DM Only layer or a VTT GM layer. If your Inkarnate cleanup moved anything, re-export the Player map at the same size and the overlay will still line up wherever the art didn't move.
 
 **DM key (all three maps):** red tokens are hostiles, blue are NPCs, gold outlines are features and zones, gold circles are lantern light, and each map has a DM panel of its scene's rules.
-- **Bridge:** Boedic (B) talking in front of a three-drover line across mid-span (D1–D3; D4–D5 at APL 2+). Mastiffs (M1–M2, APL 3–4) at the carts. Hartwin (H) in the toll house. Cattle zone hatched in the northwest. The party's route marked from the northwest road.
-- **Maid:** Krul (K) in the bow stall. The lantern's 10-ft shuttered and 20-ft open radii. Deckhands H1 (APL 2+) at the mast and H2 (APL 3–4, hand crossbow) aft.
-- **Rows:** Maus's stall (the 14th on the north side). The five lanterns (L) with 10-ft pools. Bravos V1–V2 (V3 APL 2+, V4 APL 3+) and Krul (if free) at the far east door. Corwin's watch post. The party enters from the west.
+- **Bridge:** Boedic (B) talking in front of a three-drover line across mid-span (D1–D5). Mastiffs (M1–M2) at the carts. Hartwin (H) in the toll house. Cattle zone hatched in the northwest. The party's route marked from the northwest road.
+- **Maid:** Krul (K) in the bow stall. The lantern's 10-ft shuttered and 20-ft open radii. Deckhands H1 at the mast and H2 (hand crossbow) aft.
+- **Rows:** Maus's stall (the 14th on the north side). The five lanterns (L) with 10-ft pools. Bravos V1–V4 and Krul (if free) at the far east door. Corwin's watch post. The party enters from the west.
 
 ## 1 — The Erlen Bridge
 **40 × 24 squares · 200 × 120 ft · 4000 × 2400 px**
@@ -43,7 +43,7 @@ Midjourney bases (2026-10-25) are in `99-Assets/SP-GA00/` as `SP-GA00 — [Map] 
 - **Toll house** at the near end, 4 × 4, half cover; [[Old Hartwin]] inside.
 - **Cattle** strung along the eastern half of the road.
 - **Drover camp** off the verge: a fire, two carts, bedrolls.
-- **DM Only:** Boedic and the drovers in a line across the span; mastiff starts at the carts (APL 3–4); the cattle squares marked as difficult terrain *only when spooked*; the note "loud noise = DC 11 Dexterity save or prone; difficult terrain 2 rounds."
+- **DM Only:** Boedic and the drovers in a line across the span; mastiff starts at the carts; the cattle squares marked as difficult terrain *only when spooked*; the note "loud noise = DC 11 Dexterity save or prone; difficult terrain 2 rounds."
 - **Custom stamps likely:** bridge sections, a drover's cart.
 - **As rendered (MJ base):** the river runs north–south through the middle and the road east–west across the bridge. The toll house is at the west end; cattle graze in the northwest; the drover camp (fire, two covered carts) is northeast of the bridge. Matches the spec. **Cleanup:** the toll house is still drawn slightly angled; flatten its roof or replace it with a top-down stamp.
 
@@ -54,7 +54,7 @@ Midjourney bases (2026-10-25) are in `99-Assets/SP-GA00/` as `SP-GA00 — [Map] 
 - **The deck stall** at the **bow** (right on the render), against the starboard rail, 2 × 2, canvas roof. This is the whole point of the map. *(Changed 2026-10-25 to match the render.)*
 - **The lantern** hangs from the stay just aft of the stall: the only light on deck.
 - Coiled rope, sacks and casks along both rails; passengers bed down aft.
-- **DM Only:** Krul's start in the stall; deckhand starts by the mast (APL 2–4); the lantern's light radius; the note "Dash, shove or reaction = Acrobatics DC 10 or prone; over the rail = Athletics DC 12."
+- **DM Only:** Krul's start in the stall; deckhand starts by the mast; the lantern's light radius; the note "Dash, shove or reaction = Acrobatics DC 10 or prone; over the rail = Athletics DC 12."
 - **Lighting matters more than terrain.** Krul shutters the lantern to a slit before he starts (dim light within 10 ft, darkness beyond). Unshuttering it is an action (a bonus action for a PC adjacent to it) and lights 20 ft, which ends his advantage in the dark. With dynamic lighting, set the lantern as the only source and start it shuttered.
 - **Cleanup:** the mast is drawn lying along the deck; paint it back to a single post seen from above, and darken the water, which reads a little like stone.
 - **Custom stamps likely:** a canvas-roofed deck stall.

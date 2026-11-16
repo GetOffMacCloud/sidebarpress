@@ -107,8 +107,6 @@ Do not steer the choice. *Swords* garrison Ritterstadt through the winter and co
 ## Encounter 6 — The Bout under Kord (optional)
 | APL | Jost | Notes |
 |---|---|---|
-| 1 | Thug chassis, **20 HP** | Fists: two attacks, +4, 1d4 + 2 |
-| 2 | Thug chassis, **32 HP** | Fists: two attacks, +4, 1d4 + 2 |
 | 3 | Veteran chassis, **40 HP** | Fists: two attacks, +5, 1d4 + 3 |
 | 4 | Veteran chassis, **58 HP** | Fists: two attacks, +5, 1d4 + 3 |
 
@@ -145,8 +143,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Crowd Brawler** min
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 15 | +3 | 13 | 4 | 50 |
-| 2 | 15 | +3 | 13 | 5 | 112 |
 | 3 (built) | 15 | +4 | 13 | 7 | 175 |
 | 4 | 16 | +5 | 14 | 9 | 275 |
 

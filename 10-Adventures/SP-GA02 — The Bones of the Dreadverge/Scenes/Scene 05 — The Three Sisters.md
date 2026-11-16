@@ -25,7 +25,7 @@ Check the **Rite Clock** against the arrival table in [[SP-GA02 — The Howl and
 Then, one at a time:
 - **Captives** (north stone to southeast): **Brannoc**, gagged, struggling; **Wenna**, very still, her lips moving; **Tam**, nine years old, staring at the fire.
 - **The pack** circles the foot of the mound, about 60 ft out. Clicking, never stopping.
-- **The Barrow Stag** (APL 2+) stands motionless beside the black doorway, white as chalk.
+- **The Barrow Stag** stands motionless beside the black doorway, white as chalk.
 - **Ashlock** speaks without turning, if the party is seen:
 > **Ashlock:** *"You are welcome. Every rite wants witnesses."*
 
@@ -41,8 +41,6 @@ If a PC names Iuz or Iggwilv, Ashlock laughs once: *"The Old One has his own dea
 ## Encounter 7 — The Three Sisters
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | Ashlock (Acolyte variant) + 2 bone hounds | Hard (300 adj.) |
-| 2 | Ashlock (Acolyte variant) + Barrow Stag + 2 bone hounds | Hard (700 adj.) |
 | 3 | Ashlock (Cult Fanatic variant) + Barrow Stag + 2 bone hounds | Hard (1,500 adj.) |
 | 4 | Ashlock (Cult Fanatic variant) + Barrow Stag + 4 bone hounds | Hard (1,700 adj.) |
 
@@ -52,7 +50,7 @@ Add one hound for 5 PCs. Risen captives add a **skeleton** each. Full blocks: [[
 - The beasts start **60 ft out from the ring**, between the party and the stones. *(This is the round-1 safety rule: nothing reaches a PC or captive on turn one, and no beast will attack a bound captive.)*
 - **Early arrival:** the party gets one free round of action before initiative.
 - **On time / late:** roll initiative as the party crests the slope.
-- **Ashlock's defenses.** Early: none, because he is caught preparing. On time or later: *sanctuary* on himself at APL 1–2, *shield of faith* (+2 AC) at APL 3–4, cast as the party crests the slope.
+- **Ashlock's defenses.** Early: none, because he is caught preparing. On time or later: *shield of faith* (+2 AC) on himself, cast as the party crests the slope.
 
 ### Development (as the fight runs)
 - **Freed captives** flee downhill toward the party. Brannoc takes up any weapon he is handed and fights beside them. Wenna walks.
@@ -67,7 +65,7 @@ Use the Rite Track from [[SP-GA02 — The Howl and the Rite]]:
 - At 3, the current captive dies and rises. Announce it in one flat sentence.
 - The rite breaks if Ashlock drops, is moved more than 10 ft from the center, loses the crown, or the torc goes home.
 
-**Action-economy model (APL 2, 4 PCs, 3 rounds).** The party deals about 18 effective damage per round. Ashlock (13 HP) falls in round 1 or 2 if the party targets him. If they don't, the rite needs 3 uninterrupted rounds to kill Brannoc. The beasts deal about 15 effective damage per round, focused on whoever reaches the ring or carries the torc. A party that ignores the ring loses Brannoc around round 3, and a party that rushes Ashlock takes heavy hits from the stag. Both lines are tense, and neither is a party kill on its own. At APL 3–4, Ashlock's 33 HP means two to three rounds of focused fire, so expect **one captive lost if the party fights only the pack**.
+**Action-economy model (APL 3, 4 PCs).** The rite needs 3 uninterrupted rounds to kill Brannoc. The beasts focus on whoever reaches the ring or carries the torc, and a party that rushes Ashlock takes heavy hits from the stag. Ashlock's 33 HP means two to three rounds of focused fire, so expect **one captive lost if the party fights only the pack**.
 
 ### Minion Pack (just in case)
 Use this when the fight needs more bodies: a pack of 4–8 **Bone Elk** minions, built from the [[Bone Elk]] with the [[Brute Minion]] template at **APL 3**. More of Kethra's pack charge out of the dark between the stones. Each minion is worth **175 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
@@ -93,8 +91,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Bone Elk** minions,
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 12 | +3 | 13 | 8 | 50 |
-| 2 | 12 | +3 | 13 | 11 | 112 |
 | 3 (built) | 12 | +4 | 13 | 14 | 175 |
 | 4 | 13 | +5 | 14 | 18 | 275 |
 

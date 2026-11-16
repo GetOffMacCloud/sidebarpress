@@ -62,7 +62,7 @@ The students cross Lake Quag and pick up the old survey at the Vestflow (1). The
 | F3 | Vex will use force, and his map will go to Iuz. | His crew boasting at camp | His letter promising "a buyer in the north" (Investigation DC 15) | The surviving survey man from last spring | Vex says it himself if confronted |
 
 ## Hooks
-1. **Job Board (default).** *"Flan Antiquities seeks a field team to complete the Mounds of Dawn approach survey. Barge passage provided. 40 credits each; the Prefect of Exag's reward to be shared."*
+1. **Job Board (default).** *"Flan Antiquities seeks a field team to complete the Mounds of Dawn approach survey. Barge passage provided. 600 credits each; the Prefect of Exag's reward to be shared."*
 2. **Personal.** A PC with dwarf kin in the Clatspurs is told by Hogar Irongrip: "If you meet the Hollow folk, show them this," a stamped iron ring.
 3. **Thread (SP-GA04).** If the Watchers' door was opened, the students already know the hold's hall. The stakes point to it.
 - **Decline path:** Vex goes alone. A month later the students hear that Stonekeep Hollow burned, and a stranger in Ritterstadt is asking about "the Watchers."
@@ -95,9 +95,9 @@ The students cross Lake Quag and pick up the old survey at the Vestflow (1). The
   - **Map it and seal it** with the enclave. Antiquities gets a "classified" copy, and the students gain the elder's trust.
 
 ## Concluding the Adventure
-- **A — sealed with the wardens:** 40 credits each; the enclave's friendship; the elder's warden-token (opens doors in hook 2).
-- **B — map delivered:** 40 credits plus a 10 extra credit bonus. The prefect pays 50 gp each. The Dawn Hold is now known, and hook 3 follows within a season.
-- **C — retreat:** 15 credits. Vex finishes alone, and outcome B happens without the students.
+- **A — sealed with the wardens:** 600 credits each; the enclave's friendship; the elder's warden-token (opens doors in hook 2).
+- **B — map delivered:** 600 credits plus a 150 extra credit bonus. The prefect pays 50 gp each. The Dawn Hold is now known, and hook 3 follows within a season.
+- **C — retreat:** 225 credits. Vex finishes alone, and outcome B happens without the students.
 
 ## Key NPCs
 **Dorran Vex**, Antiquities survey captain. [Zilchus]. *Wants:* the map, and the buyer's gold. *Knows:* the line wakes guardians, and a buyer "in the north." *Reacts:* charm → threaten → burn → fight. *Stats:* veteran.

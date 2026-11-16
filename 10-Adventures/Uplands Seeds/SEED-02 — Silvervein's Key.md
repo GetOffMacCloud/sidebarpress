@@ -58,7 +58,7 @@ The fellows test the key and enlist Hogar to get them to Bitter Pass (Part 1). T
 | F3 | The archive tablet holds the Dawn Hold's seal. | The archivist, **Kelda**, tells them. | Tolle's warning, if hook 20 has been run. | Reading the tablet (History DC 18, Dwarvish). | Silvervein runs for the vault. |
 
 ## Hooks
-1. **The faculty commission (default).** *"Fellows wanted to authenticate a dwarven key of uncertain provenance. Field travel to the Clatspurs. 60 credits each."*
+1. **The faculty commission (default).** *"Fellows wanted to authenticate a dwarven key of uncertain provenance. Field travel to the Clatspurs. 1,200 credits each."*
 2. **Personal.** A dwarf PC has Irongrip kin, or carries a clan grudge.
 3. **Thread.** If hook 25 was run, the key's bow is eye-shaped, matching the Watchers' Eye.
 - **Decline path:** the "If Nobody Interferes" steps happen. Ritterstadt loses its ore trade, and in hook 3 Iuz's agents know where to dig.
@@ -97,7 +97,7 @@ The fellows test the key and enlist Hogar to get them to Bitter Pass (Part 1). T
 - **A — Alliance:** Clan Irongrip is a standing ally. Hogar may be restored, and the tablet is copied for the University.
 - **B — Escape with the truth:** the clan is cold, and the pass road is tolled.
 - **C — Silvervein escapes with the tablet:** Iuz knows the seal. Run hook 3 with the agents a step ahead.
-- **Credits:** 60 base. Extra credit: +5 for the authentication report, +5 for a copy of the tablet.
+- **Credits:** 1,200 base. Extra credit: +150 for the authentication report, +150 for a copy of the tablet.
 
 ## Key NPCs
 - **Matriarch Orla Irongrip**. *Deity:* [Moradin].

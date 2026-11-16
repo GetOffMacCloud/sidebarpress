@@ -72,7 +72,7 @@ Salt (dearer than it should be), cloth and dye (Yusuf al-Rashad), southern steel
 *In a Bloom year the cold comes early: in 576 the Quag freezes right across by late Sunsebb, hard enough for the Wolf Nomads' iceskimmers.*
 
 ## Credits and Coin
-Students are paid in **credits**, not marks. Credits buy tuition, infirmary care at cost, forge work at cost, and standing; they cannot buy ale. The total credit limit is **600**; extra credit sits outside it. Karet accepts a University chit for a bed and redeems it with the Bursar at the quarter.
+Students are paid in **credits**, not marks. Credits buy tuition, infirmary care at cost, forge work at cost, and standing; they cannot buy ale. A commission pays its APL × 100 credits a head; extra credit comes on top. Karet accepts a University chit for a bed and redeems it with the Bursar at the quarter.
 
 ## Hooks
 - A Traft factor offers Hogar twice the Clatspur price for a season's bog iron, delivered to a barge at night.

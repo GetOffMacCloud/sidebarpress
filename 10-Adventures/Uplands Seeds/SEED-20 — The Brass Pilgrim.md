@@ -58,7 +58,7 @@ Tolle arrives in Ritterstadt with fragments of its warning, and the Dean asks th
 | F3 | The core can be transferred to a living mind. | Tolle offers it. | Orla Irongrip knows the rite. | *Legend lore*. | Tolle, dying, presses the core to a PC's brow. |
 
 ## Hooks
-1. **The Dean's request (default).** *"Escort required for a dwarven construct of historical significance to Bitter Pass. Senior fellows only. 80 credits each."*
+1. **The Dean's request (default).** *"Escort required for a dwarven construct of historical significance to Bitter Pass. Senior fellows only. 1,400 credits each."*
 2. **Personal.** A dwarf PC of Irongrip blood is greeted by Tolle as "child of the Grip."
 3. **Thread.** If hooks 25, 1, 2, or 3 were run, each one restores a fragment of Tolle's message.
 - **Decline path:** see "If Nobody Interferes." The campaign's final act becomes stopping Iuz at the Dawn Hold.
@@ -97,7 +97,7 @@ Tolle arrives in Ritterstadt with fragments of its warning, and the Dean asks th
 - **A — Warning delivered:** a grand alliance, and the next adventure is the Dawn Hold.
 - **B — A PC carries the core:** that PC holds the binding-words, a lasting boon and burden.
 - **C — Core lost to Iuz:** the black door will open. The finale is now a race.
-- **Credits:** 80 base. Extra credit: +10 for Tolle's history recorded (within the 600 cap).
+- **Credits:** 1,400 base. Extra credit: +350 for Tolle's history recorded.
 
 ## Key NPCs
 - **Tolle**, brass automaton. *Deity:* [Moradin] (by its makers).

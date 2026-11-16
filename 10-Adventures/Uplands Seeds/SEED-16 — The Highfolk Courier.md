@@ -58,7 +58,7 @@ The courier collapses at the gate, and the Reeve asks the students to carry her 
 | F3 | The hex can be turned into a lure. | A warlock, cleric, or wizard PC reads the weave (Arcana DC 18). | The Highfolk warden proposes it at the border. | Grask's captured cultist explains how the hex points. | The warden's archers are already waiting. |
 
 ## Hooks
-1. **Job Board / the Reeve's request (default).** *"Courier service, urgent, Highfolk. University fellows of proven field record. 50 credits each, paid on delivery by Highfolk's own hand."*
+1. **Job Board / the Reeve's request (default).** *"Courier service, urgent, Highfolk. University fellows of proven field record. 800 credits each, paid on delivery by Highfolk's own hand."*
 2. **Personal.** An elf or half-elf PC recognizes Lethwen's house badge. She is kin, or owes the PC's family a debt.
 3. **Thread.** If hook 17 or 10 was run, the deserters or Grumbold name Grask's band as Iuz's "fetchers."
 - **Decline path:** Lethwen dies, and the strongroom is torn open (above). Ritterstadt is blamed in Highfolk, the Reeve loses face, and in spring a refugee train of elves arrives at the gate.
@@ -101,7 +101,7 @@ The courier collapses at the gate, and the Reeve asks the students to carry her 
 - **A — Plan delivered, hunters broken:** Highfolk's thanks, and a standing welcome for the students in the Vesve.
 - **B — Plan delivered damaged, or hunters escaped:** the spring raid is blunted but not stopped.
 - **C — Satchel lost:** Grask carries it north, and the spring raid lands.
-- **Credits:** 50 base. Extra credit: +5 for Lethwen's survival, +5 for a written field report on Iuz's tracking magic.
+- **Credits:** 800 base. Extra credit: +100 for Lethwen's survival, +100 for a written field report on Iuz's tracking magic.
 
 ## Key NPCs
 - **Lethwen**, Highfolk courier. *Deity:* [Sehanine Moonbow].

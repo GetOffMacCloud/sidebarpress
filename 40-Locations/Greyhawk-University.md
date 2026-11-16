@@ -29,7 +29,7 @@ The full location — buildings, residents, departments, lore, and timeline — 
 - **Visiting faculty:** Professor Wilhelmina Brandt (Antiquarian Wardcraft, City of Greyhawk).
 
 ## Credits (Sidebar Press usage)
-Students are paid in **credits**, not money. The total credit limit is **600**. Patron reports award **field credit** toward that limit; some sources award **extra credit** outside it (e.g., Sister Halya's letter of field expertise; Historical Society discovery bonuses).
+Students are paid in **credits**, not money. A commission pays **its APL × 100 credits to each student** on full success (see [[The Tuition & Leveling Table]]). Patron reports award **field credit**; some sources award **extra credit** on top (e.g., Sister Halya's letter of field expertise; Historical Society discovery bonuses).
 
 ## Sidebar Press Adventures Set Here
 - [[SP-GA01-The-False-Arrow]] — Scene 0 (the contract on the Job Board, Fireseek 576 CY)

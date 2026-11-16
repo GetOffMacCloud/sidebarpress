@@ -7,7 +7,7 @@ section: overview
 publish_order: 10
 publish: true
 status: draft
-levels: "1–4 (prologue at APL 2; the five jobs at levels 3–4)"
+levels: "3–4 (prologue and GQ1–GQ2 at APL 3; GQ3–GQ5 at APL 4)"
 party_size: "4-6"
 date_cy: "Harvester 576 – Needfest 577 CY"
 setting: Greyhawk
@@ -18,7 +18,7 @@ tags: [series, arc-guide, shadow-on-the-quag, iuz, kermin, ritterstadt, greyhawk
 
 # GQ0 — The Shadow on the Quag
 
-**An arc guide and prologue for the GQ series · six adventures · levels 1–4 · Harvester 576 to Needfest 577 CY · 4–6 characters**
+**An arc guide and prologue for the GQ series · six adventures · levels 3–4 · Harvester 576 to Needfest 577 CY · 4–6 characters**
 
 > *"His agents began to scour the Flanaess, seeking arcane evils and relics."*
 > — on Iuz after his release, *Iuz the Evil* p. 3
@@ -70,14 +70,14 @@ Six years after his release, Iuz is rebuilding. The Greyhawk Wars are still six 
 ### The Six Adventures
 | Code | Title | When (CY) | APL | The job | Iuz's face | What the arc learns |
 |---|---|---|---|---|---|---|
-| **GQ0** | [[SP-GQ00 — Prologue — The Crossing\|The Crossing]] (prologue) | Harvester 19–21, 576 | 2 | Courier run across the lake | Snick, unseen; Fesch, polite | Something invisible wants Vogelsang's post. Liesl hears things. |
+| **GQ0** | [[SP-GQ00 — Prologue — The Crossing\|The Crossing]] (prologue) | Harvester 19–21, 576 | 3 | Courier run across the lake | Snick, unseen; Fesch, polite | Something invisible wants Vogelsang's post. Liesl hears things. |
 | **GQ1** | [[SP-GQ01-The-Gaolers-Link\|The Gaoler's Link]] | Brewfest 1–5, 576 | 3 | Heist and double-cross | Vesharan, Snick, a tethered merchant | The Link exists and what it does. Kermin's agent is in Ritterstadt. |
 | **GQ2** | Tethers | Patchwall 576 | 3 | Mole hunt and burglary | Tethered sleepers; Kermin's recruiter | Kermin's net reaches into the Field Station. Liesl is the target. |
 | **GQ3** | The Molag Contract | Ready'reat 576 | 4 | City heist in Schwartzenbruin | Horned Society factors; Panshazek's spies | Iuz is buying soldiers through a front. Two arms of Iuz compete. |
 | **GQ4** | The Quiet Cargo | Ready'reat – Sunsebb 576 | 4 | Smuggling run to Philidor | Jebli orcs, losels, raven-watchers | The build-up on the Vesve edge. |
 | **GQ5** | The Ice Road | Sunsebb 28, 576 – Needfest 577 | 4 | Rescue heist on the frozen Quag | Vesharan's last gambit, a hired fiend | Vesharan's fate and Kermin's attention on the party. |
 
-**Leveling.** Start GQ0 at 1st or 2nd level. Characters should reach 3rd level for GQ1 and 4th level by GQ3. With milestones: level up after GQ0 and after GQ2.
+**Leveling.** Start GQ0 at 3rd level (Freshman). Full successes in GQ0–GQ2 pay 900 credits; one more sanctioned quest brings a student to the 1,000 for Sophomore, and the Freshman Capstone before GQ3 takes them to 4th level, which GQ3–GQ5 are written for. See [[The Tuition & Leveling Table]].
 
 ### The Recurring Cast
 | Who | What they are | Wants | First seen | Arc role |
@@ -137,9 +137,12 @@ Six years after his release, Iuz is rebuilding. The Greyhawk Wars are still six 
 ### Credits Across the Arc
 | Adventure | Base | Extra credit |
 |---|---|---|
-| GQ0 *The Crossing* | 30 | up to 10 |
-| GQ1–GQ5 | 40–60 each (see each adventure) | up to 15 each |
-| **Arc total** | about 300 at most | well inside the 600 cap |
+| GQ0 *The Crossing* | 300 | up to 75 |
+| GQ1–GQ2 (APL 3) | 300 each | up to 75 each |
+| GQ3–GQ5 (APL 4) | 400 each | up to 100 each |
+| **Arc total** | 2,100 at full success | up to 525 more |
+
+Pay follows the house rule (APL × 100 each; partial 50–75%; failure 0). The arc alone takes a Freshman most of the way to Junior (3,000), so expect one Capstone inside the arc (before GQ3) and possibly a second after GQ5.
 
 ### Arc Ending States
 - **Kermin's ledger** (GQ5 decides):
@@ -152,13 +155,13 @@ Six years after his release, Iuz is rebuilding. The Greyhawk Wars are still six 
 ---
 
 ## Part Two: The Prologue
-→ [[SP-GQ00 — Prologue — The Crossing]] (APL 2 · 4–6 characters · one 3-hour session · Harvester 19–21, 576 CY)
+→ [[SP-GQ00 — Prologue — The Crossing]] (APL 3 · 4–6 characters · one 3-hour session · Harvester 19–21, 576 CY)
 
 ---
 
 ## Rulings (Greybeard, 2026-11-05 unless dated)
 - Series code **GQ** (2026-11-13; was SP-SQ, and before that the provisional SP-PBS-05 to 09).
-- **GQ0 is both the arc guide and a prologue** (2026-11-13): *The Crossing*, APL 2, one 3-hour session.
+- **GQ0 is both the arc guide and a prologue** (2026-11-13): *The Crossing*, APL 3, one 3-hour session.
 - **Kermin Mind-Bender** sits in the Greater Boneheart by 576 CY (house extrapolation from WGR5 p. 86; logged in [[Iuz]]).
 - **Philidor the Blue Wizard** is the Link's keeper in GQ4 (WGR5 pp. 6, 21, 88).
 - **Professor Wilhelmina Brandt** stays out of this arc. The Wachturm/Binding Network threads and the Registrar's sealed files are untouched.

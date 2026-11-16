@@ -57,7 +57,7 @@ The students camp at the kiln to watch the night's work (1). The Smith rises and
 | F3 | Grisel profits and will interfere. | His sale ledger (Investigation DC 13) | Gnome gossip about "the buyer" | His toughs at the site | He offers a bribe |
 
 ## Hooks
-1. **Job Board (default).** *"Antiquities requires observers for a working Flan kiln. Night duty."* 35 credits each.
+1. **Job Board (default).** *"Antiquities requires observers for a working Flan kiln. Night duty."* 600 credits each.
 2. **Personal.** A gnome or dwarf PC is asked by Gildenhand kin to stop the tunneling.
 3. **Thread (hook 4).** Liesl Marr (if met) wants the tally-stones for her Flan burial chapter.
 - **Decline path:** the Gildenhand collapse happens and the gnomes blame the University's dealer.
@@ -90,8 +90,8 @@ The students camp at the kiln to watch the night's work (1). The Smith rises and
   - **Destroy** it (a full fight).
 
 ## Concluding the Adventure
-- **A — released:** 35 credits plus 10 extra credit each; the parting gift; Gildenhand's gratitude (discounted mining gear).
-- **B — bound or destroyed:** 35 credits. Bound: Antiquities is pleased and the gnomes are uneasy. Destroyed: the hill is safe and the site is dead.
+- **A — released:** 600 credits plus 150 extra credit each; the parting gift; Gildenhand's gratitude (discounted mining gear).
+- **B — bound or destroyed:** 600 credits. Bound: Antiquities is pleased and the gnomes are uneasy. Destroyed: the hill is safe and the site is dead.
 - **C — retreat:** Grisel keeps selling, and the collapse happens.
 
 ## Key NPCs

@@ -5,7 +5,7 @@ title: "The Escaped Specimen"
 hook_number: 24
 tier: 1
 apl: 3
-levels: "2-4"
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "search + standoff"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, yati, creature]
 
 # SEED-24 — The Escaped Specimen
 
-**APL 3 (levels 2–4) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 **Pitch.** An owlbear cub has escaped the University bestiary pens, and Ritterstadt's farmers are taking down their pitchforks. The cub is hiding in a Yati girl's barn, and its mother, sold to the University as "dead," is coming to get it.
 
@@ -58,7 +58,7 @@ The students take the bestiary keeper's commission and join a jumpy hunt (1). Tr
 | F3 | Kurz lied about the mother. | His bill of sale says "dam dead" | A letter from the Schwartzenbruin menagerie in his pack | Kurz's drover, paid in drink, talks | Kurz panics when the mother is named |
 
 ## Hooks
-1. **Job Board (default).** *"REWARD. Juvenile owlbear, escaped. Return ALIVE to the Bestiary. Do not approach with dogs."* 15 credits each.
+1. **Job Board (default).** *"REWARD. Juvenile owlbear, escaped. Return ALIVE to the Bestiary. Do not approach with dogs."* 300 credits each.
 2. **Personal.** A druid or ranger PC is asked by the bestiary keeper because "it may listen to you."
 3. **Thread (hooks 9, 14).** Herders already angry about Grey Wool now blame the University for loose monsters too.
 - **Decline path:** the posse handles it. The mother kills two farmers and the cub is clubbed to death. The town demands the bestiary be closed.
@@ -91,9 +91,9 @@ The students take the bestiary keeper's commission and join a jumpy hunt (1). Tr
   - **Stand aside** and let the posse settle it.
 
 ## Concluding the Adventure
-- **A — reunited and gone:** the farmers are calmed and Kurz is exposed (his license is pulled). 15 credits plus 5 extra credit each, and Ina's lifelong friendship (a Yati ally).
-- **B — captured:** 30 credits each. The bestiary gains a breeding pair, and some of the town is uneasy.
-- **C — the posse rules:** the cub or the mother dies. 5 credits for "assistance," and Ina never speaks to the University again.
+- **A — reunited and gone:** the farmers are calmed and Kurz is exposed (his license is pulled). 300 credits plus 75 extra credit each, and Ina's lifelong friendship (a Yati ally).
+- **B — captured:** 600 credits each (the double-base ceiling). The bestiary gains a breeding pair, and some of the town is uneasy.
+- **C — the posse rules:** the cub or the mother dies. 100 credits for "assistance," and Ina never speaks to the University again.
 
 ## Key NPCs
 **Ina Maelduin**, Yati farm girl, 11. [Beory]. *Wants:* to keep Bramble. *Knows:* the cub eats eggs and hates dogs, and "the big one" was at the fence. *Reacts:* lies, then hides the cub, then begs, then trusts anyone who doesn't lie back.
@@ -105,13 +105,13 @@ The students take the bestiary keeper's commission and join a jumpy hunt (1). Tr
 **The bestiary keeper** *(GU roster)*. *Wants:* the cub alive and the scandal small.
 
 ## Opposition & Stat Pointers (2014 MM)
-| Creature | Block | APL 2 | APL 3 | APL 4 | Notes |
-|---|---|---|---|---|---|
-| Mother owlbear | owlbear (MM 249) | 1 (45 hp) | 1 | 1 (+ advantage when the cub is threatened) | Not evil; retreats with the cub |
-| Cub "Bramble" | giant badger stats, noncombatant | 1 | 1 | 1 | Hoots |
-| Posse | commoner (MM 345) | 6 | 8 | 10 | Mood track |
-| Odo Hasler | thug (MM 350) | 1 | 1 | 1 | |
-| Kurz | scout (MM 349) | 1 | 1 | 1 | Longbow, fires at the mother |
+| Creature | Block | APL 3 | APL 4 | Notes |
+|---|---|---|---|---|
+| Mother owlbear | owlbear (MM 249) | 1 | 1 (+ advantage when the cub is threatened) | Not evil; retreats with the cub |
+| Cub "Bramble" | giant badger stats, noncombatant | 1 | 1 | Hoots |
+| Posse | commoner (MM 345) | 8 | 10 | Mood track |
+| Odo Hasler | thug (MM 350) | 1 | 1 | |
+| Kurz | scout (MM 349) | 1 | 1 | Longbow, fires at the mother |
 
 ## Treasure & Items
 - Kurz's bill of sale and the menagerie letter (evidence).

@@ -56,7 +56,7 @@ The fishers' guild hires the students to find out what's on the water (Part 1). 
 | F3 | The dealer Kranzler has it. | Raske names him. | A crate stenciled for Antiquities on the quay. | Sergeant Ruwen Hask logged the cart. | Kranzler's warehouse bell rings by itself at midnight. |
 
 ## Hooks
-1. **Job Board (default).** *"The Fishers' Guild of Ritterstadt seeks capable hands to clear the lake of its present trouble. 35 credits each."*
+1. **Job Board (default).** *"The Fishers' Guild of Ritterstadt seeks capable hands to clear the lake of its present trouble. 700 credits each."*
 2. **Personal.** A PC's boarding-house keeper is a fisher, and has stopped going out.
 3. **Thread.** If hook 4 or 5 was run, Antiquities' habit of buying Flan grave-goods is already known.
 - **Decline path:** the procession walks the quay on night 3. Two people drown on the stones, and the guild never forgives the University.
@@ -96,7 +96,7 @@ The fishers' guild hires the students to find out what's on the water (Part 1). 
 - **A — Bell returned and rung:** the fishers return to the water, and Nairn grants each PC one *water breathing* blessing (1/day for a year).
 - **B — Procession beaten, bell kept:** the town is safe this year, and the lights return next Luna-dark.
 - **C — Bell destroyed or town flooded:** casualties, a curse, and lasting hostility from the guild.
-- **Credits:** 35 base. Extra credit: +5 for Old Flan transcriptions from the shrine, +5 for a study of the procession.
+- **Credits:** 700 base. Extra credit: +85 for Old Flan transcriptions from the shrine, +85 for a study of the procession.
 
 ## Key NPCs
 - **Tobbe Raske**, fisherman. *Deity:* [Xerbo].

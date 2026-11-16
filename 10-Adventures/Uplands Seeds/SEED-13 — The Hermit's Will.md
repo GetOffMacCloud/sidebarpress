@@ -97,7 +97,7 @@ Three teams race for the hut (Part 1). Inside, room after room tests virtue rath
 - **A — Heir by fellowship:** the hut is theirs, a portable demiplane retreat, and Vey's tutelage.
 - **B — Shared:** joint stewardship, and the rival team becomes allies.
 - **C — Failed the last room:** Vey leaves. A lesser prize (one spellbook) and a lesson.
-- **Credits:** 30 for completing the race report. Extra credit: +10 for a demiplane survey for the Department.
+- **Credits:** 1,200 for completing the race report. Extra credit: +300 for a demiplane survey for the Department.
 
 ## Key NPCs
 - **Orsolan Vey**, archmage (the cat). *Deity:* [Boccob].

@@ -73,14 +73,14 @@ Each offers a Major, two Minors, and hosts student organizations.
 
 **Enrollment.** Anyone the Registrar admits. The station's test is survival, not pedigree; the Chancellor's office prefers it did not say so in print. Admission costs a signature on the Scholar's Oath and a **first-term bond of 80 marks**, paid in coin or, if coin is short, worked off as a term on the labour levy (the Drill Yard, the Archive and the gate rota, alongside the Probationers' usual duties). The bond is the one place the University takes marks; it is held by the Bursar and does not convert to credits.
 
-**Progression.** Students advance by **level**, and the Registrar's **Tuition & Leveling Table** prices each step in credits.
+**Progression.** Students advance by **level**, and the Registrar's **Tuition & Leveling Table** prices each step in credits, and every step ends in a **Capstone**: a sealed examination expedition set by a department head, sat by at least two candidates, with a 10% sitting fee the University keeps whatever the result.
 - **Probationer** — levels 1–2. Admitted, not yet enrolled on the Board. Works the Drill Yard, the Archive, and the gate rota. Quests only in company with an enrolled party.
 - **Freshman** — level 3. Undeclared. Attends lectures anywhere.
 - **Sophomore** — level 4. Declares a **Major**; first boon.
 - **Junior** — level 5. May declare one **Minor** from another department.
 - **Senior and beyond** — the station has had nine. Three hold posts here now.
 
-**Credits.** Students are paid in credits, never coin. Commissions award credits by mission class; maps earn 25 per submission; majors add 10% on related quests. The **credit limit is 600**. **Extra credit** — a Historical Society discovery (50), a patron's letter of field expertise, a Publication the home campus prints — sits outside the limit. Credits buy tuition, infirmary care at cost, forge work at cost, and standing. They do not buy ale. The Bursar redeems Karet's chits at the quarter.
+**Credits.** Students are paid in credits, never coin. A commission pays **its APL × 100 credits to each student** on full success, half to three-quarters on a partial, nothing on a failure; no single commission pays more than double. Maps earn 25 per submission; majors add 10% on related quests. **Extra credit** comes on top: a Historical Society discovery (50), a patron's letter of field expertise, a Publication the home campus prints. Credits buy tuition, infirmary care at cost, forge work at cost, and standing. They do not buy ale. The Bursar redeems Karet's chits at the quarter.
 
 **The Scholar's Oath.** *I shall not steal manuscripts, duel on the quad, set fire to the boathouse (again), or bring livestock into the Archive. I shall attend my lectures, honor my masters, and remember that tuition is non-refundable.* It hangs in the Station House. Nobody reads it before signing. The boathouse clause is the Landing's fault.
 

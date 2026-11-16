@@ -6,7 +6,7 @@ publish_order: 10
 publish: true
 title: "The Bones of the Dreadverge"
 status: draft # draft | playtesting | editing | published
-levels: "1-4"
+levels: "3-4"
 party_size: "4-5"
 estimated_hours: 4
 setting: Greyhawk
@@ -21,7 +21,7 @@ tags: [one-shot, undead, wilderness, tactical, story-arc, flan, nerull, perrenla
 
 > *The environs of Waycombe have been invaded by the undead. Townsfolk and livestock have gone missing, and the survivors tell tales of skeletal beasts prowling the Dreadverge. Can you help Waycombe in its time of need?*
 >
-> A Story Arc / Tactical / Wilderness one-shot for **average party level 1–4** (scaled per APL throughout). A highland hamlet in the Clatspurs of Perrenland, with the Vesve Forest and the lands of Iuz beyond the eastern ridges, is losing people to a pack of skeletal beasts. The pack is not the villain. It is the hunting pack of a Flan chieftain, woken when a frightened young man stole her burial torc, and now steered by a priest of Nerull who wears her antler crown. The night ends at three standing stones, with three captives bound to them and a rite running against the clock. The party can win by destroying the pack, killing the priest, or giving the dead back what was taken from them.
+> A Story Arc / Tactical / Wilderness one-shot for **average party level 3–4** (written for APL 3, with scaling for APL 4). A highland hamlet in the Clatspurs of Perrenland, with the Vesve Forest and the lands of Iuz beyond the eastern ridges, is losing people to a pack of skeletal beasts. The pack is not the villain. It is the hunting pack of a Flan chieftain, woken when a frightened young man stole her burial torc, and now steered by a priest of Nerull who wears her antler crown. The night ends at three standing stones, with three captives bound to them and a rite running against the clock. The party can win by destroying the pack, killing the priest, or giving the dead back what was taken from them.
 
 ## Adventure Code
 `SP-GA02` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
@@ -136,22 +136,22 @@ Simple Layout battlemaps (DM and Player) are in `99-Assets/SP-GA02/`. See [[SP-G
 ## Encounters
 Difficulty is calculated for **4 PCs** with 2014 DMG thresholds and multipliers. **For 5 PCs, add one bone hound. For 3 PCs, remove one creature (never the leader).** Full statblocks are in [[SP-GA02 — Bestiary]].
 
-| # | Name | Type | APL 1 | APL 2 | APL 3 | APL 4 | Notes |
-|---|---|---|---|---|---|---|---|
-| 1 | The Pound at Dusk (S1) | combat | 2 hounds — Easy | 3 hounds — Easy | 4 hounds — Easy | 4 hounds + 1 elk — Easy | A teaching fight: bludgeoning vulnerability and pack tactics. The hounds go for the cart first. |
-| 2 | Counting the Missing (S2) | social / investigation | — | — | — | — | Clues, the torc negotiation, and Kester's confession |
-| 3 | The Pack Tests You (Howl 3) | combat (wandering) | 2 hounds — Easy | 3 hounds — Easy | 4 hounds — Easy | 5 hounds — Easy | Triggered by the Howl track. The hounds break off after two are destroyed. |
-| 4 | The Pack Hunts (Howl 6) | combat (wandering) | 3 hounds — Hard | 3 hounds + 2 elk — Medium | 4 hounds + 2 elk — Medium | Barrow Stag + 6 hounds — Medium | After this fight, the Howl resets to 3 |
-| 5 | The Cut-Trenches (S3) | tactical combat | 2 boars — Easy | 3 boars + 1 elk — Medium | 4 boars + 2 elk — Medium | 4 boars + 2 elk + 2 hounds — Medium | Terrain: 10-ft trenches, bog, turf stacks. Map: Cut-Trenches. |
-| 6 | The Cutters' Camp (S4) | combat / exploration | 2 zombies — Easy | 3 zombies — Easy | 3 zombies + Corran (ghoul) — Medium | 4 zombies + 2 ghouls — Medium | Optional. Holds the letter and the unmasking. |
-| 7 | The Three Sisters (S5) | climax | Ashlock (Acolyte) + 2 hounds — Hard | Ashlock (Acolyte) + Barrow Stag + 2 hounds — Hard | Ashlock (Cult Fanatic) + Barrow Stag + 2 hounds — Hard | Ashlock (Cult Fanatic) + Barrow Stag + 4 hounds — Hard | The rite consumes Ashlock's action. The torc ends it. Map: Three Sisters. |
+| # | Name | Type | APL 3 | APL 4 | Notes |
+| --- | --- | --- | --- | --- | --- |
+| 1 | The Pound at Dusk (S1) | combat | 4 hounds — Easy | 4 hounds + 1 elk — Easy | A teaching fight: bludgeoning vulnerability and pack tactics. The hounds go for the cart first. |
+| 2 | Counting the Missing (S2) | social / investigation | — | — | Clues, the torc negotiation, and Kester's confession |
+| 3 | The Pack Tests You (Howl 3) | combat (wandering) | 4 hounds — Easy | 5 hounds — Easy | Triggered by the Howl track. The hounds break off after two are destroyed. |
+| 4 | The Pack Hunts (Howl 6) | combat (wandering) | 4 hounds + 2 elk — Medium | Barrow Stag + 6 hounds — Medium | After this fight, the Howl resets to 3 |
+| 5 | The Cut-Trenches (S3) | tactical combat | 4 boars + 2 elk — Medium | 4 boars + 2 elk + 2 hounds — Medium | Terrain: 10-ft trenches, bog, turf stacks. Map: Cut-Trenches. |
+| 6 | The Cutters' Camp (S4) | combat / exploration | 3 zombies + Corran (ghoul) — Medium | 4 zombies + 2 ghouls — Medium | Optional. Holds the letter and the unmasking. |
+| 7 | The Three Sisters (S5) | climax | Ashlock (Cult Fanatic) + Barrow Stag + 2 hounds — Hard | Ashlock (Cult Fanatic) + Barrow Stag + 4 hounds — Hard | The rite consumes Ashlock's action. The torc ends it. Map: Three Sisters. |
 
-**Adventuring-day check (APL 1, 4 PCs):** The likely path costs about 750–1,050 adjusted XP against a daily budget of 1,200. Each Howl encounter runs at most once per night, so the crossing adds one or two fights. Budget for one. If both fire at APL 1, it is a hard night but survivable, and the Weeping Beck's −1 Howl is the party's breather. At APL 4, the climax (1,700 adjusted) sits between Hard and Deadly, and the rite-action rule keeps Ashlock out of the fight for most rounds.
+**Adventuring-day check (APL 3, 4 PCs):** The likely path costs about 2,000–2,800 adjusted XP against a daily budget of 4,800 (estimate after the 2026-11-16 floor to APL 3; confirm in playtest). Each Howl encounter runs at most once per night, so the crossing adds one or two fights. Budget for one. If both fire, it is a hard night but survivable, and the Weeping Beck's −1 Howl is the party's breather. At APL 4, the climax (1,700 adjusted) sits between Hard and Deadly, and the rite-action rule keeps Ashlock out of the fight for most rounds.
 
 ## Treasure & Items
 - [[Torc-of-the-Hound-Mother]] — Found in Tamsin's cart. Its worth is 250 gp as art, but it is the climax key. If the PCs keep it, it is cursed (see the item note).
 - [[Antler-Crown-of-Kethra]] — Worn by Ashlock. Uncommon. It is quiet once the pack sleeps.
-- **Ashlock's belongings** (S4 camp and his person): a purse (APL 1–2: 18 gp in mixed Perrender coin; APL 3–4: 40 gp and a small jet scythe-pendant worth 25 gp), a *potion of healing* (APL 1–2: 1; APL 3–4: 2), and at APL 3–4 a *spell scroll of lesser restoration* taken from a looted shrine.
+- **Ashlock's belongings** (S4 camp and his person): a purse (40 gp and a small jet scythe-pendant worth 25 gp), two *potions of healing*, and a *spell scroll of lesser restoration* taken from a looted shrine.
 - [[Grave-Goods-of-Kethra|The barrow's grave goods]] (S5): amber beads, bronze spear-blades, and a boar-tusk helm, about 150 gp in total. *Taking any of it raises the Howl to 6 at once,* and the item note's curse rules apply. This is a test, and the denouement should notice whether the PCs looted.
 - [[Carved-Wooden-Stag|Bett's carved wooden stag]] — a folk-hero subplot gift; the Barrow Stag hesitates for one round.
 - **Waycombe's thanks:** Odila offers 40 marks (40 gp) from the levy chest (all she has), two smoked hams, free lodging forever, and the hamlet's debt. If she is forced to admit the cutters were her doing, she also offers her own silver cloak-pin (15 gp).
@@ -213,7 +213,7 @@ Both threads are logged in [[Plot-Threads]], and both 576 CY events are in [[Tim
 
 ## Playtest Notes
 Link session logs: —
-Watch for: whether tables find the torc before the climax (target is 70% or more), how long the table chases the Iuz red herring, the APL 1 Howl-6 fight (Hard, so consider capping it at one per night), and how many rounds Ashlock's rite actually runs.
+Watch for: whether tables find the torc before the climax (target is 70% or more), how long the table chases the Iuz red herring, and how many rounds Ashlock's rite actually runs.
 
 ## Publishing
 - [ ] Editing pass complete

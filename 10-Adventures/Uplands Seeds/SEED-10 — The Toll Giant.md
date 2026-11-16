@@ -57,7 +57,7 @@ The students reach the bridge and must sing to cross (1). Grumbold opens up over
 | F3 | He knows something valuable. | He offers it | His pouch: a scratched map | The priest calls him "traitor-with-the-map" | Vardaris demands the map |
 
 ## Hooks
-1. **Job Board (default).** *"The Reeve seeks persons to clear the Ridgeford crossing of an obstruction (large)."* 40 credits each.
+1. **Job Board (default).** *"The Reeve seeks persons to clear the Ridgeford crossing of an obstruction (large)."* 700 credits each.
 2. **Personal.** A bard PC hears the giant collects songs and wants to trade.
 3. **Thread (hooks 12, 16, 17).** Deserters and recruiters are a pattern this season.
 - **Decline path:** Grumbold is collared, and the bridge burns. The troop route he knew is used against Highfolk two months later.
@@ -91,8 +91,8 @@ The students reach the bridge and must sing to cross (1). Grumbold opens up over
   - **Recruit** him to guard the field campus.
 
 ## Concluding the Adventure
-- **A — defended:** 40 credits each, and Grumbold's map reaches the University and Highfolk (hook 16 gains an ally). 10 extra credit for the map.
-- **B — handed over:** 40 credits. The bridge is clear. Grumbold's last song haunts the party (no mechanical cost).
+- **A — defended:** 700 credits each, and Grumbold's map reaches the University and Highfolk (hook 16 gains an ally). 175 extra credit for the map.
+- **B — handed over:** 700 credits. The bridge is clear. Grumbold's last song haunts the party (no mechanical cost).
 - **C — retreat:** the bridge burns and the map is lost.
 
 ## Key NPCs

@@ -112,7 +112,7 @@ All statblocks use **2014 5e** rules. MM page numbers refer to the 2014 *Monster
 > - Adds **Animal Handling +6** and proficiency with smith's tools.
 
 > [!example]- Deckhand — Thug (CR 1/2, 100 XP), MM p. 350
-> *Medium humanoid (human), neutral* — Scene 4, APL 2–4
+> *Medium humanoid (human), neutral* — Scene 4
 > Use the **thug** block above with **HP 20**. One carries a **hand crossbow** at APL 3–4 (+2 to hit, range 30/120 ft., 3 (1d6) piercing). Bribed, not loyal: they surrender the moment Krul goes down or bolts.
 
 > [!example]- Vuurzward Bravo — Thug (CR 1/2, 100 XP), MM p. 350
@@ -173,10 +173,10 @@ All statblocks use **2014 5e** rules. MM page numbers refer to the 2014 *Monster
 | [[Otwin Halbritter]], [[Adalinde Halbritter]] | Social only. Adalinde uses **scout** (MM p. 349) if she must ride or run. |
 
 ## Encounter XP Check (4 PCs, 2014 DMG)
-| Encounter | APL 1 | APL 2 | APL 3 | APL 4 |
-|---|---|---|---|---|
-| Bridge (avoidable) | 750 × 2 = 1,500 — Deadly | 950 × 2 = 1,900 — Deadly | 1,000 × 2.5 = 2,500 — Deadly | 2,500 — Deadly |
-| Deck | 200 × 1 = 200 — Medium | 300 × 1.5 = 450 — Medium | 400 × 2 = 800 — Medium | 800 — Easy |
-| Stable rows | 200 × 1.5 = 300 — Hard | 300 × 2 = 600 — Hard | 600 × 2 = 1,200 — Hard | 1,200 — Medium |
+| Encounter | APL 3 | APL 4 |
+| --- | --- | --- |
+| Bridge (avoidable) | 1,000 × 2.5 = 2,500 — Deadly | 2,500 — Deadly |
+| Deck | 400 × 2 = 800 — Medium | 800 — Easy |
+| Stable rows | 600 × 2 = 1,200 — Hard | 1,200 — Medium |
 
-Thresholds for 4 PCs (Easy / Medium / Hard / Deadly): APL 1 — 100 / 200 / 300 / 400; APL 2 — 200 / 400 / 600 / 800; APL 3 — 300 / 600 / 900 / 1,600; APL 4 — 500 / 1,000 / 1,500 / 2,000.
+Thresholds for 4 PCs (Easy / Medium / Hard / Deadly): APL 3 — 300 / 600 / 900 / 1,600; APL 4 — 500 / 1,000 / 1,500 / 2,000.

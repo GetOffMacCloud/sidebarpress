@@ -6,7 +6,7 @@ publish_order: 10
 publish: true
 title: "The Gaoler's Link"
 status: editing # draft | playtesting | editing | published
-levels: "2-4"
+levels: "3-4"
 party_size: "4-6"
 estimated_hours: 4
 setting: Greyhawk
@@ -21,11 +21,11 @@ tags: [one-shot, heist, double-cross, iuz, boneheart, ritterstadt, greyhawk-univ
 
 # The Gaoler's Link
 
-**APL 3 (levels 2–4) · 4–6 characters · one 4-hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 4-hour session**
 
 > *A merchant pays students to steal back his grandfather's reliquary. He has no grandfather in Ritterstadt, and the reliquary held a god.*
 >
-> A Heist / Double-Cross one-shot for **average party level 2–4** (written for APL 3, with scaling for 2 and 4). During Brewfest week, a Perrender merchant hires Greyhawk University students to lift an iron "heirloom" from the Archive's sealed stacks. At the dawn handover the merchant wakes from an enchantment he didn't know he was under, and his quiet clerk turns out to be an agent of Iuz. The students are holding the one thing in Ritterstadt the Old One cannot see, and they have until the *Graue Hecht* sails to turn the job. Part 1 of [[SP-GQ00 — The Shadow on the Quag]].
+> A Heist / Double-Cross one-shot for **average party level 3–4** (written for APL 3, with scaling for APL 4). During Brewfest week, a Perrender merchant hires Greyhawk University students to lift an iron "heirloom" from the Archive's sealed stacks. At the dawn handover the merchant wakes from an enchantment he didn't know he was under, and his quiet clerk turns out to be an agent of Iuz. The students are holding the one thing in Ritterstadt the Old One cannot see, and they have until the *Graue Hecht* sails to turn the job. Part 1 of [[SP-GQ00 — The Shadow on the Quag]].
 
 ## Adventure Code
 `SP-GQ01`: never reuse codes, even for scrapped adventures. **SP-SQ** is the Shadow on the Quag series (Greybeard, 2026-11-05); SP-GQ00 is the arc hub.
@@ -230,7 +230,7 @@ Full text in [[Scene 08 — Dawn on the Landing]].
 v1 was built on 2026-11-06 by `FGU Kit/build/module.py` and installed as `SP-GQ01 The Gaoler's Link.mod`. It is a reference manual (house rule), not story entries, and it has no maps or scene art yet. Rerun `python3 module.py --install` after the art lands in `99-Assets/SP-SQ/`: `plates/` and `maps/` are picked up automatically, and maps named `…archive…` or `…hecht…` attach to their encounters.
 - [x] Reference manual: Introduction (7 pages), Acts 1–4 (one page per scene, plus Rewards), and Appendices (Bestiary, Magic Items, 4 handouts)
 - [x] Encounters, one per APL: the Archive Pike (E5a–c), Caught by the Gate Rota (E5d), the Handover (E6a–c), the Hold (E7a–b), and the minion packs M5 and M6
-- [x] NPCs: Vesharan, the Tethered Sleeper, the Archive Pike (APL 2 and 3) and the lake gar, both minions; SRD quasit, noble, scout, veteran, guard and bandit, renamed and dressed
+- [x] NPCs: Vesharan, the Tethered Sleeper, the Archive Pike (APL 3) and the lake gar, both minions; SRD quasit, noble, scout, veteran, guard and bandit, renamed and dressed
 - [x] Items: the Gaoler's Link, the Ashbox, the Bone Tether, the Omen-Taper, the Rubbing of the Six, the potion of water breathing
 - [ ] Maps: the Archive, the Landing and the *Hecht*
 - [x] NPC portraits and tokens (15; `99-Assets/SP-SQ/portraits` and `tokens`; on NPC records, the Cast page and scene pages), 2026-11-06

@@ -5,7 +5,7 @@ title: "The Practical Exam"
 hook_number: 23
 tier: 1
 apl: 3
-levels: "2-4"
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "dungeon + hostage"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, dungeon, campus]
 
 # SEED-23 — The Practical Exam
 
-**APL 3 (levels 2–4) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"Candidates will be assessed on initiative, caution, and the recovery of the brass idol. Candidates will not be assessed on screaming."*
 > — Field Methods examination rubric
@@ -61,7 +61,7 @@ The students start the exam and laugh through the fake traps (1). They find real
 | F3 | The nothic can be bargained with. | It speaks first, offering a trade | Marta's notes ("it only wants to *know*") | Arcana DC 13: nothics crave secrets | It stops attacking when someone confesses something |
 
 ## Hooks
-1. **Job Board / curriculum (default).** *"Field Methods Practical, 3rd bell, the Wendelschacht. Bring rope, light, and a pencil."* A pass is worth 20 credits each.
+1. **Job Board / curriculum (default).** *"Field Methods Practical, 3rd bell, the Wendelschacht. Bring rope, light, and a pencil."* A pass is worth 300 credits each.
 2. **Personal.** A PC's friend or rival is one of the costumed upper-years.
 3. **Thread (hook 21).** Examiner Grenwald is grading too, and his report rides on how the exam goes.
 - **Decline path:** another team sits the exam. Two of them come back. The Dean asks the students to go down after the rest.
@@ -95,10 +95,10 @@ The students start the exam and laugh through the fake traps (1). They find real
   - **Collapse the gallery:** everyone gets out and the Quiet is sealed. The exam fails unless the examiner is persuaded (Persuasion DC 13 with evidence).
 
 ## Concluding the Adventure
-- **A — full success:** all hostages out, the nothic dead or bargained off, the examiner convinced. Pass plus 10 extra credit each for "exceptional field judgment."
+- **A — full success:** all hostages out, the nothic dead or bargained off, the examiner convinced. Pass plus 75 extra credit each for "exceptional field judgment."
 - **B — partial:** the hostages are out but the exam is failed, or the nothic is loose in the deep galleries (seeds a later delve).
 - **C — retreat:** the students flee and the University sends a faculty team. The hostages are recovered, and one is changed.
-- **Credits:** 20 base for a pass, +10 extra credit for A. None for a failed exam unless the Dean overrules (Scene 6 Persuasion).
+- **Credits:** 300 base for a pass, +75 extra credit for A. None for a failed exam unless the Dean overrules (Scene 6 Persuasion).
 
 ## Key NPCs
 **The examining professor** *(GU roster)*. *Wants:* a rigorous exam and no embarrassment. *Knows:* the staged layout, and that the staff are "late." *Reacts:* the escalation above.
@@ -108,11 +108,11 @@ The students start the exam and laugh through the fake traps (1). They find real
 **Arnulf, Greta and Dov**, the other costumed upper-years. One is catatonic if the clock has struck.
 
 ## Opposition & Stat Pointers (2014 MM)
-| Creature | Block | APL 2 | APL 3 | APL 4 | Notes |
-|---|---|---|---|---|---|
-| Nothic | nothic (MM 236) | 1 (35 hp) | 1 | 1 | Bargains first |
-| Cave-in dead | ghoul (MM 148) | 2 | 3 | 4 | Miners' rags, headlamps |
-| Staged kobolds | commoner, nonlethal | — | — | — | Upper-years in felt |
+| Creature | Block | APL 3 | APL 4 | Notes |
+|---|---|---|---|---|
+| Nothic | nothic (MM 236) | 1 | 1 | Bargains first |
+| Cave-in dead | ghoul (MM 148) | 3 | 4 | Miners' rags, headlamps |
+| Staged kobolds | commoner, nonlethal | — | — | Upper-years in felt |
 
 ## Treasure & Items
 - The real brass idol (the exam prize): a cheap casting with a 25 gp garnet eye.

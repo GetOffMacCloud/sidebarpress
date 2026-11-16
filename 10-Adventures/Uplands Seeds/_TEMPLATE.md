@@ -5,7 +5,7 @@ title: "Title"
 hook_number: NN
 tier: 1
 apl: 3
-levels: "2–4"
+levels: "3–4"
 party_size: "4–6"
 play_time: "one 3–4 hour session"
 adventure_type: "investigation"
@@ -82,7 +82,7 @@ One sentence per part.
 - **A — full success:**
 - **B — partial:**
 - **C — retreat or defeat:**
-- **Credits:** base pay, extra credit for specific achievements (within the 600 cap).
+- **Credits:** base pay, base pay is APL × 100 credits each; extra credit for specific achievements, about +10–25%, never more than double base in total.
 
 ## Key NPCs
 **Name**, role. *Deity:* [ ]. *Wants:* … *Knows:* … *Reacts:* escalation line. *Stats:* 2014 block.

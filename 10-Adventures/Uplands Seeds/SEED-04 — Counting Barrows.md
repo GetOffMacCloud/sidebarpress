@@ -60,7 +60,7 @@ The students help Liesl recount the Howes, and the numbers won't hold still (1).
 | F3 | The barrows can be resealed. | The grave-keeper's rite | Carved seal-stones in the howes (Religion DC 13) | Liesl's thesis notes on Flan burial | The wights flee from a restored stone |
 
 ## Hooks
-1. **Job Board (default).** *"Assistance required: Howes survey, History thesis. Must be able to count."* 30 credits each.
+1. **Job Board (default).** *"Assistance required: Howes survey, History thesis. Must be able to count."* 500 credits each.
 2. **Personal.** A Yati PC's family keeps milk-day at the Howes.
 3. **Thread (hook 5 or 19).** Antiquities wants Flan burial practice recorded alongside other Copper Age sites.
 - **Decline path:** Liesl goes alone and doesn't come back. The valley steadings send to Ritterstadt for help.
@@ -94,7 +94,7 @@ The students help Liesl recount the Howes, and the numbers won't hold still (1).
   - **Bring in the grave-keeper**, who can reseal the barrows during the fight. Each sealed howe drops one wight.
 
 ## Concluding the Adventure
-- **A — field made safe:** the bulette is dead or gone, the wights are laid, and the howes are resealed. 30 credits plus 10 extra credit each. Liesl's thesis gets a true count.
+- **A — field made safe:** the bulette is dead or gone, the wights are laid, and the howes are resealed. 500 credits plus 125 extra credit each. Liesl's thesis gets a true count.
 - **B — partial:** the bulette is gone but a wight still walks, or the egg is lost. The valley moves its flocks.
 - **C — retreat:** the steading burns, and the field is closed by the Reeve.
 

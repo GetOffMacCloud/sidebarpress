@@ -4,8 +4,8 @@ adventure: "SEED-21"
 title: "The Visiting Examiner"
 hook_number: 21
 tier: 1
-apl: 2
-levels: "1-3"
+apl: 3
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "escort comedy"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, escort, comedy]
 
 # SEED-21 — The Visiting Examiner
 
-**APL 2 (levels 1–3) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"The field campus is either a frontier of learning or a very expensive tent."* — Examiner Grenwald's draft report, page 1
 
@@ -58,7 +58,7 @@ The students escort Grenwald and his trunks into the Brennock Fells. Three set p
 | F3 | The fells hold something worth reporting. | A fossil bed in the ford's bank (Nature DC 12). | Flan rock-carvings under the goat crag. | Griffon feathers from SEED-09, if run. | The storm uncovers the carvings. |
 
 ## Hooks
-1. **Job Board (default).** *"Field escort for Examiner L. Grenwald, Brennock Fells route, two days."* 20 credits each.
+1. **Job Board (default).** *"Field escort for Examiner L. Grenwald, Brennock Fells route, two days."* 300 credits each.
 2. **Personal.** Grenwald examined a PC's parent years ago and remembers them, unkindly.
 3. **Thread.** If SEED-09 has been run, the griffon station is on his itinerary.
 - **Decline path:** the program's budget is cut, and every Job Board pay rate drops for a term.
@@ -93,10 +93,10 @@ The students escort Grenwald and his trunks into the Brennock Fells. Three set p
   - Buy him: a bribe or a flattering arrangement. It works now, and he mentions it in his next report.
 
 ## Concluding the Adventure
-- **A — full success:** a glowing report, the program expanded, and +2 credits on all Job Board rates for a term.
+- **A — full success:** a glowing report, the program expanded, and +25 credits on all Job Board rates for a term.
 - **B — partial:** a lukewarm report; the program is unchanged.
-- **C — retreat or defeat:** Grenwald hurt or fled, the budget cut, and Job Board rates −2 credits for a term.
-- **Credits:** 20 base each, +5 for Grenwald unharmed, +5 for a shared discovery filed, +5 for Mood 6.
+- **C — retreat or defeat:** Grenwald hurt or fled, the budget cut, and Job Board rates −25 credits for a term.
+- **Credits:** 300 base each, +25 for Grenwald unharmed, +25 for a shared discovery filed, +25 for Mood 6.
 
 ## Key NPCs
 **Examiner Ludo Grenwald**, auditor from the City of Greyhawk. *Deity:* [Zilchus]. *Wants:* a career-making find, and comfort. *Knows:* the budget figures, and campus politics in the City. *Reacts:* complain → insist → wander → champion or condemn.
@@ -106,8 +106,8 @@ The students escort Grenwald and his trunks into the Brennock Fells. Three set p
 ## Opposition & Stat Pointers (2014 MM)
 | Creature | Block | Count by APL | Notes |
 |---|---|---|---|
-| Wolves | wolf | 2 / 3 / 4 | Drawn by the lantern |
-| Giant goats | giant goat | 2 / 3 / 4 | Stampede, not malice |
+| Wolves | wolf | 4 / 6 (APL 3/4) | Drawn by the lantern |
+| Giant goats | giant goat | 4 / 6 (APL 3/4) | Stampede, not malice |
 | River and storm | hazard | — | Athletics and Survival DC 12 |
 
 ## Treasure & Items

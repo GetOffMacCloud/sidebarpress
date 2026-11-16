@@ -6,7 +6,7 @@ publish_order: 10
 publish: true
 title: "Nobody's Colors"
 status: editing # draft | playtesting | editing | published
-levels: "1-4"
+levels: "3-4"
 party_size: "4-6"
 estimated_hours: 4
 setting: Greyhawk
@@ -19,11 +19,11 @@ tags: [one-shot, prequel, social, heist, travel, horse-race, perrenland, schwart
 
 # Nobody's Colors
 
-**APL 3 (levels 1–4) · 4–6 characters · one 4-hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 4-hour session**
 
 > *A family with no clan tries to buy a name with a horse, and hires strangers to carry the lie across a lake.*
 >
-> A Social / Travel / Heist one-shot for **average party level 1–4** (written for APL 3, with scaling for 1, 2, and 4). Broke would-be students, stranded on Lake Quag's western shore on their way to Greyhawk University, take a job walking a rich boy's "baggage" to the Duffkyyn Derby at Schwartzenbruin. The baggage is a racehorse. The boy forged his father's seal to enter her, the colors are rented from a dead house, and a patient moneylender has paid to see her lose. It is the **prequel** to the Ritterstadt line: whatever the party does, it ends at the northern packet with a patron's letter for the Registrar.
+> A Social / Travel / Heist one-shot for **average party level 3–4** (written for APL 3, with scaling for APL 4). Broke would-be students, stranded on Lake Quag's western shore on their way to Greyhawk University, take a job walking a rich boy's "baggage" to the Duffkyyn Derby at Schwartzenbruin. The baggage is a racehorse. The boy forged his father's seal to enter her, the colors are rented from a dead house, and a patient moneylender has paid to see her lose. It is the **prequel** to the Ritterstadt line: whatever the party does, it ends at the northern packet with a patron's letter for the Registrar.
 
 ## Adventure Code
 `SP-GA00` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README. *00 because it is the way in: run it before any other SP-PBS adventure for new characters, or whenever a new student joins.*
@@ -183,14 +183,14 @@ Battlemaps for the Erlen bridge, the *Kortheim Maid*'s deck, and the stable rows
 ## Encounters
 Difficulty uses **4 PCs** and 2014 DMG thresholds and multipliers. **For 5–6 PCs, add one drover or bravo per extra PC.** Full statblocks are in [[SP-GA00 — Bestiary]].
 
-| # | Name | Type | APL 1 | APL 2 | APL 3 | APL 4 | Notes |
-|---|---|---|---|---|---|---|---|
-| 1 | The Erlen Bridge (S2) | social, or combat | Boedic + 3 drovers — Deadly (1,500) | Boedic + 5 drovers — Deadly (1,900) | Boedic + 5 drovers + 2 mastiffs — Deadly (2,500) | same — Deadly (2,500) | **Avoidable, and built to be.** Any one approach ends it. Morale breaks at two drovers down. |
-| 2 | Loading the Mare (S3) | skill | one DC | one DC | one DC | one DC | Failure is not refusal: the mare boards, and the roll records it |
-| 3 | Krul on the Deck (S4) | clock combat | Krul alone — Medium (200) | Krul + 1 deckhand — Medium (450) | Krul + 2 deckhands — Medium (800) | same — Easy (800) | The Sabotage Clock: three uninterrupted rounds |
-| 4 | The Stewards' Tent (S5) | social | — | — | — | — | Roodberg starts Indifferent |
-| 5 | The Stable Rows (S6) | tactical combat | 2 bravos — Hard (300) | 3 bravos — Hard (600) | 4 bravos + Krul — Hard (1,200) | same — Medium (1,200) | Blades corded; the Spook die; bravos help drag the fallen clear |
-| 6 | Finding Weisel (S7) | social | — | — | — | — | Five minutes at a run |
+| # | Name | Type | APL 3 | APL 4 | Notes |
+| --- | --- | --- | --- | --- | --- |
+| 1 | The Erlen Bridge (S2) | social, or combat | Boedic + 5 drovers + 2 mastiffs — Deadly (2,500) | same — Deadly (2,500) | **Avoidable, and built to be.** Any one approach ends it. Morale breaks at two drovers down. |
+| 2 | Loading the Mare (S3) | skill | one DC | one DC | Failure is not refusal: the mare boards, and the roll records it |
+| 3 | Krul on the Deck (S4) | clock combat | Krul + 2 deckhands — Medium (800) | same — Easy (800) | The Sabotage Clock: three uninterrupted rounds |
+| 4 | The Stewards' Tent (S5) | social | — | — | Roodberg starts Indifferent |
+| 5 | The Stable Rows (S6) | tactical combat | 4 bravos + Krul — Hard (1,200) | same — Medium (1,200) | Blades corded; the Spook die; bravos help drag the fallen clear |
+| 6 | Finding Weisel (S7) | social | — | — | Five minutes at a run |
 
 **Adventuring-day check (APL 3, 4 PCs):** a daily budget of 4,800. The likely path (bridge talked through, Krul, the rows) costs about 2,000 adjusted XP. A party that fights the bridge spends half the day on it, which is the point.
 

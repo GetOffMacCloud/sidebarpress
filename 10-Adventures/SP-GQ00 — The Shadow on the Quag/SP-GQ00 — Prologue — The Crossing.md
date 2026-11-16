@@ -7,8 +7,8 @@ publish_order: 100
 publish: true
 title: "The Crossing"
 status: draft
-levels: "1-3"
-apl: 2
+levels: "3-4"
+apl: 3
 party_size: "4-6"
 estimated_hours: 3
 setting: Greyhawk
@@ -19,7 +19,7 @@ tags: [adventure, prologue, shadow-on-the-quag, lake-quag, ship, fog, undead, ri
 
 # The Crossing
 
-**APL 2 (levels 1–3) · 4–6 characters · one 3-hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3-hour session**
 *The prologue to [[SP-GQ00 — The Shadow on the Quag|The Shadow on the Quag]]*
 
 > *"Three days on the lake, and the grey in the middle. Say your prayers before the grey, not in it."*
@@ -99,7 +99,7 @@ The only ship going north this week is the *Graue Hecht*. Feldhaus has already a
 **Development:**
 - Feldhaus says, loudly enough to be overheard on the waterfront, *"from the Chancellor himself."* That's how Snick learns of it.
 - If asked, she has had the letter a week; it came up the Velverdyva with the river post. She doesn't know what's in it and doesn't want to.
-- **Reward on delivery:** 30 credits each, entered in the Registrar's ledger when Vogelsang signs Feldhaus's chit.
+- **Reward on delivery:** 300 credits each, entered in the Registrar's ledger when Vogelsang signs Feldhaus's chit.
 
 **The lake-gate.** On the way to the quay, **[[Sergeant Ruwen Hask]]** asks each student his three questions (*"Business. Lodging. Company."*) and writes the answers down. His ledger has logged the *Hecht*'s crew since spring: *"Fesch, clerk, joined Flocktime; sponsor a counting-house of Molag."* A student who reads over his clerk's shoulder (Investigation DC 12) or asks politely (Persuasion DC 12) sees it (P2).
 
@@ -177,7 +177,7 @@ The same ship and the same maps as GQ1: the four *Hecht* deck maps in `99-Assets
 
 #### Snick Cornered (optional encounter)
 If the students corner Snick (for example by covering the hatch and swinging lanterns, or Liesl pointing at "there!"), it drops invisibility and bargains: *"Snick wants sugar. Snick knows* things." It lies about everything except that it serves "a clever man" and "the master's master is very far north." It will not name Fesch unless frightened (Intimidation DC 15).
-**Creatures:** [[Snick]] (**quasit**) (1). **Encounter check:** 200 XP, Easy for any party size.
+**Creatures:** [[Snick]] (**quasit**) (1). **Encounter check:** 200 XP, below Easy for any party size at APL 3.
 **Tactics:** Scare, then claws, then invisibility and the bilge. It flees at half hit points.
 **Development:** if Snick is killed, Vesharan loses his familiar. He doesn't show it, but in GQ1 he works without Snick (cut Snick's lines; Vesharan's legwork uses a hired urchin instead). If Snick is bribed (sugar), it becomes the unreliable informant early. Record it on the Arc Ledger.
 
@@ -221,11 +221,11 @@ The current carries the ship into the grey. **Navigating out** is a group effort
 **Creatures:**
 | Party | Creatures | Adjusted XP |
 |---|---|---|
-| 4 PCs | [[Fog-Drowned]] (1), **zombies** (1): a drowned cabin boy | 375 (just under Medium; each failed navigation check adds a fog-drowned) |
-| 5 PCs | [[Fog-Drowned]] (1), **zombies** (2) | 600 (Medium) |
-| 6 PCs | [[Fog-Drowned]] (2), **zombies** (1) | 675 (Medium) |
+| 4 PCs | [[Fog-Drowned]] (1), **zombies** (3): a drowned cabin boy and two deckhands | 350 × 2 = 700 (Medium; each failed navigation check adds a fog-drowned) |
+| 5 PCs | [[Fog-Drowned]] (2), **zombies** (2) | 500 × 2 = 1,000 (Medium) |
+| 6 PCs | [[Fog-Drowned]] (3), **zombies** (2) | 700 × 1.5 = 1,050 (Medium) |
 
-APL 2 thresholds: 4 PCs Easy 200, Medium 400, Hard 600; 5 PCs 250/500/750; 6 PCs 300/600/900 (multiplier one step lower for 6+).
+APL 3 thresholds: 4 PCs Easy 300, Medium 600, Hard 900; 5 PCs 375/750/1,125; 6 PCs 450/900/1,350 (multiplier one step lower for 6+).
 
 **Tactics:**
 - The drowned climb the rail where the deck is darkest, grab, and drag toward the water. A creature grappled by a fog-drowned at the rail is pulled overboard on the drowned's next turn unless it escapes (DC 13) or someone holds on (contested Athletics).
@@ -276,14 +276,14 @@ If the students attack Fesch, pull his glove, or drag him into the light, his *d
 
 | Ending | What happened | Credits (each) | GQ1 changes |
 |---|---|---|---|
-| **A — Delivered Safe** | The case reached Vogelsang unopened and unread. | 30 + extra | None. Vesharan knows only "Ritterstadt" and the fog in his scryings. |
-| **B — Read in the Dark** | Snick and Vesharan read the letter. | 30 + extra | Vesharan knows Vogelsang is the keeper and that "the sworn cannot hold it." He commissions the Ashbox the day he lands, and the Hogar nudge comes earlier. The handover starts **Wary**. |
-| **C — The Seal Broken** | The students opened the Chancellor's letter themselves. | 20, no extra credit | Vogelsang is furious; a reprimand in the Registrar's ledger (Proctor Grell knows them in GQ1). The students know the warning's words: a head start on GQ1's F4. |
-| **D — Lost to the Lake** | The case went overboard. | 15, no extra credit | Vogelsang never gets the Chancellor's warning. In GQ1 his provenance slip lacks the line "the sworn cannot hold it," so cut F4 Route 1 and lean on Dolz. Dray wins the "send it south" argument in GQ2. |
+| **A — Delivered Safe** | The case reached Vogelsang unopened and unread. | 300 + extra | None. Vesharan knows only "Ritterstadt" and the fog in his scryings. |
+| **B — Read in the Dark** | Snick and Vesharan read the letter. | 300 + extra | Vesharan knows Vogelsang is the keeper and that "the sworn cannot hold it." He commissions the Ashbox the day he lands, and the Hogar nudge comes earlier. The handover starts **Wary**. |
+| **C — The Seal Broken** | The students opened the Chancellor's letter themselves. | 200, no extra credit | Vogelsang is furious; a reprimand in the Registrar's ledger (Proctor Grell knows them in GQ1). The students know the warning's words: a head start on GQ1's F4. |
+| **D — Lost to the Lake** | The case went overboard. | 150, no extra credit | Vogelsang never gets the Chancellor's warning. In GQ1 his provenance slip lacks the line "the sworn cannot hold it," so cut F4 Route 1 and lean on Dolz. Dray wins the "send it south" argument in GQ2. |
 
-**Extra credit (up to 10 each):** Liesl delivered and trusting a PC +3 · nobody lost overboard +3 · the crew told the truth about the grey (Ruder's account to Baba Yeska) +2 · Snick identified as a familiar (not a ghost) +2. Never exceed the 600-credit cap.
+**Extra credit (up to 75 each):** Liesl delivered and trusting a PC +25 · nobody lost overboard +25 · the crew told the truth about the grey (Ruder's account to Baba Yeska) +15 · Snick identified as a familiar (not a ghost) +10. No student takes more than double base (600) from one quest.
 
-**Experience.** One Medium encounter, an optional Easy one, and a skill challenge. With milestones, characters reach 2nd level after the prologue (3rd if they started at 2nd), ready for GQ1.
+**Advancement.** One Medium encounter, an optional minor one, and a skill challenge. There is no milestone level-up: the credits above go toward the Registrar's Tuition & Leveling Table (see [[The Tuition & Leveling Table]]).
 
 ### Arc Ledger (record for GQ1)
 - **The letter:** delivered / read by Snick / read by the students / lost

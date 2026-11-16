@@ -95,7 +95,7 @@ All statblocks use **2014 5e** rules; MM page numbers refer to the 2014 *Monster
 > ***Tail Sweep (Recharge 5–6).*** Each creature within 10 feet of the guardian must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (1d8 + 3) bludgeoning damage and is knocked prone. On a success, it takes half as much damage and isn't knocked prone.
 
 >
-> **In this adventure:** **the Archive Pike** (A5). Watchword: *"by leave of the Registrar."* At APL 2 it has 25 hp; at APL 4 a matched lake gar joins it. **Scene 05.** Full entry: [[Trophy Guardian]].
+> **In this adventure:** **the Archive Pike** (A5). Watchword: *"by leave of the Registrar."* At APL 4 a matched lake gar joins it. **Scene 05.** Full entry: [[Trophy Guardian]].
 
 ## Stock Blocks
 
@@ -123,4 +123,4 @@ All statblocks use **2014 5e** rules; MM page numbers refer to the 2014 *Monster
 
 **Adventuring day:** at most about 1,850 adjusted XP if every fight happens, well under the daily budget of 5,400 for four 3rd-level PCs. The real costs are Heat and time, not hit points.
 
-**Scaling:** APL 2 and 4 rows are in each scene's Encounter table. Minion Packs: Gate-Rota Probationer (Scene 05), Hecht Bargeman (Scenes 06–07).
+**Scaling:** APL 4 rows are in each scene's Encounter table. Minion Packs: Gate-Rota Probationer (Scene 05), Hecht Bargeman (Scenes 06–07).

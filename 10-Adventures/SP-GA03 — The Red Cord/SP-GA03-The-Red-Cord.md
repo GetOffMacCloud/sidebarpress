@@ -6,7 +6,7 @@ publish_order: 10
 publish: true
 title: "The Red Cord"
 status: draft # draft | playtesting | editing | published
-levels: "1-4"
+levels: "3-4"
 party_size: "4-5"
 estimated_hours: 2
 setting: Greyhawk
@@ -19,11 +19,11 @@ tags: [one-shot, social, intrigue, urban, brawl, perrenland, schwartzenbruin, ri
 
 # The Red Cord
 
-**APL 2–3 (levels 1–4) · 4–5 characters · one 2-hour session**
+**APL 3 (levels 3–4) · 4–5 characters · one 2-hour session**
 
 > *In the mercenary taverns of Schwartzenbruin, every blade is tied into its sheath with a red cord at the door. Cut your cord and draw, and every company in the room becomes your enemy. Tonight, Perrenland's oldest free company will apologise to Ritter Konrad von Eisfeld for a contract it broke ninety-six years ago, and somebody in the room needs that apology to fail.*
 >
-> A Social / Intrigue / Urban one-shot for **average party level 1–4** (written for APL 2–3, with scaling tables for 1 and 4). Greyhawk University students cross Lake Quag with Ritterstadt's lord to serve as the scholars' witness at a sworn amends. They have to keep a proud man's hand off his sword, win back a stolen contract before the midnight bell, and learn what really happened the night the Witch came. The story is complete in one sitting: it opens no threads and leaves none dangling.
+> A Social / Intrigue / Urban one-shot for **average party level 3–4** (written for APL 3, with scaling for APL 4). Greyhawk University students cross Lake Quag with Ritterstadt's lord to serve as the scholars' witness at a sworn amends. They have to keep a proud man's hand off his sword, win back a stolen contract before the midnight bell, and learn what really happened the night the Witch came. The story is complete in one sitting: it opens no threads and leaves none dangling.
 
 ## Adventure Code
 `SP-GA03` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
@@ -161,23 +161,23 @@ Battlemaps still to be made: the Red Cord (common room, Kord ring, cord-board at
 ## Encounters
 Difficulty uses **4 PCs** and 2014 DMG thresholds and multipliers. **For 5 PCs, add one bandit. For 3 PCs, remove one creature (never the leader).** Full statblocks are in [[SP-GA03 — Bestiary]].
 
-| # | Name | Type | APL 1 | APL 2 | APL 3 | APL 4 | Notes |
-|---|---|---|---|---|---|---|---|
-| 1 | The Crossing & the Dock (S2) | social | — | — | — | — | Trust beats; the patrol's consistency test |
-| 2 | Under the Red Cord (S3) | social / investigation | — | — | — | — | Temper track; three witnesses; clues to Dornhalm and the truth |
-| 3 | The Brawl (S4) | nonlethal combat | 4 bandits — Medium (200) | 2 thugs + 2 bandits — Medium (500) | 3 thugs + 2 bandits — Medium (700) | 4 thugs + 2 bandits — Easy+ (900) | Unarmed and improvised only. Ilka's bouncers end it at the end of round 3. The cutpurse acts in round 2. |
-| 4 | The Chase (S5) | skill challenge | 3 successes before 2 failures | same | same | same | Failure means they reach the yard after the Soldbrief is hidden: +1 Bell segment |
-| 5 | Dornhalm's Yard (S5) | tactical combat | 4 bandits — Medium (200) | 1 thug + 3 bandits — Easy+ (350) | 2 thugs + 1 scout + 2 bandits — Medium (700) | yard foreman (bandit captain) + 2 thugs + 2 bandits — Medium-Hard (1,400) | Steel is legal here. Terrain includes log stacks, the sawpit, the boom crane and the river. |
-| 6 | The Bout under Kord (S6) | duel (optional) | Jost as thug, 20 HP | Jost as thug, 32 HP | Jost as veteran, 40 HP | Jost as veteran, 58 HP | One champion, unarmed, no magic, to yield or drop. A second may step in once. |
+| # | Name | Type | APL 3 | APL 4 | Notes |
+| --- | --- | --- | --- | --- | --- |
+| 1 | The Crossing & the Dock (S2) | social | — | — | Trust beats; the patrol's consistency test |
+| 2 | Under the Red Cord (S3) | social / investigation | — | — | Temper track; three witnesses; clues to Dornhalm and the truth |
+| 3 | The Brawl (S4) | nonlethal combat | 3 thugs + 2 bandits — Medium (700) | 4 thugs + 2 bandits — Easy+ (900) | Unarmed and improvised only. Ilka's bouncers end it at the end of round 3. The cutpurse acts in round 2. |
+| 4 | The Chase (S5) | skill challenge | same | same | Failure means they reach the yard after the Soldbrief is hidden: +1 Bell segment |
+| 5 | Dornhalm's Yard (S5) | tactical combat | 2 thugs + 1 scout + 2 bandits — Medium (700) | yard foreman (bandit captain) + 2 thugs + 2 bandits — Medium-Hard (1,400) | Steel is legal here. Terrain includes log stacks, the sawpit, the boom crane and the river. |
+| 6 | The Bout under Kord (S6) | duel (optional) | Jost as veteran, 40 HP | Jost as veteran, 58 HP | One champion, unarmed, no magic, to yield or drop. A second may step in once. |
 
-**Adventuring-day check (APL 1, 4 PCs):** The likely path costs about 400–600 adjusted XP against a daily budget of 1,200. That is a light day by design, because the danger tonight is social. At APL 4, the yard (1,400 adjusted) is the only real fight.
+**Adventuring-day check (APL 3, 4 PCs):** The likely path costs about 1,400 adjusted XP (the brawl and the yard at 700 each) against a daily budget of 4,800. That is a light day by design, because the danger tonight is social. At APL 4, the yard (1,400 adjusted) is the only real fight.
 
 ## Treasure & Rewards
 - **Field credits (Konrad's report to Goldwaage, per PC; counts toward the 600-credit limit):** Truth told and the amends sworn before the bell: 40. Amends sworn without the truth: 30. Sworn after the bell: 20. Steel drawn: 10.
 - **Extra credit (outside the limit):** a written account of the halved-standard custom, lodged with [[Lecturer Bertram Falk]] (Law & Heraldry), is worth 15 bonus credits each.
 - [[The Hundred's Cord-Knot|The cord-knot]]: Ilse gives each PC a red cord tied in the Hundred's knot. In any company tavern in Perrenland, it marks the bearer as someone who kept the peace when it mattered. *(This is a courtesy, not a hook.)*
 - **Plot keys (not loot):** [[The Soldbrief of 480]], [[The Halved Standard]], [[Kammerer's Daybook]], [[Gerhard's Longsword]], and [[Dornhalm's Tally-Book]].
-- **Dornhalm's purse** (taken by the patrol as evidence unless the party pockets it first): APL 1–2: 30 gp. APL 3–4: 60 gp and a silver measuring-chain fob (25 gp).
+- **Dornhalm's purse** (taken by the patrol as evidence unless the party pockets it first): 60 gp and a silver measuring-chain fob (25 gp).
 - **Konrad's choice:** the Hundred's 600 marks or its hundred swords go to Konrad, not the party. See the Denouement.
 - **Story XP (milestone note):** Award objective XP equal to one Medium encounter at the party's APL for each of these: the cord never cut, the Soldbrief back before the bell, the truth told, and Dornhalm in the patrol's hands.
 

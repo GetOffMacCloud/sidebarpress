@@ -56,7 +56,7 @@ The Provost hands over the journal and asks for quiet recovery (Part 1). The dea
 | F3 | The Provost is covering it up. | Grell's written orders on his body or in his pack. | The Provost's interest in "recovery, not report." | The professor says so to bargain: "Ask who signed my fieldwork." | Grell tries to kill the witnesses. |
 
 ## Hooks
-1. **The Provost's commission (default).** *"Confidential recovery of University field materials. Discretion essential. 40 credits each."*
+1. **The Provost's commission (default).** *"Confidential recovery of University field materials. Discretion essential. 800 credits each."*
 2. **Personal.** A PC was taught by Dietlind, or shared rooms with her.
 3. **Thread.** If hook 14 was run, the students already know how the University handles uncomfortable truths.
 - **Decline path:** another team takes the job. A month later the golem kills a shepherd family, and the Yati blame the University.
@@ -95,7 +95,7 @@ The Provost hands over the journal and asks for quiet recovery (Part 1). The dea
 - **A — Truth told, specimens destroyed:** the University is shaken, and the Yati trust the students.
 - **B — Quiet deal:** a favor owed, and a guilty conscience.
 - **C — The professor flees with the notes:** a recurring villain.
-- **Credits:** 40 base. Extra credit: +5 for a field report on Ur-Flan blood-rites, +5 for recovering Dietlind's body.
+- **Credits:** 800 base. Extra credit: +100 for a field report on Ur-Flan blood-rites, +100 for recovering Dietlind's body.
 
 ## Key NPCs
 - **The Professor** *(GU roster)*.

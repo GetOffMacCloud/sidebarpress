@@ -5,7 +5,7 @@ title: "The Dead Weather Tower"
 hook_number: 9
 tier: 1
 apl: 3
-levels: "2-4"
+levels: "3-4"
 party_size: "4-6"
 play_time: "one 3-4 hour session"
 adventure_type: "site + moral choice"
@@ -22,7 +22,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, griffon, site]
 
 # SEED-09 — The Dead Weather Tower
 
-**APL 3 (levels 2–4) · 4–6 characters · one 3–4 hour session**
+**APL 3 (levels 3–4) · 4–6 characters · one 3–4 hour session**
 
 > *"Wind SW, steady. Cloud low. The birds have taken the roof."* — last entry in the Ridge Station log
 
@@ -41,7 +41,7 @@ tags: [seed, one-shot, ritterstadt, greyhawk-university, griffon, site]
 ### What's Really Happening
 - **Griffons** (2) have nested on the tower's flat roof, among the instruments. There are three eggs.
 - Avery is barricaded inside, rationing biscuits and writing a thesis on the pair. He doesn't want them harmed.
-- The **Bursar** *(GU roster)* has quietly offered 50 credits for the eggs, which sell to Perrender falconers for a fortune.
+- The **Bursar** *(GU roster)* has quietly offered 150 credits for the eggs, which sell to Perrender falconers for a fortune.
 - **Sava Krell**, an egg-hunter who heard about the bounty, is two hours behind the students with hired muscle.
 
 ### If Nobody Interferes
@@ -60,7 +60,7 @@ The students climb to the silent tower past a dead mule and a **brown bear** fee
 | F3 | The Bursar wants the eggs. | The sealed second page of their orders. | Sava has the Bursar's bounty slip. | Avery heard it from the last supply clerk. | Sava says so at the climax. |
 
 ## Hooks
-1. **Job Board (default).** *"Ridge Station silent. Locate keeper P. Avery and restore instruments."* 20 credits each.
+1. **Job Board (default).** *"Ridge Station silent. Locate keeper P. Avery and restore instruments."* 300 credits each.
 2. **Personal.** A PC's friend or classmate is Avery's lab partner, holding his unfinished thesis.
 3. **Thread.** If SEED-21 has been run, Examiner Grenwald wants to see the griffons himself.
 - **Decline path:** another team goes. Avery is brought back injured, one griffon is dead, and the drovers' road is closed by attacks.
@@ -93,22 +93,22 @@ The students climb to the silent tower past a dead mule and a **brown bear** fee
 - **A — full success:** Avery rescued, the nest saved or moved, and the station back in service.
 - **B — partial:** Avery rescued but the eggs sold or broken. The ridge path stays dangerous.
 - **C — retreat or defeat:** the students fall back; Sava takes the eggs or Avery is badly hurt.
-- **Credits:** 20 base each. The Bursar's egg bounty pays 50 total if delivered (the vault cap still applies). +5 each for the restored instruments, +5 each for a published share of Avery's thesis.
+- **Credits:** 300 base each. The Bursar's egg bounty pays 150 total if delivered (no student may take more than double base from one quest). +25 each for the restored instruments, +25 each for a published share of Avery's thesis.
 
 ## Key NPCs
 **Pell Avery**, graduate weather-keeper. *Deity:* [Velnius] (a canon weather god; verify at build). *Wants:* the birds safe and his thesis finished. *Knows:* the griffons' routine, the tower's layout. *Reacts:* cheerful → stubborn → will put himself between the eggs and a crossbow.
 
-**Sava Krell**, egg-hunter. *Deity:* [Zilchus]. *Wants:* 50 credits' worth of eggs, plus a Perrender falconer's price. *Knows:* the bounty slip, smoke tactics. *Reacts:* bargain (offers a split) → smoke → shoot → flee at half her crew.
+**Sava Krell**, egg-hunter. *Deity:* [Zilchus]. *Wants:* 150 credits' worth of eggs, plus a Perrender falconer's price. *Knows:* the bounty slip, smoke tactics. *Reacts:* bargain (offers a split) → smoke → shoot → flee at half her crew.
 
 **The Bursar** *(GU roster)*, offstage until the end.
 
 ## Opposition & Stat Pointers (2014 MM)
 | Creature | Block | Count by APL | Notes |
 |---|---|---|---|
-| Griffons | griffon | 1 / 2 / 2 (APL 2/3/4) | Defend the nest only |
+| Griffons | griffon | 2 / 2 (APL 3/4) | Defend the nest only |
 | Brown bear | brown bear | 1 | Feeding on the mule; avoidable |
 | Sava Krell | bandit captain | 1 | Leads the climb |
-| Crew | bandit / thug | 3 bandits / 2 thugs + 2 bandits / 3 thugs | Smoke-pots |
+| Crew | bandit / thug | 2 thugs + 2 bandits / 3 thugs (APL 3/4) | Smoke-pots |
 
 ## Treasure & Items
 - Station stores: a spyglass (1,000 gp, University property), a signal mirror, and a healer's kit.

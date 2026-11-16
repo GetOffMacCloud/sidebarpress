@@ -28,6 +28,69 @@ To advance, a student must pay their "Tuition" in Credits — the cost of specia
 
 ---
 
+## 💰 Quest Pay (rule set 2026-11-16)
+
+Every sanctioned quest pays **the adventure's APL × 100 Credits to each student**, whatever their own level. Print the figure in the module ("Credits: 300 each") so any party that runs or finishes it pays the same.
+
+| Outcome | Pay |
+|---|---|
+| **Full success** (primary objective met) | 100% of base |
+| **Partial success** | 50–75% of base, DM's call |
+| **Failure or abandonment** | 0, and Academic Probation (see Design Notes) |
+| **Extra credit** (field report, maps, finds, Major bonus) | about +10–25% on top |
+| **Ceiling** | no single quest pays more than **2× base** |
+
+**Pace at full success:** 3→4 takes 4 quests (one semester), 4→5 takes 5, 5→6 takes 6, 6→7 takes 7. A low-level student on a higher-APL quest earns that quest's rate, which is the catch-up for drop-in players. There is no running credit cap; the old 600 limit is retired.
+
+---
+
+## 🎓 Capstone Quests — The Rules (set 2026-11-16)
+
+A one-shot tests whether the party survives. A Capstone tests whether *this student* earned the level.
+
+### 1. Eligibility (all required)
+- [ ] Credits on account for the next level (1,000 / 3,000 / 6,000 / 10,000 cumulative).
+- [ ] A **Declaration of Intent** filed with the Registrar, naming the Major (a Freshman names the Major they intend to declare).
+- [ ] At least **four sanctioned quests** (one semester) since the last Capstone or since enrolling.
+- [ ] Not on Academic Probation or a Registrar's Hold.
+- [ ] A **sitting fee of 10%** of the tuition, paid up front and non-refundable. The other 90% is charged only on a pass.
+
+### 2. The Party
+- **At least two Candidates** must sit together. No solo Capstones.
+- Other players may join as **Field Assistants**: normal APL pay, no exam, and they cannot complete a Candidate's Domain Task.
+
+### 3. Difficulty
+- **APL = the Candidates' level + 1** (a Freshman Capstone runs at APL 4).
+- Every combat is **Deadly**, plus one encounter beyond Deadly that clever play can avoid.
+- **No Requisition Loadout Package.** Patron help scales by year: Freshman none; Sophomore supplied gear; Junior cash stipend; Senior full patron access.
+- **A hard clock.** If it runs out, every Candidate fails.
+
+### 4. The Three Parts (a Candidate must pass all three)
+| Part | What it is | Pass condition |
+|---|---|---|
+| **The Field Test** | The expedition | The exam objective is met before the clock runs out |
+| **The Domain Task** | A sealed objective set by the Candidate's Major, handed only to that Candidate | The Candidate did it personally: their action, check or spell |
+| **The Defense** | A role-played defense before the Department Head | 2 of 3 checks at **DC 10 + new level**, each a different skill; advantage per piece of physical evidence brought back |
+
+### 5. By Year
+| Capstone | Level | It tests |
+|---|---|---|
+| Freshman → Sophomore | 3 → 4 | **Survival and method:** a field retrieval in the intended Major |
+| Sophomore → Junior | 4 → 5 | **Leadership:** each Candidate makes at least one binding command decision for the party |
+| Junior → Senior | 5 → 6 | **Original research:** find something the University does not yet know |
+| Senior → Fellow | 6 → 7 | **Commission it:** the Candidate writes the brief, recruits the team and runs the expedition |
+
+### 6. Results
+- **Pass:** pay the remaining 90% of tuition, gain the level, and the Registrar records the Declaration and its Boon. **A Capstone pays no Credits**; the level is the reward. Extra credit still applies.
+- **Fail:** the sitting fee is lost and the Candidate waits one week (real time) before resitting.
+- **Death:** a Candidate who dies fails. If raised, they may resit after the wait.
+- **Three failures in a row:** a **Registrar's Hold**, meaning no Capstone for one semester (four quests).
+- **Abandoning a Capstone** mid-mission triggers Academic Probation, as below.
+
+Use `90-Templates/Capstone.md` to build one.
+
+---
+
 ## 🎒 The University "Exchange" (Credit Store)
 
 Credits are not only for levelling — they are the currency of the University's logistics.

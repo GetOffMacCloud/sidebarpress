@@ -56,7 +56,6 @@ If the party reads the sigils or the slip now, they know **F1** and probably **F
 ## Encounter (if any)
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 2 | Archive Pike (Trophy Guardian, 25 hp) | Easy (200) |
 | 3 | Archive Pike (Trophy Guardian) | Easy (200) |
 | 4 | Archive Pike + lake gar (2 Trophy Guardians) | Easy (600) |
 
@@ -92,7 +91,6 @@ Use this if the gate rota turns out in force (Alert): a pack of 4–6 **Gate-Rot
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 2 | 15 | +3 | 13 | 5 | 112 |
 | 3 (built) | 15 | +4 | 13 | 7 | 175 |
 | 4 | 16 | +5 | 14 | 9 | 275 |
 

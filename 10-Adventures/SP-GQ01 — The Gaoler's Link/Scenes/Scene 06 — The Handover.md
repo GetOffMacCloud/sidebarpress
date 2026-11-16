@@ -58,7 +58,6 @@ If Snick tries to take the Link, it shrieks as its claws smoke and drops it (the
 ## Encounter (if any)
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 2 | Vesharan + 1 bargeman; Snick only distracts and flees at the first hit (not counted) | Hard (500 → ×1.5 = 750; deadly is 800) |
 | 3 | Vesharan + Snick + 2 bargemen (Tethered Sleepers) | Hard (750 → ×2 = 1,500) |
 | 4 | as APL 3 + Tegin (scout) | Hard (850 → ×2 = 1,700; hard 1,500–1,999) |
 
@@ -99,7 +98,6 @@ Use this if the *Hecht*'s other bargemen pile in at Alert: a pack of 4 **Hecht B
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 2 | 15 | +3 | 13 | 5 | 112 |
 | 3 (built) | 15 | +4 | 13 | 7 | 175 |
 | 4 | 16 | +5 | 14 | 9 | 275 |
 

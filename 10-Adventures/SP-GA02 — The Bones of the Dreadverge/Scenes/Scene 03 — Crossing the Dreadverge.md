@@ -73,8 +73,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Bone Hound** minion
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 13 | +3 | 13 | 5 | 50 |
-| 2 | 13 | +3 | 13 | 7 | 112 |
 | 3 (built) | 13 | +4 | 13 | 9 | 175 |
 | 4 | 14 | +5 | 14 | 12 | 275 |
 
@@ -105,8 +103,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Bone Hound** minion
 ### Encounter 5 — The Cut-Trenches
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | 2 bone boars | Easy (150 adj.) |
-| 2 | 3 bone boars + 1 bone elk | Medium (400 adj.) |
 | 3 | 4 bone boars + 2 bone elk | Medium (600 adj.) |
 | 4 | 4 bone boars + 2 bone elk + 2 bone hounds | Medium (1,000 adj.) |
 

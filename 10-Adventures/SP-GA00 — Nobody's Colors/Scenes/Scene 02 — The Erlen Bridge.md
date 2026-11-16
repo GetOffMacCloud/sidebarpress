@@ -24,7 +24,7 @@ The first real decision, and the reveal if it hasn't happened. **This scene is b
 
 ## Who Is Here
 - **[[Boedic of the Meerijder]]**, drover. *Wants:* to obey a lawful writ and go home to his cows. *Knows:* the writ says hold the wagons and the Junker until the Ratsherr comes; it says nothing about the party. *Reacts:* explains himself, asks questions, apologizes while not moving.
-- **Five Meerijder drovers** (three at APL 1) with cattle goads, and (APL 3–4) two mastiffs trained to hold cloth.
+- **Five Meerijder drovers** with cattle goads, and two mastiffs trained to hold cloth.
 - **[[Old Hartwin]]**, 68, in the toll house. Will not fight; remembers faces.
 
 ## Beats
@@ -66,8 +66,6 @@ Otwin: *"Yes. Thirty horses over three years, paid in silver, quarterly, by the 
 ## Encounter (if any)
 | APL | Creatures | Difficulty (4 PCs) |
 |---|---|---|
-| 1 | Boedic + 3 drovers | Deadly (1,500) |
-| 2 | Boedic + 5 drovers | Deadly (1,900) |
 | 3 | Boedic + 5 drovers + 2 mastiffs | Deadly (2,500) |
 | 4 | Boedic + 5 drovers + 2 mastiffs | Deadly (2,500) |
 
@@ -101,8 +99,6 @@ Use this when the fight needs more bodies: a pack of 4–8 **Meerijder Drover** 
 
 | APL | AC | Attack | DC | Damage | XP each |
 |---|---|---|---|---|---|
-| 1 | 12 | +3 | 13 | 8 | 50 |
-| 2 | 12 | +3 | 13 | 11 | 112 |
 | 3 (built) | 12 | +4 | 13 | 14 | 175 |
 | 4 | 13 | +5 | 14 | 18 | 275 |
 
