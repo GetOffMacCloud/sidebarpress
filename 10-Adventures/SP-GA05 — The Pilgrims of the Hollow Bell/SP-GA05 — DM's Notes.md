@@ -179,24 +179,24 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 ## Credits (Greyhawk University frame)
 | Ending | Base (each) | Extra credit |
 |---|---|---|
-| A — The Bell Sleeps | 120 | up to 45 |
-| B — The Bell Taken | 90 | up to 30 |
-| C — Kalbach Lost | 90 | up to 33 (not *Kalbach saved*) |
-| D — The King Walks (laid down or defeated) | 90 | up to 30 |
+| A — The Bell Sleeps | 300 | up to 75 |
+| B — The Bell Taken | 225 | up to 55 |
+| C — Kalbach Lost | 225 | up to 55 (not *Kalbach saved*) |
+| D — The King Walks (laid down or defeated) | 225 | up to 55 |
 | E — Retreat | 0 | — (Academic Probation in a West Marches game) |
 
-**Extra credit:** Kalbach saved +12 · bell intact +12 · Lore of the Gods (Winter Telling and Nerull's cult in the field report) +9 · relay log returned +6 · land restored (both wells *and* the stag) +6. The Antiquities lintel rubbing (hook) is +9 within the cap. Never exceed the 600-credit cap. Log each award in the PC's Credit Ledger.
+**Extra credit:** Kalbach saved +20 · bell intact +20 · Lore of the Gods (Winter Telling and Nerull's cult in the field report) +15 · relay log returned +10 · land restored (both wells *and* the stag) +10. The Antiquities lintel rubbing (hook) is +15 within the 75. No student takes more than double base (600) from one quest. Log each award in the PC's Credit Ledger.
 
-**Lead credits** (on top of the extra credit above, on endings A–D): each side quest the wardens uncover pays when it's written up in the field report. Up to +36.
+**Lead credits** (on top of the extra credit above, on endings A–D): each side quest the wardens uncover pays when it's written up in the field report. Up to +60.
 
 | Side quest | Credit | Earned when |
 |---|---|---|
-| [[The Grey Sickle's List]] | +9 | The field report includes the list page and names the next targets: Hex G5 and the Larch tree line |
-| [[The Copper-Torc Dead]] | +9 | The field report notes the copper torcs and connects them to the dead walking out of the Vesve |
-| [[The Grave-Silver]] | +6 | The wardens bring back a green Flan coin and the report identifies it as barrow-struck |
-| [[Ansgar Returns]] | +6 | After Ending B only: the report says Ansgar escaped with the clapper and will come back for the bell at the next new moon. Ending E pays nothing: a hollowed bell is a crisis, not a lead |
-| [[Grukka's Deserters]] | +3 | Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off |
-| [[Hollen Ford Must Be Manned]] | +3 | The report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it |
+| [[The Grey Sickle's List]] | +15 | The field report includes the list page and names the next targets: Hex G5 and the Larch tree line |
+| [[The Copper-Torc Dead]] | +15 | The field report notes the copper torcs and connects them to the dead walking out of the Vesve |
+| [[The Grave-Silver]] | +10 | The wardens bring back a green Flan coin and the report identifies it as barrow-struck |
+| [[Ansgar Returns]] | +10 | After Ending B only: the report says Ansgar escaped with the clapper and will come back for the bell at the next new moon. Ending E pays nothing: a hollowed bell is a crisis, not a lead |
+| [[Grukka's Deserters]] | +5 | Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off |
+| [[Hollen Ford Must Be Manned]] | +5 | The report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it |
 
 **Outside the University frame:** 50 gp each on A, 30 gp on B–D. XP as normal, or advance to 4th level on A–D with milestones.
 

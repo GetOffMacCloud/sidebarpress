@@ -6,7 +6,7 @@ publish_order: 510
 publish: true
 title: "The Grey Sickle's List"
 status: seed
-lead_credit: 9
+lead_credit: 15
 levels: "APL 3–4"
 tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 ---
@@ -29,7 +29,7 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 A page from a list of old graves, folded inside Sister Halse's notes at Hollen Ford. Carn Aedh is crossed out. The other names are not.
 
 ## Lead Credit
-**+9** on top of the session's extra credit. Earned when the field report includes the list page and names the next targets: Hex G5 and the Larch tree line.
+**+15** on top of the session's extra credit. Earned when the field report includes the list page and names the next targets: Hex G5 and the Larch tree line.
 
 ## Links
 - The Dreadverge (SP-GA02): the same cell opened the Hound-Mother's barrow. Groups who played it will recognize the ash circles.

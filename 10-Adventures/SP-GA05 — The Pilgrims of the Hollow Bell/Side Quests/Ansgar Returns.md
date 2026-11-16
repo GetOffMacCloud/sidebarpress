@@ -6,7 +6,7 @@ publish_order: 530
 publish: true
 title: "Ansgar Returns"
 status: seed
-lead_credit: 6
+lead_credit: 10
 levels: "APL 4"
 tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 ---
@@ -29,7 +29,7 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 Brother-Reaper Ansgar Vell escaped the Bell-Tor with the bone clapper. The bell still hangs, and he needs both.
 
 ## Lead Credit
-**+6** on top of the session's extra credit. Earned only after Ending B, when the report says Ansgar escaped with the clapper and will come back for the bell at the next new moon. Ending E pays nothing: a hollowed bell is a crisis, not a lead.
+**+10** on top of the session's extra credit. Earned only after Ending B, when the report says Ansgar escaped with the clapper and will come back for the bell at the next new moon. Ending E pays nothing: a hollowed bell is a crisis, not a lead.
 
 ## Links
 - [[Brother-Reaper Ansgar Vell]], [[The Bone Clapper]], [[The Sun-Bell of Carn Aedh]].

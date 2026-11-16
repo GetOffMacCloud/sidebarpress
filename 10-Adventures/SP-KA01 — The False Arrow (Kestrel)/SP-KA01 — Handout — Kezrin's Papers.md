@@ -15,7 +15,7 @@ Back to [[SP-KA01-The-False-Arrow]] · Recovered in [[SP-KA01 — Scene 07 — T
 
 > **DM:** an oilskin packet. One letter under black wax pressed with a grinning skull, in Common. One folded ledger page in Amshari merchant's shorthand: a PC who has attended [[Professor-Ilsabet-Federkiel]]'s Karashi lectures reads it on Intelligence DC 12, or Sarnai reads it for them.
 >
-> **Extra credit:** if the papers reach the Field Station's Historical Society, it counts as a documented, historically significant discovery — **50 bonus credits** each, outside the 600-credit limit.
+> **Extra credit:** if the papers reach the Field Station's Historical Society, it counts as a documented, historically significant discovery — **50 bonus credits** each.
 
 ---
 

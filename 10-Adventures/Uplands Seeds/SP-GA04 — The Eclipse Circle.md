@@ -88,7 +88,7 @@ Students escort the University's eclipse expedition to the Watchers (Part 1). On
 
 ## Hooks
 
-1. **The Job Board (default).** _"Wanted: four to six students of sound body to escort the Department of Natural Philosophy's eclipse expedition to the Brennock Ridge. Duties: portage, camp, guard, record. 40 credits each; extra credit for observations accepted into the Department's report."_ Pays 40 credits each, with up to 10 extra credit per student for a usable record.
+1. **The Job Board (default).** _"Wanted: four to six students of sound body to escort the Department of Natural Philosophy's eclipse expedition to the Brennock Ridge. Duties: portage, camp, guard, record. 400 credits each; extra credit for observations accepted into the Department's report."_ Pays 400 credits each, with up to 100 extra credit per student for a usable record.
 2. **Personal: the Yati student.** A PC with Flan or Yati roots receives a letter from a great-aunt: _"If you're going up with the stargazers, take a hide."_ The PC does not need to be a Brannagh.
 3. **The Survey thread (if SP hook 1 has been run).** Flan Antiquities asks for rubbings of every carving on the stones. The pulled stakes from "The Dawn Hold Survey" all pointed at this ridge.
 4. **The Dwarf's Question (if hook 2 has been run).** The peddler's rune-key has an eye-shaped bow, and Hogar Irongrip, Ritterstadt's master smith and an exile of Clan Irongrip of Bitter Pass, wants to know whether "the Watchers" still stand.
@@ -277,7 +277,7 @@ The **Tally of the Horned King**: the pillar records, in Flan count-marks and pi
 
 ## Concluding the Adventure
 
-**A — The Count Kept (full success).** The Eye was covered or the lens pulled, Saal is captured or dead, and no rubbing leaves the ridge. Nessa gives the students a Brannagh hide-token, which earns them Yati hospitality in later adventures. The Department gets its observation: 40 credits plus up to 10 extra credit each.
+**A — The Count Kept (full success).** The Eye was covered or the lens pulled, Saal is captured or dead, and no rubbing leaves the ridge. Nessa gives the students a Brannagh hide-token, which earns them Yati hospitality in later adventures. The Department gets its observation: 400 credits plus up to 100 extra credit each.
 
 **B — Shut In.** Saal was sealed below. The students carry his notebook and letter to the University. The Department quietly asks them to keep it out of the report. The Brannaghs set a watch for the next dark sun, in eleven years.
 
@@ -287,7 +287,7 @@ The **Tally of the Horned King**: the pillar records, in Flan count-marks and pi
 
 **E — Saal Escapes (retreat/defeat).** The rubbing goes north. Within a season, Iuz's agents arrive in the Mounds of Dawn with better maps. Loosed shadows haunt the Brennock Ridge. Run "The Old One's Road" (hook 3) as the direct sequel.
 
-**Credits.** Base 40 per student for completing the escort. Extra credit (up to 10 each): a usable record of the eclipse (+5), notch-calendar matched to the tables (+3), and the Tally recorded and returned to the Department (+2). Do not exceed the 600-credit cap.
+**Credits.** Base 400 per student for completing the escort. Extra credit (up to 100 each): a usable record of the eclipse (+50), notch-calendar matched to the tables (+30), and the Tally recorded and returned to the Department (+20). No student takes more than double base from one quest.
 
 ### Continuing the Adventure
 

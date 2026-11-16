@@ -25,6 +25,6 @@ A ribbon of heat runs out from your hand in a line 30 feet long and 5 feet wide.
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 and the melted ice thickness by 1 foot for each slot level above 1st.
 
 ## Notes
-- An old Ritterstadt ice-fishers' working, written down by Lecturer Hamlin Dreel (Subterranean Studies), whose father fished the Quag. A student can learn it from Dreel before SP-GQ05 (cost: a term's tuition step, or 20 credits).
+- An old Ritterstadt ice-fishers' working, written down by Lecturer Hamlin Dreel (Subterranean Studies), whose father fished the Quag. A student can learn it from Dreel before SP-GQ05 (cost: 200 credits).
 - Damage is in line with 1st-level line and cone spells. Its real power is cutting the ice under a pursuer, or cutting a path through fog.
 - *Homebrew.*

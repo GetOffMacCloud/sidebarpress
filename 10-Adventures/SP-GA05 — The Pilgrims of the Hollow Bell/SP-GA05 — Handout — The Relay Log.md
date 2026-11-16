@@ -11,7 +11,7 @@ tags: [handout, player-facing, sp-pbs-05]
 
 # Handout 2 — The Relay Log
 
-Found on the desk at Hollen Ford (E2). Fact F3. Returning it earns +6 credits.
+Found on the desk at Hollen Ford (E2). Fact F3. Returning it earns +10 credits.
 
 > [!art]+ Handout 2
 > ![[SP-GA05 handout-2-relay-log.png|500]]

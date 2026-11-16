@@ -99,7 +99,7 @@ Use the **Hecht Bargeman, Enforcer Minion** pack in [[Scene 06 — The Handover#
 - **The false Link sails** → **Conclusion B**. Vesharan is gone, Brandmeier is still tethered and still aboard, and the party has a conscience problem that opens SP-GQ02.
 - **The trap springs** → **Conclusion A**, with the watch as witnesses.
 - **Confession** → **Conclusion A or C**, depending on whether the party was already caught.
-- **The cipher letter recovered** → +5 extra credit (Scene 08), and the arc's thread to Liesl and Molag.
+- **The cipher letter recovered** → +25 extra credit (Scene 08), and the arc's thread to Liesl and Molag.
 
 ## Clues Available Here
 - The winter furs → **F3**

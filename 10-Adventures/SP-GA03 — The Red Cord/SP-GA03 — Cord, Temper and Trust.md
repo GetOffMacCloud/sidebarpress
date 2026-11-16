@@ -85,7 +85,7 @@ The Council's clerk sits at the Red Cord until the cathedral bell strikes midnig
 |---|---|
 | 0–5 | **In time.** The full ceremony runs as written in Scene 6. |
 | 6 | **The bell is ringing.** The clerk is putting on his coat. One Persuasion DC 13 (or the Soldbrief slapped on the table) holds him. |
-| 7+ | **After the bell.** The clerk is gone. The amends moves to the Hetmen's dawn sitting as a legal filing. The truth can still come out, and the charter is still saved, but the Hundred's gratitude shrinks to **coin only, 300 marks**. Field credits drop to 20. |
+| 7+ | **After the bell.** The clerk is gone. The amends moves to the Hetmen's dawn sitting as a legal filing. The truth can still come out, and the charter is still saved, but the Hundred's gratitude shrinks to **coin only, 300 marks**. Field credits drop to 150. |
 
 ## Designed partial failure: the cord is cut
 
@@ -93,7 +93,7 @@ Do not end the adventure. Instead:
 
 1. The room goes silent and every company turns its chairs away. Ilse, white-faced, says, *"Not here. Not now. Not under the cord."*
 2. Dornhalm leaves smiling. The Soldbrief may still be stolen (move Scene 4's cutpurse into the silence).
-3. At dawn, Ilse meets Konrad privately at the Hundred's chapter-house of Kord. The truth can still be found there: the banner, the oath and the daybook all still work. But the Hundred cannot be seen giving gifts to a cord-cutter, so **there is no swords-or-coin offer**. Konrad goes home with the truth and nothing else. Field credits are 10.
+3. At dawn, Ilse meets Konrad privately at the Hundred's chapter-house of Kord. The truth can still be found there: the banner, the oath and the daybook all still work. But the Hundred cannot be seen giving gifts to a cord-cutter, so **there is no swords-or-coin offer**. Konrad goes home with the truth and nothing else. Field credits are 75.
 
 *Partial failure costs Konrad the gratitude, never the truth. Do not add punishment beyond this.*
 

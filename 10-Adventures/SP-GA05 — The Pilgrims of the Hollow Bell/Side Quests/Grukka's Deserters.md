@@ -6,7 +6,7 @@ publish_order: 540
 publish: true
 title: "Grukka's Deserters"
 status: seed
-lead_credit: 3
+lead_credit: 5
 levels: "APL 4"
 tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 ---
@@ -29,7 +29,7 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 Grukka One-Tusk's deserters owe the wardens a favor, and Iuz's army wants its deserters back.
 
 ## Lead Credit
-**+3** on top of the session's extra credit. Earned when Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off.
+**+5** on top of the session's extra credit. Earned when Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off.
 
 ## Links
 - [[Grukka One-Tusk]]. Links to **SEED-12, "The Perrenlander Recruiter"** (is the Sickle Molag's?).

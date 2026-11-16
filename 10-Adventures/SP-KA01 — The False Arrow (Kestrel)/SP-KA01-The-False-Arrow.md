@@ -183,9 +183,9 @@ Difficulty for **level 3** with 2014 DMG thresholds and multipliers. Full statbl
 - [[The-False-Wolf-Arrows|The false Wolf Clan arrows]] — the ravine arrows, the black-steel arrowhead, and Tsolmon's arrow. Climax evidence, not loot.
 - **Steppe ponies** — one per PC if the parley passes.
 - **Sorvash's parley-gift** — 150 gp each in silver ingots and furs, if the parley passes.
-- **Brennin's report to Magister Kartner (field credits per PC):** The parley holds 60 · A year bought 50 · Truth without trust 40 · Heard and refused 30 · Cast out 20. Counts toward the 600-credit limit. Plus free healing at the hospice forever.
-- **Halya's letter of field expertise (extra credit):** 25 credits each if they spied, 10 if not. Outside the 600-credit limit.
-- **Historical Society discovery (extra credit):** Kezrin's papers delivered to the Field Station's Historical Society (Letters & Cultures) — 50 bonus credits each. Outside the 600-credit limit.
+- **Brennin's report to Magister Kartner (field credits per PC):** The parley holds 300 · A year bought 250 · Truth without trust 200 · Heard and refused 150 · Cast out 100. Plus free healing at the hospice forever.
+- **Halya's letter of field expertise (extra credit):** 25 credits each if they spied, 10 if not.
+- **Historical Society discovery (extra credit):** Kezrin's papers delivered to the Field Station's Historical Society (Letters & Cultures) — 50 bonus credits each. No student takes more than double base from one quest.
 - **Kezrin's bribe** — 200 gp (plus 300 promised) if a PC takes it. Sarnai will ask about it.
 - [[SP-KA01 — Handout — Kezrin's Papers|Kezrin's papers]] — if recovered.
 

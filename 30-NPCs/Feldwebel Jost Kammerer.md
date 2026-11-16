@@ -26,7 +26,7 @@ Taciturn and stubborn. He drinks with soldiers, not officers. When he cannot ans
 - **Released by:** Konrad speaking the words, the two half-standards matched (the proof speaks so he doesn't have to), or a lost bout under Kord.
 
 ## Stat Block
-**Thug** (APL 1–2) or **Veteran** (APL 3–4), MM p. 350, with the brawl swap. See [[SP-GA03 — Bestiary]].
+**Veteran** (MM p. 350), with the brawl swap. See [[SP-GA03 — Bestiary]].
 
 ## Appearances
 - [[SP-GA03-The-Red-Cord]] — Scenes 3 and 6

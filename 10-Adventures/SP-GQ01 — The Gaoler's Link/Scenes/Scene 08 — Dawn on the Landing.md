@@ -42,28 +42,28 @@ Choose the box that fits.
 
 ### A — The Turn (full success)
 Vesharan is exposed, Brandmeier is freed, and the Link is back with Vogelsang. Grell and the Warden quietly settle the burglary against the students' service: a reprimand in the Registrar's ledger, not a suspension. Brandmeier pays his 25 marks and becomes the party's friend in Schwartzenbruin. Vogelsang, if the party kept his secret, owes them.
-**Credits:** 40 base, plus up to 15 extra credit each.
+**Credits:** 300 base, plus up to 75 extra credit each.
 
 ### B — The False Link
 The *Hecht* sailed with Hogar's fake. Vesharan learns the truth at his first camp. Brandmeier is still tethered and still aboard, which troubles the students' consciences and opens SP-GQ02. The Link stays in Ritterstadt, and the students must still explain to Vogelsang how they knew.
-**Credits:** 30, plus up to 10 extra credit each.
+**Credits:** 225, plus up to 50 extra credit each.
 
 ### C — Caught, Then Believed
 The students were caught in the act and talked their way into the truth. Vogelsang and Garrok sprang the trap themselves while the students watched from the quay.
-**Credits:** 25 each, no extra credit, and a mark in the Registrar's ledger.
+**Credits:** 190 each, no extra credit, and a mark in the Registrar's ledger.
 
 ### D — Caught, Not Believed (partial)
-The theft was discovered, and the students said nothing or weren't believed. Grell suspends them from the Board for a month and fines each **20 credits**. Vesharan sails without the Link, and Brandmeier sails still tethered. The students pick up the trail in SP-GQ02 to clear their names.
+The theft was discovered, and the students said nothing or weren't believed. Grell suspends them from the Board for a month and fines each **150 credits**. Vesharan sails without the Link, and Brandmeier sails still tethered. The students pick up the trail in SP-GQ02 to clear their names.
 
 ### E — The Link Goes North (retreat or defeat)
 The Link was boxed and the *Hecht* sailed. By Ready'reat it is in Kermin's hands. SP-GQ04 changes: the students carry a *decoy* to draw Kermin's hunters while the University tries to get the real Link back. Liesl is taken earlier, during SP-GQ03.
 **Credits:** none.
 
-### Extra credit (up to 15 each)
-- Brandmeier freed: **+5**.
-- The cipher letter recovered: **+5**.
-- No sealed file opened, and nobody hurt inside the palisade: **+5**.
-Never exceed the 600-credit cap.
+### Extra credit (up to 75 each)
+- Brandmeier freed: **+25**.
+- The cipher letter recovered: **+25**.
+- No sealed file opened, and nobody hurt inside the palisade: **+25**.
+No student takes more than double base (600) from one quest.
 
 ### Tock's gift (A or B)
 That afternoon, Lecturer Tock takes a rubbing of the six sigils "for the record" and finds the linen has gone warm. He gives one **[[Rubbing of the Six]]** to each student who handled the Link and asks them not to tell Vogelsang.

@@ -62,7 +62,7 @@ Halse dropped a penny in the relay's well two nights ago. The riders drank the m
 ## Loot
 | Item | Where | Notes |
 |---|---|---|
-| **The relay log** (Handout 2) | R2, the desk | F3. Returning it to the Field Office: **+6 credits**. |
+| **The relay log** (Handout 2) | R2, the desk | F3. Returning it to the Field Office: **+10 credits**. |
 | **Sister Halse's notes** (Handout 3) + **a page of the list** | R1, in the mud | F4; turns Grukka (DC 12); opens [[The Grey Sickle's List]]. |
 | [[Reaper's Penny]] (1) | The relay well | Cleansing it counts toward *Land Restored*. |
 | Relay strongbox | R2, under the bunk (key on a dead rider) | **40 gp courier float** (Field Office property: returned or not, the clerk counts it). |

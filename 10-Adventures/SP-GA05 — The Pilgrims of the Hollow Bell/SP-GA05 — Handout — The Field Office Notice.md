@@ -17,4 +17,4 @@ Handed out in Scene 1. Stamped DO NOT ENGAGE.
 > ![[SP-GA05 handout-4-field-office-notice.png|500]]
 
 ## Text
-"Wanted: four to six wardens, field-capable, for a two-day observation detail in the northern Uplands. Track and report on a religious procession. DO NOT ENGAGE. Report to the Hollen Ford relay. 120 credits each."
+"Wanted: four to six wardens, field-capable, for a two-day observation detail in the northern Uplands. Track and report on a religious procession. DO NOT ENGAGE. Report to the Hollen Ford relay. 300 credits each."

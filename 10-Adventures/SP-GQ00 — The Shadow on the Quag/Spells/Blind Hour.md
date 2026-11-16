@@ -25,6 +25,6 @@ Choose a point you can see within range. For the duration, creatures and objects
 
 ## Notes
 - Lecturer Perenna Dolz worked this out at Ritterstadt in 576 by studying the fog the [[The Gaoler's Link|Gaoler's Link]] made in her students' scrying. She calls the visible fog "the honest flaw," since it hides the secret but not the fact that there is one.
-- It is a teachable University spell. A student of Divination & Omenry can learn it from Dolz after SP-GQ01 (cost: a term's tuition step, or 30 credits).
+- It is a teachable University spell. A student of Divination & Omenry can learn it from Dolz after SP-GQ01 (cost: 300 credits).
 - In SP-GQ04 it turns a camp into a hole in Kermin's sight. Combined with the decoy [[Coffer of False Weight|coffers]], it makes the shell game work.
 - *Homebrew.*

@@ -173,8 +173,8 @@ Difficulty uses **4 PCs** and 2014 DMG thresholds and multipliers. **For 5 PCs, 
 **Adventuring-day check (APL 3, 4 PCs):** The likely path costs about 1,400 adjusted XP (the brawl and the yard at 700 each) against a daily budget of 4,800. That is a light day by design, because the danger tonight is social. At APL 4, the yard (1,400 adjusted) is the only real fight.
 
 ## Treasure & Rewards
-- **Field credits (Konrad's report to Goldwaage, per PC; counts toward the 600-credit limit):** Truth told and the amends sworn before the bell: 40. Amends sworn without the truth: 30. Sworn after the bell: 20. Steel drawn: 10.
-- **Extra credit (outside the limit):** a written account of the halved-standard custom, lodged with [[Lecturer Bertram Falk]] (Law & Heraldry), is worth 15 bonus credits each.
+- **Field credits (Konrad's report to Goldwaage, per PC):** Truth told and the amends sworn before the bell: 300. Amends sworn without the truth: 225. Sworn after the bell: 150. Steel drawn: 75.
+- **Extra credit:** a written account of the halved-standard custom, lodged with [[Lecturer Bertram Falk]] (Law & Heraldry), is worth 75 bonus credits each.
 - [[The Hundred's Cord-Knot|The cord-knot]]: Ilse gives each PC a red cord tied in the Hundred's knot. In any company tavern in Perrenland, it marks the bearer as someone who kept the peace when it mattered. *(This is a courtesy, not a hook.)*
 - **Plot keys (not loot):** [[The Soldbrief of 480]], [[The Halved Standard]], [[Kammerer's Daybook]], [[Gerhard's Longsword]], and [[Dornhalm's Tally-Book]].
 - **Dornhalm's purse** (taken by the patrol as evidence unless the party pockets it first): 60 gp and a silver measuring-chain fob (25 gp).
@@ -192,10 +192,10 @@ The amends is sworn and Gerhard's complaint is withdrawn. The Hundred's name com
 ### Endings at a Glance
 | Ending | Condition | Result |
 |---|---|---|
-| **A — The truth before the bell** | Any truth route taken, with Bell ≤ 6 | Full amends both ways; swords or coin (600 marks); 40 credits |
-| **B — The false oath** | The amends is sworn over Jost's objection | Charter saved; Jost walks out; the lie stands; the offer is still made; 30 credits |
-| **C — After the bell** | Bell 7+ | Dawn filing before the Hetmen; the truth can still come out; coin only (300 marks); 20 credits |
-| **D — The cord cut** | Temper 6, or a PC draws | The truth is available at the chapter-house at dawn; no offer; 10 credits |
+| **A — The truth before the bell** | Any truth route taken, with Bell ≤ 6 | Full amends both ways; swords or coin (600 marks); 300 credits |
+| **B — The false oath** | The amends is sworn over Jost's objection | Charter saved; Jost walks out; the lie stands; the offer is still made; 225 credits |
+| **C — After the bell** | Bell 7+ | Dawn filing before the Hetmen; the truth can still come out; coin only (300 marks); 150 credits |
+| **D — The cord cut** | Temper 6, or a PC draws | The truth is available at the chapter-house at dawn; no offer; 75 credits |
 | **E — Beaten at the yard** | The party loses Encounter 5 | The hirelings dump them in the river shallows and leave. The Soldbrief burns, and the company copy costs Bell +1 to fetch. Dornhalm is named only if the party returns with the patrol. Otherwise run as A–C. |
 
 ## Continuity

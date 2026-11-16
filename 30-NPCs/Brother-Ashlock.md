@@ -29,7 +29,7 @@ He is gentle, unhurried, and genuinely kind to the dying, because he thinks of t
 - **Method:** he marks targets with ash circles "for blessing" and steers the pack with the crown.
 
 ## Stat Block
-- APL 1–2: Acolyte (MM p. 342), modified. APL 3–4: Cult Fanatic (MM p. 345), modified.
+- Cult Fanatic (MM p. 345), modified.
 - See [[SP-GA02 — Bestiary#Brother Ashlock — two chassis]].
 
 ## Appearances

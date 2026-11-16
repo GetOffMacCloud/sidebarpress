@@ -23,7 +23,7 @@ Loud, and he only seems drunk. He drinks alone and works through his barbs one e
 - **Reacts:** he baits Konrad, then throws the first punch, then runs. Shown the tally-book, or beaten (Intimidation DC 13), he names Dornhalm. He carries a hidden dagger at APL 3–4, which is illegal under the cord.
 
 ## Stat Block
-**Thug** (MM p. 350), or **Bandit** at APL 1, with the brawl swap. See [[SP-GA03 — Bestiary]].
+**Thug** (MM p. 350), with the brawl swap. See [[SP-GA03 — Bestiary]].
 
 ## Appearances
 - [[SP-GA03-The-Red-Cord]] — Scene 3 (the provocations), Scene 4 (the brawl), Scene 5 (at the yard, if he isn't caught)

@@ -32,7 +32,7 @@ Back to [[SP-GA00-Nobodys-Colors]] · Given in [[Scene 08 — The Sale Ring]]
 > *— Margarethe Roodberg, of the Roodberg studs at Clatspurgen*
 
 ## DM Notes
-Write in up to **three** commendations the party earned, in the patron's words. The letter is worth **10 extra credit on its face, plus 10 per commendation (40 at most)**, entered by [[Registrar Hedwig Ammerlin]] outside the 600-credit limit.
+Write in up to **three** commendations the party earned, in the patron's words. The letter is worth **15 extra credit on its face, plus 20 per commendation (75 at most)**, entered by [[Registrar Hedwig Ammerlin]].
 
 | Commendation | Earned by |
 |---|---|

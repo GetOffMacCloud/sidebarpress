@@ -367,11 +367,11 @@ Back at the Field Office, the clerk reads the relay log, then the wardens' repor
 ### Credits
 | Ending | Base (each) | Extra credit available |
 |---|---|---|
-| **A** | 120 | up to 45 |
-| **B**, **C**, **D** (laid down or defeated) | 90 | up to 30 (C: up to 33, not *Kalbach saved*) |
+| **A** | 300 | up to 75 |
+| **B**, **C**, **D** (laid down or defeated) | 225 | up to 55 (C: up to 55, not *Kalbach saved*) |
 | **E** | 0 | — |
 
-**Extra credit:** Kalbach saved +12 · the bell intact +12 · **Lore of the Gods** in the field report +9 · the relay log returned +6 · the land restored (both wells cleansed and the stag cut down) +6. **Lead credits** on top: The Grey Sickle's List +9 · The Copper-Torc Dead +9 · The Grave-Silver +6 · Ansgar Returns +6 (Ending B) · Grukka's Deserters +3 · Hollen Ford Must Be Manned +3, each paid when the lead is written up in the field report. Never exceed the 600-credit cap. Details in [[SP-GA05 — DM's Notes]].
+**Extra credit:** Kalbach saved +20 · the bell intact +20 · **Lore of the Gods** in the field report +15 · the relay log returned +10 · the land restored (both wells cleansed and the stag cut down) +10. **Lead credits** on top: The Grey Sickle's List +15 · The Copper-Torc Dead +15 · The Grave-Silver +10 · Ansgar Returns +10 (Ending B) · Grukka's Deserters +5 · Hollen Ford Must Be Manned +5, each paid when the lead is written up in the field report. No student takes more than double base (600) from one quest. Details in [[SP-GA05 — DM's Notes]].
 
 ### Rewards Beyond Credits
 - **The God Cards:** each card is earned as its god is learned in play (see the Lore Ladder). Players keep them.

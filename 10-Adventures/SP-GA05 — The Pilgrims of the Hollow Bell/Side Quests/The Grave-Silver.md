@@ -6,7 +6,7 @@ publish_order: 520
 publish: true
 title: "The Grave-Silver"
 status: seed
-lead_credit: 6
+lead_credit: 10
 levels: "APL 3–4"
 tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 ---
@@ -29,7 +29,7 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 The grey pilgrims paid for bread in old silver, green with age, and Grukka's orcs were paid in the same coin. Barrow coin, the orcs said. The dead want it back.
 
 ## Lead Credit
-**+6** on top of the session's extra credit. Earned when the wardens bring back a green Flan coin and the report identifies it as barrow-struck.
+**+10** on top of the session's extra credit. Earned when the wardens bring back a green Flan coin and the report identifies it as barrow-struck.
 
 ## Links
 - Returning the grave-silver to its howe earns Yati and Old Faith goodwill.

@@ -6,7 +6,7 @@ publish_order: 560
 publish: true
 title: "Hollen Ford Must Be Manned"
 status: seed
-lead_credit: 3
+lead_credit: 5
 levels: "APL 3–4"
 tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 ---
@@ -29,7 +29,7 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 The Hollen Ford relay has no riders and no signaller. Somebody has to hold it until Readying.
 
 ## Lead Credit
-**+3** on top of the session's extra credit. Earned when the report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it.
+**+5** on top of the session's extra credit. Earned when the report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it.
 
 ## Links
 - [[SP-GA05 — E2 — The Hollen Ford Relay]].

@@ -62,7 +62,7 @@ The students cross Lake Quag and pick up the old survey at the Vestflow (1). The
 | F3 | Vex will use force, and his map will go to Iuz. | His crew boasting at camp | His letter promising "a buyer in the north" (Investigation DC 15) | The surviving survey man from last spring | Vex says it himself if confronted |
 
 ## Hooks
-1. **Job Board (default).** *"Flan Antiquities seeks a field team to complete the Mounds of Dawn approach survey. Barge passage provided. 40 credits each; the Prefect of Exag's reward to be shared."*
+1. **Job Board (default).** *"Flan Antiquities seeks a field team to complete the Mounds of Dawn approach survey. Barge passage provided. 600 credits each; the Prefect of Exag's reward to be shared."*
 2. **Personal.** A PC with dwarf kin in the Clatspurs is told by Hogar Irongrip: "If you meet the Hollow folk, show them this," a stamped iron ring.
 3. **Thread (SP-GA04).** If the Watchers' door was opened, the students already know the hold's hall. The stakes point to it.
 - **Decline path:** Vex goes alone. A month later the students hear that Stonekeep Hollow burned, and a stranger in Ritterstadt is asking about "the Watchers."
@@ -95,9 +95,9 @@ The students cross Lake Quag and pick up the old survey at the Vestflow (1). The
   - **Map it and seal it** with the enclave. Antiquities gets a "classified" copy, and the students gain the elder's trust.
 
 ## Concluding the Adventure
-- **A — sealed with the wardens:** 40 credits each; the enclave's friendship; the elder's warden-token (opens doors in hook 2).
-- **B — map delivered:** 40 credits plus a 10 extra credit bonus. The prefect pays 50 gp each. The Dawn Hold is now known, and hook 3 follows within a season.
-- **C — retreat:** 15 credits. Vex finishes alone, and outcome B happens without the students.
+- **A — sealed with the wardens:** 600 credits each; the enclave's friendship; the elder's warden-token (opens doors in hook 2).
+- **B — map delivered:** 600 credits plus a 150 extra credit bonus. The prefect pays 50 gp each. The Dawn Hold is now known, and hook 3 follows within a season.
+- **C — retreat:** 225 credits. Vex finishes alone, and outcome B happens without the students.
 
 ## Key NPCs
 **Dorran Vex**, Antiquities survey captain. [Zilchus]. *Wants:* the map, and the buyer's gold. *Knows:* the line wakes guardians, and a buyer "in the north." *Reacts:* charm → threaten → burn → fight. *Stats:* veteran.
@@ -180,7 +180,7 @@ The fellows test the key and enlist Hogar to get them to Bitter Pass (Part 1). T
 | F3 | The archive tablet holds the Dawn Hold's seal. | The archivist, **Kelda**, tells them. | Tolle's warning, if hook 20 has been run. | Reading the tablet (History DC 18, Dwarvish). | Silvervein runs for the vault. |
 
 ## Hooks
-1. **The faculty commission (default).** *"Fellows wanted to authenticate a dwarven key of uncertain provenance. Field travel to the Clatspurs. 60 credits each."*
+1. **The faculty commission (default).** *"Fellows wanted to authenticate a dwarven key of uncertain provenance. Field travel to the Clatspurs. 1,200 credits each."*
 2. **Personal.** A dwarf PC has Irongrip kin, or carries a clan grudge.
 3. **Thread.** If hook 25 was run, the key's bow is eye-shaped, matching the Watchers' Eye.
 - **Decline path:** the "If Nobody Interferes" steps happen. Ritterstadt loses its ore trade, and in hook 3 Iuz's agents know where to dig.
@@ -219,7 +219,7 @@ The fellows test the key and enlist Hogar to get them to Bitter Pass (Part 1). T
 - **A — Alliance:** Clan Irongrip is a standing ally. Hogar may be restored, and the tablet is copied for the University.
 - **B — Escape with the truth:** the clan is cold, and the pass road is tolled.
 - **C — Silvervein escapes with the tablet:** Iuz knows the seal. Run hook 3 with the agents a step ahead.
-- **Credits:** 60 base. Extra credit: +5 for the authentication report, +5 for a copy of the tablet.
+- **Credits:** 1,200 base. Extra credit: +150 for the authentication report, +150 for a copy of the tablet.
 
 ## Key NPCs
 - **Matriarch Orla Irongrip**. *Deity:* [Moradin].
@@ -316,7 +316,7 @@ The fellows reach the slide and the first waystation, already defaced (Part 1). 
 | F3 | Karaith can be bargained with. | He speaks before he strikes. | The steles' warden oath, read aloud. | A Yati or Flan PC's courtesy, by Old Faith rite. | He halts when Vathra attacks him first. |
 
 ## Hooks
-1. **The commission (default).** *"Fellows to secure and map a newly exposed causeway, Mounds of Dawn. Antiquities and the Provost jointly. 75 credits each, plus the prefect of Exag's reward."*
+1. **The commission (default).** *"Fellows to secure and map a newly exposed causeway, Mounds of Dawn. Antiquities and the Provost jointly. 1,300 credits each, plus the prefect of Exag's reward."*
 2. **Personal.** A Flan-descended PC's family keeps a song about the masked king.
 3. **Thread.** If hook 25 ended with Saal escaping (Conclusion E), the agents have his rubbing and are a day ahead.
 - **Decline path:** Vathra succeeds. Within a year Iuz's priests in the north preach the forged record, and hook 20's Tolle arrives to find the Dawn Hold's gate already being dug.
@@ -355,7 +355,7 @@ The fellows reach the slide and the first waystation, already defaced (Part 1). 
 - **A — Truth kept:** the University publishes the record, and the prefect of Exag pays out.
 - **B — Road buried:** no one gets the record, and the Dawn Hold stays lost.
 - **C — Forgery stands:** Iuz's propaganda spreads, and Vathra recurs.
-- **Credits:** 75 base. Extra credit: +5 for rubbings of all three steles, +5 for a report to the prefect of Exag.
+- **Credits:** 1,300 base. Extra credit: +160 for rubbings of all three steles, +160 for a report to the prefect of Exag.
 
 ## Key NPCs
 - **Vathra**, agent of Iuz. *Deity:* [Iuz].
@@ -446,7 +446,7 @@ The students help Liesl recount the Howes, and the numbers won't hold still (1).
 | F3 | The barrows can be resealed. | The grave-keeper's rite | Carved seal-stones in the howes (Religion DC 13) | Liesl's thesis notes on Flan burial | The wights flee from a restored stone |
 
 ## Hooks
-1. **Job Board (default).** *"Assistance required: Howes survey, History thesis. Must be able to count."* 30 credits each.
+1. **Job Board (default).** *"Assistance required: Howes survey, History thesis. Must be able to count."* 500 credits each.
 2. **Personal.** A Yati PC's family keeps milk-day at the Howes.
 3. **Thread (hook 5 or 19).** Antiquities wants Flan burial practice recorded alongside other Copper Age sites.
 - **Decline path:** Liesl goes alone and doesn't come back. The valley steadings send to Ritterstadt for help.
@@ -480,7 +480,7 @@ The students help Liesl recount the Howes, and the numbers won't hold still (1).
   - **Bring in the grave-keeper**, who can reseal the barrows during the fight. Each sealed howe drops one wight.
 
 ## Concluding the Adventure
-- **A — field made safe:** the bulette is dead or gone, the wights are laid, and the howes are resealed. 30 credits plus 10 extra credit each. Liesl's thesis gets a true count.
+- **A — field made safe:** the bulette is dead or gone, the wights are laid, and the howes are resealed. 500 credits plus 125 extra credit each. Liesl's thesis gets a true count.
 - **B — partial:** the bulette is gone but a wight still walks, or the egg is lost. The valley moves its flocks.
 - **C — retreat:** the steading burns, and the field is closed by the Reeve.
 
@@ -557,7 +557,7 @@ The students camp at the kiln to watch the night's work (1). The Smith rises and
 | F3 | Grisel profits and will interfere. | His sale ledger (Investigation DC 13) | Gnome gossip about "the buyer" | His toughs at the site | He offers a bribe |
 
 ## Hooks
-1. **Job Board (default).** *"Antiquities requires observers for a working Flan kiln. Night duty."* 35 credits each.
+1. **Job Board (default).** *"Antiquities requires observers for a working Flan kiln. Night duty."* 600 credits each.
 2. **Personal.** A gnome or dwarf PC is asked by Gildenhand kin to stop the tunneling.
 3. **Thread (hook 4).** Liesl Marr (if met) wants the tally-stones for her Flan burial chapter.
 - **Decline path:** the Gildenhand collapse happens and the gnomes blame the University's dealer.
@@ -590,8 +590,8 @@ The students camp at the kiln to watch the night's work (1). The Smith rises and
   - **Destroy** it (a full fight).
 
 ## Concluding the Adventure
-- **A — released:** 35 credits plus 10 extra credit each; the parting gift; Gildenhand's gratitude (discounted mining gear).
-- **B — bound or destroyed:** 35 credits. Bound: Antiquities is pleased and the gnomes are uneasy. Destroyed: the hill is safe and the site is dead.
+- **A — released:** 600 credits plus 150 extra credit each; the parting gift; Gildenhand's gratitude (discounted mining gear).
+- **B — bound or destroyed:** 600 credits. Bound: Antiquities is pleased and the gnomes are uneasy. Destroyed: the hill is safe and the site is dead.
 - **C — retreat:** Grisel keeps selling, and the collapse happens.
 
 ## Key NPCs
@@ -784,7 +784,7 @@ The naturalists send fellows for samples (Part 1). Lindhof is silent, and its pe
 | F3 | Destroying the heart also destroys the "star." | The naturalist warns them. | *Identify* on a sample shows a relic-grade essence. | Moira: "Kill it and you kill what fell." | The crater glass shatters when the heart dies. |
 
 ## Hooks
-1. **The faculty request (default).** *"Fellows to collect samples of the Lindgraben stain and assess its spread. Danger pay. 50 credits each."*
+1. **The faculty request (default).** *"Fellows to collect samples of the Lindgraben stain and assess its spread. Danger pay. 1,100 credits each."*
 2. **Personal.** A PC's former classmate is posted at the Lindhof weather post.
 3. **Thread.** If hook 14 or 18 was run, the Yati expect the University to make it worse.
 - **Decline path:** the stain reaches Ritterstadt's fields on day 12. Run a follow-up at higher stakes, with evacuation.
@@ -824,7 +824,7 @@ The naturalists send fellows for samples (Part 1). Lindhof is silent, and its pe
 - **A — Star-sleep:** the valley recovers, and the Yati trust the fellows.
 - **B — Heart burned:** the valley is scarred but safe, and the relic is lost.
 - **C — Bottled culture, or a failed attempt:** the threat continues in another form.
-- **Credits:** 50 base. Extra credit: +5 for a map of the spread, +5 for transcribed star-lore.
+- **Credits:** 1,100 base. Extra credit: +135 for a map of the spread, +135 for transcribed star-lore.
 
 ## Key NPCs
 - **Moira Tíreach**, Yati star-singer. *Deity:* [Beory].
@@ -1134,7 +1134,7 @@ The students reach the bridge and must sing to cross (1). Grumbold opens up over
 | F3 | He knows something valuable. | He offers it | His pouch: a scratched map | The priest calls him "traitor-with-the-map" | Vardaris demands the map |
 
 ## Hooks
-1. **Job Board (default).** *"The Reeve seeks persons to clear the Ridgeford crossing of an obstruction (large)."* 40 credits each.
+1. **Job Board (default).** *"The Reeve seeks persons to clear the Ridgeford crossing of an obstruction (large)."* 700 credits each.
 2. **Personal.** A bard PC hears the giant collects songs and wants to trade.
 3. **Thread (hooks 12, 16, 17).** Deserters and recruiters are a pattern this season.
 - **Decline path:** Grumbold is collared, and the bridge burns. The troop route he knew is used against Highfolk two months later.
@@ -1168,8 +1168,8 @@ The students reach the bridge and must sing to cross (1). Grumbold opens up over
   - **Recruit** him to guard the field campus.
 
 ## Concluding the Adventure
-- **A — defended:** 40 credits each, and Grumbold's map reaches the University and Highfolk (hook 16 gains an ally). 10 extra credit for the map.
-- **B — handed over:** 40 credits. The bridge is clear. Grumbold's last song haunts the party (no mechanical cost).
+- **A — defended:** 700 credits each, and Grumbold's map reaches the University and Highfolk (hook 16 gains an ally). 175 extra credit for the map.
+- **B — handed over:** 700 credits. The bridge is clear. Grumbold's last song haunts the party (no mechanical cost).
 - **C — retreat:** the bridge burns and the map is lost.
 
 ## Key NPCs
@@ -1363,7 +1363,7 @@ The students attend Stahl's muster and choose to sign on undercover or tail the 
 | F3 | The recruits will be passed to Iuz. | Mirek's letter (Investigation DC 15) | Orc escort arriving | A captured orc talks | Mirek says it when cornered |
 
 ## Hooks
-1. **Job Board (default).** *"Families of Ritterstadt seek word of their sons."* The Reeve adds 25 credits each.
+1. **Job Board (default).** *"Families of Ritterstadt seek word of their sons."* The Reeve adds 600 credits each.
 2. **Personal.** A PC's sibling or friend signed on.
 3. **Thread (SP-GA00).** Perrender companies and their charters, with Sergeant Ruwen Hask as a contact.
 - **Decline path:** the recruits march east. A year later one comes home with an Iuz brand and a story.
@@ -1396,7 +1396,7 @@ The students attend Stahl's muster and choose to sign on undercover or tail the 
   - **Buy out the contracts:** 20 gp per recruit, or credits pledged by the students.
 
 ## Concluding the Adventure
-- **A — all home:** 25 credits plus 10 extra credit each; Stahl's company disgraced or reformed; the families' gratitude.
+- **A — all home:** 600 credits plus 150 extra credit each; Stahl's company disgraced or reformed; the families' gratitude.
 - **B — partial:** some recruits lost, or the contract stands but the handover fails.
 - **C — retreat:** the recruits march east, and Ritterstadt blames the Reeve.
 
@@ -1518,7 +1518,7 @@ Three teams race for the hut (Part 1). Inside, room after room tests virtue rath
 - **A — Heir by fellowship:** the hut is theirs, a portable demiplane retreat, and Vey's tutelage.
 - **B — Shared:** joint stewardship, and the rival team becomes allies.
 - **C — Failed the last room:** Vey leaves. A lesser prize (one spellbook) and a lesson.
-- **Credits:** 30 for completing the race report. Extra credit: +10 for a demiplane survey for the Department.
+- **Credits:** 1,200 for completing the race report. Extra credit: +300 for a demiplane survey for the Department.
 
 ## Key NPCs
 - **Orsolan Vey**, archmage (the cat). *Deity:* [Boccob].
@@ -1720,7 +1720,7 @@ The students arrive as guests and take field notes on the customs (1). The guest
 | F3 | Cold iron banishes him, at a cost. | A smith's iron horseshoe makes him flinch | Fergus: "never iron at table" | Nature DC 15 | He warns of it himself |
 
 ## Hooks
-1. **Invitation (default).** The Folklore department pays 20 credits each for field notes on a Yati wedding.
+1. **Invitation (default).** The Folklore department pays 500 credits each for field notes on a Yati wedding.
 2. **Personal.** A Yati PC is kin to the bride.
 3. **Thread (hooks 8, 11).** The Corrish clan from the Hill Moot, if it has been run.
 - **Decline path:** the Corrish luck fails. The clan's flocks sicken, and they blame the University's absence.
@@ -1753,7 +1753,7 @@ The students arrive as guests and take field notes on the customs (1). The guest
   - **Cold iron:** banish him. The Corrish line loses its luck.
 
 ## Concluding the Adventure
-- **A — boon won:** 20 credits plus 10 extra credit each (exceptional field notes); a fey boon (one *potion of healing* that never empties fully; `50-Items`).
+- **A — boon won:** 500 credits plus 125 extra credit each (exceptional field notes); a fey boon (one *potion of healing* that never empties fully; `50-Items`).
 - **B — debt paid:** a PC owes service. Everything is restored. Plot thread.
 - **C — banished:** the night is safe, but the Corrish luck fails for a hundred years.
 
@@ -1833,7 +1833,7 @@ The courier collapses at the gate, and the Reeve asks the students to carry her 
 | F3 | The hex can be turned into a lure. | A warlock, cleric, or wizard PC reads the weave (Arcana DC 18). | The Highfolk warden proposes it at the border. | Grask's captured cultist explains how the hex points. | The warden's archers are already waiting. |
 
 ## Hooks
-1. **Job Board / the Reeve's request (default).** *"Courier service, urgent, Highfolk. University fellows of proven field record. 50 credits each, paid on delivery by Highfolk's own hand."*
+1. **Job Board / the Reeve's request (default).** *"Courier service, urgent, Highfolk. University fellows of proven field record. 800 credits each, paid on delivery by Highfolk's own hand."*
 2. **Personal.** An elf or half-elf PC recognizes Lethwen's house badge. She is kin, or owes the PC's family a debt.
 3. **Thread.** If hook 17 or 10 was run, the deserters or Grumbold name Grask's band as Iuz's "fetchers."
 - **Decline path:** Lethwen dies, and the strongroom is torn open (above). Ritterstadt is blamed in Highfolk, the Reeve loses face, and in spring a refugee train of elves arrives at the gate.
@@ -1876,7 +1876,7 @@ The courier collapses at the gate, and the Reeve asks the students to carry her 
 - **A — Plan delivered, hunters broken:** Highfolk's thanks, and a standing welcome for the students in the Vesve.
 - **B — Plan delivered damaged, or hunters escaped:** the spring raid is blunted but not stopped.
 - **C — Satchel lost:** Grask carries it north, and the spring raid lands.
-- **Credits:** 50 base. Extra credit: +5 for Lethwen's survival, +5 for a written field report on Iuz's tracking magic.
+- **Credits:** 800 base. Extra credit: +100 for Lethwen's survival, +100 for a written field report on Iuz's tracking magic.
 
 ## Key NPCs
 - **Lethwen**, Highfolk courier. *Deity:* [Sehanine Moonbow].
@@ -2079,7 +2079,7 @@ The Provost hands over the journal and asks for quiet recovery (Part 1). The dea
 | F3 | The Provost is covering it up. | Grell's written orders on his body or in his pack. | The Provost's interest in "recovery, not report." | The professor says so to bargain: "Ask who signed my fieldwork." | Grell tries to kill the witnesses. |
 
 ## Hooks
-1. **The Provost's commission (default).** *"Confidential recovery of University field materials. Discretion essential. 40 credits each."*
+1. **The Provost's commission (default).** *"Confidential recovery of University field materials. Discretion essential. 800 credits each."*
 2. **Personal.** A PC was taught by Dietlind, or shared rooms with her.
 3. **Thread.** If hook 14 was run, the students already know how the University handles uncomfortable truths.
 - **Decline path:** another team takes the job. A month later the golem kills a shepherd family, and the Yati blame the University.
@@ -2118,7 +2118,7 @@ The Provost hands over the journal and asks for quiet recovery (Part 1). The dea
 - **A — Truth told, specimens destroyed:** the University is shaken, and the Yati trust the students.
 - **B — Quiet deal:** a favor owed, and a guilty conscience.
 - **C — The professor flees with the notes:** a recurring villain.
-- **Credits:** 40 base. Extra credit: +5 for a field report on Ur-Flan blood-rites, +5 for recovering Dietlind's body.
+- **Credits:** 800 base. Extra credit: +100 for a field report on Ur-Flan blood-rites, +100 for recovering Dietlind's body.
 
 ## Key NPCs
 - **The Professor** *(GU roster)*.
@@ -2205,7 +2205,7 @@ The fishers' guild hires the students to find out what's on the water (Part 1). 
 | F3 | The dealer Kranzler has it. | Raske names him. | A crate stenciled for Antiquities on the quay. | Sergeant Ruwen Hask logged the cart. | Kranzler's warehouse bell rings by itself at midnight. |
 
 ## Hooks
-1. **Job Board (default).** *"The Fishers' Guild of Ritterstadt seeks capable hands to clear the lake of its present trouble. 35 credits each."*
+1. **Job Board (default).** *"The Fishers' Guild of Ritterstadt seeks capable hands to clear the lake of its present trouble. 700 credits each."*
 2. **Personal.** A PC's boarding-house keeper is a fisher, and has stopped going out.
 3. **Thread.** If hook 4 or 5 was run, Antiquities' habit of buying Flan grave-goods is already known.
 - **Decline path:** the procession walks the quay on night 3. Two people drown on the stones, and the guild never forgives the University.
@@ -2245,7 +2245,7 @@ The fishers' guild hires the students to find out what's on the water (Part 1). 
 - **A — Bell returned and rung:** the fishers return to the water, and Nairn grants each PC one *water breathing* blessing (1/day for a year).
 - **B — Procession beaten, bell kept:** the town is safe this year, and the lights return next Luna-dark.
 - **C — Bell destroyed or town flooded:** casualties, a curse, and lasting hostility from the guild.
-- **Credits:** 35 base. Extra credit: +5 for Old Flan transcriptions from the shrine, +5 for a study of the procession.
+- **Credits:** 700 base. Extra credit: +85 for Old Flan transcriptions from the shrine, +85 for a study of the procession.
 
 ## Key NPCs
 - **Tobbe Raske**, fisherman. *Deity:* [Xerbo].
@@ -2333,7 +2333,7 @@ Tolle arrives in Ritterstadt with fragments of its warning, and the Dean asks th
 | F3 | The core can be transferred to a living mind. | Tolle offers it. | Orla Irongrip knows the rite. | *Legend lore*. | Tolle, dying, presses the core to a PC's brow. |
 
 ## Hooks
-1. **The Dean's request (default).** *"Escort required for a dwarven construct of historical significance to Bitter Pass. Senior fellows only. 80 credits each."*
+1. **The Dean's request (default).** *"Escort required for a dwarven construct of historical significance to Bitter Pass. Senior fellows only. 1,400 credits each."*
 2. **Personal.** A dwarf PC of Irongrip blood is greeted by Tolle as "child of the Grip."
 3. **Thread.** If hooks 25, 1, 2, or 3 were run, each one restores a fragment of Tolle's message.
 - **Decline path:** see "If Nobody Interferes." The campaign's final act becomes stopping Iuz at the Dawn Hold.
@@ -2372,7 +2372,7 @@ Tolle arrives in Ritterstadt with fragments of its warning, and the Dean asks th
 - **A — Warning delivered:** a grand alliance, and the next adventure is the Dawn Hold.
 - **B — A PC carries the core:** that PC holds the binding-words, a lasting boon and burden.
 - **C — Core lost to Iuz:** the black door will open. The finale is now a race.
-- **Credits:** 80 base. Extra credit: +10 for Tolle's history recorded (within the 600 cap).
+- **Credits:** 1,400 base. Extra credit: +350 for Tolle's history recorded.
 
 ## Key NPCs
 - **Tolle**, brass automaton. *Deity:* [Moradin] (by its makers).

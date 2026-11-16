@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-11-16T14:02:54.292Z",
-      "total": 0,
+      "total": 6,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -176,7 +176,7 @@
           }
         },
         "10-Adventures/SP-GQ01 — The Gaoler's Link/Scenes/00 — Scene Index.md": {
-          "total": 0,
+          "total": 6,
           "scenes": {
             "Scene 01 — Brewfest on the Landing": 0,
             "Scene 02 — Terms": 0,
@@ -185,7 +185,7 @@
             "Scene 05 — The Night of the Warden's Dinner": 0,
             "Scene 06 — The Handover": 0,
             "Scene 07 — Turning the Job": 0,
-            "Scene 08 — Dawn on the Landing": 0
+            "Scene 08 — Dawn on the Landing": 6
           }
         },
         "10-Adventures/SP-GA03 — The Red Cord/Scenes/00 — Scene Index.md": {

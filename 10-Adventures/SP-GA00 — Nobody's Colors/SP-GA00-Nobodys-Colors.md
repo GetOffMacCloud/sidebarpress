@@ -218,7 +218,7 @@ Standard DMG items, so no `50-Items` notes, by rule.
 - **Otwin's gratitude.** Where Adalinde rides and the farm stands, Otwin pays each PC's northern packet and half the bond, **60 marks a head**, out of his own strongbox, the first money in fifteen years he hasn't counted twice: *"The Rathaus clerk tells me the northern packet leaves Godsday. You'll be on it. Don't thank me; I'm buying your absence from my daughter's stable."*
 - **The Rhennee sale.** 600 marks on the second night. Four hundred clears the note; Corwin gives the party the two hundred over. It costs the Halbritters their name.
 
-**The patron's letter (Extra Credit, outside the 600 limit).** Adalinde brings it on almost every branch: a **letter of field expertise** from a Roodberg breeding patron, addressed to [[Registrar Hedwig Ammerlin]]. It does not open the door; the University takes anyone who signs the Oath. It counts once they are inside. **10 extra credit on its face, plus 10 for each commendation, three at most (40).** See [[SP-GA00 — Handout — The Patron's Letter]].
+**The patron's letter (Extra Credit).** Adalinde brings it on almost every branch: a **letter of field expertise** from a Roodberg breeding patron, addressed to [[Registrar Hedwig Ammerlin]]. It does not open the door; the University takes anyone who signs the Oath. It counts once they are inside. **15 extra credit on its face, plus 20 for each commendation, three at most (75).** See [[SP-GA00 — Handout — The Patron's Letter]].
 
 | Commendation, as the patron writes it | Earned by |
 |---|---|

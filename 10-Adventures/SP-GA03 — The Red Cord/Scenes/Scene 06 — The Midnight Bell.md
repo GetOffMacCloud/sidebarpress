@@ -168,10 +168,10 @@ Use this when the fight needs more bodies: a pack of 4–8 **Crowd Brawler** min
 ## Endings
 | Ending | Condition | Result |
 |---|---|---|
-| **A — The truth before the bell** | Any of Routes 1–4, with Bell ≤ 6 | Full amends both ways; swords or coin (600 marks); 40 credits |
-| **B — The false oath** | Route 5 | Charter saved; Jost walks out; the lie stands; the offer is still made; 30 credits. The two half-banners go home in two chests. |
-| **C — After the bell** | Bell 7+ | Dawn filing before the Hetmen; the truth can still come out; coin only (300 marks); 20 credits |
-| **D — The cord cut** | Temper 6, or a PC drew steel under the cord | Run this scene at the Hundred's chapter-house at dawn, privately. The truth is still available by every route; no offer; 10 credits |
+| **A — The truth before the bell** | Any of Routes 1–4, with Bell ≤ 6 | Full amends both ways; swords or coin (600 marks); 300 credits |
+| **B — The false oath** | Route 5 | Charter saved; Jost walks out; the lie stands; the offer is still made; 225 credits. The two half-banners go home in two chests. |
+| **C — After the bell** | Bell 7+ | Dawn filing before the Hetmen; the truth can still come out; coin only (300 marks); 150 credits |
+| **D — The cord cut** | Temper 6, or a PC drew steel under the cord | Run this scene at the Hundred's chapter-house at dawn, privately. The truth is still available by every route; no offer; 75 credits |
 | **E — Beaten at the yard** | The party lost Encounter 5 | As A–C, with the company copy in place of the Soldbrief. Dornhalm is named only if the party brought the patrol. |
 
 ## Denouement
@@ -181,7 +181,7 @@ Use this when the fight needs more bodies: a pack of 4–8 **Crowd Brawler** min
 - **Jost** drinks one cup with the party, says *"Thank you, scholars,"* and goes back to his company. In Ending B he is gone.
 - **Dornhalm** is in a patrol cell, waiting for the Assembly of Judges. If the party didn't hand him over, he is on the first barge south, and his firm has disowned him by morning.
 - **Home.** On the boat, Konrad asks what the University will make of it. Back in the Hall, he has the two halves stitched together and hung above his chair: one banner now, with a seam. *(Ending B: the half-banner goes back up on the beam, "torn.")*
-- **Credits.** Konrad writes to Goldwaage himself; the field credits are paid by ending. A PC who writes up the halved-standard custom for Lecturer Falk earns 15 extra credit.
+- **Credits.** Konrad writes to Goldwaage himself; the field credits are paid by ending. A PC who writes up the halved-standard custom for Lecturer Falk earns 75 extra credit.
 - **Nothing is left open.** If a player asks what comes next: *"Winter."*
 
 ## Clues Available Here

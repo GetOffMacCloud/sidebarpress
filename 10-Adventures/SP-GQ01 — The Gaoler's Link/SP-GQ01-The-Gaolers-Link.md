@@ -184,7 +184,7 @@ See [[SP-GQ01 — Map Assets]]: the Archive (A1–A7), the Landing, and the *Gra
 
 ## Treasure & Rewards
 - **Coin:** Brandmeier's fee, 25 marks (gp) each (30 if haggled), half up front. Brandmeier's own reward if freed: 25 marks each.
-- **Credits:** 40 base for the turned job (Conclusion A), plus up to 15 extra credit each. See [[Scene 08 — Dawn on the Landing]].
+- **Credits:** 300 base for the turned job (Conclusion A), plus up to 75 extra credit each. See [[Scene 08 — Dawn on the Landing]].
 - **Items:** [[The Ashbox]] (if taken), Vesharan's spellbook, a *potion of water breathing*, the [[Rubbing of the Six]] (Tock's gift after A or B), [[Omen-Taper of the Blind Spot]] (Dolz's loan).
 - **Standing:** Brandmeier's friendship in Schwartzenbruin; Dolz as a faculty sponsor; Vogelsang's debt (if the students kept his secret).
 
