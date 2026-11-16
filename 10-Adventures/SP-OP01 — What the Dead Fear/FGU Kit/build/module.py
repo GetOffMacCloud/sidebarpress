@@ -104,10 +104,12 @@ for c,n,cr in (('E4a','03 The Saint\'s Ossuary (4 PCs)',[('ossian',1)]),('E4b','
 m.battle('L4','03 The Larder (Harrow and four ghouls; not foes)',[('harrow',1),('larderghoul',4)],MAP)
 for it in m._cat('battle').find(m.BAT['L4'].split('.')[1]).find('npclist'): it.find('faction').text='neutral'
 GYM='map-graveyard' if has('map-graveyard') else None; C1M='map-bone-gallery' if has('map-bone-gallery') else None; C2M='map-kitchen' if has('map-kitchen') else None
-for c,n,cr in (('E1a','01 The Graveyard Rising (4 PCs)',[('husk',6),('ogrehusk',2)]),('E1b','01 The Graveyard Rising (5 PCs)',[('husk',8),('ogrehusk',2)]),('E1c','01 The Graveyard Rising (6 PCs)',[('husk',10),('ogrehusk',3)])): m.battle(c,n,cr,GYM)
+for c,n,cr in (('E1a','01 The Graveyard Rising (4 PCs)',[('husk',6),('ogrehusk',2)]),('E1b','01 The Graveyard Rising (5 PCs)',[('husk',10),('ogrehusk',2)]),('E1c','01 The Graveyard Rising (6 PCs)',[('husk',10),('ogrehusk',3)])): m.battle(c,n,cr,GYM)
 for c,n,k in (('E2a','02 Bone Gallery (4 PCs)',4),('E2b','02 Bone Gallery (5 PCs)',5),('E2c','02 Bone Gallery (6 PCs)',6)): m.battle(c,n,[('crawler',k)],C1M)
-for c,n,cr in (('E3a','02 The Kitchen (4 PCs)',[('mouther',2),('curedhand',6)]),('E3b','02 The Kitchen (5 PCs)',[('mouther',3),('curedhand',6)]),('E3c','02 The Kitchen (6 PCs)',[('mouther',3),('curedhand',10)])): m.battle(c,n,cr,C2M)
-for c,n,cr in (('W1','Wandering Husks: 6 husks',[('husk',6)]),('W2','Wandering Husks: ogre husk and 4 husks',[('ogrehusk',1),('husk',4)]),('W3','Wandering Husks: 2 ossuary crawlers',[('crawler',2)])): m.battle(c,n,cr)
+for c,n,cr in (('E3a','02 The Kitchen (4 PCs)',[('mouther',3),('curedhand',4)]),('E3b','02 The Kitchen (5 PCs)',[('mouther',3),('curedhand',8)]),('E3c','02 The Kitchen (6 PCs)',[('mouther',4),('curedhand',8)])): m.battle(c,n,cr,C2M)
+for c,n,cr in (('W1a','Wandering: Husk procession (4 PCs)',[('ogrehusk',4),('husk',4)]),('W1b','Wandering: Husk procession (5 PCs)',[('ogrehusk',5),('husk',4)]),('W1c','Wandering: Husk procession (6 PCs)',[('ogrehusk',6),('husk',6)]),
+    ('W2a','Wandering: Crawler nest (4 PCs)',[('crawler',5)]),('W2b','Wandering: Crawler nest (5 PCs)',[('crawler',7)]),('W2c','Wandering: Crawler nest (6 PCs)',[('crawler',8)]),
+    ('W3a',"Wandering: Butcher's crew (4 PCs)",[('ogrehusk',2),('crawler',3)]),('W3b',"Wandering: Butcher's crew (5 PCs)",[('ogrehusk',3),('crawler',4)]),('W3c',"Wandering: Butcher's crew (6 PCs)",[('ogrehusk',4),('crawler',4)])): m.battle(c,n,cr)
 # ---- item ----
 UP=os.path.join(VAULT,'50-Items','The Urn of Saint Merrow.md')
 m.item('urn','The Urn of Saint Merrow','Wondrous Item',C(fullnote(UP).split('## History')[0]),rarity='Uncommon')
@@ -119,14 +121,14 @@ BX=lambda p:[m.B(p+x) for x in 'abc']
 for x in (CODE+' — Bestiary',CODE+' — Map Assets',CODE+' — Art Brief',CODE+' — Board','Build-Pipeline'): fgconv.SEEN.append(x)
 cover=['cover'] if has('cover') else []
 m.page(I1,'Cover','<p><b>APL 7 (levels 6–8) · 4–6 characters · one 4-hour session</b></p><p><i>The mortician thanks you for coming. He thanks you for everything. He never once blinks.</i></p><p>OP1 · A Sidebar Press Pocket Module · November 2026. Setting-agnostic.</p>',images=cover)
-HOWTO=('<h>How to Use This Module</h><p>The whole adventure, in order of play: three scenes, then the ending. Every fight (E1–E4) has ready-made combat tracker entries for 4, 5 and 6 PCs; W1–W3 are the Wandering Husks. The boss fight '
+HOWTO=('<h>How to Use This Module</h><p>The whole adventure, in order of play: three scenes, then the ending. Every fight (E1–E4) has ready-made combat tracker entries for 4, 5 and 6 PCs; W1–W3 are the Wandering Husks (all Hard). The boss fight '
  'also has a <b>Larder</b> entry (Harrow and four ghouls, set to neutral) to add alongside. Every statblock is in the NPC list; the Urn is in Items.</p>'
  '<p><b>Boxed text:</b> read it as written or paraphrase it, but keep every clue. Stats are 2014 5e.</p>')
 m.page(I1,'Credits & How to Use','<p><b>What the Dead Fear</b> · %s · Sidebar Press. Statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0). The avolakia statblock is original to Sidebar Press.</p>'%CODE+HOWTO+C(pick(M,'Design Frame')))
 m.page(I1,'Background & Hooks',C(pick(M,'Background','Hooks')))
-m.page(I1,'Encounters & Cast',C(pick(M,'Encounters','Key NPCs','Key Locations')),links=BX('E1')+BX('E2')+BX('E3')+B3+[m.B(w) for w in ('W1','W2','W3')]+[m.N(k) for k in ('ossian','harrow','larderghoul','pallbearer','husk','ogrehusk','crawler','mouther','curedhand')])
+m.page(I1,'Encounters & Cast',C(pick(M,'Encounters','Key NPCs','Key Locations')),links=BX('E1')+BX('E2')+BX('E3')+B3+[m.B(w+x) for w in ('W1','W2','W3') for x in 'abc']+[m.N(k) for k in ('ossian','harrow','larderghoul','pallbearer','husk','ogrehusk','crawler','mouther','curedhand')])
 m.page(A1,'Scene 1 — The Grateful Mortician',C(fullnote(SC(1))),images=[i for i in ('portrait-ossian-guise',) if has(i)],links=BX('E1')+[m.N('ossian'),m.N('husk'),m.N('ogrehusk')])
-m.page(A2,'Scene 2 — The Catacombs',C(fullnote(SC(2))),images=[i for i in ('map-merrows-rest-key',) if has(i)],links=BX('E2')+BX('E3')+[m.B(w) for w in ('W1','W2','W3')]+[m.N('larderghoul'),m.N('crawler'),m.N('mouther'),m.N('curedhand'),m.N('husk')])
+m.page(A2,'Scene 2 — The Catacombs',C(fullnote(SC(2))),images=[i for i in ('map-merrows-rest-key',) if has(i)],links=BX('E2')+BX('E3')+[m.B(w+x) for w in ('W1','W2','W3') for x in 'abc']+[m.N('larderghoul'),m.N('crawler'),m.N('mouther'),m.N('curedhand'),m.N('husk')])
 s3=[i for i in ('scene-the-trap','plate-ossian','portrait-sexton-harrow','map-saints-ossuary-dm') if has(i)]
 m.page(A3,'Scene 3 — What the Dead Fear',C(fullnote(SC(3))),images=s3+([MAP] if MAP else []),links=B3+[m.N('ossian'),m.N('harrow'),m.IT('urn')]+([m.I(MAP)] if MAP else []))
 m.page(A3,'Concluding the Adventure',C(pick(M,'Concluding the Adventure')),links=[m.IT('urn')])

@@ -36,26 +36,26 @@ Show the party that the dead are being kept and cured, and that something is afr
 > | E2c | 6 | 6 ossuary crawlers | 5,400 | Medium |
 
 - **C2. The Embalming Room.** Tables, hooks, and salt barrels. Ghoul limbs hang from the hooks like hams, wrapped in burial linen and dated. A ledger in a neat hand reads: *Brisk, widow. Raised Planting 2nd. Tender by Harvest.* Religion or Arcana DC 15: undead don't rot like this, so someone is curing them. The ledger's first entry is *Ossian, brother. Tough.*
-> [!danger] Fight: The Kitchen (Easy)
+> [!danger] Fight: The Kitchen (Medium)
 > A salt pit fills the center of the room, 10 ft. square and 3 ft. deep (difficult terrain). Ossian's failures live in it: **gibbering mouthers** grown from aberrant scraps he couldn't digest. When anyone touches the hooks, the **cured hands** ([[Cured Hand]]) twitch free and scuttle, and the mouthers rise from the salt babbling in the voices of the dead. Arcana DC 13 afterward: mouthers form where aberrant flesh festers, so something in this place isn't human.
 >
 > | Code | PCs | Creatures | Adjusted XP | Difficulty |
 > |---|---|---|---|---|
-> | E3a | 4 | 2 gibbering mouthers + 6 cured hands | 2,400 | Easy |
-> | E3b | 5 | 3 gibbering mouthers + 6 cured hands | 3,525 | Easy |
-> | E3c | 6 | 3 gibbering mouthers + 10 cured hands | 3,625 | Easy |
+> | E3a | 4 | 3 gibbering mouthers + 4 cured hands | 3,475 | Medium |
+> | E3b | 5 | 3 gibbering mouthers + 8 cured hands | 4,290 | Medium |
+> | E3c | 6 | 4 gibbering mouthers + 8 cured hands | 4,700 | Medium |
 
 - **C3. The Columbarium.** Shelves of urn niches. **Old Tam**, a ghoul who was a cooper in life, is wedged in the mouth of a burial crawl. He doesn't attack. He shrieks "Not him, not him!" and squirms to get away. If the party stops and listens, he gasps, "Bar the door. From the outside. He comes when the doors open," and then he's gone. If they kill him, he dies pleading.
 - **C4. The Iron Doors.** A pair of iron doors to the Saint's Ossuary, barred on *this* side with an oak beam. Deep gouges score the doors on the outside, eight feet up. There are none on the inside.
 
 ## Wandering Husks
-Roll a d6 whenever the party rests, dawdles for 30 minutes, or makes a racket below. On a 1–2, roll again on this table. These fights are attrition, not set pieces (trivial to Easy).
+Roll a d6 whenever the party rests, dawdles for 30 minutes, or makes a racket below. On a 1–2, roll again on this table. Every result is a Hard fight, so roll at most once per rest or delay.
 
-| d6 | Code | Encounter |
+| d6 | Code | Encounter (4 / 5 / 6 PCs, all Hard) |
 |---|---|---|
-| 1–2 | W1 | 6 husks (zombies) shuffling along a corridor, all facing the same way: toward the ossuary |
-| 3–4 | W2 | 1 ogre zombie in burial linen and 4 husks, carrying a salt barrel |
-| 5 | W3 | 2 ossuary crawlers, feeding on a cured limb that fell off its hook |
+| 1–2 | W1 | **Husk procession:** 4/5/6 ogre zombies and 4/4/6 husks (zombies), all shuffling toward the ossuary. 5,000 / 6,125 / 7,500 XP. |
+| 3–4 | W2 | **Crawler nest:** 5/7/8 ossuary crawlers on a cured limb that fell off its hook. 4,500 / 7,875 / 7,200 XP. |
+| 5 | W3 | **Butcher's crew:** 2/3/4 ogre zombies hauling a salt barrel, shadowed by 3/4/4 ossuary crawlers. 4,500 / 7,875 / 7,200 XP. |
 | 6 | — | No fight. Ossian's voice speaks in every head at once: *"Hurry, friends. They're getting away."* |
 
 ## Clues

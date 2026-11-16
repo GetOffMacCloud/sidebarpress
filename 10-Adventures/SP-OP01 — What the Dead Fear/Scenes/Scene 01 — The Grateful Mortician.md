@@ -45,7 +45,7 @@ Ossian lies superbly (Deception +12). Insight reads nothing but grief unless the
 | The chapel cat won't enter the vestry, and the yard dog won't stop shaking. | Animal Handling DC 10 |
 | Ossian casts *detect thoughts* on a PC. | Wisdom save DC 16. On a success, the PC feels an oily pressure behind the eyes, coming from Ossian's direction. |
 
-## Fight: The Graveyard Rising (Easy–Medium)
+## Fight: The Graveyard Rising (Medium)
 Ossian has staged a demonstration. As he raises his toast, the lychgate bells ring and the old graves in the yard heave open. Mindless **husks** (zombies) from decades-old burials lurch toward the chapel, with hulking **ogre zombies** in rotted burial linen behind them. Ossian grabs a lantern and "fights" beside the party, with wild swings that never land.
 
 **Clue:** the husks walk past Ossian as if he weren't there (Perception DC 13, or automatic for anyone who watches him for a round). Afterward he's shaken and more grateful than ever: "You see? You *see* what I live with?"
@@ -53,7 +53,7 @@ Ossian has staged a demonstration. As he raises his toast, the lychgate bells ri
 | Code | PCs | Creatures | Adjusted XP | Difficulty |
 |---|---|---|---|---|
 | E1a | 4 | 6 zombies + 2 ogre zombies | 3,000 | Medium |
-| E1b | 5 | 8 zombies + 2 ogre zombies | 3,250 | Easy |
+| E1b | 5 | 10 zombies + 2 ogre zombies | 4,200 | Medium |
 | E1c | 6 | 10 zombies + 3 ogre zombies | 4,625 | Medium |
 
 **Terrain:** The open graves are 6 ft. deep. A creature shoved into one takes 3 (1d6) bludgeoning damage and lands prone. Headstones give half cover.

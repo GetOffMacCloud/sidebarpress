@@ -66,17 +66,25 @@ Run sheet and manifest: [[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00
 ## Encounters
 | Code | Scene | PCs | Creatures | Adjusted XP | Difficulty |
 |---|---|---|---|---|---|
-| E1a–c | 01 | 4 / 5 / 6 | The Graveyard Rising: 6/8/10 zombies + 2/2/3 ogre zombies | 3,000 / 3,250 / 4,625 | Medium / Easy / Medium |
+| E1a–c | 01 | 4 / 5 / 6 | The Graveyard Rising: 6/10/10 zombies + 2/2/3 ogre zombies | 3,000 / 4,200 / 4,625 | Medium |
 | E2a–c | 02 (C1) | 4 / 5 / 6 | Bone Gallery: 4/5/6 ossuary crawlers | 3,600 / 4,500 / 5,400 | Medium |
-| E3a–c | 02 (C2) | 4 / 5 / 6 | The Kitchen: 2/3/3 gibbering mouthers + 6/6/10 cured hands | 2,400 / 3,525 / 3,625 | Easy |
+| E3a–c | 02 (C2) | 4 / 5 / 6 | The Kitchen: 3/3/4 gibbering mouthers + 4/8/8 cured hands | 3,475 / 4,290 / 4,700 | Medium |
 | E4a | 03 | 4 | Ossian (2 legendary actions) | 5,000 | Hard |
 | E4b | 03 | 5 | Ossian + 1 pallbearer (ogre zombie) | 8,175 | Hard (edge of Deadly) |
 | E4c | 03 | 6 | Ossian (3 legendary actions) + 2 pallbearers | 8,850 | Hard |
-| W1–3 | any | any | Wandering Husks (Scene 02 table) | 600–1,350 | trivial–Easy |
+| W1–3 | any | 4 / 5 / 6 | Wandering Husks (Scene 02 table) | 4,500–5,000 / 6,125–7,875 / 7,200–7,500 | Hard |
 
 2014 DMG thresholds for 7th level: Hard 1,100 and Deadly 1,700 per PC. Two monsters ×1.5; three monsters ×2, dropped to ×1.5 for six PCs. The larder undead aren't counted: they're terrain and the boss's healing. Hard on paper at every size; the round-1 *dominate person* and the Larder make it play Deadly. Statblocks: [[SP-OP01 — Bestiary]].
 
-**Adventuring day (4 PCs):** 3,000 + 3,600 + 2,400 + 5,000 = 14,000 XP, 70% of a 7th-level party's 20,000 budget. Allow one short rest after Scene 2 (and roll for Wandering Husks when they take it).
+**Adventuring day (2014 DMG; 5,000 XP per 7th-level character).** Allow a short rest after the graveyard and another after Scene 2.
+
+| PCs | Day budget | Four set fights | % | + one Wandering Husks fight | % |
+|---|---|---|---|---|---|
+| 4 | 20,000 | 15,075 | 75% | 19,575–20,075 | 98–100% |
+| 5 | 25,000 | 21,165 | 85% | 27,290–29,040 | 109–116% |
+| 6 | 30,000 | 23,575 | 79% | 30,775–31,075 | 103–104% |
+
+With 5 PCs, a wandering fight puts the day over budget, so skip the roll or let Ossian's voice (result 6) stand in.
 
 ## Concluding the Adventure
 - **Ossian slain.** The worm-flesh boils away into brine and maggots. Harrow asks for the ash, and the dead go back into the ground properly. The chapel needs a new keeper.
