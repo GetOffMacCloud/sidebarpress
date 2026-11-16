@@ -28,4 +28,13 @@ sp = (ink & (1 - op) & band & fl).astype(np.uint8)
 n, l, st, _ = cv2.connectedComponentsWithStats(sp, 8)
 for i in range(1, n):
     if st[i, 4] <= 14 and max(st[i, 2], st[i, 3]) <= 9: out[l == i] = 255
+# remove the GM-only escape-tunnel dots (lines y = b - x, b = 680.4 / 708.1 in box px); redrawn as GM-only vectors
+ink = (out < 128).astype(np.uint8)
+n, l, st, cen = cv2.connectedComponentsWithStats(ink, 8)
+for i in range(1, n):
+    x, y, w, h, a = st[i]; cx_, cy_ = cen[i]
+    if a > 80: continue
+    d = min(abs((cx_ + cy_) - 680.4), abs((cx_ + cy_) - 708.1)) / np.sqrt(2)
+    if d < 4 and np.hypot(cx_ - CX, cy_ - CY) > 140 and cx_ > CX: out[l == i] = 255
+cv2.circle(out, (380, 236), 25, 255, -1)      # round table, redrawn as vector in map10.py
 cv2.imwrite('maps/raw/map10_clean.png', out)

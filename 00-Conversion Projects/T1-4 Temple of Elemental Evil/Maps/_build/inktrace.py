@@ -635,6 +635,23 @@ def build(mode):
         o.append(f'<line x1="{x_ * S:.1f}" y1="{ya_ * S:.1f}" x2="{x_ * S:.1f}" y2="{yb_ * S:.1f}" stroke="{INK}" stroke-width="{sw_ * S:.1f}" stroke-linecap="butt"/>')
     for (pts_, sw) in cfg.get('POLYS', []):       # closed outlined polygons, floor-filled (later ones on top)
         o.append('<path d="M' + ' L'.join(f'{px * S:.1f} {py * S:.1f}' for px, py in pts_) + f'Z" fill="{FLOOR}" stroke="{INK}" stroke-width="{sw * S:.1f}" stroke-linejoin="miter"/>')
+    for (pts_, sp_, ln_, side_, sw_) in cfg.get('TICKLINES', []):   # slope/cliff line with ticks on one side
+        P_ = np.array(pts_, float)
+        # smooth with Chaikin
+        for _ in range(3):
+            Q = [P_[0]]
+            for a_, b_ in zip(P_[:-1], P_[1:]): Q += [0.75 * a_ + 0.25 * b_, 0.25 * a_ + 0.75 * b_]
+            Q.append(P_[-1]); P_ = np.array(Q)
+        o.append('<path d="M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in P_) + f'" fill="none" stroke="{INK}" stroke-width="{sw_ * S:.1f}" stroke-linecap="round" stroke-linejoin="round"/>')
+        seg = np.hypot(*np.diff(P_, axis=0).T); cum = np.r_[0, np.cumsum(seg)]
+        for t_ in np.arange(sp_ / 2, cum[-1], sp_):
+            i_ = min(np.searchsorted(cum, t_) - 1, len(seg) - 1); i_ = max(i_, 0)
+            f_ = (t_ - cum[i_]) / max(seg[i_], 1e-6); pt = P_[i_] + f_ * (P_[i_ + 1] - P_[i_])
+            d_ = (P_[i_ + 1] - P_[i_]) / max(seg[i_], 1e-6); nrm = np.array([-d_[1], d_[0]]) * side_
+            q_ = pt + nrm * ln_
+            o.append(f'<line x1="{pt[0] * S:.1f}" y1="{pt[1] * S:.1f}" x2="{q_[0] * S:.1f}" y2="{q_[1] * S:.1f}" stroke="{INK}" stroke-width="{0.85 * sw_ * S:.1f}" stroke-linecap="round"/>')
+    for (pts_, dl_, gp_, sw_) in cfg.get('DASHES_X', []):    # dashed lines, dash/gap in box px
+        o.append('<path d="M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in pts_) + f'" fill="none" stroke="{INK}" stroke-width="{sw_ * S:.1f}" stroke-dasharray="{dl_ * S:.1f} {gp_ * S:.1f}" stroke-linecap="round"/>')
     for (x, y) in cfg.get('DOTS', []):
         o.append(f'<circle cx="{x * S:.1f}" cy="{y * S:.1f}" r="{cfg.get("DOT_R", 4.2) * S:.1f}" fill="{INK}"/>')
     for (x, y, r) in cfg.get('STARS', []):
@@ -675,6 +692,10 @@ def build(mode):
     for (x, y) in cfg.get('XMARKS', []):
         for sg in (1, -1):
             o.append(f'<line x1="{(x - 3.5) * S:.1f}" y1="{(y - 3.5 * sg) * S:.1f}" x2="{(x + 3.5) * S:.1f}" y2="{(y + 3.5 * sg) * S:.1f}" stroke="{INK}" stroke-width="{1.6 * S:.1f}" stroke-linecap="round"/>')
+    if gm:
+        for pts in cfg.get('GM_DASHLINES', []):
+            d = 'M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in pts)
+            o.append(f'<path d="{d}" fill="none" stroke="{INK}" stroke-width="{2.6 * S:.1f}" stroke-dasharray="{2.6 * S:.1f} {2.6 * S:.1f}"/>')
     if gm and GM_PATH and cfg.get('DRAW_GM_INK', True):
         o.append(f'<g transform="scale({S:.5f})"><path d="{GM_PATH}" fill="{INK}" fill-rule="evenodd"/></g>')
     if gm:

@@ -27,9 +27,8 @@ def _at(b, r, off):
         if best is None or abs(rr - r) < best[0]: best = (abs(rr - r), x, y)
     _, x, y = best
     return (x + off / _np.sqrt(2), y + off / _np.sqrt(2))
-PLAYER_FLOORPOLYS = []
-for _b in (680.4, 708.1):
-    p0, p1 = _at(_b, 218, -5), _at(_b, 218, 5)
-    t0 = (p0[0] + 140, p0[1] - 140); t1 = (p1[0] + 140, p1[1] - 140)
-    PLAYER_FLOORPOLYS.append([p0, p1, t1, t0])
-PLAYER_FILLPOLYS = [[_at(680.4, 160, -6), _at(680.4, 217, -6), _at(708.1, 217, 6), _at(708.1, 160, 6)]]
+GM_DASHLINES = [[_at(_b, 150, 0), (_at(_b, 150, 0)[0] + 230, _at(_b, 150, 0)[1] - 230)] for _b in (680.4, 708.1)]
+PLAYER_FILLPOLYS = [[_at(680.4, 173, -6), _at(680.4, 217, -6), _at(708.1, 217, 6), _at(708.1, 173, 6)]]
+# round table in area 1 with four stools (grid removal broke its thin outline)
+ELLIPSES = [(380.5, 236.5, 16, 16, 1.6), (360, 229, 4.5, 4, 1.3), (372, 255, 4.5, 4, 1.3), (402, 223, 4.5, 4, 1.3), (406, 251, 4.5, 4, 1.3)]
+PATHS = [('M369 228 L384 223', 1.0), ('M368 236 L390 228', 1.0), ('M369 244 L394 235', 1.0), ('M374 250 L395 242', 1.0)]

@@ -530,12 +530,38 @@ if 'LABELS' in C:
         poly, T_ = zz[0], (zz[1] if len(zz) > 1 else 175)
         zm = np.zeros((H, W), np.uint8); cv2.fillPoly(zm, [np.array(poly, np.int32)], 1)
         raw = ((I < T_) & (rock == 0)).astype(np.uint8)
+        if len(zz) > 2 and zz[2] == 'inpaint':
+            _yy, _xx = np.mgrid[0:H, 0:W]
+            _b = (np.abs(((_xx - OX) / PX - np.round((_xx - OX) / PX)) * PX) <= 1.6) | (np.abs(((_yy - OY) / PY - np.round((_yy - OY) / PY)) * PY) <= 1.6)
+            _d = ((I < 200) & (rock == 0)).astype(np.uint8)
+            _RL = C.get('INPAINT_RUN', 13)
+            _L2 = (I > 205)
+            _tv = (_d.astype(bool) & np.roll(_L2, 2, 1) & np.roll(_L2, -2, 1)).astype(np.uint8)   # thin vertical stroke
+            _th = (_d.astype(bool) & np.roll(_L2, 2, 0) & np.roll(_L2, -2, 0)).astype(np.uint8)
+            _sv = cv2.morphologyEx(_tv, cv2.MORPH_OPEN, np.ones((_RL, 1), np.uint8)); _sh = cv2.morphologyEx(_th, cv2.MORPH_OPEN, np.ones((1, _RL), np.uint8))
+            _sv = cv2.dilate(_sv, np.ones((1, 3), np.uint8)); _sh = cv2.dilate(_sh, np.ones((3, 1), np.uint8))
+            _gm = cv2.dilate(((_b & (I < 200)) | _sv.astype(bool) | _sh.astype(bool)).astype(np.uint8), np.ones((2, 2), np.uint8))
+            _J = cv2.GaussianBlur(cv2.inpaint(I, _gm, 2, cv2.INPAINT_TELEA), (3, 3), 0.7)
+            ink_ = ((_J < T_) & (rock == 0)).astype(np.uint8)
+            n_, l_, s_, _ = cv2.connectedComponentsWithStats(ink_, 8)
+            ok_ = np.zeros(n_, bool); ok_[1:] = s_[1:, 4] >= C.get('RAW_SPECK', 3)
+            ink_ = ok_[l_].astype(np.uint8)
+            sel = (zm == 1) & (rock == 0)
+            final[sel] = np.where(ink_[sel] == 1, 0, 255)
+            final[(zm == 1) & (erase == 1)] = 255
+            continue
         yy_z, xx_z = np.mgrid[0:H, 0:W]
         onv = np.abs(((xx_z - OX) / PX - np.round((xx_z - OX) / PX)) * PX) <= C.get("RAW_BAND", 2.5)
         onh = np.abs(((yy_z - OY) / PY - np.round((yy_z - OY) / PY)) * PY) <= C.get("RAW_BAND", 2.5)
         side_h = (np.roll(raw, 3, 1) | np.roll(raw, -3, 1) | np.roll(raw, 4, 1) | np.roll(raw, -4, 1)).astype(bool)
         side_v = (np.roll(raw, 3, 0) | np.roll(raw, -3, 0) | np.roll(raw, 4, 0) | np.roll(raw, -4, 0)).astype(bool)
         g_ = (onv & ~side_h) | (onh & ~side_v)
+        if len(zz) > 2 and zz[2] == 'run':
+            RN = C.get('RAW_RUN', 9)
+            rv_ = cv2.morphologyEx(raw, cv2.MORPH_OPEN, np.ones((RN, 1), np.uint8)).astype(bool)
+            rh_ = cv2.morphologyEx(raw, cv2.MORPH_OPEN, np.ones((1, RN), np.uint8)).astype(bool)
+            rv_ = cv2.dilate(rv_.astype(np.uint8), np.ones((3, 1), np.uint8)).astype(bool); rh_ = cv2.dilate(rh_.astype(np.uint8), np.ones((1, 3), np.uint8)).astype(bool)
+            g_ = (onv & rv_) | (onh & rh_)
         ink_ = (raw.astype(bool) & ~g_).astype(np.uint8)
         pass
         n_, l_, s_, _ = cv2.connectedComponentsWithStats(ink_, 8)
@@ -544,10 +570,57 @@ if 'LABELS' in C:
         sel = (zm == 1) & (rock == 0)
         final[sel] = np.where(ink_[sel] == 1, 0, 255)
         final[(zm == 1) & (erase == 1)] = 255
+    for (poly_, buf_) in C.get('WHITE_POLYS', []):      # polyline buffered by buf_: rock stays black, everything else cleared
+        wm = np.zeros((H, W), np.uint8)
+        cv2.polylines(wm, [np.array(poly_, np.int32)], False, 1, int(2 * buf_))
+        final[(wm == 1) & (rock == 0)] = 255
+    ticklines = []; dashlines = []
+    if C.get('SNAPLINES'):
+        _yy, _xx = np.mgrid[0:H, 0:W]
+        _band = (np.abs(((_xx - OX) / PX - np.round((_xx - OX) / PX)) * PX) <= 2) | (np.abs(((_yy - OY) / PY - np.round((_yy - OY) / PY)) * PY) <= 2)
+        _bl = cv2.GaussianBlur(I.astype(np.float32), (5, 5), 1.2); _bl[_band] = 255; _bl[rock == 1] = 255
+        def _cr(P, closed, step=2.5):
+            P = np.array(P, float)
+            if closed: P = np.vstack([P[-1:], P, P[:2]])
+            else: P = np.vstack([P[:1], P, P[-1:]])
+            out_ = []
+            for i in range(1, len(P) - 2):
+                p0, p1, p2, p3 = P[i - 1], P[i], P[i + 1], P[i + 2]
+                n_ = max(2, int(np.hypot(*(p2 - p1)) / step))
+                for t in np.linspace(0, 1, n_, endpoint=False):
+                    t2, t3 = t * t, t * t * t
+                    out_.append(0.5 * ((2 * p1) + (-p0 + p2) * t + (2 * p0 - 5 * p1 + 4 * p2 - p3) * t2 + (-p0 + 3 * p1 - 3 * p2 + p3) * t3))
+            out_.append(P[-2]); return np.array(out_)
+        for sl in C['SNAPLINES']:
+            kind, way, closed = sl[0], sl[1], sl[2]
+            Q = _cr(way, closed)
+            R_ = []
+            for i in range(len(Q)):
+                a_, b_ = Q[max(i - 1, 0)], Q[min(i + 1, len(Q) - 1)]
+                d_ = b_ - a_; d_ /= np.linalg.norm(d_) + 1e-6; nrm = np.array([-d_[1], d_[0]])
+                best = None
+                for k in np.arange(-C.get('SNAP_R', 4), C.get('SNAP_R', 4) + 0.1, 0.5):
+                    q = Q[i] + k * nrm; xi, yi = int(round(q[0])), int(round(q[1]))
+                    if 0 <= xi < W and 0 <= yi < H:
+                        v = _bl[yi, xi] + 3 * abs(k)
+                        if best is None or v < best[0]: best = (v, q)
+                R_.append(best[1] if best[0] < 200 else Q[i])
+            R_ = np.array(R_)
+            if len(R_) > 5:
+                K = np.ones(5) / 5
+                xs_ = np.convolve(np.pad(R_[:, 0], 2, mode='wrap' if closed else 'edge'), K, 'valid'); ys_ = np.convolve(np.pad(R_[:, 1], 2, mode='wrap' if closed else 'edge'), K, 'valid')
+                R_ = np.column_stack([xs_, ys_])
+            if closed: R_ = np.vstack([R_, R_[:1]])
+            pts_ = [[round(float(x), 1), round(float(y), 1)] for x, y in R_]
+            wm = np.zeros((H, W), np.uint8)
+            cv2.polylines(wm, [np.round(R_).astype(np.int32)], False, 1, int(2 * sl[3]))
+            final[(wm == 1) & (rock == 0)] = 255
+            if kind == 'tick': ticklines.append([pts_] + list(sl[4:]))
+            else: dashlines.append(pts_)
     for (a, b, c, d) in C.get('BLACK', []): final[b:d, a:c] = 0
     for (cx, cy, r) in C.get('FLOOR_CIRCLES', []):
         cv2.circle(final, (int(cx), int(cy)), int(r), 255, -1)
     cv2.imwrite(out + '_final.png', final)
-    json.dump({'box': [int(x0), int(y0), int(x1), int(y1)], 'lattice': [PX, OX, PY, OY], 'labels': labels_out, 'secrets': secrets_out, 'doors': doors_out, 'treads': treads, 'treads_v': treads_v},
+    json.dump({'box': [int(x0), int(y0), int(x1), int(y1)], 'lattice': [PX, OX, PY, OY], 'labels': labels_out, 'secrets': secrets_out, 'doors': doors_out, 'treads': treads, 'treads_v': treads_v, 'ticklines': ticklines, 'dashlines': dashlines},
               open(out + '_labels.json', 'w'), indent=0)
     print('missed:', miss)
