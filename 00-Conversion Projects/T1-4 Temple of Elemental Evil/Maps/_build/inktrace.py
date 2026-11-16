@@ -484,12 +484,14 @@ S = 50 / PX                                    # svg scale: 50 units per grid sq
 
 def grid_lines():
     o = []
+    dv = cfg.get('GRID_DIV', 1); px, py = PX / dv, PY / dv
+    x0g, y0g = OX % px, OY % py
     k = 0
-    while OX + k * PX < W:
-        x = (OX + k * PX) * S; o.append(f'M{x:.1f} 0V{H * S:.1f}'); k += 1
+    while x0g + k * px < W:
+        x = (x0g + k * px) * S; o.append(f'M{x:.1f} 0V{H * S:.1f}'); k += 1
     k = 0
-    while OY + k * PY < H:
-        y = (OY + k * PY) * S; o.append(f'M0 {y:.1f}H{W * S:.1f}'); k += 1
+    while y0g + k * py < H:
+        y = (y0g + k * py) * S; o.append(f'M0 {y:.1f}H{W * S:.1f}'); k += 1
     return ' '.join(o)
 
 def build(mode):
@@ -502,7 +504,7 @@ def build(mode):
          f'<rect x="0" y="{-top}" width="{Wd:.0f}" height="{Ht + top + bot:.0f}" fill="{PAPER}" filter="url(#paper)"/>',
          f'<rect x="0" y="0" width="{Wd:.0f}" height="{Ht:.0f}" fill="{FLOOR}" filter="url(#paper)"/>',
          (f'<g transform="scale({S:.5f})"><path d="{TINT_PATH}" fill="{cfg.get("TINT_COLOR", "#cdb98d")}" fill-rule="evenodd"/></g>' if TINT_PATH else ''),
-         (f'<path d="{grid_lines()}" stroke="{GRID}" stroke-width="1.4" opacity="0.75" fill="none"/>' if (mode != 'player_nogrid' and cfg.get('DRAW_GRID', True)) else ''),
+         (f'<path d="{grid_lines()}" stroke="{GRID}" stroke-width="{1.4 if cfg.get('GRID_DIV', 1) == 1 else 1.1}" opacity="0.75" fill="none"/>' if (mode != 'player_nogrid' and cfg.get('DRAW_GRID', True)) else ''),
          f'<g transform="scale({S:.5f})"><path d="{(INK_PATH_NG if (mode == "player_nogrid" and INK_PATH_NG) else INK_PATH)}" fill="{INK}" fill-rule="evenodd"/></g>']
     for (a, b, c, d, orient) in cfg.get('STAIRS', []):
         X0, Y0, X1, Y1 = a * S, b * S, c * S, d * S
@@ -619,6 +621,32 @@ def build(mode):
         o.append(f'<path d="{d_}" fill="none" stroke="{FLOOR}" stroke-width="{(wd - 3.2) * S:.1f}" stroke-dasharray="{3.0 * S:.1f} {2.2 * S:.1f}"/>')
     for (d_, sw) in cfg.get('PATHS', []):          # raw path in box px
         o.append(f'<g transform="scale({S:.5f})"><path d="{d_}" fill="none" stroke="{INK}" stroke-width="{sw}" stroke-linecap="round" stroke-linejoin="round"/></g>')
+    for k_, poly in enumerate(cfg.get('BONES', [])):    # scattered bones and skulls inside a polygon (box px)
+        import random as _r; _r.seed(2000 + k_)
+        _pm = np.zeros((H, W), np.uint8); cv2.fillPoly(_pm, [np.array(poly, np.int32)], 1)
+        _pm = cv2.erode(_pm, np.ones((5, 5), np.uint8))
+        ys_, xs_ = np.nonzero(_pm); area_ = len(xs_)
+        placed = []
+        n_ = int(area_ / cfg.get('BONE_SPARSE', 55))
+        tries = 0
+        while len(placed) < n_ and tries < n_ * 30:
+            tries += 1
+            i_ = _r.randrange(area_); x, y = xs_[i_] + _r.random(), ys_[i_] + _r.random()
+            skull = _r.random() < cfg.get('SKULL_P', 0.14)
+            rr = 5.0 if skull else 4.0
+            if any((x - px_) ** 2 + (y - py_) ** 2 < (rr + pr_ + 0.8) ** 2 for px_, py_, pr_ in placed): continue
+            placed.append((x, y, rr))
+            if skull:
+                r_ = 3.3
+                o.append(f'<g transform="translate({x * S:.1f} {y * S:.1f}) rotate({_r.uniform(-30, 30):.0f}) scale({S:.4f})">'
+                         f'<path d="M-{r_} 0.4 A{r_} {r_} 0 1 1 {r_} 0.4 L{r_ * 0.7} 2.4 L-{r_ * 0.7} 2.4 Z" fill="{FLOOR}" stroke="{INK}" stroke-width="0.85"/>'
+                         f'<circle cx="-1.25" cy="0.2" r="0.85" fill="{INK}"/><circle cx="1.25" cy="0.2" r="0.85" fill="{INK}"/></g>')
+            else:
+                L_ = _r.uniform(2.8, 4.2); a_ = _r.uniform(0, 180)
+                o.append(f'<g transform="translate({x * S:.1f} {y * S:.1f}) rotate({a_:.0f}) scale({S:.4f})">'
+                         f'<line x1="-{L_}" y1="0" x2="{L_}" y2="0" stroke="{INK}" stroke-width="0.9"/>'
+                         f'<circle cx="-{L_}" cy="-0.55" r="0.6" fill="{INK}"/><circle cx="-{L_}" cy="0.55" r="0.6" fill="{INK}"/>'
+                         f'<circle cx="{L_}" cy="-0.55" r="0.6" fill="{INK}"/><circle cx="{L_}" cy="0.55" r="0.6" fill="{INK}"/></g>')
     for (x, y) in cfg.get('XMARKS', []):
         for sg in (1, -1):
             o.append(f'<line x1="{(x - 3.5) * S:.1f}" y1="{(y - 3.5 * sg) * S:.1f}" x2="{(x + 3.5) * S:.1f}" y2="{(y + 3.5 * sg) * S:.1f}" stroke="{INK}" stroke-width="{1.6 * S:.1f}" stroke-linecap="round"/>')
@@ -650,7 +678,8 @@ def build(mode):
         if cfg.get('SCALE_BAR', True):
             ft = cfg['SCALE_FT']
             o.append(f'<text x="{sx}" y="{sy - 8}" font-size="16" fill="{INK}">0</text><text x="{sx + 230}" y="{sy - 8}" font-size="16" fill="{INK}">{5 * ft} ft</text>')
-            o.append(f'<text x="{sx + 270}" y="{sy + 10}" font-size="16" fill="{INK}">1 square = {ft} feet</text>')
+            _sqft = ft / cfg.get('GRID_DIV', 1); _sqft = int(_sqft) if _sqft == int(_sqft) else _sqft
+            o.append(f'<text x="{sx + 270}" y="{sy + 10}" font-size="16" fill="{INK}">1 square = {_sqft} feet</text>')
         else:
             o.append(f'<text x="{sx}" y="{sy + 10}" font-size="18" fill="{INK}">{cfg.get("SCALE_TEXT", "")}</text>')
         if cfg.get('NOTE'):

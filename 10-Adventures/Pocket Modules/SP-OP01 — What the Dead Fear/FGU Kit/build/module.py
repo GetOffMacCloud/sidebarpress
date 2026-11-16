@@ -13,8 +13,8 @@ FG=os.environ.get('FG_DIR',os.path.expanduser('~/mnt/Fantasy Grounds'))
 CODE='SP-OP01'; NAME='SP-OP01 What the Dead Fear'; DISPLAY='SP-OP01 — What the Dead Fear'
 SRC=ADV; ASSETS=os.path.join(VAULT,'99-Assets',CODE); TEXT_MAP={}
 fgconv.STRIP=[CODE+' — ']
-fgconv.NAMES={CODE+'-What-the-Dead-Fear':'Concluding the Adventure','Brother Ossian':'Brother Ossian (Avolakia)'}
-FIX=[(r'See <b>?Concluding the Adventure</b>?\.?',''),(r'<p>Back to [^<]*</p>',''),(r' with no notes of their own; the real .*?either\.',' (Scene 3).'),(r'are sub-sites of the one note','are its areas'),(r'The FGU Import block in Brother Ossian \(Avolakia\) \(the one source the module build reads\)','the Brother Ossian NPC record')]
+fgconv.NAMES={'SP-OP01 — Handout — The Notice':'Handout 1: The Notice','SP-OP01 — Handout — The Burial Register':'Handout 2: The Burial Register','SP-OP01 — Handout — The Larder Ledger':'Handout 3: The Larder Ledger','Gravecure':'Spell: Gravecure',CODE+'-What-the-Dead-Fear':'Concluding the Adventure','Brother Ossian':'Brother Ossian (Drunaghul)'}
+FIX=[(r'See <b>?Concluding the Adventure</b>?\.?',''),(r'<p>Back to [^<]*</p>',''),(r' with no notes of their own; the real .*?either\.',' (Scene 3).'),(r'are sub-sites of the one note','are its areas'),(r'The FGU Import block in Brother Ossian \(Drunaghul\) \(the one source the module build reads\)','the Brother Ossian NPC record')]
 # ---------------------------
 WORK=os.path.expanduser(os.environ.get('FG_WORK','~/work/fgu')+'/'+CODE); FLAT=WORK+'-src'; os.makedirs(FLAT,exist_ok=True)
 def ikey(f):
@@ -59,7 +59,7 @@ def homebrew(key,p,token=None,picture=None):
     m.npc(key,name,sz,typ,align,int(ac),actext,int(hp),hd,speed,ab,cr,int(xp.replace(',','')),f.get('Senses',''),f.get('Languages',''),
           traits=[tuple(t) for t in G['traits']],actions=[tuple(a) for a in G['actions']],bonus=[tuple(b) for b in G['bonus']],
           skills=f.get('Skills',''),saves=f.get('Saving Throws',''),immunities=f.get('Damage Immunities',''),
-          text='The keeper of Merrow\'s Rest is an avolakia wearing the face of the brother it ate first. Grateful, gentle, and always hungry. See the Bestiary page for the CR check and the Larder rules.',
+          text='The keeper of Merrow\'s Rest is a drunaghul wearing the face of the brother it ate first. Grateful, gentle, and always hungry. See the Bestiary page for the CR check and the Larder rules.',
           picture=picture)
     e=m._cat('npc').find(key)
     for lab,tag in (('Damage Resistances','damageresistances'),('Damage Vulnerabilities','damagevulnerabilities'),('Condition Immunities','conditionimmunities')):
@@ -74,11 +74,15 @@ _srdsp={(e.findtext('name') or '').lower():e for e in next(x for x in _srdx.iter
 def srd_spell(nm):
     e=_srdsp[nm.lower()]; d=re.sub(r'\s*\n\s*','\n',re.sub(r'<[^>]+>','\n',ET.tostring(e.find('description'),encoding='unicode'))).strip()
     return 'Level: %s\nCasting Time: %s\nComponents: %s\nDuration: %s\nRange: %s\n%s\n'%(e.findtext('level'),e.findtext('castingtime'),e.findtext('components'),e.findtext('duration'),e.findtext('range'),html.unescape(d))
+GV=os.path.join(SRC,'Spells','Gravecure.md'); _gv=fullnote(GV)
+_gvrules=re.sub(r'^\*\d\w\w-level[^\n]*\*\n','',re.sub(r'^- \*\*(Casting Time|Range|Components|Duration|Classes):\*\*.*\n','',_gv,flags=re.M).lstrip(),count=1).split('## Notes for the DM')[0]
+m.spell('gravecure','Gravecure',3,'Necromancy',False,'1 action','60 feet','V, S, M (a pinch of grave salt)','Concentration, up to 1 minute','Cleric, Warlock, Wizard',C(_gvrules)+'<p><i>Sidebar Press homebrew (OP1).</i></p>')
+HB_SPELL={'gravecure':'Level: 3\nCasting Time: 1 action\nComponents: V, S, M (a pinch of grave salt)\nDuration: Concentration, up to 1 minute\nRange: 60 feet\nEach undead of your choice in a 20-foot-radius sphere must succeed on a Wisdom saving throw or be cured: incapacitated, speed 0, no reactions. It repeats the save at the end of each of its turns and when it takes damage. CR 6+ undead have advantage. See the Gravecure spell record.\n'}
 def innate(e):
     tr=[x for x in e.find('traits') if x.findtext('name')=='Innate Spellcasting'][0].findtext('desc'); L=_S(e,'innatespells'); n=0
     for freq,lst in re.findall(r'^(At will|\d/day(?: each)?): (.*)$',tr,re.M):
         for sp in [x.strip() for x in lst.split(',')]:
-            n+=1; it=_S(L,ids(n)); _S(it,'desc','string',srd_spell(sp)); _S(it,'name','string','%s (%s)'%(sp.title(),freq))
+            n+=1; it=_S(L,ids(n)); _S(it,'desc','string',HB_SPELL.get(sp.lower()) or srd_spell(sp)); _S(it,'name','string','%s (%s)'%(sp.title(),freq))
 TOK=('token-ossian' if has('token-ossian') else None); PIC=('portrait-ossian-color' if has('portrait-ossian-color') else TOK)
 innate(homebrew('ossian',NOTE('30-NPCs','Brother Ossian'),token=TOK,picture=PIC))
 def srd(src,name,key,dress,**kw):
@@ -86,7 +90,7 @@ def srd(src,name,key,dress,**kw):
     e=m._cat('npc').find(key); old=e.find('token')
     if old is not None: e.remove(old)
     m.TOK[key]=''
-srd('wight','Sexton Harrow (Wight)','harrow',"The chapel's old gravedigger, raised by the avolakia. His longsword is a shovel (same stats, bludgeoning damage). He speaks for the larder and won't fight Ossian unless persuaded (Persuasion DC 13). If Ossian feeds on him, Ossian regains 25 hit points.",overrides={'alignment':'neutral'},keep_srd_text=False)
+srd('wight','Sexton Harrow (Wight)','harrow',"The chapel's old gravedigger, raised by the drunaghul. His longsword is a shovel (same stats, bludgeoning damage). He speaks for the larder and won't fight Ossian unless persuaded (Persuasion DC 13). If Ossian feeds on him, Ossian regains 25 hit points.",overrides={'alignment':'neutral'},keep_srd_text=False)
 srd('ghoul','Larder Ghoul','larderghoul',"The Widow Brisk, the Collier twins, Old Tam. They cower, taking the Dodge action every turn, until the party arms them (Persuasion DC 13). Their claws can paralyze Ossian. Each one Ossian feeds on heals him 15.",keep_srd_text=False)
 srd('ogrezombie','Pallbearer (Ogre Zombie)','pallbearer',"Ossian's butchers, wrapped in burial linen and smelling of salt and clove. They wait in the chute alcove and drop down on round 2 (5–6 PCs only). Ossian can't feed on them.",keep_srd_text=False)
 def hb_plain(key,path):
@@ -125,8 +129,11 @@ m.page(I1,'Cover','<p><b>APL 7 (levels 6–8) · 4–6 characters · one 4-hour 
 HOWTO=('<h>How to Use This Module</h><p>The whole adventure, in order of play: three scenes, then the ending. Every fight (E1–E4) has ready-made combat tracker entries for 4, 5 and 6 PCs; W1–W3 are the Wandering Husks (all Hard). The boss fight '
  'also has a <b>Larder</b> entry (Harrow and four ghouls, set to neutral) to add alongside. Every statblock is in the NPC list; the Urn is in Items.</p>'
  '<p><b>Boxed text:</b> read it as written or paraphrase it, but keep every clue. Stats are 2014 5e.</p>')
-m.page(I1,'Credits & How to Use','<p><b>What the Dead Fear</b> · %s · Sidebar Press. Statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0). The avolakia statblock is original to Sidebar Press.</p>'%CODE+HOWTO+C(pick(M,'Design Frame')))
+m.page(I1,'Credits & How to Use','<p><b>What the Dead Fear</b> · %s · Sidebar Press. Statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0). The drunaghul statblock is original to Sidebar Press.</p>'%CODE+HOWTO+C(pick(M,'Design Frame')))
 m.page(I1,'Background & Hooks',C(pick(M,'Background','Hooks')))
+m.page(I1,'Rumors',C(pick(M,'Rumors (d6)')))
+m.page(I1,"Merrow's Rest",C(fullnote(os.path.join(VAULT,'40-Locations',"Merrow's Rest.md")).split('## Adventure Use')[0]))
+m.page(I1,'Brother Ossian',C(fullnote(os.path.join(VAULT,'30-NPCs','Brother Ossian.md')).split('## Stat Block')[0]),images=[i for i in ('portrait-ossian-guise','portrait-ossian-color') if has(i)],links=[m.N('ossian')])
 m.page(I1,'Encounters & Cast',C(pick(M,'Encounters','Key NPCs','Key Locations')),links=BX('E1')+BX('E2')+BX('E3')+B3+[m.B(w+x) for w in ('W1','W2','W3') for x in 'abc']+[m.N(k) for k in ('ossian','harrow','larderghoul','pallbearer','husk','ogrehusk','crawler','mouther','curedhand')])
 m.page(A1,'Scene 1 — The Grateful Mortician',C(fullnote(SC(1))),images=[i for i in ('portrait-ossian-guise',) if has(i)],links=BX('E1')+[m.N('ossian'),m.N('husk'),m.N('ogrehusk')])
 m.page(A2,'Scene 2 — The Catacombs',C(fullnote(SC(2))),images=[i for i in ('map-merrows-rest-key',) if has(i)],links=BX('E2')+BX('E3')+[m.B(w+x) for w in ('W1','W2','W3') for x in 'abc']+[m.N('larderghoul'),m.N('crawler'),m.N('mouther'),m.N('curedhand'),m.N('husk')])
@@ -134,6 +141,13 @@ s3=[i for i in ('scene-the-trap','plate-ossian','portrait-sexton-harrow','map-sa
 m.page(A3,'Scene 3 — What the Dead Fear',C(fullnote(SC(3))),images=s3+([MAP] if MAP else []),links=B3+[m.N('ossian'),m.N('harrow'),m.IT('urn')]+([m.I(MAP)] if MAP else []))
 m.page(A3,'Concluding the Adventure',C(pick(M,'Concluding the Adventure')),links=[m.IT('urn')])
 m.page(AP,'Bestiary',C(fullnote(BEST)),links=[m.N(k) for k in m.NPC])
+m.page(AP,'Spell: Gravecure',C(fullnote(GV)),links=[m.SP('gravecure')])
+m.page(AP,'Running It at Other Levels',C(pick(M,'Running It at Other Levels')))
+m.page(AP,'Stream Twists',C(pick(M,'Stream Twists (d6)')))
+m.page(AP,'Sequel Seed',C(pick(M,'Sequel Seed: The Face on the Road')))
+for _t in ('The Notice','The Burial Register','The Larder Ledger'):
+    _h=os.path.join(SRC,'SP-OP01 — Handout — %s.md'%_t); _hi=[i for i in ('handout-'+_t.lower().replace(' ','-').replace('the-',''),) if has(i)]
+    m.page(AP,re.search(r'^title: "(.*)"',open(_h).read(),re.M).group(1),C(fullnote(_h)),images=_hi,place={k:'$end' for k in _hi})
 m.page(AP,'The Urn of Saint Merrow',C(fullnote(UP).split('## Continuity')[0]),links=[m.IT('urn')])
 # ---- build ----
 m.LINT=[r'SP-OP01-What',r'SP-OP01 — (Bestiary|Board|Map|Art)',r'FGU Import',r'30-NPCs']

@@ -16,6 +16,8 @@ The monthly **Sidebar Press Pocket Module**: one session, setting-agnostic, 2014
 ## The format
 - **Post:** about three pages plus a stat-block page, as a Claude doc. A guide, not a hard limit.
 - **Contents:** the adventure; maps; one custom monster; one custom item; one custom spell; a write-up of the main location and the main NPC.
+- **Standard extras (from OP1):** player handouts (built in Canva); a "Drop it in" sidebar (no named settings); a rumor table (d6); a Running It at Other Levels box (APL −2 / +2); a Stream Twists table (d6) for chat; a sequel seed.
+- **Locations are setting-agnostic.** Write only the history of the place, its buildings and its denizens.
 - **Play:** one 4-hour session, APL set per module, 4–6 characters, scaling for 4 / 5 / 6 PCs.
 - **Fights:** standard fights that push the party to its limits, plus one avoidable problem the party has to manage or the session gets much harder (OP1: Wandering Husks, which are Hard fights; the Larder heals the boss).
 - **Day budget:** set fights land at 75–85% of the DMG adventuring day; the avoidable problem pushes it to about 100% if the party ignores it.

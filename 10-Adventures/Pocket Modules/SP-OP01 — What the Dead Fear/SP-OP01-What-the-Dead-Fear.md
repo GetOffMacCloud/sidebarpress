@@ -14,7 +14,7 @@ region: "Any lonely pilgrim road, crossroads abbey or old cemetery"
 in_world_date: "Any"
 created: 2026-11-16
 fg_module: "SP-OP01 What the Dead Fear"
-tags: [pocket-module, one-shot, horror, aberration, avolakia, undead, twist, november-2026]
+tags: [pocket-module, one-shot, horror, aberration, drunaghul, undead, twist, november-2026]
 ---
 
 # What the Dead Fear
@@ -23,7 +23,7 @@ tags: [pocket-module, one-shot, horror, aberration, avolakia, undead, twist, nov
 
 > *The mortician thanks you for coming. He thanks you for everything. He never once blinks.*
 >
-> A soft-spoken caretaker begs the party to clear restless dead from his catacombs. At the bottom they find the dead hiding, and they're hiding from him. Brother Ossian is an **avolakia**, an aberration of worm-flesh that wears the faces of the dead and eats undead flesh cured like meat in a cellar. He didn't hire exterminators. He hired beaters to flush his dinner out of hiding, and to stay for dessert.
+> A soft-spoken caretaker begs the party to clear restless dead from his catacombs. At the bottom they find the dead hiding, and they're hiding from him. Brother Ossian is an **drunaghul**, an aberration of worm-flesh that wears the faces of the dead and eats undead flesh cured like meat in a cellar. He didn't hire exterminators. He hired beaters to flush his dinner out of hiding, and to stay for dessert.
 
 ## Adventure Code
 `SP-OP01` (printed **OP1**). The first **Pocket Module**: O for open (setting-agnostic), P for Pocket Module. One post a month, two-page spread plus a stat-block page. See `claude/module-codes.md`.
@@ -42,7 +42,7 @@ Published as the November 2026 Pocket Module post: a two-page spread (scenes 1�
 ## Background
 **Merrow's Rest** is a roadside mortuary chapel with catacombs below, on a lonely pilgrim road. For forty years old Brother Ossian kept it. Eight months ago something that looked like him came up from below. The real Ossian is the first entry in its larder ledger.
 
-The avolakia raised the year's burials as **ghouls** and hung them in the catacombs to age. The first thing it raised was the sexton, [[Sexton Harrow]], who saw too much. He rose as a **wight** with his memory intact. Last week Harrow led the penned dead into the **Saint's Ossuary**, whose burial crawls are too narrow for a Large creature. The avolakia can't reach them there, and it barred them in to wait. So it posted a notice.
+The drunaghul raised the year's burials as **ghouls** and hung them in the catacombs to age. The first thing it raised was the sexton, [[Sexton Harrow]], who saw too much. He rose as a **wight** with his memory intact. Last week Harrow led the penned dead into the **Saint's Ossuary**, whose burial crawls are too narrow for a Large creature. The drunaghul can't reach them there, and it barred them in to wait. So it posted a notice.
 
 ### What the Locals Know
 - The chapel has buried everyone on this stretch of road for forty years. Brother Ossian is kind, patient and always grateful.
@@ -53,6 +53,24 @@ The avolakia raised the year's burials as **ghouls** and hung them in the cataco
 - **The notice.** It's on every waystone and shrine board for twenty miles: *Undead outbreak. Clear the catacombs and recover the sacred Urn of Saint Merrow. 600 gp. — Br. Ossian, Merrow's Rest.*
 - **The missing mother.** Pell Brisk buried his mother at Merrow's Rest in spring. Last month he saw her at the chapel window, grey and hungry, and Brother Ossian told him grief plays tricks. He'll pay 50 gp to know she's at peace.
 - **The storm.** The party shelters at the chapel for the night. Ossian studies their sword arms and spell-scarred hands, and decides they'll do.
+
+> **Drop it in.** Merrow's Rest belongs to no setting. Put it wherever a road needs a place to bury its dead: a crossroads chapel on a pilgrim or trade road, the mortuary chapel of a remote abbey, the paupers' field outside a city wall, a cemetery on an old battlefield, or the chapel of a mining town, where the crawls meet the old workings. Saint Merrow can be any patron of the dead in your setting, and the urn's ash works the same either way.
+
+## Rumors (d6)
+| d6 | Rumor | True? |
+|---|---|---|
+| 1 | "Brother Ossian hasn't slept since spring. His candle's always lit." | True |
+| 2 | "Grave robbers stole the saint's urn, and that's why the dead walk." | False: it's Ossian's story |
+| 3 | "Tam the cooper was buried in spring. His widow swears he knocked on her door." | True |
+| 4 | "There's something under the chapel older than the chapel." | True: the crawls |
+| 5 | "Ossian pays in old coin. Some say it's grave money." | True |
+| 6 | "The yard dog bit Brother Ossian once. Next morning the dog was fine, and the brother hadn't a mark on him." | True |
+
+## Merrow's Rest
+Full write-up (history of the place, the building and its denizens): [[Merrow's Rest]].
+
+## Brother Ossian
+Full write-up (the man, the thing wearing him, manner, wants, lines): [[Brother Ossian]].
 
 ## Adventure Outline
 | Scene | Budget | Core output |
@@ -94,11 +112,46 @@ With 5 PCs, a wandering fight puts the day over budget, so skip the roll or let 
 
 ### Treasure
 - **Ossian's advance** of 300 gp, paid in grave coins.
-- **On the chute ledge**, what he took from forty years of burials: 900 gp in rings, buckles and eye-coins, plus a *cloak of protection*, a *periapt of wound closure*, and 2 *potions of greater healing*.
+- **On the chute ledge**, what he took from forty years of burials: 900 gp in rings, buckles and eye-coins, plus a *cloak of protection*, a *periapt of wound closure*, 2 *potions of greater healing*, and a *spell scroll of* [[Gravecure|gravecure]].
 - **[[The Urn of Saint Merrow]]** (wondrous item, uncommon).
 
+## Running It at Other Levels
+| | APL 5 (levels 4–6) | APL 9 (levels 8–10) |
+|---|---|---|
+| **Ossian** | 115 hp, AC 15, 1 legendary action. Drop *dominate person* and open with *hold person*. Bite necrotic 3d6. | 190 hp, AC 17, 3 legendary actions. Bite necrotic 5d6. Feed heals 20 (35 for Harrow). |
+| **Graveyard** | One fewer ogre zombie | Two more ogre zombies |
+| **Bone Gallery** | One fewer crawler | Two more crawlers |
+| **The Kitchen** | 2 mouthers + 4 cured hands | One more mouther |
+| **Pallbearers** | None | One more |
+| **Wandering Husks** | Use the 4-PC numbers, one creature fewer | Use the 6-PC numbers |
+
+Recheck each fight against the DMG thresholds for your party; these are starting points.
+
+## Stream Twists (d6)
+For streamed games: once per scene, let chat vote on or roll one of these.
+
+| d6 | Twist |
+|---|---|
+| 1 | **Lights out.** Every candle and torch gutters out at once. Darkness for 1 minute. |
+| 2 | **The register writes itself.** A new line appears in the neat hand: a PC's name, and *taken below for rest*. |
+| 3 | **Pell follows.** Pell Brisk has trailed the party down, looking for his mother. Now he's in danger. |
+| 4 | **A ghoul knows you.** A larder ghoul whispers a PC's secret. Ossian's telepathy leaks into the things he eats. |
+| 5 | **The bells ring.** Roll on the Wandering Husks table right now. |
+| 6 | **Mercy.** Harrow appears early, once, and warns a PC: "When the doors close, go for the hole in the ceiling." |
+
+## Sequel Seed: The Face on the Road
+Even if Ossian dies, Harrow knows one more thing: "He came up the crawls. He said the others are still down there, waiting for the yards to fill." The walled-off crawls under the ossuary lead deeper. If Ossian escaped, a new chapel two roads over has a new keeper who is very grateful for help.
+
+## Handouts
+- [[SP-OP01 — Handout — The Notice]] (the hook)
+- [[SP-OP01 — Handout — The Burial Register]] (Scene 01)
+- [[SP-OP01 — Handout — The Larder Ledger]] (Scene 02, C2)
+
+## Spell
+- [[Gravecure]] (3rd-level necromancy)
+
 ## Key NPCs
-- [[Brother Ossian]]: the avolakia, posing as the chapel's keeper.
+- [[Brother Ossian]]: the drunaghul, posing as the chapel's keeper.
 - [[Sexton Harrow]]: the wight who speaks for the larder.
 - Old Tam, the Widow Brisk and the Collier twins are larder ghouls with no notes of their own; the real Brother Ossian and Pell Brisk are offstage and get no notes either.
 
@@ -116,4 +169,4 @@ With 5 PCs, a wandering fight puts the day over budget, so skip the roll or let 
 - FGU: `FGU Kit/build/module.py`
 
 ## Canon Notes
-The avolakia is a WotC creature name that isn't in SRD 5.1. Fine for a free post; before any sold edition, rename it to a house epithet per the Fell Harvest ruling (WotC-specific names become generic epithets). The statblock here is original.
+The drunaghul is an original Sidebar Press creature (named 2026-11-16). Its roots are real-world folklore: the Arabian ghul (graveyards, shapeshifting, taking the form of the last person eaten; possibly from the Akkadian gallu), the Avestan Druj Nasu ("the lie that is corpse"; dogs drive it off), the Philippine aswang and bal-bal (corpse thieves at wakes, the long tongue), and the Norse Níðhöggr on Náströnd (the worm that sucks corpses). Setting-agnostic; safe for sold editions.

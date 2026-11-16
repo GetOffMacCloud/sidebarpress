@@ -35,7 +35,7 @@ Show the party that the dead are being kept and cured, and that something is afr
 > | E2b | 5 | 5 ossuary crawlers | 4,500 | Medium |
 > | E2c | 6 | 6 ossuary crawlers | 5,400 | Medium |
 
-- **C2. The Embalming Room.** Tables, hooks, and salt barrels. Ghoul limbs hang from the hooks like hams, wrapped in burial linen and dated. A ledger in a neat hand reads: *Brisk, widow. Raised Planting 2nd. Tender by Harvest.* Religion or Arcana DC 15: undead don't rot like this, so someone is curing them. The ledger's first entry is *Ossian, brother. Tough.*
+- **C2. The Embalming Room.** Tables, hooks, and salt barrels. Ghoul limbs hang from the hooks like hams, wrapped in burial linen and dated. A ledger in a neat hand ([[SP-OP01 — Handout — The Larder Ledger|Handout 3]]) reads: *Brisk, widow. Raised Planting 2nd. Tender by Harvest.* Religion or Arcana DC 15: undead don't rot like this, so someone is curing them. The ledger's first entry is *Ossian, brother. Tough.*
 > [!danger] Fight: The Kitchen (Medium)
 > A salt pit fills the center of the room, 10 ft. square and 3 ft. deep (difficult terrain). Ossian's failures live in it: **gibbering mouthers** grown from aberrant scraps he couldn't digest. When anyone touches the hooks, the **cured hands** ([[Cured Hand]]) twitch free and scuttle, and the mouthers rise from the salt babbling in the voices of the dead. Arcana DC 13 afterward: mouthers form where aberrant flesh festers, so something in this place isn't human.
 >

@@ -23,7 +23,7 @@ Give the party the job, the advance and at least three clues that [[Brother Ossi
 **To the table:** *"He's holding your hand a beat too long. Who pulls away first?"*
 
 ## Who Is Here
-- **Brother Ossian** (the avolakia, in the old brother's shape). *Wants:* the party below tonight. *Knows:* everything. *Reacts:* to suspicion with more gratitude; to open accusation with *suggestion*.
+- **Brother Ossian** (the drunaghul, in the old brother's shape). *Wants:* the party below tonight. *Knows:* everything. *Reacts:* to suspicion with more gratitude; to open accusation with *suggestion*.
 - **The chapel cat and the yard dog.** They know.
 
 ## Beats
@@ -41,7 +41,7 @@ Ossian lies superbly (Deception +12). Insight reads nothing but grief unless the
 | His skin is too wet in the candlelight, like a peeled egg. | Perception DC 12 |
 | He smells of sweet rot and the tang of air after lightning, strongest up close. | Passive Perception 13 |
 | When he raises a toast, his fingers fold backward around the cup. | Perception DC 15, or just describe it |
-| In the burial register, every burial since spring is marked "taken below for rest." Nobody has been interred below since the founding. | Investigation DC 13 or Religion DC 12 |
+| In the burial register ([[SP-OP01 — Handout — The Burial Register|Handout 2]]), every burial since spring is marked "taken below for rest." Nobody has been interred below since the founding. | Investigation DC 13 or Religion DC 12 |
 | The chapel cat won't enter the vestry, and the yard dog won't stop shaking. | Animal Handling DC 10 |
 | A round black hole in the apse floor beside the trapdoor. Ossian calls it "the bone drop, for the old remains." | Anyone who looks. Investigation DC 15: the rim is slick with slime, and the shaft below is clean, with no bones in it. |
 | Ossian casts *detect thoughts* on a PC. | Wisdom save DC 16. On a success, the PC feels an oily pressure behind the eyes, coming from Ossian's direction. |

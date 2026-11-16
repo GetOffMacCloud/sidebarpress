@@ -16,7 +16,7 @@ All stat blocks are 2014 5e *Monster Manual* (MM) unless written out below.
 
 | Creature | CR | XP | Source | Used in |
 |---|---|---|---|---|
-| [[Brother Ossian]] (avolakia) | 9 | 5,000 | Homebrew (below) | Scenes 01, 03 |
+| [[Brother Ossian]] (drunaghul) | 9 | 5,000 | Homebrew (below) | Scenes 01, 03 |
 | [[Sexton Harrow]] | 3 | 700 | Wight, MM 300 | Scene 03 |
 | Larder ghouls (4) | 1 | 200 | Ghoul, MM 148 | Scenes 02–03 |
 | Pallbearers (1–2) | 2 | 450 | Ogre zombie, MM 316 | Scene 03 (5–6 PCs) |
@@ -26,7 +26,7 @@ All stat blocks are 2014 5e *Monster Manual* (MM) unless written out below.
 | Gibbering mouther | 2 | 450 | MM 157 | Scene 02 (C2) |
 | [[Cured Hand]] | 0 | 10 | House creature | Scene 02 (C2) |
 
-> [!example]- Brother Ossian (Avolakia) — CR 9 (5,000 XP)
+> [!example]- Brother Ossian (Drunaghul) — CR 9 (5,000 XP)
 > *Large aberration (shapechanger), neutral evil*
 > **Armor Class** 16 (natural armor) · **Hit Points** 152 (16d10 + 64) · **Speed** 30 ft., climb 30 ft., swim 30 ft.
 > STR 19 (+4) · DEX 14 (+2) · CON 18 (+4) · INT 16 (+3) · WIS 15 (+2) · CHA 18 (+4)

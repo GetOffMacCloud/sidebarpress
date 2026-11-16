@@ -18,7 +18,7 @@ The urn holds up to 6 handfuls of the saint's ash. When found in [[SP-OP01-What-
 - **Quiet grave.** As an action, you scatter a handful on a corpse. That corpse can never rise as undead.
 
 ## History
-Saint Merrow's followers built Merrow's Rest around the urn. The avolakia couldn't bear to touch it, so it hired the party to carry it out.
+Saint Merrow's followers built Merrow's Rest around the urn. The drunaghul couldn't bear to touch it, so it hired the party to carry it out.
 
 ## Found In
 - [[SP-OP01-What-the-Dead-Fear]]: on the altar of the Saint's Ossuary (Scene 03). Ossian's stated reason for the job.
