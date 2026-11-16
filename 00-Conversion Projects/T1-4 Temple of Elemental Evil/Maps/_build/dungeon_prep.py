@@ -247,6 +247,7 @@ hatch = cv2.dilate(hatch, cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5)))
 cv2.imwrite(out + '_hatch.png', hatch * 255)
 _hz = hatch.copy()
 for (a, b, c, d) in C.get('HATCH_DEGRID', []): _hz[b:d, a:c] = 0
+if not C.get('PROTECT_HOLES', True): prot[:] = 0
 grid[(prot == 1) | (_hz == 1)] = 0
 line = np.where(hatch == 1, (I < 170).astype(np.uint8), line)
 if C.get('ROCK_THIN', False): rock = np.where(hatch == 1, rock_thick, rock).astype(np.uint8)
@@ -268,7 +269,7 @@ n, lab, st, _ = cv2.connectedComponentsWithStats(feat, 8)
 keep = np.ones(n, bool); keep[0] = False
 for i in range(1, n):
     x, y, w, h, a = st[i]
-    if a <= 6: keep[i] = False
+    if a <= C.get('STUB_MIN', 6): keep[i] = False
     elif (w <= 3 and h >= 4 and a < 3.2 * h) or (h <= 3 and w >= 4 and a < 3.2 * w):
         cx, cy = x + w / 2, y + h / 2
         on_v = abs(((cx - OX) / PX) - round((cx - OX) / PX)) * PX < 4
