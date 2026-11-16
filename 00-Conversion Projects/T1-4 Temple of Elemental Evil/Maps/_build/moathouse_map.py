@@ -145,7 +145,8 @@ def build(mode):
          f'<rect x="0" y="0" width="{Wd:.0f}" height="{Ht:.0f}" fill="{ROCK}"/>']
     # floors
     o.append(f'<path d="{" ".join(path(p) for p in room_polys)}" fill="{FLOOR}" fill-rule="evenodd" stroke="{INK}" stroke-width="2.5" stroke-linejoin="miter" filter="url(#paper)"/>')
-    o.append(f'<rect width="{Wd:.0f}" height="{Ht:.0f}" fill="url(#grid)" clip-path="url(#rooms)"/>')
+    if mode != 'player_nogrid':
+        o.append(f'<rect width="{Wd:.0f}" height="{Ht:.0f}" fill="url(#grid)" clip-path="url(#rooms)"/>')
     o.append(f'<path d="{" ".join(path(p) for p in cave_polys)}" fill="{CAVE}" fill-rule="evenodd" stroke="{INK}" stroke-width="2" stroke-linejoin="round" filter="url(#paper)"/>')
     # crypt niches (drawn, not traced: too thin for the trace)
     for (c, t, bt, side) in NICHES:
@@ -239,7 +240,7 @@ def build(mode):
     o.append('</svg>')
     return '\n'.join(o)
 
-for mode in ('gm', 'player', 'print'):
-    name = {'gm': 'GM', 'player': 'Player', 'print': 'Print'}[mode]
+for mode in ('gm', 'player', 'player_nogrid', 'print'):
+    name = {'gm': 'GM', 'player': 'Player', 'player_nogrid': 'Player (No Grid)', 'print': 'Print'}[mode]
     open(f'{OUT}/T1 Map 8 - Moathouse Dungeon - {name}.svg', 'w').write(build(mode))
 print(len(room_polys), 'room polys;', len(cave_polys), 'cave polys')

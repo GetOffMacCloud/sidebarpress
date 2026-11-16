@@ -115,7 +115,7 @@ def build(mode):
          '<defs><filter id="paper" x="0" y="0" width="1" height="1"><feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="4" seed="11" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0.36  0 0 0 0 0.26  0 0 0 0 0.12  0 0 0 0.22 0" result="t"/><feComposite in="t" in2="SourceGraphic" operator="in" result="tt"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="tt"/></feMerge></filter></defs>',
          f'<rect x="0" y="{-top}" width="{Wd:.0f}" height="{Ht + top + bot:.0f}" fill="{PAPER}" filter="url(#paper)"/>',
          f'<rect x="0" y="0" width="{Wd:.0f}" height="{Ht:.0f}" fill="{FLOOR}" filter="url(#paper)"/>',
-         f'<path d="{grid_lines()}" stroke="{GRID}" stroke-width="1.4" opacity="0.75" fill="none"/>',
+         (f'<path d="{grid_lines()}" stroke="{GRID}" stroke-width="1.4" opacity="0.75" fill="none"/>' if mode != 'player_nogrid' else ''),
          f'<g transform="scale({S:.5f})"><path d="{INK_PATH}" fill="{INK}" fill-rule="evenodd"/></g>']
     for (a, b, c, d, orient) in cfg.get('STAIRS', []):
         X0, Y0, X1, Y1 = a * S, b * S, c * S, d * S
@@ -127,6 +127,31 @@ def build(mode):
                 yv = Y0 + t * (Y1 - Y0); o.append(f'<line x1="{X0:.1f}" y1="{yv:.1f}" x2="{X1:.1f}" y2="{yv:.1f}" stroke="{INK}" stroke-width="2"/>')
             else:
                 xv = X0 + t * (X1 - X0); o.append(f'<line x1="{xv:.1f}" y1="{Y0:.1f}" x2="{xv:.1f}" y2="{Y1:.1f}" stroke="{INK}" stroke-width="2"/>')
+    # explicit thin walls (box px polylines), doors, angled stairs: features too fine for the trace
+    LW = cfg.get('LINE_W', 3.2) * S
+    for pts in cfg.get('LINES', []):
+        d = 'M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in pts)
+        o.append(f'<path d="{d}" fill="none" stroke="{INK}" stroke-width="{LW:.1f}" stroke-linecap="square"/>')
+    for (x, y, orient, kind) in cfg.get('DOORS', []):
+        X, Y = x * S, y * S
+        if kind == 'rect':
+            w, h = (5.5 * S, 15 * S) if orient == 'v' else (15 * S, 5.5 * S)
+            o.append(f'<rect x="{X - w / 2:.1f}" y="{Y - h / 2:.1f}" width="{w:.1f}" height="{h:.1f}" rx="{1.5 * S:.1f}" fill="{FLOOR}" stroke="{INK}" stroke-width="{2.2 * S:.1f}"/>')
+        else:   # tick pair across the wall line
+            for off in (-2.2, 2.2):
+                if orient == 'v':
+                    o.append(f'<line x1="{X - 4 * S:.1f}" y1="{Y + off * S:.1f}" x2="{X + 4 * S:.1f}" y2="{Y + off * S:.1f}" stroke="{INK}" stroke-width="{1.8 * S:.1f}"/>')
+                else:
+                    o.append(f'<line x1="{X + off * S:.1f}" y1="{Y - 4 * S:.1f}" x2="{X + off * S:.1f}" y2="{Y + 4 * S:.1f}" stroke="{INK}" stroke-width="{1.8 * S:.1f}"/>')
+    for (A, R, T, B, n) in cfg.get('POLYSTAIRS', []):
+        # parallelogram A-R-T-B; treads run parallel to A->R, stepped across A->B
+        pts = [A, R, T, B]
+        d = 'M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in pts) + 'Z'
+        o.append(f'<path d="{d}" fill="{FLOOR}" stroke="{INK}" stroke-width="{2.6 * S:.1f}" stroke-linejoin="round"/>')
+        for i in range(1, n):
+            t = i / n
+            p0 = (A[0] + t * (B[0] - A[0]), A[1] + t * (B[1] - A[1])); p1 = (R[0] + t * (T[0] - R[0]), R[1] + t * (T[1] - R[1]))
+            o.append(f'<line x1="{p0[0] * S:.1f}" y1="{p0[1] * S:.1f}" x2="{p1[0] * S:.1f}" y2="{p1[1] * S:.1f}" stroke="{INK}" stroke-width="{1.4 * S:.1f}"/>')
     if gm and GM_PATH:
         o.append(f'<g transform="scale({S:.5f})"><path d="{GM_PATH}" fill="{INK}" fill-rule="evenodd"/></g>')
     if gm:
@@ -152,6 +177,6 @@ def build(mode):
     return '\n'.join(o)
 
 base = cfg['FILE']
-for mode, name in (('gm', 'GM'), ('player', 'Player'), ('print', 'Print')):
+for mode, name in (('gm', 'GM'), ('player', 'Player'), ('player_nogrid', 'Player (No Grid)'), ('print', 'Print')):
     open(f'{OUT}/{base} - {name}.svg', 'w').write(build(mode))
 print('ok', W, H, len(INK_PATH))
