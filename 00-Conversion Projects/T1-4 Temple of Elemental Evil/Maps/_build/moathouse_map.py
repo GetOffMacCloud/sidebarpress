@@ -135,9 +135,9 @@ def build(mode):
     pad_bot = 110 if pr else 0
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 {-pad_top} {Wd:.0f} {Ht+pad_top+pad_bot:.0f}" '
          f'width="{Wd:.0f}" height="{Ht+pad_top+pad_bot:.0f}" font-family="Georgia, \'Times New Roman\', serif">',
-         f'<title>T1 Map 8 — Moathouse Dungeon ({mode.upper()}) · 1 square = 10 ft</title>',
+         f'<title>T1 Map 8 — Moathouse Dungeon ({mode.upper()}) · 1 square = 5 ft</title>',
          '<defs>',
-         f'<pattern id="grid" width="{S}" height="{S}" patternUnits="userSpaceOnUse"><path d="M{S} 0H0V{S}" fill="none" stroke="{GRID}" stroke-width="1.6"/></pattern>',
+         f'<pattern id="grid" width="{S / 2}" height="{S / 2}" patternUnits="userSpaceOnUse"><path d="M{S / 2} 0H0V{S / 2}" fill="none" stroke="{GRID}" stroke-width="1.2"/></pattern>',
          f'<clipPath id="rooms"><path d="{" ".join(path(p) for p in room_polys)}" clip-rule="evenodd"/></clipPath>',
          '<filter id="paper" x="0" y="0" width="1" height="1"><feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="4" seed="11" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0.36  0 0 0 0 0.26  0 0 0 0 0.12  0 0 0 0.22 0" result="t"/><feComposite in="t" in2="SourceGraphic" operator="in" result="tt"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="tt"/></feMerge></filter>',
          '</defs>',
@@ -236,7 +236,7 @@ def build(mode):
         for i in range(5):
             o.append(f'<rect x="{sx+i*S}" y="{sy}" width="{S}" height="10" fill="{FLOOR if i%2==0 else ROCK}" stroke="{INK}" stroke-width="1.5"/>')
         o.append(f'<text x="{sx}" y="{sy-8}" font-size="16" fill="{INK}">0</text><text x="{sx+5*S-20}" y="{sy-8}" font-size="16" fill="{INK}">50 ft</text>')
-        o.append(f'<text x="{sx+5*S+14}" y="{sy+10}" font-size="16" fill="{INK}">1 square = 10 feet</text>')
+        o.append(f'<text x="{sx+5*S+14}" y="{sy+10}" font-size="16" fill="{INK}">1 square = 5 feet</text>')
     o.append('</svg>')
     return '\n'.join(o)
 

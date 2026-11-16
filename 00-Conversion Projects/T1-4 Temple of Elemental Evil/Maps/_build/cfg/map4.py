@@ -17,3 +17,4 @@ LABEL_MASKS = [(x - BOX[0] - 6 * len(k) - 3, y - BOX[1] - 13, x - BOX[0] + 6 * l
 GM_ONLY_MASKS = []
 ERASE = [(167, 22, 173, 40), (211, 22, 217, 40), (255, 22, 261, 40)]   # grid stubs under the barnyard fence
 GLYPH_MASKS = False
+GRID_DIV = 2          # 5-ft squares (interior)

@@ -52,3 +52,4 @@ DOORS += [(254, 182, 'v', 'rect'), (266, 172, 'h', 'rect'), (266, 198, 'h', 'rec
 ERASE = [(328, 512, 340, 542)]
 FILLS = [(502, 106, 517, 138)]   # east wall of area 7 behind the secret door
 DRAW_GM_INK = False   # the S is re-set by SECRETS; the traced glyph is only masked out
+GRID_DIV = 2          # 5-ft squares (interior)
