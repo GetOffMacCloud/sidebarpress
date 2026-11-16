@@ -42,6 +42,10 @@ for i in cand:
     (cx, cy), (rw, rh), ang = cv2.minAreaRect(pts)
     if rw < rh: rw, rh = rh, rw; ang += 90
     ang = ((ang + 90) % 180) - 90
+    if C.get('DOOR_RECT_ONLY'):
+        fill_ = len(pts) / max((c - a) * (d - b), 1)
+        if fill_ < C.get('DOOR_FILL', 0.72): continue
+        if min(abs(ang), abs(abs(ang) - 90)) > 6: continue
     if abs(ang) < 8: ang = 0.0
     elif abs(abs(ang) - 90) < 8: ang = 90.0
     o = ('h' if ang == 0 else 'v') if ang in (0.0, 90.0) else round(float(ang), 1)

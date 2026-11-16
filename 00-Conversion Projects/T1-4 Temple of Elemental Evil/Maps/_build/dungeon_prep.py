@@ -421,6 +421,9 @@ if 'LABELS' in C:
     _nr, _lr, _sr, _ = cv2.connectedComponentsWithStats(rock, 8)
     for (a, b, c, d) in C.get('ERASE', []):
         erase[b:d, a:c] |= ((final[b:d, a:c] == 0) & (rock[b:d, a:c] == 0)).astype(np.uint8)
+        _g = C.get('ERASE_GRID_PAD', 8)
+        A_, B_, C_, D_ = max(a - _g, 0), max(b - _g, 0), min(c + _g, W), min(d + _g, H)
+        erase[B_:D_, A_:C_] |= (grid_raw[B_:D_, A_:C_] & (1 - rock[B_:D_, A_:C_])).astype(np.uint8)
         for i in np.unique(_lr[b:d, a:c]):
             if i and _sr[i, 4] < C.get('ERASE_ROCK_MAX', 400): erase[b:d, a:c] |= (_lr[b:d, a:c] == i).astype(np.uint8)
     # repair straight wall lines that pass through an erased S / label box (seen on both sides)
@@ -450,9 +453,10 @@ if 'LABELS' in C:
                     th = max(1, int(round(pre[max(Y - 3, 0):Y + 4, c + 3].sum()))) if c + 3 < W else 2
                     rep[max(Y - th // 2, 0):Y - th // 2 + th, a - 1:c + 2] = 1
     treads = []; stair_clear = []
-    for sb in C.get('STAIRS_H', []):
+    def _stairs(Iv, sb):
+        out_ = []
         a, b, c, d = sb[:4]; sw_ = sb[4] if len(sb) > 4 else 2.0
-        sub = (I[b:d, a:c] < C.get('TREAD_T', 60)).astype(np.uint8)
+        sub = (Iv[b:d, a:c] < C.get('TREAD_T', 60)).astype(np.uint8)
         prof = sub.mean(1)
         rows = [r for r in range(1, len(prof) - 1) if prof[r] >= prof[r - 1] and prof[r] >= prof[r + 1] and prof[r] > 0.25]
         # merge rows closer than 3 px
@@ -464,7 +468,7 @@ if 'LABELS' in C:
         for g in mr:
             r = int(round(np.mean(g))); cols = np.nonzero(sub[max(r - 1, 0):r + 2].max(0))[0]
             if len(cols) < 4: continue
-            runs = np.split(cols, np.nonzero(np.diff(cols) > 2)[0] + 1)
+            runs = np.split(cols, np.nonzero(np.diff(cols) > C.get("TREAD_GAP", 5))[0] + 1)
             mid = (c - a) / 2
             runs = [q for q in runs if q[0] <= mid + 3 and q[-1] >= mid - 3] or [max(runs, key=len)]
             cols = runs[0]
@@ -485,9 +489,20 @@ if 'LABELS' in C:
             n_ = int(round((y1_ - y0_) / dy)) + 1; dy = (y1_ - y0_) / max(n_ - 1, 1)
             for k_ in range(n_):
                 yy = y0_ + k_ * dy
-                treads.append([round(yy, 1), round(float(np.interp(yy, _ys, _xa)), 1), round(float(np.interp(yy, _ys, _xb)), 1), sw_])
+                out_.append([round(yy, 1), round(float(np.interp(yy, _ys, _xa)), 1), round(float(np.interp(yy, _ys, _xb)), 1), sw_])
         else:
-            treads += [[sg[0], sg[1], sg[2], sw_] for sg in segs]
+            out_ += [[sg[0], sg[1], sg[2], sw_] for sg in segs]
+
+        return out_
+    for sb in C.get('STAIRS_H', []):
+        a, b, c, d = sb[:4]
+        treads += _stairs(I, sb)
+        erase[b + 2:d - 2, a + 2:c - 2] = 1; stair_clear.append((a + 2, b + 2, c - 2, d - 2))
+    treads_v = []
+    for sb in C.get('STAIRS_V', []):
+        a, b, c, d = sb[:4]
+        for (y_, xa_, xb_, sw_) in _stairs(I.T, (b, a, d, c) + tuple(sb[4:])):
+            treads_v.append([y_, xa_, xb_, sw_])
         erase[b + 2:d - 2, a + 2:c - 2] = 1; stair_clear.append((a + 2, b + 2, c - 2, d - 2))
     final[erase == 1] = 255
     final[rep == 1] = 0
@@ -513,6 +528,6 @@ if 'LABELS' in C:
     for (cx, cy, r) in C.get('FLOOR_CIRCLES', []):
         cv2.circle(final, (int(cx), int(cy)), int(r), 255, -1)
     cv2.imwrite(out + '_final.png', final)
-    json.dump({'box': [int(x0), int(y0), int(x1), int(y1)], 'lattice': [PX, OX, PY, OY], 'labels': labels_out, 'secrets': secrets_out, 'doors': doors_out, 'treads': treads},
+    json.dump({'box': [int(x0), int(y0), int(x1), int(y1)], 'lattice': [PX, OX, PY, OY], 'labels': labels_out, 'secrets': secrets_out, 'doors': doors_out, 'treads': treads, 'treads_v': treads_v},
               open(out + '_labels.json', 'w'), indent=0)
     print('missed:', miss)

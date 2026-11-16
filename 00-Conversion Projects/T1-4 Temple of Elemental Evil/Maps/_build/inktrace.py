@@ -610,6 +610,20 @@ def build(mode):
         o.append(f'<path d="{d_}" fill="none" stroke="{INK}" stroke-width="{sw * S:.1f}" stroke-linecap="round" stroke-linejoin="round"/>')
     for (y_, xa_, xb_, sw_) in cfg.get('TREADS', []):
         o.append(f'<line x1="{xa_ * S:.1f}" y1="{y_ * S:.1f}" x2="{xb_ * S:.1f}" y2="{y_ * S:.1f}" stroke="{INK}" stroke-width="{sw_ * S:.1f}" stroke-linecap="butt"/>')
+    for (a_, b_, c_, d_, sw) in cfg.get('RECTS', []):    # outline rectangles (box px)
+        o.append(f'<rect x="{a_ * S:.1f}" y="{b_ * S:.1f}" width="{(c_ - a_) * S:.1f}" height="{(d_ - b_) * S:.1f}" fill="none" stroke="{INK}" stroke-width="{sw * S:.1f}"/>')
+    for (cx, cy, rx, ry, a0, a1, sw) in cfg.get('ARCS', []):   # elliptical arc, degrees (0 = +x, 90 = +y)
+        n_ = 48; pts = [(cx + rx * np.cos(np.radians(a0 + (a1 - a0) * i / n_)), cy + ry * np.sin(np.radians(a0 + (a1 - a0) * i / n_))) for i in range(n_ + 1)]
+        o.append('<path d="M' + ' L'.join(f'{px * S:.1f} {py * S:.1f}' for px, py in pts) + f'" fill="none" stroke="{INK}" stroke-width="{sw * S:.1f}" stroke-linecap="round"/>')
+    for (y0_, y1_, x_, amp, per, sw) in cfg.get('WAVES_V', []):
+        n_ = max(8, int((y1_ - y0_) * 3)); pts = []
+        for i in range(n_ + 1):
+            yy = y0_ + (y1_ - y0_) * i / n_; pts.append((x_ + amp * np.sin(2 * np.pi * (yy - y0_) / per), yy))
+        o.append('<path d="M' + ' L'.join(f'{px * S:.1f} {py * S:.1f}' for px, py in pts) + f'" fill="none" stroke="{INK}" stroke-width="{sw * S:.1f}" stroke-linecap="round" stroke-linejoin="round"/>')
+    for (x_, ya_, yb_, sw_) in cfg.get('TREADS_V', []):
+        o.append(f'<line x1="{x_ * S:.1f}" y1="{ya_ * S:.1f}" x2="{x_ * S:.1f}" y2="{yb_ * S:.1f}" stroke="{INK}" stroke-width="{sw_ * S:.1f}" stroke-linecap="butt"/>')
+    for (pts_, sw) in cfg.get('POLYS', []):       # closed outlined polygons, floor-filled (later ones on top)
+        o.append('<path d="M' + ' L'.join(f'{px * S:.1f} {py * S:.1f}' for px, py in pts_) + f'Z" fill="{FLOOR}" stroke="{INK}" stroke-width="{sw * S:.1f}" stroke-linejoin="miter"/>')
     for (x, y) in cfg.get('DOTS', []):
         o.append(f'<circle cx="{x * S:.1f}" cy="{y * S:.1f}" r="{cfg.get("DOT_R", 4.2) * S:.1f}" fill="{INK}"/>')
     for (x, y, r) in cfg.get('STARS', []):
