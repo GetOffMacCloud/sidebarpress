@@ -43,6 +43,7 @@ Ossian lies superbly (Deception +12). Insight reads nothing but grief unless the
 | When he raises a toast, his fingers fold backward around the cup. | Perception DC 15, or just describe it |
 | In the burial register, every burial since spring is marked "taken below for rest." Nobody has been interred below since the founding. | Investigation DC 13 or Religion DC 12 |
 | The chapel cat won't enter the vestry, and the yard dog won't stop shaking. | Animal Handling DC 10 |
+| A round black hole in the apse floor beside the trapdoor. Ossian calls it "the bone drop, for the old remains." | Anyone who looks. Investigation DC 15: the rim is slick with slime, and the shaft below is clean, with no bones in it. |
 | Ossian casts *detect thoughts* on a PC. | Wisdom save DC 16. On a success, the PC feels an oily pressure behind the eyes, coming from Ossian's direction. |
 
 ## Fight: The Graveyard Rising (Medium)
