@@ -494,6 +494,11 @@ def grid_lines():
         y = (y0g + k * py) * S; o.append(f'M0 {y:.1f}H{W * S:.1f}'); k += 1
     return ' '.join(o)
 
+def _gclip():
+    g = cfg.get('GRID_CLIP')
+    return f'<clipPath id="gclip"><circle cx="{g[0] * S:.1f}" cy="{g[1] * S:.1f}" r="{g[2] * S:.1f}"/></clipPath>' if g else ''
+def _gcl(): return ' clip-path="url(#gclip)"' if cfg.get('GRID_CLIP') else ''
+
 def build(mode):
     gm, pr = mode in ('gm', 'print'), mode == 'print'
     Wd, Ht = W * S, H * S
@@ -504,7 +509,7 @@ def build(mode):
          f'<rect x="0" y="{-top}" width="{Wd:.0f}" height="{Ht + top + bot:.0f}" fill="{PAPER}" filter="url(#paper)"/>',
          f'<rect x="0" y="0" width="{Wd:.0f}" height="{Ht:.0f}" fill="{FLOOR}" filter="url(#paper)"/>',
          (f'<g transform="scale({S:.5f})"><path d="{TINT_PATH}" fill="{cfg.get("TINT_COLOR", "#cdb98d")}" fill-rule="evenodd"/></g>' if TINT_PATH else ''),
-         (f'<path d="{grid_lines()}" stroke="{GRID}" stroke-width="{1.4 if cfg.get('GRID_DIV', 1) == 1 else 1.1}" opacity="0.75" fill="none"/>' if (mode != 'player_nogrid' and cfg.get('DRAW_GRID', True)) else ''),
+         (f'{_gclip()}<path d="{grid_lines()}" stroke="{GRID}" stroke-width="{1.4 if cfg.get('GRID_DIV', 1) == 1 else 1.1}" opacity="0.75" fill="none"{_gcl()}/>' if (mode != 'player_nogrid' and cfg.get('DRAW_GRID', True)) else ''),
          f'<g transform="scale({S:.5f})"><path d="{(INK_PATH_NG if (mode == "player_nogrid" and INK_PATH_NG) else INK_PATH)}" fill="{INK}" fill-rule="evenodd"/></g>']
     for (a, b, c, d, orient) in cfg.get('STAIRS', []):
         X0, Y0, X1, Y1 = a * S, b * S, c * S, d * S
@@ -518,6 +523,11 @@ def build(mode):
                 xv = X0 + t * (X1 - X0); o.append(f'<line x1="{xv:.1f}" y1="{Y0:.1f}" x2="{xv:.1f}" y2="{Y1:.1f}" stroke="{INK}" stroke-width="2"/>')
     for _pp in cfg.get('FILLPOLYS', []):          # solid wall patches as polygons (box px), all versions
         o.append(f'<path d="M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in _pp) + f'Z" fill="{INK}"/>')
+    if not gm:
+        for _pp in cfg.get('PLAYER_FLOORPOLYS', []):  # parchment patches on player versions (hide GM-only marks)
+            o.append(f'<path d="M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in _pp) + f'Z" fill="{FLOOR}" filter="url(#paper)"/>')
+        for _pp in cfg.get('PLAYER_FILLPOLYS', []):   # solid patches on player versions only (hide GM-only openings)
+            o.append(f'<path d="M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in _pp) + f'Z" fill="{INK}"/>')
     for (a, b, c, d) in cfg.get('FILLS', []):     # solid wall patches (box px), all versions
         o.append(f'<rect x="{a * S:.1f}" y="{b * S:.1f}" width="{(c - a) * S:.1f}" height="{(d - b) * S:.1f}" fill="{INK}"/>')
     # parapets: outlined band with solid merlons every PX/3 along its length
@@ -570,7 +580,8 @@ def build(mode):
     for t in cfg.get('TEXTS', []):
         txt, x, y, size = t[:4]; txt = txt.replace('&', '&amp;'); anchor = t[4] if len(t) > 4 else 'middle'; style = t[5] if len(t) > 5 else 'bold'
         fw = 'bold' if 'bold' in style else 'normal'; fs = 'italic' if 'italic' in style else 'normal'
-        o.append(f'<text x="{x * S:.1f}" y="{y * S:.1f}" font-size="{size * S:.1f}" font-weight="{fw}" font-style="{fs}" text-anchor="{anchor}" letter-spacing="{0.06 * size * S:.1f}" fill="{INK}" stroke="{FLOOR}" stroke-width="{0.28 * size * S:.1f}" stroke-linejoin="round" paint-order="stroke">{txt}</text>')
+        _rt = f' transform="rotate({t[6]} {x * S:.1f} {y * S:.1f})"' if len(t) > 6 else ''
+        o.append(f'<text x="{x * S:.1f}" y="{y * S:.1f}" font-size="{size * S:.1f}" font-weight="{fw}" font-style="{fs}" text-anchor="{anchor}" letter-spacing="{0.06 * size * S:.1f}" fill="{INK}" stroke="{FLOOR}" stroke-width="{0.28 * size * S:.1f}" stroke-linejoin="round" paint-order="stroke"{_rt}>{txt}</text>')
     for (xa, ya, xb, yb) in cfg.get('ARROWS', []):     # box px; head at (xb, yb)
         dx, dy = xb - xa, yb - ya; L = (dx * dx + dy * dy) ** 0.5; ux, uy = dx / L, dy / L; hl, hw = 9, 3.6
         o.append(f'<line x1="{xa * S:.1f}" y1="{ya * S:.1f}" x2="{(xb - ux * hl) * S:.1f}" y2="{(yb - uy * hl) * S:.1f}" stroke="{INK}" stroke-width="{1.7 * S:.1f}"/>')
