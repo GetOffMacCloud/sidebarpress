@@ -312,7 +312,7 @@ The roster (captain, lieutenant, 16 men-at-arms a–p, 5 tower guards) carries o
 
 ### 7.1 Treasure policy (⚑ D1, open)
 
-As printed, T1 is rich by 5e standards. Hommlet's townsfolk hold about 125,000 gp between them, though good PCs aren't meant to loot them. The Moathouse dungeon holds about **30,000 gp**, half of it Lareth's fire-opal necklace (15,000 gp).
+As printed, T1 is rich by 5e standards. Hommlet's townsfolk hold well over 100,000 gp between them, though good PCs aren't meant to loot them. The Moathouse dungeon holds about **30,000 gp**, half of it Lareth's fire-opal necklace (15,000 gp).
 
 **What WotC's *D&D Conversions 1.0* (2015) says:**
 - 5e treasure is scarcer than in earlier editions, and magic items matter less to how characters perform.
@@ -323,7 +323,63 @@ As printed, T1 is rich by 5e standards. Hommlet's townsfolk hold about 125,000 g
 
 **What the careful method means for T1.** T1 runs from level 1 to 4, so the whole adventure should hold about **8–12 CR 0–4 hoards**. The DMG's expected value is about 2,000–4,000 gp in coin, gems and art in total, plus the magic items the hoard tables would roll. The table rolls are used to set the size of the treasure, not to replace it. Every treasure keeps its description (the peridot, the platinum-and-ruby pin, the silver service) and is given a 5e value.
 
-Decisions pending with Greybeard: (a) the method, (b) whether the Hommlet townsfolk's holdings follow it, (c) Lareth's necklace and the assassin clause, (d) XP or milestones. The WotC guide recommends milestone advancement for conversions.
+**Decided (Greybeard, 2026-11-16):**
+- (b) The Hommlet townsfolk's holdings **scale with the same method**.
+- (c) Lareth's fire-opal necklace **scales with everything else**. The assassin clause still applies to anyone who sells Lareth's things.
+- (d) **Milestones are the default, with XP still listed** (§8).
+
+**Still open:** (a) ÷10 or the DMG hoard budget. Both methods are compared below.
+
+- **÷10:** coins and goods stay as printed, and every gem, art object and piece of jewelry is divided by 10. This keeps the 1e shape: half the money is Lareth's, small finds become pocket change (3–10 gp), and the guards' platinum pay stays.
+- **DMG hoard budget:** the whole Moathouse is built as about 10 CR 0–4 hoards (DMG average ≈ 376 gp each).
+  - Every valuable is re-rated onto the DMG gem and art tiers (10 / 25 / 50 / 100 / 250 / 750), with its description kept.
+  - Hoard coins stay as printed.
+  - Rank-and-file pockets use DMG Individual Treasure (CR 0–4, about 5 gp each).
+  - Small finds can't drop below the 25-gp art tier, so the upper ruins pay a bit better, and Lareth's share falls to about a third.
+- **Hommlet stashes** come out much the same either way. Melubb's chest, for example, is about 5,700 gp at ÷10, or about 4,000–5,000 gp as one CR 5–10 hoard (coin average 3,857 gp plus gems and art).
+
+**Item-by-item comparison** (gp; coins and goods are unchanged under ÷10):
+
+| Area | Treasure | As printed | ÷10 | DMG budget |
+|---|---|---|---|---|
+| 1 Pool | amethyst in the frog | 100 | 10 | 100 |
+| 4 Tower | 71 cp, 38 sp | 4 | 4 | 4 |
+| 4 Tower | ivory box | 50 | 5 | 25 |
+| 7 Brigands | pockets: 8 brigands, aide (sp, ep, gp) | 22 | 22 | 45 |
+| 7 Brigands | leader: 5–20 pp | 125 | 125 | 25 |
+| 7 Brigands | leader: 1–2 citrines | 75 | 8 | 50 |
+| 7 Brigands | leader: gold chain | 200 | 20 | 25 |
+| 7 Brigands | buried chest: 2,000 cp | 20 | 20 | 20 |
+| 7 Brigands | 2 bolts fine cloth | 120 | 12 | 50 |
+| 7 Brigands | crystal flagon & 4 goblets | 80 | 8 | 25 |
+| 7 Brigands | inlaid ivory-handled box | 45 | 4 | 25 |
+| 12 Adder | jeweled dagger | 850 | 85 | 250 |
+| 13 Rats | gold ring on the 5th stair | 40 | 4 | 25 |
+| 15 Steward | silver baton | 30 | 3 | 25 |
+| 17 Lizard | 33 cp | 0 | 0 | 0 |
+| 19 Storeroom | 2 kegs of brandy | 160 | 160 | 50 |
+| 21 Zombies | peridot behind the stone | 500 | 50 | 50 |
+| 24 Lubash | 823 cp, 46 sp, 3 gp | 16 | 16 | 16 |
+| 27 Bugbears | 6 × 12 gp | 72 | 72 | 30 |
+| 27 Bugbears | silver necklace + 5 chrysoprase | 750 | 75 | 250 |
+| 29 Gnolls | 9 × (3d6 sp + 3d6 cp); leader 11 gp | 21 | 21 | 45 |
+| 29 Gnolls | blue quartz | 10 | 1 | 10 |
+| 30 Pool | 17 cp, 30 sp, 19 gp | 22 | 22 | 22 |
+| 30 Pool | platinum pin with ruby | 2,000 | 200 | 250 |
+| 31 Ghouls | 800 sp + gold trail | 88 | 88 | 88 |
+| 33 Guard room | 6 guards + sgt (sp, gp, pp) | 232 | 232 | 35 |
+| 33 Guard room | sergeant gold neckchain | 50 | 5 | 25 |
+| 34 Barracks | 12 guards + 2 sgts (sp, gp, pp) | 465 | 465 | 70 |
+| 34 Barracks | 2 sergeants gold neckchains | 100 | 10 | 50 |
+| 34 Barracks | lieutenant: 29 gems | 2,900 | 290 | 290 |
+| 34 Barracks | lieutenant: platinum chain + topaz | 1,500 | 150 | 250 |
+| 35 Lareth | 9 pp | 90 | 90 | 90 |
+| 35 Lareth | black opal | 1,000 | 100 | 100 |
+| 35 Lareth | silver serving pieces & goblets | 4,000 | 400 | 250 |
+| 35 Lareth | alabaster box of unguents | 800 | 80 | 25 |
+| 35 Lareth | fire-opal necklace | 15,000 | 1,500 | 750 |
+| | **Total** | **31,538** | **4,358** | **3,441** |
+
 
 ### 7.2 Magic items (⚑ D2)
 
@@ -386,7 +442,7 @@ The 1e XP figures in the statlines are dropped, since 5e awards XP by CR. The mo
 | Bribe the gnolls (area 29) | — | Award the gnolls' full XP (CR ½ ×9 = 900) if they desert. A bloodless win counts |
 | Lareth ransomed instead of slain | — | Award his XP. The assassin clause still applies if his things are sold |
 
-On milestone play, use the milestones in §0.
+**Advancement (D1-d): milestones are the default** (§0). CR XP and these story awards stay in the text for tables that use XP.
 
 ---
 
@@ -394,7 +450,7 @@ On milestone play, use the milestones in §0.
 
 | # | Question | Status |
 |---|---|---|
-| **D1** | Treasure: keep the printed values or rebuild them to 5e? | **Open.** Greybeard pointed to WotC's *D&D Conversions 1.0* (2015). The guide's careful method rebuilds treasure from the DMG Individual Treasure and Hoard tables, as if the adventure were new. Its budget is 2–3 hoards per level, and its quick method is to hand out only what you're happy with. It gives no gold conversion ratio. Questions are out to Greybeard (see §7.1) |
+| **D1** | Treasure: keep the printed values or rebuild them to 5e? | **Partly decided:** the town hoards scale, the necklace scales, and advancement is by milestone. **The method (÷10 or DMG budget) is open.** Greybeard pointed to WotC's *D&D Conversions 1.0* (2015). The guide's careful method rebuilds treasure from the DMG Individual Treasure and Hoard tables, as if the adventure were new. Its budget is 2–3 hoards per level, and its quick method is to hand out only what you're happy with. It gives no gold conversion ratio. Questions are out to Greybeard (see §7.1) |
 | **D2** | Magic items | **Decided: rebuilt for 5e.** Every item is swapped for its DMG equivalent. Where none exists, a custom item is built from the original, using DMG items as the guide. Per the WotC guide, high 1e bonuses don't need to be kept: a +1 does the job in 5e. The caps and swaps in §7.2 stand. **Every item gets its own vault note** (`90-Templates/Item.md`) ending in `## FGU Import`: paste-ready text for the 5E Custom Item Importer (List Import, the C12 label set, `Version: Legacy`). That section is stripped from the print build. The FGU .mod build uses the same data, so the module's items and the notes always match |
 | **D3** | Rat swarms | **Decided: yes, with the difficulty verified** (§4.1 area 13) |
 | **D4** | Party scaling | **Decided: a scaling box in both directions** (§6.1) |
