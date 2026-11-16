@@ -51,7 +51,8 @@ Long axis north–south. Playable floor 40 × 60 ft. (8 × 12 squares) inside wa
 
 **Lighting:** none of its own. One guttering votive on the altar. Leave the floor readable: the black water should read as glossy dark stone with ripples, not as a void.
 
-## Midjourney base prompt (VTT, color, screen only)
+## Midjourney base prompt (VTT, color, screen only) — not needed, the CharGen render is done
+**Don't render.** `map-saints-ossuary.png` already exists (CharGen); kept for reference only.
 VTT battlemaps stay in their own style (Art Style Guide, out of scope for ink).
 
 `top-down battlemap of an underground stone ossuary vault, rectangular hall with walls of stacked skulls and bones on floor-to-ceiling shelves, two rows of four open stone sarcophagi with their heavy lids standing on end, ankle-deep glossy black water covering the floor with faint ripples, a narrow drain channel with iron grates along the right wall, a raised stone altar with a single funerary urn and a guttering candle at the top, a round dark shaft in the ceiling seen as a black circle in the center, heavy iron double doors at the bottom edge, small dark crawl openings low in the bone walls, grim gothic catacomb, orthographic top-down view, flat even lighting, no perspective, no characters --ar 3:4 --v 8.1 --stylize 100 --no isometric, perspective, people, text, grid`
