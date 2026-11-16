@@ -14,7 +14,8 @@ tags: [pocket-module, series-hub, monthly]
 The monthly **Sidebar Press Pocket Module**: one session, setting-agnostic, 2014 5e. Code line **OP** (O for Open, P for Pocket Module), printed **OP1**, vault key **SP-OP01**. See `claude/module-codes.md` in the project.
 
 ## The format
-- **Post:** three pages plus a stat-block page, as a Claude doc.
+- **Post:** about three pages plus a stat-block page, as a Claude doc. A guide, not a hard limit.
+- **Contents:** the adventure; maps; one custom monster; one custom item; one custom spell; a write-up of the main location and the main NPC.
 - **Play:** one 4-hour session, APL set per module, 4–6 characters, scaling for 4 / 5 / 6 PCs.
 - **Fights:** standard fights that push the party to its limits, plus one avoidable problem the party has to manage or the session gets much harder (OP1: Wandering Husks, which are Hard fights; the Larder heals the boss).
 - **Day budget:** set fights land at 75–85% of the DMG adventuring day; the avoidable problem pushes it to about 100% if the party ignores it.
