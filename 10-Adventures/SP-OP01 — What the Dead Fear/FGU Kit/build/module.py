@@ -20,7 +20,7 @@ def ikey(f):
     n=os.path.splitext(f)[0]
     return n[len(CODE)+1:] if n.startswith(CODE+' ') else n
 for f in glob.glob(os.path.join(ASSETS,'*'))+glob.glob(os.path.join(ASSETS,'*','*')):
-    if os.path.isfile(f) and os.path.splitext(f)[1].lower() in ('.png','.jpg','.jpeg','.webp'):
+    if '/_ref/' not in f and os.path.isfile(f) and os.path.splitext(f)[1].lower() in ('.png','.jpg','.jpeg','.webp'):
         dst=os.path.join(FLAT,ikey(os.path.basename(f))+os.path.splitext(f)[1].lower())
         if not os.path.exists(dst) or os.path.getmtime(f)>os.path.getmtime(dst): shutil.copyfile(f,dst)
 m=Mod(NAME,DISPLAY,'Sidebar Press','Sidebar Press',FG,WORK,text_map=TEXT_MAP)
