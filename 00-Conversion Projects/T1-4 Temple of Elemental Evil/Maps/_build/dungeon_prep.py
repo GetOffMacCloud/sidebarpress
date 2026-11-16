@@ -525,6 +525,25 @@ if 'LABELS' in C:
     final[kill[lab6]] = 255
     for (a, b, c, d) in C.get('WHITE', []): final[b:d, a:c] = np.where(rock[b:d, a:c] == 1, 0, 255)
     for (a, b, c, d) in C.get('FLOOR', []): final[b:d, a:c] = 255
+    # RAW_ZONES: rebuild thin linework from raw ink, removing only long straight runs on lattice lines
+    for zz in C.get('RAW_ZONES', []):
+        poly, T_ = zz[0], (zz[1] if len(zz) > 1 else 175)
+        zm = np.zeros((H, W), np.uint8); cv2.fillPoly(zm, [np.array(poly, np.int32)], 1)
+        raw = ((I < T_) & (rock == 0)).astype(np.uint8)
+        yy_z, xx_z = np.mgrid[0:H, 0:W]
+        onv = np.abs(((xx_z - OX) / PX - np.round((xx_z - OX) / PX)) * PX) <= C.get("RAW_BAND", 2.5)
+        onh = np.abs(((yy_z - OY) / PY - np.round((yy_z - OY) / PY)) * PY) <= C.get("RAW_BAND", 2.5)
+        side_h = (np.roll(raw, 3, 1) | np.roll(raw, -3, 1) | np.roll(raw, 4, 1) | np.roll(raw, -4, 1)).astype(bool)
+        side_v = (np.roll(raw, 3, 0) | np.roll(raw, -3, 0) | np.roll(raw, 4, 0) | np.roll(raw, -4, 0)).astype(bool)
+        g_ = (onv & ~side_h) | (onh & ~side_v)
+        ink_ = (raw.astype(bool) & ~g_).astype(np.uint8)
+        pass
+        n_, l_, s_, _ = cv2.connectedComponentsWithStats(ink_, 8)
+        ok_ = np.zeros(n_, bool); ok_[1:] = s_[1:, 4] >= C.get('RAW_SPECK', 3)
+        ink_ = ok_[l_].astype(np.uint8)
+        sel = (zm == 1) & (rock == 0)
+        final[sel] = np.where(ink_[sel] == 1, 0, 255)
+        final[(zm == 1) & (erase == 1)] = 255
     for (a, b, c, d) in C.get('BLACK', []): final[b:d, a:c] = 0
     for (cx, cy, r) in C.get('FLOOR_CIRCLES', []):
         cv2.circle(final, (int(cx), int(cy)), int(r), 255, -1)
