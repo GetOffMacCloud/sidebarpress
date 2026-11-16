@@ -74,6 +74,7 @@ def _gridband():
     return Gv, G
 _Gv, _Gh = _gridband()
 _thin = _raw & (1 - _thick)
+PERP = bool(cfg.get('PERP_TEST', False))   # only clear a grid pixel if no crossing stroke touches it
 AGG = bool(cfg.get('AGGRESSIVE', False))   # with THICK_GUARD: clear every thin pixel on a located grid line
 _raw_nv = _raw & (1 - (_thin & _Gv))     # for horizontal-line tests: ignore thin ink on vertical grid bands
 _raw_nh = _raw & (1 - (_thin & _Gh))     # for vertical-line tests: ignore thin ink on horizontal grid bands
@@ -99,7 +100,7 @@ def refine(ink):
                 for xx in range(max(bx - 1, 0), min(bx + 2, W)):
                     col = out[y_a:y_b, xx]
                     th = _thick[y_a:y_b, xx]
-                    col[(th == 0) & (((L == 0) & (Rr == 0)) | AGG)] = 0
+                    col[(th == 0) & ((((L == 0) & (Rr == 0)) | AGG) | (not PERP))] = 0
     for j in range(ny):
         y = OY + j * PY
         for k in range(-1, nx):
@@ -118,7 +119,7 @@ def refine(ink):
                 for yy in range(max(by - 1, 0), min(by + 2, H)):
                     row = out[yy, x_a:x_b]
                     th = _thick[yy, x_a:x_b]
-                    row[(th == 0) & (((U_ == 0) & (D_ == 0)) | AGG)] = 0
+                    row[(th == 0) & ((((U_ == 0) & (D_ == 0)) | AGG) | (not PERP))] = 0
     return out
 if GRIDDED and not FRAG: ink = refine(ink)
 if GRIDDED and FRAG and cfg.get('FRAG_REFINE'):
@@ -147,8 +148,57 @@ if GRIDDED and not FRAG and cfg.get('AUTO_PROTECT'):
     _ad = cfg.get('AUTO_PROTECT_DIL', 7)
     _p = cv2.dilate(_k[_l].astype(np.uint8), cv2.getStructuringElement(cv2.MORPH_RECT, (_ad, _ad)))
     ink = ink | (_ink0 & _p)
-for (a, b, c, d) in cfg.get('LABEL_MASKS', []):
-    ink[b:d, a:c] = 0
+if cfg.get('GLYPH_MASKS') == 'hybrid':
+    # hybrid: inside each label box keep only THICK ink (walls, solid fills) and repair thin lines (grid, outlines)
+    # that cross the box, by re-drawing any straight line seen on BOTH sides of the box
+    _thk = cv2.morphologyEx(ink, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (cfg.get('THICK_K', 4),) * 2))
+    _thk = (cv2.dilate(_thk, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))) & ink).astype(np.uint8)
+    _src = ink.copy()
+    for (a, b, c, d) in cfg.get('LABEL_MASKS', []):
+        a, b, c, d = max(a, 0), max(b, 0), min(c, W), min(d, H)
+        if c <= a or d <= b: continue
+        ink[b:d, a:c] = _thk[b:d, a:c]
+        bw, bh = c - a, d - b; m_ = max(bw, bh)
+        A, B, C, D = max(a - m_, 0), max(b - m_, 0), min(c + m_, W), min(d + m_, H)
+        win = _src[B:D, A:C].copy(); win[b - B:d - B, a - A:c - A] = 0
+        win = (win & (1 - _thk[B:D, A:C])).astype(np.uint8)
+        segs = cv2.HoughLinesP(win * 255, 1, np.pi / 360, 10, minLineLength=max(8, m_ // 2), maxLineGap=3)
+        if segs is None: continue
+        for x1_, y1_, x2_, y2_ in segs.reshape(-1, 4):
+            p1 = np.array([x1_ + A, y1_ + B], float); p2 = np.array([x2_ + A, y2_ + B], float)
+            dv = p2 - p1; L = np.hypot(*dv)
+            if L < 1: continue
+            dv /= L
+            # walk the infinite line across the window; collect where it is inside the box
+            ts = np.arange(-2 * m_ - L, 2 * m_ + L, 0.5)
+            pts = p1[None, :] + ts[:, None] * dv[None, :]
+            inb = (pts[:, 0] >= a) & (pts[:, 0] < c) & (pts[:, 1] >= b) & (pts[:, 1] < d)
+            if not inb.any(): continue
+            t_in0, t_in1 = ts[inb].min(), ts[inb].max()
+            def _hits(t0, t1):
+                q = p1[None, :] + np.arange(t0, t1, 1.0)[:, None] * dv[None, :]
+                q = np.round(q).astype(int); ok = (q[:, 0] >= 0) & (q[:, 0] < W) & (q[:, 1] >= 0) & (q[:, 1] < H)
+                q = q[ok]
+                return _src[q[:, 1], q[:, 0]].mean() if len(q) else 0
+            if _hits(t_in0 - 8, t_in0 - 1) > 0.6 and _hits(t_in1 + 1, t_in1 + 8) > 0.6:
+                q0 = p1 + (t_in0 - 1) * dv; q1 = p1 + (t_in1 + 1) * dv
+                _tmp = np.zeros_like(ink)
+                cv2.line(_tmp, (int(round(q0[0])), int(round(q0[1]))), (int(round(q1[0])), int(round(q1[1]))), 1, cfg.get('REPAIR_W', 2))
+                ink[b:d, a:c] |= _tmp[b:d, a:c]
+elif cfg.get('GLYPH_MASKS'):
+    # erase only ink components that lie wholly inside a label box (the printed glyphs); walls that pass
+    # through the box are kept intact
+    _nn, _ll, _ss, _ = cv2.connectedComponentsWithStats(ink, 8)
+    _kill = np.zeros(_nn, bool)
+    for (a, b, c, d) in cfg.get('LABEL_MASKS', []):
+        for _i in np.unique(_ll[max(b, 0):d, max(a, 0):c]):
+            if _i == 0: continue
+            x_, y_, w_, h_, _ = _ss[_i]
+            if x_ >= a - 1 and y_ >= b - 1 and x_ + w_ <= c + 1 and y_ + h_ <= d + 1: _kill[_i] = True
+    ink[_kill[_ll]] = 0
+else:
+    for (a, b, c, d) in cfg.get('LABEL_MASKS', []):
+        ink[b:d, a:c] = 0
 gm_ink = np.zeros_like(ink)
 for (a, b, c, d) in cfg.get('GM_ONLY_MASKS', []):
     gm_ink[b:d, a:c] = ink[b:d, a:c]; ink[b:d, a:c] = 0
@@ -402,6 +452,30 @@ def vectorize(m):
     return ' '.join(parts)
 
 INK_PATH = vectorize(ink)
+# no-grid variant for illustrated maps whose floor grid is drawn into the art (oblique views): remove long, thin,
+# straight lines found by a Hough transform; thick walls (3+ px) and furniture survive
+INK_PATH_NG = None
+if cfg.get('NOGRID_STRIP'):
+    _ns = cfg['NOGRID_STRIP']
+    _thk = cv2.morphologyEx(ink, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3)))
+    _thk = cv2.dilate(_thk, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))) & ink
+    _thin = (ink & (1 - _thk)).astype(np.uint8)
+    _lines = cv2.HoughLinesP(_thin * 255, 1, np.pi / 720, _ns.get('votes', 40), minLineLength=_ns.get('min_len', 50), maxLineGap=_ns.get('gap', 6))
+    _lm = np.zeros_like(ink)
+    _angs = _ns.get('angles')
+    for x1_, y1_, x2_, y2_ in (_lines.reshape(-1, 4) if _lines is not None else []):
+        _a = (np.degrees(np.arctan2(y2_ - y1_, x2_ - x1_)) + 180) % 180
+        if _angs and not any(min(abs(_a - a0), 180 - abs(_a - a0)) <= _ns.get('ang_tol', 3) for a0 in _angs): continue
+        cv2.line(_lm, (int(x1_), int(y1_)), (int(x2_), int(y2_)), 1, _ns.get('width', 3))
+    for (a_, b_, c_, d_) in _ns.get('keep', []): _lm[b_:d_, a_:c_] = 0
+    if _ns.get('dense_keep'):
+        # furniture and fixtures are dense clusters of strokes: never strip lines inside them
+        _dn = cv2.blur((ink & (1 - _lm)).astype(np.float32), (9, 9))
+        _fk = cv2.dilate((_dn > _ns['dense_keep']).astype(np.uint8), cv2.getStructuringElement(cv2.MORPH_RECT, (7, 7)))
+        _lm[_fk == 1] = 0
+    _ng = (ink & (1 - (_lm & _thin))).astype(np.uint8)
+    _ng = despeckle(_ng, _ns.get('speck', 6))
+    INK_PATH_NG = vectorize(_ng)
 TINT_PATH = vectorize(TINT) if TINT is not None else ''
 GM_PATH = vectorize(gm_ink) if gm_ink.any() else ''
 
@@ -429,7 +503,7 @@ def build(mode):
          f'<rect x="0" y="0" width="{Wd:.0f}" height="{Ht:.0f}" fill="{FLOOR}" filter="url(#paper)"/>',
          (f'<g transform="scale({S:.5f})"><path d="{TINT_PATH}" fill="{cfg.get("TINT_COLOR", "#cdb98d")}" fill-rule="evenodd"/></g>' if TINT_PATH else ''),
          (f'<path d="{grid_lines()}" stroke="{GRID}" stroke-width="1.4" opacity="0.75" fill="none"/>' if (mode != 'player_nogrid' and cfg.get('DRAW_GRID', True)) else ''),
-         f'<g transform="scale({S:.5f})"><path d="{INK_PATH}" fill="{INK}" fill-rule="evenodd"/></g>']
+         f'<g transform="scale({S:.5f})"><path d="{(INK_PATH_NG if (mode == "player_nogrid" and INK_PATH_NG) else INK_PATH)}" fill="{INK}" fill-rule="evenodd"/></g>']
     for (a, b, c, d, orient) in cfg.get('STAIRS', []):
         X0, Y0, X1, Y1 = a * S, b * S, c * S, d * S
         o.append(f'<rect x="{X0:.1f}" y="{Y0:.1f}" width="{X1-X0:.1f}" height="{Y1-Y0:.1f}" fill="{FLOOR}" stroke="{INK}" stroke-width="2.5"/>')
@@ -440,6 +514,8 @@ def build(mode):
                 yv = Y0 + t * (Y1 - Y0); o.append(f'<line x1="{X0:.1f}" y1="{yv:.1f}" x2="{X1:.1f}" y2="{yv:.1f}" stroke="{INK}" stroke-width="2"/>')
             else:
                 xv = X0 + t * (X1 - X0); o.append(f'<line x1="{xv:.1f}" y1="{Y0:.1f}" x2="{xv:.1f}" y2="{Y1:.1f}" stroke="{INK}" stroke-width="2"/>')
+    for _pp in cfg.get('FILLPOLYS', []):          # solid wall patches as polygons (box px), all versions
+        o.append(f'<path d="M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in _pp) + f'Z" fill="{INK}"/>')
     for (a, b, c, d) in cfg.get('FILLS', []):     # solid wall patches (box px), all versions
         o.append(f'<rect x="{a * S:.1f}" y="{b * S:.1f}" width="{(c - a) * S:.1f}" height="{(d - b) * S:.1f}" fill="{INK}"/>')
     # parapets: outlined band with solid merlons every PX/3 along its length
@@ -457,6 +533,9 @@ def build(mode):
                 o.append(f'<rect x="{X0 + 1.2 * S:.1f}" y="{y:.1f}" width="{X1 - X0 - 2.4 * S:.1f}" height="{m:.1f}" fill="{INK}"/>'); y += per
     # explicit thin walls (box px polylines), doors, angled stairs: features too fine for the trace
     LW = cfg.get('LINE_W', 3.2) * S
+    for pts in cfg.get('HAIRLINES', []):          # thin art lines (floor tiles) lost under a mask
+        d = 'M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in pts)
+        o.append(f'<path d="{d}" fill="none" stroke="{INK}" stroke-width="{cfg.get("HAIR_W", 2.0) * S:.1f}" stroke-linecap="round"/>')
     for pts in cfg.get('LINES', []):
         d = 'M' + ' L'.join(f'{x * S:.1f} {y * S:.1f}' for x, y in pts)
         o.append(f'<path d="{d}" fill="none" stroke="{INK}" stroke-width="{LW:.1f}" stroke-linecap="square"/>')
@@ -492,7 +571,8 @@ def build(mode):
             _ls = cfg.get('LABEL_SIZE', 24)
             o.append(f'<text x="{x:.1f}" y="{y + _ls / 3:.1f}" font-size="{_ls}" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="{_ls / 4.5:.1f}" paint-order="stroke">{t.strip()}</text>')
         for (bx, by) in cfg.get('SECRETS', []):     # secret doors: bold ink S, GM only (box px)
-            o.append(f'<text x="{bx * S:.1f}" y="{by * S + 9:.1f}" font-size="26" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="5" paint-order="stroke">S</text>')
+            _ss = cfg.get('SECRET_SIZE', 26)
+            o.append(f'<text x="{bx * S:.1f}" y="{by * S + _ss / 3:.1f}" font-size="{_ss}" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="{_ss / 5:.1f}" paint-order="stroke">S</text>')
         for kind, gx, gy in cfg.get('GM_MARKS', []):
             x, y = (OX + gx * PX) * S, (OY + gy * PY) * S
             o.append(f'<text x="{x:.1f}" y="{y + 7:.1f}" font-size="20" font-weight="bold" text-anchor="middle" fill="#9b2226" stroke="{FLOOR}" stroke-width="4" paint-order="stroke">{kind}</text>')
