@@ -24,7 +24,7 @@ One battlemap: the Saint's Ossuary (Scene 03). Catacombs C1–C4 are narrated, n
 ## Status
 | Map | Scene | Size (squares) | 100 px/sq | MJ base | Player | DM |
 |---|---|---|---|---|---|---|
-| The Saint's Ossuary | [[Scene 03 — What the Dead Fear]] | 12 × 16 (60 × 80 ft. incl. walls and alcoves) | 1200 × 1600 | — | — | — |
+| The Saint's Ossuary | [[Scene 03 — What the Dead Fear]] | 16 × 18.4 (whole image) | 1600 × 1840 | CharGen ✅ | ✅ `SP-OP01 map-saints-ossuary.png` (2026-11-16) | use the ink DM map |
 | Saint's Ossuary — ink DM map (print) | [[Scene 03 — What the Dead Fear]] | 5-ft. grid | — | — | — | ✅ `SP-OP01 map-saints-ossuary-dm.png` (2026-11-16) |
 | Merrow's Rest — ink site key (print) | [[Scene 02 — The Catacombs]] | 10-ft. grid | — | — | — | ✅ `SP-OP01 map-merrows-rest-key.png` (2026-11-16) |
 
@@ -55,3 +55,7 @@ VTT battlemaps stay in their own style (Art Style Guide, out of scope for ink).
 
 ## Ink DM maps (done 2026-11-16)
 Drawn as vector ink (pure black on white, hatched rock, keyed legend) rather than Midjourney, so the keys are exact. Sources: `99-Assets/SP-OP01/` PNGs; the SVG generator scripts live with the cloud session only. Orientation matches across both maps: the ossuary's altar is north, its iron doors south, and C4 wraps round to enter from the south. Crawls: two west stubs, one to C3 behind the altar, one to C3 from the east wall's south end. The Art Brief § 3 MJ prompt is now optional.
+
+## VTT map notes (CharGen render, 2026-11-16)
+- Made in CharGen from the layout reference in `99-Assets/SP-OP01/_ref/`. Grid: **100 px per square, origin top-left**; it lines up with no offset.
+- Differences from the DM map: the lids stand on the **east** side of each sarcophagus, not the south (still half cover); the crawl behind the altar isn't drawn (three crawls shown); the alcoves have no bone shelves. None changes a rule.
