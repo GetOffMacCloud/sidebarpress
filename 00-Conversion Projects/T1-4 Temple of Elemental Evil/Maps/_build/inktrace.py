@@ -40,22 +40,56 @@ def clear_grid(ink):
         k += 1
     return out
 ink = clear_grid(ink)
-# remove straight hairlines (printed grid drifting off the fitted lattice); thick walls are untouched
+# refined grid removal: locate each printed grid line's true position per cell span (the scan drifts
+# a few px off the fitted lattice), and clear only thin ink there; thick walls (survive a 3x3 open) stay
 _thick = cv2.morphologyEx(ink, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3)))
-_thin = ink & (1 - _thick)
-_L = cfg.get('HAIRLINE', 15)
-_hl = cv2.morphologyEx(_thin, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (_L, 1)))
-_vl = cv2.morphologyEx(_thin, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (1, _L)))
-_kill = cv2.dilate(_hl | _vl, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))) & _thin
-for (a, b, c, d) in cfg.get('PROTECT', []):
-    _kill[b:d, a:c] = 0
-ink = ink & (1 - _kill)
+_raw = (img < cfg.get('THRESH', 120)).astype(np.uint8)
+def refine(ink):
+    out = ink.copy()
+    nx, ny = int(W / PX) + 2, int(H / PY) + 2
+    R = cfg.get('DRIFT', 5)
+    for k in range(nx):
+        x = OX + k * PX
+        for j in range(-1, ny):
+            ya, yb = int(OY + j * PY + 3), int(OY + (j + 1) * PY - 3)
+            ya, yb = max(ya, 0), min(yb, H)
+            if yb - ya < 6: continue
+            best, bx = 0, None
+            for dx in range(-R, R + 1):
+                xx = int(round(x)) + dx
+                if 0 <= xx < W:
+                    f = _raw[ya:yb, xx].mean()
+                    if f > best: best, bx = f, xx
+            if bx is not None and best >= 0.55:
+                for xx in range(max(bx - 1, 0), min(bx + 2, W)):
+                    col = out[ya - 3 if ya >= 3 else 0:yb + 3, xx]
+                    th = _thick[ya - 3 if ya >= 3 else 0:yb + 3, xx]
+                    col[th == 0] = 0
+    for j in range(ny):
+        y = OY + j * PY
+        for k in range(-1, nx):
+            xa, xb = int(OX + k * PX + 3), int(OX + (k + 1) * PX - 3)
+            xa, xb = max(xa, 0), min(xb, W)
+            if xb - xa < 6: continue
+            best, by = 0, None
+            for dy in range(-R, R + 1):
+                yy = int(round(y)) + dy
+                if 0 <= yy < H:
+                    f = _raw[yy, xa:xb].mean()
+                    if f > best: best, by = f, yy
+            if by is not None and best >= 0.55:
+                for yy in range(max(by - 1, 0), min(by + 2, H)):
+                    row = out[yy, xa - 3 if xa >= 3 else 0:xb + 3]
+                    th = _thick[yy, xa - 3 if xa >= 3 else 0:xb + 3]
+                    row[th == 0] = 0
+    return out
+ink = refine(ink)
 for (a, b, c, d) in cfg.get('LABEL_MASKS', []):
     ink[b:d, a:c] = 0
 gm_ink = np.zeros_like(ink)
 for (a, b, c, d) in cfg.get('GM_ONLY_MASKS', []):
     gm_ink[b:d, a:c] = ink[b:d, a:c]; ink[b:d, a:c] = 0
-for (a, b, c, d) in cfg.get('ERASE', []):
+for (a, b, c, d) in cfg.get('ERASE', []) + [(p[0] - 1, p[1] - 1, p[2] + 1, p[3] + 1) for p in cfg.get('PARAPETS', [])]:
     ink[b:d, a:c] = 0
 # drop isolated specks
 def despeckle(m, area=3):
@@ -77,6 +111,18 @@ def degrid(m):
         elif w <= 3 and h >= 30 and a < h * 3: keep[i] = False
     return keep[lab].astype(np.uint8)
 ink = degrid(ink)
+# final pass: lone perfectly straight strokes (grid residue); forked tufts and curved contours survive
+def straight_clean(m):
+    n, lab, st, _ = cv2.connectedComponentsWithStats(m, 8)
+    keep = np.ones(n, bool); keep[0] = False
+    for i in range(1, n):
+        x, y, w, h, a = st[i]
+        if any(x >= p0 and y >= p1 and x + w <= p2 and y + h <= p3 for (p0, p1, p2, p3) in cfg.get('PROTECT', [])): continue
+        if (w <= 3 and h >= 5) or (h <= 3 and w >= 5): keep[i] = False
+        # T / L stubs at the frame edge
+        elif (x <= 1 or y <= 1 or x + w >= W - 1 or y + h >= H - 1) and a < 0.35 * w * h: keep[i] = False
+    return keep[lab].astype(np.uint8)
+if cfg.get('STRAIGHT_CLEAN', True): ink = straight_clean(ink)
 
 def vectorize(m):
     big = cv2.resize(m.astype(np.float32), (W * U, H * U), interpolation=cv2.INTER_CUBIC)
@@ -127,6 +173,21 @@ def build(mode):
                 yv = Y0 + t * (Y1 - Y0); o.append(f'<line x1="{X0:.1f}" y1="{yv:.1f}" x2="{X1:.1f}" y2="{yv:.1f}" stroke="{INK}" stroke-width="2"/>')
             else:
                 xv = X0 + t * (X1 - X0); o.append(f'<line x1="{xv:.1f}" y1="{Y0:.1f}" x2="{xv:.1f}" y2="{Y1:.1f}" stroke="{INK}" stroke-width="2"/>')
+    for (a, b, c, d) in cfg.get('FILLS', []):     # solid wall patches (box px), all versions
+        o.append(f'<rect x="{a * S:.1f}" y="{b * S:.1f}" width="{(c - a) * S:.1f}" height="{(d - b) * S:.1f}" fill="{INK}"/>')
+    # parapets: outlined band with solid merlons every PX/3 along its length
+    for (a, b, c, d) in cfg.get('PARAPETS', []):
+        X0, Y0, X1, Y1 = a * S, b * S, c * S, d * S
+        o.append(f'<rect x="{X0:.1f}" y="{Y0:.1f}" width="{X1-X0:.1f}" height="{Y1-Y0:.1f}" fill="{FLOOR}" stroke="{INK}" stroke-width="{1.6 * S:.1f}"/>')
+        per = PX / 3 * S; m = 0.62 * per
+        if (c - a) >= (d - b):
+            x = X0 + (per - m) / 2
+            while x + m <= X1 + 0.1:
+                o.append(f'<rect x="{x:.1f}" y="{Y0 + 1.2 * S:.1f}" width="{m:.1f}" height="{Y1 - Y0 - 2.4 * S:.1f}" fill="{INK}"/>'); x += per
+        else:
+            y = Y0 + (per - m) / 2
+            while y + m <= Y1 + 0.1:
+                o.append(f'<rect x="{X0 + 1.2 * S:.1f}" y="{y:.1f}" width="{X1 - X0 - 2.4 * S:.1f}" height="{m:.1f}" fill="{INK}"/>'); y += per
     # explicit thin walls (box px polylines), doors, angled stairs: features too fine for the trace
     LW = cfg.get('LINE_W', 3.2) * S
     for pts in cfg.get('LINES', []):
@@ -152,12 +213,14 @@ def build(mode):
             t = i / n
             p0 = (A[0] + t * (B[0] - A[0]), A[1] + t * (B[1] - A[1])); p1 = (R[0] + t * (T[0] - R[0]), R[1] + t * (T[1] - R[1]))
             o.append(f'<line x1="{p0[0] * S:.1f}" y1="{p0[1] * S:.1f}" x2="{p1[0] * S:.1f}" y2="{p1[1] * S:.1f}" stroke="{INK}" stroke-width="{1.4 * S:.1f}"/>')
-    if gm and GM_PATH:
+    if gm and GM_PATH and cfg.get('DRAW_GM_INK', True):
         o.append(f'<g transform="scale({S:.5f})"><path d="{GM_PATH}" fill="{INK}" fill-rule="evenodd"/></g>')
     if gm:
         for t, (gx, gy) in cfg['LABELS'].items():
             x, y = (OX + gx * PX) * S, (OY + gy * PY) * S
             o.append(f'<text x="{x:.1f}" y="{y + 8:.1f}" font-size="24" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="5" paint-order="stroke">{t.strip()}</text>')
+        for (bx, by) in cfg.get('SECRETS', []):     # secret doors: bold ink S, GM only (box px)
+            o.append(f'<text x="{bx * S:.1f}" y="{by * S + 9:.1f}" font-size="26" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="5" paint-order="stroke">S</text>')
         for kind, gx, gy in cfg.get('GM_MARKS', []):
             x, y = (OX + gx * PX) * S, (OY + gy * PY) * S
             o.append(f'<text x="{x:.1f}" y="{y + 7:.1f}" font-size="20" font-weight="bold" text-anchor="middle" fill="#9b2226" stroke="{FLOOR}" stroke-width="4" paint-order="stroke">{kind}</text>')

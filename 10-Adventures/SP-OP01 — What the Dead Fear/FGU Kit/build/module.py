@@ -111,7 +111,7 @@ m.page(I1,'Background & Hooks',C(pick(M,'Background','Hooks')))
 m.page(I1,'Encounters & Cast',C(pick(M,'Encounters','Key NPCs','Key Locations')),links=B3+[m.N(k) for k in ('ossian','harrow','larderghoul','pallbearer')])
 m.page(A1,'Scene 1 — The Grateful Mortician',C(fullnote(SC(1))),images=[i for i in ('portrait-ossian-guise',) if has(i)],links=[m.N('ossian')])
 m.page(A2,'Scene 2 — The Catacombs',C(fullnote(SC(2))),images=[i for i in ('map-merrows-rest-key',) if has(i)],links=[m.N('larderghoul')])
-s3=[i for i in ('scene-the-trap','plate-ossian','portrait-sexton-harrow') if has(i)]
+s3=[i for i in ('scene-the-trap','plate-ossian','portrait-sexton-harrow','map-saints-ossuary-dm') if has(i)]
 m.page(A3,'Scene 3 — What the Dead Fear',C(fullnote(SC(3))),images=s3+([MAP] if MAP else []),links=B3+[m.N('ossian'),m.N('harrow'),m.IT('urn')]+([m.I(MAP)] if MAP else []))
 m.page(A3,'Concluding the Adventure',C(pick(M,'Concluding the Adventure')),links=[m.IT('urn')])
 m.page(AP,'Bestiary',C(fullnote(BEST)),links=[m.N(k) for k in m.NPC])
