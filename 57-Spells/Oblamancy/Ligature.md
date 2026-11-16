@@ -36,4 +36,4 @@ At the end of each of its turns, the target repeats the saving throw, ending the
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, an orc warrior frozen mid-charge in a forest clearing, glistening red cords wrapped tight around his arms and legs, his axe fallen in the leaves, a wizard with an outstretched fist in the background, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, an orc warrior frozen mid-charge in a forest clearing, glistening red cords wrapped tight around his arms and legs, his axe fallen in the leaves, a wizard with an outstretched fist in the background, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

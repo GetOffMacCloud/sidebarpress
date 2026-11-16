@@ -38,4 +38,4 @@ The bond ends early for a creature that drops to 0 hit points.
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, four adventurers in a dark crypt each looking at a glowing red line across their open palm, faint crimson threads of light connecting their hands through the air, a wizard in the center with a bleeding hand raised, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, four adventurers in a dark crypt each looking at a glowing red line across their open palm, faint crimson threads of light connecting their hands through the air, a wizard in the center with a bleeding hand raised, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

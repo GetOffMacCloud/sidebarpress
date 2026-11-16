@@ -7,7 +7,7 @@ tags: [hub, spell, oblamancy, blood-magic]
 
 # Oblamancy Spell List
 
-The fourteen spells of the **School of Oblamancy**, the second of [[The Schools of Blood Magic]]. Oblamancy binds: battlefield control and coordination, with **no damage, no healing, and no temporary hit points**.
+The fourteen spells of the [[Wizard — School of Oblamancy|School of Oblamancy]], the second of [[The Schools of Blood Magic]]. Oblamancy binds: battlefield control and coordination, with **no damage, no healing, and no temporary hit points**.
 
 **Rules every spell shares**
 - **Wizard only**, and only in an oblamancer's Hemotheurgical Codex. They appear as he gains levels and can't be copied or found.
@@ -33,5 +33,22 @@ The fourteen spells of the **School of Oblamancy**, the second of [[The Schools 
 | 8th | [[Red Dominion]] | Self (60-foot radius) | Until the end of the encounter | You decide who acts, and when. |
 | 9th | [[The Covenant]] | 60 feet | Concentration, up to 1 minute | Every life you've bound becomes one body, and you spend it as you see fit. |
 
-> [!todo] Depends on the subclass note
-> The Tithe, the Stain rules, and the 14th-level feature these spells mention will be defined in `55-Classes-and-Subclasses/Wizard — School of Oblamancy.md`, which isn't written yet.
+## Art
+
+House style suffix for every prompt: `--style raw --v 8.1` (the `mj_style` field). The spell notes' `%% mj: … %%` scene prompts leave the suffix off, like the Cruormancy source notes, so the card builder can append it.
+
+### School sigil (`Oblamancy_Sigil.png`)
+
+One sigil for all fourteen spells, a sibling of `Cruormancy_Sigil.png`: the same iron seal, in full color (blackened iron, tarnished gold, crimson enamel, ivory, garnets), but where Cruormancy's seal holds a blade, this one holds an open, upturned hand bound at the wrist, with eight thin streams of blood running into the palm from the rim.
+
+```
+ornate arcane spell seal in full color, a round medallion of blackened iron inlaid with tarnished gold, two concentric rings of engraved runes filled with deep crimson enamel, at the center an open upturned hand carved from pale ivory bone, bound at the wrist by a knotted scarlet silk cord, eight thin streams of rich red blood flowing inward from eight garnet cabochons set in the outer rim and pooling in the palm, gold chain links worked into the rim, verdigris and wear in the recesses, warm candlelight catching the gold, symmetrical, centered, isolated on a pure black background, dark fantasy game icon, highly detailed jeweler's metalwork, no text --ar 1:1 --style raw --v 8.1
+```
+
+### School scene (the Tithe)
+
+```
+cinematic fantasy illustration, a calm robed wizard standing behind a line of battered soldiers on a muddy battlefield at dusk, one hand raised and open, thin glowing threads of blood drawn out of the backs of his own allies and streaming into his palm, the soldiers staggering and looking back at him in shock, ahead of them an enemy warband frozen in place and bound by red cords, the wizard's face composed and certain, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 3:2 --style raw --v 8.1
+```
+
+The Tithe, the Stain, and the school's features are in [[Wizard — School of Oblamancy]].

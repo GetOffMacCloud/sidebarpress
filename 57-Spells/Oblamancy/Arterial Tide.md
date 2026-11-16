@@ -36,4 +36,4 @@ The wave doesn't distinguish friend from foe, and it deals no damage. The ground
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a knee-deep wave of dark red liquid rolling down a castle corridor, sweeping armored guards off their feet and back toward a doorway, a wizard at the near end with both arms spread wide, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a knee-deep wave of dark red liquid rolling down a castle corridor, sweeping armored guards off their feet and back toward a doorway, a wizard at the near end with both arms spread wide, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

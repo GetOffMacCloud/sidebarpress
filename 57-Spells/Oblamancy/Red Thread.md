@@ -36,4 +36,4 @@ You can target one additional creature with this spell when you reach 5th level 
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Cantrips add no Stain. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a hobgoblin sentry straining forward mid-stride on a torchlit rampart, a single glowing crimson thread running from his chest to a drop of blood on the stones, a robed wizard lowering his hand in the foreground, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a hobgoblin sentry straining forward mid-stride on a torchlit rampart, a single glowing crimson thread running from his chest to a drop of blood on the stones, a robed wizard lowering his hand in the foreground, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

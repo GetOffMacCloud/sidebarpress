@@ -32,11 +32,11 @@ Choose up to eight creatures with blood that you can see within range (you can c
 
 - **One mind.** Covenanted creatures can communicate telepathically with one another, and each knows the location of any creature that another covenanted creature can see.
 - **One body.** Once on each of your turns (no action required), each covenanted creature can move up to half its speed without provoking opportunity attacks.
-- **One debt.** Once per round, when a covenanted creature fails a saving throw, you can choose a **different** covenanted creature (no action required). That creature loses 15 hit points, and the save succeeds instead. This hit point loss can't be reduced or prevented, and it isn't damage. You can't choose a creature this would reduce to 0 hit points unless you have the 14th-level School of Oblamancy feature.
+- **One debt.** Once per round, when a covenanted creature fails a saving throw, you can choose a **different** covenanted creature (no action required). That creature loses 15 hit points, and the save succeeds instead. This hit point loss can't be reduced or prevented, and it isn't damage. A creature reduced to 0 hit points this way is dying.
 - **One reaction.** When a covenanted creature could take a reaction but has already used its own, another covenanted creature within 60 feet of it can spend its reaction to let the first creature take that reaction.
 
 The covenant ends early for a creature that drops to 0 hit points.
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, eight battered adventurers standing in a tight ring on a blood-soaked hilltop under a red sky, glowing crimson lines joining all their hearts into one web, a wizard at the center with arms raised and eyes closed, an army closing in below, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, eight battered adventurers standing in a tight ring on a blood-soaked hilltop under a red sky, glowing crimson lines joining all their hearts into one web, a wizard at the center with arms raised and eyes closed, an army closing in below, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

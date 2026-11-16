@@ -36,4 +36,4 @@ When you cast the spell, choose **one creature with blood** that you can see wit
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a narrow mountain bridge swallowed by a thick cloud of red mist, soldiers stumbling blind inside it, one knight striding through with clear purpose and a raised sword, a wizard watching from the far bank, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a narrow mountain bridge swallowed by a thick cloud of red mist, soldiers stumbling blind inside it, one knight striding through with clear purpose and a raised sword, a wizard watching from the far bank, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

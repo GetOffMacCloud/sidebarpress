@@ -38,4 +38,4 @@ When you cast this spell using a spell slot of 5th level or higher, you instead 
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a bandit captain standing rigid as a statue in a moonlit courtyard, only his terrified eyes and mouth moving, dark veins visible under his skin, a wizard walking slowly around him with one hand closed, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a bandit captain standing rigid as a statue in a moonlit courtyard, only his terrified eyes and mouth moving, dark veins visible under his skin, a wizard walking slowly around him with one hand closed, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

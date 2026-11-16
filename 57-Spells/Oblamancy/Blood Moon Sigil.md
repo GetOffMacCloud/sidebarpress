@@ -37,4 +37,4 @@ A sigil of blood appears on the ground in a 30-foot radius centered on a point y
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a huge glowing red sigil like a full moon drawn on the floor of a ruined cathedral, a small company of soldiers standing firm inside it while shadowy attackers slog toward them as if through deep water, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a huge glowing red sigil like a full moon drawn on the floor of a ruined cathedral, a small company of soldiers standing firm inside it while shadowy attackers slog toward them as if through deep water, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

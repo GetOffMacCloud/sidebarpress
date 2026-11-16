@@ -20,7 +20,7 @@ Blood magic is taught in three schools, each a wizard arcane tradition. They sha
 | School | Practitioner | What it does | Whose blood | Note |
 |---|---|---|---|---|
 | **Cruormancy** | cruormancer | Kills. Purely offensive. | His own | [[Wizard — School of Cruormancy]] |
-| **Oblamancy** | oblamancer | Binds. Battlefield control and coordination, never healing. | Other people's (the Tithe) | Spells: [[00 — Oblamancy Spell List]]. Subclass note in development. |
+| **Oblamancy** | oblamancer | Binds. Battlefield control and coordination, never healing. | Other people's (the Tithe) | [[Wizard — School of Oblamancy]] · [[00 — Oblamancy Spell List|spells]] |
 | *Unnamed* | — | Mends. Healing. | — | *Planned* |
 
 > [!info] DM lore

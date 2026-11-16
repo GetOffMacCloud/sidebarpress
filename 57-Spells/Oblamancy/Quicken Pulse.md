@@ -34,4 +34,4 @@ The speed increase becomes 15 feet when you reach 5th level, 20 feet at 11th lev
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Cantrips add no Stain. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a soldier in mail sprinting across a muddy battlefield with wild eyes and veins standing out on his neck, faint red light pulsing at his chest, a calm wizard far behind him snapping his fingers, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a soldier in mail sprinting across a muddy battlefield with wild eyes and veins standing out on his neck, faint red light pulsing at his chest, a calm wizard far behind him snapping his fingers, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

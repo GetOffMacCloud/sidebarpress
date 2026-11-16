@@ -41,4 +41,4 @@ At the end of each of its turns, a chained creature that failed its initial save
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a wyvern rider and an ogre in a rocky pass bound together chest to chest by a thick glistening chain of red, the ogre hauling backward as the wyvern strains to take off, a wizard pointing at both, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a wyvern rider and an ogre in a rocky pass bound together chest to chest by a thick glistening chain of red, the ogre hauling backward as the wyvern strains to take off, a wizard pointing at both, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

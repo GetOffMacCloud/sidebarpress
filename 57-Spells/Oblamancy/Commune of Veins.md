@@ -40,4 +40,4 @@ A creature can be swapped only once per turn. The link ends early for a creature
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a battlefield at dusk where a wounded archer and an armored knight are mid-swap, each dissolving into red mist and reforming in the other's place, faint crimson lines linking six soldiers, a wizard directing with one hand, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a battlefield at dusk where a wounded archer and an armored knight are mid-swap, each dissolving into red mist and reforming in the other's place, faint crimson lines linking six soldiers, a wizard directing with one hand, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%

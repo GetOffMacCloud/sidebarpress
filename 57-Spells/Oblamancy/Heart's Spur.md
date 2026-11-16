@@ -39,4 +39,4 @@ If the target has no reaction available, the spell has no effect, and the spell 
 
 **Oblamancy.** Affects only creatures with blood. Exists only in an oblamancer's Hemotheurgical Codex. Each casting adds 1 Stain to you, and 1 more if the Tithe for it drops a creature to 0 hit points. See [[The Schools of Blood Magic]].
 
-%% mj: cinematic fantasy illustration, a startled swordswoman lunging forward in a stone corridor as if yanked by an invisible hand at her chest, her blade driving toward a cultist, a wizard behind her with two fingers pressed to his own throat, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text --ar 16:9 --style raw --v 8.1 %%
+%% mj: cinematic fantasy illustration, a startled swordswoman lunging forward in a stone corridor as if yanked by an invisible hand at her chest, her blade driving toward a cultist, a wizard behind her with two fingers pressed to his own throat, painterly digital art, deep crimson, bone and iron-black palette, dramatic low light, wide landscape composition, no text %%
