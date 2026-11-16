@@ -8,7 +8,7 @@ title: "What the Dead Fear"
 status: draft # draft | playtesting | editing | published
 levels: "6-8"
 party_size: "4-6"
-estimated_hours: 3.5
+estimated_hours: 4
 setting: "Setting-agnostic"
 region: "Any lonely pilgrim road, crossroads abbey or old cemetery"
 in_world_date: "Any"
@@ -19,7 +19,7 @@ tags: [pocket-module, one-shot, horror, aberration, avolakia, undead, twist, nov
 
 # What the Dead Fear
 
-**APL 7 (levels 6–8) · 4–6 characters · one 3–4 hour session**
+**APL 7 (levels 6–8) · 4–6 characters · one 4-hour session**
 
 > *The mortician thanks you for coming. He thanks you for everything. He never once blinks.*
 >
@@ -34,7 +34,7 @@ Published as the November 2026 Pocket Module post: a two-page spread (scenes 1�
 ## Design Frame
 - **Thesis:** The monster at the bottom of the crypt is the one who hired you.
 - **Expectation broken:** *The undead are the threat.* They're the victims, cowering behind their own coffin lids. The grateful cleric is the predator.
-- **What this adventure refuses to do:** Nothing in the catacombs attacks the party before the twist. If the players kill a ghoul, it dies pleading.
+- **What this adventure refuses to do:** The ghouls never attack the party. Everything that does is mindless or monstrous: Ossian's husks, his scavengers, his failures. If the players kill a ghoul, it dies pleading.
 - **Session spine:** clues in Scene 1, wrongness in Scene 2, the trap in Scene 3. **The Larder** (Ossian heals by eating the cowering undead) forces the moral choice into the middle of the fight: protect them, arm them, or lay them to rest.
 - **Tone:** candle wax, wet skin, sweet rot. Every kindness is a little too much.
 - **Theme (Friday Night Field Trips):** *No one is coming to save you.* Not even the dead.
@@ -57,8 +57,8 @@ The avolakia raised the year's burials as **ghouls** and hung them in the cataco
 ## Adventure Outline
 | Scene | Budget | Core output |
 |---|---|---|
-| [[Scene 01 — The Grateful Mortician]] | 45 min | The job, the advance, three or more clues that Ossian is wrong |
-| [[Scene 02 — The Catacombs]] | 45 min | The cured limbs, the ledger, Old Tam's warning, doors barred from the outside |
+| [[Scene 01 — The Grateful Mortician]] | 60 min | The job, the advance, three or more clues; the Graveyard Rising |
+| [[Scene 02 — The Catacombs]] | 75 min | Crawlers, the kitchen, the ledger, Old Tam's warning, doors barred from the outside |
 | [[Scene 03 — What the Dead Fear]] | 60–90 min | Harrow's truth, the trap, the Larder fight, an ending |
 
 Run sheet and manifest: [[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]].
@@ -66,11 +66,17 @@ Run sheet and manifest: [[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00
 ## Encounters
 | Code | Scene | PCs | Creatures | Adjusted XP | Difficulty |
 |---|---|---|---|---|---|
-| E1a | 03 | 4 | Ossian (2 legendary actions) | 5,000 | Hard |
-| E1b | 03 | 5 | Ossian + 1 pallbearer (ogre zombie) | 8,175 | Hard (edge of Deadly) |
-| E1c | 03 | 6 | Ossian (3 legendary actions) + 2 pallbearers | 8,850 | Hard |
+| E1a–c | 01 | 4 / 5 / 6 | The Graveyard Rising: 6/8/10 zombies + 2/2/3 ogre zombies | 3,000 / 3,250 / 4,625 | Medium / Easy / Medium |
+| E2a–c | 02 (C1) | 4 / 5 / 6 | Bone Gallery: 4/5/6 ossuary crawlers | 3,600 / 4,500 / 5,400 | Medium |
+| E3a–c | 02 (C2) | 4 / 5 / 6 | The Kitchen: 2/3/3 gibbering mouthers + 6/6/10 cured hands | 2,400 / 3,525 / 3,625 | Easy |
+| E4a | 03 | 4 | Ossian (2 legendary actions) | 5,000 | Hard |
+| E4b | 03 | 5 | Ossian + 1 pallbearer (ogre zombie) | 8,175 | Hard (edge of Deadly) |
+| E4c | 03 | 6 | Ossian (3 legendary actions) + 2 pallbearers | 8,850 | Hard |
+| W1–3 | any | any | Wandering Husks (Scene 02 table) | 600–1,350 | trivial–Easy |
 
 2014 DMG thresholds for 7th level: Hard 1,100 and Deadly 1,700 per PC. Two monsters ×1.5; three monsters ×2, dropped to ×1.5 for six PCs. The larder undead aren't counted: they're terrain and the boss's healing. Hard on paper at every size; the round-1 *dominate person* and the Larder make it play Deadly. Statblocks: [[SP-OP01 — Bestiary]].
+
+**Adventuring day (4 PCs):** 3,000 + 3,600 + 2,400 + 5,000 = 14,000 XP, 70% of a 7th-level party's 20,000 budget. Allow one short rest after Scene 2 (and roll for Wandering Husks when they take it).
 
 ## Concluding the Adventure
 - **Ossian slain.** The worm-flesh boils away into brine and maggots. Harrow asks for the ash, and the dead go back into the ground properly. The chapel needs a new keeper.

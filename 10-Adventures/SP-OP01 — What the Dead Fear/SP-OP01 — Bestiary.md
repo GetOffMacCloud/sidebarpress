@@ -20,6 +20,11 @@ All stat blocks are 2014 5e *Monster Manual* (MM) unless written out below.
 | [[Sexton Harrow]] | 3 | 700 | Wight, MM 300 | Scene 03 |
 | Larder ghouls (4) | 1 | 200 | Ghoul, MM 148 | Scenes 02–03 |
 | Pallbearers (1–2) | 2 | 450 | Ogre zombie, MM 316 | Scene 03 (5–6 PCs) |
+| Husks | 1/4 | 50 | Zombie, MM 316 | Scenes 01–02 (graveyard, Wandering Husks) |
+| Ogre husks | 2 | 450 | Ogre zombie, MM 316 | Scene 01, Wandering Husks |
+| [[Ossuary Crawler]] | 2 | 450 | House creature | Scene 02 (C1), Wandering Husks |
+| Gibbering mouther | 2 | 450 | MM 157 | Scene 02 (C2) |
+| [[Cured Hand]] | 0 | 10 | House creature | Scene 02 (C2) |
 
 > [!example]- Brother Ossian (Avolakia) — CR 9 (5,000 XP)
 > *Large aberration (shapechanger), neutral evil*
@@ -40,8 +45,10 @@ All stat blocks are 2014 5e *Monster Manual* (MM) unless written out below.
 - **Pallbearers (ogre zombies).** Wrapped in burial linen, smelling of salt and clove. Undead Fortitude stands. Ossian can't feed on them (they're his butchers, not food).
 
 ## Encounter XP check
+The graveyard (E1), crawlers (E2) and kitchen (E3) are in the scene notes with their adjusted XP. The boss fight:
+
 | Code | PCs | Creatures | Base XP | Multiplier | Adjusted | Threshold (Hard / Deadly) | Result |
 |---|---|---|---|---|---|---|---|
-| E1a | 4 | Ossian | 5,000 | ×1 | 5,000 | 4,400 / 6,800 | Hard |
-| E1b | 5 | Ossian + 1 pallbearer | 5,450 | ×1.5 | 8,175 | 5,500 / 8,500 | Hard |
-| E1c | 6 | Ossian + 2 pallbearers | 5,900 | ×1.5 (×2, one lower for 6 PCs) | 8,850 | 6,600 / 10,200 | Hard |
+| E4a | 4 | Ossian | 5,000 | ×1 | 5,000 | 4,400 / 6,800 | Hard |
+| E4b | 5 | Ossian + 1 pallbearer | 5,450 | ×1.5 | 8,175 | 5,500 / 8,500 | Hard |
+| E4c | 6 | Ossian + 2 pallbearers | 5,900 | ×1.5 (×2, one lower for 6 PCs) | 8,850 | 6,600 / 10,200 | Hard |

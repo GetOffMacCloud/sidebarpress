@@ -24,7 +24,8 @@ publish: false
 - [x] Every named NPC who acts has a note in `30-NPCs` (Ossian, Harrow)
 - [x] Every location has a note in `40-Locations` (Merrow's Rest)
 - [x] Every item has a note in `50-Items` (The Urn of Saint Merrow)
-- [x] Encounter table with party-size bands and DMG difficulty math
+- [x] Encounter table with party-size bands and DMG difficulty math (four fights + Wandering Husks, 2026-11-16)
+- [ ] Battlemaps for the graveyard, Bone Gallery and kitchen
 - [x] Bestiary note complete; homebrew block has FGU Import text
 
 

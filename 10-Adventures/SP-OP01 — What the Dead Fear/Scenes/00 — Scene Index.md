@@ -38,10 +38,10 @@ SORT publish_order ASC
 | # | Scene | Budget | Clock | If you're running long | Core output |
 |---|---|---|---|---|---|
 | — | Seating, safety tools | 10 min | 0:10 | — | — |
-| 01 | [[Scene 01 — The Grateful Mortician]] | 45 min | 0:55 | Skip the register; describe the fingers outright | The job, the advance, three clues |
-| 02 | [[Scene 02 — The Catacombs]] | 45 min | 1:40 | C1 in one line; straight to Old Tam | The ledger, Tam's warning, the gouged doors |
-| — | *Break* | 10 min | 1:50 | — | — |
-| 03 | [[Scene 03 — What the Dead Fear]] | 60–90 min | 3:20 | Ossian flees at 60 hp | Harrow's truth, the trap, the Larder, an ending |
+| 01 | [[Scene 01 — The Grateful Mortician]] | 60 min | 1:10 | Skip the register; cut the graveyard to one ogre zombie and four husks | The job, the advance, three clues, the Graveyard Rising |
+| 02 | [[Scene 02 — The Catacombs]] | 75 min | 2:25 | Skip the kitchen fight; no Wandering Husks rolls | Crawlers, the kitchen, the ledger, Tam's warning, the gouged doors |
+| — | *Break / short rest* | 10 min | 2:35 | — | — |
+| 03 | [[Scene 03 — What the Dead Fear]] | 60–80 min | 3:55 | Ossian flees at 60 hp | Harrow's truth, the trap, the Larder, an ending |
 
 ## Clue Ledger
 | Conclusion | Routes |

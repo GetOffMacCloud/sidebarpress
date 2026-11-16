@@ -15,7 +15,7 @@ session: 1
 
 ## Purpose
 Give the party the job, the advance and at least three clues that [[Brother Ossian]] is not what he seems, without proving it.
-**Budget:** 45 minutes. Running long? Skip the burial register; describe the backward fingers outright.
+**Budget:** 60 minutes. Running long? Skip the burial register; describe the backward fingers outright.
 
 ## Arrival
 > *A squat stone chapel. A lychgate hung with funeral bells. Fresh earth on every grave in the yard. Candles burn in the nave although it's noon. A hunched brother in black wool hurries out with his hands spread. "Oh, thank the Saint. Thank you. Thank you for coming."*
@@ -44,6 +44,19 @@ Ossian lies superbly (Deception +12). Insight reads nothing but grief unless the
 | In the burial register, every burial since spring is marked "taken below for rest." Nobody has been interred below since the founding. | Investigation DC 13 or Religion DC 12 |
 | The chapel cat won't enter the vestry, and the yard dog won't stop shaking. | Animal Handling DC 10 |
 | Ossian casts *detect thoughts* on a PC. | Wisdom save DC 16. On a success, the PC feels an oily pressure behind the eyes, coming from Ossian's direction. |
+
+## Fight: The Graveyard Rising (Easy–Medium)
+Ossian has staged a demonstration. As he raises his toast, the lychgate bells ring and the old graves in the yard heave open. Mindless **husks** (zombies) from decades-old burials lurch toward the chapel, with hulking **ogre zombies** in rotted burial linen behind them. Ossian grabs a lantern and "fights" beside the party, with wild swings that never land.
+
+**Clue:** the husks walk past Ossian as if he weren't there (Perception DC 13, or automatic for anyone who watches him for a round). Afterward he's shaken and more grateful than ever: "You see? You *see* what I live with?"
+
+| Code | PCs | Creatures | Adjusted XP | Difficulty |
+|---|---|---|---|---|
+| E1a | 4 | 6 zombies + 2 ogre zombies | 3,000 | Medium |
+| E1b | 5 | 8 zombies + 2 ogre zombies | 3,250 | Easy |
+| E1c | 6 | 10 zombies + 3 ogre zombies | 4,625 | Medium |
+
+**Terrain:** The open graves are 6 ft. deep. A creature shoved into one takes 3 (1d6) bludgeoning damage and lands prone. Headstones give half cover.
 
 ## Alternates
 - **Unmasked early.** *Detect evil and good* and Divine Sense find an **aberration** where he stands. If the party unmasks him here, he smiles, thanks them for the conversation, and casts *suggestion*: "Go down. Bring me the urn. Then we can talk." If that fails, he fights in the nave without his larder and flees up the bone chute behind the altar once he's bloodied. Go straight to [[Scene 03 — What the Dead Fear]]'s statblock and endings; the dead below can still be saved.
