@@ -11,7 +11,7 @@ session: 1
 
 # Scene 02 — The Catacombs
 
-[[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] · ← [[Scene 01 — The Grateful Mortician]] · Next → [[Scene 03 — What the Dead Fear]]
+[[10-Adventures/Pocket Modules/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] · ← [[Scene 01 — The Grateful Mortician]] · Next → [[Scene 03 — What the Dead Fear]]
 
 ## Purpose
 Show the party that the dead are being kept and cured, and that something is afraid. They should reach the iron doors suspicious but not yet certain.

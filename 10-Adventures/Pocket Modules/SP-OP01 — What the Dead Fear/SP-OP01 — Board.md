@@ -13,7 +13,7 @@ publish: false
 - [x] Adventure code assigned (new OP line) and folder created
 - [x] Pitch paragraph and Design Frame written
 - [x] Hooks written (3 variants)
-- [x] Act structure and scene list in [[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] with time budgets
+- [x] Act structure and scene list in [[10-Adventures/Pocket Modules/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] with time budgets
 - [ ] Canon research done (n/a — setting-agnostic; avolakia rename before any sold edition)
 
 

@@ -8,7 +8,7 @@ publish: true
 
 # Bestiary — What the Dead Fear
 
-Back to [[SP-OP01-What-the-Dead-Fear]] · Scenes: [[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]]
+Back to [[SP-OP01-What-the-Dead-Fear]] · Scenes: [[10-Adventures/Pocket Modules/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]]
 
 All stat blocks are 2014 5e *Monster Manual* (MM) unless written out below.
 

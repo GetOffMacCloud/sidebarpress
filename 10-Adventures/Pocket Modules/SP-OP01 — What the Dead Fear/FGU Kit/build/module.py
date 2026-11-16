@@ -3,7 +3,8 @@ Uses the shared builder in 70-Company/Tools/fgu-module-builder (see the fgu-modu
 Modeled on SP-GA05's module.py, cut down for a Pocket Module (3 scenes, 1 homebrew NPC, 3 encounter bands)."""
 import os,sys,re,glob,shutil,html,zipfile
 import xml.etree.ElementTree as ET
-HERE=os.path.dirname(os.path.abspath(__file__)); ADV=os.path.dirname(os.path.dirname(HERE)); VAULT=os.path.dirname(os.path.dirname(ADV))
+HERE=os.path.dirname(os.path.abspath(__file__)); ADV=os.path.dirname(os.path.dirname(HERE)); VAULT=ADV
+while not os.path.isdir(os.path.join(VAULT,'70-Company')): VAULT=os.path.dirname(VAULT)  # works at any folder depth (Pocket Modules/)
 sys.path.insert(0,os.path.join(VAULT,'70-Company','Tools','fgu-module-builder'))
 from fgmod import Mod, conv, body, sections, _S, _FT, ids
 import fgconv

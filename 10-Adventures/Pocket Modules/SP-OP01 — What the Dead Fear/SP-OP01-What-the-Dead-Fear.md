@@ -61,7 +61,7 @@ The avolakia raised the year's burials as **ghouls** and hung them in the cataco
 | [[Scene 02 — The Catacombs]] | 75 min | Crawlers, the kitchen, the ledger, Old Tam's warning, doors barred from the outside |
 | [[Scene 03 — What the Dead Fear]] | 60–90 min | Harrow's truth, the trap, the Larder fight, an ending |
 
-Run sheet and manifest: [[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]].
+Run sheet and manifest: [[10-Adventures/Pocket Modules/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]].
 
 ## Encounters
 | Code | Scene | PCs | Creatures | Adjusted XP | Difficulty |

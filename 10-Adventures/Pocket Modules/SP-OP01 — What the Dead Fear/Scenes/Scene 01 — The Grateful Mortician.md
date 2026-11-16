@@ -11,7 +11,7 @@ session: 1
 
 # Scene 01 — The Grateful Mortician
 
-[[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] · Next → [[Scene 02 — The Catacombs]]
+[[10-Adventures/Pocket Modules/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] · Next → [[Scene 02 — The Catacombs]]
 
 ## Purpose
 Give the party the job, the advance and at least three clues that [[Brother Ossian]] is not what he seems, without proving it.

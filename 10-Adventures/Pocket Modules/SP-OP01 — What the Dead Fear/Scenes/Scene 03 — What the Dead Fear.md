@@ -11,7 +11,7 @@ session: 1
 
 # Scene 03 — What the Dead Fear
 
-[[10-Adventures/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] · ← [[Scene 02 — The Catacombs]]
+[[10-Adventures/Pocket Modules/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] · ← [[Scene 02 — The Catacombs]]
 
 ## Purpose
 Deliver the truth, spring the trap, and make the party choose what to do with the larder in the middle of the fight.
