@@ -6,7 +6,9 @@ publish_order: 10
 publish: true
 title: "What the Dead Fear"
 status: draft # draft | playtesting | editing | published
+apl: 7
 levels: "6-8"
+tier: 2
 party_size: "4-6"
 estimated_hours: 4
 setting: "Setting-agnostic"
@@ -19,17 +21,17 @@ tags: [pocket-module, one-shot, horror, aberration, drunaghul, undead, twist, no
 
 # What the Dead Fear
 
-**APL 7 (levels 6–8) · 4–6 characters · one 4-hour session**
+**APL 7 (levels 6–8) · Tier 2 · 4–6 characters · one 4-hour session**
 
 > *The mortician thanks you for coming. He thanks you for everything. He never once blinks.*
 >
-> A soft-spoken caretaker begs the party to clear restless dead from his catacombs. At the bottom they find the dead hiding, and they're hiding from him. Brother Ossian is an **drunaghul**, an aberration of worm-flesh that wears the faces of the dead and eats undead flesh cured like meat in a cellar. He didn't hire exterminators. He hired beaters to flush his dinner out of hiding, and to stay for dessert.
+> A soft-spoken caretaker begs the party to clear restless dead from his catacombs. At the bottom they find the dead hiding, and they're hiding from him. Brother Ossian is a **drunaghul**, an aberration of worm-flesh that wears the faces of the dead and eats undead flesh cured like meat in a cellar. He didn't hire exterminators. He hired beaters to flush his dinner out of hiding, and to stay for dessert.
 
 ## Adventure Code
 `SP-OP01` (printed **OP1**). The first **Pocket Module**: O for open (setting-agnostic), P for Pocket Module. One post a month, two-page spread plus a stat-block page. See `claude/module-codes.md`.
 
 ## Format
-Published as the November 2026 Pocket Module post: a two-page spread (scenes 1–3) and a stat-block page. The posting copy lives in the Claude doc *OP1 What the Dead Fear*; these vault notes are the build source for the FGU module and any later print.
+Published as the November 2026 Pocket Module post: a two-page spread (scenes 1–3) and a stat-block page. The posting copy lives in the Claude doc *OP1 What the Dead Fear*; these vault notes are the build source for the FGU module and any later print. Built to the house template `90-Templates/Pocket-Module.md` (adopted 2026-11-16).
 
 ## Design Frame
 - **Thesis:** The monster at the bottom of the crypt is the one who hired you.
@@ -44,6 +46,13 @@ Published as the November 2026 Pocket Module post: a two-page spread (scenes 1�
 
 The drunaghul raised the year's burials as **ghouls** and hung them in the catacombs to age. The first thing it raised was the sexton, [[Sexton Harrow]], who saw too much. He rose as a **wight** with his memory intact. Last week Harrow led the penned dead into the **Saint's Ossuary**, whose burial crawls are too narrow for a Large creature. The drunaghul can't reach them there, and it barred them in to wait. So it posted a notice.
 
+### Story Objective and Bonus Objective
+- **Story Objective:** stop the drunaghul. Slay Brother Ossian, or at least deny him his larder.
+- **Bonus Objective:** [[SP-OP01 — Bonus Objective — Pell's Mother|Pell's Mother]]. Find the Widow Brisk, give her rest, and return her blue ribbon to Pell (about 30 minutes, threaded through all three scenes).
+
+### Adventure Flowchart
+See [[SP-OP01 — Appendix — Adventure Flowchart]].
+
 ### What the Locals Know
 - The chapel has buried everyone on this stretch of road for forty years. Brother Ossian is kind, patient and always grateful.
 - Since spring there have been more burials than deaths. Nobody wants to say so out loud.
@@ -55,6 +64,14 @@ The drunaghul raised the year's burials as **ghouls** and hung them in the catac
 - **The storm.** The party shelters at the chapel for the night. Ossian studies their sword arms and spell-scarred hands, and decides they'll do.
 
 > **Drop it in.** Merrow's Rest belongs to no setting. Put it wherever a road needs a place to bury its dead: a crossroads chapel on a pilgrim or trade road, the mortuary chapel of a remote abbey, the paupers' field outside a city wall, a cemetery on an old battlefield, or the chapel of a mining town, where the crawls meet the old workings. Saint Merrow can be any patron of the dead in your setting, and the urn's ash works the same either way.
+
+### How Will You Play?
+> [!tip] How Will You Play?
+> - **Short on time (3 hours):** skip the burial register and the kitchen fight (E3); no Wandering Husks rolls; Ossian flees at 60 hp.
+> - **Long session (5 hours):** run the bonus objective in full, roll for Wandering Husks at every rest, and play Pell at the lychgate before and after.
+> - **Combat-heavy table:** keep all four set fights at full strength and roll Wandering Husks honestly. That's the avoidable problem.
+> - **Roleplay-heavy table:** open up the welcome and Harrow's truth; cut the Bone Gallery fight to a single crawler that drags someone off.
+> - **Streamed:** use the Stream Twists table, once per scene.
 
 ## Rumors (d6)
 | d6 | Rumor | True? |
@@ -73,7 +90,7 @@ Full write-up (history of the place, the building and its denizens): [[Merrow's 
 Full write-up (the man, the thing wearing him, manner, wants, lines): [[Brother Ossian]].
 
 ## Adventure Outline
-| Scene | Budget | Core output |
+| Scene | Estimated duration | Core output |
 |---|---|---|
 | [[Scene 01 — The Grateful Mortician]] | 60 min | The job, the advance, three or more clues; the Graveyard Rising |
 | [[Scene 02 — The Catacombs]] | 75 min | Crawlers, the kitchen, the ledger, Old Tam's warning, doors barred from the outside |
@@ -115,6 +132,11 @@ With 5 PCs, a wandering fight puts the day over budget, so skip the roll or let 
 - **On the chute ledge**, what he took from forty years of burials: 900 gp in rings, buckles and eye-coins, plus a *cloak of protection*, a *periapt of wound closure*, 2 *potions of greater healing*, and a *spell scroll of* [[Gravecure|gravecure]].
 - **[[The Urn of Saint Merrow]]** (wondrous item, uncommon).
 
+### Story Award, Bonus Objective and Ritterstadt Play
+- **Story award:** [[SP-OP01 — Story Award — He Remembers Your Face|He Remembers Your Face]] (if Ossian escapes).
+- **Bonus objective:** [[SP-OP01 — Bonus Objective — Pell's Mother|Pell's Mother]]: 50 gp from Pell and inspiration.
+- **Greyhawk University (Ritterstadt) rules:** 700 credits each, extra credit and Buy-Back values in [[SP-OP01 — Ritterstadt Rewards]].
+
 ## Running It at Other Levels
 | | APL 5 (levels 4–6) | APL 9 (levels 8–10) |
 |---|---|---|
@@ -146,13 +168,15 @@ Even if Ossian dies, Harrow knows one more thing: "He came up the crawls. He sai
 - [[SP-OP01 — Handout — The Notice]] (the hook)
 - [[SP-OP01 — Handout — The Burial Register]] (Scene 01)
 - [[SP-OP01 — Handout — The Larder Ledger]] (Scene 02, C2)
+- [[SP-OP01 — Handout — Ossian's Sketch]] (Scene 01, the send-off: an in-world map)
 
 ## Spell
 - [[Gravecure]] (3rd-level necromancy)
 
 ## Key NPCs
-- [[Brother Ossian]]: the drunaghul, posing as the chapel's keeper.
-- [[Sexton Harrow]]: the wight who speaks for the larder.
+- [[Brother Ossian]] (NE drunaghul **Brother Ossian (Drunaghul)**): posing as the chapel's keeper.
+- [[Sexton Harrow]] (LN male human **wight**): speaks for the larder.
+- Pronunciations, Personality / Ideal / Bond / Flaw for everyone: [[SP-OP01 — Appendix — NPC Summary]].
 - Old Tam, the Widow Brisk and the Collier twins are larder ghouls with no notes of their own; the real Brother Ossian and Pell Brisk are offstage and get no notes either.
 
 ## Key Locations
@@ -161,6 +185,20 @@ Even if Ossian dies, Harrow knows one more thing: "He came up the crawls. He sai
 ## Continuity
 - **Opens:** *The face on the road* — if Ossian escapes, he resurfaces as another grateful caretaker.
 - **Closes:** everything else. Works as a one-and-done.
+
+## Appendices
+- [[SP-OP01 — Appendix — NPC Summary]]
+- [[SP-OP01 — Appendix — Adventure Flowchart]]
+- [[SP-OP01 — Bestiary]] · [[Gravecure]] · [[The Urn of Saint Merrow]]
+- Player handouts 1–4 (above)
+- [[SP-OP01 — Story Award — He Remembers Your Face]]
+- [[SP-OP01 — Bonus Objective — Pell's Mother]]
+- [[SP-OP01 — Ritterstadt Rewards]]
+
+## Credits
+**Design, development and editing:** Sidebar Press. **Cartography:** Sidebar Press (ink maps); battlemaps rendered with CharGen. **Handouts:** Sidebar Press (Canva; Ossian's sketch drawn in house). **The drunaghul:** an original Sidebar Press creature.
+
+> **Legal.** This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC, available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode. All other original material in this work is © Sidebar Press.
 
 ## Production
 - [[SP-OP01 — Map Assets]] (battlemap brief for the Saint's Ossuary)

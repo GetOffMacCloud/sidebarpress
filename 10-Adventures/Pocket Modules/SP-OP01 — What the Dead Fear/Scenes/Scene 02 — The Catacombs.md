@@ -13,14 +13,32 @@ session: 1
 
 [[10-Adventures/Pocket Modules/SP-OP01 — What the Dead Fear/Scenes/00 — Scene Index]] · ← [[Scene 01 — The Grateful Mortician]] · Next → [[Scene 03 — What the Dead Fear]]
 
+> [!info] Scene at a glance
+> **Estimated Duration:** 75 minutes. Running long? Cut C1 to one line and go straight to Old Tam.
+> **Location:** the catacombs under [[Merrow's Rest]], C1–C4.
+> **Prerequisites:** the party has gone down through the trapdoor (Scene 1).
+> **Objectives:** reach the iron doors; find the ledger; hear Old Tam. *Bonus:* find the Widow Brisk's empty niche in C3.
+
 ## Purpose
 Show the party that the dead are being kept and cured, and that something is afraid. They should reach the iron doors suspicious but not yet certain.
-**Budget:** 75 minutes. Running long? Cut C1 to one line and go straight to Old Tam.
 
 ## Arrival
 > *The stair ends in a long gallery of skulls stacked to the vaulted ceiling. Every skull faces the wall. Cold air moves past you, going down.*
 
 **To the table:** *"Who turns one of the skulls around?"*
+
+## Area Information
+- **Dimensions & Terrain:** C1 is a gallery 20 ft. wide and 60 ft. long with a 15-ft. vaulted ceiling. C2 is 35 × 30 ft. with a 10-ft. salt pit (3 ft. deep, difficult terrain). C3 is 35 × 30 ft. of urn niches. C4 is a 10-ft. passage running 80 ft. south and then 40 ft. east to the iron doors. Burial crawls (2 ft. wide) leave C3; only Small creatures fit without squeezing, and nothing Large fits at all.
+- **Lighting:** Darkness throughout. Nothing down here needs light.
+- **Sounds & smells:** Salt and clove over rot; drips; many quiet voices whispering *shh*.
+- **Ossian's sketch** (Handout 4) shows the stair, C1 as an *old passage*, C3, C4 and the ossuary. It leaves off C2 and its door, the crawls and the bone chute.
+
+## Creatures/NPCs
+**Ossuary crawlers** ([[Ossuary Crawler]]), **gibbering mouthers** and **cured hands** ([[Cured Hand]]): mindless and hungry; see the fights.
+
+**Old Tam** (N male human **ghoul**), in C3.
+- *Objectives/Goals:* get away; stay hidden.
+- *What does he know?* The brother comes when the doors open. The widow is with the sexton; they're all with the sexton.
 
 ## Beats
 **The ghouls never attack the party.** Only Ossian's mindless and monstrous things do. Play the ghouls like frightened animals, not monsters.
@@ -45,7 +63,7 @@ Show the party that the dead are being kept and cured, and that something is afr
 > | E3b | 5 | 3 gibbering mouthers + 8 cured hands | 4,290 | Medium |
 > | E3c | 6 | 4 gibbering mouthers + 8 cured hands | 4,700 | Medium |
 
-- **C3. The Columbarium.** Shelves of urn niches. **Old Tam**, a ghoul who was a cooper in life, is wedged in the mouth of a burial crawl. He doesn't attack. He shrieks "Not him, not him!" and squirms to get away. If the party stops and listens, he gasps, "Bar the door. From the outside. He comes when the doors open," and then he's gone. If they kill him, he dies pleading.
+- **C3. The Columbarium.** Shelves of urn niches. **Old Tam**, a ghoul who was a cooper in life, is wedged in the mouth of a burial crawl. He doesn't attack. He shrieks "Not him, not him!" and squirms to get away. If the party stops and listens, he gasps, "Bar the door. From the outside. He comes when the doors open," and then he's gone. If they kill him, he dies pleading. **The empty niche:** one niche is labeled BRISK and holds nothing but a few threads of blue silk. Survival DC 12: drag marks lead toward C4 (bonus objective).
 - **C4. The Iron Doors.** A pair of iron doors to the Saint's Ossuary, barred on *this* side with an oak beam. Deep gouges score the doors on the outside, eight feet up. There are none on the inside.
 
 ## Wandering Husks
@@ -67,9 +85,18 @@ Roll a d6 whenever the party rests, dawdles for 30 minutes, or makes a racket be
 | Old Tam's terror | The dead are prey, not predators |
 | Gouges on the outside, high up | The thing outside is big, and it wants in |
 
-## Alternates
+## Developments
 - **The party takes Tam's advice** and leaves the doors barred. Ossian, watching from the chute, sighs and comes for them in C4 instead: run Scene 3's fight in the corridor (no sarcophagi; the bone shelves and the channel still apply), with the larder undead pounding on the inside of the doors.
 - **The party burns the ledger or the limbs.** Ossian feels it. He's no longer patient: the trap springs as soon as the doors open.
+- **The party rests down here.** That's the avoidable problem: roll for Wandering Husks. Tell them the bells upstairs are ringing.
+- **The party goes back up to confront Ossian.** He's in the nave, delighted to see them. Run Scene 1's *Unmasked early*.
+
+## Treasure & Rewards
+- **The larder ledger** (Handout 3), the evidence that matters.
+- Nothing else of value: Ossian has already picked the catacombs clean. His hoard is on the chute ledge (Scene 3).
+
+> [!example] Playing the Pillars
+> **Combat:** two Medium fights in a row; the crawlers' paralysis and drag is the real threat, so let a dragged PC disappear into the dark for a round. **Exploration:** the slime trail, the missing door on Ossian's map and the gouges on the doors each tell the party something. **Social:** Old Tam is the only conversation down here; he only talks to someone who stops chasing him.
 
 ## Sensory Palette
 Salt and clove over rot. Linen. Drips. Somewhere ahead, many quiet voices whispering one word over and over: *shh*.

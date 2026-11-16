@@ -24,6 +24,19 @@ The monthly **Sidebar Press Pocket Module**: one session, setting-agnostic, 2014
 - **Maps:** one painted CharGen battlemap per fight area (built from an ink layout reference), an ink DM map of the climax, and an ink site key.
 - **Build:** vault notes, then the Claude doc for the post, then an FGU module from `FGU Kit/build/module.py`.
 
+## House template (adopted 2026-11-16)
+Templates: `90-Templates/Pocket-Module.md` (module) and `90-Templates/Pocket-Module-Scene.md` (scenes). Adopted from a review of the Adventurers League house style (ELW-01 *Murder in Skyway*, ELW-02 *The Boromar Ball*). Every Pocket Module now carries:
+- **Front matter:** APL, **tier**, estimated duration; **Story Objective** and **Bonus Objective**; an **adventure flowchart**; a **How Will You Play?** box (short session, long session, combat-heavy, roleplay-heavy, streamed).
+- **Scene header block:** Estimated Duration · Location · Prerequisites · Objectives.
+- **Area Information:** Dimensions & Terrain · Lighting · sounds and smells.
+- **Creatures/NPCs:** each with *Objectives/Goals* and *What do they know?*; inline notation **Name** (alignment sex race **statblock**).
+- **Developments**, **Treasure & Rewards**, and a **Playing the Pillars** box (Combat / Exploration / Social) in every scene.
+- **Appendices:** NPC Summary (pronunciation; Personality / Ideal / Bond / Flaw), Adventure Flowchart, Bestiary, Spell, Item, maps, player handouts (one in-world map handout where the story allows).
+- **A Story Award** and **a Bonus Objective**, each in its own note.
+- **A Ritterstadt Rewards note** for Greyhawk University play: APL × 100 credits each, outcome percentages, extra credit, lead credits, Buy-Back values, a Loadout Package. Rules: [[The Tuition & Leveling Table]] (rule set 2026-11-16).
+- **Credits & legal** block with the SRD 5.1 CC-BY-4.0 attribution.
+- Not adopted: AL's "weak/strong party" boxes (our 4 / 5 / 6 PC encounter tables cover it) and AL downtime/renown (not used here).
+
 ## Modules
 ```dataview
 TABLE WITHOUT ID
@@ -38,7 +51,7 @@ SORT adventure ASC
 
 | Code | Title | Post | Levels | Status |
 |---|---|---|---|---|
-| OP1 / SP-OP01 | [[SP-OP01-What-the-Dead-Fear\|What the Dead Fear]] | November 2026 | 6–8 (APL 7) | draft; maps done |
+| OP1 / SP-OP01 | [[SP-OP01-What-the-Dead-Fear\|What the Dead Fear]] | November 2026 | 6–8 (APL 7) | draft; maps done; house template applied |
 
 ## Open threads
 - OP1's **Ossian escapes** ending opens *The face on the road*: a possible OP2 seed.

@@ -13,7 +13,7 @@ FG=os.environ.get('FG_DIR',os.path.expanduser('~/mnt/Fantasy Grounds'))
 CODE='SP-OP01'; NAME='SP-OP01 What the Dead Fear'; DISPLAY='SP-OP01 — What the Dead Fear'
 SRC=ADV; ASSETS=os.path.join(VAULT,'99-Assets',CODE); TEXT_MAP={}
 fgconv.STRIP=[CODE+' — ']
-fgconv.NAMES={'SP-OP01 — Handout — The Notice':'Handout 1: The Notice','SP-OP01 — Handout — The Burial Register':'Handout 2: The Burial Register','SP-OP01 — Handout — The Larder Ledger':'Handout 3: The Larder Ledger','Gravecure':'Spell: Gravecure',CODE+'-What-the-Dead-Fear':'Concluding the Adventure','Brother Ossian':'Brother Ossian (Drunaghul)'}
+fgconv.NAMES={'SP-OP01 — Handout — The Notice':'Handout 1: The Notice','SP-OP01 — Handout — The Burial Register':'Handout 2: The Burial Register','SP-OP01 — Handout — The Larder Ledger':'Handout 3: The Larder Ledger','Gravecure':'Spell: Gravecure',CODE+'-What-the-Dead-Fear':'Concluding the Adventure','Brother Ossian':'Brother Ossian (Drunaghul)',"SP-OP01 — Handout — Ossian's Sketch":"Handout 4: Ossian's Sketch",'SP-OP01 — Appendix — NPC Summary':'Appendix: NPC Summary','SP-OP01 — Appendix — Adventure Flowchart':'Appendix: Adventure Flowchart','SP-OP01 — Story Award — He Remembers Your Face':'Story Award: He Remembers Your Face',"SP-OP01 — Bonus Objective — Pell's Mother":"Bonus Objective: Pell's Mother",'SP-OP01 — Ritterstadt Rewards':'Ritterstadt Rewards'}
 FIX=[(r'See <b>?Concluding the Adventure</b>?\.?',''),(r'<p>Back to [^<]*</p>',''),(r' with no notes of their own; the real .*?either\.',' (Scene 3).'),(r'are sub-sites of the one note','are its areas'),(r'The FGU Import block in Brother Ossian \(Drunaghul\) \(the one source the module build reads\)','the Brother Ossian NPC record')]
 # ---------------------------
 WORK=os.path.expanduser(os.environ.get('FG_WORK','~/work/fgu')+'/'+CODE); FLAT=WORK+'-src'; os.makedirs(FLAT,exist_ok=True)
@@ -34,6 +34,9 @@ def C(t):
     for a,b in FIX: x=re.sub(a,b,x)
     return x
 def fullnote(p): return re.sub(r'^# .*\n','',body(p).lstrip(),count=1)
+def clean(t): return re.sub(r'```mermaid.*?```','',re.sub(r'!\[\[[^\]]*\]\]\n?','',t),flags=re.S)
+APX=lambda n: os.path.join(SRC,n+'.md')
+TITLE=lambda f: re.search(r'^title: "(.*)"',open(f).read(),re.M).group(1)
 M=sections(body(MAIN))
 pick=lambda S,*n: '\n'.join('## %s\n%s'%(x,S[x]) for x in n if x in S)
 has=lambda k: k in m.IMG
@@ -125,11 +128,11 @@ B3=[m.B(c) for c in ('E4a','E4b','E4c')]+[m.B('L4')]
 BX=lambda p:[m.B(p+x) for x in 'abc']
 for x in (CODE+' — Bestiary',CODE+' — Map Assets',CODE+' — Art Brief',CODE+' — Board','Build-Pipeline'): fgconv.SEEN.append(x)
 cover=['cover'] if has('cover') else []
-m.page(I1,'Cover','<p><b>APL 7 (levels 6–8) · 4–6 characters · one 4-hour session</b></p><p><i>The mortician thanks you for coming. He thanks you for everything. He never once blinks.</i></p><p>OP1 · A Sidebar Press Pocket Module · November 2026. Setting-agnostic.</p>',images=cover)
+m.page(I1,'Cover','<p><b>APL 7 (levels 6–8) · Tier 2 · 4–6 characters · one 4-hour session</b></p><p><i>The mortician thanks you for coming. He thanks you for everything. He never once blinks.</i></p><p>OP1 · A Sidebar Press Pocket Module · November 2026. Setting-agnostic.</p>',images=cover)
 HOWTO=('<h>How to Use This Module</h><p>The whole adventure, in order of play: three scenes, then the ending. Every fight (E1–E4) has ready-made combat tracker entries for 4, 5 and 6 PCs; W1–W3 are the Wandering Husks (all Hard). The boss fight '
  'also has a <b>Larder</b> entry (Harrow and four ghouls, set to neutral) to add alongside. Every statblock is in the NPC list; the Urn is in Items.</p>'
  '<p><b>Boxed text:</b> read it as written or paraphrase it, but keep every clue. Stats are 2014 5e.</p>')
-m.page(I1,'Credits & How to Use','<p><b>What the Dead Fear</b> · %s · Sidebar Press. Statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0). The drunaghul statblock is original to Sidebar Press.</p>'%CODE+HOWTO+C(pick(M,'Design Frame')))
+m.page(I1,'Credits & How to Use','<p><b>What the Dead Fear</b> · %s · Sidebar Press. Statblocks marked SRD are from the 5E SRD 5.1 (CC-BY-4.0). The drunaghul statblock is original to Sidebar Press.</p>'%CODE+HOWTO+C(pick(M,'Design Frame','Credits')))
 m.page(I1,'Background & Hooks',C(pick(M,'Background','Hooks')))
 m.page(I1,'Rumors',C(pick(M,'Rumors (d6)')))
 m.page(I1,"Merrow's Rest",C(fullnote(os.path.join(VAULT,'40-Locations',"Merrow's Rest.md")).split('## Adventure Use')[0]))
@@ -148,6 +151,11 @@ m.page(AP,'Sequel Seed',C(pick(M,'Sequel Seed: The Face on the Road')))
 for _t in ('The Notice','The Burial Register','The Larder Ledger'):
     _h=os.path.join(SRC,'SP-OP01 — Handout — %s.md'%_t); _hi=[i for i in ('handout-'+_t.lower().replace(' ','-').replace('the-',''),) if has(i)]
     m.page(AP,re.search(r'^title: "(.*)"',open(_h).read(),re.M).group(1),C(fullnote(_h)),images=_hi,place={k:'$end' for k in _hi})
+_h=APX("SP-OP01 — Handout — Ossian's Sketch"); _hi=[i for i in ('handout-ossians-sketch',) if has(i)]
+m.page(AP,TITLE(_h),C(clean(fullnote(_h)).split('## Production')[0]),images=_hi,place={k:'## What It Shows' for k in _hi} if False else {})
+for _n,_imgs in (('SP-OP01 — Appendix — NPC Summary',[]),('SP-OP01 — Appendix — Adventure Flowchart',['flowchart']),("SP-OP01 — Bonus Objective — Pell's Mother",[]),('SP-OP01 — Story Award — He Remembers Your Face',[]),('SP-OP01 — Ritterstadt Rewards',[])):
+    _f=APX(_n); _i=[i for i in _imgs if has(i)]
+    m.page(AP,TITLE(_f),C(clean(fullnote(_f))),images=_i)
 m.page(AP,'The Urn of Saint Merrow',C(fullnote(UP).split('## Continuity')[0]),links=[m.IT('urn')])
 # ---- build ----
 m.LINT=[r'SP-OP01-What',r'SP-OP01 — (Bestiary|Board|Map|Art)',r'FGU Import',r'30-NPCs']

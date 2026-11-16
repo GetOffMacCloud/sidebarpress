@@ -103,28 +103,26 @@ GUARD=dict(traits=[('Antimagic Susceptibility',"The guardian is incapacitated wh
   actions=[('Bite','Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the guardian can\'t bite another target.'),('Tail Sweep (Recharge 5-6)','Each creature within 10 feet of the guardian must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (1d8 + 3) bludgeoning damage and is knocked prone. On a success, it takes half as much damage and isn\'t knocked prone.')],
   immunities='poison, psychic')
 PIKE='The Archive Pike (A5), a stuffed lake pike on its board. Watchword: "by leave of the Registrar." It blocks the grille gate and bites the bearer of the coffer, dragging them toward its board. The fight is a Heat clock, not a killer: each round is +1 Heat. Remind the table that the watchword exists.'
-for key,name,hp,hd,txt in (('archivepike','Archive Pike (Trophy Guardian)',52,'(7d10 + 14)',PIKE),('archivepike2','Archive Pike, APL 2 (Trophy Guardian)',25,'(7d10 + 14; reduced)',PIKE+' APL 2 version: 25 hp.'),('lakegar','Lake Gar (Trophy Guardian)',52,'(7d10 + 14)','APL 4 only: a matched lake gar on the next board wakes with the pike. Same watchword.')):
+for key,name,hp,hd,txt in (('archivepike','Archive Pike (Trophy Guardian)',52,'(7d10 + 14)',PIKE),('lakegar','Lake Gar (Trophy Guardian)',52,'(7d10 + 14)','APL 4 only: a matched lake gar on the next board wakes with the pike. Same watchword.')):
     m.npc(key,name,'Large','construct','unaligned',14,'(natural armor)',hp,hd,'15 ft., swim 40 ft.',[16,8,14,1,5,1],'1',200,'blindsight 60 ft. (blind beyond this radius), passive Perception 7','-',**GUARD,text=txt)
     addf(key,conditionimmunities='blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned')
 m.npc('probationer','Gate-Rota Probationer (Enforcer Minion)','Medium','humanoid (any race)','any alignment',15,'(padded jack, shield)',1,'(minion)','30 ft.',[13,12,12,10,11,10],'3',175,'passive Perception 10','Common',
   traits=[MIN],actions=[('Bog Pole','Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 7 bludgeoning damage. The Probationer can choose to deal no damage and instead push the target 5 feet.')],reactions=[INTERPOSE],token_from='gaterota',
-  text='Optional minion pack (Scene 05), for when the gate rota turns out in force (Alert). Enforcer Minion template, APL 3; every four count as one creature for the multiplier. Other APLs: APL 2 AC 15, +3, DC 13, 5 damage, 112 XP; APL 4 AC 16, +5, DC 14, 9 damage, 275 XP. CAUTION: they are students. They fight to hold, never to kill; a PC who kills one has ended their career.')
+  text='Optional minion pack (Scene 05), for when the gate rota turns out in force (Alert). Enforcer Minion template, APL 3; every four count as one creature for the multiplier. APL 4: AC 16, +5, DC 14, 9 damage, 275 XP. CAUTION: they are students. They fight to hold, never to kill; a PC who kills one has ended their career.')
 m.npc('bargemanminion','Hecht Bargeman (Enforcer Minion)','Medium','humanoid (human)','any alignment',15,'(leather jerkin, cargo hook)',1,'(minion)','30 ft., swim 30 ft.',[13,12,14,10,8,10],'3',175,'passive Perception 9','Common',
   traits=[MIN,('Tether-Bound','If the bargeman starts its turn within 30 feet of the unboxed Gaoler\'s Link, it is incapacitated until the end of its turn and then stops fighting.')],
   actions=[('Cargo Hook','Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 7 piercing damage.')],reactions=[INTERPOSE],token_from='weil',
-  text="Optional minion pack (Scenes 06-07), for when the Hecht's other bargemen pile in at Alert. Enforcer Minion template, APL 3. Other APLs: APL 2 AC 15, +3, DC 13, 5 damage, 112 XP; APL 4 AC 16, +5, DC 14, 9 damage, 275 XP. CAUTION: tethered innocents; each drops out within 30 ft. of the unboxed Link, and the party should be told.")
+  text="Optional minion pack (Scenes 06-07), for when the Hecht's other bargemen pile in at Alert. Enforcer Minion template, APL 3. APL 4: AC 16, +5, DC 14, 9 damage, 275 XP. CAUTION: tethered innocents; each drops out within 30 ft. of the unboxed Link, and the party should be told.")
 addf('bargemanminion',conditionimmunities='frightened')
-for k,sl in (('vesharan','dawud-vesharan'),('snick','snick'),('sleeper','hecht-bargeman'),('bargemanminion','hecht-bargeman'),('tegin','tegin'),('brandmeier','ottokar-brandmeier'),('ruder','jobst-ruder'),('gaterota','mathias-grell'),('probationer','gate-rota-probationer'),('archivepike','archive-pike'),('archivepike2','archive-pike'),('lakegar','lake-gar')): settok(k,sl)
-# ---- encounters (one per APL band; scenes give APL 2/3/4 rows) ----
+for k,sl in (('vesharan','dawud-vesharan'),('snick','snick'),('sleeper','hecht-bargeman'),('bargemanminion','hecht-bargeman'),('tegin','tegin'),('brandmeier','ottokar-brandmeier'),('ruder','jobst-ruder'),('gaterota','mathias-grell'),('probationer','gate-rota-probationer'),('archivepike','archive-pike'),('lakegar','lake-gar')): settok(k,sl)
+# ---- encounters (one per APL band; scenes give APL 3/4 rows) ----
 MAP=lambda k: next((x for x in sorted(m.IMG) if x.startswith(k) and 'dm' not in x.split('-')),None)
-m.battle('E5a','05 The Archive Pike (APL 2)',[('archivepike2',1)],MAP('battlemap-archive'))
 m.battle('E5b','05 The Archive Pike (APL 3)',[('archivepike',1)],MAP('battlemap-archive'))
 m.battle('E5c','05 The Archive Pike (APL 4)',[('archivepike',1),('lakegar',1)],MAP('battlemap-archive'))
 m.battle('E5d','05 Caught by the Gate Rota (nonlethal)',[('gaterota',3)],MAP('battlemap-archive'))
-m.battle('E6a','06 The Handover (APL 2)',[('vesharan',1),('sleeper',1),('snick',1)],MAP('battlemap-hecht-1'))
 m.battle('E6b','06 The Handover (APL 3)',[('vesharan',1),('snick',1),('sleeper',2)],MAP('battlemap-hecht-1'))
 m.battle('E6c','06 The Handover (APL 4)',[('vesharan',1),('snick',1),('sleeper',2),('tegin',1)],MAP('battlemap-hecht-1'))
-m.battle('E7a','07 The Hold (APL 2-3)',[('sleeper',2)],MAP('battlemap-hecht-3'))
+m.battle('E7a','07 The Hold (APL 3)',[('sleeper',2)],MAP('battlemap-hecht-3'))
 m.battle('E7b','07 The Hold (APL 4)',[('sleeper',2),('tegin',1)],MAP('battlemap-hecht-3'))
 m.battle('M5','Optional - 05 Gate-Rota Probationer minion pack',[('probationer',4)],MAP('battlemap-archive'))
 m.battle('M6','Optional - 06-07 Hecht Bargeman minion pack',[('bargemanminion',4)],MAP('battlemap-hecht-1'))
@@ -148,8 +146,8 @@ m.page(I1,'Running the Adventure',conv(xpick('Run Sheet','Spotlight Check','Stan
 m.page(I1,'Encounter Summary',conv(pick('Encounters')),links=[m.B(c) for c in m.BAT])
 LK={0:[m.N('brandmeier'),m.N('vesharan'),m.N('snick')],1:[m.N('brandmeier'),m.N('vesharan')],2:[m.N('snick'),m.N('ruder'),m.N('tegin'),m.IT('omentaper')],
     3:[m.N('archivepike'),m.IT('gaolerslink'),m.I('item-gaolers-link')],
-    4:[m.B(c) for c in ('E5a','E5b','E5c','E5d','M5')]+[m.N(k) for k in ('archivepike','lakegar','gaterota','weil','probationer')]+[m.IT('gaolerslink')],
-    5:[m.B(c) for c in ('E6a','E6b','E6c','M6')]+[m.N(k) for k in ('vesharan','snick','sleeper','tegin','bargemanminion')]+[m.IT(k) for k in ('ashbox','gaolerslink','bonetether','waterbreathing')],
+    4:[m.B(c) for c in ('E5b','E5c','E5d','M5')]+[m.N(k) for k in ('archivepike','lakegar','gaterota','weil','probationer')]+[m.IT('gaolerslink')],
+    5:[m.B(c) for c in ('E6b','E6c','M6')]+[m.N(k) for k in ('vesharan','snick','sleeper','tegin','bargemanminion')]+[m.IT(k) for k in ('ashbox','gaolerslink','bonetether','waterbreathing')],
     6:[m.B(c) for c in ('E7a','E7b','M6')]+[m.N(k) for k in ('sleeper','tegin','ruder','vesharan','brandmeier')]+[m.IT('bonetether'),m.IT('ashbox')],
     7:[m.IT('rubbingofthesix'),m.IT('omentaper'),m.N('vesharan')]}
 ACT={0:A1,1:A1,2:A2,3:A2,4:A3,5:A4,6:A4,7:A4}
