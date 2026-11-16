@@ -114,7 +114,7 @@ When The Price of Power is running, a [[Wizard — School of Cruormancy|cruorman
 - Every point of **Stain** the school would give you is **1 Corruption** instead. That includes 1 per leveled cruormancy spell and 2 for each use of *Red Apotheosis*.
 - The Price of Power's stages, Marks, and Paying It Down replace the Stain stages and Scouring Stain. **Blood Debt** still works, and it removes 1d4 Corruption.
 - A cruormancer opens the door with their first leveled cruormancy spell, so most will be bargaining by their second session.
-- Everything else in the school is unchanged: the Blood (B) component, creatures with blood, Proscribed spells, and the features.
+- Everything else in the school is unchanged: the Blood (B) component, creatures with blood, the Codex and its morning bleed, and the features.
 
 ---
 

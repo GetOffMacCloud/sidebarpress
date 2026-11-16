@@ -11,6 +11,7 @@ status: drafted
 publish: false
 origin: "A Tourist In Greyhawk — 03. Mechanics/House Rules/Cruormancy.md (2026-10-20 revision)"
 merged: 2026-11-15
+revised: 2026-11-16
 aliases: [Cruormancy, Cruormancer, School of Cruormancy]
 tags: [subclass, wizard, homebrew, magic, blood-magic, forbidden, cruormancy]
 ---
@@ -22,10 +23,10 @@ tags: [subclass, wizard, homebrew, magic, blood-magic, forbidden, cruormancy]
 Cruormancy (from Old Suloise *cruor*, "spilled blood") is magic that reaches into a living body and turns its blood against it — boiling it, clotting it, tearing it out through the skin. It has no wards, no divinations, no healing. Every spell in the school is an attack, and every spell is paid for in the caster's own blood.
 
 > [!summary] At a glance
-> A **ninth school of magic**, wizard-only · Every leveled spell carries a **Blood (B) component** paid in hit points · Only affects **creatures with blood** · Casting it leaves a **Stain** that deepens toward damnation · Spells are **Proscribed**: they can't be taken as level-up picks except by a **School of Cruormancy** wizard.
+> A **ninth school of magic**, wizard-only · Every leveled spell carries a **Blood (B) component** paid in hit points · Only affects **creatures with blood** · Casting it leaves a **Stain** that deepens toward damnation · Spells exist only in a **Hemotheurgical Codex**, appear as you gain levels, and must be fed your blood each morning · You can always be found.
 
 > [!info] Rules base
-> **2014 Player's Handbook.** The school works on its own at any 2014 table. Hooks into the A Tourist In Greyhawk house rules (Gygaxian Magic and Spell Strain) and the optional [[The Price of Power]] corruption track are collected under *At Your Table* below. A player cruormancer requires DM approval.
+> **2014 Player's Handbook.** The school works on its own at any 2014 table. Hooks into the A Tourist In Greyhawk house rules (Gygaxian Magic and Spell Strain) and the optional [[The Price of Power]] corruption track are collected under *At Your Table* below. The rules every blood school shares (the Codex, the morning bleed, the lineage) are in [[The Schools of Blood Magic]]. A player cruormancer requires DM approval.
 
 ---
 
@@ -41,15 +42,17 @@ Cruormancy was a war-art of the **Suel Imperium**, practiced by blood-sorcerers 
 - **The Old One's court** in Dorakaa is not squeamish. Neither are the priests of **[[Nerull]]**. That's where a cruormancer finds shelter, and where a DM finds the recruiter.
 - **The Scarlet Brotherhood** claims the Suel inheritance. Whether it holds true cruormantic texts is a secret the Brotherhood would kill to keep, either way.
 
-### Named Sources
+### The Lost Grimoires
 
-Cruormancy spells are **Proscribed** (see *Rules of the School*). Their Named Sources are the surviving Suloise grimoires and every copy made from them:
+The art no longer passes through books anyone can buy or steal. It passes from **master to apprentice**, one at a time, and every spell lives in its owner's **Hemotheurgical Codex** (see [[The Schools of Blood Magic]]). Still, a few older texts survive, and rumor of them drives cruormancers and their hunters alike:
 
-| Source | Contents | Notes |
+| Grimoire | Rumored contents | Notes |
 |---|---|---|
-| ***The Vermilion Codex*** | Cantrips – 3rd | The "primer." Several partial copies are known. Every one is coded, and at least one is a trap. |
+| ***The Vermilion Codex*** | Cantrips – 3rd | The "primer." Fragments are known. Every one is coded, and at least one is a trap. |
 | ***The Lament of House Neheli*** | 4th – 6th | A family grimoire written as a funeral dirge. The spells are hidden in the verses. |
-| ***The Red Testament*** | 7th – 9th | Believed destroyed. Its absence is the rumor that drives most cruormancers. |
+| ***The Red Testament*** | 7th – 9th | Believed destroyed. It isn't. |
+
+These are quest objects, not spell sources. No wizard learns a cruormancy spell by copying one.
 
 ---
 
@@ -57,13 +60,15 @@ Cruormancy spells are **Proscribed** (see *Rules of the School*). Their Named So
 
 ### Wizard Only
 
-Cruormancy spells are on the **wizard spell list and no other**, and no feature or effect outside the wizard class grants access to them. That includes *Magical Secrets*, *Magic Initiate*, *Spell Sniper*, *Pact of the Tome*, racial spellcasting, and any "choose a spell from any class list" effect. Only a wizard can cast a cruormancy spell from a scroll. Anyone else who tries fails automatically and takes the spell's Blood cost anyway.
+Cruormancy spells exist only in a cruormancer's **Hemotheurgical Codex**. No other class, feature, or effect grants them, including *Magical Secrets*, *Magic Initiate*, *Spell Sniper*, *Pact of the Tome*, racial spellcasting, and any "choose a spell from any class list" effect. They can't be copied, scribed onto scrolls, or found as loot.
 
-### Proscribed Spells
+### The Codex and the Morning Bleed
 
-- A wizard **can't choose a cruormancy spell** as one of the free spells gained on reaching a new wizard level, unless the wizard follows the **School of Cruormancy** (see *Cruormancy Savant*).
-- Otherwise, cruormancy spells come only from a **Named Source** (table above): copied from it, taught by someone who knows the spell, reconstructed from fragments, or stolen.
-- Every cruormantic text is **coded**. Copying a spell from a text you didn't write takes an extra **day per spell level** and a **DC 15 Intelligence (Arcana)** check, unless you study it under *comprehend languages*.
+The full rules are in [[The Schools of Blood Magic]]. In short:
+
+- New cruormancy spells **appear in your Codex** as you gain levels (see *Hemotheurgical Codex*, below). There is no other way to learn them.
+- The Codex reveals a spell only on a day you've **bled for it** (see *Sanguine Offering*, below), and it accepts only **your** blood.
+- The Codex can't be copied, not even by you. If it's lost, you get it back or you die.
 
 ### Creatures with Blood
 
@@ -113,31 +118,44 @@ Stain doesn't fade on its own, and nothing removes it cheaply. **Once you reach 
 
 > *"Every wizard bleeds for their art eventually. We simply stopped pretending otherwise."*
 
-A cruormancer has learned that the most direct way to unmake a living thing is through the blood already inside it. Nobody enters this tradition by accident. It is chosen in a locked room, over a stolen book, by someone who has decided that power is worth being hunted for. These wizards are relentlessly offensive. They have no tricks for defending themselves and no way out of a fight except through the enemy.
+A cruormancer has learned that the most direct way to unmake a living thing is through the blood already inside it. Nobody enters this tradition by accident. It is chosen in a locked room, over a book a master has just placed in your hands, by someone who has decided that power is worth being hunted for. These wizards are relentlessly offensive. They have no tricks for defending themselves and no way out of a fight except through the enemy.
 
 | Wizard Level | Feature |
 |---|---|
-| 2nd | Cruormancy Savant, Sanguine Offering |
+| 2nd | Hemotheurgical Codex, Sanguine Offering, Open the Vein |
 | 6th | Scent of the Wound |
 | 10th | Crimson Harvest |
 | 14th | Red Apotheosis |
 
-### Cruormancy Savant
+### Hemotheurgical Codex
 *2nd-level School of Cruormancy feature*
 
-Beginning when you select this school at 2nd level, the gold and time you must spend to copy a cruormancy spell into your spellbook is **halved**. You also ignore any Arcana check for copying from a partial or damaged cruormantic source, though you still pay the coding cost for texts that belong to someone else.
+When you choose this school at 2nd level, your master places a **Hemotheurgical Codex** in your hands: a second spellbook, bound to your blood, that holds your cruormancy spells. It contains one **cruormancy cantrip** of your choice (which you know, and which doesn't count against the number of wizard cantrips you know) and both **1st-level cruormancy spells**.
 
-In addition, you are the one wizard who can choose **Proscribed** cruormancy spells when you add spells to your spellbook on gaining a wizard level. You also learn one **cruormancy cantrip** of your choice, which doesn't count against the number of wizard cantrips you know. Your master left you that much before you left them.
+Whenever you gain a wizard level that lets you prepare spells of a new level, **every cruormancy spell of that level appears in your Codex**, written in your blood. These spells are in addition to the spells you add to your ordinary spellbook for gaining a level. Whenever you would learn a new wizard cantrip, you can choose the other cruormancy cantrip.
+
+You prepare cruormancy spells from your Codex as part of your normal list of prepared wizard spells.
 
 ### Sanguine Offering
+*2nd-level School of Cruormancy feature*
+
+Your Codex is blank until you feed it. Each day, when you prepare your wizard spells, you bleed onto the pages of the cruormancy spells you want to prepare. You **lose hit points equal to the total spell levels** of the cruormancy spells you prepare that day (cantrips cost nothing). This loss can't be reduced or prevented, and it isn't damage. You can recover the hit points normally, through rest or magical healing.
+
+A cruormancy spell you didn't bleed for stays blank, and you can't prepare it that day. You can't prepare a cruormancy spell if the loss would reduce you to 0 hit points. The Codex accepts only your blood.
+
+| Prepared cruormancy spells | Morning bleed |
+|---|---|
+| *boil blood* + *open vein* | 2 HP |
+| + *clot* + *crimson needles* | 6 HP |
+| + *sanguine burst* + *scarlet scourge* | 12 HP |
+| Every spell of 1st–9th level | 51 HP |
+
+### Open the Vein
 *2nd-level School of Cruormancy feature*
 
 Also at 2nd level, you can open your own veins to drive a spell deeper. When you cast a wizard spell of 1st level or higher that deals damage, you can expend **Hit Dice**, up to a number equal to your **proficiency bonus**, and roll them. You **lose hit points** equal to the total rolled, and one creature with blood that took damage from the spell takes **extra necrotic damage equal to the same total**. This hit point loss can't be reduced or prevented. If it reduces you to 0 hit points, you fall unconscious, but the extra damage is still dealt.
 
 You can use this feature only once per turn. It works with any wizard spell that deals damage, not only cruormancy spells.
-
-> [!note] Why Hit Dice
-> Hit Dice are the ammunition, and they're the resource that runs out in a dungeon. A cruormancer who spends them in the first fight will limp through every fight after it. That's the design.
 
 ### Scent of the Wound
 *6th-level School of Cruormancy feature*
@@ -159,8 +177,8 @@ At 10th level, the blood you spill flows back to you. You gain the following ben
 
 Starting at 14th level, you can use a bonus action to let the Stain take you. For **1 minute**, you gain the following benefits:
 
-- When you use Sanguine Offering, you roll the dice **without expending Hit Dice**. You still lose the hit points.
-- Necrotic damage you deal with wizard spells and Sanguine Offering **ignores resistance**, and creatures with blood that are immune to necrotic damage **take half damage** from it instead.
+- When you use Open the Vein, you roll the dice **without expending Hit Dice**. You still lose the hit points.
+- Necrotic damage you deal with wizard spells and Open the Vein **ignores resistance**, and creatures with blood that are immune to necrotic damage **take half damage** from it instead.
 - Once per turn, when you damage a bloodied creature with a cruormancy spell, it must succeed on a **Constitution saving throw** against your spell save DC or become **Bleeding** for up to 1 minute, taking **2d6 necrotic damage** at the start of each of its turns. It repeats the saving throw at the end of each of its turns, ending the Bleeding on a success.
 
 The transformation ends early if you are incapacitated or die, and you can end it early on your turn (no action required). Each time you use this feature, you gain **2 Stain**. Once you use it, you can't use it again until you finish a long rest.
@@ -169,7 +187,7 @@ The transformation ends early if you are incapacitated or die, and you can end i
 
 ## Spell List
 
-All cruormancy spells are wizard-only, affect only creatures with blood, and are Proscribed. Every leveled spell carries the B component.
+All cruormancy spells are wizard-only, affect only creatures with blood, and exist only in a cruormancer's Codex. Every leveled spell carries the B component.
 
 | Level | Spell | Range | Resolution | Base damage | Duration | |
 |---|---|---|---|---|---|---|
@@ -196,9 +214,9 @@ All cruormancy spells are wizard-only, affect only creatures with blood, and are
 ## At Your Table
 
 > [!tip] A Tourist In Greyhawk house rules
-> - **Gygaxian Magic.** Proscribed spells work like Signature Spells (Module 3), and coded texts use the Module 2 coding rule. Copying halves under Cruormancy Savant as written. Dial A (Twice and No More) applies normally: preparing *boil blood* twice doesn't let you cast it a third time.
+> - **Gygaxian Magic.** Cruormancy spells sit outside Modules 2 and 3 entirely: they can't be copied, coded, or found, and they never appear on the Signature Spell registry. Under Module 1, the morning bleed happens when you slot the spells. Dial A (Twice and No More) applies normally: preparing *boil blood* twice doesn't let you cast it a third time, and slotting it twice costs the bleed twice.
 > - **Spell Strain.** The Blood cost is separate and triggers nothing in Strain. A cruormancer pushing a high slot pays both prices.
-> - **Safe-haven long rests.** This is where Sanguine Offering's Hit Dice cost really bites. Don't soften it.
+> - **Safe-haven long rests.** This is where Open the Vein's Hit Dice cost and the morning bleed really bite. Don't soften them.
 > - **[[The Price of Power]].** If it's running at the table, each point of Stain becomes 1 Corruption and its track replaces the Stain track. Blood Debt still applies. Keep the school's other rules unchanged.
 
 ## DM Notes
@@ -207,7 +225,7 @@ All cruormancy spells are wizard-only, affect only creatures with blood, and are
 > Spell damage runs roughly **10–20% above** the 2014 DMG damage-by-level guidelines. That is paid for three ways: the **Blood cost**, the **creatures-with-blood** restriction (a crypt full of skeletons makes a cruormancer nearly useless), and the **Stain**. *Sanguine Burst* matches *fireball*'s damage but targets Constitution. None of the spells does anything except hurt.
 
 > [!warning] It's a villain's school first
-> A player cruormancer is a campaign commitment. The Stain track goes one direction, the Guild will come, and Wee Jas's inquisitors don't negotiate. Make sure the table wants that story before approving it for a PC. In NPC hands, a single *hemic puppetry* turns a party member against the others, and that makes for an unforgettable reveal.
+> A player cruormancer is a campaign commitment, and an apprentice in a lineage whose master has his own agenda (see [[The Blood Rite — DM Only]]). The Stain track goes one direction, the Guild will come, and Wee Jas's inquisitors don't negotiate. Make sure the table wants that story before approving it for a PC. In NPC hands, a single *hemic puppetry* turns a party member against the others, and that makes for an unforgettable reveal.
 
 ---
 
@@ -227,8 +245,14 @@ Merged 2026-11-15 from three copies in the A Tourist In Greyhawk vault:
 - Wee Jas and Nerull link to the Sidebar Press canon notes.
 - The spell list is a summary table (range, resolution, damage, duration) built from the 14 spell source notes.
 
+**Revision 2026-11-16 (blood magic rework):**
+- Spells are no longer copied or found. Named Sources became *The Lost Grimoires* (quest objects), and the Proscribed rules and the scroll rule were removed.
+- **Cruormancy Savant** was replaced by **Hemotheurgical Codex** (spells appear as you gain levels, on top of the normal free spells).
+- **Sanguine Offering** is now the morning bleed (HP equal to the total levels of prepared cruormancy spells). The old Hit Dice feature kept its rules and was renamed **Open the Vein**; Red Apotheosis now references it.
+- Shared rules moved to [[The Schools of Blood Magic]]; lineage and Progenitor lore to [[The Blood Rite — DM Only]].
+
 > [!question] Open decisions
-> - [ ] **Free 1st-level spell.** The older draft's Cruormancy Savant also added *one 1st-level cruormancy spell to your spellbook for free*. The current text dropped it. Kept dropped; restore it if that was accidental.
+> - [x] ~~**Free 1st-level spell.**~~ Superseded 2026-11-16: the Codex now gives both 1st-level spells.
 > - [ ] **The name.** "Cruormancy" is also a Pathfinder term (flagged in the Uplands canon review; SEED-18 uses "Ur-Flan blood necromancy"). Fine for the table, but decide before print.
 > - [ ] **Import the 14 spell notes** and assets into Sidebar Press, then link the spell table.
 > - [ ] Add to the "Cloud's Greyhawk Homebrew" FGU module.
