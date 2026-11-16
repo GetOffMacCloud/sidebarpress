@@ -20,6 +20,17 @@ PX, OX, PY, OY = cfg['PX'], cfg['OX'], cfg['PY'], cfg['OY']
 
 # ---- ink mask ----
 ink = (img < cfg.get('THRESH', 120)).astype(np.uint8)
+TINT = None
+if cfg.get('TINT_MASK'):
+    TINT = (cv2.imread(cfg['TINT_MASK'], 0) > 127).astype(np.uint8)
+    for _poly in cfg.get('TINT_POLYS', []):
+        cv2.fillPoly(TINT, [np.array(_poly, np.int32)], 1)
+    hard = (img < cfg.get('TINT_THRESH', 60)).astype(np.uint8)
+    ink = np.where(TINT == 1, hard, ink).astype(np.uint8)
+    # drop leftover screen dots inside the tint
+    n_, lab_, st_, _ = cv2.connectedComponentsWithStats(ink * TINT, 8)
+    small_ = np.zeros(n_, bool); small_[1:] = st_[1:, cv2.CC_STAT_AREA] < cfg.get('TINT_SPECK', 10)
+    ink[small_[lab_] & (TINT == 1)] = 0
 # remove printed grid: pixels on a grid line whose perpendicular neighbours (±3 px) are paper
 def clear_grid(ink):
     out = ink.copy()
@@ -39,11 +50,33 @@ def clear_grid(ink):
             out[yy, (ink[yy, :] == 1) & (u == 0) & (d == 0)] = 0
         k += 1
     return out
-ink = clear_grid(ink)
+GRIDDED = cfg.get('GRIDDED', True)
+FRAG = cfg.get('GRID_REMOVAL', 'full') == 'fragments'   # dark threshold already drops the grid; only clean fragments
+_ink0 = ink.copy()
+# strokes 3+ px wide are art, never grid (the printed grid is 1-2 px): find them BEFORE any removal
+_thick0 = cv2.morphologyEx(ink, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3)))
+_thick0 = cv2.dilate(_thick0, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))) & ink
+if GRIDDED and not FRAG: ink = clear_grid(ink) | (_thick0 if cfg.get('THICK_GUARD', False) else 0)
 # refined grid removal: locate each printed grid line's true position per cell span (the scan drifts
 # a few px off the fitted lattice), and clear only thin ink there; thick walls (survive a 3x3 open) stay
-_thick = cv2.morphologyEx(ink, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3)))
+_thick = _thick0 if cfg.get('THICK_GUARD', False) else cv2.morphologyEx(ink, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3)))
 _raw = (img < cfg.get('THRESH', 120)).astype(np.uint8)
+# ink that is not a grid-line candidate: used for the perpendicular (crossing-stroke) tests, so grid
+# intersections don't protect each other
+def _gridband():
+    G = np.zeros_like(_raw)
+    R_ = cfg.get('GRID_BAND', 3)
+    for k in range(int(W / PX) + 2):
+        x = int(round(OX + k * PX)); G[:, max(x - R_, 0):min(x + R_ + 1, W)] = 1
+    Gv = G.copy(); G[:] = 0
+    for j in range(int(H / PY) + 2):
+        y = int(round(OY + j * PY)); G[max(y - R_, 0):min(y + R_ + 1, H), :] = 1
+    return Gv, G
+_Gv, _Gh = _gridband()
+_thin = _raw & (1 - _thick)
+AGG = bool(cfg.get('AGGRESSIVE', False))   # with THICK_GUARD: clear every thin pixel on a located grid line
+_raw_nv = _raw & (1 - (_thin & _Gv))     # for horizontal-line tests: ignore thin ink on vertical grid bands
+_raw_nh = _raw & (1 - (_thin & _Gh))     # for vertical-line tests: ignore thin ink on horizontal grid bands
 def refine(ink):
     out = ink.copy()
     nx, ny = int(W / PX) + 2, int(H / PY) + 2
@@ -61,10 +94,12 @@ def refine(ink):
                     f = _raw[ya:yb, xx].mean()
                     if f > best: best, bx = f, xx
             if bx is not None and best >= 0.55:
+                y_a, y_b = (ya - 3 if ya >= 3 else 0), yb + 3
+                L = _raw_nh[y_a:y_b, max(bx - 3, 0)]; Rr = _raw_nh[y_a:y_b, min(bx + 3, W - 1)]
                 for xx in range(max(bx - 1, 0), min(bx + 2, W)):
-                    col = out[ya - 3 if ya >= 3 else 0:yb + 3, xx]
-                    th = _thick[ya - 3 if ya >= 3 else 0:yb + 3, xx]
-                    col[th == 0] = 0
+                    col = out[y_a:y_b, xx]
+                    th = _thick[y_a:y_b, xx]
+                    col[(th == 0) & (((L == 0) & (Rr == 0)) | AGG)] = 0
     for j in range(ny):
         y = OY + j * PY
         for k in range(-1, nx):
@@ -78,12 +113,40 @@ def refine(ink):
                     f = _raw[yy, xa:xb].mean()
                     if f > best: best, by = f, yy
             if by is not None and best >= 0.55:
+                x_a, x_b = (xa - 3 if xa >= 3 else 0), xb + 3
+                U_ = _raw_nv[max(by - 3, 0), x_a:x_b]; D_ = _raw_nv[min(by + 3, H - 1), x_a:x_b]
                 for yy in range(max(by - 1, 0), min(by + 2, H)):
-                    row = out[yy, xa - 3 if xa >= 3 else 0:xb + 3]
-                    th = _thick[yy, xa - 3 if xa >= 3 else 0:xb + 3]
-                    row[th == 0] = 0
+                    row = out[yy, x_a:x_b]
+                    th = _thick[yy, x_a:x_b]
+                    row[(th == 0) & (((U_ == 0) & (D_ == 0)) | AGG)] = 0
     return out
-ink = refine(ink)
+if GRIDDED and not FRAG: ink = refine(ink)
+if GRIDDED and FRAG and cfg.get('FRAG_REFINE'):
+    # second pass on the dark ink: clear grid-line pixels except 2-px-wide strokes (building outlines)
+    _d = cv2.blur((img < 120).astype(np.float32), (11, 11))
+    _p = (_d > cfg.get('FRAG_DENSE', 0.42)).astype(np.uint8)
+    _p = cv2.morphologyEx(_p, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5)))
+    _n, _l, _st, _ = cv2.connectedComponentsWithStats(_p, 8)
+    _k = np.zeros(_n, bool); _k[1:] = _st[1:, cv2.CC_STAT_AREA] >= cfg.get('AUTO_PROTECT_MIN', 220)
+    _keep2 = cv2.dilate(_k[_l].astype(np.uint8), cv2.getStructuringElement(cv2.MORPH_RECT, (cfg.get('FRAG_HALO', 9),) * 2))
+    if TINT is not None: _keep2[TINT == 1] = 0
+    globals()['_KEEP_ZONE'] = _keep2
+    ink = np.where(_keep2 == 1, ink, refine(clear_grid(ink))).astype(np.uint8)
+if GRIDDED and FRAG and TINT is not None:
+    # inside tinted areas (roads) nothing coincides with the grid: run the full grid removal there only
+    _zone = cv2.dilate(TINT, cv2.getStructuringElement(cv2.MORPH_RECT, (7, 7)))
+    _full = refine(clear_grid(ink))
+    ink = np.where(_zone == 1, _full, ink).astype(np.uint8)
+# auto-protect dense art (hatched buildings, solid streams): grid removal must not cut their outlines
+if GRIDDED and not FRAG and cfg.get('AUTO_PROTECT'):
+    _d = cv2.blur(_ink0.astype(np.float32), (11, 11))
+    _p = (_d > cfg['AUTO_PROTECT']).astype(np.uint8)
+    _p = cv2.morphologyEx(_p, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5)))
+    _n, _l, _st, _ = cv2.connectedComponentsWithStats(_p, 8)
+    _k = np.zeros(_n, bool); _k[1:] = _st[1:, cv2.CC_STAT_AREA] >= cfg.get('AUTO_PROTECT_MIN', 220)
+    _ad = cfg.get('AUTO_PROTECT_DIL', 7)
+    _p = cv2.dilate(_k[_l].astype(np.uint8), cv2.getStructuringElement(cv2.MORPH_RECT, (_ad, _ad)))
+    ink = ink | (_ink0 & _p)
 for (a, b, c, d) in cfg.get('LABEL_MASKS', []):
     ink[b:d, a:c] = 0
 gm_ink = np.zeros_like(ink)
@@ -110,7 +173,7 @@ def degrid(m):
         elif h <= 3 and w >= 30 and a < w * 3: keep[i] = False      # long hairline (stray grid)
         elif w <= 3 and h >= 30 and a < h * 3: keep[i] = False
     return keep[lab].astype(np.uint8)
-ink = degrid(ink)
+if GRIDDED: ink = degrid(ink)
 # final pass: lone perfectly straight strokes (grid residue); forked tufts and curved contours survive
 def straight_clean(m):
     n, lab, st, _ = cv2.connectedComponentsWithStats(m, 8)
@@ -120,9 +183,211 @@ def straight_clean(m):
         if any(x >= p0 and y >= p1 and x + w <= p2 and y + h <= p3 for (p0, p1, p2, p3) in cfg.get('PROTECT', [])): continue
         if (w <= 3 and h >= 5) or (h <= 3 and w >= 5): keep[i] = False
         # T / L stubs at the frame edge
-        elif (x <= 1 or y <= 1 or x + w >= W - 1 or y + h >= H - 1) and a < 0.35 * w * h: keep[i] = False
+        elif (x <= 1 or y <= 1 or x + w >= W - 1 or y + h >= H - 1) and a < 0.35 * w * h and w < 3 * PX and h < 3 * PX: keep[i] = False
     return keep[lab].astype(np.uint8)
-if cfg.get('STRAIGHT_CLEAN', True): ink = straight_clean(ink)
+if GRIDDED and cfg.get('STRAIGHT_CLEAN', True): ink = straight_clean(ink)
+# tangent restore: a stroke that runs ALONG a grid line is erased with the grid. Restore the erased stretch
+# between two consecutive points where ONE kept stroke touches the line from the SAME side (the stroke leaves
+# the line and comes back, e.g. a tree's flank), if the stretch is short and nothing crosses it.
+if GRIDDED and cfg.get('TANGENT_RESTORE', 0):
+    _rr = (img < cfg.get('THRESH', 120)).astype(np.uint8)
+    if TINT is not None: _rr[TINT == 1] = 0
+    MAXR = cfg['TANGENT_RESTORE']
+    _nl, _lab = cv2.connectedComponents(ink, connectivity=8)
+    def _first(v):
+        nz = v[v > 0]; return int(nz[0]) if nz.size else 0
+    def _scan(n_lines, origin, pitch, length, get_side, restore):
+        for k in range(n_lines):
+            c = int(round(origin + k * pitch))
+            touches = []
+            for t in range(length):
+                la, lb = get_side(c, t)
+                if la and not lb: touches.append((t, 'a', la))
+                elif lb and not la: touches.append((t, 'b', lb))
+                elif la and lb: touches.append((t, 'x', 0))
+            for (t0, s0, l0), (t1, s1, l1) in zip(touches, touches[1:]):
+                g = t1 - t0
+                if s0 == s1 and s0 != 'x' and l0 == l1 and 2 <= g <= MAXR:
+                    restore(c, t0, t1)
+    def _gv(c, t):
+        return (_first(_lab[t, max(c - 6, 0):max(c - 2, 0)][::-1]), _first(_lab[t, min(c + 3, W):min(c + 7, W)]))
+    def _rv(c, t0, t1):
+        sl = slice(max(c - 2, 0), min(c + 3, W)); ink[t0:t1 + 1, sl] |= _rr[t0:t1 + 1, sl]
+    def _gh(c, t):
+        return (_first(_lab[max(c - 6, 0):max(c - 2, 0), t][::-1]), _first(_lab[min(c + 3, H):min(c + 7, H), t]))
+    def _rh(c, t0, t1):
+        sl = slice(max(c - 2, 0), min(c + 3, H)); ink[sl, t0:t1 + 1] |= _rr[sl, t0:t1 + 1]
+    _scan(int(W / PX) + 2, OX, PX, H, _gv, _rv)
+    _scan(int(H / PY) + 2, OY, PY, W, _gh, _rh)
+# gap repair: grid removal nicks strokes where they run along a grid line; restore raw ink that a small
+# closing of the cleaned ink would fill (bridges gaps without bringing back free-standing grid lines)
+if GRIDDED and cfg.get('GAP_REPAIR', 0):
+    _k = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (cfg['GAP_REPAIR'],) * 2)
+    _cl = cv2.morphologyEx(ink, cv2.MORPH_CLOSE, _k)
+    _rr = (img < cfg.get('THRESH', 120)).astype(np.uint8)
+    if TINT is not None: _rr[TINT == 1] = 0
+    ink = (ink | (_cl & _rr)).astype(np.uint8)
+if GRIDDED and cfg.get('FINAL_CLEAN', False): ink = straight_clean(ink)
+# tree rebuild: cloud-shaped outlines (trees, bushes) broken by grid removal are re-closed: close the outline,
+# fill it, and redraw its ring at the original stroke weight. Only blob-like, tree-sized shapes qualify.
+if GRIDDED and cfg.get('TREE_REBUILD'):
+    _tr = cfg['TREE_REBUILD']
+    _excl = np.zeros_like(ink)
+    if TINT is not None: _excl |= cv2.dilate(TINT, cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5)))
+    for (a_, b_, c_, d_) in cfg.get('TREE_EXCLUDE', []): _excl[b_:d_, a_:c_] = 1
+    _cand = (ink & (1 - _excl)).astype(np.uint8)
+    _cl = cv2.morphologyEx(_cand, cv2.MORPH_CLOSE, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (_tr.get('close', 7),) * 2))
+    _cs, _hi = cv2.findContours(_cl, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+    _ring_all = np.zeros_like(ink); _gone = np.zeros_like(ink); _HULLRIM = []
+    _GRIDLINES = np.zeros_like(ink)
+    for _k in range(int(W / PX) + 2):
+        _x = int(round(OX + _k * PX)); _GRIDLINES[:, max(_x - 3, 0):min(_x + 4, W)] = 1
+    for _k in range(int(H / PY) + 2):
+        _y = int(round(OY + _k * PY)); _GRIDLINES[max(_y - 3, 0):min(_y + 4, H), :] = 1
+    _nt = 0
+    for _c in _cs:
+        x_, y_, w_, h_ = cv2.boundingRect(_c)
+        if not (_tr.get('min', 12) <= max(w_, h_) <= _tr.get('max', 60)): continue
+        if max(w_, h_) > 2.2 * min(w_, h_): continue
+        if any(x_ <= hx <= x_ + w_ and y_ <= hy <= y_ + h_ for (hx, hy) in _tr.get('hull_at', [])):
+            # named crowns whose flank lies ON a grid line: restore the raw scan ink in the hull's rim band
+            _bx0, _by0, _bx1, _by1 = max(x_ - 8, 0), max(y_ - 8, 0), min(x_ + w_ + 8, W), min(y_ + h_ + 8, H)
+            _pts = np.column_stack(np.where(_cand[_by0:_by1, _bx0:_bx1] > 0))[:, ::-1] + [_bx0, _by0]
+            _hf = np.zeros_like(ink); cv2.fillPoly(_hf, [cv2.convexHull(_pts.astype(np.int32))], 1)
+            _hf = cv2.dilate(_hf, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (9, 9)))
+            _rim = (_hf - cv2.erode(_hf, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (19, 19)))).astype(np.uint8)
+            _hull_t = np.zeros_like(ink); cv2.fillPoly(_hull_t, [cv2.convexHull(_pts.astype(np.int32))], 1)
+            _edge = (cv2.dilate(_hull_t, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (7, 7))) - cv2.erode(_hull_t, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (7, 7)))).astype(np.uint8)
+            _rawt = (img < cfg.get('THRESH', 120)).astype(np.uint8)
+            # off the grid lines: restore anything in the rim; ON a grid line: only right at the crown's edge
+            _ring_all |= ((_rim & _rawt & (1 - _GRIDLINES)) | (_edge & _rawt & _GRIDLINES & _rim)).astype(np.uint8)
+            _gone |= (cv2.erode(_hf, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (21, 21))) & _GRIDLINES).astype(np.uint8)
+            _HULLRIM.append(_rim); _nt += 1; continue
+        _f = np.zeros_like(ink); cv2.drawContours(_f, [_c], -1, 1, -1)
+        _area = _f.sum(); _hull = cv2.contourArea(cv2.convexHull(_c))
+        _open = False
+        if _hull <= 0: continue
+        if _area / _hull < _tr.get('solidity', 0.80):
+            # an open "C": the outline did not close. Re-close this one shape with larger kernels; the bridge
+            # follows the crown's curve rather than a straight chord.
+            _x0, _y0 = max(x_ - 12, 0), max(y_ - 12, 0); _x1, _y1 = min(x_ + w_ + 12, W), min(y_ + h_ + 12, H)
+            _sub = _cand[_y0:_y1, _x0:_x1] * _cl[_y0:_y1, _x0:_x1]
+            _ok = False
+            for _ks in (13, 17, 21):
+                _cc = cv2.morphologyEx(_sub, cv2.MORPH_CLOSE, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (_ks, _ks)))
+                _c2, _ = cv2.findContours(_cc, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+                if not _c2: continue
+                _cm = max(_c2, key=cv2.contourArea)
+                _ff = np.zeros_like(_sub); cv2.drawContours(_ff, [_cm], -1, 1, -1)
+                _hh = cv2.contourArea(cv2.convexHull(_cm))
+                if _hh > 0 and _ff.sum() / _hh >= _tr.get('solidity', 0.80):
+                    _f = np.zeros_like(ink); _f[_y0:_y1, _x0:_x1] = _ff; _area = _f.sum(); _ok = True; break
+            if not _ok:
+                # named open crowns (config TREE_HULL_AT): close along the hull
+                if any(x_ <= hx <= x_ + w_ and y_ <= hy <= y_ + h_ for (hx, hy) in _tr.get('hull_at', [])):
+                    # the crown's flank lies ON a grid line: restore the raw scan ink in the hull's rim band
+                    _hf = np.zeros_like(ink); cv2.fillPoly(_hf, [cv2.convexHull(_c)], 1)
+                    _rim = (cv2.dilate(_hf, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (5, 5))) - cv2.erode(_hf, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (7, 7)))).astype(np.uint8)
+                    _RAWT = (img < cfg.get('THRESH', 120)).astype(np.uint8)
+                    _ring_all |= (_rim & _RAWT).astype(np.uint8)
+                    _gone |= (cv2.erode(_hf, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (9, 9))) & _GRIDLINES).astype(np.uint8)
+                    _nt += 1
+                continue
+            _open = True
+        _bd = (_f - cv2.erode(_f, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (5, 5)))).astype(np.uint8)
+        _cover = (_cand & _bd).sum() / max(_bd.sum(), 1)
+        if _open and _cover < _tr.get('open_cover', 0.55) and not any(x_ <= hx <= x_ + w_ and y_ <= hy <= y_ + h_ for (hx, hy) in _tr.get('hull_at', [])): continue
+        _fill = (_cand & _f).sum() / max(_area, 1)
+        if _cover < _tr.get('cover', 0.45) or _fill > _tr.get('maxfill', 0.55): continue
+        _w = _tr.get('weight', 3)
+        _ring = (_f - cv2.erode(_f, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (2 * _w - 1,) * 2))).astype(np.uint8)
+        _inner = cv2.erode(_f, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (2 * _w + 3,) * 2))
+        _near = cv2.dilate(_cand * _f, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (_tr.get('near', 7),) * 2))
+        _ring_all |= (_ring & (1 - _near)).astype(np.uint8)      # bridge only the gaps; intact lobes stay
+        _gone |= (_inner & _GRIDLINES).astype(np.uint8)          # grid crossings left inside the crown
+        _nt += 1
+    ink = ((ink & (1 - _gone)) | _ring_all).astype(np.uint8)
+    # restored rim ink: keep only pieces attached to the crown (drop grid stubs that left the rim)
+    if _HULLRIM:
+        _n2, _l2 = cv2.connectedComponents(ink, connectivity=8)
+        for _rm in _HULLRIM:
+            _ids, _cnt = np.unique(_l2[(_rm == 1) & (ink == 1)], return_counts=True)
+            if len(_ids):
+                _main = _ids[np.argmax(_cnt)]
+                _drop = (_rm == 1) & (ink == 1) & (_l2 != _main)
+                ink[_drop] = 0
+    print('trees rebuilt:', _nt)
+# dash zones: faint dashed outlines (foundations, planned works) survive by removing only LONG straight
+# h/v lines (the printed grid) from the raw ink, then keeping short dash-sized pieces
+for (za, zb, zc, zd) in cfg.get('DASH_ZONES', []):
+    _r = (img[zb:zd, za:zc] < cfg.get('DASH_THRESH', 150)).astype(np.uint8)
+    _L = cfg.get('DASH_LONG', 21)
+    _lh = cv2.morphologyEx(_r, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (_L, 1)))
+    _lv = cv2.morphologyEx(_r, cv2.MORPH_OPEN, cv2.getStructuringElement(cv2.MORPH_RECT, (1, _L)))
+    _gl = cv2.dilate(_lh | _lv, cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3)))
+    _d = (_r & (1 - _gl)).astype(np.uint8)
+    _n, _lb, _st, _ = cv2.connectedComponentsWithStats(_d, 8)
+    _kp = np.zeros(_n, bool)
+    for _i in range(1, _n):
+        x_, y_, w_, h_, a_ = _st[_i]
+        if 6 <= a_ <= cfg.get('DASH_MAX', 80) and max(w_, h_) >= 4: _kp[_i] = True
+    _dd = cv2.dilate(_kp[_lb].astype(np.uint8), cv2.getStructuringElement(cv2.MORPH_RECT, (2, 2)))
+    if TINT is not None: _dd[TINT[zb:zd, za:zc] == 1] = 0
+    ink[zb:zd, za:zc] |= _dd
+# building footprints: the outline band keeps the raw ink (walls on grid lines survive); the interior keeps the
+# grid-cleaned ink (the printed grid runs through buildings); never inside tint
+if cfg.get('FOOTPRINTS'):
+    _fp = np.zeros_like(ink)
+    _rawf = (img < 120).astype(np.float32)
+    def _samp(p0, p1, n=40):
+        t = np.linspace(0.15, 0.85, n)
+        xs = np.clip(np.round(p0[0] + t * (p1[0] - p0[0])).astype(int), 0, W - 1)
+        ys = np.clip(np.round(p0[1] + t * (p1[1] - p0[1])).astype(int), 0, H - 1)
+        return _rawf[ys, xs].mean()
+    def _snap(poly, R=8):
+        P = np.array(poly, np.float64); n = len(P)
+        area = 0.5 * sum(P[i][0] * P[(i + 1) % n][1] - P[(i + 1) % n][0] * P[i][1] for i in range(n))
+        lines = []
+        for i in range(n):
+            a, b = P[i], P[(i + 1) % n]; d = b - a; L = np.hypot(*d) or 1
+            nrm = np.array([d[1], -d[0]]) / L
+            if area < 0: nrm = -nrm                      # outward normal
+            cands = []
+            for t in np.arange(-R, R + 0.5, 0.5):
+                on = _samp(a + nrm * t, b + nrm * t)
+                if on < 0.6: continue
+                outw = np.mean([_samp(a + nrm * (t + k), b + nrm * (t + k)) for k in (2.5, 4, 5.5)])
+                inw = np.mean([_samp(a + nrm * (t - k), b + nrm * (t - k)) for k in (2.5, 4, 5.5)])
+                cands.append((t, on, inw - outw))
+            good = [c for c in cands if c[2] > 0.1]
+            if good: bt = max(good, key=lambda c: c[2] - 0.02 * abs(c[0]))[0]
+            elif cands: bt = min(cands, key=lambda c: abs(c[0]))[0]
+            else: bt = 0.0
+            lines.append((a + nrm * bt, d))
+        out = []
+        for i in range(n):
+            (p1, d1), (p2, d2) = lines[i - 1], lines[i]
+            M = np.array([d1, -d2]).T
+            if abs(np.linalg.det(M)) < 1e-6: out.append(p2); continue
+            tt = np.linalg.solve(M, p2 - p1); out.append(p1 + tt[0] * d1)
+        return [tuple(map(float, q)) for q in out]
+    SNAPPED = []
+    for poly in cfg['FOOTPRINTS']:
+        is_rect = len(poly) == 4 and not isinstance(poly[0], (tuple, list))
+        if is_rect:
+            a_, b_, c_, d_ = poly; poly = [(a_, b_), (c_, b_), (c_, d_), (a_, d_)]
+        sp = _snap(poly) if (cfg.get('FP_SNAP', True) and is_rect) else poly
+        SNAPPED.append(sp)
+        cv2.fillPoly(_fp, [np.round(np.array(sp)).astype(np.int32)], 1)
+    _out = cv2.dilate(_fp, cv2.getStructuringElement(cv2.MORPH_RECT, (2 * cfg.get('FP_OUT', 2) + 1,) * 2))
+    _inn = cv2.erode(_fp, cv2.getStructuringElement(cv2.MORPH_RECT, (2 * cfg.get('FP_IN', 3) + 1,) * 2))
+    _band = (_out & (1 - _inn)).astype(np.uint8)
+    if TINT is not None: _band[TINT == 1] = 0
+    _rawfp = (img < cfg.get('FP_THRESH', 120)).astype(np.uint8)
+    ink = (ink | (_rawfp & _band)).astype(np.uint8)
+    FP_MASK = _out
+    for (a, b, c, d) in cfg.get('LABEL_MASKS', []) + cfg.get('ERASE', []):
+        ink[b:d, a:c] = 0
 
 def vectorize(m):
     big = cv2.resize(m.astype(np.float32), (W * U, H * U), interpolation=cv2.INTER_CUBIC)
@@ -137,6 +402,7 @@ def vectorize(m):
     return ' '.join(parts)
 
 INK_PATH = vectorize(ink)
+TINT_PATH = vectorize(TINT) if TINT is not None else ''
 GM_PATH = vectorize(gm_ink) if gm_ink.any() else ''
 
 FLOOR, GRID, INK, PAPER = '#efe3c4', '#8a7754', '#151310', '#e6d5ae'
@@ -161,7 +427,8 @@ def build(mode):
          '<defs><filter id="paper" x="0" y="0" width="1" height="1"><feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="4" seed="11" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0.36  0 0 0 0 0.26  0 0 0 0 0.12  0 0 0 0.22 0" result="t"/><feComposite in="t" in2="SourceGraphic" operator="in" result="tt"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="tt"/></feMerge></filter></defs>',
          f'<rect x="0" y="{-top}" width="{Wd:.0f}" height="{Ht + top + bot:.0f}" fill="{PAPER}" filter="url(#paper)"/>',
          f'<rect x="0" y="0" width="{Wd:.0f}" height="{Ht:.0f}" fill="{FLOOR}" filter="url(#paper)"/>',
-         (f'<path d="{grid_lines()}" stroke="{GRID}" stroke-width="1.4" opacity="0.75" fill="none"/>' if mode != 'player_nogrid' else ''),
+         (f'<g transform="scale({S:.5f})"><path d="{TINT_PATH}" fill="{cfg.get("TINT_COLOR", "#cdb98d")}" fill-rule="evenodd"/></g>' if TINT_PATH else ''),
+         (f'<path d="{grid_lines()}" stroke="{GRID}" stroke-width="1.4" opacity="0.75" fill="none"/>' if (mode != 'player_nogrid' and cfg.get('DRAW_GRID', True)) else ''),
          f'<g transform="scale({S:.5f})"><path d="{INK_PATH}" fill="{INK}" fill-rule="evenodd"/></g>']
     for (a, b, c, d, orient) in cfg.get('STAIRS', []):
         X0, Y0, X1, Y1 = a * S, b * S, c * S, d * S
@@ -213,12 +480,17 @@ def build(mode):
             t = i / n
             p0 = (A[0] + t * (B[0] - A[0]), A[1] + t * (B[1] - A[1])); p1 = (R[0] + t * (T[0] - R[0]), R[1] + t * (T[1] - R[1]))
             o.append(f'<line x1="{p0[0] * S:.1f}" y1="{p0[1] * S:.1f}" x2="{p1[0] * S:.1f}" y2="{p1[1] * S:.1f}" stroke="{INK}" stroke-width="{1.4 * S:.1f}"/>')
+    for t in cfg.get('TEXTS', []):
+        txt, x, y, size = t[:4]; txt = txt.replace('&', '&amp;'); anchor = t[4] if len(t) > 4 else 'middle'; style = t[5] if len(t) > 5 else 'bold'
+        fw = 'bold' if 'bold' in style else 'normal'; fs = 'italic' if 'italic' in style else 'normal'
+        o.append(f'<text x="{x * S:.1f}" y="{y * S:.1f}" font-size="{size * S:.1f}" font-weight="{fw}" font-style="{fs}" text-anchor="{anchor}" letter-spacing="{0.06 * size * S:.1f}" fill="{INK}" stroke="{FLOOR}" stroke-width="{0.28 * size * S:.1f}" stroke-linejoin="round" paint-order="stroke">{txt}</text>')
     if gm and GM_PATH and cfg.get('DRAW_GM_INK', True):
         o.append(f'<g transform="scale({S:.5f})"><path d="{GM_PATH}" fill="{INK}" fill-rule="evenodd"/></g>')
     if gm:
         for t, (gx, gy) in cfg['LABELS'].items():
             x, y = (OX + gx * PX) * S, (OY + gy * PY) * S
-            o.append(f'<text x="{x:.1f}" y="{y + 8:.1f}" font-size="24" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="5" paint-order="stroke">{t.strip()}</text>')
+            _ls = cfg.get('LABEL_SIZE', 24)
+            o.append(f'<text x="{x:.1f}" y="{y + _ls / 3:.1f}" font-size="{_ls}" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="{_ls / 4.5:.1f}" paint-order="stroke">{t.strip()}</text>')
         for (bx, by) in cfg.get('SECRETS', []):     # secret doors: bold ink S, GM only (box px)
             o.append(f'<text x="{bx * S:.1f}" y="{by * S + 9:.1f}" font-size="26" font-weight="bold" text-anchor="middle" fill="{INK}" stroke="{FLOOR}" stroke-width="5" paint-order="stroke">S</text>')
         for kind, gx, gy in cfg.get('GM_MARKS', []):
@@ -229,17 +501,21 @@ def build(mode):
         o.append(f'<text x="18" y="-40" font-size="38" font-weight="bold" fill="{INK}" letter-spacing="2">{cfg["TITLE"].upper()}</text>')
         o.append(f'<text x="20" y="-12" font-size="18" fill="#5a4a32" font-style="italic">{cfg["SUB"]}</text>')
         sx, sy = 20, Ht + 40
-        for i in range(5):
+        for i in (range(5) if cfg.get('SCALE_BAR', True) else []):
             o.append(f'<rect x="{sx + i * 50}" y="{sy}" width="50" height="10" fill="{FLOOR if i % 2 == 0 else INK}" stroke="{INK}" stroke-width="1.5"/>')
-        ft = cfg['SCALE_FT']
-        o.append(f'<text x="{sx}" y="{sy - 8}" font-size="16" fill="{INK}">0</text><text x="{sx + 230}" y="{sy - 8}" font-size="16" fill="{INK}">{5 * ft} ft</text>')
-        o.append(f'<text x="{sx + 270}" y="{sy + 10}" font-size="16" fill="{INK}">1 square = {ft} feet</text>')
+        if cfg.get('SCALE_BAR', True):
+            ft = cfg['SCALE_FT']
+            o.append(f'<text x="{sx}" y="{sy - 8}" font-size="16" fill="{INK}">0</text><text x="{sx + 230}" y="{sy - 8}" font-size="16" fill="{INK}">{5 * ft} ft</text>')
+            o.append(f'<text x="{sx + 270}" y="{sy + 10}" font-size="16" fill="{INK}">1 square = {ft} feet</text>')
+        else:
+            o.append(f'<text x="{sx}" y="{sy + 10}" font-size="18" fill="{INK}">{cfg.get("SCALE_TEXT", "")}</text>')
         if cfg.get('NOTE'):
             o.append(f'<text x="{Wd - 20:.0f}" y="{sy + 10}" font-size="15" text-anchor="end" fill="#5a4a32" font-style="italic">{cfg["NOTE"]}</text>')
     o.append('</svg>')
     return '\n'.join(o)
 
 base = cfg['FILE']
-for mode, name in (('gm', 'GM'), ('player', 'Player'), ('player_nogrid', 'Player (No Grid)'), ('print', 'Print')):
+ALLV = (('gm', 'GM'), ('player', 'Player'), ('player_nogrid', 'Player (No Grid)'), ('print', 'Print'))
+for mode, name in [v for v in ALLV if v[0] in cfg.get('MODES', [m for m, _ in ALLV])]:
     open(f'{OUT}/{base} - {name}.svg', 'w').write(build(mode))
 print('ok', W, H, len(INK_PATH))
