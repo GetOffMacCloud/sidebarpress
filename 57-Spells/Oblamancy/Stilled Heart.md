@@ -26,7 +26,7 @@ tags: [spell, homebrew, oblamancy, blood-magic, forbidden, level-7]
 **Duration:** Instantaneous
 **Classes:** Wizard *(School of Oblamancy only)*
 
-You hold your breath, and for one beat every heart you've chosen holds with you. Yours is the only one in the circle you can't stop. Whether your friends are standing in it is a question you settled before you cast.
+You hold your breath, and for one beat every heart in the circle holds with you. Whether your friends are standing in it is a question you settled before you cast.
 
 Choose a point you can see within range. Each creature with blood in a 20-foot-radius sphere centered on that point must make a Constitution saving throw. On a failed save, a creature is stunned until the end of your next turn. On a successful save, a creature can't take reactions until the start of its next turn.
 
