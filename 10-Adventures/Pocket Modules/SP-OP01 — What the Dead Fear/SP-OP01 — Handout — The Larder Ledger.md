@@ -11,6 +11,8 @@ tags: [handout, sp-op01]
 
 *Give to players at: Scene 02 (C2, the Embalming Room). Build in Canva: real text over a parchment or ledger background; export PNG for FGU, PDF for print.*
 
+![[handout-larder-ledger.png]]
+
 ```text
 *In the same neat hand as the register.*
 

@@ -11,7 +11,7 @@ tags: [handout, sp-op01, map]
 
 *Give to players at: Scene 1, beat 4 (the send-off). Ossian presses it into the hand of whoever carries the keys.*
 
-![[SP-OP01 handout-ossians-sketch.png]]
+![[handout-ossians-sketch.png]]
 
 ## What It Shows (and What It Leaves Out)
 Ossian drew this himself, in the same neat hand as the larder ledger. It's accurate where he wants the party to go and silent everywhere else.
@@ -24,5 +24,5 @@ Ossian drew this himself, in the same neat hand as the larder ledger. It's accur
 - **"Do not linger below."** He means it. He's watching the clock too.
 
 ## Production
-- File: `99-Assets/SP-OP01/SP-OP01 handout-ossians-sketch.png` (1800 × 2400, parchment, ink). Drawn by Sidebar Press; no Canva build needed.
+- File: `99-Assets/SP-OP01/handout-ossians-sketch.png` (1800 × 2400, parchment, ink). Drawn by Sidebar Press; no Canva build needed.
 - Print at 6 × 8 in., or share in FGU from the module's Handouts page.

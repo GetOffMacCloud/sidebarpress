@@ -150,7 +150,7 @@ m.page(AP,'Stream Twists',C(pick(M,'Stream Twists (d6)')))
 m.page(AP,'Sequel Seed',C(pick(M,'Sequel Seed: The Face on the Road')))
 for _t in ('The Notice','The Burial Register','The Larder Ledger'):
     _h=os.path.join(SRC,'SP-OP01 — Handout — %s.md'%_t); _hi=[i for i in ('handout-'+_t.lower().replace(' ','-').replace('the-',''),) if has(i)]
-    m.page(AP,re.search(r'^title: "(.*)"',open(_h).read(),re.M).group(1),C(fullnote(_h)),images=_hi,place={k:'$end' for k in _hi})
+    m.page(AP,re.search(r'^title: "(.*)"',open(_h).read(),re.M).group(1),C(clean(fullnote(_h))),images=_hi,place={k:'$end' for k in _hi})
 _h=APX("SP-OP01 — Handout — Ossian's Sketch"); _hi=[i for i in ('handout-ossians-sketch',) if has(i)]
 m.page(AP,TITLE(_h),C(clean(fullnote(_h)).split('## Production')[0]),images=_hi,place={k:'## What It Shows' for k in _hi} if False else {})
 for _n,_imgs in (('SP-OP01 — Appendix — NPC Summary',[]),('SP-OP01 — Appendix — Adventure Flowchart',['flowchart']),("SP-OP01 — Bonus Objective — Pell's Mother",[]),('SP-OP01 — Story Award — He Remembers Your Face',[]),('SP-OP01 — Ritterstadt Rewards',[])):

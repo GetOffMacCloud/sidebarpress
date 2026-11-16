@@ -10,7 +10,7 @@ tags: [appendix, flowchart, sp-op01]
 
 # Appendix: Adventure Flowchart
 
-![[SP-OP01 flowchart.png]]
+![[flowchart.png]]
 
 ## How the Session Moves
 - **Hooks → Scene 1.** Every hook ends at the lychgate of [[Merrow's Rest]].

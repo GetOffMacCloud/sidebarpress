@@ -11,6 +11,8 @@ tags: [handout, sp-op01]
 
 *Give to players at: the hook. Build in Canva: real text over a parchment or ledger background; export PNG for FGU, PDF for print.*
 
+![[handout-notice.png]]
+
 ```text
 RESTLESS DEAD AT MERROW'S REST
 

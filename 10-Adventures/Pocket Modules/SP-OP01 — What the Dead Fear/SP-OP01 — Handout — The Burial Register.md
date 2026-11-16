@@ -11,6 +11,8 @@ tags: [handout, sp-op01]
 
 *Give to players at: Scene 01 (the vestry). Build in Canva: real text over a parchment or ledger background; export PNG for FGU, PDF for print.*
 
+![[handout-burial-register.png]]
+
 ```text
 *The old entries are in a cramped, shaking hand. Every entry since spring is in a neat, steady one.*
 
