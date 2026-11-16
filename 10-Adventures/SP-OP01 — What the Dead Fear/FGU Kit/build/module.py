@@ -103,13 +103,13 @@ MAP='map-saints-ossuary' if has('map-saints-ossuary') else None
 for c,n,cr in (('E4a','03 The Saint\'s Ossuary (4 PCs)',[('ossian',1)]),('E4b','03 The Saint\'s Ossuary (5 PCs)',[('ossian',1),('pallbearer',1)]),('E4c','03 The Saint\'s Ossuary (6 PCs)',[('ossian',1),('pallbearer',2)])): m.battle(c,n,cr,MAP)
 m.battle('L4','03 The Larder (Harrow and four ghouls; not foes)',[('harrow',1),('larderghoul',4)],MAP)
 for it in m._cat('battle').find(m.BAT['L4'].split('.')[1]).find('npclist'): it.find('faction').text='neutral'
-GYM='map-graveyard' if has('map-graveyard') else None; C1M='map-bone-gallery' if has('map-bone-gallery') else None; C2M='map-kitchen' if has('map-kitchen') else None
+GYM='map-graveyard' if has('map-graveyard') else None; C1M=C2M=('map-catacombs' if has('map-catacombs') else None)
 for c,n,cr in (('E1a','01 The Graveyard Rising (4 PCs)',[('husk',6),('ogrehusk',2)]),('E1b','01 The Graveyard Rising (5 PCs)',[('husk',10),('ogrehusk',2)]),('E1c','01 The Graveyard Rising (6 PCs)',[('husk',10),('ogrehusk',3)])): m.battle(c,n,cr,GYM)
 for c,n,k in (('E2a','02 Bone Gallery (4 PCs)',4),('E2b','02 Bone Gallery (5 PCs)',5),('E2c','02 Bone Gallery (6 PCs)',6)): m.battle(c,n,[('crawler',k)],C1M)
 for c,n,cr in (('E3a','02 The Kitchen (4 PCs)',[('mouther',3),('curedhand',4)]),('E3b','02 The Kitchen (5 PCs)',[('mouther',3),('curedhand',8)]),('E3c','02 The Kitchen (6 PCs)',[('mouther',4),('curedhand',8)])): m.battle(c,n,cr,C2M)
 for c,n,cr in (('W1a','Wandering: Husk procession (4 PCs)',[('ogrehusk',4),('husk',4)]),('W1b','Wandering: Husk procession (5 PCs)',[('ogrehusk',5),('husk',4)]),('W1c','Wandering: Husk procession (6 PCs)',[('ogrehusk',6),('husk',6)]),
     ('W2a','Wandering: Crawler nest (4 PCs)',[('crawler',5)]),('W2b','Wandering: Crawler nest (5 PCs)',[('crawler',7)]),('W2c','Wandering: Crawler nest (6 PCs)',[('crawler',8)]),
-    ('W3a',"Wandering: Butcher's crew (4 PCs)",[('ogrehusk',2),('crawler',3)]),('W3b',"Wandering: Butcher's crew (5 PCs)",[('ogrehusk',3),('crawler',4)]),('W3c',"Wandering: Butcher's crew (6 PCs)",[('ogrehusk',4),('crawler',4)])): m.battle(c,n,cr)
+    ('W3a',"Wandering: Butcher's crew (4 PCs)",[('ogrehusk',2),('crawler',3)]),('W3b',"Wandering: Butcher's crew (5 PCs)",[('ogrehusk',3),('crawler',4)]),('W3c',"Wandering: Butcher's crew (6 PCs)",[('ogrehusk',4),('crawler',4)])): m.battle(c,n,cr,C1M)
 # ---- item ----
 UP=os.path.join(VAULT,'50-Items','The Urn of Saint Merrow.md')
 m.item('urn','The Urn of Saint Merrow','Wondrous Item',C(fullnote(UP).split('## History')[0]),rarity='Uncommon')

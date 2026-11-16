@@ -11,7 +11,7 @@ tags: [maps, battlemaps, vtt, production]
 
 Back to [[SP-OP01-What-the-Dead-Fear]] · Board: [[SP-OP01 — Board]]
 
-Four battlemaps: the Saint's Ossuary (Scene 03) plus the graveyard, Bone Gallery and kitchen fights added 2026-11-16. Save them as `SP-OP01 map-graveyard.png`, `map-bone-gallery.png` and `map-kitchen.png`; the FGU build links them to E1–E3 automatically. Catacombs C1–C4 are narrated, not mapped; an optional printed DM key of the catacombs is listed below. Files go in `99-Assets/SP-OP01/`.
+Three battlemaps: the Saint's Ossuary (Scene 03), Merrow's Rest above ground (`SP-OP01 map-graveyard.png`, E1) and the catacombs C1–C4 (`SP-OP01 map-catacombs.png`, E2, E3 and W1–W3). The FGU build links them automatically. Layout references for CharGen are in `99-Assets/SP-OP01/_ref/`, drawn at 100 px per square with the grid origin top-left. Catacombs C1–C4 are narrated, not mapped; an optional printed DM key of the catacombs is listed below. Files go in `99-Assets/SP-OP01/`.
 
 ## Standards
 - **Grid:** 1 square = 5 ft. True top-down (not isometric).
@@ -25,9 +25,8 @@ Four battlemaps: the Saint's Ossuary (Scene 03) plus the graveyard, Bone Gallery
 | Map | Scene | Size (squares) | 100 px/sq | MJ base | Player | DM |
 |---|---|---|---|---|---|---|
 | The Saint's Ossuary | [[Scene 03 — What the Dead Fear]] | 16 × 18.4 (whole image) | 1600 × 1840 | CharGen ✅ | ✅ `SP-OP01 map-saints-ossuary.png` (2026-11-16) | use the ink DM map |
-| The Graveyard (E1) | [[Scene 01 — The Grateful Mortician]] | — | — | — | — | — |
-| Bone Gallery, C1 (E2) | [[Scene 02 — The Catacombs]] | — | — | — | — | — |
-| The Kitchen, C2 (E3) | [[Scene 02 — The Catacombs]] | — | — | — | — | — |
+| Merrow's Rest above ground: graveyard + roofless chapel (E1, early-unmasking fight) | [[Scene 01 — The Grateful Mortician]] | 20 × 28 | 2000 × 2800 | layout ref ✅ | — | — |
+| The catacombs, C1–C4 (E2, E3, W1–W3, barred-doors fight) | [[Scene 02 — The Catacombs]] | 24 × 34 | 2400 × 3400 | layout ref ✅ | — | — |
 | Saint's Ossuary — ink DM map (print) | [[Scene 03 — What the Dead Fear]] | 5-ft. grid | — | — | — | ✅ `SP-OP01 map-saints-ossuary-dm.png` (2026-11-16) |
 | Merrow's Rest — ink site key (print) | [[Scene 02 — The Catacombs]] | 10-ft. grid | — | — | — | ✅ `SP-OP01 map-merrows-rest-key.png` (2026-11-16) |
 
