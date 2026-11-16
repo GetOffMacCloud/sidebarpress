@@ -37,7 +37,7 @@ The module's eight convention pregens, converted to **5e level 6**, the level th
 > - **Elinthri is half Xuel** (his father traces back to the Great Migration). That passes the **Area 24 door runes and the Area 25 stone guardian**, the only heritage check any pregen meets.
 > - **Adria, Kiralee and Aliza read Ancient Xuloise** (Adria and Aliza fluently; Creek through his helm). That opens every history book, the diary and the scripture, and the scripture **adds +2 to calming Avraasha**.
 > - **Kiralee's Charisma 18** with a persuasion bonus is the party's best voice for the Avraasha scene.
-> - **Only Kiralee's and Elinthri's +1 swords** get past nothing that needs a +2. The **swordwraiths (Area 32)** halve them. The **Area 8 sword of sharpness** and **Area 13 flail +2** matter.
+> - **Only Kiralee's and Elinthri's +1 swords** get past nothing that needs a +2. The **sword wraiths (Area 32)** resist only mundane weapons, so any magic weapon works on them. The **Area 8 sword of sharpness** and **Area 13 flail +2** matter.
 
 ---
 

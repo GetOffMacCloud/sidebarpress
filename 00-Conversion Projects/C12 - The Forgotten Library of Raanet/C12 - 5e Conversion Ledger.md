@@ -125,7 +125,7 @@ Full table in **§6 Encounter math**.
 | **29** Prayers for Flame (p. 27) | Cold fire pit. **Ring of fire resistance** | **Ring of resistance (fire)** (DMG). Finding it in the ashes: **DC 10 Investigation** *(conversion call)* |
 | **30** Creatio Ex Nihilo (p. 27) | **5 wights**, cannibal survivors, around the **Bountiful Cornucopia** | **5 × MM Wight (CR 3)**, re-armed: **no longbow; claw attacks** (**+4, 1d6+2 slashing**) in place of the longsword. *Life Drain* kept. CR unchanged. Treasure: **Bountiful Cornucopia** (I16) |
 | **31** Various & Sundry (p. 28) | Xar'bik skins hold **yellow mold. 75% chance they burst** if disturbed (10-ft radius). Tools 100 gp | **Yellow Mold (DMG hazard):** if the bundles are disturbed, roll d4; on 1–3 they burst. Each creature within **10 ft** makes a **DC 15 Constitution save**: on a failure, **11 (2d10) poison** and poisoned for 1 minute, taking 5 (1d10) poison at the start of each of its turns while poisoned and repeating the save at the end of each turn to end it. Fire or sunlight destroys the mold. Treasure: **tools (100 gp)**. ⚠️ The text splits this room across A30's column. **Yellow mold is A31, not A30** |
-| **32** The Fallen Champions (p. 28) | **Naskin and Yrsi ad-Laar, swordwraiths.** Warned, they tip the dresser over for cover (**AC −2**) and use bows. 25% chance combat rouses Yox. Treasure: **2 bastard swords +2** (Naskin), **chain shirt +1**, (Yrsi) **small shield +2**, all at double value; 120 Xuel coins, 3 flawed diamonds (25 gp), **2 adamantite rings (250 gp)** | **2 × Swordwraith (CR 5)** (§4.2). **Dresser = half cover (+2 AC).** **Yox alarm:** 25% per fight, rolled once. Treasure: **2 × longsword +2** (*Xuel bastard sword*; versatile; see I17), **chain shirt +1**, **shield +2**, **120 Xuel coins**, **3 × flawed diamond (25 gp)**, **2 × adamantite ring (250 gp)** |
+| **32** The Fallen Champions (p. 28) | **Naskin and Yrsi ad-Laar, swordwraiths.** Warned, they tip the dresser over for cover (**AC −2**) and use bows. 25% chance combat rouses Yox. Treasure: **2 bastard swords +2** (Naskin), **chain shirt +1**, (Yrsi) **small shield +2**, all at double value; 120 Xuel coins, 3 flawed diamonds (25 gp), **2 adamantite rings (250 gp)** | **Naskin = Sword Wraith Commander (CR 8); Yrsi = Sword Wraith Warrior (CR 3)**, the 5e *Mordenkainen's Tome of Foes* / *Monsters of the Multiverse* statblocks wearing their own gear (§4.2). **No Call to Honor** (they are the last two of their warband). **Dresser = half cover (+2 AC).** **Yox alarm:** 25% per fight, rolled once. Treasure: **2 × longsword +2** (*Xuel bastard sword*; versatile; see I17), **chain shirt +1**, **shield +2**, **120 Xuel coins**, **3 × flawed diamond (25 gp)**, **2 × adamantite ring (250 gp)** |
 | **33** Death's Companion (p. 29) | **Yox, efreeti.** Warned, it goes invisible, splits the party with a **wall of fire**, and kills casters first. **Surrenders below 50% HP** and offers the rod's location for an oath of release. Can charge the rod. Treasure: **footman's flail +2**, **brooch of shielding (77 charges)**, **Sigil rod (quiescent)** | **MM Efreeti (CR 11).** **Strip *conjure elemental* and *plane shift*** (plane shift is blocked by M1; conjure elemental is not in the 1e efreet and would work here). **Surrenders at 100 HP or less.** Sigil-eligible. Room: the flames on the floor are illusory flavour; the module gives no damage. Treasure: **flail +2**, **brooch of shielding** (DMG; it has no charges in 5e, so drop the 77), **Sigil rod #4 (quiescent)** |
 | **34** The Precipice (p. 30) | Pedestal for the Sigil | Seat the Sigil here to start Chapter Two. No check |
 
@@ -309,29 +309,54 @@ Nine creatures need new blocks. They are presented as Obsidian callouts; FG Impo
 > **Conversion note.** 1e: AC 2, MV 10", HD 4+4, 1d8+1 ×2, **¼ damage from edged weapons**, immune to normal missiles, many spell immunities, sees invisible. **¼ damage becomes resistance**; 5e has no quarter step.
 > **✅ Checked against *Monster Manual II* (p. 115), 2026-11-15.** MM2: AC 2, MV 10", HD 4+4, fists 2–9/2–9 (= 1d8+1, matches), **¼ damage from edged weapons**, normal missiles can't harm it, **half damage from cold, fire and electrical spells** (added; replaces the invented *Spell Warding*), can't be poisoned, held, charmed, paralysed or frightened, attacks until destroyed, **killed instantly by stone to flesh, transmute rock to mud, stone shape or dig** (added), and a **20% chance on activation of disobeying and attacking anything** (added). Size 75% M / 25% L. It is built from mud with a heart of stone, using *enchant an item*, *transmute mud to rock*, *magic mouth*, *detect invisibility* and *limited wish*. A special **ring of protection from stone guardians** makes its wearer and everyone within 10 ft immune to its attacks; none is placed in C12. CR stays **3**.
 
-> [!example]- Swordwraith (Naskin and Yrsi ad-Laar) — CR 5 (1,800 XP) each · Area 32
-> *Medium undead, lawful evil*
-> **Armor Class** 18 (Naskin: chain shirt +1, shield) / 19 (Yrsi: chain shirt, shield +2) · **Hit Points** 78 (12d8 + 24) · **Speed** 25 ft.
+> [!example]- Naskin ad-Laar, Sword Wraith Commander — CR 8 (3,900 XP) · Area 32
+> *Medium undead, lawful evil* · 5e statblock: *Mordenkainen's Tome of Foes* / *Monsters of the Multiverse* (Sword Wraith Commander), refitted with Naskin's gear
+> **Armor Class** 18 (chain shirt +1, shield) · **Hit Points** 127 (15d8 + 60) · **Speed** 30 ft.
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |---|---|---|---|---|---|
-> | 18 (+4) | 14 (+2) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) |
+> | 18 (+4) | 14 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
 >
-> **Saving Throws** Str +7, Con +5
-> **Skills** Athletics +7, Perception +4
-> **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from magic weapons with less than a +2 bonus
-> **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-> **Condition Immunities** exhaustion, poisoned
-> **Senses** darkvision 60 ft., passive Perception 14 · **Languages** Ancient Suloise · **Challenge** 5 (1,800 XP) · **Proficiency Bonus** +3
+> **Skills** Perception +4
+> **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+> **Damage Immunities** poison
+> **Condition Immunities** exhaustion, frightened, poisoned, unconscious
+> **Senses** darkvision 60 ft., passive Perception 14 · **Languages** Ancient Suloise · **Challenge** 8 (3,900 XP) · **Proficiency Bonus** +3
 >
-> ***Barricade.*** If warned, the swordwraiths tip the dresser for half cover (+2 AC) and use their bows.
+> ***Turning Defiance.*** Naskin and any sword wraiths within 30 ft. of him have advantage on saving throws against effects that turn undead.
+> ***Barricade.*** If warned, the sword wraiths tip the dresser for half cover (+2 AC) and use their bows.
 >
 > **Actions**
-> ***Multiattack.*** The swordwraith makes two longsword attacks.
-> ***Longsword +2.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 6) slashing damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise the reduction lasts until it finishes a short or long rest.
+> ***Multiattack.*** Naskin makes two longsword or longbow attacks.
+> ***Longsword +2.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 6) slashing damage.
 > ***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 >
-> **Conversion note.** 1e: AC 3, MV 9", HD 7, **3/2 attacks**, 1d10, Strength drain, **+2 or better to hit**. 3/2 becomes two attacks. **The +2 gate is load-bearing:** at 5e level 6–7 a party with only +1 weapons does half damage. **The swords, shirt and shield are the room's treasure**, so the AC and to-hit come straight from their gear.
+> **Bonus Actions**
+> ***Martial Fury.*** Naskin makes one longsword or longbow attack, which deals an extra 9 (2d8) necrotic damage on a hit. Attack rolls against him have advantage until the start of his next turn.
+
+> [!example]- Yrsi ad-Laar, Sword Wraith Warrior — CR 3 (700 XP) · Area 32
+> *Medium undead, lawful evil* · 5e statblock: *Mordenkainen's Tome of Foes* / *Monsters of the Multiverse* (Sword Wraith Warrior), refitted with Yrsi's gear
+> **Armor Class** 18 (chain shirt, shield +2) · **Hit Points** 45 (6d8 + 18) · **Speed** 30 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 18 (+4) | 12 (+1) | 17 (+3) | 6 (−2) | 9 (−1) | 10 (+0) |
+>
+> **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+> **Damage Immunities** poison
+> **Condition Immunities** exhaustion, frightened, poisoned, unconscious
+> **Senses** darkvision 60 ft., passive Perception 9 · **Languages** Ancient Suloise · **Challenge** 3 (700 XP) · **Proficiency Bonus** +2
+>
+> ***Barricade.*** If warned, the sword wraiths tip the dresser for half cover (+2 AC) and use their bows.
+>
+> **Actions**
+> ***Longsword +2.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 6) slashing damage.
+> ***Longbow.*** *Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+>
+> **Bonus Actions**
+> ***Martial Fury.*** Yrsi makes one longsword or longbow attack. Attack rolls against her have advantage until the start of her next turn.
+>
+> **Conversion note (2026-11-16, replaces the custom CR 5 swordwraith).** The sword wraith exists in 2e, 3e and 5e; per the DM's call the official 5e statblocks are used. 1e: AC 3, MV 9", HD 7, 3/2 attacks, 1d10, Strength drain, +2 or better to hit. **Changes from the old custom build:** no Strength drain and **no +2 gate** (5e sword wraiths only resist nonmagical B/P/S, so any magic weapon does full damage). **Gear refit:** the module's treasure is what they wear, so AC uses chain shirt +1/shield (Naskin) and chain shirt/shield +2 (Yrsi), and both swing a **longsword +2** (*Xuel bastard sword*, I17; one-handed because both carry shields). **Who is the commander:** Naskin, named first and carrying the swords. **Call to Honor removed:** the module places only these two champions here; restoring it adds 2–5 warriors and makes the room Deadly.
 
 > [!example]- Ixthasus, Greater Salamander — CR 10 (5,900 XP) · Area 21
 > *Large elemental, chaotic evil*
@@ -547,13 +572,13 @@ Shown so the FG parcels can be checked later. Excludes the sage-only finds, whic
 | A25 stone guardian | 700 | 700 | Trivial | **Trivial** | Trivial | Trivial |
 | A28 4 magmen | 800 | 1,600 | Easy | **Trivial** | Trivial | Trivial |
 | A30 5 wights | 3,500 | 7,000 | Deadly 106% | **Hard** | Hard | Hard |
-| A32 2 swordwraiths | 3,600 | 5,400 | Hard | **Hard** | Medium | Medium |
+| A32 Naskin (commander) + Yrsi (warrior) | 4,600 | 6,900 | Deadly 105% | **Hard** | Hard | Medium |
 | A33 Yox | 7,200 | 7,200 | Deadly 109% | **Hard** | Hard | Hard |
 | A35 Avraasha | 41,000 | 41,000 | Deadly 621% | **Deadly 488%** | Deadly 401% | Deadly 390% |
 
 > [!warning] What the XP tier hides (doctrine rule 5)
 > - **Magmen** melt nonmagical and +1 weapons. A martial party with mundane steel loses its weapons fight by fight, which compounds across four magmen rooms.
-> - **Swordwraiths** halve +1 weapons and ignore mundane ones entirely. A party without +2 weapons may simply not be able to win A32. The Area 8 sword of sharpness and the A13 flail +2 are the module's answers, and **both sit behind other fights.**
+> - **Sword wraiths** resist only nonmagical weapons, so any magic weapon hurts them normally. Naskin's Martial Fury adds 2d8 necrotic and the pair hit hard with +2 longswords.
 > - **Harginn grues** turn every fire spell into a wasted slot.
 > - **Room hazards** (A21 heat, A22 illusion) add 3–4 damage per creature per round on top of the monsters, and A21 strips concentration.
 > - **The Sigil's creature route kills with a touch, no save** (§2.1). A rogue with the rod can delete a CR 11 efreeti. That is the module's intended answer to Yox and Ixthasus, and it should stay.

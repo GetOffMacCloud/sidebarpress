@@ -264,45 +264,44 @@ Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) 
 Naskin ad-Laar
 Medium undead, lawful evil
 Armor Class 18 (chain shirt +1, shield)
-Hit Points 78 (12d8 + 24)
-Speed 25 ft.
+Hit Points 127 (15d8 + 60)
+Speed 30 ft.
 STR DEX CON INT WIS CHA
-18 (+4) 14 (+2) 15 (+2) 10 (+0) 12 (+1) 14 (+2)
-Saving Throws Str +7, Con +5
-Skills Athletics +7, Perception +4
-Damage Resistances necrotic; bludgeoning, piercing, and slashing from magic weapons with less than a +2 bonus
-Damage Immunities poison; bludgeoning, piercing, and slashing from nonmagical attacks
-Condition Immunities exhaustion, poisoned
+18 (+4) 14 (+2) 18 (+4) 11 (+0) 12 (+1) 14 (+2)
+Skills Perception +4
+Damage Resistances necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities exhaustion, frightened, poisoned, unconscious
 Senses darkvision 60 ft., passive Perception 14
 Languages Ancient Suloise
-Challenge 5 (1,800 XP)
-Barricade. If warned, the swordwraiths tip the dresser for half cover (+2 AC) and use their bows.
+Challenge 8 (3,900 XP)
+Turning Defiance. Naskin and any sword wraiths within 30 feet of him have advantage on saving throws against effects that turn undead.
+Barricade. If warned, the sword wraiths tip the dresser for half cover (+2 AC) and use their bows.
 Actions
-Multiattack. Naskin makes two longsword attacks.
-Longsword +2. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slashing damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+Multiattack. Naskin makes two longsword or longbow attacks.
+Longsword +2. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slashing damage.
 Longbow. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+Martial Fury (Bonus Action). Naskin makes one longsword or longbow attack, which deals an extra 9 (2d8) necrotic damage on a hit. Attack rolls against him have advantage until the start of his next turn.
 
 #### 14 Yrsi ad-Laar (Area 32) ####
 Yrsi ad-Laar
 Medium undead, lawful evil
-Armor Class 19 (chain shirt, shield +2)
-Hit Points 78 (12d8 + 24)
-Speed 25 ft.
+Armor Class 18 (chain shirt, shield +2)
+Hit Points 45 (6d8 + 18)
+Speed 30 ft.
 STR DEX CON INT WIS CHA
-18 (+4) 14 (+2) 15 (+2) 10 (+0) 12 (+1) 14 (+2)
-Saving Throws Str +7, Con +5
-Skills Athletics +7, Perception +4
-Damage Resistances necrotic; bludgeoning, piercing, and slashing from magic weapons with less than a +2 bonus
-Damage Immunities poison; bludgeoning, piercing, and slashing from nonmagical attacks
-Condition Immunities exhaustion, poisoned
-Senses darkvision 60 ft., passive Perception 14
+18 (+4) 12 (+1) 17 (+3) 6 (-2) 9 (-1) 10 (+0)
+Damage Resistances necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities exhaustion, frightened, poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 9
 Languages Ancient Suloise
-Challenge 5 (1,800 XP)
-Barricade. If warned, the swordwraiths tip the dresser for half cover (+2 AC) and use their bows.
+Challenge 3 (700 XP)
+Barricade. If warned, the sword wraiths tip the dresser for half cover (+2 AC) and use their bows.
 Actions
-Multiattack. Yrsi makes two longsword attacks.
-Longsword +2. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slashing damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
-Longbow. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+Longsword +2. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slashing damage.
+Longbow. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+Martial Fury (Bonus Action). Yrsi makes one longsword or longbow attack. Attack rolls against her have advantage until the start of her next turn.
 
 #### 15 Yox (Area 33) ####
 Yox

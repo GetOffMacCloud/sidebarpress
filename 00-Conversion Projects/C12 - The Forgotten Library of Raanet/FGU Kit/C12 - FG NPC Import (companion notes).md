@@ -31,7 +31,7 @@ FG → **NPCs** → **Import** → paste **one** block, from the name line down 
 
 | NPC | Line | What to check |
 |---|---|---|
-| **Naskin, Yrsi** | Damage Resistances / Immunities | FG reads "from nonmagical attacks" correctly but **can't express "magic weapons with less than a +2 bonus."** Make sure it didn't grant resistance to *all* B/P/S. If it did, delete that part and adjudicate: +1 weapons deal half damage. |
+| **Naskin, Yrsi** | Martial Fury | The importer has no Bonus Actions header, so Martial Fury imports as an action labelled **(Bonus Action)**. Run it as a bonus action. If you own FG's *Tome of Foes* or *Monsters of the Multiverse* module, you can instead drag its Sword Wraith Commander / Warrior and swap in the gear (AC 18, longsword +2). |
 | **Stone Guardian** | Damage Resistances | "cold, fire, and lightning damage **from spells**." FG may apply that to all cold, fire and lightning. Edit to match, or adjudicate. |
 | **Wind Walker** | Damage Immunities | "all damage except as noted under Ethereal Wind" **won't parse.** Leave immunities empty and run the trait by hand. |
 | **Avraasha, Yox** | Innate Spellcasting | Confirm the spell lines became clickable powers. Avraasha's *fireball* must be set to 12d6 (cast at 7th level). |
@@ -54,8 +54,7 @@ FG → **NPCs** → **Import** → paste **one** block, from the name line down 
 | Harginn Grue | `Blinking - attacks against it have disadvantage` | Label. FG's `GRANTDISATK` isn't on the verified list, so it's adjudicated |
 | Fire Bat (on a PC) | `Fire bat attached - 5 (2d4) fire at start of bat's turn, rounds 1-3` | Label |
 | Giant Tick (on a PC) | `Tick attached - lose 7 (2d6) HP at start of tick's turn (max 14)` | Label |
-| Naskin, Yrsi (on a PC) | `Strength drained - X (until short/long rest)` | Label. `STR:` modifies checks and saves only, not the score, so set the score on the sheet |
-| Naskin, Yrsi | `+2 Gate - immune to mundane B/P/S; half damage from +1 weapons` | Label |
+| Naskin, Yrsi | `Martial Fury - attacks against it have advantage until its next turn` | Label. `GRANTADVATK` would do it, but it isn't on the verified list |
 | Phantom Stalker | `Fire Absorption - fire heals 1 HP per die` | Label |
 | Hydras | `Heads remaining - N (lose 1 per 18 damage)` | Label. Update N as it takes damage |
 | Avraasha | `Regeneration 10 - start of turn while touching fire/magma` | Label (`REGEN:` not verified) |
