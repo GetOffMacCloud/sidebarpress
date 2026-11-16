@@ -26,7 +26,7 @@ Three battlemaps: the Saint's Ossuary (Scene 03), Merrow's Rest above ground (`S
 |---|---|---|---|---|---|---|
 | The Saint's Ossuary | [[Scene 03 — What the Dead Fear]] | 16 × 18.4 (whole image) | 1600 × 1840 | CharGen ✅ | ✅ `SP-OP01 map-saints-ossuary.png` (2026-11-16) | use the ink DM map |
 | Merrow's Rest above ground: graveyard + roofless chapel (E1, early-unmasking fight) | [[Scene 01 — The Grateful Mortician]] | 20 × 28 | 2000 × 2800 | layout ref ✅ | — | — |
-| The catacombs, C1–C4 (E2, E3, W1–W3, barred-doors fight) | [[Scene 02 — The Catacombs]] | 24 × 34 | 2400 × 3400 | layout ref ✅ | — | — |
+| The catacombs, C1–C4 (E2, E3, W1–W3, barred-doors fight) | [[Scene 02 — The Catacombs]] | 24 × 34 | 2400 × 3400 | CharGen ✅ | ✅ `SP-OP01 map-catacombs.png` (2026-11-16) | use the ink site key |
 | Saint's Ossuary — ink DM map (print) | [[Scene 03 — What the Dead Fear]] | 5-ft. grid | — | — | — | ✅ `SP-OP01 map-saints-ossuary-dm.png` (2026-11-16) |
 | Merrow's Rest — ink site key (print) | [[Scene 02 — The Catacombs]] | 10-ft. grid | — | — | — | ✅ `SP-OP01 map-merrows-rest-key.png` (2026-11-16) |
 
@@ -61,3 +61,7 @@ Drawn as vector ink (pure black on white, hatched rock, keyed legend) rather tha
 ## VTT map notes (CharGen render, 2026-11-16)
 - Made in CharGen from the layout reference in `99-Assets/SP-OP01/_ref/`. Grid: **100 px per square, origin top-left**; it lines up with no offset.
 - Differences from the DM map: the lids stand on the **east** side of each sarcophagus, not the south (still half cover); the crawl behind the altar isn't drawn (three crawls shown); the alcoves have no bone shelves. None changes a rule.
+
+## Catacombs render notes (CharGen, 2026-11-16)
+- Came back 2400 × 3408; cropped 8 px of bare rock off the bottom to 2400 × 3400. Grid: 100 px per square, origin top-left, no offset.
+- Differences: the skulls in C1 face outward, not into the wall (narrate the turned skulls); the last 2 × 2 squares of the C4 corridor are drawn as iron-plated floor under the barred doors. Neither changes a rule.
