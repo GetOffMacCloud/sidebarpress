@@ -24,6 +24,15 @@ yy, xx = np.mgrid[0:H, 0:W]
 gx, gy = (xx - OX) / PX, (yy - OY) / PY
 cave_zone = ((gx < 7.9) & (gy > 9.1)) | ((gx < 11.2) & (gy > 14.2)) | ((gx < 15) & (gy > 25.4))
 b[(gx > 12.55) & (gx < 14.75) & (gy > 12.7) & (gy < 18.85)] = 0   # hidden crawlway is not floor
+# hand cleanup: area 31 crypt niches (scan bars blur into spikes) and the notch south of 28
+def zero(c0, c1, r0, r1): b[(gx >= c0) & (gx <= c1) & (gy >= r0) & (gy <= r1)] = 0
+def fill(c0, c1, r0, r1): b[(gx >= c0) & (gx <= c1) & (gy >= r0) & (gy <= r1)] = 255
+zero(14.05, 17.95, 19.6, 20.97); zero(14.05, 16.95, 23.03, 24.3); zero(21.0, 23.0, 27.03, 27.7)
+# crypt niches: (center x, top y, bottom y, side the room is on)
+NICHES = [(c, 20.05, 21.0, 'below') for c in (14.5, 15.5, 16.5, 17.5)] + \
+         [(c, 23.0, 23.95, 'above') for c in (14.5, 15.25, 16.0, 16.75)] + \
+         [(c, 18.1, 19.0, 'below') for c in (12.5, 13.5)]
+zero(12.2, 13.8, 18.0, 18.98)
 room = np.where(cave_zone, 0, b).astype(np.uint8)
 cave = np.where(cave_zone, b, 0).astype(np.uint8)
 
@@ -31,7 +40,7 @@ def snap(v):
     r = round(v)
     if abs(v - r) < 0.3: return float(r)
     h = round(v * 2) / 2
-    return h if abs(v - h) < 0.12 else v
+    return h if abs(v - h) < 0.08 else v
 
 def polys(mask, eps, do_snap, min_area):
     cs, hier = cv2.findContours(mask, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_NONE)
@@ -51,6 +60,8 @@ room_polys = polys(room, 1.6, True, 40)
 # hand fixes: south wall of rooms 18-20 sits on line 9 (the scan's heavy wall line eats the floor)
 room_polys = [[(u, 9.0) if (u < 8.5 and 8.3 < v < 9.1) else (u, v) for (u, v) in p] for p in room_polys]
 cave_polys = polys(cave, 0.9, False, 25)
+def _cen(p): return sum(u for u, v in p) / len(p), sum(v for u, v in p) / len(p)
+cave_polys = [p for p in cave_polys if not (10.4 < _cen(p)[0] < 12.3 and 17.5 < _cen(p)[1] < 25.5)]
 
 def path(pts):
     return 'M' + ' L'.join(f'{(u-C0)*S:.1f} {(v-R0)*S:.1f}' for u, v in pts) + ' Z'
@@ -82,7 +93,8 @@ grate = ((21.3, 7.2), (22.9, 8.8))
 pool = (23.5, 30.6, 0.95, 1.05)
 
 # ---------- style ----------
-ROCK, FLOOR, GRID, INK, WATER = '#2b5f8e', '#ffffff', '#9fbcd6', '#1b2a38', '#cfe3f2'
+ROCK, FLOOR, GRID, INK, WATER = '#151310', '#efe3c4', '#8a7754', '#151310', '#ddd5bd'
+CAVE, PAPER = '#e8d9b5', '#e6d5ae'
 
 def P(u, v): return f'{(u-C0)*S:.1f}', f'{(v-R0)*S:.1f}'
 
@@ -127,12 +139,26 @@ def build(mode):
          '<defs>',
          f'<pattern id="grid" width="{S}" height="{S}" patternUnits="userSpaceOnUse"><path d="M{S} 0H0V{S}" fill="none" stroke="{GRID}" stroke-width="1.6"/></pattern>',
          f'<clipPath id="rooms"><path d="{" ".join(path(p) for p in room_polys)}" clip-rule="evenodd"/></clipPath>',
+         '<filter id="paper" x="0" y="0" width="1" height="1"><feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="4" seed="11" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0.36  0 0 0 0 0.26  0 0 0 0 0.12  0 0 0 0.22 0" result="t"/><feComposite in="t" in2="SourceGraphic" operator="in" result="tt"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="tt"/></feMerge></filter>',
          '</defs>',
-         f'<rect x="0" y="{-pad_top}" width="{Wd:.0f}" height="{Ht+pad_top+pad_bot:.0f}" fill="{ROCK}"/>']
+         f'<rect x="0" y="{-pad_top}" width="{Wd:.0f}" height="{Ht+pad_top+pad_bot:.0f}" fill="{PAPER}" filter="url(#paper)"/>',
+         f'<rect x="0" y="0" width="{Wd:.0f}" height="{Ht:.0f}" fill="{ROCK}"/>']
     # floors
-    o.append(f'<path d="{" ".join(path(p) for p in room_polys)}" fill="{FLOOR}" fill-rule="evenodd" stroke="{INK}" stroke-width="2.5" stroke-linejoin="miter"/>')
+    o.append(f'<path d="{" ".join(path(p) for p in room_polys)}" fill="{FLOOR}" fill-rule="evenodd" stroke="{INK}" stroke-width="2.5" stroke-linejoin="miter" filter="url(#paper)"/>')
     o.append(f'<rect width="{Wd:.0f}" height="{Ht:.0f}" fill="url(#grid)" clip-path="url(#rooms)"/>')
-    o.append(f'<path d="{" ".join(path(p) for p in cave_polys)}" fill="#f4f1ea" fill-rule="evenodd" stroke="{INK}" stroke-width="2" stroke-linejoin="round"/>')
+    o.append(f'<path d="{" ".join(path(p) for p in cave_polys)}" fill="{CAVE}" fill-rule="evenodd" stroke="{INK}" stroke-width="2" stroke-linejoin="round" filter="url(#paper)"/>')
+    # crypt niches (drawn, not traced: too thin for the trace)
+    for (c, t, bt, side) in NICHES:
+        x0, x1 = (c - 0.15 - C0) * S, (c + 0.15 - C0) * S; y0, y1 = (t - R0) * S, (bt - R0) * S
+        if side == 'below':
+            d = f'M{x0:.1f} {y1+1:.1f} L{x0:.1f} {y0:.1f} L{x1:.1f} {y0:.1f} L{x1:.1f} {y1+1:.1f}'
+            cover = (x0 + 1.3, y1 - 3, x1 - x0 - 2.6, 6)
+        else:
+            d = f'M{x0:.1f} {y0-1:.1f} L{x0:.1f} {y1:.1f} L{x1:.1f} {y1:.1f} L{x1:.1f} {y0-1:.1f}'
+            cover = (x0 + 1.3, y0 - 3, x1 - x0 - 2.6, 6)
+        o.append(f'<rect x="{x0:.1f}" y="{y0:.1f}" width="{x1-x0:.1f}" height="{y1-y0:.1f}" fill="{FLOOR}"/>')
+        o.append(f'<rect x="{cover[0]:.1f}" y="{cover[1]:.1f}" width="{cover[2]:.1f}" height="{cover[3]:.1f}" fill="{FLOOR}"/>')
+        o.append(f'<path d="{d}" fill="none" stroke="{INK}" stroke-width="2.5"/>')
     # pool
     cx, cy, rx, ry = pool
     pts = []
@@ -188,8 +214,8 @@ def build(mode):
     x, y = P(35.6, 28.75)
     o.append(f'<text x="{x}" y="{y}" font-size="21" font-weight="bold" fill="{INK}">OUT →</text>')
     if pr:
-        o.append(f'<text x="24" y="-38" font-size="40" font-weight="bold" fill="#ffffff" letter-spacing="2">MAP 8 · THE MOATHOUSE DUNGEON</text>')
-        o.append(f'<text x="26" y="-10" font-size="19" fill="#d8e6f2" font-style="italic">T1 The Village of Hommlet · Sidebar Press conversion of TSR 1985</text>')
+        o.append(f'<text x="24" y="-38" font-size="40" font-weight="bold" fill="{INK}" letter-spacing="2">MAP 8 · THE MOATHOUSE DUNGEON</text>')
+        o.append(f'<text x="26" y="-10" font-size="19" fill="#5a4a32" font-style="italic">T1 The Village of Hommlet · Sidebar Press conversion of TSR 1985</text>')
         # legend
         lx, ly = 20, Ht + 30
         items = [('door', 'Door'), ('locked', 'Locked door'), ('secret', 'Secret door'), ('false', 'False door'),
@@ -200,16 +226,16 @@ def build(mode):
                 o.append(door_svg(X / S + C0 + 0.3, Y / S + R0 + 0.2, 'h', k))
             elif k == 'secret': o.append(secret_svg(X / S + C0 + 0.3, Y / S + R0 + 0.2, 'h'))
             elif k == 'stairs': o.append(stair_svg((X / S + 0.0, Y / S - 0.05), (X / S + 0.62, Y / S + 0.45), 'down', 'h'))
-            elif k == 'pillar': o.append(f'<circle cx="{X+15}" cy="{Y+10}" r="7.5" fill="#ffffff"/>')
-            elif k == 'passage': o.append(f'<line x1="{X}" y1="{Y+10}" x2="{X+32}" y2="{Y+10}" stroke="#ffffff" stroke-width="5" stroke-dasharray="2 5" stroke-linecap="round"/>')
-            else: o.append(f'<text x="{X+15}" y="{Y+18}" font-size="20" font-weight="bold" text-anchor="middle" fill="#f2b8b5">{k}</text>')
-            o.append(f'<text x="{X+44}" y="{Y+17}" font-size="19" fill="#ffffff">{lab}</text>')
+            elif k == 'pillar': o.append(f'<circle cx="{X+15}" cy="{Y+10}" r="7.5" fill="{ROCK}"/>')
+            elif k == 'passage': o.append(f'<line x1="{X}" y1="{Y+10}" x2="{X+32}" y2="{Y+10}" stroke="{ROCK}" stroke-width="5" stroke-dasharray="2 5" stroke-linecap="round"/>')
+            else: o.append(f'<text x="{X+15}" y="{Y+18}" font-size="20" font-weight="bold" text-anchor="middle" fill="#9b2226">{k}</text>')
+            o.append(f'<text x="{X+44}" y="{Y+17}" font-size="19" fill="{INK}">{lab}</text>')
         # scale bar
         sx, sy = Wd - 560, Ht + 92
         for i in range(5):
-            o.append(f'<rect x="{sx+i*S}" y="{sy}" width="{S}" height="10" fill="{"#ffffff" if i%2==0 else ROCK}" stroke="#ffffff" stroke-width="1.5"/>')
-        o.append(f'<text x="{sx}" y="{sy-8}" font-size="16" fill="#ffffff">0</text><text x="{sx+5*S-20}" y="{sy-8}" font-size="16" fill="#ffffff">50 ft</text>')
-        o.append(f'<text x="{sx+5*S+14}" y="{sy+10}" font-size="16" fill="#ffffff">1 square = 10 feet</text>')
+            o.append(f'<rect x="{sx+i*S}" y="{sy}" width="{S}" height="10" fill="{FLOOR if i%2==0 else ROCK}" stroke="{INK}" stroke-width="1.5"/>')
+        o.append(f'<text x="{sx}" y="{sy-8}" font-size="16" fill="{INK}">0</text><text x="{sx+5*S-20}" y="{sy-8}" font-size="16" fill="{INK}">50 ft</text>')
+        o.append(f'<text x="{sx+5*S+14}" y="{sy+10}" font-size="16" fill="{INK}">1 square = 10 feet</text>')
     o.append('</svg>')
     return '\n'.join(o)
 

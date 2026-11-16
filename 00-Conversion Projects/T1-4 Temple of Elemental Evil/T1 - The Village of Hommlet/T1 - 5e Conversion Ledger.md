@@ -2,7 +2,7 @@
 tags: [adventure/T1, conversion, fgu-prep, toee]
 adventure: "T1 - The Village of Hommlet"
 source: "T1-4 The Temple of Elemental Evil (TSR 1985), PDF pp. 5–30"
-status: draft for review (round 1, 2026-11-16)
+status: review round 2 (2026-11-16) — D2–D5 decided, D1 open
 created: 2026-11-16
 publish: false
 ---
@@ -76,6 +76,7 @@ These are the C12 rules, plus the T1-specific lines marked 🆕.
 | M6 | **Drawbridge** (area 2): a mount breaks through. Horse 50%, mule 30%, pony 20%. It ends up at ⅔ hp, half speed (p. 22) | Same percentages (d10: horse 1–5, mule 1–3, pony 1–2). The mount's hit point maximum drops by a third and its speed is halved until it gets magical healing |
 | M7 | **The Moathouse sigil:** the yellow eye of fire, and the crossed-arms-before-the-face sign (area 24) | Unchanged. Wearing the cape *and* making the sign stops Lubash attacking. Anyone who saw it done can copy the sign with **DC 10 Wisdom (Insight)** |
 | M8 | **Hommlet militia muster** (p. 7): fight it out on the tabletop if there's a general battle | Militia = Commoners and Guards (§3.1). The Elder musters about 40 militia in 10 minutes. Rufus commands, and Burne's Badgers (§3.3) form the core |
+| M10 | **Distances (D5).** The text gives Nulb as 6 miles (p. 6), 7 leagues from the Moathouse (p. 21), "a half-day's journey… about two hours' ride" (p. 28) and "about thirty miles" (p. 29) | **Map 1 governs.** Its scale is 1 hex = 10 leagues (30 miles). Measured on the scan, the hex side is about 465 px, so 1 mile ≈ 27 px. **Hommlet → Nulb is about 33 miles straight (11 leagues)**, more by the Low Road: about 1½ days on foot at normal pace, or a long day's ride. **Hommlet → Moathouse is about 15 miles** along the trace road (the "DANGER" skull), and **Moathouse → Nulb is about 24 miles (8 leagues)**, which agrees with p. 21's 7 leagues. The p. 6 and p. 28 figures are corrected to match, and the change is recorded in Development Notes |
 | M9 | **Prices.** The Inn menu, Trading Post markups, moneychanger fees and armor availability (pp. 14–18) | **Kept as printed.** 5e uses the same coins, electrum included. "List price" means the PHB price |
 
 ---
@@ -177,7 +178,7 @@ The roster (captain, lieutenant, 16 men-at-arms a–p, 5 tower guards) carries o
 | 7 | Brigands (7), Lvl 0 | **Bandit** ×7 | ⅛ | Weapons per the chart (halberd, voulge → glaive). Behavior tiers (weak / capable / overwhelming) kept word for word |
 | 11 | "Scores of bats" | **Swarm of bats** ×2 | ¼ | Anyone holding a light: **DC 13 Dex save or drop it**, and the flame goes out. In the dark, a melee attack that misses a bat **hits an adjacent ally on 11+ (d20)**. If it hits from behind, the ally takes an extra die of damage (1e "double damage vs rear AC") |
 | 12 | Giant snake (huge adder), HD 4+2 | **Giant poisonous snake, elder (custom)** | 1 | MM giant poisonous snake with hp 33, bite +6, 1d4+4 piercing plus **3d6 poison** (DC 12 Con, half). The 1e poison was 2–8, or 1–3 on a save. Jeweled dagger (850 gp) |
-| 13 | Giant rats (13), HD ½ | **Swarm of rats ×2 + giant rat ×3** | ¼, ⅛ | 13 single rats are Deadly at L1 because of action economy, while 1e HD ½ rats were fodder. Swarms keep the threat right. Disease (1e 5%/hit): **DC 10 Con save** on each hit, failure = MM giant rat *diseased* rider (sewer plague, DMG p. 257). Gold ring on the 5th stair: **passive Perception 18** or DC 18 search (1e 1 in 20) |
+| 13 | Giant rats (13), HD ½ | **Swarm of rats ×2 + giant rat ×3** | ¼, ⅛ | **Decided (D3), on the condition that the difficulty stays as intended.** In 1e this was a nuisance with teeth: 13 one-hit rats, about 8 damage a round to a party of 5–8 at L1–2, over in 2–3 rounds. As 13 MM giant rats in 5e, Pack Tactics makes it **Deadly at both L1 and L2** for 4 PCs (adjusted 975 XP). The swarm version is **Hard at L1 and Easy at L2** (adjusted 350 XP), which brackets the 1e intent at the level the upper ruins are played. For 5 PCs it is Medium at L1. Same number of attacks coming in, same 1-hit-kill feel on the giant rats. Disease (1e 5%/hit): **DC 10 Con save** on each hit, failure = MM giant rat *diseased* rider (sewer plague, DMG p. 257). Gold ring on the 5th stair: **passive Perception 18** or DC 18 search (1e 1 in 20) |
 | 16 | Giant tick, HD 3 | **Giant tick (custom)** | ½ | AC 15, hp 22, speed 15 ft, climb 15 ft. *Bite:* +4, 1d6+2 piercing, and it attaches. *Blood drain:* while attached, the target loses **1d6 hp at the start of each of the tick's turns** (no roll needed). An action or a DC 12 Strength check pulls it off. Stirge pattern |
 | 17 | Giant lizard, HD 3+1 | **Giant lizard** | ¼ | 1e "double damage on a 20" is just a crit in 5e. It swallowed a *shield +1*. **Rubble:** each round of disturbance, 50% chance it collapses: **DC 12 Dex save**, 2d10 bludgeoning (half on a save). Dangerous tier |
 
@@ -282,6 +283,24 @@ The roster (captain, lieutenant, 16 men-at-arms a–p, 5 tower guards) carries o
 
 **Party of 5**, in the same order: Pool Hard / Easy / Easy / Trivial · Brigands Deadly+ / Deadly / Medium / Easy · All 12 zombies Deadly+ / Deadly+ / Hard / Medium · 6 bugbears Deadly+ / Deadly+ / Deadly / Hard · 9 gnolls Deadly+ / Deadly+ / Deadly / Hard · Ghouls Deadly+ / Deadly+ / Hard / Medium · Lareth alone Deadly+ / Deadly / Medium / Easy.
 
+### 6.1 Scaling box (D4): print this one
+
+> **Adjusting the Moathouse.** These encounters are built for **four or five characters**, levels 1–4 as in §0. For a **weaker or smaller** party (three PCs, or one level behind), use the left column. This follows the module's own rule (p. 21): take creatures away, never add them. For a **stronger or larger** party (six or more PCs, or one level ahead), use the right column.
+
+| Area | Weaker or smaller party | As written | Stronger or larger party |
+|---|---|---|---|
+| 1 Frogs | 1 giant frog + 2 small | 2 giant frogs + 4 small | 3 giant frogs + 4 small. The largest gets 30 hp |
+| 7 Brigands | Leader + 5 bandits. They flee at the first casualty | Leader (thug) + aide + 7 | Leader becomes a **bandit captain**. +2 bandits with light crossbows on the tower stair |
+| 13 Rats | 1 swarm + 2 giant rats | 2 swarms + 3 giant rats | 3 swarms + 3 giant rats |
+| 21 Zombies | Waves of 1 per round; 8 zombies | 12, in waves of 2 | 12, in waves of 3. The last pair stands at the stair foot |
+| 24 Lubash | Lubash fights only until bloodied, then bargains | Ogre | Ogre with 80 hp. 2 bugbears from 27 come at the noise in 3 rounds |
+| 27 Bugbears | 3 bugbears | 6 bugbears | 6 bugbears; the leader is a **bugbear chief** |
+| 29 Gnolls | 5 gnolls; parley is automatic if coin is shown | 9 gnolls | 9 gnolls + a **gnoll pack lord** (Yerrik). The parley DC rises to 12 |
+| 30 Crayfish | Crayfish with 30 hp, one claw attack | Giant crayfish | Giant crayfish with 60 hp. A second one lurks in the deep pool |
+| 31 Ghouls | 3 ghouls | 4 ghouls | 4 ghouls + a **ghast** in the warren (31b) |
+| 33 Guard room | 4 guards + sergeant | 6 guards + sergeant | 8 guards + sergeant. Reinforcements arrive in **3 rounds**, not 4–5 |
+| 35 Lareth | Lareth alone; the lieutenant is away on a raid. Lareth's hp 45 | Lareth + lieutenant | Lareth (hp 75; can use a 3rd-level slot for *spirit guardians* in place of *protection from energy*) + lieutenant + 2 guards |
+
 **What the math says:**
 - **The zombie gauntlet** (21) is fine as written, because the zombies come in pairs. Each round is Medium at L3, and the party can fall back up the stairs.
 - **The bugbears and gnolls** are Deadly on purpose. The module gives a way out of each: the gnolls can be bribed, and the bugbears come to investigate a light, so the PCs can ambush them at the door. Use the module's scaling rule at 4 PCs (4 bugbears, 6 gnolls).
@@ -291,11 +310,20 @@ The roster (captain, lieutenant, 16 men-at-arms a–p, 5 tower guards) carries o
 
 ## 7 · Treasure and magic items
 
-### 7.1 Treasure policy (⚑ D1)
+### 7.1 Treasure policy (⚑ D1, open)
 
-As printed, T1 is rich by 5e standards. Hommlet's townsfolk hold tens of thousands of gp between them, though good PCs aren't meant to loot them. The Moathouse dungeon holds about **30,000 gp**, most of it in Lareth's fire-opal necklace (15,000 gp). The DMG expects about 2,000 gp for the whole of tier 1.
+As printed, T1 is rich by 5e standards. Hommlet's townsfolk hold about 125,000 gp between them, though good PCs aren't meant to loot them. The Moathouse dungeon holds about **30,000 gp**, half of it Lareth's fire-opal necklace (15,000 gp).
 
-**Recommendation: keep the printed values,** since this edition stays close to the text. Add a one-box DM sidebar, *"Treasure at 5e scale"*, listing a ÷10 alternative for gems and art. The module limits the money in two ways: Lareth's assassin clause (anyone selling his things gets found out), and the Interlude's land and castle costs. The money is there for those.
+**What WotC's *D&D Conversions 1.0* (2015) says:**
+- 5e treasure is scarcer than in earlier editions, and magic items matter less to how characters perform.
+- *Quick* conversion: hand out only the treasure you're happy with the characters acquiring.
+- *Careful* conversion: re-create the treasure from the DMG's Individual Treasure and Treasure Hoard tables (DMG ch. 7) as if building the adventure from scratch.
+- Budget: a party sees **2–3 hoards per level**.
+- There is **no gold conversion ratio**.
+
+**What the careful method means for T1.** T1 runs from level 1 to 4, so the whole adventure should hold about **8–12 CR 0–4 hoards**. The DMG's expected value is about 2,000–4,000 gp in coin, gems and art in total, plus the magic items the hoard tables would roll. The table rolls are used to set the size of the treasure, not to replace it. Every treasure keeps its description (the peridot, the platinum-and-ruby pin, the silver service) and is given a 5e value.
+
+Decisions pending with Greybeard: (a) the method, (b) whether the Hommlet townsfolk's holdings follow it, (c) Lareth's necklace and the assassin clause, (d) XP or milestones. The WotC guide recommends milestone advancement for conversions.
 
 ### 7.2 Magic items (⚑ D2)
 
@@ -364,15 +392,13 @@ On milestone play, use the milestones in §0.
 
 ## 9 · Decisions for Greybeard
 
-| # | Question | Recommendation |
+| # | Question | Status |
 |---|---|---|
-| **D1** | Treasure: keep the printed values or scale them to 5e? | **Keep as printed**, plus a DM sidebar with a ÷10 alternative for gems and art |
-| **D2** | Magic items: cap armor, shields and protection at +1? Replace Furnok's *ring of invisibility*? Give the *staff of striking* 10 charges instead of 20? | **Yes to all three.** NPC-only items keep their printed power |
-| **D3** | 13 giant rats → 2 swarms + 3 giant rats (§4.1 area 13)? | **Yes.** Same threat, playable action economy |
-| **D4** | Print a party-size scaling box for the bugbears, gnolls and the north wing? | **Yes.** It's the module's own rule (p. 21), applied consistently |
-| **D5** | Hommlet–Nulb distance: the text says 6 miles (p. 6), 7 leagues from the moathouse (p. 21), "a half-day's journey… about two hours' ride" (p. 28) and "about thirty miles" (p. 29) | **Use Map 1** (pp. 130–131) and say so in Development Notes. The Interlude's ride is the one players see |
-
----
+| **D1** | Treasure: keep the printed values or rebuild them to 5e? | **Open.** Greybeard pointed to WotC's *D&D Conversions 1.0* (2015). The guide's careful method rebuilds treasure from the DMG Individual Treasure and Hoard tables, as if the adventure were new. Its budget is 2–3 hoards per level, and its quick method is to hand out only what you're happy with. It gives no gold conversion ratio. Questions are out to Greybeard (see §7.1) |
+| **D2** | Magic items | **Decided: rebuilt for 5e.** Every item is swapped for its DMG equivalent. Where none exists, a custom item is built from the original, using DMG items as the guide. Per the WotC guide, high 1e bonuses don't need to be kept: a +1 does the job in 5e. The caps and swaps in §7.2 stand. **Every item gets its own vault note** (`90-Templates/Item.md`) ending in `## FGU Import`: paste-ready text for the 5E Custom Item Importer (List Import, the C12 label set, `Version: Legacy`). That section is stripped from the print build. The FGU .mod build uses the same data, so the module's items and the notes always match |
+| **D3** | Rat swarms | **Decided: yes, with the difficulty verified** (§4.1 area 13) |
+| **D4** | Party scaling | **Decided: a scaling box in both directions** (§6.1) |
+| **D5** | Hommlet–Nulb distance | **Decided: Map 1 governs**, recorded in Development Notes (§2 M10) |
 
 ## 10 · Errata and OCR notes
 
@@ -384,7 +410,7 @@ On milestone play, use the milestones in §0.
 | p. 23 / p. 25 | Ogre HD 4+1 in the statistics box; 5+1 in area 24 | The MM ogre covers both |
 | p. 11 | Braumeister statline has no XP | No effect in 5e |
 | p. 9 | "and and small pearls worth 100 gp each" (no count given) | **Use 5 pearls** (⚑ minor; the Tourist vault assumed 5) |
-| pp. 6, 21, 28, 29 | Hommlet–Nulb distance | D5 |
+| pp. 6, 21, 28, 29 | Hommlet–Nulb distance | **Map 1 governs (D5).** See §2 M10 |
 | p. 27 | Lareth's ability line prints no Intelligence ("S 18 W 18 D 17 C 16 Ch 18") | **Int 12** assumed in the custom statblock |
 
 **OCR errors** in the extracted text, to be fixed when the vault notes are written: "wand stone chimneys" → "with stone chimneys" (p. 8); "Calmer" → Calmert (p. 12); "Ramos" → Rannos (p. 10); "S 9 116" → S 9 I 16 (p. 11); "Menu and WPrEicNeCs H" → "Menu and Prices" (p. 15); "10f lasks" → "10 flasks" (p. 24); "luz" → Iuz (throughout); "ores" → orcs (p. 29).
