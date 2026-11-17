@@ -7,7 +7,7 @@ import fgmod
 from fgmod import _S,_FT,_WR,ids,STOP
 class BMod(fgmod.Mod):
     def __init__(s,*a,**k):
-        super().__init__(*a,**k); s.book=[]   # (chapter, subchapter, name, blocks)
+        super().__init__(*a,**k); s.book=[]; s.extra=[]  # extra (source, archive name) files, e.g. tokens   # (chapter, subchapter, name, blocks)
     def bpage(s,chapter,sub,name,blocks):
         """blocks: ('image', imgkey, xml) | ('text', xml) | ('box', xml)"""
         s.book.append((chapter,sub,name,blocks)); return 'reference.refmanualdata.'+ids(len(s.book))
@@ -47,4 +47,5 @@ class BMod(fgmod.Mod):
         with zipfile.ZipFile(out_path,'w',zipfile.ZIP_DEFLATED) as z:
             z.writestr('definition.xml',d); z.writestr('db.xml',db)
             for f in s.imgfiles: z.write(os.path.join(s.img,f),'images/'+f)
+            for a,b in s.extra: z.write(a,b)
         print('built %s: %d pages, %d npcs, %d images, %.1f MB'%(os.path.basename(out_path),len(s.book),len(s.NPC),len(s.imgfiles),os.path.getsize(out_path)/1048576))

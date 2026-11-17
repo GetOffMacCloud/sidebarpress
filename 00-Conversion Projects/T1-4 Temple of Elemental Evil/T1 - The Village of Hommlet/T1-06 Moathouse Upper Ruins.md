@@ -32,6 +32,8 @@ This outpost was ignored during the destruction of the Temple, for the army of g
 
 The track continues past the ruins for many miles—seven leagues, in fact, to Nulb. (Map 1 governs these distances; see [[T1-00 Introduction#Development Notes]].)
 
+**On the way.** Check for a wilderness encounter once each way, about halfway along the track (twice at night): the forest table for the first dozen miles, the swamp table near the ruins. Use the T1 column of [[T1-09 Wilderness Encounters]].
+
 ## Random Encounters (Upper Level)
 
 Check once every **10 minutes** in all areas: an encounter occurs on a **1 on a d12**. Roll a d6 for the type. These random encounters do not deplete the numbers of others in the ruins. References to encounter areas are given for aid in handling of the type.

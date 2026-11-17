@@ -8,7 +8,7 @@ PORT=('{s}, {c}, head and shoulders portrait in three-quarter view, the head in 
 C12=[l.split(' | ')[0] for l in []]
 def block(name,s,c,where):
     seed=zlib.crc32(name.encode())%90000+10000
-    return ('### %s\n*Save as* `%s/%s — Portrait.png` *and* `.../plates/%s.png`\n\n**Plate (print, black and white)**\n```\n%s\n```\n**Colour portrait (FGU portrait and token source)**\n```\n%s\n```\n'%(name,where,name,name,PLATE.format(s=s,seed=seed),PORT.format(s=s,c=c,seed=seed)))
+    return ('### %s\n*Save as* `%s/%s — Portrait.png` *and* `99-Assets/Bestiary/Print/%s.png`\n\n**Plate (print, black and white)**\n```\n%s\n```\n**Colour portrait (FGU portrait and token source)**\n```\n%s\n```\n'%(name,where,name,name,PLATE.format(s=s,seed=seed),PORT.format(s=s,c=c,seed=seed)))
 c12=open(V+'/00-Conversion Projects/C12 - The Forgotten Library of Raanet/FGU Kit/C12 - FG NPC Import.txt').read()
 c12n=[re.sub(r'\s*\(.*$','',h).strip() if not h.strip().startswith(('Hydra','Pyrohydra','Dwarf','Elf','Gnome','Halfling')) else h.strip() for h in re.findall(r'^#### \d+ (.*?) ####',c12,re.M)]
 c12n=[n if n in S else re.sub(r'\s*\((Area|Areas)[^)]*\)$','',n) for n in c12n]
@@ -20,10 +20,10 @@ out+=['## C12 The Forgotten Library of Raanet (new)','']
 for n in c12n:
     s,c=S[n]; out.append('- [ ] '+n)
 out.append('')
-for n in c12n: s,c=S[n]; out.append(block(n,s,c,'99-Assets/C12/portraits'))
+for n in c12n: s,c=S[n]; out.append(block(n,s,c,'99-Assets/Bestiary/FGU/Portraits'))
 out+=['## Vault creatures without a prompt yet (new)','']
 for n in ['Barrow Dead','Ghoul Rider','Penny-Risen','Cured Hand','Ossuary Crawler','Brother Ossian','Brother-Reaper Ansgar Vell','Cathal Red-Torc','Grukka One-Tusk','Sister Halse']:
-    s,c=S[n]; out.append(block(n,s,c,'99-Assets/SP-OM01/portraits'))
+    s,c=S[n]; out.append(block(n,s,c,'99-Assets/Bestiary/FGU/Portraits'))
 out+=['## Vault creatures with prompts already in their notes','','These are copied from each note\'s **Art Prompt** section (the note stays the master copy).','']
 for f in sorted(glob.glob(V+'/65-Bestiary/*.md')+glob.glob(V+'/65-Bestiary/*/*.md')):
     t=open(f).read()

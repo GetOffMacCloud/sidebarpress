@@ -22,7 +22,8 @@ tags: [adventure/T1, toee, conversion]
 7. [[T1-06 Moathouse Upper Ruins]]: Part 1A, areas 1–17.
 8. [[T1-07 Moathouse Dungeon]]: areas 18–35 and Lareth the Beautiful.
 9. [[T1-08 Interlude - Hommlet to Nulb]]: the bridge to T2-4.
-10. [[T1 - Bestiary (5e)]], the **NPCs** folder and the **Items** folder.
+10. [[T1-09 Wilderness Encounters]]: the outdoor tables for the roads between Hommlet, the Moathouse and Nulb.
+11. [[T1 - Bestiary (5e)]], the **NPCs** folder and the **Items** folder.
 
 **Maps:** Map 1 (Hommlet to Nulb), Map 2 (the Village of Hommlet), Map 3 (the Inn), Map 4 (the Traders' Establishment), Map 5 (the Church), Map 6 (the Guard Tower), Map 7 (the Moathouse Ruins) and Map 8 (the Moathouse Dungeon), in `Maps/T1/`. Each map comes in GM, Player, Player (No Grid) and Print versions.
 
@@ -317,6 +318,7 @@ The Players' Background, village area 33, the Moathouse approach and the Interlu
 - **Burne's chime of opening** has 10 uses left (1e "51 charges"), and his wand of magic missiles has 7 charges (1e 49).
 - **Hidden caches, locks and secret doors** have DCs where the 1985 text gave none (DC 15 by default, DC 18 for the best-hidden).
 - **The traders' bartering** (area 13) gets a Persuasion check to move their offer from 25% toward the printed 70% ceiling.
+- **Wilderness encounters.** The 1985 outdoor tables (printed at the start of Part 2) are brought into T1 as [[T1-09 Wilderness Encounters]], with a column scaled for 1st–4th-level parties, because the Moathouse now lies 15 miles out.
 - **Read-aloud text** is exactly the text boxed in the 1985 printing. Boxes were checked against the page scans.
 
-*Original credits (1985): Layout and editing, Timothy Jones; editorial assistance, Mike Carr and Al Hammack; art and maps, Dave Trampier and Dave Sutherland. Designed by E. Gary Gygax.*
+*Original credits. T1 (1979), as reprinted in 1985: layout and editing, Timothy Jones; editorial assistance, Mike Carr and Al Hammack; art and maps, Dave Trampier and Dave Sutherland. T1-4 (1985): editing, Ed Carmien, Bruce Heard, Harold Johnson, Thad Russell and Steve Winter; cover, Keith Parkinson; interior art, Jeff Butler, Clyde Caldwell, Jeff Easley, Larry Elmore, Keith Parkinson and Dave Trampier; cartography, Dave Sutherland. Designed by E. Gary Gygax, with Frank Mentzer.*

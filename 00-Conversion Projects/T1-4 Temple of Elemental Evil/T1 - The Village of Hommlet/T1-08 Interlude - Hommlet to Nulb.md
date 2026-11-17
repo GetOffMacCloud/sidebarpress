@@ -30,6 +30,8 @@ tags: [adventure/T1, toee, interlude, nulb]
 >
 > How you and your fellow adventurers plan to overcome the perils of the Temple is a matter that you must decide for yourselves. Is it best to reconnoiter from Hommlet? Base your activities from the village of Nulb? Try to make a secure wilderness camp somewhere near the ruin? Or perhaps lodge somewhere within the foreboding Temple itself? The decision is now. It is certain that both vast treasure and horrible death await, so you must gain the one while cheating the other. Fortune and the gods must smile upon such an undertaking.
 
+**On the road to Nulb.** Check for wilderness encounters on the way, using the *As printed* column of [[T1-09 Wilderness Encounters]].
+
 ## Players' Historical Notes
 
 The following is a summary of information assumed to have been obtained from various sources in the village of Hommlet. Most or all of it should be revealed to players at this time. The DM should review it first, however, deleting such passages that are incorrect in the campaign, and others that may (in the DM's opinion) be too revealing as yet.

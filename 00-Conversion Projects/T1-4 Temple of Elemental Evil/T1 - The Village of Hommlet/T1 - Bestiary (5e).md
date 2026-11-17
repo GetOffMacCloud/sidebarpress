@@ -63,6 +63,8 @@ Every creature and NPC in *The Village of Hommlet*, converted from the conversio
 | [[#The Lieutenant]] | 3 | Moathouse 34 | Veteran variant |
 | [[#Lareth the Beautiful]] | 4 | Moathouse 35 | Custom |
 | [[#The Avenger]] | 8 | After Moathouse 35 | Assassin |
+| [[#Giant Leech]] | 1/4 | Wilderness (swamp) | Custom |
+| [[#Giant Gar]] | 2 | Wilderness (river) | Hunter shark variant |
 
 ---
 
@@ -383,6 +385,27 @@ Lareth's "evil hero" (1e Fighter 4, hp 31; S 15 I 12 W 10 D 15 Co 17 Ch 7). **Us
 If Lareth's possessions turn up after his death, an **MM Assassin** (p. 343, CR 8) comes to Hommlet in **3d6 + 2 days** (1e 5–20) to kill the people responsible. It speaks Common, Abyssal and Thieves' Cant. If it dies, nothing more is sent. See [[T1-07 Moathouse Dungeon#35. CHAMBER OF THE NEW MASTER]].
 
 ---
+
+## Wilderness
+Creatures from [[T1-09 Wilderness Encounters]] that have no MM statblock. Everything else on those tables is MM.
+
+### Giant Leech
+> [!example] Giant Leech · CR 1/4 (50 XP)
+> *1e: AC 9; HD 1–4; bite drains blood (damage per round = its HD); anesthesia (the victim notices only 1% of the time); 50% chance of disease.*
+> *Small beast, unaligned* · **AC** 10 · **HP** 13 (3d6 + 3) · **Speed** 5 ft, swim 30 ft
+> STR 10 (+0) · DEX 10 (+0) · CON 12 (+1) · INT 1 (−5) · WIS 8 (−1) · CHA 1 (−5)
+> **Skills** Stealth +4 · **Senses** blindsight 30 ft, passive Perception 9 · **Languages** — · **CR** 1/4
+> ***Water Lurker.*** Advantage on Stealth checks made underwater.
+> ***Numbing Bite (1e anesthesia).*** A creature the leech is attached to doesn't notice it unless it succeeds on a **DC 20 Wisdom (Perception)** check, made at the start of each of its turns, or it sees the leech.
+> **Bite.** *Melee:* +2 to hit, 1 piercing damage, and the leech **attaches**. While attached it doesn't attack. Instead, the target loses **2 (1d4) hit points** to blood drain at the start of each of the leech's turns. The leech detaches when it has drained 10 hit points, when it dies, or when salt or fire is applied (1 fire damage). A creature can pull it off with an action and a DC 10 Strength check.
+> ***Leech Fever (1e: 50% disease).*** When the leech detaches, the target makes a **DC 11 Constitution save**. On a failure it contracts **sewer plague** (DMG p. 257).
+
+### Giant Gar
+> [!example] Giant Gar · CR 2 (450 XP)
+> *1e: AC 3; MV //30"; HD 8; bite 5–20; swallows whole on a natural 20. Size L (21–30 ft). The Imeryds Run holds only small ones.*
+> **Use the MM Hunter Shark** (p. 330, CR 2), reskinned as a freshwater gar, **with these changes.** AC 14 (natural armor). It loses *Blood Frenzy* and gains:
+> ***Swallow (1e: on a natural 20).*** When it hits a Medium or smaller creature with a bite and the attack roll is a natural 20, the target is swallowed. A swallowed creature is blinded and restrained, has total cover from attacks outside the gar, and takes **7 (2d6) acid** damage at the start of each of the gar's turns. The gar can hold one creature at a time. If it takes 15 or more damage in one turn from the creature inside, it regurgitates it. If it dies, the creature can escape using 5 ft of movement.
+> **Small giant gar (CR 1):** HP 30, bite 1d8 + 4, and it can't swallow.
 
 ## Scaling creatures
 Used only by the scaling box in [[T1-00 Introduction#Adjusting the Moathouse]]: **bandit captain** (MM p. 344), **bugbear chief** (MM p. 33), **gnoll pack lord** (MM p. 163), **ghast** (MM p. 148).

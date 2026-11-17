@@ -48,7 +48,7 @@ for f in sorted(glob.glob(V+'/65-Bestiary/**/*.md',recursive=True))+[V+'/30-NPCs
         boxes=['<h>%s</h>%s'%(k,c(k)) for k in BOX if c(k)]
     fgconv.SEEN.clear()
     stats=[fgtext.parse(x) for x in bl]
-    por=os.path.join(V,'99-Assets/SP-OM01/portraits',name+' — Portrait.png')
+    por=os.path.join(V,'99-Assets/Bestiary/FGU/Portraits',name+' — Portrait.png')
     PAGES.append(dict(ch=ch,sub=sub,name=name,stats=stats,lore=lore,body=body,boxes=boxes,por=por if os.path.exists(por) else None,cat=ch if ch!='Monsters' else 'Monsters'))
 # ---------- C12 conversions (Appendix C)
 sb=open(C12+'/C12 - Summoning Bestiary (5e).md').read()
@@ -71,7 +71,7 @@ for hdr,x in re.findall(r'^(#### .*?####)\s*$\n(.*?)(?=^####|\Z)',t,re.M|re.S):
 src=os.path.join(WORK,'src'); shutil.rmtree(src,ignore_errors=True); os.makedirs(src)
 for p in PAGES:
     if p['por']: shutil.copy(p['por'],os.path.join(src,'npc-'+slug(p['name'])+'.png'))
-for p in glob.glob(V+'/99-Assets/C12/portraits/*— Portrait.png'):
+for p in glob.glob(V+'/99-Assets/Bestiary/FGU/Portraits/*— Portrait.png'):
     n=os.path.basename(p).split(' — ')[0]
     for q in PAGES:
         if q['name']==n and q['ch'].startswith('Appendix C'): q['por']=p; shutil.copy(p,os.path.join(src,'npc-'+slug(n)+'.png'))
@@ -93,7 +93,11 @@ for p in PAGES:
         if img: tx+='<linklist><link class="imagewindow" recordname="image.%s"><b>Image: </b>%s</link></linklist>'%(m.IMG[img][0],html.escape(p['name']))
         tx+=p['lore']+p['body']+''.join(p['boxes'])
         tx+='<p><i>Sidebar Press %s.</i></p>'%('conversion' if p['ch'].startswith('Appendix C') else 'homebrew')
-        fgtext.add(m,key,d,tx,img); NN[key]=d['name']; p['keys'].append(key)
+        tk=os.path.join(V,'99-Assets/Bestiary/FGU/Tokens',p['name']+' — Token.png'); tok=None
+        if os.path.exists(tk):
+            arc='tokens/%s.png'%slug(p['name']); tok=arc+'@'+NAME
+            if (tk,arc) not in m.extra: m.extra.append((tk,arc))
+        fgtext.add(m,key,d,tx,img,tok); NN[key]=d['name']; p['keys'].append(key)
 # ---------- book
 def nlinks(p): return '<linklist>'+''.join('<link class="npc" recordname="npc.%s">NPC: %s</link>'%(k,html.escape(NN[k])) for k in p['keys'])+'</linklist>'
 def note(f):

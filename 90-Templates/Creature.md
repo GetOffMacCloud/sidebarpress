@@ -25,7 +25,7 @@ tags: [bestiary, statblock, 2014-5e]
 *One line a DM can read aloud when the creature first appears (≤25 words).*
 
 > [!art]+ Plate
-> ![[99-Assets/SP-OM01/plates/{{name}}.png|360]]
+> ![[99-Assets/Bestiary/Print/{{name}}.png|360]]
 
 > [!example]+ {{name}} (CR X, X XP)
 > *Size type, alignment*

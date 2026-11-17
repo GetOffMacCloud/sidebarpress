@@ -68,7 +68,7 @@ One **plate** (black-and-white ink, for print) and one **colour portrait** (FGU 
 - [ ] Giant Squid
 
 ### Keeper-of-the-Hearth
-*Save as* `99-Assets/C12/portraits/Keeper-of-the-Hearth — Portrait.png` *and* `.../plates/Keeper-of-the-Hearth.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Keeper-of-the-Hearth — Portrait.png` *and* `99-Assets/Bestiary/Print/Keeper-of-the-Hearth.png`
 
 **Plate (print, black and white)**
 ```
@@ -80,7 +80,7 @@ a towering humanoid shape of living flame rising from a great round hearth, its 
 ```
 
 ### Caryatid Column
-*Save as* `99-Assets/C12/portraits/Caryatid Column — Portrait.png` *and* `.../plates/Caryatid Column.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Caryatid Column — Portrait.png` *and* `99-Assets/Bestiary/Print/Caryatid Column.png`
 
 **Plate (print, black and white)**
 ```
@@ -92,7 +92,7 @@ a marble statue of a robed temple maiden serving as a column, a long sword half 
 ```
 
 ### Wraith of the Oubliette
-*Save as* `99-Assets/C12/portraits/Wraith of the Oubliette — Portrait.png` *and* `.../plates/Wraith of the Oubliette.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Wraith of the Oubliette — Portrait.png` *and* `99-Assets/Bestiary/Print/Wraith of the Oubliette.png`
 
 **Plate (print, black and white)**
 ```
@@ -104,7 +104,7 @@ a hooded wraith of tattered shadow with burning pinpoint eyes, clawed hands reac
 ```
 
 ### Magman
-*Save as* `99-Assets/C12/portraits/Magman — Portrait.png` *and* `.../plates/Magman.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Magman — Portrait.png` *and* `99-Assets/Bestiary/Print/Magman.png`
 
 **Plate (print, black and white)**
 ```
@@ -116,7 +116,7 @@ a small squat humanoid made of molten rock, cracked crust over glowing magma, dr
 ```
 
 ### Air Elemental of the Retreat
-*Save as* `99-Assets/C12/portraits/Air Elemental of the Retreat — Portrait.png` *and* `.../plates/Air Elemental of the Retreat.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Air Elemental of the Retreat — Portrait.png` *and* `99-Assets/Bestiary/Print/Air Elemental of the Retreat.png`
 
 **Plate (print, black and white)**
 ```
@@ -128,7 +128,7 @@ a whirling column of wind and dust with a vague screaming face inside the vortex
 ```
 
 ### Harginn Grue
-*Save as* `99-Assets/C12/portraits/Harginn Grue — Portrait.png` *and* `.../plates/Harginn Grue.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Harginn Grue — Portrait.png` *and* `99-Assets/Bestiary/Print/Harginn Grue.png`
 
 **Plate (print, black and white)**
 ```
@@ -140,7 +140,7 @@ a lean humanoid with legs of living flame and a bald head crowned in fire, flick
 ```
 
 ### Ranzaar
-*Save as* `99-Assets/C12/portraits/Ranzaar — Portrait.png` *and* `.../plates/Ranzaar.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Ranzaar — Portrait.png` *and* `99-Assets/Bestiary/Print/Ranzaar.png`
 
 **Plate (print, black and white)**
 ```
@@ -152,7 +152,7 @@ a huge serpentine figure of living fire coiled around a bronze brazier, a crown 
 ```
 
 ### Fire Bat
-*Save as* `99-Assets/C12/portraits/Fire Bat — Portrait.png` *and* `.../plates/Fire Bat.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Fire Bat — Portrait.png` *and* `99-Assets/Bestiary/Print/Fire Bat.png`
 
 **Plate (print, black and white)**
 ```
@@ -164,7 +164,7 @@ a bat made of flame with wings of fire and a fanged blazing mouth, trailing spar
 ```
 
 ### Phantom Stalker
-*Save as* `99-Assets/C12/portraits/Phantom Stalker — Portrait.png` *and* `.../plates/Phantom Stalker.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Phantom Stalker — Portrait.png` *and* `99-Assets/Bestiary/Print/Phantom Stalker.png`
 
 **Plate (print, black and white)**
 ```
@@ -176,7 +176,7 @@ a gaunt red-skinned demonlike humanoid with long clawed hands, bat-like ears and
 ```
 
 ### Ixthasus, Greater Salamander
-*Save as* `99-Assets/C12/portraits/Ixthasus, Greater Salamander — Portrait.png` *and* `.../plates/Ixthasus, Greater Salamander.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Ixthasus, Greater Salamander — Portrait.png` *and* `99-Assets/Bestiary/Print/Ixthasus, Greater Salamander.png`
 
 **Plate (print, black and white)**
 ```
@@ -188,7 +188,7 @@ a great salamander with the torso of a fierce horned humanoid and a long serpent
 ```
 
 ### Stone Guardian
-*Save as* `99-Assets/C12/portraits/Stone Guardian — Portrait.png` *and* `.../plates/Stone Guardian.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Stone Guardian — Portrait.png` *and* `99-Assets/Bestiary/Print/Stone Guardian.png`
 
 **Plate (print, black and white)**
 ```
@@ -200,7 +200,7 @@ a squat humanoid assembled from mosaic floor tiles and rough stone, fists like b
 ```
 
 ### Wight of the Cornucopia
-*Save as* `99-Assets/C12/portraits/Wight of the Cornucopia — Portrait.png` *and* `.../plates/Wight of the Cornucopia.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Wight of the Cornucopia — Portrait.png` *and* `99-Assets/Bestiary/Print/Wight of the Cornucopia.png`
 
 **Plate (print, black and white)**
 ```
@@ -212,7 +212,7 @@ a gaunt wight in rotten noble finery clutching a horn of plenty spilling withere
 ```
 
 ### Naskin ad-Laar
-*Save as* `99-Assets/C12/portraits/Naskin ad-Laar — Portrait.png` *and* `.../plates/Naskin ad-Laar.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Naskin ad-Laar — Portrait.png` *and* `99-Assets/Bestiary/Print/Naskin ad-Laar.png`
 
 **Plate (print, black and white)**
 ```
@@ -224,7 +224,7 @@ an undead swordsman commander in a chain shirt and round shield, a gleaming long
 ```
 
 ### Yrsi ad-Laar
-*Save as* `99-Assets/C12/portraits/Yrsi ad-Laar — Portrait.png` *and* `.../plates/Yrsi ad-Laar.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Yrsi ad-Laar — Portrait.png` *and* `99-Assets/Bestiary/Print/Yrsi ad-Laar.png`
 
 **Plate (print, black and white)**
 ```
@@ -236,7 +236,7 @@ an undead swordswoman in a chain shirt behind a heavy round shield, longsword re
 ```
 
 ### Yox
-*Save as* `99-Assets/C12/portraits/Yox — Portrait.png` *and* `.../plates/Yox.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Yox — Portrait.png` *and* `99-Assets/Bestiary/Print/Yox.png`
 
 **Plate (print, black and white)**
 ```
@@ -248,7 +248,7 @@ a huge fire genie with a muscular burning body, scimitar in hand, a cruel bearde
 ```
 
 ### Avraasha, the First Servant
-*Save as* `99-Assets/C12/portraits/Avraasha, the First Servant — Portrait.png` *and* `.../plates/Avraasha, the First Servant.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Avraasha, the First Servant — Portrait.png` *and* `99-Assets/Bestiary/Print/Avraasha, the First Servant.png`
 
 **Plate (print, black and white)**
 ```
@@ -260,7 +260,7 @@ an enormous sphinx made of cooling lava and fire, a regal feminine face with mad
 ```
 
 ### Dwarf (summoned)
-*Save as* `99-Assets/C12/portraits/Dwarf (summoned) — Portrait.png` *and* `.../plates/Dwarf (summoned).png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Dwarf (summoned) — Portrait.png` *and* `99-Assets/Bestiary/Print/Dwarf (summoned).png`
 
 **Plate (print, black and white)**
 ```
@@ -272,7 +272,7 @@ a stout bearded dwarf warrior with a battleaxe and a round shield, braced for ba
 ```
 
 ### Elf (summoned)
-*Save as* `99-Assets/C12/portraits/Elf (summoned) — Portrait.png` *and* `.../plates/Elf (summoned).png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Elf (summoned) — Portrait.png` *and* `99-Assets/Bestiary/Print/Elf (summoned).png`
 
 **Plate (print, black and white)**
 ```
@@ -284,7 +284,7 @@ a slender elf warrior with a longsword and a longbow on her back, alert and grac
 ```
 
 ### Gnome (summoned)
-*Save as* `99-Assets/C12/portraits/Gnome (summoned) — Portrait.png` *and* `.../plates/Gnome (summoned).png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Gnome (summoned) — Portrait.png` *and* `99-Assets/Bestiary/Print/Gnome (summoned).png`
 
 **Plate (print, black and white)**
 ```
@@ -296,7 +296,7 @@ a small gnome fighter with a pointed cap, a short spear and a buckler, cheerful 
 ```
 
 ### Halfling (summoned)
-*Save as* `99-Assets/C12/portraits/Halfling (summoned) — Portrait.png` *and* `.../plates/Halfling (summoned).png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Halfling (summoned) — Portrait.png` *and* `99-Assets/Bestiary/Print/Halfling (summoned).png`
 
 **Plate (print, black and white)**
 ```
@@ -308,7 +308,7 @@ a small barefoot halfling slinger with a short sword and a sling, curly hair, a 
 ```
 
 ### Koalinth
-*Save as* `99-Assets/C12/portraits/Koalinth — Portrait.png` *and* `.../plates/Koalinth.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Koalinth — Portrait.png` *and* `99-Assets/Bestiary/Print/Koalinth.png`
 
 **Plate (print, black and white)**
 ```
@@ -320,7 +320,7 @@ an aquatic hobgoblin with webbed hands and gill slits, a wet fanged face, grippi
 ```
 
 ### Nixie
-*Save as* `99-Assets/C12/portraits/Nixie — Portrait.png` *and* `.../plates/Nixie.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Nixie — Portrait.png` *and* `99-Assets/Bestiary/Print/Nixie.png`
 
 **Plate (print, black and white)**
 ```
@@ -332,7 +332,7 @@ a small graceful water fey with webbed fingers and long flowing hair, half emerg
 ```
 
 ### Ixitxachitl
-*Save as* `99-Assets/C12/portraits/Ixitxachitl — Portrait.png` *and* `.../plates/Ixitxachitl.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Ixitxachitl — Portrait.png` *and* `99-Assets/Bestiary/Print/Ixitxachitl.png`
 
 **Plate (print, black and white)**
 ```
@@ -344,7 +344,7 @@ a sinister ray-like sea creature with a fanged mouth on its underside and a barb
 ```
 
 ### Locathah
-*Save as* `99-Assets/C12/portraits/Locathah — Portrait.png` *and* `.../plates/Locathah.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Locathah — Portrait.png` *and* `99-Assets/Bestiary/Print/Locathah.png`
 
 **Plate (print, black and white)**
 ```
@@ -356,7 +356,7 @@ a fish-headed humanoid warrior with scaled skin, large round eyes and fins, hold
 ```
 
 ### Boring Beetle
-*Save as* `99-Assets/C12/portraits/Boring Beetle — Portrait.png` *and* `.../plates/Boring Beetle.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Boring Beetle — Portrait.png` *and* `99-Assets/Bestiary/Print/Boring Beetle.png`
 
 **Plate (print, black and white)**
 ```
@@ -368,7 +368,7 @@ a huge armored beetle with drill-like mandibles, burrowing out of rotten wood an
 ```
 
 ### Giant Tick
-*Save as* `99-Assets/C12/portraits/Giant Tick — Portrait.png` *and* `.../plates/Giant Tick.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Tick — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Tick.png`
 
 **Plate (print, black and white)**
 ```
@@ -380,7 +380,7 @@ a bloated giant tick with a hard shell and barbed mouthparts, clinging to a rock
 ```
 
 ### Huge Spider
-*Save as* `99-Assets/C12/portraits/Huge Spider — Portrait.png` *and* `.../plates/Huge Spider.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Huge Spider — Portrait.png` *and* `99-Assets/Bestiary/Print/Huge Spider.png`
 
 **Plate (print, black and white)**
 ```
@@ -392,7 +392,7 @@ a large hunting spider with long hairy legs and a cluster of shining eyes, poise
 ```
 
 ### Lacedon
-*Save as* `99-Assets/C12/portraits/Lacedon — Portrait.png` *and* `.../plates/Lacedon.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Lacedon — Portrait.png` *and* `99-Assets/Bestiary/Print/Lacedon.png`
 
 **Plate (print, black and white)**
 ```
@@ -404,7 +404,7 @@ an aquatic ghoul with webbed claws and seaweed in its hair, rising from black wa
 ```
 
 ### Carnivorous Ape
-*Save as* `99-Assets/C12/portraits/Carnivorous Ape — Portrait.png` *and* `.../plates/Carnivorous Ape.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Carnivorous Ape — Portrait.png` *and* `99-Assets/Bestiary/Print/Carnivorous Ape.png`
 
 **Plate (print, black and white)**
 ```
@@ -416,7 +416,7 @@ a huge muscular ape with long fangs and a snarling face, knuckles on the ground,
 ```
 
 ### Ice Toad
-*Save as* `99-Assets/C12/portraits/Ice Toad — Portrait.png` *and* `.../plates/Ice Toad.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Ice Toad — Portrait.png` *and* `99-Assets/Bestiary/Print/Ice Toad.png`
 
 **Plate (print, black and white)**
 ```
@@ -428,7 +428,7 @@ a huge toad covered in frost, cold mist rising from its warty skin, a ring of ic
 ```
 
 ### Poisonous Toad
-*Save as* `99-Assets/C12/portraits/Poisonous Toad — Portrait.png` *and* `.../plates/Poisonous Toad.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Poisonous Toad — Portrait.png` *and* `99-Assets/Bestiary/Print/Poisonous Toad.png`
 
 **Plate (print, black and white)**
 ```
@@ -440,7 +440,7 @@ a big warty toad with bulging eyes and glistening poison glands on its back, mot
 ```
 
 ### Hydra (Greyhawk), 5-headed
-*Save as* `99-Assets/C12/portraits/Hydra (Greyhawk), 5-headed — Portrait.png` *and* `.../plates/Hydra (Greyhawk), 5-headed.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Hydra (Greyhawk), 5-headed — Portrait.png` *and* `99-Assets/Bestiary/Print/Hydra (Greyhawk), 5-headed.png`
 
 **Plate (print, black and white)**
 ```
@@ -452,7 +452,7 @@ a five-headed hydra with long serpentine necks and a heavy reptilian body, every
 ```
 
 ### Giant Water Beetle
-*Save as* `99-Assets/C12/portraits/Giant Water Beetle — Portrait.png` *and* `.../plates/Giant Water Beetle.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Water Beetle — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Water Beetle.png`
 
 **Plate (print, black and white)**
 ```
@@ -464,7 +464,7 @@ a huge flat water beetle with oar-like legs and strong pincering mandibles, half
 ```
 
 ### Giant Crayfish
-*Save as* `99-Assets/C12/portraits/Giant Crayfish — Portrait.png` *and* `.../plates/Giant Crayfish.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Crayfish — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Crayfish.png`
 
 **Plate (print, black and white)**
 ```
@@ -476,7 +476,7 @@ a giant crayfish with two huge pincers raised, armoured tail curled, crawling ov
 ```
 
 ### Kopoacinth
-*Save as* `99-Assets/C12/portraits/Kopoacinth — Portrait.png` *and* `.../plates/Kopoacinth.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Kopoacinth — Portrait.png` *and* `99-Assets/Bestiary/Print/Kopoacinth.png`
 
 **Plate (print, black and white)**
 ```
@@ -488,7 +488,7 @@ an aquatic gargoyle with webbed claws, fin-like wings and a horned demonic face,
 ```
 
 ### Giant Water Spider
-*Save as* `99-Assets/C12/portraits/Giant Water Spider — Portrait.png` *and* `.../plates/Giant Water Spider.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Water Spider — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Water Spider.png`
 
 **Plate (print, black and white)**
 ```
@@ -500,7 +500,7 @@ a large spider with a silvery bubble of air around its body, hunting under water
 ```
 
 ### Hydra (Greyhawk), 7-headed
-*Save as* `99-Assets/C12/portraits/Hydra (Greyhawk), 7-headed — Portrait.png` *and* `.../plates/Hydra (Greyhawk), 7-headed.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Hydra (Greyhawk), 7-headed — Portrait.png` *and* `99-Assets/Bestiary/Print/Hydra (Greyhawk), 7-headed.png`
 
 **Plate (print, black and white)**
 ```
@@ -512,7 +512,7 @@ a seven-headed hydra with writhing serpentine necks and a massive scaled body, j
 ```
 
 ### Subterranean Lizard
-*Save as* `99-Assets/C12/portraits/Subterranean Lizard — Portrait.png` *and* `.../plates/Subterranean Lizard.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Subterranean Lizard — Portrait.png` *and* `99-Assets/Bestiary/Print/Subterranean Lizard.png`
 
 **Plate (print, black and white)**
 ```
@@ -524,7 +524,7 @@ a huge cave lizard with a broad flat head, gripping the cave wall with clawed fe
 ```
 
 ### Giant Amphisbaena
-*Save as* `99-Assets/C12/portraits/Giant Amphisbaena — Portrait.png` *and* `.../plates/Giant Amphisbaena.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Amphisbaena — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Amphisbaena.png`
 
 **Plate (print, black and white)**
 ```
@@ -536,7 +536,7 @@ a giant snake with a fanged head at each end of its body, both heads striking, b
 ```
 
 ### Giant Spitting Snake
-*Save as* `99-Assets/C12/portraits/Giant Spitting Snake — Portrait.png` *and* `.../plates/Giant Spitting Snake.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Spitting Snake — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Spitting Snake.png`
 
 **Plate (print, black and white)**
 ```
@@ -548,7 +548,7 @@ a giant cobra-like snake rearing up and spitting venom, olive and black banded s
 ```
 
 ### Sea Lion
-*Save as* `99-Assets/C12/portraits/Sea Lion — Portrait.png` *and* `.../plates/Sea Lion.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Sea Lion — Portrait.png` *and* `99-Assets/Bestiary/Print/Sea Lion.png`
 
 **Plate (print, black and white)**
 ```
@@ -560,7 +560,7 @@ a monster with the head and forepaws of a lion and the scaled tail of a great fi
 ```
 
 ### Hydra (Greyhawk), 8-headed
-*Save as* `99-Assets/C12/portraits/Hydra (Greyhawk), 8-headed — Portrait.png` *and* `.../plates/Hydra (Greyhawk), 8-headed.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Hydra (Greyhawk), 8-headed — Portrait.png` *and* `99-Assets/Bestiary/Print/Hydra (Greyhawk), 8-headed.png`
 
 **Plate (print, black and white)**
 ```
@@ -572,7 +572,7 @@ an eight-headed hydra with a forest of serpentine necks rising from a massive sc
 ```
 
 ### Lammasu
-*Save as* `99-Assets/C12/portraits/Lammasu — Portrait.png` *and* `.../plates/Lammasu.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Lammasu — Portrait.png` *and* `99-Assets/Bestiary/Print/Lammasu.png`
 
 **Plate (print, black and white)**
 ```
@@ -584,7 +584,7 @@ a noble winged lion with a bearded human face and a calm wise expression, great 
 ```
 
 ### Wind Walker
-*Save as* `99-Assets/C12/portraits/Wind Walker — Portrait.png` *and* `.../plates/Wind Walker.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Wind Walker — Portrait.png` *and* `99-Assets/Bestiary/Print/Wind Walker.png`
 
 **Plate (print, black and white)**
 ```
@@ -596,7 +596,7 @@ a huge invisible air spirit shown as a roaring vortex with a faint howling face,
 ```
 
 ### Giant Sea Snake
-*Save as* `99-Assets/C12/portraits/Giant Sea Snake — Portrait.png` *and* `.../plates/Giant Sea Snake.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Sea Snake — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Sea Snake.png`
 
 **Plate (print, black and white)**
 ```
@@ -608,7 +608,7 @@ a gigantic sea serpent coiling above the waves, its long fanged head striking do
 ```
 
 ### Hydra (Greyhawk), 10-headed
-*Save as* `99-Assets/C12/portraits/Hydra (Greyhawk), 10-headed — Portrait.png` *and* `.../plates/Hydra (Greyhawk), 10-headed.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Hydra (Greyhawk), 10-headed — Portrait.png` *and* `99-Assets/Bestiary/Print/Hydra (Greyhawk), 10-headed.png`
 
 **Plate (print, black and white)**
 ```
@@ -620,7 +620,7 @@ a ten-headed hydra with a mass of writhing serpentine necks and a huge scaled bo
 ```
 
 ### Pyrohydra, 8-headed
-*Save as* `99-Assets/C12/portraits/Pyrohydra, 8-headed — Portrait.png` *and* `.../plates/Pyrohydra, 8-headed.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Pyrohydra, 8-headed — Portrait.png` *and* `99-Assets/Bestiary/Print/Pyrohydra, 8-headed.png`
 
 **Plate (print, black and white)**
 ```
@@ -632,7 +632,7 @@ an eight-headed hydra breathing fire from every mouth, scales glowing with heat,
 ```
 
 ### Fire Lizard
-*Save as* `99-Assets/C12/portraits/Fire Lizard — Portrait.png` *and* `.../plates/Fire Lizard.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Fire Lizard — Portrait.png` *and* `99-Assets/Bestiary/Print/Fire Lizard.png`
 
 **Plate (print, black and white)**
 ```
@@ -644,7 +644,7 @@ a huge wingless dragon-like lizard breathing a jet of fire, heavy body low to th
 ```
 
 ### Neo-Otyugh
-*Save as* `99-Assets/C12/portraits/Neo-Otyugh — Portrait.png` *and* `.../plates/Neo-Otyugh.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Neo-Otyugh — Portrait.png` *and* `99-Assets/Bestiary/Print/Neo-Otyugh.png`
 
 **Plate (print, black and white)**
 ```
@@ -656,7 +656,7 @@ a bloated tripod-legged scavenger with three long tentacles, one with a stalk of
 ```
 
 ### Shedu
-*Save as* `99-Assets/C12/portraits/Shedu — Portrait.png` *and* `.../plates/Shedu.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Shedu — Portrait.png` *and* `99-Assets/Bestiary/Print/Shedu.png`
 
 **Plate (print, black and white)**
 ```
@@ -668,7 +668,7 @@ a noble winged bull with a bearded human face wearing a crown, calm and wise, gr
 ```
 
 ### Giant Slug
-*Save as* `99-Assets/C12/portraits/Giant Slug — Portrait.png` *and* `.../plates/Giant Slug.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Slug — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Slug.png`
 
 **Plate (print, black and white)**
 ```
@@ -680,7 +680,7 @@ a huge glistening slug with eye stalks raised, leaving a slick trail, acid dripp
 ```
 
 ### Hieracosphinx
-*Save as* `99-Assets/C12/portraits/Hieracosphinx — Portrait.png` *and* `.../plates/Hieracosphinx.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Hieracosphinx — Portrait.png` *and* `99-Assets/Bestiary/Print/Hieracosphinx.png`
 
 **Plate (print, black and white)**
 ```
@@ -692,7 +692,7 @@ a sphinx with the head of a hawk, the body of a lion and great feathered wings, 
 ```
 
 ### Water Naga
-*Save as* `99-Assets/C12/portraits/Water Naga — Portrait.png` *and* `.../plates/Water Naga.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Water Naga — Portrait.png` *and* `99-Assets/Bestiary/Print/Water Naga.png`
 
 **Plate (print, black and white)**
 ```
@@ -704,7 +704,7 @@ a long serpent with a serene human face and flowing hair, rising from water, eme
 ```
 
 ### Manta Ray
-*Save as* `99-Assets/C12/portraits/Manta Ray — Portrait.png` *and* `.../plates/Manta Ray.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Manta Ray — Portrait.png` *and* `99-Assets/Bestiary/Print/Manta Ray.png`
 
 **Plate (print, black and white)**
 ```
@@ -716,7 +716,7 @@ a huge manta ray gliding through deep water, wide wings spread, dark slate-blue 
 ```
 
 ### Giant Squid
-*Save as* `99-Assets/C12/portraits/Giant Squid — Portrait.png` *and* `.../plates/Giant Squid.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Giant Squid — Portrait.png` *and* `99-Assets/Bestiary/Print/Giant Squid.png`
 
 **Plate (print, black and white)**
 ```
@@ -730,7 +730,7 @@ a giant squid with long tentacles reaching out, a huge staring eye and a sharp b
 ## Vault creatures without a prompt yet (new)
 
 ### Barrow Dead
-*Save as* `99-Assets/SP-OM01/portraits/Barrow Dead — Portrait.png` *and* `.../plates/Barrow Dead.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Barrow Dead — Portrait.png` *and* `99-Assets/Bestiary/Print/Barrow Dead.png`
 
 **Plate (print, black and white)**
 ```
@@ -742,7 +742,7 @@ a skeleton of an ancient warrior in rotted leather, a copper torc at its neck, a
 ```
 
 ### Ghoul Rider
-*Save as* `99-Assets/SP-OM01/portraits/Ghoul Rider — Portrait.png` *and* `.../plates/Ghoul Rider.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Ghoul Rider — Portrait.png` *and* `99-Assets/Bestiary/Print/Ghoul Rider.png`
 
 **Plate (print, black and white)**
 ```
@@ -754,7 +754,7 @@ a gaunt ghoul in old riding leathers and a pewter courier token, crouched in a s
 ```
 
 ### Penny-Risen
-*Save as* `99-Assets/SP-OM01/portraits/Penny-Risen — Portrait.png` *and* `.../plates/Penny-Risen.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Penny-Risen — Portrait.png` *and* `99-Assets/Bestiary/Print/Penny-Risen.png`
 
 **Plate (print, black and white)**
 ```
@@ -766,7 +766,7 @@ a shambling zombie in a burial shroud with a copper penny on its tongue, arms re
 ```
 
 ### Cured Hand
-*Save as* `99-Assets/SP-OM01/portraits/Cured Hand — Portrait.png` *and* `.../plates/Cured Hand.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Cured Hand — Portrait.png` *and* `99-Assets/Bestiary/Print/Cured Hand.png`
 
 **Plate (print, black and white)**
 ```
@@ -778,7 +778,7 @@ a severed human hand packed with salt, scuttling like a crab on its fingers, an 
 ```
 
 ### Ossuary Crawler
-*Save as* `99-Assets/SP-OM01/portraits/Ossuary Crawler — Portrait.png` *and* `.../plates/Ossuary Crawler.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Ossuary Crawler — Portrait.png` *and* `99-Assets/Bestiary/Print/Ossuary Crawler.png`
 
 **Plate (print, black and white)**
 ```
@@ -790,7 +790,7 @@ a pale segmented scavenger the length of a coffin with a fringe of feeding tendr
 ```
 
 ### Brother Ossian
-*Save as* `99-Assets/SP-OM01/portraits/Brother Ossian — Portrait.png` *and* `.../plates/Brother Ossian.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Brother Ossian — Portrait.png` *and* `99-Assets/Bestiary/Print/Brother Ossian.png`
 
 **Plate (print, black and white)**
 ```
@@ -802,7 +802,7 @@ a hunched, soft-spoken old monk in black wool with kind unblinking eyes and fing
 ```
 
 ### Brother-Reaper Ansgar Vell
-*Save as* `99-Assets/SP-OM01/portraits/Brother-Reaper Ansgar Vell — Portrait.png` *and* `.../plates/Brother-Reaper Ansgar Vell.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Brother-Reaper Ansgar Vell — Portrait.png` *and* `99-Assets/Bestiary/Print/Brother-Reaper Ansgar Vell.png`
 
 **Plate (print, black and white)**
 ```
@@ -814,7 +814,7 @@ a tall shaven-headed cult priest in a rust-red habit under undyed grey, holding 
 ```
 
 ### Cathal Red-Torc
-*Save as* `99-Assets/SP-OM01/portraits/Cathal Red-Torc — Portrait.png` *and* `.../plates/Cathal Red-Torc.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Cathal Red-Torc — Portrait.png` *and* `99-Assets/Bestiary/Print/Cathal Red-Torc.png`
 
 **Plate (print, black and white)**
 ```
@@ -826,7 +826,7 @@ a tall undead barrow-king in a corroded mail shirt, a twisted torc of red gold a
 ```
 
 ### Grukka One-Tusk
-*Save as* `99-Assets/SP-OM01/portraits/Grukka One-Tusk — Portrait.png` *and* `.../plates/Grukka One-Tusk.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Grukka One-Tusk — Portrait.png` *and* `99-Assets/Bestiary/Print/Grukka One-Tusk.png`
 
 **Plate (print, black and white)**
 ```
@@ -838,7 +838,7 @@ a grey scarred orc war-chief missing his left tusk, wearing a stolen blue cloak,
 ```
 
 ### Sister Halse
-*Save as* `99-Assets/SP-OM01/portraits/Sister Halse — Portrait.png` *and* `.../plates/Sister Halse.png`
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Sister Halse — Portrait.png` *and* `99-Assets/Bestiary/Print/Sister Halse.png`
 
 **Plate (print, black and white)**
 ```
