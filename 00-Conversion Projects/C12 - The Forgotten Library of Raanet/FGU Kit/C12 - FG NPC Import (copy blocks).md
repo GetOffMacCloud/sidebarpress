@@ -37,7 +37,7 @@ Fantasy Grounds' NPC importer takes one creature at a time. Each NPC below sits 
 - [[#21 Koalinth]]
 - [[#22 Nixie]]
 - [[#23 Ixitxachitl]]
-- [[#24 Locathah]]
+- [[#24 Coelacanthus]]
 - [[#25 Boring Beetle]]
 - [[#26 Giant Tick]]
 - [[#27 Huge Spider]]
@@ -626,11 +626,11 @@ Actions
 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (3d4 + 2) piercing damage.
 ```
 
-## 24 Locathah
+## 24 Coelacanthus
 
 ```text
-Locathah
-Medium humanoid (locathah), neutral
+Coelacanthus
+Medium humanoid (coelacanthus), neutral
 Armor Class 13 (natural armor)
 Hit Points 13 (2d8 + 4)
 Speed 10 ft., swim 40 ft.

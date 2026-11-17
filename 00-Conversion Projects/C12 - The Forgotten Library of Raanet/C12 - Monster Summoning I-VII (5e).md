@@ -83,7 +83,7 @@ The creatures are friendly to you and your companions. **No check is needed to c
 | 61–75 | Toad, giant | Giant Toad | 1 |
 | 76–00 | Troglodyte | Troglodyte | 1/4 |
 
-**Water:** *Fresh* 01–00 Lizard man → Lizardfolk. *Salt* 01–33 Ixitxachitl → 📘 Ixitxachitl (1/2) · 34–00 Locathah → 📘 Locathah (1/4).
+**Water:** *Fresh* 01–00 Lizard man → Lizardfolk. *Salt* 01–33 Ixitxachitl → 📘 Ixitxachitl (1/2) · 34–00 Locathah → 📘 Coelacanthus (1/4).
 
 ## Monster Summoning III (5th level)
 

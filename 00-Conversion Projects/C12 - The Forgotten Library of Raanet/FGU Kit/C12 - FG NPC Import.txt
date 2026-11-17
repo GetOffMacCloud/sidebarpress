@@ -487,9 +487,9 @@ Vampiric (variant). 1 in 20 regains 5 hit points at the start of its turn, and i
 Actions
 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (3d4 + 2) piercing damage.
 
-#### 24 Locathah ####
-Locathah
-Medium humanoid (locathah), neutral
+#### 24 Coelacanthus ####
+Coelacanthus
+Medium humanoid (coelacanthus), neutral
 Armor Class 13 (natural armor)
 Hit Points 13 (2d8 + 4)
 Speed 10 ft., swim 40 ft.

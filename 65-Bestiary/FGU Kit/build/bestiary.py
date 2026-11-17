@@ -52,7 +52,7 @@ for f in sorted(glob.glob(V+'/65-Bestiary/**/*.md',recursive=True))+[V+'/30-NPCs
     PAGES.append(dict(ch=ch,sub=sub,name=name,stats=stats,lore=lore,body=body,boxes=boxes,por=por if os.path.exists(por) else None,cat=ch if ch!='Monsters' else 'Monsters'))
 # ---------- C12 conversions (Appendix C)
 sb=open(C12+'/C12 - Summoning Bestiary (5e).md').read()
-ONEE={m_.group(1).strip():(m_.group(2),m_.group(3)) for m_ in re.finditer(r'^> \[!example\][-+]? (.+?) [·—-] CR[^\n]*?(?:· \*([^*]*)\*)?\n> \*1e: ([^\n]*)\*',sb,re.M)}
+ONEE={m_.group(1).strip():(m_.group(2),m_.group(3)) for m_ in re.finditer(r'^> \[!example\][-+]? (.+?) [·—-] CR[^\n]*?(?:· \*([^*]*)\*)?\n> \*1e(?: \([^)]*\))?: ([^\n]*)\*',sb,re.M)}
 t=open(C12+'/FGU Kit/C12 - FG NPC Import.txt').read(); part=''
 for hdr,x in re.findall(r'^(#### .*?####)\s*$\n(.*?)(?=^####|\Z)',t,re.M|re.S):
     x=re.split(r'^########',x,flags=re.M)[0]

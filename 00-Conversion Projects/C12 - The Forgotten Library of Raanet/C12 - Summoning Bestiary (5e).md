@@ -28,7 +28,7 @@ Every creature on the [[C12 - Monster Summoning I-VII (5e)]] tables that has **n
 | Koalinth | 1/2 | MS I water | p. 53 |
 | Nixie | 1/8 | MS I water | p. 74 |
 | Ixitxachitl | 1/2 | MS II water | p. 55 |
-| Locathah | 1/4 | MS II water | p. 62 |
+| Coelacanthus (1e locathah) | 1/4 | MS II water | p. 62 |
 | Boring Beetle | 2 | MS III | p. 9 |
 | Giant Tick | 1/2 | MS III | p. 94 |
 | Huge Spider | 1 | MS III | p. 90 |
@@ -133,9 +133,9 @@ Every creature on the [[C12 - Monster Summoning I-VII (5e)]] tables that has **n
 > ***Vampiric (variant).*** 1 in 20 regains 5 hit points at the start of its turn, and its bite reduces the target's hit point maximum by the damage dealt. 1e: these have double Hit Dice; give them 36 HP and **CR 1**.
 > **Bite.** *Melee:* +4 to hit, 3d4 + 2 piercing.
 
-> [!example]- Locathah · CR 1/4 (50 XP) · *MS II water*
-> *1e: AC 6, MV 12" (swimming), HD 2, weapon. N. Humanoid nomads of shallow seas.*
-> *Medium humanoid (locathah), neutral* · **AC** 13 (natural armor) · **HP** 13 (2d8 + 4) · **Speed** 10 ft, swim 40 ft
+> [!example]- Coelacanthus · CR 1/4 (50 XP) · *MS II water*
+> *1e (as the locathah): AC 6, MV 12" (swimming), HD 2, weapon. N. Humanoid nomads of shallow seas.*
+> *Medium humanoid (coelacanthus), neutral* · **AC** 13 (natural armor) · **HP** 13 (2d8 + 4) · **Speed** 10 ft, swim 40 ft
 > STR 12 (+1) · DEX 12 (+1) · CON 14 (+2) · INT 11 (+0) · WIS 12 (+1) · CHA 9 (−1)
 > **Senses** passive Perception 11 · **Languages** Aquan, Common · **CR** 1/4
 > ***Limited Amphibiousness.*** It breathes air and water but must be submerged at least once every 4 hours or begin to suffocate.

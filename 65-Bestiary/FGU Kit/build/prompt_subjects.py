@@ -23,7 +23,7 @@ S={
 'Koalinth':('an aquatic hobgoblin with webbed hands and gill slits, a wet fanged face, gripping a spear','green-grey wet skin, dark blue fins, a bronze spear tip'),
 'Nixie':('a small graceful water fey with webbed fingers and long flowing hair, half emerging from a pond','pale green skin, sea-green hair, silvery water droplets'),
 'Ixitxachitl':('a sinister ray-like sea creature with a fanged mouth on its underside and a barbed tail, gliding through dark water','dark purple-black skin with a pale violet underside'),
-'Locathah':('a fish-headed humanoid warrior with scaled skin, large round eyes and fins, holding a spear','olive-green scales, yellow fins, a pale belly'),
+'Coelacanthus':('a fish-headed humanoid warrior with scaled skin, large round eyes and fins, holding a spear','olive-green scales, yellow fins, a pale belly'),
 'Boring Beetle':('a huge armored beetle with drill-like mandibles, burrowing out of rotten wood and rock','glossy dark brown carapace with amber highlights'),
 'Giant Tick':('a bloated giant tick with a hard shell and barbed mouthparts, clinging to a rock','dull grey-brown shell, swollen dark red abdomen'),
 'Huge Spider':('a large hunting spider with long hairy legs and a cluster of shining eyes, poised to pounce','mottled brown and black hair, glossy black eyes'),

@@ -34,7 +34,7 @@ One **plate** (black-and-white ink, for print) and one **colour portrait** (FGU 
 - [ ] Koalinth
 - [ ] Nixie
 - [ ] Ixitxachitl
-- [ ] Locathah
+- [ ] Coelacanthus
 - [ ] Boring Beetle
 - [ ] Giant Tick
 - [ ] Huge Spider
@@ -343,16 +343,16 @@ a sinister ray-like sea creature with a fanged mouth on its underside and a barb
 a sinister ray-like sea creature with a fanged mouth on its underside and a barbed tail, gliding through dark water, dark purple-black skin with a pale violet underside, head and shoulders portrait in three-quarter view, the head in the upper middle of the frame with clear space around it, stylized fantasy tabletop RPG creature portrait, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light, strong readable silhouette, on a soft light dusty blue-grey background with a gentle vignette --ar 3:4 --v 8.1 --stylize 150 --seed 23219 --no text, letters, signature, watermark, frame, border, dark background, black background
 ```
 
-### Locathah
-*Save as* `99-Assets/Bestiary/FGU/Portraits/Locathah — Portrait.png` *and* `99-Assets/Bestiary/Print/Locathah.png`
+### Coelacanthus
+*Save as* `99-Assets/Bestiary/FGU/Portraits/Coelacanthus — Portrait.png` *and* `99-Assets/Bestiary/Print/Coelacanthus.png`
 
 **Plate (print, black and white)**
 ```
-a fish-headed humanoid warrior with scaled skin, large round eyes and fins, holding a spear, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 58737 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+a fish-headed humanoid warrior with scaled skin, large round eyes and fins, holding a spear, full figure centered with the head and shoulders in the upper middle of the frame and clear space on every side, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow, textures rendered as hand-drawn patterns, small solid black cast shadow on the ground beneath it, no background, high contrast black and white line art, slightly naive hand-drawn charm --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 25005 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 **Colour portrait (FGU portrait and token source)**
 ```
-a fish-headed humanoid warrior with scaled skin, large round eyes and fins, holding a spear, olive-green scales, yellow fins, a pale belly, head and shoulders portrait in three-quarter view, the head in the upper middle of the frame with clear space around it, stylized fantasy tabletop RPG creature portrait, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light, strong readable silhouette, on a soft light dusty blue-grey background with a gentle vignette --ar 3:4 --v 8.1 --stylize 150 --seed 58737 --no text, letters, signature, watermark, frame, border, dark background, black background
+a fish-headed humanoid warrior with scaled skin, large round eyes and fins, holding a spear, olive-green scales, yellow fins, a pale belly, head and shoulders portrait in three-quarter view, the head in the upper middle of the frame with clear space around it, stylized fantasy tabletop RPG creature portrait, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light, strong readable silhouette, on a soft light dusty blue-grey background with a gentle vignette --ar 3:4 --v 8.1 --stylize 150 --seed 25005 --no text, letters, signature, watermark, frame, border, dark background, black background
 ```
 
 ### Boring Beetle
