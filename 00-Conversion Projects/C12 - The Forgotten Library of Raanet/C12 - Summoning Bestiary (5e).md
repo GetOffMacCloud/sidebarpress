@@ -172,7 +172,14 @@ Every creature on the [[C12 - Monster Summoning I-VII (5e)]] tables that has **n
 
 > [!example]- Lacedon · CR 1 (200 XP) · *MS III water*
 > *1e: the marine ghoul. As ghoul (AC 6, MV 9", HD 2, 1d3/1d3/1d6, paralysis); found underwater.*
-> **Use the MM Ghoul, with these changes:** swim 30 ft; it doesn't need to breathe (already true of ghouls, so it simply never surfaces). **CR 1.**
+> *Medium undead, chaotic evil* · **AC** 12 · **HP** 27 (6d8) · **Speed** 20 ft, swim 40 ft
+> STR 13 (+1) · DEX 15 (+2) · CON 11 (+0) · INT 7 (−2) · WIS 10 (+0) · CHA 6 (−2)
+> **Damage Immunities** poison · **Condition Immunities** charmed, exhaustion, poisoned · **Senses** darkvision 60 ft, passive Perception 10 · **Languages** understands Common but can't speak · **CR** 1
+> ***Aquatic Undead.*** It doesn't need to breathe and never surfaces.
+> ***Murk Hunter.*** In water it has advantage on attack rolls against a creature without a swimming speed.
+> **Bite.** *Melee:* +4 to hit, 2d6 + 2 piercing.
+> **Drowning Claws.** *Melee:* +4 to hit, 2d4 + 2 slashing; a non-undead target makes a DC 10 Con save or is paralyzed for 1 minute (save ends at end of each turn). It can drag a paralyzed creature through water at full swim speed.
+> *Homebrew (2026-11-17): rebuilt so it is no longer a copy of the MM ghoul.*
 
 ## Monster Summoning IV
 

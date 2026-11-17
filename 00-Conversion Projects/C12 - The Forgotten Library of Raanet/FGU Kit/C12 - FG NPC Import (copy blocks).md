@@ -129,10 +129,10 @@ Concealed Sword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9
 Wraith of the Oubliette
 Medium undead, neutral evil
 Armor Class 13
-Hit Points 67 (9d8 + 27)
+Hit Points 60 (8d8 + 24)
 Speed 0 ft., fly 60 ft. (hover)
 STR DEX CON INT WIS CHA
-6 (-2) 16 (+3) 16 (+3) 12 (+1) 14 (+2) 15 (+2)
+6 (-2) 16 (+3) 16 (+3) 10 (+0) 14 (+2) 16 (+3)
 Damage Resistances acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 Damage Immunities necrotic, poison
 Condition Immunities charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
@@ -140,9 +140,11 @@ Senses darkvision 60 ft., passive Perception 12
 Languages Ancient Suloise
 Challenge 5 (1,800 XP)
 Incorporeal Movement. The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+Pit-Bound. The wraith rises from the shadows of the Oubliette's pit and can't move more than 60 feet from it. When reduced to 0 hit points, it sinks back into the pit and is destroyed.
 Sunlight Sensitivity. While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 Actions
-Life Drain. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Grave Grasp. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 16 (3d8 + 3) necrotic damage plus 7 (2d6) cold damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Pull to the Pit (Recharge 5-6). The wraith targets one creature it can see within 30 feet. The target must succeed on a DC 14 Strength saving throw or be pulled up to 20 feet toward the pit and knocked prone. A creature that ends this pull within 5 feet of the edge must make the room's DC 13 Dexterity saving throw or fall 40 feet into the pit.
 ```
 
 ## 04 Magman (Areas 10, 11, 23, 28; wandering)
@@ -219,23 +221,25 @@ Gout of Flame. A gout of fire from its fingertips fills a 5-ft-wide, 10-ft line.
 ```text
 Ranzaar
 Large elemental, neutral
-Armor Class 13
-Hit Points 102 (12d10 + 36)
-Speed 50 ft.
+Armor Class 14
+Hit Points 93 (11d10 + 33)
+Speed 40 ft.
 STR DEX CON INT WIS CHA
-10 (+0) 17 (+3) 16 (+3) 6 (-2) 10 (+0) 7 (-2)
+11 (+0) 18 (+4) 16 (+3) 8 (-1) 12 (+1) 9 (-1)
 Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
 Damage Immunities fire, poison
 Condition Immunities exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-Senses darkvision 60 ft., passive Perception 10
-Languages Ignan
+Senses darkvision 60 ft., passive Perception 11
+Languages Ignan, understands Ancient Suloise
 Challenge 5 (1,800 XP)
-Fire Form. The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
-Illumination. The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.
-Water Susceptibility. For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
+Fire Form. Ranzaar can move through a space as narrow as 1 inch wide without squeezing, and through hostile creatures' spaces. A creature that touches Ranzaar or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.
+Keeper of the Child's Rest. Ranzaar won't leave Area 15. It has advantage on attack rolls against any creature that is touching the footlocker of the last Child of Fire.
+Doused. If Ranzaar takes cold damage, or at least a gallon of water is splashed on it, its Fire Form deals no damage and it can't use Flare until the end of its next turn.
+Illumination. Ranzaar sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 Actions
-Multiattack. The elemental makes two touch attacks.
-Touch. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+Multiattack. Ranzaar makes two Searing Lash attacks.
+Searing Lash. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+Flare (Recharge 5-6). Ranzaar flares to twice its height. Each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much on a successful one. Unattended flammable objects in the area ignite.
 ```
 
 ## 08 Fire Bat (Area 16; wandering)
@@ -704,19 +708,20 @@ Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) 
 Lacedon
 Medium undead, chaotic evil
 Armor Class 12
-Hit Points 22 (5d8)
-Speed 30 ft., swim 30 ft.
+Hit Points 27 (6d8)
+Speed 20 ft., swim 40 ft.
 STR DEX CON INT WIS CHA
-13 (+1) 15 (+2) 10 (+0) 7 (-2) 10 (+0) 6 (-2)
+13 (+1) 15 (+2) 11 (+0) 7 (-2) 10 (+0) 6 (-2)
 Damage Immunities poison
 Condition Immunities charmed, exhaustion, poisoned
 Senses darkvision 60 ft., passive Perception 10
-Languages Common
+Languages understands Common but can't speak
 Challenge 1 (200 XP)
 Aquatic Undead. The lacedon doesn't need to breathe and never surfaces.
+Murk Hunter. While in water, the lacedon has advantage on attack rolls against a creature that doesn't have a swimming speed.
 Actions
-Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.
-Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.
+Drowning Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. While a paralyzed creature is in water, the lacedon can drag it at its full swimming speed.
 ```
 
 ## 29 Carnivorous Ape
