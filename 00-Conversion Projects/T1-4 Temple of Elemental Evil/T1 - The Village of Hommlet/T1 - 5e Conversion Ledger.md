@@ -2,7 +2,7 @@
 tags: [adventure/T1, conversion, fgu-prep, toee]
 adventure: "T1 - The Village of Hommlet"
 source: "T1-4 The Temple of Elemental Evil (TSR 1985), PDF pp. 5–30"
-status: review round 2 (2026-11-16) — D2–D5 decided, D1 open
+status: final (2026-11-16) — D1–D5 decided; vault notes written
 created: 2026-11-16
 publish: false
 ---
@@ -69,7 +69,7 @@ These are the C12 rules, plus the T1-specific lines marked 🆕.
 | # | 1e text (page) | 5e conversion |
 |---|---|---|
 | M1 | **Agents report** to their masters. If they're mistreated, the masters "seek to redress matters" (p. 7) | Unchanged. The agent web is in §3.4 so the DM can track who reports to whom |
-| M2 | **Lareth's avenger.** If Lareth's possessions turn up, a **10th-level assassin** comes in 5–20 days (p. 26) | **Assassin** (MM, CR 8) arrives in **1d16+4 days**. Jaroo and Terjon help the targets. If the assassin dies, nothing more follows. Unchanged otherwise |
+| M2 | **Lareth's avenger.** If Lareth's possessions turn up, a **10th-level assassin** comes in 5–20 days (p. 26) | **Assassin** (MM, CR 8) arrives in **3d6 + 2 days** (5–20). Jaroo and Terjon help the targets. If the assassin dies, nothing more follows. Unchanged otherwise |
 | M3 | **Moathouse upper level:** random encounter 1 in 12 each Turn; 1d6 table (p. 21) | **1 on a d12 every 10 minutes.** Table in §4.3 |
 | M4 | **Moathouse dungeon:** 1 in 6 each Turn; 1d8 table (p. 23) | **1 on a d6 every 10 minutes.** Table in §4.3 |
 | M5 | **Mounts in the marsh:** 90% (warhorse 10%) panic at the frogs; then 50% throw the rider, 50% mired (p. 21) | DC 15 Wisdom (Animal Handling) check by the rider. A warhorse is calm on a 3+ on a d20. If the check fails, roll twice: the rider makes a **DC 10 Dex save or is thrown** (1d6 bludgeoning, prone); the mount is mired on a 50% roll (DC 12 Strength (Athletics) by the mount, with help, to pull it free) |
@@ -123,7 +123,7 @@ Each 1e line maps to a **Commoner** (CR 0) or a **Guard** (CR 1/8), with the nam
 | 2 | **Elmo** (the Viscount's agent, plays a drunk) | Rgr 4 (HD 5), hp 41, S 18 | **Veteran** (CR 3), *Elmo variant* | 20 (chain +1, shield +1) / 10 in town | **Battleaxe +1** (1d8+5), **dagger +2**. Advantage on Wisdom (Survival). Longbow and 40 arrows (20 silvered) kept at home. Feigns drunkenness: Deception +4 |
 | 7 | **Ostler Gundigoot**, innkeeper and sergeant of the militia | Ftr 2, hp 17 | **Thug** (CR ½) | 11 | Longsword. Insight +3 |
 | 8 | **Brother Smyth**, the smith and assistant druid | Drd 3 | **Druid** (MM, CR 2) | 11 | Hammer (1d4) |
-| 13 | **Rannos Davl**, the trader (secret Temple agent) | Thf 10, hp 48 | **Rannos Davl (custom, CR 4)** | 18 | *Studded leather +1*, *ring of protection*, *amulet of proof against detection and location*, *dagger +1*; *shortsword +1* under the counter. Sneak Attack 4d6, Cunning Action, Evasion, multiattack (2). hp 60 |
+| 13 | **Rannos Davl**, the trader (secret Temple agent) | Thf 10, hp 48 | **Rannos Davl (custom, CR 4)** | 18 | *Studded leather +1*, *ring of protection*, *amulet of proof against detection and location*, *dagger +1*; *shortsword +1* under the counter. Sneak Attack 4d6, Cunning Action, Evasion, multiattack (2). hp 58 (9d8 + 18) |
 | 13 | **Gremag**, the trader (secret Temple agent) | Asn 7, hp 39 | **Assassin** (MM, CR 8) | 16 | *Chain shirt +1* (⚑ D2), *dagger of venom* (3 doses), *dust of disappearance* (3 pinches) |
 | 13 | Groom; man-at-arms (Ftr 1) | — | Commoner (AC 13); **Guard** (AC 11, longbow) | | Both hire out at 2 gp/day, and both spy for the traders |
 | 15 | **Nira Melubb**, moneychanger | Thf 3 | **Spy** (CR 1) | 12 | *Dagger +1* in his boot; *longsword +1* under the counter |
@@ -133,7 +133,7 @@ Each 1e line maps to a **Commoner** (CR 0) or a **Guard** (CR 1/8), with the nam
 | 20 | **Canon Terjon**, chief cleric | Clr 6, hp 41 | **Priest** (MM, CR 2), upgraded to 6th-level casting → **CR 3** | 15 | *Mace +1*, *ring of invisibility* (⚑ D2), *ring of animal influence* (1e *mammal control*). hp 45. Spells in §5 |
 | 24 | **Jaroo Ashstaff**, druid of the Grove | Drd 7, hp 44 | **Jaroo (custom, CR 4)**: MM Druid with 7th-level casting | 11 (padded, Dex −1, *cloak of protection*); 16 with *barkskin* | *Scimitar +1*, *staff of the python*, *ring of invisibility* (⚑ D2), *cloak of protection*. **Shapechanger** (3/day: beast of CR 1 or lower). Advantage on saves vs lightning damage. hp 52 |
 | 24 | Jaroo's bear | HD 3+3 | **Black bear** (CR ½) | 11 | Hides 95% of the time |
-| 31 | **Burne**, "His Most Worshipful Mage of Hommlet" | M-U 8, hp 30 | **Mage** (MM, CR 6), 8th-level casting | 13 (*ring of protection*, mage armor if cast) | *Dagger +1*, *chime of opening* (10 uses left; 1e "51 charges"), *wand of magic missiles* (7 charges). Spells in §5 |
+| 31 | **Burne**, "His Most Worshipful Mage of Hommlet" | M-U 8, hp 30 | **Mage** (MM, CR 6), 8th-level casting | 11 (*ring of protection*); 14 with *mage armor* | *Dagger +1*, *chime of opening* (10 uses left; 1e "51 charges"), *wand of magic missiles* (7 charges). Spells in §5 |
 | 31 | **Rufus** | Ftr 6, hp 32 | **Knight** (MM, CR 3) | 20 (chain +1, shield +1) | *Battleaxe +1* replaces the greatsword (1d8+4). *Dust of disappearance* (12), *periapt of proof against poison* (1e *carnelian scarab*). Leadership kept |
 | 31 | Badgers' captain | Ftr 5, hp 31 | **Veteran** (CR 3) | 20 (splint & *shield +1*) | *Longsword +1*, light crossbow |
 | 31 | Badgers' lieutenant | Ftr 4, hp 28 | **Veteran** (CR 3) | 19 (chain & *shield +1*) | Flail, dagger, light crossbow |
@@ -143,7 +143,7 @@ Each 1e line maps to a **Commoner** (CR 0) or a **Guard** (CR 1/8), with the nam
 | I 10 | **Spugnoir**, evoker | M-U 2, hp 4 | **Spugnoir (custom, CR ⅛)**: Commoner with 1st-level wizard casting | 12 | Cantrips: *light*, *fire bolt*. 1st (2 slots): *detect magic*, *sleep* (1e *read magic* is free in 5e). Will trade for scrolls |
 | I 13 | **Furnok of Ferd**, "treasure finder" | Thf 4, hp 18 | **Spy** (CR 1) | 15 | *Dagger +1* in his boot, the scroll (§7), a *ring of invisibility* (⚑ D2). Cheats: advantage at cards and dice (1e 60% / 75%) |
 | I 14 | **Kobort** | Ftr 2, S 18 | **Thug** (CR ½), Str 18 | 19 (splint & shield) | Longsword, flail, lance. Heavy warhorse → *warhorse* |
-| I 14 | **Turuko**, Baklunish monk | Mnk 3, MV 17" | **Turuko (custom, CR 1)** | 14 (Unarmored Defense) | Speed 40 ft. Multiattack: two unarmed strikes or quarterstaff, +5, 1d6+3. **Deflect Missiles** (reduce by 1d10+5). hp 27. LE |
+| I 14 | **Turuko**, Baklunish monk | Mnk 3, MV 17" | **Turuko (custom, CR 1)** | 14 (Unarmored Defense) | Speed 40 ft. Multiattack: two unarmed strikes or quarterstaff, +4, 1d6+2. **Deflect Missiles** (reduce by 1d10+5). hp 27. LE |
 | 32 | **The laborer-spy** | Ftr 2, hp 14 | **Thug** (CR ½) | 10 | *Dagger +1*, club |
 
 ### 3.3 Burne's Badgers
@@ -172,7 +172,7 @@ The roster (captain, lieutenant, 16 men-at-arms a–p, 5 tower guards) carries o
 |---|---|---|---|---|
 | 1 | Giant frogs, average (2), HD 2 | **Giant frog** ×2 | ¼ | The MM bite already grapples and swallows. **Tongue** (keep the module's version): reach 15 ft (large) / 10 ft (small). On a hit the target is pulled 10 ft, no damage. Escape DC 11, or hit the tongue (AC 11; any damage makes the frog let go and not use the tongue again). Largest frog has swallowed an amethyst (100 gp) |
 | 1 | Giant frogs, small (4), HD 1 | **Giant frog, small** ×4 (MM giant frog: hp 9, bite 1d4+1, can't swallow) | ⅛ | Surprise on 1–4 → advantage on Stealth. The module's scaling rule applies |
-| 4 | Huge spider (wolf spider), HD 2+2 | **Giant wolf spider** | ¼ | Hidden 15 ft overhead. Leaps 15 ft (1e 3") as part of its move. Advantage +5 on Stealth (1e 1–5). 71 cp, 38 sp, ivory box (50 gp) |
+| 4 | Huge spider (wolf spider), HD 2+2 | **Huge Spider (custom, as C12)** | 1 | *Changed at write-up:* the C12 bestiary rules that the 1e huge spider is larger than the MM giant wolf spider, so the house block is used. Hidden 15 ft overhead. Pounce 30 ft. Advantage +5 on Stealth (1e 1–5). 71 cp, 38 sp, ivory box |
 | 7 | Brigand leader, Ftr 2 | **Thug**, chain & shield, longsword or spear | 1 | AC 18. hp 32 |
 | 7 | Aide, Lvl 0 | **Bandit** | ⅛ | AC 16 (ring & shield). Longsword or flail |
 | 7 | Brigands (7), Lvl 0 | **Bandit** ×7 | ⅛ | Weapons per the chart (halberd, voulge → glaive). Behavior tiers (weak / capable / overwhelming) kept word for word |
@@ -262,7 +262,7 @@ The roster (captain, lieutenant, 16 men-at-arms a–p, 5 tower guards) carries o
 | Encounter | Raw XP | Adj XP | L1 | L2 | L3 | L4 |
 |---|---|---|---|---|---|---|
 | M1 Pool: 2 giant frogs + 4 small | 200 | 400 | Deadly | Medium | Easy | Trivial |
-| M4 Tower: giant wolf spider | 50 | 50 | Trivial | Trivial | Trivial | Trivial |
+| M4 Tower: huge spider | 200 | 200 | Medium | Easy | Trivial | Trivial |
 | M7 Brigands: leader + aide + 7 | 425 | 1,062 | Deadly+ | Deadly | Hard | Medium |
 | M12 Elder adder | 200 | 200 | Medium | Easy | Trivial | Trivial |
 | M13 Rats: 2 swarms + 3 giant | 175 | 350 | Hard | Easy | Easy | Trivial |
@@ -328,7 +328,7 @@ As printed, T1 is rich by 5e standards. Hommlet's townsfolk hold well over 100,0
 - (c) Lareth's fire-opal necklace **scales with everything else**. The assassin clause still applies to anyone who sells Lareth's things.
 - (d) **Milestones are the default, with XP still listed** (§8).
 
-**Still open:** (a) ÷10 or the DMG hoard budget. Both methods are compared below.
+**Decided:** (a) **the DMG hoard budget** (the right-hand column below). The ÷10 column is kept for reference.
 
 - **÷10:** coins and goods stay as printed, and every gem, art object and piece of jewelry is divided by 10. This keeps the 1e shape: half the money is Lareth's, small finds become pocket change (3–10 gp), and the guards' platinum pay stays.
 - **DMG hoard budget:** the whole Moathouse is built as about 10 CR 0–4 hoards (DMG average ≈ 376 gp each).
@@ -450,7 +450,7 @@ The 1e XP figures in the statlines are dropped, since 5e awards XP by CR. The mo
 
 | # | Question | Status |
 |---|---|---|
-| **D1** | Treasure: keep the printed values or rebuild them to 5e? | **Partly decided:** the town hoards scale, the necklace scales, and advancement is by milestone. **The method (÷10 or DMG budget) is open.** Greybeard pointed to WotC's *D&D Conversions 1.0* (2015). The guide's careful method rebuilds treasure from the DMG Individual Treasure and Hoard tables, as if the adventure were new. Its budget is 2–3 hoards per level, and its quick method is to hand out only what you're happy with. It gives no gold conversion ratio. Questions are out to Greybeard (see §7.1) |
+| **D1** | Treasure: keep the printed values or rebuild them to 5e? | **Decided (2026-11-16): the DMG hoard budget** (careful method). Hommlet stashes tiered commoner / prosperous / rich; values in `T1-00 Introduction` § Treasure. *Earlier note:* the town hoards scale, the necklace scales, and advancement is by milestone. **The method (÷10 or DMG budget) is open.** Greybeard pointed to WotC's *D&D Conversions 1.0* (2015). The guide's careful method rebuilds treasure from the DMG Individual Treasure and Hoard tables, as if the adventure were new. Its budget is 2–3 hoards per level, and its quick method is to hand out only what you're happy with. It gives no gold conversion ratio. Questions are out to Greybeard (see §7.1) |
 | **D2** | Magic items | **Decided: rebuilt for 5e.** Every item is swapped for its DMG equivalent. Where none exists, a custom item is built from the original, using DMG items as the guide. Per the WotC guide, high 1e bonuses don't need to be kept: a +1 does the job in 5e. The caps and swaps in §7.2 stand. **Every item gets its own vault note** (`90-Templates/Item.md`) ending in `## FGU Import`: paste-ready text for the 5E Custom Item Importer (List Import, the C12 label set, `Version: Legacy`). That section is stripped from the print build. The FGU .mod build uses the same data, so the module's items and the notes always match |
 | **D3** | Rat swarms | **Decided: yes, with the difficulty verified** (§4.1 area 13) |
 | **D4** | Party scaling | **Decided: a scaling box in both directions** (§6.1) |
@@ -473,4 +473,4 @@ The 1e XP figures in the statlines are dropped, since 5e awards XP by CR. The mo
 
 ---
 
-*Next, after review: write the T1 vault notes from this ledger (keyed areas, NPCs, bestiary, items, encounters), then the FGU import.*
+*Vault notes written 2026-11-16: `T1-00` to `T1-08`, `T1 - Bestiary (5e)`, `NPCs/` (26), `Items/` (44, each with its FGU Import block). Hommlet stash values are in `T1-00 Introduction` § Treasure. Next: the FGU module build.*

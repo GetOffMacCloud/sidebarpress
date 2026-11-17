@@ -44,13 +44,14 @@ def parse(block):
         if m and len(m.group(1))<=70: d['lists'][cur].append([m.group(1),m.group(2)])
         elif d['lists'][cur]: d['lists'][cur][-1][1]+='\n'+l
         else: d['lists'][cur].append(['',l])  # intro text (e.g. legendary action preamble)
+    LBL={'legendaryactions':'Legendary Actions','lairactions':'Lair Actions','reactions':'Reactions','actions':'Actions','bonusactions':'Bonus Actions','traits':'Note'}
     for k,v in d['lists'].items():
-        if v and v[0][0]=='' and k=='legendaryactions': v[0][0]='Legendary Actions'
+        if v and v[0][0]=='': v[0][0]=LBL.get(k,'Note')
     need=['ac','hp','speed','abilities','cr']
     miss=[k for k in need if k not in d]
     if miss: raise ValueError('%s: missing %s'%(d['name'],miss))
     return d
-def add(m,key,d,text_xml='',picture=None):
+def add(m,key,d,text_xml='',picture=None,token=None):
     """Write a parsed statblock into the Mod as npc.<key>."""
     e=_S(m._cat('npc'),key); a=_S(e,'abilities')
     for n,v in zip(AB,d['abilities']):
@@ -66,6 +67,7 @@ def add(m,key,d,text_xml='',picture=None):
         if tag in d: _S(e,tag,'string',m.t(d[tag]))
     _S(e,'hp','number',d['hp']); _S(e,'xp','number',d.get('xp',0))
     _FT(e,'text',text_xml or '<h>%s</h><p><i>Sidebar Press homebrew.</i></p>'%html.escape(d['name']))
-    if picture: _S(e,'picture','token',m.imgpath(picture)); _S(e,'token','token',m.imgpath(picture))
+    if picture: _S(e,'picture','token',m.imgpath(picture))
+    if token: _S(e,'token','token',token)
     m._reg(key,e); m._slots(e)
     return e
