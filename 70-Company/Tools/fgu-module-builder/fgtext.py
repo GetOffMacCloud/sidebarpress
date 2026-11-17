@@ -70,4 +70,74 @@ def add(m,key,d,text_xml='',picture=None,token=None):
     if picture: _S(e,'picture','token',m.imgpath(picture))
     if token: _S(e,'token','token',token)
     m._reg(key,e); m._slots(e)
+    MISSES.extend((d['name'],x) for x in innate(m,e)); phb_links_for_spellcasting(m,e)
     return e
+
+# ---------- spells: clickable NPC spell entries (desc from the SRD Data module) + links to the PHB records
+PHB='DD PHB Deluxe'
+XGE="DD Xanathar's Guide to Everything Players"
+OTHER={'searing smite':('reference.spelldata.searingsmite@'+PHB,'Searing Smite'),'banishing smite':('reference.spelldata.banishingsmite@'+PHB,'Banishing Smite'),
+       'destructive wave':('reference.spelldata.destructivewave@'+PHB,'Destructive Wave'),'storm sphere':('spell.stormsphere@'+XGE,'Storm Sphere')}  # non-SRD book spells (verified in FG 2026-11-17)
+HOMEBREW=None  # optional callable(name) -> (recordname, label, desc) for homebrew spells built into the module
+MISSES=[]  # (npc, spell) innate spells not found in the SRD data
+_SRD=None
+def _srd(m):
+    global _SRD
+    if _SRD is None:
+        import zipfile,os
+        z=zipfile.ZipFile(os.path.join(m.fg,'modules','DD5E SRD Data.mod'))
+        r=ET.fromstring(z.read('client.xml')); _SRD={e.findtext('name','').lower():(e.tag,e) for e in next(r.iter('spelldata'))}
+    return _SRD
+def _desc(e):
+    lv=e.findtext('level') or '0'
+    head='Level: %s\nCasting Time: %s\nComponents: %s\nDuration: %s\nRange: %s\n'%(lv if lv!='0' else 'Cantrip',e.findtext('castingtime',''),e.findtext('components',''),e.findtext('duration',''),e.findtext('range',''))
+    d=e.find('description'); body='\n'.join(' '.join(''.join(p.itertext()).split()) for p in (d if d is not None else []) if ''.join(p.itertext()).strip())
+    return head+body+'\n'
+def spell_name(x): return re.sub(r'\s*\(.*?\)\s*','',x).strip().rstrip('.').strip()
+def innate(m,e):
+    """Innate Spellcasting trait -> innatespells entries ('Name (3/day)') and PHB links in the notes. Returns names not found in the SRD."""
+    tr=[x for x in (e.find('traits') if e.find('traits') is not None else []) if (x.findtext('name') or '').startswith('Innate Spellcasting')]
+    if not tr: return []
+    S=_srd(m); L=e.find('innatespells')
+    if L is None: L=_S(e,'innatespells')
+    links=[]; miss=[]
+    for line in tr[0].findtext('desc').split('\n'):
+        mm=re.match(r'^\s*(At will|\d+/day)[^:]*:\s*(.*)$',line,re.I)
+        if not mm: continue
+        tag=mm.group(1).capitalize() if mm.group(1).lower()=='at will' else mm.group(1)
+        for sp in re.split(r',\s*(?![^()]*\))',mm.group(2)):
+            nm=spell_name(sp)
+            if not nm: continue
+            hit=S.get(nm.lower())
+            it=_S(L,ids(len(L)+1)); _S(it,'desc','string',_desc(hit[1]) if hit else ''); _S(it,'name','string','%s (%s)'%(hit[1].findtext('name') if hit else nm[:1].upper()+nm[1:],tag))
+            if hit: links.append(('reference.spelldata.%s@%s'%(hit[0],PHB),hit[1].findtext('name')))
+            elif nm.lower() in OTHER: links.append(OTHER[nm.lower()]); it.find('desc').text='See the linked spell.'
+            elif HOMEBREW and HOMEBREW(nm):
+                rec,lab,ds=HOMEBREW(nm); links.append((rec,lab)); it.find('desc').text=ds; it.find('name').text='%s (%s)'%(lab,tag)
+            else: miss.append(nm)
+    tx=e.find('text')
+    if links and tx is not None:
+        p=ET.SubElement(tx,'p'); b=ET.SubElement(p,'b'); b.text='Spells'; b.tail=':'
+        ll=ET.SubElement(tx,'linklist')
+        for k,n in dict.fromkeys(links):
+            a=ET.SubElement(ll,'link',{'class':'power','recordname':k}); a.text='Spell: '+n
+    return miss
+def phb_links_for_spellcasting(m,e):
+    """Spellcasting trait (slot caster): add PHB links for every SRD spell it names."""
+    tr=[x for x in (e.find('traits') if e.find('traits') is not None else []) if (x.findtext('name') or '')=='Spellcasting']
+    if not tr: return
+    S=_srd(m); links=[]
+    for line in tr[0].findtext('desc').split('\n'):
+        mm=re.match(r'^\s*(?:Cantrips|\d(?:st|nd|rd|th) level)[^:]*:\s*(.*)$',line)
+        if not mm: continue
+        for sp in re.split(r',\s*(?![^()]*\))',mm.group(1)):
+            nm=spell_name(sp).lower(); hit=S.get(nm)
+            if hit: links.append(('reference.spelldata.%s@%s'%(hit[0],PHB),hit[1].findtext('name')))
+            elif nm in OTHER: links.append(OTHER[nm])
+            elif HOMEBREW and HOMEBREW(nm): links.append(HOMEBREW(nm)[:2])
+    tx=e.find('text')
+    if links and tx is not None:
+        p=ET.SubElement(tx,'p'); b=ET.SubElement(p,'b'); b.text='Spells'; b.tail=':'
+        ll=ET.SubElement(tx,'linklist')
+        for k,n in dict.fromkeys(links):
+            a=ET.SubElement(ll,'link',{'class':'power','recordname':k}); a.text='Spell: '+n

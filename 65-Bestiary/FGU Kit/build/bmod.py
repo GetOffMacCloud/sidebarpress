@@ -40,6 +40,7 @@ class BMod(fgmod.Mod):
         x=_S(en,'story_book'); _WR(x,'librarylink','reference_manual','reference.refmanualindex'); _S(x,'name','string','Book - '+s.display)
         x=_S(en,'image'); _WR(x,'librarylink','reference_list','..'); _S(x,'name','string','Images'); _S(x,'recordtype','string','image')
         x=_S(en,'npc'); _WR(x,'librarylink','reference_list','..'); _S(x,'name','string','NPCs'); _S(x,'recordtype','string','npc')
+        if 'spell' in s.cat: x=_S(en,'spell'); _WR(x,'librarylink','reference_list','..'); _S(x,'name','string','Spells'); _S(x,'recordtype','string','spell')
         for v,lab in (('bycr','NPCs - By CR'),('byletter','NPCs - By Letter'),('bytype','NPCs - By Type')):
             x=_S(en,'npc_'+v); _WR(x,'librarylink','reference_groupedlist','list.npc.'+v); _S(x,'name','string',lab)
         ET.indent(s.root,'\t'); db=b'<?xml version="1.0" encoding="utf-8"?>\n'+ET.tostring(s.root,encoding='utf-8'); s.check(db); s.lint(db)

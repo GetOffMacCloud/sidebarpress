@@ -76,6 +76,27 @@ for p in glob.glob(V+'/99-Assets/Bestiary/FGU/Portraits/*— Portrait.png'):
     for q in PAGES:
         if q['name']==n and q['ch'].startswith('Appendix C'): q['por']=p; shutil.copy(p,os.path.join(src,'npc-'+slug(n)+'.png'))
 m.images(src)
+# ---------- homebrew spells (vault spell notes, e.g. a Pocket Module's spell offering): built on first use, then linked
+SPN={}
+for f in glob.glob(V+'/57-Spells/**/*.md',recursive=True)+glob.glob(V+'/10-Adventures/**/Spells/*.md',recursive=True):
+    t=open(f).read()
+    if fm(t).get('type')=='spell': SPN[os.path.basename(f)[:-3].lower()]=f
+SPMADE={}
+def homebrew_spell(name):
+    k=name.lower()
+    if k in SPMADE: return SPMADE[k]
+    f=SPN.get(k)
+    if not f: return None
+    t=open(f).read(); meta=fm(t); b=fgconv.body(f)
+    F=dict(re.findall(r'^- \*\*([^:*]+):\*\*\s*(.*)$',b,re.M))
+    main=b.split('\n## ',1)[0]; main=re.sub(r'^# .*$','',main,flags=re.M); main=re.sub(r'^\*\d.*?\*\s*$','',main,flags=re.M); main=re.sub(r'^- \*\*.*$','',main,flags=re.M)
+    lvl=int(meta.get('level','0') or 0); key=re.sub(r'[^a-z0-9]','',k)
+    src=meta.get('adventure','Sidebar Press'); desc_xml=fgconv.conv(main)+'<p><i>Sidebar Press homebrew (%s).</i></p>'%html.escape(src); fgconv.SEEN.clear()
+    m.spell(key,meta.get('title',name),lvl,meta.get('school','').title(),meta.get('ritual','false')=='true',F.get('Casting Time',''),F.get('Range',''),fgconv.plain(F.get('Components','')),F.get('Duration',''),fgconv.plain(F.get('Classes','')),desc_xml)
+    plain=re.sub(r'<[^>]+>',' ',desc_xml); plain=re.sub(r'\s+',' ',html.unescape(plain)).strip()
+    ds='Level: %d\nCasting Time: %s\nComponents: %s\nDuration: %s\nRange: %s\n%s\n'%(lvl,F.get('Casting Time',''),fgconv.plain(F.get('Components','')),F.get('Duration',''),F.get('Range',''),plain)
+    SPMADE[k]=('spell.'+key,meta.get('title',name),ds); return SPMADE[k]
+fgtext.HOMEBREW=homebrew_spell
 # ---------- NPC records (MM style: title, image link, lore, sidebars)
 import xml.etree.ElementTree as ET
 root=ET.SubElement(m.root,'npc'); CATS={}; NN={}; used=set()
@@ -124,4 +145,5 @@ for ch in order:
         m.bpage(ch,p['sub'],p['name'],blocks)
 out=os.path.join(V,'65-Bestiary/FGU Kit',NAME+('.test' if '--test' in sys.argv else '')+'.mod')
 m.build(out)
+if fgtext.MISSES: print('innate spells not in SRD:',sorted(set(fgtext.MISSES)))
 if '--install' in sys.argv: shutil.copy(out,os.path.join(FG,'modules',NAME+'.mod')); print('installed')

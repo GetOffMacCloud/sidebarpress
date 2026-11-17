@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<story source="C12 campaign db.xml, exported 2026-11-17">
+	<id-00001>
+		<name type="string">00.1 Introduction: The Legend of Raanet</name>
+		<text type="formattedtext">
+			<h>Know ye this, if ye would have wisdom:</h>
+			<p>Long ago, in a vast basin of ash far beyond the western mountains, stood an empire of a like the world had never seen before. This was a place of endless rolling fields of verdance, blessed by each of the four winds in turn and gently kissed by the sun's warming radiance. The majestic bloom of its springtimes and the fragile beauty of its winters each graced its lands in turn, making its hills and plains the subjects of the dreams of poets. This was a place of miracles and magic; an empire of marvel and wonder. It was a place upon which its gods looked down form their respective places in the heavens and smiled.</p>
+			<p>One of these gods was called Raanet. In a time when the world was still a young place, it was she that took pity upon the first men and women dwelling in the land where that mighty empire would one day grow. She saw the way they huddled together in the darkness, shivering in the cold of the night, and shed a fiery tear in their midst. Where this sole incandescent droplet landed, it roared into a mighty flame, and the first men and women huddled about it for warmth. Grateful for their good fortune, they began to give glory to the goddess, telling tale of the beauty of the fire and singing songs about its nurturing radiance. This was the birth of the first poets, the first bards; this is why even now they gather about fires all over the world to weave their magic in word and sound.</p>
+			<p>Yet the great empire in which this folk dwelt was not destined to last forever. Fools and worse aspired to become its leaders and rotted its heart, corroding it from within. So it was that the wise within the basin gathered together and fled the land of their birth to the west, the greatest of their magi employing the Invisible Art to weave a masterpiece that might never be approached: To burrow beneath the flesh of the world and its imposing mountains and provide them a path by which to put their home at their backs forevermore.</p>
+			<p>Raanet watched their departure with fiery tears in her eyes. This was because she understood that their flight was prescient. In but days, colorless fire wrought by the empire's ancient enemies would see the whole of the land of miracles and magic, marvel and wonder, burned to aught but a sea of dust. Those children that she once pitied so would be scattered by lonely winds across a vast plain of ash, the glories to which they once aspired largely forgotten by history's constant encroach. But, the goddess remembered the delight that once existed in that place, remembered the tales and the songs offered her in gratitude. She resolved to forever protect those that yet remained, that would one day emerge to the east of the silent and staid mountains. They would be cold and frightened, she knew, and longed for the day upon which she might spark forth another flame for them to huddle about.</p>
+			<p>But such a day would never come. While she waited, a visitor came to Raanet's home. She knew this one: A sinister god whose soul was as dark and the night her flames kept at bay. Still, she met his face with a kindly smile and an offer to warm himself by her fire. This was forever her way. But the visitor betrayed her hospitality, poisoning her cup. Before leaving her for dead, the terrible god stole her flame, so that it would never warm and comfort again – but instead burn and scar all those that dared cross his purpose.</p>
+			<p>When the refugees from the dead empire took their first steps from beneath the mountains, it was as Raanet had foreseen. They were cold and frightened. So it was that they called her name into the heavens for succor...but were met by aught but silence. No few of these folk venerated the goddess deeply and were heartbroken at the way she had seemingly turned her back upon them. They wondered what sin they might have committed against her and considered that perhaps she had wanted them to remain in their doomed land, to give themselves to fire and meet her at her eternal hearth. They asked for answers of the gods and were met with none.</p>
+			<p>Most of the refugees pushed forward. Their lives depended upon their flight and could not stop to ponder the matter. Yet some of them so loved their goddess that they remained behind. Within a hollow place in the mountains, not far from where they emerged, using the arts of their fallen home and powerful magic, they built a temple dedicated to her glory: A great library full of Raanet's holy texts taken from the great empire, describing the beauty of flame and the mysteries hidden within its tongues. Within it, they continued to pray to blessed Raanet.</p>
+			<p>The goddess never answered.</p>
+			<p>The flames within her temple flickered with malice.</p>
+		</text>
+	</id-00001>
+	<id-00002>
+		<name type="string">00.2 Adventure Overview</name>
+		<text type="formattedtext">
+			<h>Module History:</h>
+			<p>The Forgotten Library of Raanet was designed as an official convention module for GameHole Con VII, held in Madison, Wisconsin in October and November, 2019. The module has been designed in such a way that it can be placed in any published or homebrewed Campaign Setting with little difficulty. It has been written so as to be usable with the OSRIC™ Role-Playing System. While the module was developed for the purpose of convention play, it can easily be adapted for use as either a one-shot adventure or worked into an ongoing Campaign with little in the way of alteration on the part of the Game Master.</p>
+			<h>Adventure Location:</h>
+			<p>This adventure takes place within The Forgotten Library of Raanet: A great athenium-temple dedicated to the Xuel goddess of Fire. Although this location can be placed wherever it fits best within the fabric of a Game Master’s Campaign, in the context of Convention play, it is located beneath the Hellforge Mountains, nearly 30 miles north of Bleak Gate. It was once accessed from the surface by a passage in the form of a thin stairway, but geological instability within the region buried this entrance hundreds of years ago. Only recently, the eruption of the volcanic Mount Xavi (or whatever geological event you choose) has uncovered this interdicted corridor, leading to this most mysterious and deadly location.</p>
+			<p>Once Player Characters find their way down the slender stairwell from the surface, they will find that The Forgotten Library of Raanet has two main components: The Hearth-Halls, in which many of those Xuel that once made the place their homes dwelt, and The Athenium, which served as both a great library and a worship place for the followers of Raanet. While the first place actually occupies a physical location beneath the mountains, the second is actually a separate demi-plane that can be accessed from the Hearth-Halls by way of a special magical device found there. As time and events that have come with it have not been especially-kind to Raanet and her devout, both places are exceedingly dangerous – yet the prizes that can be won within their bounds are likewise both wondrous and potent.</p>
+			<h>Background:</h>
+			<p>The Forgotten Library of Raanet is, at its heart, a classic dungeon crawl. It has been specifically designed in such a way as to get right to the heart of the action when used in the context of a Convention game or to allow a prospective Game Master to insert it seamlessly into a pre-existing Campaign experience. Some recommended ways in which this can be done follow:</p>
+			<list>
+				<li>Player Characters with an interest in the ancient Xuloise or archaeology in general may hear rumors or receive information pointing to the existence of a rift in the world opened by geological activity not far from Bleak Gate. Consider that mysterious locale's historic significance, this would surely draw the attention of such individuals to investigate the site.</li>
+				<li>Local authorities within the Freehold may alert Player Characters with some standing in the region to the appearance of the tunnel leading downward into the belly of the world. Given the presence of dangerous monsters within the Hellforges, they will request the aid of such worthies in investigating the corridor – and pacifying its confines, if possible.</li>
+				<li>Player Characters of an arcane or religious bent may receive visions of the general locale surrounding the rift leading to the Library. These strange reveries will be accompanied by whispers of flames that soothe, rather than burn, and sensations of both profound melancholy and yearning. They will then hear tale of the discovery of the rift near the Hellforges. Such individuals will know the two events cannot be mere coincidence.</li>
+			</list>
+			<h>Notes for the Player Characters:</h>
+			<p>If The Forgotten Library of Raanet is being played as a Convention game, the scenario put forth in the Background section implies that the Players are using the pre-generated characters included with this module (see Appendix C for details). That said, should the Players wish to use their own characters (as one might expect, if this module were used within the context of an ongoing Campaign), the Background section can be easily ignored. In such a case, it falls to the Game Master to adjust the text of the module so that it fits seamlessly into the fabric of their individual game.</p>
+			<p>In the Convention scenario, the Player Characters are taking the roles of a group of scholars and venerates of the Church of Wee Saj, rounded out by tough mercenaries and skilled specialists hand-picked from within the Freehold (the nation abutting the Hellforge Mountains, beneath which The Forgotten Library of Raanet lies). The Sajians will be completely invested in seeing a thorough investigation of the site through to the end, a conviction born of their deep devotion to their goddess and their interest in the culture from which they hail. The mercenaries can be expected to be just as steadfast in their desire to see the place's mysteries uncovered – though for different reasons. Each of these professionals is well-regarded within the region in their various fields and has a personal reputation that they will not to see sullied with the stain of failure. Likewise, the monetary enticement offered them by the Church of Wee Saj will be too great to let slip through their collective grasps. All of this is to say that though many of the characters involved in the adventure might be strangers – they all have very real reasons for working together and seeing to the safety of one another.</p>
+			<p>Particularly smart and well-prepared Player Characters may attempt to do some due diligence regarding the area in which they have been asked to investigate by the Church of Wee Saj. Such searches for information will yield no results. No written information exists about the area and anecdotal accounts (provided by local farmers and shepherds) will only characterize it as lonely and quiet, unless the “mountains are especially restless”. Likewise, magical attempts to gain insight into the mystery at the bottom of the slender staircase into the Oerth will glean nothing. Even commune spells – which have already been cast by the Witch-Matriarch of Wee Saj at the Ruby Cathedral at Wickloft – will yield aught but silence (for reasons that will become clear within The Athenium, if the adventurers manage to reach that level of the ancient place). Whatever will be discovered beneath the Hellforges must be found by the Player Characters themselves.</p>
+			<h>Notes for the Game Master:</h>
+			<p>This module was designed for convention-style play, and is intended for characters from 5th to 7th level. It is strongly advised that a Game Master preparing to run this module closely read all parts of the module thoroughly. If the module is being used as part of an ongoing Campaign, the Game Master will want to take notes, making changes in its text to fit its particulars into the Campaign. In this way, they can be prepared to adjudicate the results of any of these powers or abilities as they might relate specifically to the environs in which the Players will be operating.</p>
+			<p>During the course of the adventure, the Player Characters are welcome to use followers, henchmen, and hirelings to supply needed skills on their behalf. The exception to this is in the context of Convention play, in which no such Non-Player Characters may accompany them on their adventure. Should the GM choose to substitute the pre-generated characters supplied with this module with their own (such as is the likely case if this adventure is used in the context of a Campaign setting, rather than a Convention), they should compare Campaign characters and their magic items with the characters and items included in the module, in order to assemble an appropriate party.</p>
+			<p>Information presented in the key is divided into two sections. The boxed script is material which should be read to the players unless special circumstances prevent their knowing the information given there, such as no light to see by. The information not boxed is material for the GM only, and provides game details about the encounter. Characters may discover this information as play continues, but they will not know it from the start of the encounter.</p>
+			<h>5e Conversion: Level and Rules</h>
+			<p>
+				<b>5e level 6 for six PCs (the module's own convention table), or level 7 for a group of four or five.</b>
+			</p>
+			<p>The module says 1e levels 5–7 with six players, and its pregens are all 1e level 5. Once the monsters are converted (CRs 1–11, plus the CR 22 sphinx), the 5e numbers support that answer:</p>
+			<p>
+				<b>At 6 × level 5 the conversion plays like the 1e original. </b>The wraiths are Hard, and Yox and the wights are Deadly. The salamander rooms are 218–287% of the Deadly threshold. That matches a tournament module built to kill people.</p>
+			<p>
+				<b>At 6 × level 7 most rooms become Medium or easier. </b>Only the two salamander set pieces stay Deadly, and they are meant to be. The ring of fire resistance in Area 29 and the Area 22 safe zone are the module's intended answers.</p>
+			<p>
+				<b>Level 6 sits between the two </b>, and it is where the 1e-to-5e power curve puts a 1e level 5–7 party.</p>
+			<p>
+				<b>Avraasha is not meant to be fought </b>at any of these levels. The module says so: <i>"The Player Characters have little chance of defeating Avraasha in direct combat" </i>(p. 33). She converts to CR 22, so the 5e version keeps that.</p>
+			<p>The full encounter-difficulty table is in the vault ledger, section 6.</p>
+			<table>
+				<tr>
+					<td>
+						<b>1e / OSRIC</b>
+					</td>
+					<td>
+						<b>5e rule applied</b>
+					</td>
+					<td>
+						<b>Why</b>
+					</td>
+				</tr>
+				<tr>
+					<td>Descending AC</td>
+					<td>
+						<b>19 − AC </b>, then sanity-checked against a comparable MM creature</td>
+					<td>Standard mapping</td>
+				</tr>
+				<tr>
+					<td>Movement 12"</td>
+					<td>
+						<b>30 ft </b>(×2.5). 9" → 25 ft, 6" → 15 ft, 18" → 45 ft, 24" → 60 ft, 30" → 75 ft</td>
+					<td>12" is the human baseline</td>
+				</tr>
+				<tr>
+					<td>Hit points</td>
+					<td>
+						<b>Not carried. </b>Rebuilt to the DMG CR table for the creature's threat</td>
+					<td>1e and 5e price HP in different currencies</td>
+				</tr>
+				<tr>
+					<td>Existing 1e monster with an MM equivalent</td>
+					<td>
+						<b>Use the MM (2014) statblock </b>and add only the module's riders</td>
+					<td>FG already ships it, and it was designed as the 1e equivalent</td>
+				</tr>
+				<tr>
+					<td>"+1 or better weapon to hit"</td>
+					<td>Resistance to bludgeoning, piercing and slashing from nonmagical attacks</td>
+					<td>MM convention</td>
+				</tr>
+				<tr>
+					<td>"+2 or better weapon to hit" (custom creatures only)</td>
+					<td>Immune to nonmagical B/P/S, <b>and resistant to +1 weapons</b>
+					</td>
+					<td>Preserves the stronger gate. MM creatures keep their MM line</td>
+				</tr>
+				<tr>
+					<td>Magic resistance %</td>
+					<td>
+						<i>Magic Resistance </i>(advantage on saves vs spells). At 50%+, add <i>Legendary Resistance</i>
+					</td>
+					<td>No percentile resistance in 5e</td>
+				</tr>
+				<tr>
+					<td>Energy drain</td>
+					<td>MM <i>Life Drain </i>(necrotic + max HP reduction)</td>
+					<td>MM wraith and wight already do this</td>
+				</tr>
+				<tr>
+					<td>Strength drain</td>
+					<td>Shadow-style: Str reduced by 1d4, death at 0, restored on short or long rest</td>
+					<td>MM shadow precedent</td>
+				</tr>
+				<tr>
+					<td>Save vs breath</td>
+					<td>Dexterity save</td>
+					<td />
+				</tr>
+				<tr>
+					<td>Save vs poison or death</td>
+					<td>Constitution save</td>
+					<td />
+				</tr>
+				<tr>
+					<td>Save vs spell</td>
+					<td>The save the equivalent 5e spell uses</td>
+					<td />
+				</tr>
+				<tr>
+					<td>Bend bars / lift gates %</td>
+					<td>Strength (Athletics) check at the DC that gives the same success chance</td>
+					<td />
+				</tr>
+				<tr>
+					<td>Concealed-door check</td>
+					<td>DC 15 Wisdom (Perception)</td>
+					<td />
+				</tr>
+				<tr>
+					<td>Spell cast "at 12th level"</td>
+					<td>Dispel DC <b>16 </b>, worked as the 5e spell cast with a 6th-level slot</td>
+					<td>1e caster level to 5e slot</td>
+				</tr>
+				<tr>
+					<td>Trap damage</td>
+					<td>Mapped to DMG severity tiers for levels 5–10. <b>Setback </b>2d10 / DC 10–11. <b>Dangerous </b>4d10 / DC 12–15. <b>Deadly </b>10d10 / DC 16–20. Where 1e fixed a die value, the nearest 5e die expression to the tier is used</td>
+					<td>DMG p. 121</td>
+				</tr>
+				<tr>
+					<td>"No saving throw"</td>
+					<td>
+						<b>Kept as no save </b>when the module says so explicitly</td>
+					<td>Straight conversion. Every case is flagged so you can soften it</td>
+				</tr>
+				<tr>
+					<td>Wandering-monster check per Turn</td>
+					<td>Every <b>10 minutes</b>
+					</td>
+					<td>1 Turn = 10 minutes</td>
+				</tr>
+			</table>
+			<h>Rarities and the "+2 = rare" problem</h>
+			<p>1e handed out +2 items like candy. <b>5e caps protection items at +1 </b>(ring and cloak of protection), and <b>+2 weapons and armor are rare or very rare. </b>This module contains <b>four </b>1e "+2 protection" items. The ledger converts them to the 5e item, not the 1e number.</p>
+		</text>
+	</id-00002>
+	<id-00003>
+		<name type="string">00.3 Convention Notes</name>
+		<text type="formattedtext">
+			<h>Convention Notes:</h>
+			<p>The Forgotten Library of Raanet was designed to be used as a single-event session, featuring 6 players and lasting 3 hours. Timing begins when the character sheets are distributed, and participating Players should be periodically reminded of the time limit. The goal to which the Player Characters must aspire (and which constitutes a successful completion of their mission) is to enter The Forgotten Library of Raanet, plunder it of its secrets and ample treasures, and somehow survive to tell the tale.</p>
+			<p>Since the adventure was designed to be played several times over the course of GameHole Con VII, certain rules were followed in Convention play to insure that many situations were handled in the same way:</p>
+			<p>1. The Players are presented with pre-generated characters. All their characteristics have been listed, along with equipment, spells, and magic items. Players may not add to or alter this list. This will guarantee that all Players start with the same chances. Players would be allowed the use of the sections of the OSRIC™ Reference Manual meant for Player use (those sections reserved for Game Master use are forbidden), although all magic items they possess will be known and understood by the owner completely.</p>
+			<p>2. Monsters will fight intelligently and to the best of their abilities. They show no mercy or quarter to invaders. Monsters encountered in convention play need never check morale and will fight to the death, unless otherwise noted in the text. Monsters will be fully aware of the powers and limitations of their weapons, magic items, and spells and will use them to their best advantage. In many cases, specific tactics have been listed for monsters to use in melee. If these plans are frustrated by the Players' actions, the Game Master must find an alternative. If the Players are unusually inventive and find something that is not covered in the adventure, a few minutes may be taken to establish some sort of defense for the monsters – possibly having them regroup and counterattack if necessary. In convention play, monsters will not pursue fleeing adventurers out of an encounter area unless otherwise noted. Players will not know this, however. Monsters will make a lot of noise and will make feint attacks to give the impression of pursuit.</p>
+			<p>3. Players will never know the function of special treasures they acquire unless they should happen to discover their powers by examination or experimentation.</p>
+		</text>
+	</id-00003>
+	<id-00004>
+		<name type="string">00.4 Campaign Notes: The Freehold</name>
+		<text type="formattedtext">
+			<h>Campaign Notes:</h>
+			<p>The Freehold exists in what is basically an immense box canyon formed by the Jötunn Mountains and Little Hills to the north and the Hellforge Mountains to the west and south. Within these towering monoliths, the land is an expanse of rolling grassland plains, verdant and fertile. The climate here is hot and dry and the weather unpredictable, characterized by powerful winds that swirl about the region, brewing up storms that often seem to be conjured from clear skies in mere moments.</p>
+			<p>The folk of the land have been influenced by two primary factors: Their powerful neighbors to the east in great Oekland and the Xuel Migration that saw refugees flood into the land from that doomed empire six centuries ago. With regard to the latter influence, the Freehold has one of the highest population of pure Xuel within its borders and echoes of that folk's customs and traditions can still be found within the nation's culture.</p>
+			<p>The Freehold has a strong martial tradition and an army whose strength greatly belies the nation's relatively small size. Born in the region's formative days, this has proven a boon as the Freehold is often plagued by evil giants and humanoids descending from the Jötunn and Hellforges, along with occasional schemes from the Crimson Brotherhood-controlled Hold of the Sea Barons, to the east, across the Looh River.</p>
+			<p>Perhaps the most famous – and fearsome – locale within the Freehold is the fell place known as Bleak Gate. When the Xuel fleeing their doomed empire fled their lands to the east, they did so through a massive tunnel ripped through and beneath the substance of the Hellforge Mountains by the greatest wizard in Xuloise history: The great Nitorels, last of that folk's Mages of Power. This immense subterranean corridor became known as the Passage of Nitorels and its mouth opening into the Freehold, Dark Gate. The yawning maw of the cavern is more than 200' tall and is known to belch forth all manner of monstrosities strange and unspeakable with the setting of the sun, hungry for the flesh of the common folk of the land until they slink back into the darkness in avoidance of Sól's revealing kiss.</p>
+			<p>The rift in the world that leads to Raanet's ancient temple exists almost 60 miles northwest of Bleak Gate, in a forlorn and uninhabited portion of the Freehold. The area has never been settled largely because the mountains that meet the land there are known to hold the lairs of many aggressive, evil giants and humanoids, and it is difficult to find a guide willing to conduct the passage of a group through this portion of the country. Because of this, as the party travels to this destination, it is expected that they will be following a map provided them by the Church of Wee Saj. Should they follow this document, they have a 5% chance per day of becoming lost along the way. A lost party or individual member of that group may backtrack to the point where they got lost and try again, provided they have the map as a means of navigation. If they do not, then such backtracking is impossible and they are considered lost. Random encounters are checked three times each day and the chance for an encounter is 1 in 12. The normal encounter distance is 6" - 24" (6d4). If a random encounter is determined to have taken place, check the following table to resolve exactly what is encountered.</p>
+			<h>Random Encounters: Freehold Foothills (5e)</h>
+			<table>
+				<tr>
+					<td>
+						<b>d100</b>
+					</td>
+					<td>
+						<b>1e</b>
+					</td>
+					<td>
+						<b>5e MM</b>
+					</td>
+				</tr>
+				<tr>
+					<td>01–10</td>
+					<td>Dwarves 2d10</td>
+					<td>Guard (dwarf), with a Veteran per 5</td>
+				</tr>
+				<tr>
+					<td>11–15</td>
+					<td>Giants 1d6</td>
+					<td>Hill Giant (or roll a giant type)</td>
+				</tr>
+				<tr>
+					<td>16–20</td>
+					<td>Fire giants 1d6</td>
+					<td>Fire Giant (CR 9). Note: 1d6 of them is lethal in either edition</td>
+				</tr>
+				<tr>
+					<td>21–23</td>
+					<td>Goblins 3d10</td>
+					<td>Goblin</td>
+				</tr>
+				<tr>
+					<td>24–25</td>
+					<td>Hell hounds 1d4</td>
+					<td>Hell Hound</td>
+				</tr>
+				<tr>
+					<td>26–30</td>
+					<td>Kobolds 3d10</td>
+					<td>Kobold</td>
+				</tr>
+				<tr>
+					<td>31–32</td>
+					<td>Cavemen 1d10</td>
+					<td>Tribal Warrior</td>
+				</tr>
+				<tr>
+					<td>33–37</td>
+					<td>Ogres 1d8</td>
+					<td>Ogre</td>
+				</tr>
+				<tr>
+					<td>38–47</td>
+					<td>Orcs 3d10</td>
+					<td>Orc</td>
+				</tr>
+				<tr>
+					<td>48–50</td>
+					<td>Trolls 1d6</td>
+					<td>Troll</td>
+				</tr>
+				<tr>
+					<td>51–00</td>
+					<td>Standard tables</td>
+					<td>DMG mountain table</td>
+				</tr>
+			</table>
+		</text>
+	</id-00004>
+	<id-00005>
+		<name type="string">00.5 Background for the Game Master</name>
+		<text type="formattedtext">
+			<p>As Raanet's worshipers became increasingly concerned about their mistress, they plied mighty magics in search of the reason behind her silence. Initially, these took the place of divinitory spells whispered into naked flames that would always go unanswered. When these methods bore no fruit, her faithful expended much of their power in summoning creatures from the Elemental Plane of Fire and Gladsheim to whom they might pose their questions. When at last this strategy failed, they used what precious magic was left at their disposal – fading swiftly, in the wake of their goddess' death – to gate one of Raanet's most powerful servitors from the Outer Planes: The pyroclastic sphinx, Avraasha.</p>
+			<p>Avraasha was away from the Welcoming Hearth when her mistress was murdered, tending to an important matter on her behalf. Her gating came while she was on her way to return to Raanet's side. Therefore, when questioned by the goddess' faithful as to her silence, the sphinx could not answer. She offered to return to the Welcoming Hearth and try to persuade Raanet to send them a sign of her favor or disfavor, but when she attempted to use her divine power to thin the barriers between worlds to make the traverse...she found that it had fled her. The same fear and doubt that filled the heart's of the goddess' worshipers gripped her, as well.</p>
+			<p>Yet, bereft of her most powerful magic, Avraasha was still a sphinx, mighty and wise. She gathered the goddess' faithful to the flame issuing forth from her winged form and whispered to them of Raanet's divine majesty and the secret mysteries of fire, bidding them capture her every utterance upon the blank skin of parchment. Together, they gathered about the burning sphinx and recited prayers into her flames, whispered hymns into the crackling tongues, that somehow, their beloved mistress might hear them. She bade them patience with a kindly and knowing smile. Patience, and faith in Raanet. And the Xuloise faithful smiled too, filled with confidence in Avraasha's presence. She, first servitor of the goddess, would surely see them through this most terrible of trials. And all the while as they waited, the books, filled with the wisdom of fire, began to stack high around her, making of themselves a vast library.</p>
+			<p>Silence.</p>
+			<p>And all the while, one by one, Avraasha watched the faithful of her goddess grow old, wither, and die, before her eyes. And all the while, asking to their very end, the same question: Why?</p>
+			<p>Once again, the wise sphinx had no answers.</p>
+			<p>Soon enough, the great temple become a library, was empty but for her smoldering form. She was alone and trapped within its bounds. Surrounded by knowledge, yet parched with a thirst for answers.</p>
+			<p>Silence.</p>
+			<p>For age upon age, in that abject solitude, surrounded by the ancient and dried bones of those who had placed their faith in her so long ago – the sphinx prayed the goddess she so loved, hoping, pleading for some sort of response.</p>
+			<p>Silence.</p>
+			<p>Eventually, the silence drove her mad.</p>
+			<p>Avraasha yet remains within the quiet and empty temple, long since torn free from the bounds of the Prime Material Plane by her repeated attempts to escape to the Welcoming Hearth and the endless summoning magics employed within its confines. Her mistress' flames have long since quelled to embers and become lifeless cinders. The sphinx's have only burned hotter. Mad with pain and fear and rage.</p>
+			<p>Now, they threaten to consume the world around her.</p>
+		</text>
+	</id-00005>
+	<id-00006>
+		<name type="string">A00. Chapter One: The Temple Incandescent</name>
+		<text type="formattedtext">
+			<h>Special Properties of the Dungeon</h>
+			<p>In their search for answers regarding their silent patron deity, the faithful of Raanet responsible for the creation of the Forgotten Library summoned many creatures from the Elemental Plane of Fire and Gladsheim's layer of Muspelheim to whom they might pose questions they hoped would lead them to the truth. In this, they were aided by an unusual property of the peculiar variety of marble from which they constructed their temple. This stone (a nonesuch substance quarried from beneath the Hellforges) disrupts magical and psionic travel by such means as dimension door, plane shift, probability travel, teleport and all spells and effects replicating such forms of travel – for the notable exception of the monster summoning spell. This property nullifies these dweomers and abilities, making it completely impossible to enter or leave the Forgotten Library by any means but walking the slender staircase leading into its confines.</p>
+			<p>The Temple Incandescent (as its denizens once referred to it) represents to portion of the dungeon in which those Xuel who built the place dwelt and conducted their daily affairs. It forms the vague shape of a rectangle, which once surrounded The Burning Athenium: The great temple and library that served as the heart of the subterranean excavation, where worship and efforts at determining Raanet's fate by her faithful were conducted.</p>
+			<p>This property is also ultimately responsible for tearing its Athenium level from the Prime Material Plane and rendering it its own demi-plane (described in detail in Chatper Two: The Burning Athenium) amidst a mighty earthquake that sealed the slender staircase leading to what would eventually become the Freehold above. Raanet's worshipers worked feverishly on a means of reestablishing its placement on the Prime Material, but sadly were never able to complete their work before the last of them died. So it is that the place in the center of the Temple Incandescent is occupied by the solid stone of Hellforges (unless the Player Characters are able to return it to its rightful place by the actions within the context of the adventure).</p>
+			<h>Wandering Monsters</h>
+			<p>In many cases, these creatures summoned to the Prime Material Plane by Raanet's worshipers were extremely dangerous to all those not in possession of some sovereign protection against fire. In most cases, once they discovered that these summoned creatures possessed no information regarding their goddess, her faithful dismissed them to their home planes, leaving them to their own devices. The exception to this policy was when they would occasionally summon some creature especially sympathetic to their concerns, who they allowed to remain and dwell alongside them to aid in their efforts. Such creatures were usually treated with utmost courtesy and respect, in deference to their fiery natures and origins.</p>
+			<p>However, many of these summoned creatures were not yet released by Raanet's faithful when The Burning Athenium tore free of the Prime Material and the slender staircase was sealed by the cataclysmic event. This effectively trapped these creatures within The Temple Incandescent – where most of them remain when the Player Characters enter their domain.</p>
+			<p>These creatures, in the form of Wandering Monsters, will only be encountered within The Temple Incandescent if this adventure is used in the context of Campaign game play only. Even then, such encounters will occur only in hallways, empty rooms, or areas cleared by the Player Characters. The Game Master should check for such Wandering Monsters each Turn, with a roll of 1 on d6 indicating an encounter. When a encounter is indicated, use the Temple Incandescent Encounter Table to determine what creature is met.</p>
+			<h>The Temple</h>
+			<p>The entirety of The Temple Incandescent is composed of pure white marble. Close inspection will reveal that bright red veins run through its substance, like the lifeblood of the world itself. Occasionally, the marble surfaces within the place can be seen to have been marred by ancient ash or cinder smudges. There is no form of light within the subterranean structure, as Raanet's venerates were expected to bear torches with them at all times. This means that Player Characters who cannot naturally see in the darkness will be forced to bring some form of illumination with them into the dungeon.</p>
+			<p>The arched corridors that comprise the Temple Incandescent are 10' wide in all places and 20' tall. Doors within the holy place are made of thin iron, set into strong hinges. These entries are often covered in veneers of other substances for their beautification. In any case, they are extremely stout and heavy. Characters interested in opening one of these doors must have a Strength score of 9 or above to move them. Inflicting 36 hp of damage or more on such a door will be sufficient to sunder it.</p>
+			<h>The Summoning Sigil</h>
+			<p>Before the final fall of The Temple Incandescent, its Sovereign Magus – a brilliant woman and student of the great Nitorels named Mariana il-Xanna – was able to develop a device she believed capable of returning The Burning Athenium to its rightful place on the Prime Material Plane. She called this device The Summoning Sigil: A series of four thin lengths of pure ruby that, when touched to one another, magically bent and warped in such a way to created a complicated arcane configuration called a Xuloise Matrix. As Mariana was quite aged when she completed work on the device, she entrusted its empowerment to four parts to various members of Raanet's faithful within the Temple. This task was quite simple: Exposure to a fire capable of inflicting 8HD or more damage or steeping it within the substance of a fire-based creature of 8HD or more would do the trick. The Sovereign Magus expected the last moments of her life to be filled with renewed hope as the blazing form of Avraasha returned to her sight.</p>
+			<p>However, the time spent in waiting for some sign of favor from their goddess was not kind to the minds of those entrusted with the care of The Summoning Sigil. Fear, tedium, and paranoia mixed with one another to drive each of them quite mad. While this was not enough to prevent three of the components of the Sigil from being empowered by their owners, one not only was left quiescent – by its trustee murdered the Sovereign Magus as she worked at her diary.</p>
+			<p>Thus, The Summoning Sigil remains incomplete. Its four pieces are scattered throughout The Temple Incandescent where they were kept by their owners. The device remains functional, however, and if it can be made whole and empowered by the Player Characters, it may represent the only way of returning The Burning Athenium and Avraasha to the Prime Material Plane.</p>
+			<p>But perhaps some things left sleeping are best never woken...</p>
+			<h>5e Conversion: Dungeon-Wide Mechanics</h>
+			<table>
+				<tr>
+					<td>
+						<b>#</b>
+					</td>
+					<td>
+						<b>1e text (page)</b>
+					</td>
+					<td>
+						<b>5e conversion</b>
+					</td>
+				</tr>
+				<tr>
+					<td>M1</td>
+					<td>
+						<b>The marble blocks travel magic. </b>Dimension door, plane shift, teleport and anything like them fail. Monster summoning still works (p. 6)</td>
+					<td>
+						<b>No teleportation or planar travel in or out of the Temple </b>(or, once restored, the Athenium). This includes <i>misty step, dimension door, thunder step, teleport, plane shift, gate, word of recall, etherealness </i>, the <i>blink </i>spell, and any creature trait that teleports. <b>Conjuration (summoning) spells work normally. </b>Detected by <i>detect magic </i>as faint abjuration in every wall</td>
+				</tr>
+				<tr>
+					<td>M2</td>
+					<td>No light anywhere (p. 7)</td>
+					<td>Darkness throughout. Plan light sources</td>
+				</tr>
+				<tr>
+					<td>M3</td>
+					<td>Doors are thin iron. <b>Str 9+ </b>to move them, <b>36 hp </b>to sunder (p. 7)</td>
+					<td>A creature with Str 9+ opens them; otherwise <b>DC 10 Strength (Athletics) </b>. Door: <b>AC 19, 36 HP </b>, immune to poison and psychic</td>
+				</tr>
+				<tr>
+					<td>M4</td>
+					<td>Corridors 10 ft wide, 20 ft tall (p. 7)</td>
+					<td>Unchanged. Map surfaces at 5-ft squares</td>
+				</tr>
+				<tr>
+					<td>M5</td>
+					<td>Wandering monsters: <b>1 on d6 per Turn </b>, Temple Incandescent only, campaign play only, and only in halls, empty rooms or cleared rooms (p. 6)</td>
+					<td>
+						<b>1 on d6 every 10 minutes. </b>Same restrictions. The table is below</td>
+				</tr>
+				<tr>
+					<td>M6</td>
+					<td>
+						<b>Ancient Xuloise </b>script everywhere</td>
+					<td>Not a PC language. Readable with <i>comprehend languages </i>or <i>tongues </i>. Without magic: DC 20 Intelligence (History) for the gist, <b>DC 15 if the reader knows a Suel-descended language </b>
+						<i>(conversion call; the 1e text gives no rule)</i>
+					</td>
+				</tr>
+				<tr>
+					<td>M7</td>
+					<td>Xuel heritage "at least half" bypasses the Area 24 runes and the Area 25 guardian</td>
+					<td>Unchanged as a fiction test. In FG, a note on the door and on the vessels</td>
+				</tr>
+				<tr>
+					<td>M8</td>
+					<td>Robes of Raanet's faithful (Area 6) bypass the Historium traps (Areas 4–5)</td>
+					<td>Unchanged. In FG, an item record: <i>Robe of Raanet's Faithful (mundane) </i>, two in Area 6</td>
+				</tr>
+				<tr>
+					<td>M9</td>
+					<td>Overland trip from the Freehold: <b>5% per day lost </b>, encounters checked <b>3×/day at 1 in 12 </b>, encounter distance 6d4" (p. 4)</td>
+					<td>5% per day lost (DC 10 Wisdom (Survival) to retrace with the map). Encounters 3×/day on a d12 roll of 1. Distance <b>6d4 × 10 yards</b>
+					</td>
+				</tr>
+			</table>
+			<h>5e Conversion: The Summoning Sigil</h>
+			<table>
+				<tr>
+					<td>
+						<b>Question</b>
+					</td>
+					<td>
+						<b>Module says</b>
+					</td>
+					<td>
+						<b>5e ruling</b>
+					</td>
+				</tr>
+				<tr>
+					<td>How many rods?</td>
+					<td>
+						<b>Chapter One: four </b>(p. 7). <b>Appendix A: five </b>(p. 37)</td>
+					<td>
+						<b>Four. </b>Appendix A's "five" is a module error. The four are placed in <b>A13 </b>(charged, in the strongbox), <b>A15 </b>(charged), <b>A22 </b>(charged) and <b>A33 </b>(quiescent)</td>
+				</tr>
+				<tr>
+					<td>How is a rod charged?</td>
+					<td>Chapter One: <i>"exposure to a fire capable of inflicting 8HD or more damage, or steeping it within the substance of a fire-based creature of 8HD or more" </i>(p. 7). Appendix A: touching it to an elemental-fire creature of 8HD+ <b>destroys that creature, no save </b>(p. 37)</td>
+					<td>
+						<b>Two routes. (a) Creature route: </b>touch the quiescent rod to an eligible creature. It is a melee attack using the rod as an improvised weapon (proficiency applies if the wielder is proficient with simple weapons). On a hit, the creature is <b>destroyed, no save </b>, and the rod is charged. Eligible creatures in this module: <b>Keeper-of-the-Hearth, Ranzaar, Yox, Ixthasus </b>, <b>but not the salamanders </b>: they are 1e 7+7 HD, short of 8, and Appendix A's own examples name the <i>greater </i>salamander, not the ordinary one. <b>(b) Fire route: </b>the rod is charged by <b>a single instance of fire damage rolled with 10 or more dice </b>. A 3rd-level <i>fireball </i>(8d6) doesn't qualify, and neither does the A22 wand. It takes <i>fireball </i>cast at 5th level or higher, <i>incendiary cloud </i>(10d8), Ixthasus's Magma Spray (10d8) or Avraasha's 12d6 fireball</td>
+				</tr>
+				<tr>
+					<td>Assembly</td>
+					<td>Rods fuse when touched end to end (pp. 7, 37)</td>
+					<td>Unchanged. No check</td>
+				</tr>
+				<tr>
+					<td>Activation</td>
+					<td>Place the assembled Sigil on the Area 34 pedestal (p. 30)</td>
+					<td>Unchanged. Opens Chapter Two</td>
+				</tr>
+				<tr>
+					<td>Durability</td>
+					<td>"As difficult to damage as an artifact"</td>
+					<td>Treat it as an artifact: immune to all damage</td>
+				</tr>
+				<tr>
+					<td>Yox can charge it</td>
+					<td>p. 29</td>
+					<td>Yes. Yox is eligible</td>
+				</tr>
+			</table>
+			<h>Wandering Monsters (5e)</h>
+			<p>
+				<b>Temple Incandescent (d100, every 10 minutes on a d6 roll of 1, p. 6)</b>
+			</p>
+			<table>
+				<tr>
+					<td>
+						<b>d100</b>
+					</td>
+					<td>
+						<b>1e</b>
+					</td>
+					<td>
+						<b>5e</b>
+					</td>
+				</tr>
+				<tr>
+					<td>01–05</td>
+					<td>Efreeti (1)</td>
+					<td>
+						<b>A second efreeti </b>(MM, CR 11), not Yox. The text ties Yox to his room ( <i>"Yox yet remains within the chamber" </i>, A33) and never links him to the table. It is one of the summoned creatures <i>"not yet released … when The Burning Athenium tore free" </i>(p. 6). <b>Sigil-eligible. </b>It has none of Yox's knowledge and doesn't offer his bargain</td>
+				</tr>
+				<tr>
+					<td>06–25</td>
+					<td>Fire bats (1d6)</td>
+					<td>Fire Bat (custom)</td>
+				</tr>
+				<tr>
+					<td>26–35</td>
+					<td>Air elemental, small (1)</td>
+					<td>
+						<b>The A12 air elemental </b>if still alive; otherwise reroll <i>(conversion call: the module has exactly one)</i>
+					</td>
+				</tr>
+				<tr>
+					<td>36–40</td>
+					<td>Fire elemental, small (1)</td>
+					<td>Fire Elemental (MM)</td>
+				</tr>
+				<tr>
+					<td>41–55</td>
+					<td>Grue, harginn (1d2)</td>
+					<td>Harginn Grue (custom)</td>
+				</tr>
+				<tr>
+					<td>56–95</td>
+					<td>Magmen (1d12)</td>
+					<td>Magman (custom). Note: <b>1d12 CR 1s, at 40% odds </b>, is the table's real danger: 12 magmen is 7,200 adjusted XP</td>
+				</tr>
+				<tr>
+					<td>96–00</td>
+					<td>Phantom stalker (1d2)</td>
+					<td>Phantom Stalker (custom, no medallion bond)</td>
+				</tr>
+			</table>
+		</text>
+	</id-00006>
+	<id-00007>
+		<name type="string">A01. The Slender Stairway</name>
+		<text type="formattedtext">
+			<frame />
+			<p>The rift in the stone firmament of the mountain's feet reveals a thin corridor that descends into the belly of the world at a steep slope. Though this roughhewn passage is only scarcely wide enough to admit your entrance, the footing is good, as the floor of the path has been cut into the form of stairs. The thin corridor winds sinuously downward like an airy serpent burrowing into the ground. It is an ancient place, something easily betrayed by the scent of the still air, stale and dry.</p>
+			<p>The way ahead is dark, making of it the yawning maw of the abyss.</p>
+			<p>When it was first constructed, the entrance to The Temple Incandescent was a humble place, a thin, winding stairway cut into the site of the Hellforge's foothills that led from the level grassland of what would one day become the Freehold into the belly of the world. When The Burning Athenium was torn free of the Prime Material Plane, however, the violent cataclysm shook the planet with such force that a massive rockslide tumbled down the mountainside, not only burying and hiding away the staircase entrance to the holy site – but trapping all those dwelling there within its bounds. Not long ago, however, the eruption of Mount Xavi disturbed the thousands of tons of rock covering the slender stairway entrance to The Temple Incandescent – allowing a place forgotten for centuries to once more allow visitors.</p>
+			<p>The slender stairway winds and curls through the roots of the world at nearly a 45º angle, cutting its way nearly 100' beneath the grasslands above. This precipitous drop, and the descent's rough appearance, were both deliberate features created by Raanet's faithful, who constructed it centuries ago. They were newcomers to the land who feared that which might dwell in the place beyond the mountains. Therefore, to dissuade intruders from entering their holy place uninvited, they ensured it might appear worthless and dangerous to descend.</p>
+			<p>In truth, however, the stairway – even in its great antiquity – it is quite easy and completely safe to walk. At one point, it was both trapped and alarmed by those who once dwelt beneath it, but the dweomers enabling both measures have long since faded. The only things particularly astute Player Characters might notice as they course its length are the subtle scents of something hot and stale smoke, wafting gently upward from below.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>1 Slender Stairway (p. 8). </b>No mechanics. Passive Perception 12+ notices <i>"hot, stale smoke drifting up"</i>
+			</p>
+		</text>
+	</id-00007>
+	<id-00008>
+		<name type="string">A02. Foyer</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This 30' x 30' chamber is composed completely of pure white marble. Its ceiling rises above you in a domed vault, perhaps another 30' over your head. Exits extend outward from the area to the north, east, west, and behind you, back in the direction of the slender stairway.</p>
+			<p>The chamber's walls have been carefully etched with writing in elegant, chiseled script. Iron sconces that hold long-dead torches jut forth from their faces, pairs bracketing each of the room's exits.</p>
+			<p>This area once served as the foyer for the Temple Incandescent and an atrium for the everyday lives of those who dwelt within it. Nearly everyone inhabiting it had cause to pass through its bounds at least once a day (more often than not, on their way to the Welcoming Hearth in Area #3). It is both unguarded and untrapped.</p>
+			<p>The script on the walls of the area is written in Ancient Xuloise. As Raanet was not only the Goddess of Fire in the culture of the Xuel, but also the Hospitality as well, the manner in which peaceful guests were received within her house was of paramount importance to her faithful. Thus, what is written upon the walls are the names of all those individuals who lived within The Temple Incandescent, along with a short welcoming phrase. Such a record of a group of the first Xuloise refugees to emerge beyond the Hellforges in the wake of the Twin Cataclysms would be of enormous interest to a scholar or sage with a specialty in Ancient or Xuloise history, of course, and worth up to 500gp to one such individual.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>2 Foyer (p. 9). </b>Treasure: <b>inscription record, 500 gp to a sage </b>(it has to be copied, so it is not an FG item; put it in a parcel note)</p>
+		</text>
+	</id-00008>
+	<id-00009>
+		<name type="string">A03. The Welcome Hearth</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This circular chamber is 50' diameter, made all the more immense by its domed ceiling, 30' above its floor, and its near-emptiness. Composed completely of white marble, the room's center features a 30' diameter depression, which is bounded by a 2' high polished iron barrier, cut with several oddly-shaped holes. Within this depression, a mighty fire crackles and roars, offering the sweet and pleasant scent of rare woods feeding its flames. The white walls of the chamber are carved from its domed top to its feet with an elegant, flowing script. Likewise, they flow and dance with all manner of shapes – those of animals floating amidst what seem like a sea of stars in the night sky – cast forth upon the marble by the fire's light as it passes through the iron barrier.</p>
+			<p>This chamber was once one of the mostfrequented places in the Temple Incandescent: The Welcome Hearth, which in imitation of place in which the goddess Raanet greeted visitors to her home in Gladsheim, was a place in which the Xuel who built the holy place received guests or gathered to share one another's company and good cheer.</p>
+			<p>The design of the chamber is quite ingenious, being shaped and subsequently enchanted so as to enhance and enrich its acoustics. This,so that when the Xuel bards played within its bounds, all within the room and those nearby could enjoy their offerings to their fullest. In memory of some of the finest verse and song performed here, the chamber's walls have been decorated with the lyrics of thousands of Xuel songs and poems. These represent a treasure trove for those interested in the history and culture of the doomed Imperium, a great insight into their art and those who created it, worth no less than 2,500gp to a sage or scholar whose fields of study dovetail with such things.</p>
+			<p>The ancient Xuel were known to have charted the locations and paths of the stars as they traversed through the heavens, ascribing different personalities to each in turn and understanding that their configurations might have momentous consequence upon the world. The iron barrier that casts shadows upon the way was created in such a way to reflect a slice of the night sky and relate these learnings through allegory. If it can be removed from its place (it can be rolled into a 2' thick cylinder weighing about 200lbs), it wold be worth about 1,000gp to one with an interest in the Xuel, astronomy, or astrology.</p>
+			<p>Unfortunately, the area is protected by a fearsome guardian. The Small Fire Elemental known as Keeper-of-the-Hearth dwells within the pit, continuing to perform its duty of keeping the flames within the area lit for those who visit its bounds. Sadly, without companionship and prevented from returning to the Elemental Plane of Fire, it has long since gone insane and will immediately attack anyone entering the chamber with wild, reckless abandon.</p>
+			<p>
+				<i>[1e statistics for Keeper-of-the-Hearth, Small Fire Elemental omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>The Keeper-of-the-Hearth is one of the creatures within The Temple Incandescent capable of powering The Summoning Sigil (see above for details), which is able to return The Burning Athenium to its rightful place on the Prime Material Plane. The elemental possesses no type of wealth; the treasures within the room take the form of the historic writings and the iron barrier.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>3 Welcome Hearth (p. 10). MM Fire Elemental (CR 5) </b>with <i>Maddened </i>: Touch <b>+4 </b>instead of +6 (1e THAC0 14 "reduced by insanity" against a normal 12). <b>Sigil-eligible. </b>Treasure: wall lyrics <b>2,500 gp </b>to a sage (copied); <b>iron star-barrier, 1,000 gp, 200 lb </b>, rolls into a 2-ft cylinder. The room's acoustics are enchanted (flavour)</p>
+		</text>
+	</id-00009>
+	<id-00010>
+		<name type="string">A04. Historium West</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This 30' x 30' white marble room features exits to the north and south, the latter barred by a door. To the west and north, you can see alcoves in which large statues stand. The ceiling looms 30' above the floor. The chamber's center is occupied by a white marble pedestal, like a short column. Atop it rests a book, old and dust-covered.</p>
+			<p>This area was known to the faithful of Raanet as one of the Temple's two Historiums: Places in which the details of the past could be recorded for perusal by guests visiting the location. The book resting upon the pedestal is the repository of this knowledge.</p>
+			<p>Characters capable of reading this book can gain an understanding that The Temple Incandescent was built by those Xuel refugees fleeing the Rain of Invisble Flame that were the faithful of Raanet: Goddess of Fire and Hospitality. They can also come to understand why these folk did not follow their fellows on their path deeper into the Flanaess, gaining insight to their fears that something terrible had happened to their patron deity. They will finally read that the strategy these folk took to determine the truth was by summoning many creatures from the Elemental Plane of Fire and Gladsheim as posing their questions to these extraplanar beings.</p>
+			<p>As one reads the book, though the initial tone recorded in its pages is upbeat and hopeful, the reader will gain a growing sense of frustration on behalf of the writer (who is unnamed) at the lack of progress made in the congregation's search for answers. The book ends in the following, cryptic passage:</p>
+			<p>“...and now, all hope must surely be gone. The First Servant – she who sat to the right hand of the Kindly Flame – has been lost, shaken from our very midst in a terrible cataclysm like ten thousand peals of thunder, ten thousand more flashes of lightning. Vathri and Kystera were killed in the event, crushed by falling pieces of the temple. Now, the entirety of the Athenium is gone. Hastra, Rondil, and Xarik have dug through the Temple wall – clearly, to a place, where it should have been – but have only been met by cold, unfeeling rock. The Hearthmistress believes that it is no more. Perhaps she has finally managed the feat – she is at the side of the Kindly Flame once more. Perhaps, such was her might, that she took the entirety of the Athenium with her.</p>
+			<p>I can only hope their meeting is joyful. And that some future yet lies ahead for those left behind.”</p>
+			<p>Despite the nature of Raanet's faithful as wealful and hospitable, they feared intrusion into their Temple by the creatures inhabiting the strange land beyond the mountains. Therefore, this area has been trapped for the protection of those that once called the place their home. Those entering either one of the chamber's alcoves that are not wearing the robes of Raanet's faithful or are not accompanied by someone who is will bring into being a wall of stone (cast at 12th level of experience) that cuts off the short hallway from the remainder of the Historium. As the spell is activated, so too is the Caryatid Column that dwells within the alcove. These statues are shaped in the form of flawlessly beautiful Xuel women, each wearing flowing robes and bearing swords (which are cleverly concealed in the way of the automatons of their type). Their lovely appearance does nothing to make them any less deadly, of course; the keenness of the swords they bear make them the equivalent of +2 weapons (as they are a part of the statues, they will be useless if the golems are destroyed).</p>
+			<p>
+				<i>[1e statistics for Caryatid Column (2) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>These creatures possess no type of treasure.</p>
+			<p>
+				<b>[SHARE HANDOUT H1: The Historium Book]</b>
+			</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>4 Historium West (p. 10). Trap: </b>magic, triggered by entering an alcove. <i>Detect magic </i>shows evocation. Spotting the glyph line: <b>DC 16 Intelligence (Investigation) </b>. <b>Wall of stone as the spell, but permanent. </b>A creature in its path makes a <b>DC 16 Dexterity save </b>to choose which side it ends on (on a failure the trap chooses). Dispel <b>DC 16 </b>. Each panel: AC 15, 180 HP (6 in thick). <b>One caryatid per triggered alcove </b>, so normally one at a time. Book: player handout <b>H1 </b>(verbatim passage, p. 11)</p>
+		</text>
+	</id-00010>
+	<id-00011>
+		<name type="string">A05. Historium East</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This is a 30' x 30' white marble chamber whose ceiling rises 30' from the level of the floor. To the north and south, you can see exits from its volume, the latter passage closed off by a stone door. To the east and north – the latter, running parallel to the exit – are deep alcoves in which great statues loom: White marble representations of beautiful women wearing flowing robes.</p>
+			<p>The center of the room features a white marble pedestal, perhaps as tall as a halfling. Atop it rests what appears to be an ancient, dust-covered tome.</p>
+			<p>This chamber is in most ways the twin of Area #4. Like that aforementioned place, the room is guarded by a pair of Caryatid Columns that stand at the back of each of its alcoves, ready to attack anyone that springs the wall of stone trap in their short corridors who is not wearing the garb of Raanet's faithful.</p>
+			<p>
+				<i>[1e statistics for Caryatid Column (2) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>Like the guardians in Area #4, they possess no type of treasure.</p>
+			<p>The difference between the two Historiums lies in the books held on their pedestals. Whereas the west of the rooms holds a record of the Temple Incandescent itself, the second is the personal diary of its Sovereign Magus: Mariana il-Xanna, who was the most powerful of the wizards that called the place its dwelling. His personal account of the travel from the Xuel Imperium to the land beyond the Hellforges (including a vivid description of what it was like to watch Nitorels open his famous Passage through the Hellforges) would constitute a find of such historic importance that it could easily be sold for as much as 15,000gp to one interested in Ancient Xuel history with the largesse to afford such a document. More important, however, to the Player Characters are a series of passages near the end of the diary that read as follows:</p>
+			<p>[preceding text rendered illegible by a wide smear of blood] “...complicated, yet effective. The device relies upon four pieces, which I have [rendered illegible again]. They will assemble themselves once touched to one another's substance.</p>
+			<p>I have entrusted [rendered illegible] of lending each device its power, as I have grown old and frail in the process of waiting for some sign of favor from the Hearth-- [rendered illegible]. I can only hope that my friends retain enough of their wits to activate its power. Time and tedium have frayed upon their sanities, I suspect. They have become quite unpredic – [remainder of passage rendered illegible for the exception of the words] – in her forever warm embrace.”</p>
+			<p>The passage, of course, refers to The Summoning Sigil (see above for details) and gives some hint as to its disposition. The blood, meanwhile, points to the author's macabre end.</p>
+			<p>
+				<b>[SHARE HANDOUT H2: Mariana il-Xanna's Diary]</b>
+			</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>5 Historium East (p. 11). </b>Same trap and caryatids. Diary is worth <b>15,000 gp </b>(sellable). Diary excerpt is player handout <b>H2 </b>. Note: The module calls Mariana both <b>"she" </b>(p. 7) and <b>"His personal account" </b>(p. 11). <b>Use she</b>
+			</p>
+		</text>
+	</id-00011>
+	<id-00012>
+		<name type="string">A06. A Watcher, Long Gone</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This 30' x 30' chamber is largely undecorated, featuring only a single iron wall sconce jutting from its south wall, which holds aloft a dead torch. Beneath that rests a long, slender bench made of wood beached white by age and set with a moldering red velvet cushion. A pile of folded clothes rests upon this seat, and two pairs of boots lie underneath it. Distressingly, in the center of the room, the floor is marred by a circular ashen blotch, in the midst of which many cinders are strewn.</p>
+			<p>This chamber once served as a cloakroom for the faithful of Raanet on the few occasions they would leave The Temple Incandescent (when such was even possible for them). Its ceiling is lined with powdered quartz that, when struck by some form of illumination, twinkles and sparkles like the stars in the heavens. The blotch in the center of the floor is that which remains of one of the Temple's denizens, who in their despair at the absence of their goddess, gave themselves over to flame, immolating themselves to death on the spot.</p>
+			<p>More important to the Player Characters might be the clothes on the bench, as these are the robes worn by Raanet's faithful: Loosefitting black and red items reminiscent of togas. By wearing them, neither the traps in Area #4 &amp; 5 (see above) will be triggered, nor will the Caryatid Columns behind them attack. Aside of these articles, there is no form of treasure to be found here.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>6 A Watcher, Long Gone (p. 12). </b>Robes: two sets, the black-and-red toga. <b>Wearing one bypasses the Area 4/5 trap and the caryatids</b>
+			</p>
+		</text>
+	</id-00012>
+	<id-00013>
+		<name type="string">A07. Echoes</name>
+		<text type="formattedtext">
+			<frame />
+			<p>The air within this 30' x 30' room seems preternaturally cold. Its expanse in unadorned but for an iron sconce in the wall, which holds a burned-out torch. Beneath that, a pale wooden bench that features an ancient red velvet cushion.</p>
+			<p>This room is the twin to that found in Area #6, including the decoration in is ceiling. The cold that can be found within its bounds is due to a restless spirit that resides within it (belonging to a man that was once a hunter, he used the chamber quite often). Player Characters entering the area will feel something amiss within its bounds, eerie and off-putting. Cleric and Paladin characters, in particular will sense the presence of some spirit, though not an evil one.</p>
+			<p>In game terms, this has no effect on the Player Characters, other than to unnerve them and remind them that they are in a place where the dead do not rest easily. The spirit, such that it is, will resist contact from spells such as speak with dead, preferring to leave the living in peace. There is no form of treasure to be found here.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>7 Echoes (p. 13). </b>No mechanics. <i>Divine Sense </i>or <i>detect evil and good </i>register <b>nothing </b>(it is not undead), but a cleric or paladin feels it anyway. Narrative only</p>
+		</text>
+	</id-00013>
+	<id-00014>
+		<name type="string">A08. Office of the Castellan</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Opening the door reveals a 30' x 30' chamber of white marble. The north wall features the only other exit from the room in the form of a stone door. To the right of that is a large framed painting. On the east wall of the chamber is a wooden rack set with a short sword and a steel breastplate. Atop of the furnishing, someone has hung a steel helmet adorned with the feathers of some great raptor.</p>
+			<p>In the southwest corner of the room is a large desk, carved from a single piece of white marble, empty for the exception of some glass vessel, shattered atop it. Behind the desk is a chair, at which is seated the dried and bleached bones of a man or woman long dead, hanging limply from the seat.</p>
+			<p>As madness began to take hold within the Temple Incandescent, so too disorder and violence began to take the place of reason and friendship. So it was that the Child of Fire – first among the faithful of Raanet – was forced to create a holding place for those who would treat forcefully with another member of their small society. He called this place The Oubliette and put one of his most trusted aides in charge of the place. That man held the title of Castellan and his office is the room in which the Player Characters now stand.</p>
+			<p>What remains of The Castellan still sits within his chair. Brokenhearted by his goddess' silence, he drank from the shattered vial full of poison on the flat of his desk rather than endure another day without the warmth of her flame to comfort him.</p>
+			<p>If one searches within the Castellan's robes, they are able to find an iron key on a great ring. If touched to the south wall within this room, the illusion that covers the secret door leading to Area #9 is dispelled, revealing it clearly. This also deactivates the trap that guards the door. In addition to this key, a small leather pouch – so old as to disintegrate at the touch – can be found. This holds ten strange coins: Gold pieces of a Xuloise mint. These would each be worth 50gp to a numismatist or a collector with an interest in Ancient Xuel history or culture.</p>
+			<p>Aside of this key, they only things of valuable within this room are the armor and weaponry that hang from the rack on its east side: The personal belongings of the Castellan, all of which are of remarkable power and quality. The breastplate protects as if elfin chain mail +2, and if the helm is worn in conjuction with it, it allows its wearer to see invisible 3/day at a range of 3”. The weapon acts as a short sword of sharpness (note that this weapon is of sufficient power to strike the Fire Elemental in Area #3).</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>8 Office of the Castellan (p. 13). </b>Secret door: illusory wall; <b>DC 16 Investigation </b>to see through it without the key. Coins: <b>10 × Xuel gold coin (50 gp collector value) </b>, tracked as an item. Gear: the Castellan's breastplate, helm and short sword (items I1–I3 in the item import)</p>
+		</text>
+	</id-00014>
+	<id-00015>
+		<name type="string">A09. The Oubliette</name>
+		<text type="formattedtext">
+			<frame />
+			<p>The door leading to this chamber leads to a 10' wide marble shelf that completely surrounds a great pit, so deep that light quails to blackness before finding its bottom. Empty but for the chasm, the room is silent as the grave.</p>
+			<p>The door to this room is trapped. Unless the key found in the Castellan's robes (see Area #8) is used to open it, it discharges a burst of negative energy that does 3d8+3 damage to all those within 10' of its face.</p>
+			<p>The chamber was known to those within The Temple Incandescent as The Oubliette: A 40' deep pit-prison for those who would commit acts of violence against their brothers and sisters in the faith. As the faith of Raanet was based upon kindness, censure to the Oubliette was not a judgment arrived upon lightly (the Child of Fire had no heart for this, except in extreme circumstances). By the time the Temple actually fell, however, with its denizens in the grip of despair and madness, it was used regularly, the same.</p>
+			<p>When the Temple's Castellan took his own life, there were two individuals sequestered to the Oubliette, the precise nature of their crimes long lost to the mists of antiquity. They died of thirst and starvation within its depths, only shortly afterward. Their rage at their fate has allowed them to transcend death and live on in the form of Wraiths, who will attack the Player Characters as soon as they enter their demesne.</p>
+			<p>
+				<i>[1e statistics for Wraith (2) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>When the Wraiths are aware of the presence of Player Characters, they will slide up from the Oubliette through the shadows to some point above them, dropping down in such a way to cut off their avenue of escape. They will then make them fight along the edge of the pit, where sudden movements might send them tumbling into its depths.</p>
+			<p>If the Player Characters are able to defeat the Wraiths, they may find the personal belongings they owned in life at the bottom of the Oubliette. This amounts to two small leather bags: One holding 15 Xuel gold coins (each worth 50gp to a collector, as mentioned above) and the other holding 12 of the coins. Further search of the pit locates a very ornate but cursed silver dagger -1.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>9 The Oubliette (p. 14). Trap (Dangerous): 22 (4d8 + 4) necrotic </b>to each creature within 10 ft, <b>DC 15 Constitution save for half </b>(the module gives no save, but this one is shaped like a 5e trap, so it gets one). Detect: <b>DC 15 Investigation </b>, or <i>detect magic </i>(necromancy). Disarm: the key, or <i>dispel magic </i>(DC 15). <b>2 × MM Wraith (CR 5). </b>Skip their <i>Create Specter </i>(not in 1e). <b>Pit edge: </b>a creature shoved or knocked prone within 5 ft of the edge makes a <b>DC 13 Dexterity save </b>or falls 40 ft (4d6). Treasure at the bottom: <b>27 Xuel coins </b>(bags of 15 and 12), <b>cursed silver dagger −1 </b>(I4)</p>
+		</text>
+	</id-00015>
+	<id-00016>
+		<name type="string">A10. Brothers' Suites</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This 30' x 30' room is dominated by four pillar-like furnishings, one in each corner. These are great pieces of white marble, stacked like shelves, atop which rotting red velvet cushions lie, piled upon by tattered blankets and linens.</p>
+			<p>On the north wall, between two of these, the scorched remains of what looks to have been a dresser stands in a pile of cinders. On the west wall, between the marble arrangements, the wreckage of what was likely a desk lies in a pile of ash and half-consumed wood.</p>
+			<p>When the Temple was yet a living and vibrant place, this room served as the living quarters for many of its male members. Each of the stratified beds in the chamber was capable of comfortably accommodating three sleepers, while the desk and dresser served as a workspace and clothing receptacle, respectively. Of course, with the fall of the Temple, these days are long passed.</p>
+			<p>Now, the room serves as a playground for five Magmen: Creatures summoned to the Prime by the faithful of Raanet in the hopes of finding the whereabouts of their silent goddess. Bereft of their conjurers, the Magmen rampage about the fallen Temple, wreaking mayhem as a way of staving off boredom. This chamber is the main source of their malicious attention.</p>
+			<p>
+				<i>[1e statistics for Magmen (5) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>While normally quick to flee from a fight, these Magmen have been trapped within the Temple Incandescent for more than six centuries. They will fight to their end, either enjoying the entertainment that combat provides...or a swift release in death. Note that inordinate amounts of noise issuing forth from this room, such as those made by fullscale combat, will bring forth the creatures in Area #11 (see below) to aid their fellows.</p>
+			<p>The Magmen have destroyed many valuable items within the room when burning the desk and dresser. However, they were unable to ruin two particular items of note: A pair of bracers of defense AC5 and a ring of protection +2, both of which lie in the ruins of the dresser (atop a pile of gold slag worth 250gp; once, this was as many Xuel coins!).</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>10 Brothers' Suites (p. 14). 5 × Magman (CR 1) </b>. Noise rule kept: full combat here <b>automatically </b>draws A11's magmen at the start of round 3 <i>(conversion call on timing) </i>. Treasure: <b>bracers of defense </b>(5e DMG), <b>ring of protection </b>(5e caps it at +1), <b>gold slag 250 gp</b>
+			</p>
+		</text>
+	</id-00016>
+	<id-00017>
+		<name type="string">A11. Sisters' Suites</name>
+		<text type="formattedtext">
+			<frame />
+			<p>A 30' x 30' square chamber is revealed with the opening of the door. Its confines are a pristine white marble and feature four large, shelf-like assemblies of the same substance in each of its corners. Upon each of the three-tiered rises, the burned and ruined wreckage of what looks to have once been cushions and blankets lie. Pushed against the north and west walls, between these marble towers might have once been wooden furnishings, but these have been long since rendered piles of ash and cinder.</p>
+			<p>Scorch marks and angry black smudges mar every face of the room's walls. The air within them smells of terrifying heat.</p>
+			<p>This room is the twin of Area #10. It once served to house many of the female members of the Temple Incandescent. Since then, however, it has been overtaken by 4 Magmen once summoned to the place by Raanet's faithful to aid them in finding news regarding their silent goddess. These creatures treat the area like a playground, in order to stave off ennui, however since they have burned every flammable object within its confines to ash, they spend much of their time raging against its walls in a cold fury (this is the source of the scorch marks mentioned in the room's description.</p>
+			<p>
+				<i>[1e statistics for Magmen (4) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>The Magmen are incredibly bored and furiously angry. So it is that when Player Characters visit the room, they will lash out at them, eager to vent their frustrations on their number. They will fight to the death, eager for either entertainment or release from their bondage. Note that the sound of combat within this chamber will surely bring for the Magmen from Area #10 to investigate. They will subsequently aid their fellows in the destruction of the Player Characters.</p>
+			<p>In the wreckage of the room's desk can be found a lyre of building (with three broken strings, though it might yet be repaired). The precious metals that were once in the dresser are melted with various other substances into a single blackened piece of slag and are now worthless.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>11 Sisters' Suites (p. 15). 4 × Magman. </b>A10 has the bracers, the ring and the 250 gp slag; A11 has only the lyre, and its slag is worthless. Lyre of building (item I7). Restringing it is a DC 15 check with a musical instrument or tinker's tools, or 50 gp at a luthier <i>(conversion call)</i>
+			</p>
+		</text>
+	</id-00017>
+	<id-00018>
+		<name type="string">A12. The Retreat</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Beyond the door's threshold is a circular chamber 30' in diameter. It is difficult to judge these dimensions, however, as the walls are utterly dark. The only way to estimate their distance is by the tiny motes of brilliance that cling to them, dotting their surfaces like stars in the clear summer skies.</p>
+			<p>In the center of the room appears to be a circle of some kind, no more than 5' at its widest. Bordered by some black material, it rises no higher than 1' from the ground. Because of the gloom, it is difficult to discern what purpose it might have.</p>
+			<p>This chamber was referred to as The Retreat by those dwelling in the Temple Incandescent when it was at its zenith. It was constructed as a place where Raanet's faithful could go to meditate or withdraw to their own company whenever they felt the need to do so. To facilitate this, small flecks of quartz were embedded into the black-painted marble walls of the room and a small fire pit was placed in its center, echoing the confines of The Welcome Hearth (see Area #3 for details). When lit, the light of the flames in the circle reflect off of the quartz-motes, giving the illusion of camping on a pleasant summer evening.</p>
+			<p>The area is not unoccupied, however. In a place such as the Temple Incandescent – in which many fires burn and no ventilation exists – the faithful of Raanet were forced to find a way to ensure that the air within their room would be fresh and breathable. So it was that they summoned a Small Air Elemental and tasked it with roaming the breadth of the Temple, clinging to its ceilings and cleaning the air as it went. The solution worked well, which is why the Temple's air is breathable and does not reek terribly of smoke, despite the many sources of flame within it.</p>
+			<p>With the Temple's fall, however, the Air Elemental was trapped within its confines. Six centuries later, it continues to perform its duties, though it has become just as erratic and unpredictable as those other creatures trapped in the marble edifice. After it cleans the air within the Temple each night, it takes to the dark confines of this chamber, brooding over its fate. So it is that when the Player Characters enter the room, it will await them, lashing out at them in a state of barelyrestrained madness.</p>
+			<p>
+				<i>[1e statistics for Small Air Elemental omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>If Player Characters flee the room, the Air Elemental will not attempt to pursue them. If the Player Characters have remained within The Temple Incandescent for more than a full day and have not yet come upon the creature, the Game Master may assume that they have managed to avoid the Elemental as it roams its confines cleaning its air – and that it has discovered that they have entered its prison through the newly-uncovered slender stairway (see Area #1). In such a case, it will escape out into the world and not be seen for the remainder of this adventure.</p>
+			<p>There is no form of treasure or wealth to be found within this chamber.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>12 The Retreat (p. 15). MM Air Elemental (CR 5) </b>with <i>Maddened </i>(Slam <b>+6 </b>instead of +8). Escape rule kept. No treasure</p>
+		</text>
+	</id-00018>
+	<id-00019>
+		<name type="string">A13. Office of the Bellows</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This is a 30' x 30' chamber composed of pure white marble. The rear of the room is dominated by the frame of a large white marble, though its cushions and linens have been burned to cinders that rest within its bounds. The remains of a likewise ruined desk lie in ashes along its east wall, only a few charred pieces of its frame remaining to hint as to what it once was. Across from that furnishing, a ruined dresser and what appears to have once been a modesty screen stand, both burned almost beyond recognition. Finally, some kind of stand apparently once stood in the corner of the room, though this too is little more than a pile of burned refuse, now.</p>
+			<p>Within the room, amidst the wreckage, four creatures abide. They possess skeletal faces and torsos burned so badly that their flesh appears leathery. Their bodies from the waist down appear like blazing bonfires, somehow capable of supporting their weights. They leer at you with eyes possessed of a hellish glow. Immolated completely in flames, they shed such heat that their very presences bring tears to the eyes and sweat to the brow.</p>
+			<p>Of those abiding within the Temple Incandescent, the second in authority to the Child of Fire was known as The Bellows: A priest of Raanet whose responsibility it was to defend the faith through martial puissance and exhorting his fellows to acts of courage in the name of the Hearthmistress. This was once his living space and office. Of course, that worthy is long since dead; in his absence, his abode has been claimed by four Harginn Grues. Like the other elemental creatures in the Temple, these horrors were summoned by Raanet's faithful as they investigated their goddess' silence. Of an evil bent long before their summoning, their rage and vileness is one of the few things hotter than the flames issuing from their bodies, wroth with fury at their inability to escape the place. They will waste little time venting this upon Player Characters entering this room, naturally.</p>
+			<p>
+				<i>[1e statistics for Harginn Grues (4) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>If the Player Characters are able to overcome the Grues, an inspection of the room will reveal several items of interest. Amongst the ashes in the corner, which used to be a rack on which armor and weaponry was kept, a footman's flail +2 remains surprisingly untouched by fire. More importantly, beneath the pile of cinders that once was the room's desk is an iron strongbox. This container is both locked and trapped with a device that sprays forth a cloud of acidic gas that fills a 10' cube surrounding the box and does 3d4 damage initially and 1d4 for three rounds afterwards, unless it is somehow neutralized (a saving throw vs. breath weapon applies to yield half damage to the initial spray, but the damage on subsequent rounds cannot be mitigated). Dousing a victim in water or wine is sufficient to do this. Within the strongbox are 250 Xuel coins, each worth 50gp to the proper buyer, 5 small rubies, each worth 100gp, an ancient wand of ice storms (10 charges) worth double its standard amount for its historical value, and a ring of warmth.</p>
+			<p>At the bottom of the box is a strange, wandlength rod, apparently made from pure ruby. Glowing as if with some inner fire, this is a piece of The Summoning Sigil (see Appendix B), which is required to return The Burning Athenium to the Prime Material Plane. It was fully charged before the fall of the Temple Incandescent and retains its full potency, even six centuries later.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>13 Office of the Bellows (p. 16). 4 × Harginn Grue (CR 2) </b>. <b>Lock: </b>DC 15 thieves' tools. <b>Trap (Setback): </b>fills a 10-ft cube, <b>10 (3d6) acid, DC 13 Constitution save for half </b>, then <b>5 (2d4) acid at the start of each of the target's next 3 turns </b>(no save). An action spent dousing with water or wine ends it. Detect and disarm <b>DC 15 </b>. Treasure: <b>flail +2 </b>, <b>250 Xuel coins </b>, <b>5 × small ruby (100 gp) </b>, <b>wand of ice storms </b>(I8), <b>ring of warmth </b>(DMG), <b>Sigil rod #1 (charged)</b>
+			</p>
+		</text>
+	</id-00019>
+	<id-00020>
+		<name type="string">A14. Night Gallery</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Along the length of this hallway are a series of nine oil paintings. Each one, framed in white marble that seems to blend into the wall behind them, is the portrait of some individual. Dressed in robes, they are universally fair of hair with nearly snow-white flesh. The paintings are rendered with the skill of a master.</p>
+			<p>Since many bards were devoted to the worship of the Hearthmistress, it is perhaps no surprise to find that a renowned Xuel artist was amongst those dwelling in The Temple Incandescent. The paintings in this gallery (which are represent a leader in the faith of Raanet) were created by Karvik ilXon: Perhaps one of the greatest painters of his age. At the end of the corridor, the final piece depicts a breathtaking Xuel woman with a gentle smile and dappling of dark freckles upon her cheeks and the bridge of her nose. This was Leathri il-Varzii: The Child of Fire and high priestess of Raanet at the time of the Temple's collapse into ruin.</p>
+			<p>No guardian exists to protect these pieces of art, each of which might range in value between 2,000gp and 5,000gp, depending on the market in which they are sold and the buyer that might evince interest in each. They represent yet another glimpse into the history of the Xuel, this one with respect to their art and aesthetic value.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>14 Night Gallery (p. 17). "Child of Fire" is a title, not a name </b>. The gallery shows nine portraits, <i>"each … a leader in the faith of Raanet" </i>, and at least three different people hold the title in the text: the <b>man </b>who built the Oubliette ( <i>"the Child of Fire … He called this place The Oubliette" </i>, A8), <b>Kaara ad-Karza </b>(A15), and <b>Leathri il-Varzii </b>, <i>"the Child of Fire … at the time of the Temple's collapse" </i>(A14, the last portrait). <b>Reading: </b>Kaara held the title while Mariana was alive (she holds a charged rod and M.'s letter), immolated herself with Ranzaar, and <b>Leathri succeeded her </b>and was the last. Leathri's body and room are unkeyed. Treasure: <b>9 portraits </b>. Roll <b>(1d4 + 1) × 1,000 gp </b>each, or fix the values at 3,500 gp each (31,500 gp total) for FG</p>
+		</text>
+	</id-00020>
+	<id-00021>
+		<name type="string">A15. Abode of the Child of Fire</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This chamber takes the form of a 30' diameter circle. The frame of a white marble bed stands along its east wall, but the linens and cushion that once covered it have been burned to ash and smeared all across its substance. Wall sconces holding burned-out torches flank the door and overlook a fire pit in the center of the room, bounded by a low iron barrier. To the north and south of its circumference, a desk and a dresser once stood, rendered little more than blackened and charred wreckage, collapsed in upon themselves. The only furnishing in the room that does not seem to have been destroyed by the kiss of fire is an iron footlocker, at the foot of the bed.</p>
+			<p>The fire responsible for ruining the room is evident. It stands in the midst of the room, dancing upon the fire pit. It is vaguely human-shaped, but over eight feet tall: A conflagration of licking and crackling flames that stares out upon you without eyes, but somehow a palpable gravity, the same.</p>
+			<p>And a chilling sort of malice.</p>
+			<p>This room once belonged to the Child of Fire: Kaara ad-Karza, the high priestess of Raanet's faith and temporal leader of the Temple Incandescent. A kindly and gentle woman, she administered to her goddess' worshipers in the way a mother might protect her children. She was universally beloved by them, in turn. Therefore, they might be heartbroken to know of her final fate. Aged and despairing for the absence of her patron deity, rather than succumb to the weight of long years, she took the ultimate leap of fate. Baring herself of protections, she embraced her extraplanar companion – a Small Fire Elemental that she called Ranzaar – and burned herself alive, reasoning that her pain would be fleeting and that moments after it ended, she would be soothed by the warmth radiating from Raanet's hearth fire.</p>
+			<p>Of what became of ad-Karza's soul, nothing is known. What is certain, however, is that though she gave Ranzaar its release from her service, the elemental found itself unable to leave the Temple Incandescent, thanks to the strange properties inherent in its construction. Therefore, it remains within the fire pit in the Child of Fire's room, seething with rage, anguish, and confusion at the state of affairs in which it has found itself. This condition makes it so that the elemental will lash out at any Player Characters entering its mistress' chambers, doing its level best to send them to the Hearthmistress after her.</p>
+			<p>
+				<i>[1e statistics for Ranzaar, Small Fire Elemental omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>If the Player Characters find themselves able to overcome Ranzaar, they may investigate the Child of Fire's chambers, in which lie plentiful treasures and an important hint (if they haven't learned of it already) as to restoring The Burning Athenium. Within the iron footlocker at the foot of ad-Karza's ruined bed, which is both unlocked and untrapped (the Child of Fire did not believe in such vulgar protections), can be found 2,500 Xuel gold pieces, amidst which is strewn a potion of extra-healing, a potion of levitation, a cloak of protection +2, a set of gauntlets of ogre power, and a robe of scintillating colors. Mixed in with this treasure is a book entitled Warmed by the Flame: A compilation of prayers, stories, and songs specific to the faith of Raanet. The book might be worth 2,500gp on its own, but the Player Characters might be more interested in the note stuck between its pages as a bookmark, which reads:</p>
+			<h>Esteemed Child of Fire,</h>
+			<p>In your hands, you hold one part of the matrix of my creation. Again, it must be steeped within a great fire in order to empower it. Bathing it within Ranzaar's substance will be more than sufficient to see to this, but if your companion should blanch at the notion, any potent creature of elemental fire would do (perhaps the Keeper-of-the-Hearth might be more amenable?).</p>
+			<p>Once empowered, the matrix will assemble itself. It only need be touched to another portion of its divine geometry. When all four pieces are empowered and assembled, I firmly believe we shall be able to recall the Athenium and speak to Azraasha once more.</p>
+			<p>I look forward to the occasion with bated breath.</p>
+			<h>Forever, your friend,</h>
+			<p>--M.</p>
+			<p>Beneath the tome and its corresponding note, at the bottom of the container, is a single wand-like length of pure ruby that seems to glow as if possessed of some inner flame. This is the portion of The Summoning Sigil that the Sovereign Magus entrusted to the Child of Fire. Its appearance reflects the fact that she was able to charge the item as she was instructed. Note that Ranzaar is of sufficient Hit Dice to charge a quiescent portion of the Sigil, if it is steep within its burning body.</p>
+			<p>
+				<b>[SHARE HANDOUT H3: Letter from M.]</b>
+			</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>15 Abode of the Child of Fire (p. 17). MM Fire Elemental (CR 5). </b>Note: The statline says THAC0 12 <i>"(reduced by insanity)" </i>, but 12 is a normal 8 HD THAC0, so nothing is reduced. <b>Use the MM +6. </b>Sigil-eligible. Treasure: <b>240 Xuel gold coins at the standard 50 gp collector rate = 12,000 gp </b>(the module's literal "2,500" would be 125,000 gp). Then <b>potion of greater healing </b>, <b>potion of levitation </b>(custom, I9), <b>cloak of protection </b>(5e +1), <b>gauntlets of ogre power </b>, <b>robe of scintillating colors </b>, <i>Warmed by the Flame </i>(2,500 gp), <b>M.'s letter </b>(player handout <b>H3 </b>; Note: it misspells <b>"Azraasha" </b>and may be kept as in-world), <b>Sigil rod #2 (charged)</b>
+			</p>
+		</text>
+	</id-00021>
+	<id-00022>
+		<name type="string">A16. The Nest</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This white marble corridor becomes increasingly filled with a thick plume of smoke before finding its end. When it does, the top of the hall is packed with a dark substance like tar, which radiates with incredible heat. Like a an immense hornet's nest, 10' wide and 3' thick, hundreds of small holes are bored into the substance of the stuff, from which the smoke in the corridor issues forth. All around end of the hallway, tiny bats swoop and curl through the air, trailing grey clouds of smoke and short tongues of flame.</p>
+			<p>The end of this corridor has been claimed by a small colony of 12 Fire Bats, creatures summoned to the Temple Incandescent by its former denizens and subsequently trapped within its bounds. While they would normally be content to leave the Player Characters in peace, they are ravenously hungry and will therefore attack them on sight.</p>
+			<p>
+				<i>[1e statistics for Fire Bats (12) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>If the Player Characters defeat the Fire Bats, they may find treasure within their nest in the form of a 50gp value carnelian and a large 250gp value jacinth.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>16 The Nest (p. 19). 12 × Fire Bat (CR 1/4) </b>. The nest is flavour; touching it deals 3 (1d6) fire <i>(conversion call) </i>. Treasure: <b>carnelian (50 gp) </b>and <b>jacinth (250 gp) </b>, kept at the module's values, not the DMG gem table's</p>
+		</text>
+	</id-00022>
+	<id-00023>
+		<name type="string">A17. Pantry</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Opening the door reveals a white marble room in the form of a 30' diameter circle. From its ceiling hang a dozen chains upon swivels, their ends terminating in iron hooks. These dangle above a circular stone platform that rises 4' above the level of the ground. On its flat are several silver platters, atop which rest the old and dried bones of fowl and boar. A pair of iron goblets and cutlery sets sit next to these, as well as an elegant glass carafe and a pair of sealed wooden casks.</p>
+			<p>This chamber once served as the Temple's pantry, a place in which food and drink was kept. The stone slab in the room's center is enchanted with permanent versions of the chill, flavor, freshen, and preserve cantrips, so that any consumables left upon it could be kept for long periods of time without threat of spoiling. Of course, those who designed the device could not have predicted the fall of the Temple. That which the Player Characters see on the room's table has long since rotted despite its enchantments and rotted to dust.</p>
+			<p>This is not to say that the room has nothing of value within it, however. The goblets, cutlery, and platters collectively are worth 100gp as curios. The casks are substantially more valuable, containing ancient Xuel wine of excellent vintage. Each is worth 2,500gp if sold in a large city or to a private collector. Worth still more is the glass carafe, which is actually a decanter of endless water.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>17 Pantry (p. 19). </b>The slab is a permanent <i>prestidigitation </i>(chill, flavour and clean food only). Treasure: <b>platters and cutlery (100 gp) </b>, <b>2 × cask of Xuel wine (2,500 gp; about 250 lb each, </b>
+				<b>
+					<i>conversion call </i>
+				</b>
+				<b>) </b>, <b>decanter of endless water </b>(DMG)</p>
+		</text>
+	</id-00023>
+	<id-00024>
+		<name type="string">A18. Road to Perdition</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Along this white marble corridor, you are able to hear the sounds of footsteps, retreating quickly. Coming from about the corner, it reminds one of the sound made by someone trying desperately not to be heard.</p>
+			<p>This corridor is actually an elaborate magical trap, created by the faithful of Raanet to punish those who might attempt to infiltrate their holy place. Any creature passing through the area 30' from the corner leading to this location simultaneously triggers an audible glamer and spectral force spell. The first of the spells makes the sound of footsteps described above, while the second creates the image of a door just being closed at the end of the hallway, using its temperature-emulating feature to make the corridor seem cool and comfortable.</p>
+			<p>If any character enters the last 20' of the corridor, the trap is triggered. A wall of stone springs up 50' from the end of the hallway. Simultaneously, the entire floor within this area falls away into a 10' deep pit in which a permanent wall of fire rages (the heat radiating through the thin floor is the reason for the need of the spectral force spell to mask the actual temperature in the corridor). Tumbling into this trap without sovereign resistance against fire nearly assures death, as it inflicts 1d6 hp falling damage and 2d6+12 hp magical fire damage for each round an individual remains within it (no saving throw permitted).</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>18 Road to Perdition (p. 19). </b>Illusions: <i>minor illusion </i>(sound) and permanent <i>major image </i>(door, with temperature). <b>DC 16 Investigation </b>to see through either. <b>Trap (Deadly): </b>trigger is the last 20 ft. The wall of stone seals the 50-ft stretch behind (DC 16 Dex to end up on the outside). The floor drops: <b>3 (1d6) bludgeoning </b>for the 10-ft fall, then <b>22 (5d8) fire </b>on entering the pit and at the start of each turn there, <b>no save </b>(1e). Climbing out: DC 12 Athletics. <b>5d8 is the 5e </b>
+				<b>
+					<i>wall of fire </i>
+				</b>
+				<b>value. </b>Detect: <b>DC 18 Investigation </b>; the illusion hides the heat, but DC 13 for anyone who has already seen through the <i>major image </i>. Disarm: <i>dispel magic </i>DC 16 on the wall of fire</p>
+		</text>
+	</id-00024>
+	<id-00025>
+		<name type="string">A19. Where We Consume</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This is a 30' x 30' white marble chamber. The center of the room is dominated by the remains of a long wooden table, charred to black and collapsed upon itself. Piles of ash, cinder, and burned wood surround it in such a manner that it is clear that they were once chairs. Black charcoal smears mar the walls where some kind of decor once hung, in between several wall sconces that hold aloft torches long since burned-out.</p>
+			<p>In the midst of the ash pile where the table once stood, something golden glitters like a distant star.</p>
+			<p>This room was once the Temple's dining hall. When the place was alive and vibrant, the room was rarely devoid of good cheer and laughter, largely thanks to Ersin ad-Dax: A bard amongst them who conveyed his creative spirit through the culinary arts. Such was the chef's legendary skill, the very Emperor of the Xuel himself considered him a treasure of the Imperium, giving him a powerfully-enchanted golden medallion to see to his safety. This magical item bound three Phantom Stalkers to ad-Dax, who constantly performed a silent vigil, ready to spring to his defense, if necessary. It is said that the chef was able to actually teach these invisible guardians to aid him in the kitchen, performing menial tasks that made his creations ever more delectable.</p>
+			<p>When ad-Dax died, he did so in this room, succumbing at last to his advanced age. His loss drove the Phantom Stalkers tasked with guarding him insane – half in their inability to fulfill their duty and half with grief. In a violent frenzy, when the Player Characters enter the dining hall, they will waste little time attacking.</p>
+			<p>
+				<i>[1e statistics for Phantom Stalkers (3) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>These Phantom Stalkers remain bound to the magic medallion ad-Dax once wore, which lies in the ashes where the table once stood, in the room's center. While wearing it will do no good (as it was personally attuned to the bard), destroying it will kill the three creatures instantly. This requires but 5 hp or more damage to be done to the item.</p>
+			<p>There is no form of treasure to be found within the room.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>19 Where We Consume (p. 20). 3 × Phantom Stalker (CR 3) </b>. <b>Medallion: </b>Tiny object, <b>AC 15, 5 HP </b>, in the ash where the table stood. Visible as a glint; DC 10 Perception to pinpoint while fighting. <b>Destroying it kills all three stalkers instantly. </b>No other treasure</p>
+		</text>
+	</id-00025>
+	<id-00026>
+		<name type="string">A20. Kitchen</name>
+		<text type="formattedtext">
+			<frame />
+			<p>The door leads into a 30' x 30' area composed of white marble. The center of the room is occupied by a circular fire pit, about as wide in diameter as an elf is tall. Iron rods rise up from points around its circumference until they fuse above it, forming a tripod from which a heavy, dark cauldron hangs.</p>
+			<p>Surrounding this, along the chamber's walls, are several white marble slabs. Metal cutlery, pots, and dishes lie scattered upon them, making it clear that they were once used for the preparation of food. Along the far wall, several glass containers rest. To look through them, it seems as if they contain spices of some sort.</p>
+			<p>As it seems, this chamber once served as the kitchen for the Temple Incandescent. Of course, this made it the typical haunt of the famous bard Ersin ad-Dax, who within it did what he could with the meager resources available to him to make the lives of his fellow Xuel in the land beyond the Hellforges that much more bearable.</p>
+			<p>The room's cauldron was generally used to either boil water or cook soups and stews, while ingredients were prepared on the stone counters along the walls. Held in the glass containers are spices and seasonings of various kinds: Pepper, paprika, sugar, salt, and perhaps a dozen more. All of these are quite ancient and completely ruined.</p>
+			<p>A notable exception to this can be found in one of the containers, which holds a glittering silvery powder. This is actually dust of disappearance (5 applications), which ad-Dax kept around in case he ever had to defend himself from attackers. The container itself is quite special, too, being something akin to a bag of holding (500lb limit) in the form of a glass jar. Despite its seemingly solid substance, its mouth can easily be stretched, allowing much larger objects to be placed within it than would seem possible. At the bottom of this strange glass vessel is kept a ring of protection +2 (currently invisible, as it is covered in the magical dust). The container bears the bard's personal rune on its bottom, hinting that it is far more than what it might appear to be.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>20 Kitchen (p. 20). Dust of disappearance </b>(DMG; one packet). The module's 5 applications become <b>5 uses </b>. <b>ad-Dax's Glass Jar: </b>
+				<i>bag of holding </i>reskin (500 lb, 64 cu ft; identical rules) (I10). <b>Ring of protection </b>(5e +1). The jar bears ad-Dax's rune: DC 13 Investigation</p>
+		</text>
+	</id-00026>
+	<id-00027>
+		<name type="string">A21. The Burning Sentinel</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This floor of this 30' x 30' chamber appears to be an uneven bed of magma, glowing with menace. From its bubbling and smoking substance, great plumes of flame erupt high into the air, falling back down in spatters of brilliant lava.</p>
+			<p>In the midst of this fiery landscape is an immense creature with the head and arms of a powerful, musclebound warrior with metallic crimson flesh and the body of a mighty red serpent. Its dark hair is like ash and eyes like burning spheres of charcoal. In its hands, it holds a great golden trident.</p>
+			<p>What purpose this chamber might have once had is a mystery, lost to the flames of Ixthasus, the Greater Salamander within its bounds. Summoned to the Prime Material Plane by the Sovereign Magus, it once dwelled within her chambers in Area #22 as a friend and companion. Since the fall of the Temple and the death of that worthy, however, its sanity has grown precariously thin. Not long ago, it chose to leave its former dwelling in favor of this room, where it styles itself the king of its lesser brethren that remain in the Magus' old haunt. Of course, upon doing so, it decided to “redecorate” the place, in order to make it more comfortable and aesthetically-pleasing (to its sense of taste, at least). Player Characters entering its bounds may find it much less to their tastes, however: As long as a character without resistance to fire remains in the chamber, they act with a temporary Constitution penalty of -2 (this returns after 5 rounds are spent within the fresh, cool air) and for each round spent within its bounds, they suffer 1d6 hp fire damage.</p>
+			<p>Ixthasus considers the chambers of the Sovereign Magus to be something akin to holy ground. Therefore, it will not be willing to allow anyone but a creature of pure elemental fire to approach it under any circumstances. If it hears Player Characters in the hall outside its door or if they are so foolish as to enter its chambers, it will attack them immediately in an effort to either drive them off or destroy them. It's not too picky about which of the two eventuates.</p>
+			<p>
+				<i>[1e statistics for Ixthasus, Greater Salamander omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>Bear in mind that especially violent battles within this room may (50% chance) alert the Salamanders in Area #22 (see below) to the presence of danger nearby. If this occurs, at least half their number will speed to this location in order to reinforce their “king” against his enemies.</p>
+			<p>Defeating Ixthasus will allow the Player Characters the opportunity to investigate its lair – though they must do so very carefully! Doing so will reveal a small cache of red gemstones – bloodstones and carnelians, even a few jacinths and rubies! There are 22 of these in all, valued as follows: 6 are 50gp, 4 are 75gp, 3 are 100gp, 5 are 500gp, 3 are 1,000gp, and a single fist-sized ruby is worth 5,000gp.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>21 The Burning Sentinel (p. 21). Ixthasus (CR 10) </b>. <b>Room hazard: </b>a creature without fire resistance or immunity takes <b>3 (1d6) fire </b>at the start of each of its turns in the room <i>(1e die kept) </i>, and has <b>disadvantage on Constitution saving throws, including concentration </b>, until it spends <b>5 minutes </b>out of the room (1e −2 Con, 5 rounds = 5 minutes). Fire resistance negates both. <b>Alarm: </b>at the end of each round of combat, roll d100; on 01–50 <i>(once only) </i>, <b>2 salamanders </b>arrive the next round (half of four). Gems: <b>6 × 50 gp, 4 × 75 gp, 3 × 100 gp, 5 × 500 gp, 3 × 1,000 gp, 1 × 5,000 gp fist-sized ruby = 11,400 gp</b>
+			</p>
+		</text>
+	</id-00027>
+	<id-00028>
+		<name type="string">A22. The Conflagration</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Beyond this door is a maelstrom of whirling fire. Brobdingnagian plumes of flame waft upward from some source that might be miles below your position, so hot that the very air shimmers and ripples with startling violence. Tendrils of smoke curl and whip around the great tongues and black and grey gouts, twisted and wrenched by the course of the flames and the way they displace the air with hurricane-force. Swimming through the whole of it, like dolphins within an ocean of fire, strange creatures with the heads and arms of men and the lower bodies of serpents ride the waves of incandescence. The scope of it all – stretching as far as the eye can see in any direction – is staggering. The heat is enough to instantly dry the tears from your eyes and parch the throat. Where it kisses exposed flesh becomes tender and painful to the touch.</p>
+			<p>Through the firestorm, extended from the doorway, is a slender white marble causeway. 5' wide, it dares the incredible heat and flame, reaching out to an island in its midst. Though the maelstrom obscures it, you are able to see what looks like a large white marble bed, a desk and bookshelves. An oasis within the conflagration.</p>
+			<p>Though looking at the room should inspire both awe and terror in equal measure within the hearts of the Player Characters, the truth is that all here is not what it seems. Its interior incorporates permanent versions of both hallucinatory terrain and spectral force in order to create the spectacular effects it features: Both created by the Sovereign Magus, Mariana il-Xanna, to decorate her personal chambers in such a way as to glorify her patron goddess.</p>
+			<p>In truth, her room is a simple 30' diameter circle of white marble. A bed pushed against its southwest wall is made of the same material and covered in ancient linens and cushions, ruined by the passage of centuries. A wooden desk and chair (intact, these are hints that all is not as it seems to be within the room) stand near the room's center, flanked by two marble bookshelves and a wooden dresser, pushed against opposite walls. Likewise real are the four Salamanders that make this room their home, former companions of the Sovereign Magus trapped within the Temple Incandescent since its fall.</p>
+			<p>
+				<i>[1e statistics for Salamanders omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>When the Player Characters enter this room, the Salamanders will move to the attack, though they will avoid coming near the Sovereign Magus' bookcases and desk (such is their respect for her, even centuries after her passing). Note that Player Characters that do not disbelieve the illusory aspects of the room will be susceptible to damage from its fiery effects (taking 1d6 damage for each round in which they remain within its bounds).</p>
+			<p>If the Player Characters are able to survive the many dangers within this room, they may avail themselves of the Sovereign Magus' many treasures. Atop her desk are an alabaster wand of fire (5 charges remain) and a scroll scribed with the spells comprehend languages, contact other plane, monster summoning iv, slow, and wall of stone. In her dresser is a dagger +2 and a hat of disguise, shaped like a black hair ribbon. In her bookcase are a vast array of books on the nature of fire, as researched by Xuel magi. These rare tomes would be worth 2,500gp in total, if sold to an individual with an interest in fire magic or Xuel history. Finally, on a shelf of its own is a rodlike length of pure ruby that seems to burn with an inner fire. This is another portion of The Summoning Sigil, which was fully empowered by its creator before her untimely death.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>22 The Conflagration (p. 22). Illusion: </b>permanent <i>hallucinatory terrain </i>plus <i>major image </i>. Seeing through it takes <b>an action and DC 16 Intelligence (Investigation) </b>. Until then the creature takes <b>3 (1d6) psychic </b>at the start of each turn (1e die kept; it is the illusion damage of 5e <i>phantasmal force </i>). <b>Four salamanders: MM Salamander (CR 5). </b>At 6 × level 6 (Deadly 8,400), four come to 14,400 adjusted XP (171%); five would be 18,000 (214%). If Ixthasus's alarm pulled two of them into A21, only two remain here. <b>Safe zone: </b>salamanders will not move within 5 ft of the desk or bookcases and <b>won't make attacks that would hit them </b>
+				<i>(conversion call: no fire breath at the shelves) </i>. Treasure: <b>alabaster wand of fire </b>(I11), <b>scroll with 5 spells </b>( <i>comprehend languages, contact other plane, monster summoning IV, slow, wall of stone </i>; <i>monster summoning IV </i>is the custom spell in the vault), <b>dagger +2 </b>, <b>hat of disguise </b>, <b>fire tomes (2,500 gp) </b>, <b>Sigil rod #3 (charged)</b>
+			</p>
+		</text>
+	</id-00028>
+	<id-00029>
+		<name type="string">A23. Incinerator</name>
+		<text type="formattedtext">
+			<frame />
+			<p>About 20' before the end of this length of white marble corridor, you are able to see that the floor cuts away, dropping down into what appears to be a large pit. Even from where you stand, you are able to see great shoots of flame pluming up from the bottom of the descent, some tongues occasionally rising high enough to lick and crackle at the ceiling. Bits of ash, churned by the fire's motion dance suspended in the air within its consuming substance.</p>
+			<p>This fire pit was created by the builders of The Temple Incandescent as a place where they could discard waste and refuse. The flames that burn within it are a magical construction and equivalent in intensity to a wall of fire. The place served its purpose quite well; there is nothing of value to be found within its expanse, should overlyinquisitive Player Characters manage to find a way to explore its depths.</p>
+			<p>The extreme heat within the pit, however, made it a perfect place for five Magmen, summoned by the Xuel to the Prime Material Plane, to make a lair. The malicious spirit in these creatures shows through in the way that, if Player Characters approach nearer than 20' from the edge of the pit, they will climb forth from its bounds and attack.</p>
+			<p>
+				<i>[1e statistics for Magmen (5) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>These creatures possess nothing of value.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>23 Incinerator (p. 23). </b>Falling in: 7 (2d6) for 20 ft <i>(depth not given; conversion call) </i>plus <b>22 (5d8) fire </b>on entering and at the start of each turn, no save. <b>5 × Magman. </b>No treasure</p>
+		</text>
+	</id-00029>
+	<id-00030>
+		<name type="string">A24. Heart of Fire</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This is a 30' x 30' area composed of pure white marble. A door is set upon its north wall, while on its south a corridor issues forth. Upon the floor is a mosaic composed of many pieces of multicolored stone. It forms the visage of a woman that wears loose red robes. She seems gentle and peaceful, with pale skin, snowy hair, and pale blue eyes. At her feet, in the depiction, a campfire roars next to what appears to be a lute, leaned against a log of wood.</p>
+			<p>Upon all the walls in this area is an elegant script, carved into their white surfaces by a careful hand.</p>
+			<p>Much like Area #2 (see above for details), this area served as an atrium that allowed the denizens of The Temple Incandescent access to both its catacombs and – when it yet existed on the Prime Material Plane – its Athenium. It was thus one of the most commonly well-used portions of the Temple and so beautified accordingly.</p>
+			<p>The mosaic on the ground is an artistic depiction of the goddess Raanet, standing next to her divine Hearth in Gladsheim (hers is perhaps the only isle of respite to be found on the burning plane of Muspelheim – a place that even Surtur and his fire giants never dared despoil with their approach). The walls, meanwhile, are decorated with the various prophecies whispered to the Child of Fire through her commune with flame. Those capable of reading the language of the Ancient Xuel may be distressed to peruse this text; as it slowly progresses towards the floor, it becomes more and more dire and bleak, confusing and panicked. By the time it reaches its end, it is simply a rambling string of scarcely-intelligible allegory. This, of course, is the physical manifestation of the slow encroach of madness that would eventually overcome all those within the doomed Temple.</p>
+			<p>To those with an interest in Xuel history, these would be of immense interest, though the nature of the script would make it perhaps only worth 500gp to a sage or scholar if it were somehow copied.</p>
+			<p>The door leading from this room to the north is trapped. If opened by anyone without a Xuel heritage (at least half), it explodes as if covered by explosive runes, doing 6d4+6 hp damage without the benefit of a saving throw.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>24 Heart of Fire (p. 23). Trap (Dangerous): </b>
+				<i>glyph of warding </i>(explosive runes, fire), <b>22 (5d8) fire </b>to the opener, <b>DC 15 Dexterity save for half </b>(the module gives no save; <i>glyph of warding </i>always has one). Detect: <b>DC 15 Investigation </b>or <i>detect magic </i>(abjuration). Disarm: <i>dispel magic </i>DC 15, or have a half-Xuel character open it</p>
+		</text>
+	</id-00030>
+	<id-00031>
+		<name type="string">A25. In Memoriam</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This white marble chamber is immense, stretching nearly 90' in length and 50 in breadth. On each of its sides, four alcoves are set into the walls, with a final two appointing its north side. In each of these, a 4' tall stone pillar rises from the substance of the floor. An earthen vessel stands atop each of these.</p>
+			<p>The entirety of the floor is a great mosaic, made of of thousands of colored pieces of stone. Together, they make of it a carpet of roaring flames: A masterpiece of ancient artwork. Superimposed upon the stones that comprise the picture is graven writing, chiseled into the floor in an elegant script.</p>
+			<p>This chamber serves as the Temple's catacombs: A burial chamber for those of Raanet's faith. As the custom of these folk was to see their bodies burned after death (the act being symbolic of lending themselves to their goddess' flames), the remains of those interred here are kept within the earthen vessels that adorn the pillars in the chamber's alcoves. Each one is decorated in such a way as to recall those kept within them.</p>
+			<p>Of course, such a hallowed place is not unguarded. Should any of the room's vessels be touched by those without Xuel heritage (again, at least half satisfies this), the stones forming the floor's mosaic begin to rapidly leap forth from the ground, assembling themselves into a powerful construct called a Stone Guardian. This protector of the catacombs will immediately attack the Player Characters until either all are dead or flee the chamber.</p>
+			<p>
+				<i>[1e statistics for Stone Guardian omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>The precise contents of the chamber are listed as follows:</p>
+			<h>Urn a</h>
+			<p>A brilliant orange vessel painted with repeating butterfly patterns, in reference to the familiar possessed by the mage whose remains fill it. Along with his ashes can be found his silver and emerald ring of human influence. Behind the pedestal on which the vessel stands is a small switch, hidden upon the wall. Flipping it unlocks and opens the door to Area #26. Because of its small size, it requires a successful concealed doors check to locate this switch.</p>
+			<h>Urn b</h>
+			<p>The painting of a crossed hammer and saw adorn the vessel in which the remains of a carpenter lie. With his ashes are a length of string and leaden weight he used in the course of his occupation.</p>
+			<h>Urn c</h>
+			<p>This dark blue vessel is brightly painted and features a silver lyre upon its face. If it is opened, among the ashes within it is a small, smooth rock that acts as a stone of good luck when possessed by any worshiper of the gods of the Xuel Pantheon (for anyone else, it acts as a stone of weight). At the back of the alcove, an unlocked and untrapped secret door leading to Areas #27 &amp; 29 can be found.</p>
+			<h>Urn d</h>
+			<p>This vessel is painted dark blue and is spotted with white pinpricks, so as to make it appear like a slice of the night sky. This, and the miniature spyglass at the bottom of the container, make it obvious that the remains here belonged to an astronomer.</p>
+			<h>Urn e</h>
+			<p>This vessel is the only one made from glass, revealing a gold and a lead piece atop the ashes at its bottom. These belonged to an alchemist who never was able to quite finish the grand transmutation that would change one element to another. At the rear of the alcove in which the vessel stands is an unlocked and untrapped secret door leading to Area #28.</p>
+			<h>Urn f</h>
+			<p>A man and woman's entwined fingers painted upon it tell the story of the married couple who wished their ashes to be mixed within this vessel. Along with them are the golden wedding rings they wore, both worth 100gp.</p>
+			<h>Urn g</h>
+			<p>Upon this vessel is painted a sword superimposed upon a shield: The tools employed by the soldier whose remains are contained here. A miniature sword can be found at the bottom of the vessel that magically expands into a broadsword +2 in the hands of Fighter (or subclass of that profession). At the rear of this alcove is a secret door that is unlocked but trapped, discharging a powerful electrical shock (3d6+6 damage, save for half) unless it is disarmed before being touched. This leads to Area #33 and beyond.</p>
+			<h>Urn h</h>
+			<p>A lone painted flame adorns the vessel in which the remains of a priestess of Raanet can be found. Her holy symbol is also in there, which acts as a ring of protection +2 (which is able to stack its bonus even atop other protective devices magical armor and shields) when worn by an individual devoted to Raanet.</p>
+			<h>Urn i</h>
+			<p>This vessel, holding the ashes of a tailor, is decorated with the same golden needle that rests with his remains at its bottom. The needle is worth a single gold piece.</p>
+			<h>Urn j</h>
+			<p>Within this vessel are the remains of a favored servant, elevated to the rank of citizen after his escape from the doomed Imperium. This is evident by the image of the sundered chain on the front of the container and the single iron link laying with his ashes, inside. At the back of the alcove in which the vessel stands is a locked but untrapped secret door that leads to the dangerous Area #26 (see below).</p>
+			<p>Consequences for good-aligned Player Characters that choose to loot the vessels within the catacombs are left to the Dungeon Master to determine.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>25 In Memoriam (p. 24). Stone Guardian (CR 3) </b>. It forms in 1 round, attacks until everyone is dead or has left, and won't leave the room <i>(conversion call, consistent with the 1e text) </i>. <b>a ring of human influence </b>(I12), plus a <b>hidden switch </b>that opens A26: <b>DC 15 Wisdom (Perception) </b>. <b>b </b>plumb line (mundane). <b>c stone of good luck </b>if carried by a worshipper of the Xuel pantheon, otherwise a <b>stone of weight </b>(I13), plus a secret door to A27/29 ( <b>DC 15 Perception </b>, unlocked). <b>d </b>miniature spyglass (mundane; <i>conversion call: 25 gp curio </i>). <b>e </b>gold piece and lead piece, plus a secret door to A28 (DC 15, unlocked; <b>A28 is a magma room </b>, see there). <b>f 2 golden wedding rings, 100 gp each </b>. <b>g miniature sword → "broadsword +2" for a Fighter </b>(I14), plus a secret door to A33: <b>trap (Dangerous), 22 (4d10) lightning, DC 15 Dexterity save for half </b>; detect and disarm DC 15. <b>h </b>holy symbol that acts as <b>ring of protection +2, stacking, for a devotee of Raanet </b>(I15). <b>i </b>golden needle (1 gp). <b>j </b>iron link, plus a <b>locked, untrapped </b>secret door to <b>A26 </b>. Lock DC 15. The <b>looting-consequences </b>note for good characters stays at DM discretion</p>
+		</text>
+	</id-00031>
+	<id-00032>
+		<name type="string">A26. Crematorium</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Opening this door brings forth a near-deafening sound like air, rushing with hurricane force from the alcove to which it opens, in towards its center. It is impossible to tell what might lie within this room aside of white-hot flames.</p>
+			<p>When one of the worshipers of Raanet died, they were usually taken to this room – the Temple's crematorium – to prepare them for interment within one of the vessels in its catacombs (Area #25, above). This was typically accomplished simply by resting the corpse in the alcove in front of its door, then retreating to the safety of the alcove directly across from it, where a switch is located. This switch unlocks and opens the door, allowing the chamber within to perform its duty.</p>
+			<p>The crematorium uses a mix of elemental vacuum and fire elements, employing the first to suck a body into its expanse, then using the second to render it ash. The power of the vacuum is sufficient to see that the remains are packed into a tidy pile. Those destroying the body in such a manner would then collect the ash-pile and place it within a proper receptacle.</p>
+			<p>If this door is opened by Player Characters, they will not have the luxury of being distant when the room's function is activated. They will be forced to struggle against the force of the vacuum to avoid being pulled into the room and incinerated (double each character's chance to bend bars/lift gates; rolling beneath this number on percentile dice means that they have managed to hold onto some surface and avoid being dawn within the chamber). Those who are drawn into the crematorium while it is functioning suffer 10d6 hp damage for each round they remain within its bounds (no save permitted).</p>
+			<p>If the door is opened and the Player Characters need to turn off the crematorium, this can be done by way of the switch in the alcove opposite its door. Otherwise, it continues to pull and burn without end.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>26 Crematorium (p. 25). Trap (Deadly): </b>when the door opens, each creature within 30 ft of it makes a <b>DC 18 Strength saving throw </b>at the start of each of its turns. On a failure it is pulled 15 ft toward the room; inside, it takes <b>35 (10d6) fire </b>at the start of each turn, <b>no save </b>(1e). <i>(DC 18: a 1e Str 16–18 character succeeds 14–32% of the time; DC 18 with a +3 to +5 Strength save gives 30–40%.) </i>The switch in the opposite alcove takes an action to reach and use. Leaving the room takes a DC 18 Athletics check per 5 ft</p>
+		</text>
+	</id-00032>
+	<id-00033>
+		<name type="string">A27. Empty Vessels</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Along this corridor, the white marble walls support several wooden shelves. These begin about 20' from the end of the hall until they conclude at its back wall. Atop these shelves rest dozens of glass vessels, along several sealed earthen pots. Beneath their wooden flats, a score of stout marble pillars, about 4' in height have been stored.</p>
+			<p>This is where the supplies for the Temple's catacombs are kept. The vessels are meant to hold the ashes of the fallen amongst Raanet's faithful. The pots, meanwhile, contain paints reserved for the artists amongst the Temple's surviving denizens to decorate them. Lastly, the pillars were meant to support these containers in Area #25, when finished.</p>
+			<p>Neither the vessels nor the pillars beneath them are especially valuable. Neither are the paints contained in the sealed pots, for the most part, as they are almost all dried to ruin. The sole exception is a single pot – adorned on its face by an elegantly-written letter “A” in graceful silver loops – which contains 3 applications of Marvelous pigments. How it arrived here or the purpose for which it was intended are mysteries.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>27 Empty Vessels (p. 26). Nolzur's Marvelous Pigments </b>(DMG) with <b>3 uses </b>(5e: 1d4 pots)</p>
+		</text>
+	</id-00033>
+	<id-00034>
+		<name type="string">A28. Playing with Fire</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This chamber is a 30' x 30' square of white marble. Its floor is notable both for its place, a foot beneath the level of the passage leading into its confines, and its composition, which appears to be made completely of roiling magma. Smoke wisps upwards into the air above this pool of the world's lifebood, which bubbles and pops with barely-contained menace.</p>
+			<p>Within this burning flow, five squat creatures regard you Each one, crimson and bronze-skinned, they are relatively featureless but for eyes than burn like the coals from a fireplace and the flames that issue forth from their blazing bodies, occasionally. The way they leer at you is only slightly less malicious than the lava in which they play.</p>
+			<p>This chamber was empty, cut into the substance of the immense marble beneath the Hellforges in which the Xuel worshipers of Raanet built their great Temple, but never used. This made it quite inviting for the four Magmen that currently inhabit it to ruin its floor to their liking and claim it as their lair.</p>
+			<p>
+				<i>[1e statistics for Magmen (4) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>Just as bored and angry as any of their fellows within the Temple Incandescent, these creatures will attack the Player Characters the moment they become aware of their presence. They have no type of treasure.</p>
+			<p>Note that Player Characters that locate the secret door leading to this area from Area #25 (see above for details) have a good chance of tumbling headlong into the magma pool within this room, if they're being pursued and are incautious. If this happens, such characters suffer 10d10 hp damage (save vs. breath weapons for half) until they manage to leave its bounds (and they then suffer another 3d6 hp damage until they somehow scrape the molten lava from their bodies). Between the heat, flames, and Magmen, however, it is unlikely that they will survive long enough to do so.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>28 Playing with Fire (p. 26). 4 × Magman </b>(the read-aloud says five; the key says four). <b>Magma (DMG): 55 (10d10) fire </b>on entering and at the start of each turn in it, <b>DC 15 Dexterity save for half </b>(1e save kept). On leaving, <b>10 (3d6) fire </b>at the start of each turn until someone spends an action scraping it off. Arriving through the A25e secret door while fleeing: <b>DC 13 Dexterity save </b>or stumble in <i>(conversion call; the 1e text says "a good chance")</i>
+			</p>
+		</text>
+	</id-00034>
+	<id-00035>
+		<name type="string">A29. Prayers for Flame</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This is a circular white marble chamber, 30' in diameter. An iron sconce juts forth from its west wall, holding a dead torch in its grip as a raptor clutches prey. The center of the room is occupied by a large, circular fire pit, cold and unlit. From its edges, iron rods rise up in three places, joining 2' above it in the form of a tripod. At that union, the metal is shaped in a tight “U” pattern.</p>
+			<p>Once a body was prepared for placement in the catacombs, the faithful of Raanet would bring it to this place, performing a small ceremony as a means of wishing the soul that once inhabited the remains well on their journey to the Hearthmistress. The neck of the vessel containing their ashes would be placed in the “U” shaped slot, allowing the fire within the pit below it to wash over its substance while prayers, songs, or verse were offered, as appropriate. This was thought to please both Raanet and Wee Saj and was considered an important part of the culture within the Temple Incandescent.</p>
+			<p>Now, quiet and cold, the place would seem to have little value to the Player Characters. However an investigation of the fire pit will reveal a priceless (considering the monsters that surround them) ring of fire resistance, allowed to fall into the flames by a careless priestess and never retrieved. If acquired, such a magical item may well prove instrumental to the Player Characters' survival.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>29 Prayers for Flame (p. 27). Ring of resistance (fire) </b>(DMG). Finding it in the ashes: <b>DC 10 Investigation </b>
+				<i>(conversion call)</i>
+			</p>
+		</text>
+	</id-00035>
+	<id-00036>
+		<name type="string">A30. Creatio Ex Nihilo</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This is a 30' x 30' white marble room. Where once it appeared that its south wall held many wooden shelves, atop which scores of earthen bowls and jugs were placed, these seem to have collapsed. The shelves lie in ruins along the bottom of the wall and the crockery that rest upon it lies atop it, shattered into countless shards. At the rear of the room, a 4' tall pillar of white marble likewise seems to have once stood, but this too has been knocked on its side and lies shattered along the west wall.</p>
+			<p>This disaster is nothing compared to that which lies in the center of the room, however. There, the chamber's floor is strewn with gore, spattered with blood and hunks of flesh and bone that have long since dried and rotted. Still, it lends the room the awful, overpowering scent of ancient death.</p>
+			<p>Huddled in the center of the room are five figures. Wearing little more than stained and tattered rags, they look impossibly emaciated. A closer inspect of them reveals that many of them are missing limbs that seem to have been eaten from their bodies.</p>
+			<p>In this chamber, the faithful of Raanet kept one of their most prized possessions – indeed, one that saw to their very survival. This was a small ceramic figurine in the shape of a cornucopia that they brought with them during their flight from the doomed Xuel Imperium. The statuette was able to replicate the effects of a create food spell, thrice per day, randomly summoning various kinds of meats, cheeses and vegetables – all of fresh and delicious quality – before its user. In deference to its shape, it was referred to as the Bountiful Cornucopia. It was kept in this room at all times, for without it, the denizens of the Temple would surely starve.</p>
+			<p>In the last days of the Temple, when the summoned allies of Raanet's faithful were becoming ever more erratic and unpredictable, five of the Temple's denizens shut themselves within this room, thinking to survive using the Bountiful Cornucopia. It was an ill-conceived plan, fueled by paranoia and madness. In the end, the group turned upon one another and ate of each other's flesh. This abomination saw the bunch of them live on eternally as Wights. They now huddle about the Cornucopia, nearly mindless but for rage and an implacable hunger...the latter of which they will try and sate the moment they see the Player Characters.</p>
+			<p>
+				<i>[1e statistics for Wights (5) omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>If the Player Characters manage to put these poor wretches out of their collective miseries, they will have done them a great service. As a reward, they will be able to claim the Bountiful Cornucopia from the chamber – a great prize indeed, for their victory.</p>
+			<p>There are no other valuables within the room.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>30 Creatio Ex Nihilo (p. 27). 5 × MM Wight (CR 3) </b>, re-armed: <b>no longbow; claw attacks </b>( <b>+4, 1d6+2 slashing </b>) in place of the longsword. <i>Life Drain </i>kept. CR unchanged. Treasure: <b>Bountiful Cornucopia </b>(I16)</p>
+		</text>
+	</id-00036>
+	<id-00037>
+		<name type="string">A31. Various and Sundry</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Stacked against the west wall of this 30' x 30' chamber are several bundles, bound in some odd type of grey wrapping. Along the south wall are long pieces of timber and iron, held together by stout lengths of rope. Opposite these are a thick wooden bench, upon which all manner of tools are scattered.</p>
+			<p>This room was set aside as general storage by Raanet's lost worshipers: A place in which necessary building and construction supplies and tools were kept. As their trip beneath the Hellforges saw most of these types of items ruined or lost on this epic trek, most of what can be found here was actually made after the Xuel emerged from the Passage of Nitorels and are thus not nearly as valuable as pre-Cataclysm examples of the same.</p>
+			<p>One of the exceptions to this can be found in the bundles along the south edge of the wall. On their subterranean journey, the Xuel managed to discover a massive type of fungus that they referred to as Xar'bik (AS: “Grey Beauty”). These giant mushrooms featured tough skins from which a sweet and nutritious meat could be taken. These outer shells were subsequently used to make cloaks, containers, and even armor. The bundles against the wall are Xar'bik skins that once contained reserves of their gathered edible interiors.</p>
+			<p>Sadly, this delicacy spoiled long ago, giving way to a Yellow Mold infestation. Worse, the ancient Xar'bik skins that contain the deadly fungus has become extremely brittle with age. If the bundles are disturbed in any way, they are 75% likely to burst, filling a 10' radius around them with Yellow Mold spores.</p>
+			<p>
+				<i>[1e statistics for Yellow Mold omitted. Use the 5e hazard in the 5e Conversion section.]</i>
+			</p>
+			<p>If collected, the tools within this room are worth 100gp, if sold as curios. Aside of the potential utility of the iron and wood to Player Characters, the room contains no other valuables.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>31 Various &amp; Sundry (p. 28). Yellow Mold (DMG hazard): </b>if the bundles are disturbed, roll d4; on 1–3 they burst. Each creature within <b>10 ft </b>makes a <b>DC 15 Constitution save </b>: on a failure, <b>11 (2d10) poison </b>and poisoned for 1 minute, taking 5 (1d10) poison at the start of each of its turns while poisoned and repeating the save at the end of each turn to end it. Fire or sunlight destroys the mold. Treasure: <b>tools (100 gp) </b>.</p>
+		</text>
+	</id-00037>
+	<id-00038>
+		<name type="string">A32. The Fallen Champions</name>
+		<text type="formattedtext">
+			<frame />
+			<p>This is a 30' x 30' chamber of white marble. Within it, a large bed frame made of stone is pushed against its south wall, the cushions and blankets that once covered it rotten and decayed with age. Handsome marble end tables flank the bed, both bearing silver candle holders. The tapers once contained in both have melted down their sides, gathering and hardening in pools beneath them. The room's east wall bears a door and to the left of that, a great empty wooden rack, upon which one might hang weapons and armor. On the west wall, to the left of the entrance into the chamber, is a wooden desk and chair. To the right of the passage's mouth, a wooden dresser. Both are laden with a thick coating of dust, but are made of fine, dark timber.</p>
+			<p>In the room's center, two figures stand. Both are tall and proud, wearing ancient white robes that reveal gleaming armor beneath them. A man and a woman, they both bear swords and shields and regard the world intensely, their eyes glowing in the gloom of shadows cast by their helms appointed with the plumage of raptors. Their flesh seems grey and almost insubstantial.</p>
+			<p>This chamber is the residence of Naskin and Yrsi ad-Laar: Mighty warriors sworn to protect the devout of Raanet with their lives. The two of them were among the last of those within the Temple Incandescent to die, cursed to watch their charges go mad with despair and die before their very eyes. Failing in their duty, the two powerful Fighters do not enjoy the peace of a restful death. Instead, their fate was to live on eternally as the potent form of undead known as Swordwraiths.</p>
+			<p>
+				<i>[1e statistics for Naskin and Yrsi ad-Laar, Swordwraiths omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>Now mad themselves, Naskin and Yrsi will immediately attack the Player Characters as soon as they enter the room. If they have advance warning that enemies will soon be upon them (such as a fight taking place in Area #25 with the Stone Guardian placed there), they will push their dresser on its side in the center of the room and fire bowshots at them from behind its cover (which will give them an Armor Class bonus of -2). Otherwise, they will move to melee with them, attacking with their swords. The two Swordwraiths will not parley with their foes; they have left their humanity too far behind for that, now. Note that sounds of combat in this location are 25% likely to rouse the attention of Yox, in Area #33 (see below for details).</p>
+			<p>If the Player Characters manage to overcome the two Swordwraiths, they may collect their treasures, which come in the form of the magic items they wield and that which is kept in their dresser. Both Naskin and Yrsi hold bastard swords +2. The former additionally wears a chain shirt +1, while the latter holds a small metal shield +2. Each of these items was made in the Xuel Imperium and because of their great historical value is worth double their usual amount. Meanwhile, their dressers hold their personal treasures: 120 Xuel gold coins and a small leather bag containing three tiny, flawed diamonds each worth 25gp, and a pair of adamantite rings, both worth 250gp.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>32 The Fallen Champions (p. 28). Naskin = Sword Wraith Commander (CR 8); Yrsi = Sword Wraith Warrior (CR 3) </b>, the 5e <i>Mordenkainen's Tome of Foes </i>/ <i>Monsters of the Multiverse </i>statblocks wearing their own gear. <b>No Call to Honor </b>(they are the last two of their warband). <b>Dresser = half cover (+2 AC). Yox alarm: </b>25% per fight, rolled once. Treasure: <b>2 × longsword +2 </b>( <i>Xuel bastard sword </i>; versatile; see I17), <b>chain shirt +1 </b>, <b>shield +2 </b>, <b>120 Xuel coins </b>, <b>3 × flawed diamond (25 gp) </b>, <b>2 × adamantite ring (250 gp)</b>
+			</p>
+		</text>
+	</id-00038>
+	<id-00039>
+		<name type="string">A33. Death's Companion</name>
+		<text type="formattedtext">
+			<frame />
+			<p>Beyond the door lies a 30' x 30' chamber of pure white marble. The skeletal remnants of a stone bed is pushed up against its west wall, a great black scorch mark marring the place where its cushioning might be. A wooden dresser and full-length standing mirror once rest in the chamber's northeast corner, but these have been burned and only their wreckage and shattered glass remains to hint at their presence. On the south wall, a large desk and chair have likewise been reduced to little more than blackened cinders, its frame looking like it might collapse at the barest touch. Next to it, the stone bookcase is intact, but any tomes that might have once appointed it are gone, burned to dark smudges upon its white shelves.</p>
+			<p>The whole of the room is aflame, portions of the floor leaping and dancing with brilliant, angry tongues. Amidst this inferno stands an immense creature. Nearly 8' tall, its bare, crimson skin is smooth and musclebound. Wearing only what seems to be a loincloth spun from gold fabric, its eyes are burning embers and its two short horns imply a demonic kind of malice.</p>
+			<p>The only individual who was not of Raanet's faithful dwelling within the Temple Incandescent once lived within this chamber. This was Anras il-Fruztii: A powerful priestess of Wee Saj, who chose to remain amongst the Hearthmistress' faithful to see to the protection of their spirits, in accordance with the law of the Xuel.</p>
+			<p>As the Temple neared its fall, the priestess was called upon with increasing regularity to lead the ceremonies dedicated to each of its denizens who perished. For convenience's sake (and because she never truly fit in with the the culture of the Raanet worshipers), she chose to make her abode in this chamber, far away from their number, yet close to the catacombs and crematorium.</p>
+			<p>Despite her relative removal from their society, the priestess was one of those entrusted to hold and empower one of the pieces of The Summoning Sigil by the Temple's Sovereign Magus. As a devout student of the Invisible Art (as many followers of Wee Saj are), however, she did not immediately stoke her portion of the potent magical device to life, preferring to study its aspect, instead. This innocent act saw to the final doom of the Temple, as when Mariana il-Xanna was murdered, the Sigil was still quiescent, separated, and unprepared for its ultimate use.</p>
+			<p>After the murder, the priestess realized her culpability in the Temple's ruin. With no judge or jury about to punish her, she chose to take her own life, drinking a vial of poison within her chambers. Thus did the final Xuel denizen within the Temple Incandescent die. Before she did this, however, she opened the stopper on her magic bottle and let loose Yox: Her Efreeti companion. Though she knew the creature could not return to the fabled City of Brass, she deigned allow it some modicum of freedom, the same.</p>
+			<p>Yox yet remains within the chamber, wroth with fury at its inability to escape the Temple. It is angry, irritable, and violent – and it will almost certainly attack the Player Characters the moment they enter its demesne.</p>
+			<p>
+				<i>[1e statistics for Yox, Efreeti omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>If Yox has warning of their approach, it will become invisible, hide in a corner of the room, then wait until its enemies have entered its bounds. When they do, it will place a wall of fire in the center of the room, blocking off the exit and attempting to split their number in half. It will then attempt to murder them, beginning with obvious spellcasters.</p>
+			<p>If Yox is reduced to less than 50% of its total hit points, the Efreet will surrender. Having listened to its mistress carefully during the final days of the Temple, it is fully aware of The Summoning Sigil, how it functions, and the purpose for which it is created. It also knows where the piece of the device is located within this chamber. It will attempt to barter this information in return for the Player Characters' sworn oath that they will let it depart the Temple and return to the City of Brass (once they explain how they entered to begin with, of course). It only knows where one piece of the device is (the one within this room), but in all ways, it will be fully truthful if the Player Characters agree to this proposal. It should be noted that Yox is powerful enough to empower the quiescent piece of the Sigil, should the Player Characters choose to decline his offer.</p>
+			<p>No matter how they deal with Yox, his mistress former chambers contain precious little of the fabulous treasures they once held. The Efreet has a bad temper and, sadly, many of these valuables were consumed by fire in once his rages over the course of the last six centuries. The priestess footman's flail +2 can be found amidst the wreckage of her dresser, however, just as her brooch of shielding (77 charges remaining) can be found in the ashes of her desk. Much more importantly, however, the wand-thin piece of ruby that is a portion of The Summoning Sigil still remains upon the priestess' bookshelves, though as it is currently not empowered, it lacks the inner glow possessed by the other pieces of the magical device.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>33 Death's Companion (p. 29). MM Efreeti (CR 11). Strip </b>
+				<b>
+					<i>conjure elemental </i>
+				</b>
+				<b>and </b>
+				<b>
+					<i>plane shift </i>
+				</b>(plane shift is blocked by the Temple's marble; conjure elemental is not in the 1e efreet and would work here). <b>Surrenders at 100 HP or less. </b>Sigil-eligible. Room: the flames on the floor are illusory flavour; the module gives no damage. Treasure: <b>flail +2 </b>, <b>brooch of shielding </b>(DMG; it has no charges in 5e, so drop the 77), <b>Sigil rod #4 (quiescent)</b>
+			</p>
+		</text>
+	</id-00039>
+	<id-00040>
+		<name type="string">A34. The Precipice</name>
+		<text type="formattedtext">
+			<frame />
+			<p>At the end of the corridor lies a circular area, 30' in diameter. Its walls – in which some ancient text is carved in an elegant, flowing script – rise 30' above its floor before ending in a great dome.</p>
+			<p>In the room's center is a pedestal, like a short column that seems to rise out of the very substance of the floor. A set of sort iron prongs jut forth from the top of this pedestal, like those from a priest's pulpit, in which their holy books are meant to rest.</p>
+			<p>There are no exits leading from the area in any direction, aside of that which leads to its expanse.</p>
+			<p>Previously, the south wall of this area was occupied by an arched, open doorway. When the Temple was first built, six centuries ago, this led to the place's Athenium: The repository of all knowledge possessed by the Xuel worshipers of Raanet. It was a place commonly-frequented by all within the Temple Incandescent, as each member of its small society did their part to learn the ultimate fate of their patron goddess.</p>
+			<p>When those of the faith summoned to the Prime Material Plane the Hearthmistress' First Servant – the pyroclastic sphinx known as Avraasha – a great bed of burning coals was created in the center of the library. This place was afforded to the sphinx as a personal domain, as a token of esteem, deference, and respect. From that place, Avraasha worked with the Xuel to learn what had become of their goddess gone silent, working powerful magicks that eventually weakened the barriers between worlds (already made tenuous in that place, thanks to the properties of the strange marble from which the Temple was constructed). Eventually, such was the power that Avraasha brought to bear that the Athenium in which she dwelt was ripped from the firmament of the Prime Material Plane, leaving it to exist as a demi-plane unto its own. As the library disappeared from its reality, the Temple's walls healed themselves, becoming smooth and featureless.</p>
+			<p>The episode prompted the Xuel's Sovereign Magi to create a magical matrix capable of locating the Athenium and subsequently rejoining it to the Temple's continuum, as it once was. This was The Summoning Sigil and upon the small stand atop the pedestal in this area is where it was meant to rest when empowered and joined. The script adorning the walls were later placed here: Aphorisms of the faith that reflect the hope that, one day, The Athenium and its legendary occupant might be returned to the world.</p>
+			<p>The room will remain quiet and staid until the completed and empowered Summoning Sigil is placed upon the stand topping the pedestal. At that point, the Game Master may continue this module with Chapter Two of the adventure (see below for details). Unless that occurs, the secret of The Forgotten Temple of Raanet and Avraasha may well never be discovered.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>34 The Precipice (p. 30). </b>Seat the Sigil here to start Chapter Two. No check</p>
+		</text>
+	</id-00040>
+	<id-00041>
+		<name type="string">A34b. Chapter Two: The Burning Athenium</name>
+		<text type="formattedtext">
+			<p>If the Player Characters are able to empower and assemble The Summoning Sigil, then place it upon its stand in Area #34, they do not have to wait long at all to see the results of their labors. The inner glow within its ruby substance begins to glow brilliantly, pulsing gently as the device levitates into midair. Once about a foot above the podium, it bursts into flame and begins to spin, shedding flickering radiance all about the walls of the circular area. It goes faster and faster, bringing with it a shrill, keening wail that seems to come from the empty air. Reality itself begins to shudder as the potent magical device brings back into the Prime what was lost over six centuries earlier.</p>
+			<p>Dust and debris begins to rain down from above. The earth trembles and quakes. The Sigil is a blinding blur of flame now – and for a moment, it seems as if the device is bent upon bringing about the end of all that is. But when the matrix reaches its crescendo of sound and motion – its stops suddenly in its place. The plain face of the south wall yawns wide, as if a mouth, screaming.</p>
+			<p>Then, nothing at all. The matrix is still. The air, silent. The passage ahead remains.</p>
+			<p>Somewhere, near its end, a flickering fire-light.</p>
+			<h>Special Properties of the Dungeon</h>
+			<p>When The Athenium is returned to the Prime, its distinction as a Demi-Plane unto itself ends. The great library has been returned to reality, just as it was when it was loosed from the firmament of existence. As such, it possesses the same properties as The Temple Incandescent in all tangible ways (most notably, in the way it nullifies all manner of summoning and most transportative spells and abilities).</p>
+			<p>Within The Athenium, there are no Wandering Monsters for the Player Characters to fear. There is but a single creature inhabiting its bounds, which they will encounter shortly after they dare the passage from Area #34 southward.</p>
+			<p>And she should stoke their terror quite enough.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>Athenium properties (p. 31). </b>The same rule as the Temple: no teleportation or planar travel in or out; conjuration (summoning) spells work normally. No wandering monsters.</p>
+		</text>
+	</id-00041>
+	<id-00042>
+		<name type="string">A35. The Burning Athenium</name>
+		<text type="formattedtext">
+			<frame />
+			<p>At the conclusion of the newly-born corridor lies an immense area of white marble. In its midst, two rows of great columns support a roof that hangs over 100' above the floor. Outside of these pillars, sections of walls exist, forming outer corridors that ring the central area twice. These walls are abbreviated in such a way that from the passage's threshold, many entrances and exits can be seen from these outer halls.</p>
+			<p>In the center of the chamber, the floor rises upon into a massive dais. Atop this, the floor has been lowered and filled with what seems to be burning stones, glowing with incredible heat. Upon this burning bed is a creature that looks like a gigantic lion with the wings of an eagle upon her back. Her head is that of a beautiful woman's. Wisps of grey smoke – shot through with angry, blazing sparks – rises from her body, which seems made completely of smooth volcanic glass.</p>
+			<p>Her form is utterly dark but for the menacing glow of molten magma, shining through what seems like thousands of fractures on her obsidian flesh. That, and her gaze, like the eyes of active volcanoes, which penetrate the gloom as her stare falls upon the corridor, seeming to burn the darkness itself.</p>
+			<p>The air is a violent blur for the heat radiating from her body. She is silent, but her stare speaks with the voice of the world's blood, boiling beneath its skin.</p>
+			<p>The Player Characters have entered The Burning Athenium – the repository of all knowledge possessed by the Xuloise worshipers of Raanet – and in doing so, have come upon Avraasha: Pyroclastic Sphinx and First Servant of the Hearthmistress.</p>
+			<p>Avraasha was an ancient creature even before Raanet gave the Xuloise the gift of warming and comforting fire. The sphinx served as an emissary for the goddess, performing important duties in the Hearthmistress name all across the planes. It is for this that she became known as The First Servant, and it is said that of all creatures born of flame, it she she that the goddess loved most. In the course of her duties, Avraasha treated with gods and devils, angels and demons. Yet the sphinx was said to be as kindly of heart as Raanet herself, gentle, courteous and welcoming. Yet the power at her command was as terrifying as the eruption of a thousand volcanoes – and to those that would harm the favored folk of her mistress, she was unimaginably fearsome.</p>
+			<p>
+				<i>[1e statistics for Avraasha, the First Servant, Pyroclastic Sphinx omitted. Use the 5e statblock named in the 5e Conversion section.]</i>
+			</p>
+			<p>When the Xuel summoned Avraasha to determine why their patron deity had gone silent, the sphinx intended on delivering them an answer herself. She attempted to plane shift from the Temple Incandescent to Raanet's hearth in Muspelheim to personally assess the situation...but found that many of her most potent spell-like abilities no longer functioned (this is because she was bereft of Raanet's power in the wake of her murder, though she had now way of knowing this). Extremely concerned at this revelation, she worked with her mistress worshipers as best she could in search for revelation.</p>
+			<p>As time went on, the kind-hearted sphinx became ever more desperate. All attempts at divining the truth of her mistress fate met with abject silence. In the meantime, the immortal creature saw the way Raanet's absence tore at her followers. She watched them, one by one, age and eventually die, their thoughts filled with fear and doubt as they did. Avraasha could not even say for certain if their souls arrived at the Hearthmistress' fire. The passage of years, watching this all the while, broke the sphinx's heart. Her desperation became manic, and she struggled against the invisible boundaries that separate the planes, hoping to break forth from her prison with her sheer might alone. Not only did constant attempts such as these avail her nothing – but they ended up tearing the whole of the great library in which she stayed as a guest of Raanet's worshipers from the skein of reality itself.</p>
+			<p>Alone now, and just as terrified as the mortals she sought to help, Avraasha prayed her mistress for deliverance from her fate. She was met with silence. So she continued to pray, surrounded by aught but the licking sound of crackling fire. She did this for six centuries, begging...pleading....</p>
+			<p>At some point, her sanity snapped like kindling wood.</p>
+			<p>Now proud and mighty Avraasha is little more than a feral beast, motivated by rage and pain. As soon as the Player Characters enter her demesne, she will silently regard them for some time before asking who they are and why they have come to her. No matter their answer, she is incapable of rational behavior. She will attack them immediately, making her fear and heartbreak manifest by reducing all the Player Characters to ash. Given the incredible power at her disposal, it is likely that she will succeed at this in short order, indeed.</p>
+			<p>Avraasha will remain within the central portion of The Burning Athenium, even should the Player Characters think to flee her presence. The corridors surrounding this place are lined on both sides with all manner of books – tomes of all sizes and shapes, literally thousands in number – held in white marble shelves, built into the walls. This will not protect the Player Characters from the sphinx's magics, of course. She favors uttering a power word: stun to begin combat, immolating those rendered helpless by the attack with fireballs, walls of fire and incendiary clouds (which she will move with telekinesis, to chase down those who might run from her).</p>
+			<p>In the end, the Player Characters likely have but one chance at survival.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>35 The Burning Athenium (p. 32). Avraasha (CR 22) </b>. <i>Telekinesis </i>added to her list, so the tactic works as written. Her <b>concentration </b>is the weak point: <i>telekinesis </i>and <i>incendiary cloud </i>both need it, so she can't hold one and steer the other. She uses the telekinesis to shove fleeing creatures back into the burning cloud. See <b>A35b. Surviving the Fire </b>for calming her.</p>
+		</text>
+	</id-00042>
+	<id-00043>
+		<name type="string">A35b. Surviving the Fire</name>
+		<text type="formattedtext">
+			<p>The Player Characters have little chance of defeating Avraasha in direct combat. However, they may be able to coax reason back to the sphinx's mind from the shadows of her fear, if they are shrewd. By appealing to Avraasha's better nature, they have a 10% chance of persuading her to break off her attack. This percentage is adjusted as follows:</p>
+			<list>
+				<li>+15% if the speaker mentions that there are Xuel among their number;</li>
+				<li>+10% if the speaker addresses Avraasha by her name.</li>
+				<li>+10% if the speaker directly invokes the name of Raanet;</li>
+				<li>+10% if the speaker quotes from Raanet's scripture (which they may have learned by studying some of the many writings in the Temple);</li>
+				<li>+5% for every point of Charisma over 15 possessed by the Player Character addressing her.</li>
+			</list>
+			<p>Within The Burning Athenium can be found written knowledge on the nature of fire that can only be described as awesome in depth. If Player Characters think to sell it, it will fall to the Game Master to adjudicate the price that might be fetched by the library's contents, as to compare its worth to mere gold would be the most vulgar of insults to its majesty. It is quite likely that no more complete a collection of information on the subject exists on all the world – and there can be no doubt that no few magi would be willing to commit unspeakable deeds indeed for the opportunity to peruse it even briefly. In game terms, any Magic-User creating a magic item or doing spell research with access to this collection in its entirety saves 50% in total cost and time over what their labors would typically require, provided the resultant item or spell is fire-based in nature. Additionally, access to the entire collection adds a 1d20+5% chance of success when a Magic-User devises an original fire-based spell. Likewise, study of the collection over the course of a year (diligent progress must be made, but time may be allowed for other short-term pursuits such as adventuring) by a Cleric or Paladin devoted to a Xuel deity gains 50,000 experience points. If this character actually worships Raanet herself, they are raised to the minimum number of experience points necessary to gain their next level – then they receive the bonus on top of that!</p>
+			<p>Of course, the entirety of the collection kept within The Burning Athenium consists of some 25,000 books, librams, and tomes and weighs nearly 500 tons. Clearly, some clever means of extracting this prize from its place will be required!</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>Calming Avraasha. </b>As an action, a creature that can speak to her makes a <b>DC 22 Charisma (Persuasion) </b>check. <b>+3 </b>if Xuel are among the party. <b>+2 </b>each for using her name, invoking Raanet, and quoting Raanet scripture (learned from the Temple's writings: H1, the A24 prophecies, <i>Warmed by the Flame </i>). The Charisma modifier is already in the roll. A Cha 18 speaker proficient in Persuasion (+7) with every bonus (+9) succeeds 75% of the time, against 70% in 1e. The same speaker with no bonuses succeeds 30%, against 25% in 1e. An untrained Cha 10 speaker with no bonuses can't succeed, against 10% in 1e; that is the one place 5e is harsher. One attempt per speaker per round, no penalty for failing (the 1e text gives none)</p>
+			<p>
+				<b>Library rewards. Crafting: </b>half the time and gold cost for any magic item that deals fire damage or has a fire theme. <b>Spell research: </b>copying fire spells into a spellbook costs half; designing a new fire spell is at the DM's discretion, with advantage on related Arcana checks. <b>Study: </b>one year of study gives a cleric or paladin of a Suel/Xuel deity <b>one level </b>. A <b>worshipper of Raanet gains two </b>(1e: next level, plus 50,000 XP on top, which at 1e levels 5–8 is about one more)</p>
+		</text>
+	</id-00043>
+	<id-00044>
+		<name type="string">A35c. Epilogue</name>
+		<text type="formattedtext">
+			<p>If the Player Characters manage to restore Avraasha's sanity, she collapses upon her bed of flames and begins to weep steaming tears of lava. She will attempt to explain her reaction to their appearance and beg their forgiveness for her actions. Of course, she will use her mighty magic to heal their wounds as best she is able.</p>
+			<p>Should the Player Characters forgive the sphinx, she will relate the whole of the tale that brought her to the Temple Incandescent, possibly giving those interested in the history of the Xuel a once-in-a-lifetime opportunity to view their culture through the eyes of a creature intimately familiar with its ways. She will then ask the Player Characters again who they are and why they have come to her. In the end, both are immaterial. They have rescued Avraasha from an eternity of durance and have earned her earnest gratitude.</p>
+			<p>Understanding that their presence means that a breach in the Temple's impenetrable shell has developed, Avraasha will explain to the Player Characters that she must bid them farewell. She is loathe to remain in her prison for even a moment more and yearns to spread forth her wings of fire and ride the world's skies once more. She bids the Player Characters take what they will from what remains of The Athenium as a reward for their actions. However, after saying as much, she seems to think better of it. Such material possessions seem insufficient to convey the depths of her gratitude. Thus, she bestows upon each one of them a wish and pledges that, in their hour of greatest need, they have but to speak her name aloud thrice – and she will come to their aid.</p>
+			<p>After making this pledge, the sphinx will leave the Temple, taking to the skies over the Hellforges. Avraasha seems to stab forth for the heart of the sun before disappearing from view. Soon enough, she will learn of the murder of her goddess and the fall of the folk she so loved – but these are tales for another day.</p>
+			<p>There are deeds to which she must attend.</p>
+			<p>And a dire revenge for her to plan.</p>
+			<h>5e Conversion</h>
+			<p>
+				<b>Heal: </b>she casts <i>heal </i>on the party (3/day, added to her list): cast it on the three worst-hurt and let the rest short-rest by her fire. <b>Wish: </b>each PC gains <b>one use of </b>
+				<b>
+					<i>wish </i>
+				</b>that they speak aloud to her in the moment, or bank as a one-use item ( <i>Avraasha's Ember </i>, I18). It is granted <b>by her </b>, so there is <b>no wish stress </b>(like a djinni's wish). <b>Thrice-spoken name: </b>once per PC, for the rest of the campaign, Avraasha answers. DM-side plot hook, not a mechanic</p>
+		</text>
+	</id-00044>
+</story>

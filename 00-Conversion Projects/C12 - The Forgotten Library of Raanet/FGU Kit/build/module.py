@@ -11,7 +11,7 @@ from fgmod import _S,_FT,_WR,ids
 import xml.etree.ElementTree as ET
 NAME='C12 - The Forgotten Library of Raanet'; DISPLAY='C12 The Forgotten Library of Raanet (5E)'
 FG=os.environ['FG_DIR']; WORK=os.environ['FG_WORK']; os.makedirs(WORK,exist_ok=True)
-CAMPAIGN=os.path.join(FG,'campaigns/C12 - The Forgotten Library of Raane/db.xml')
+STORYSRC=os.path.join(K,'C12 - FG Story Entries (module source).xml')  # exported from the campaign 2026-11-17; carries the in-FG fixes
 m=fgmod.Mod(NAME,DISPLAY,'Sidebar Press Conversions','Sidebar Press',FG,WORK)
 slug=lambda x: re.sub(r'[^a-z0-9]','',x.lower())[:40]
 # ---------- maps
@@ -21,6 +21,10 @@ MAPS={'map-m1-temple-incandescent':('C12 Map - M1 Temple Incandescent (5ft grid)
       'map-m2-burning-athenium':('C12 Map - M2 Burning Athenium (5ft grid).png',60),
       'map-m2-burning-athenium-player':('C12 Map - M2 Burning Athenium (5ft grid, Player).png',60)}
 for k,(f,_) in MAPS.items(): shutil.copy(os.path.join(K,'Maps',f),os.path.join(src,k+'.png'))
+HANDIMG={}
+for f in sorted(os.listdir(os.path.join(K,'..','Handouts'))):
+    mm=re.match(r'Handout (H\d+) - (.*)\.png$',f)
+    if mm: k='handout-'+mm.group(1).lower(); HANDIMG[mm.group(1)]=k; shutil.copy(os.path.join(K,'..','Handouts',f),os.path.join(src,k+'.png'))
 m.images(src)
 from PIL import Image
 SIZE={k:Image.open(os.path.join(src,k+'.png')).size for k in MAPS}
@@ -28,7 +32,7 @@ for k,(f,g) in MAPS.items():
     im=m._cat('image').find(m.IMG[k][0]).find('image')
     for t,v in (('grid','on'),('gridsize','%d,%d'%(g,g)),('gridoffset','0,0')):
         e=ET.Element(t); e.text=v; im.insert(0,e)
-    if k.endswith('player'): m._cat('image').find(m.IMG[k][0]).find('name').text+=' (Player)'
+    if k.endswith('player'): m._cat('image').find(m.IMG[k][0]).find('name').text=m.pretty(k[:-7])+' (Player)'
 # ---------- NPCs (all 55 from the import text) + SRD salamander / efreeti
 t=open(os.path.join(K,'C12 - FG NPC Import.txt')).read()
 NK={}
@@ -42,8 +46,8 @@ m.npc_srd('salamander','Salamander','salamander')
 m.npc_srd('efreeti','Efreeti (Wandering)','efreeti')
 def n(prefix): return next(v for k,v in NK.items() if k.startswith(prefix))
 # ---------- story text from the campaign (it carries the in-FG fixes); it becomes the reference manual
-camp=ET.parse(CAMPAIGN).getroot(); ST={}; STORY=[]
-for e in camp.find('encounter'):
+camp=ET.parse(STORYSRC).getroot(); ST={}; STORY=[]
+for e in camp:
     nm=e.findtext('name') or ''; tx=e.find('text')
     xml=''.join(ET.tostring(c,encoding='unicode') for c in tx) if tx is not None else ''
     mm=re.match(r'^A(\d+)([a-z]?)\.',nm); area=str(int(mm.group(1)))+mm.group(2) if mm else None
@@ -124,6 +128,29 @@ for nm,xml,area in STORY:
     imgs={'0':[M1,M1+'-player'],'34b':[M2,M2+'-player']}.get(area,[])
     m.page(sec,nm,xml,images=imgs,links=links,place={i:'$end' for i in imgs})
     if area: PAGE[area]='reference.refmanualdata.'+ids(len(m.pages))
+# ---------- player handouts (Handouts folder art + the handout text file)
+AREA_OF={'H1':'4','H2':'5','H3':'15'}
+ht=open(os.path.join(K,'C12 - FGU Story Entries - Handouts.txt')).read()
+for blk in re.split(r'\n=+\nENTRY NAME - ',ht)[1:]:
+    title=blk.split('\n',1)[0].strip(); code=title.split(' - ')[0]
+    where=re.search(r'^WHERE - (.*)$',blk,re.M); when=re.search(r'^WHEN - (.*)$',blk,re.M)
+    ptxt=re.search(r'>>>>> PLAYER TEXT[^\n]*\n(.*?)\n>>>>> END',blk,re.S); dm=re.search(r'DM ONLY - (.*?)(?:\n\n|\Z)',blk,re.S)
+    para=lambda x: ''.join('<p>%s</p>'%html.escape(' '.join(q.split())) for q in re.split(r'\n\s*\n',x.strip()))
+    xml=''
+    if where: xml+='<p><b>Where. </b>%s</p>'%html.escape(where.group(1))
+    if when: xml+='<p><b>When. </b>%s</p>'%html.escape(when.group(1))
+    if ptxt: xml+=''.join('<frame>%s</frame>'%html.escape(' '.join(q.split())) for q in re.split(r'\n\s*\n',ptxt.group(1).strip()))
+    if dm: xml+='<p><b>GM only. </b>%s</p>'%html.escape(' '.join(dm.group(1).split()))
+    xml+='<p><i>Share the handout image with the players from this page or from the Images list.</i></p>'
+    ik=HANDIMG.get(code); imgs=[ik] if ik else []
+    m.page('Appendix: Player Handouts','Handout '+title,xml,images=imgs,links=[m.I(ik)] if ik else [],place={ik:'Where'} if ik else {})
+    hp='reference.refmanualdata.'+ids(len(m.pages))
+    a=AREA_OF.get(code)
+    if a:
+        for pg in m.pages:
+            if pg[1]==next((n for n,_,ar in STORY if ar==a),None):
+                pg[3].append(('referencemanualpage',hp,'Handout: '+title))
+                if ik: pg[3].append(m.I(ik))
 # ---------- map pins -> reference manual pages (FG image coordinates: origin at centre, y up)
 P1=json.load(open(os.path.join(os.path.dirname(__file__),'pins_m1.json')))
 P2={'35':[1560,1181],'34b':[1560,140],'35b':[1700,1181],'35c':[1840,1181]}
