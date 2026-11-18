@@ -1,6 +1,6 @@
 ---
 type: front-matter
-adventure: "SP-PBS-NN"
+adventure: "SP-GANN"
 section: overview
 publish_order: 20
 publish: true

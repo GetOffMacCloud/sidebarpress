@@ -1,6 +1,6 @@
 ---
 type: wilderness
-adventure: "SP-PBS-NN"
+adventure: "SP-GANN"
 section: act-2
 publish_order: 300
 publish: true

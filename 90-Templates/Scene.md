@@ -1,6 +1,6 @@
 ---
 type: scene
-adventure: "SP-PBS-NN"
+adventure: "SP-GANN"
 section: act-1 # act-1 | act-2 | act-3
 publish_order: 110 # 100 + scene × 10
 publish: true
@@ -11,7 +11,7 @@ session: 1
 
 # Scene NN — {{title}}
 
-[[10-Adventures/SP-PBS-NN — Title/Scenes/00 — Scene Index]] · ← [[Scene NN — Previous]] · Next → [[Scene NN — Next]]
+[[10-Adventures/In Development/SP-GANN — Title/Scenes/00 — Scene Index]] · ← [[Scene NN — Previous]] · Next → [[Scene NN — Next]]
 
 ## Purpose
 What this scene must deliver before the party leaves it. One or two sentences.

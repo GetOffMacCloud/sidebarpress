@@ -1,6 +1,6 @@
 ---
 type: site
-adventure: "SP-PBS-NN"
+adventure: "SP-GANN"
 section: act-1 # act-1 | act-2 | act-3
 publish_order: 200
 publish: true

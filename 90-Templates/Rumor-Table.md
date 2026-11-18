@@ -1,6 +1,6 @@
 ---
 type: rumor-table
-adventure: "SP-PBS-NN"
+adventure: "SP-GANN"
 section: overview
 publish_order: 40
 publish: true

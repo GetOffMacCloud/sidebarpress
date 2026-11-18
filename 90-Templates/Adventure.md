@@ -1,6 +1,6 @@
 ---
 type: adventure
-adventure: "SP-PBS-NN"
+adventure: "SP-GANN"
 section: overview
 publish_order: 10
 publish: true
@@ -22,7 +22,7 @@ tags: []
 > One-paragraph pitch. What is this adventure, and why should a DM run it?
 
 ## Adventure Code
-`SP-PBS-NN` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
+`SP-GANN` — never reuse codes, even for scrapped adventures. See the naming scheme in the vault README.
 
 ## Background
 What happened before the PCs arrive. Keep canon facts linked, homebrew marked.
@@ -76,11 +76,11 @@ Deviations:
 Link session logs: [[Session Log]]
 
 ## Supporting Files
-- [[10-Adventures/SP-PBS-NN — Title/Scenes/00 — Scene Index]] — manifest and Longform project
-- [[SP-PBS-NN — Board]] — definition of done
-- [[SP-PBS-NN — Bestiary]]
-- [[SP-PBS-NN — <Mechanic>]]
-- [[SP-PBS-NN — Handout — <Title>]]
+- [[10-Adventures/In Development/SP-GANN — Title/Scenes/00 — Scene Index]] — manifest and Longform project
+- [[SP-GANN — Board]] — definition of done
+- [[SP-GANN — Bestiary]]
+- [[SP-GANN — <Mechanic>]]
+- [[SP-GANN — Handout — <Title>]]
 
 ## Publishing
 - [ ] Editing pass complete

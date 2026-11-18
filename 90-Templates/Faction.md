@@ -1,6 +1,6 @@
 ---
 type: faction
-adventure: "SP-PBS-NN"
+adventure: "SP-GANN"
 section: internal
 publish_order: 0
 publish: false

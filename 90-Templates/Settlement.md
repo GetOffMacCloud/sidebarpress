@@ -1,6 +1,6 @@
 ---
 type: settlement
-adventure: "SP-PBS-NN"
+adventure: "SP-GANN"
 section: act-1
 publish_order: 150
 publish: true

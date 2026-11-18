@@ -1,6 +1,6 @@
 ---
 type: scene-index
-adventure: SP-PBS-NN
+adventure: SP-GANN
 section: internal
 publish_order: 0
 publish: false
@@ -15,7 +15,7 @@ longform:
 ---
 # Scene Index — {{title}}
 
-Back to [[SP-PBS-NN-Title-Slug]] · Mechanics: [[SP-PBS-NN — Mechanic]] · Statblocks: [[SP-PBS-NN — Bestiary]] · Board: [[SP-PBS-NN — Board]]
+Back to [[SP-GANN-Title-Slug]] · Mechanics: [[SP-GANN — Mechanic]] · Statblocks: [[SP-GANN — Bestiary]] · Board: [[SP-GANN — Board]]
 
 > [!info] This note is the **build manifest** and the **Longform project index**. The table below is the canonical paste order for the compiled book. Reorder by changing `publish_order`; drop a file with `publish: false`. See [[Build-Pipeline]].
 
@@ -28,8 +28,8 @@ TABLE WITHOUT ID
   publish_order AS "Order",
   default(status, "—") AS "Status",
   choice(publish, "✅", "—") AS "Ships"
-FROM "10-Adventures" OR "99-Assets/SP-PBS-NN"
-WHERE adventure = "SP-PBS-NN" AND publish_order > 0
+FROM "10-Adventures" OR "99-Assets/SP-GANN"
+WHERE adventure = "SP-GANN" AND publish_order > 0
 SORT publish_order ASC
 ```
 
