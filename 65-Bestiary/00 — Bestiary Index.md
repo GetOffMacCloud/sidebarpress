@@ -120,7 +120,7 @@ TABLE WITHOUT ID
   publish_order AS "Order",
   default(status, "—") AS "Status",
   choice(publish, "✅", "—") AS "Ships"
-FROM "65-Bestiary" OR "10-Adventures/SP-OM01 — The Fell Harvest"
+FROM "65-Bestiary" OR "10-Adventures"
 WHERE adventure = "SP-OM01" AND publish_order > 0
 SORT publish_order ASC
 ```

@@ -13,6 +13,7 @@ The vault runs on plain Markdown + frontmatter. Plugins are *consumers* of that 
 | **Dataview** | Renders the manifests, [[Pipeline-Dashboard]], and any "what's missing" query. | — |
 | **Kanban** | The per-adventure board (definition of done). Board files are plain checklists, so nothing is lost if the plugin goes. | — |
 | **Obsidian Git** | Auto-commit/push every 10 min (`vault auto-sync`). This is the one with the configured settings. | — |
+| **Templater** | Runs the startup script `90-Templates/_Startup — Board Auto-Mover.md`, which files each adventure folder under `10-Adventures/Completed` when every box on its Board is ticked and back under `10-Adventures/In Development` when any box is unticked (or there is no Board). Pocket Modules are never moved. Folders move through Obsidian, so links update; keep *Automatically update internal links* on. | Move folders by hand |
 | **Fantasy Statblocks** *(optional)* | Rendered statblocks. Bestiaries currently use plain callouts, so it is not load-bearing. | Plain callouts (current) |
 
 ## Remove

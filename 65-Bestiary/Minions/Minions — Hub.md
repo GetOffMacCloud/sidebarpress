@@ -32,48 +32,48 @@ Everything about minions in one place. The rules chapter and the seven type note
 28 combat scenes carry a *Minion Pack (just in case)* built from these templates.
 
 **SP-OS01 — Straw Men**
-- [[10-Adventures/SP-OS01 — Straw Men/Scenes/Scene 01 — The Closing Reel|Scene 01 — The Closing Reel]]
-- [[10-Adventures/SP-OS01 — Straw Men/Scenes/Scene 04 — Fields and Stall|Scene 04 — Fields and Stall]]
-- [[10-Adventures/SP-OS01 — Straw Men/Scenes/Scene 05 — The Mill|Scene 05 — The Mill]]
+- [[Scene 01 — The Closing Reel|Scene 01 — The Closing Reel]]
+- [[Scene 04 — Fields and Stall|Scene 04 — Fields and Stall]]
+- [[Scene 05 — The Mill|Scene 05 — The Mill]]
 
 **SP-OS02 — The Hollow Lantern**
-- [[10-Adventures/SP-OS02 — The Hollow Lantern/Scenes/Scene 01 — The Mourning Procession|Scene 01 — The Mourning Procession]]
-- [[10-Adventures/SP-OS02 — The Hollow Lantern/Scenes/Scene 02 — Crossing the Mere|Scene 02 — Crossing the Mere]]
-- [[10-Adventures/SP-OS02 — The Hollow Lantern/Scenes/Scene 03 — The Great Hall|Scene 03 — The Great Hall]]
-- [[10-Adventures/SP-OS02 — The Hollow Lantern/Scenes/Scene 04 — Below the Water|Scene 04 — Below the Water]]
-- [[10-Adventures/SP-OS02 — The Hollow Lantern/Scenes/Scene 05 — The Toast|Scene 05 — The Toast]]
+- [[Scene 01 — The Mourning Procession|Scene 01 — The Mourning Procession]]
+- [[Scene 02 — Crossing the Mere|Scene 02 — Crossing the Mere]]
+- [[Scene 03 — The Great Hall|Scene 03 — The Great Hall]]
+- [[Scene 04 — Below the Water|Scene 04 — Below the Water]]
+- [[Scene 05 — The Toast|Scene 05 — The Toast]]
 
 **SP-OS03 — The Night That Doesn't End**
-- [[10-Adventures/SP-OS03 — The Night That Doesn't End/Scenes/Scene 01 — Midnight, the First Time|Scene 01 — Midnight, the First Time]]
-- [[10-Adventures/SP-OS03 — The Night That Doesn't End/Scenes/Scene 02 — Not Again|Scene 02 — Not Again]]
-- [[10-Adventures/SP-OS03 — The Night That Doesn't End/Scenes/Scene 03 — The Ossuary|Scene 03 — The Ossuary]]
-- [[10-Adventures/SP-OS03 — The Night That Doesn't End/Scenes/Scene 05 — The Thirteenth Toll|Scene 05 — The Thirteenth Toll]]
+- [[Scene 01 — Midnight, the First Time|Scene 01 — Midnight, the First Time]]
+- [[Scene 02 — Not Again|Scene 02 — Not Again]]
+- [[Scene 03 — The Ossuary|Scene 03 — The Ossuary]]
+- [[Scene 05 — The Thirteenth Toll|Scene 05 — The Thirteenth Toll]]
 
 **SP-OS04 — The Tithe of Thornbury**
-- [[10-Adventures/SP-OS04 — The Tithe of Thornbury/Scenes/Scene 03 — The Blackthorn Copse|Scene 03 — The Blackthorn Copse]]
-- [[10-Adventures/SP-OS04 — The Tithe of Thornbury/Scenes/Scene 04 — The Procession|Scene 04 — The Procession]]
-- [[10-Adventures/SP-OS04 — The Tithe of Thornbury/Scenes/Scene 05 — The Tithe Barn|Scene 05 — The Tithe Barn]]
+- [[Scene 03 — The Blackthorn Copse|Scene 03 — The Blackthorn Copse]]
+- [[Scene 04 — The Procession|Scene 04 — The Procession]]
+- [[Scene 05 — The Tithe Barn|Scene 05 — The Tithe Barn]]
 
 **SP-GA00 — Nobody's Colors**
-- [[10-Adventures/SP-GA00 — Nobody's Colors/Scenes/Scene 02 — The Erlen Bridge|Scene 02 — The Erlen Bridge]]
-- [[10-Adventures/SP-GA00 — Nobody's Colors/Scenes/Scene 04 — Two Nights on the Quag|Scene 04 — Two Nights on the Quag]]
-- [[10-Adventures/SP-GA00 — Nobody's Colors/Scenes/Scene 06 — The Stable Rows|Scene 06 — The Stable Rows]]
+- [[Scene 02 — The Erlen Bridge|Scene 02 — The Erlen Bridge]]
+- [[Scene 04 — Two Nights on the Quag|Scene 04 — Two Nights on the Quag]]
+- [[Scene 06 — The Stable Rows|Scene 06 — The Stable Rows]]
 
 **SP-GA01 — The False Arrow**
-- [[10-Adventures/SP-GA01 — The False Arrow/Scenes/Scene 01 — The High Pass|Scene 01 — The High Pass]]
-- [[10-Adventures/SP-GA01 — The False Arrow/Scenes/Scene 04 — Trial of the Bow|Scene 04 — Trial of the Bow]]
-- [[10-Adventures/SP-GA01 — The False Arrow/Scenes/Scene 05 — Night in Yecha|Scene 05 — Night in Yecha]]
+- [[Scene 01 — The High Pass|Scene 01 — The High Pass]]
+- [[Scene 04 — Trial of the Bow|Scene 04 — Trial of the Bow]]
+- [[Scene 05 — Night in Yecha|Scene 05 — Night in Yecha]]
 
 **SP-GA02 — The Bones of the Dreadverge**
-- [[10-Adventures/SP-GA02 — The Bones of the Dreadverge/Scenes/Scene 01 — Dusk at the Pound|Scene 01 — Dusk at the Pound]]
-- [[10-Adventures/SP-GA02 — The Bones of the Dreadverge/Scenes/Scene 03 — Crossing the Dreadverge|Scene 03 — Crossing the Dreadverge]]
-- [[10-Adventures/SP-GA02 — The Bones of the Dreadverge/Scenes/Scene 04 — The Cutters' Camp|Scene 04 — The Cutters' Camp]]
-- [[10-Adventures/SP-GA02 — The Bones of the Dreadverge/Scenes/Scene 05 — The Three Sisters|Scene 05 — The Three Sisters]]
+- [[Scene 01 — Dusk at the Pound|Scene 01 — Dusk at the Pound]]
+- [[Scene 03 — Crossing the Dreadverge|Scene 03 — Crossing the Dreadverge]]
+- [[Scene 04 — The Cutters' Camp|Scene 04 — The Cutters' Camp]]
+- [[Scene 05 — The Three Sisters|Scene 05 — The Three Sisters]]
 
 **SP-GA03 — The Red Cord**
-- [[10-Adventures/SP-GA03 — The Red Cord/Scenes/Scene 04 — The Brawl|Scene 04 — The Brawl]]
-- [[10-Adventures/SP-GA03 — The Red Cord/Scenes/Scene 05 — Dornhalm's Yard|Scene 05 — Dornhalm's Yard]]
-- [[10-Adventures/SP-GA03 — The Red Cord/Scenes/Scene 06 — The Midnight Bell|Scene 06 — The Midnight Bell]]
+- [[Scene 04 — The Brawl|Scene 04 — The Brawl]]
+- [[Scene 05 — Dornhalm's Yard|Scene 05 — Dornhalm's Yard]]
+- [[Scene 06 — The Midnight Bell|Scene 06 — The Midnight Bell]]
 
 ## Making a new minion
 1. Pick the source statblock and the minion type.

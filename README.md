@@ -7,7 +7,7 @@ The Obsidian vault for **Sidebar Press, LLC** — adventure writing for D&D 2014
 | Folder | Purpose |
 | ------------------------- | ---------------------------------------------------------------------- |
 | `00-Inbox` | Raw ideas, half-formed hooks, things not yet filed. Clear weekly. |
-| `10-Adventures` | One folder per adventure. The product pipeline. |
+| `10-Adventures` | One folder per adventure, filed automatically: `In Development/` until every box on the adventure's Board is ticked, then `Completed/` (see [[Plugin-Policy]]). `Pocket Modules/` is filed by hand. |
 | `20-World/Greyhawk-Canon` | Canon reference only. Every note cites its edition and source. |
 | `20-World/Homebrew` | Your inventions for the setting. Marked clearly as non-canon. |
 | `30-NPCs` | Named NPCs. One note each, linked from everywhere they appear. |
@@ -33,7 +33,7 @@ The Obsidian vault for **Sidebar Press, LLC** — adventure writing for D&D 2014
 ## Naming
 
 - **Adventure codes:** `SP-PBS-NN`, a two-digit sequence (`SP-GA01`, `SP-GA02`, …). Codes are sequential and never reused, even for scrapped adventures.
-- **Adventure folders:** `10-Adventures/SP-PBS-NN — Title/`, e.g. `SP-GA02 — The Bones of the Dreadverge/`.
+- **Adventure folders:** `10-Adventures/In Development/SP-PBS-NN — Title/` (moved to `Completed/` automatically when its Board is done), e.g. `SP-GA02 — The Bones of the Dreadverge/`.
   - Main note: `SP-PBS-NN-Title-Slug.md`, e.g. `SP-GA02-The-Bones-of-the-Dreadverge.md`.
   - Supporting notes: `SP-PBS-NN — Bestiary.md`, `SP-PBS-NN — Handout — <Title>.md`, and so on.
   - Scene notes: `Scenes/00 — Scene Index.md` and `Scenes/Scene NN — <Title>.md`.

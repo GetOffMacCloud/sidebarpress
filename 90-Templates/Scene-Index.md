@@ -28,7 +28,7 @@ TABLE WITHOUT ID
   publish_order AS "Order",
   default(status, "—") AS "Status",
   choice(publish, "✅", "—") AS "Ships"
-FROM "10-Adventures/SP-PBS-NN — Title" OR "99-Assets/SP-PBS-NN"
+FROM "10-Adventures" OR "99-Assets/SP-PBS-NN"
 WHERE adventure = "SP-PBS-NN" AND publish_order > 0
 SORT publish_order ASC
 ```

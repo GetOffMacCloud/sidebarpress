@@ -11,7 +11,7 @@ session: 1
 
 # Scene NN — Title
 
-[[00 — Scene Index]] · Next → [[Scene NN — Next]]
+[[10-Adventures/In Development/SP-OS01 — Straw Men/Scenes/00 — Scene Index]] · Next → [[Scene NN — Next]]
 
 > [!info] Scene at a glance
 > **Estimated Duration:** N minutes. Running long? (one cut)
