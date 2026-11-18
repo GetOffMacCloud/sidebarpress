@@ -20,8 +20,8 @@ Thresholds (2014 DMG): Easy 7,000 · Medium 14,000 · Hard 21,000 · Deadly 31,5
 |---|---|---|---|---|
 | Offering-Heap (S04) | Offering-Heap | 13,000 | 6,500 (×0.5) | Easy on paper; lethal to one PC a round |
 | Smokehouse (S05) | Brindlewick, 2 Brothers, 2 earth elementals | 9,500 | 14,250 (×1.5) | Medium; attrition |
-| The Hunt (S06) | Gluttonwretch for 3 rounds, 1 Gorger, 1 Flinger | 26,400 | 39,600 (×1.5) | Deadly on paper; it leaves after round 3 |
-| The Feast (S07), best case | Gluttonwretch, Hob Tanner (Gorger) | 25,700 | 25,700 (×1) | Hard, plus lair actions and Second Helpings |
+| The Hunt (S06) | Gluttonwretch for 1 round then a chase, 1 Gorger, 1 Flinger | 26,400 | 39,600 (×1.5) | Deadly on paper; one round, then it flees |
+| The Feast (S07), best case | Gluttonwretch, Hob Tanner (Gorger) | 25,700 | 25,700 (×1) | Hard, plus lair actions (Second Helpings only if ahead of the clock) |
 | The Feast, one thread left loose | + Brindlewick *or* + the barrels' Flinger | 28,000 / 26,400 | 42,000 / 39,600 (×1.5) | Deadly |
 | The Feast, worst case | Gluttonwretch, Hob, the barrels' Flinger, Brindlewick | 28,700 | 43,050 (×1.5) | Deadly |
 
@@ -29,7 +29,7 @@ Thresholds (2014 DMG): Easy 7,000 · Medium 14,000 · Hard 21,000 · Deadly 31,5
 
 **Adventuring day.** Running all four encounters comes to about 86,000–103,000 adjusted XP, against a 2014 adventuring-day budget of 105,000 for seven 12th-level characters (15,000 each), with a short rest likely before the feast. Most tables run three of the four. It is a day that pushes the party to its limits.
 
-**Live dials during play:** add or remove Hollow Guests one at a time (700 XP each). Hold back Second Helpings if the party is already bloodied. Give Canon Terjon's *spirit guardians* if they are struggling.
+**Live dials during play:** add or remove Hollow Guests one at a time (700 XP each). Second Helpings is off by default; run it only if you are ahead of the clock. Give Canon Terjon's *spirit guardians* if they are struggling.
 
 ---
 
@@ -62,7 +62,7 @@ Thresholds (2014 DMG): Easy 7,000 · Medium 14,000 · Hard 21,000 · Deadly 31,5
 
 **In SP-GS01 only** (adventure riders, not part of the bestiary entry):
 - ***Bound by the Wishbone.*** While the Wishbone of Old Gobbler is unbroken, the Gluttonwretch can't be banished, turned, or held by any effect for longer than the end of its next turn, and it always comes to the Brewfest feast.
-- ***First Fruits.*** Each Offering delivered to it (see [[SP-GS01 — The First Fruits]]) reduces its legendary actions by 1 per round. At 3 Offerings it loses all damage resistances. At 6 it stops fighting.
+- ***First Fruits.*** It accepts only one Offering per round. Each Offering delivered to it (see [[SP-GS01 — The First Fruits]]) reduces its legendary actions by 1 per round. At 3 Offerings it loses all damage resistances. At 6 it stops fighting.
 
 ### Actions
 ***Gluttony's Peck.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 23 (3d10 + 7) slashing damage plus 14 (4d6) necrotic damage. If the target is a creature, it must succeed on a DC 18 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. The target dies if this effect reduces its hit point maximum to 0. The reduction lasts until it is removed by the *greater restoration* spell or similar magic.

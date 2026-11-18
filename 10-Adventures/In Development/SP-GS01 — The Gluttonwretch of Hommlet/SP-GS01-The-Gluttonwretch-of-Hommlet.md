@@ -74,8 +74,8 @@ Thresholds for 7 PCs at level 12 (2014 DMG): Easy 7,000 · Medium 14,000 · Hard
 |---|---|---|---|---|---|
 | 1 | The Offering-Heap ([[Scene 04 — The Grove and the Offering-Heap\|S04]]) | social or combat | Offering-Heap (CR 15) | 6,500 (×0.5) | Easy on paper; hits for 87 (12d10 + 21) a round. Meant to be calmed |
 | 2 | The Brothers of the Rotting Table ([[Scene 05 — The Smokehouse\|S05]]) | combat | Brindlewick (Mage), 2 Gladiators, 2 Earth Elementals | 14,250 (×1.5) | Medium; attrition |
-| 3 | The Hunt ([[Scene 06 — The Hunt on Emridy Meadows\|S06]]) | combat, chase | Gluttonwretch for 3 rounds (CR 20), 1 Gorger, 1 Flinger | 39,600 (×1.5) | Deadly on paper; it leaves after round 3 |
-| 4 | The Brewfest Feast ([[Scene 07 — The Brewfest Feast\|S07]]) | combat + skill | Gluttonwretch (CR 20), Hob Tanner; + Brindlewick and a Flinger if Act 2 left them loose; lair actions; Second Helpings | 25,700–43,050 | Hard if Act 2 tied off both threads; Deadly otherwise |
+| 3 | The Hunt ([[Scene 06 — The Hunt on Emridy Meadows\|S06]]) | combat, chase | Gluttonwretch for 1 round then a chase (CR 20), 1 Gorger, 1 Flinger | 39,600 (×1.5) | Deadly on paper; one round, then it flees and the party loses it |
+| 4 | The Brewfest Feast ([[Scene 07 — The Brewfest Feast\|S07]]) | combat + skill | Gluttonwretch (CR 20), Hob Tanner; + Brindlewick and a Flinger if Act 2 left them loose; lair actions; Second Helpings only if ahead of the clock | 25,700–43,050 | Hard if Act 2 tied off both threads; Deadly otherwise |
 
 Full math and dials: [[SP-GS01 — Bestiary]].
 
@@ -112,6 +112,7 @@ Built as a **reference manual** (not story entries), with the vault builder (`70
 - **Adventure:** main note, Front Matter, Scenes 01–08, Bestiary, The First Fruits, The Gorgings, Comedy Kit, and the three handouts (shareable to players).
 - **Notes outside the folder (one page each):** [[Brindlewick's Cipher Book]], [[Canon Terjon]], [[Deacon Mungo Brindlewick]], [[Emridy Meadows]], [[Feather of the First Fruits]], [[Gluttonwretch]], [[Goodwife Gundigoot]], [[Gremag]], [[Hommlet]], [[Inn of the Welcome Wench]], [[Jaroo Ashstaff]], [[Jaroo's Grove]], [[Lissa (Hommlet)]], [[Mytch the Miller]], [[Offering-Heap]], [[Ostler Gundigoot]], [[Pip Haddle]], [[Pudding]], [[Rannos Davl]], [[The Elder of Hommlet]], [[The Rotting Table]], [[The Smokehouse (Hommlet)]], [[The Temple's Long Shadow]], [[The Wishbone of Old Gobbler]], [[The-Common-Year-Calendar]], [[Viscounty-of-Verbobonc]], [[Wat Thistlewood]], [[Widow Marta Bree]]
 - **NPC records:** the Gluttonwretch and the Gluttonwretch, Second Helpings (two records), the Offering-Heap, Brindlewick (Mage reskin), Gorger (Mummy reskin), Flinger (Wight reskin), Brother of the Rotting Table (Gladiator reskin), earth elemental, and Rannos and Gremag from the T1 conversion.
+- **Images:** the maps in [[SP-GS01 — Map Assets]] (GM and Player versions, pinned to H1–H5 and S1–S6), plus the color art from the [[SP-GS01 — Art Brief]].
 - **Item records:** [[Feather of the First Fruits]], [[The Wishbone of Old Gobbler]], [[Brindlewick's Cipher Book]].
 
 **Checklist**
@@ -138,6 +139,7 @@ Link session logs: first run planned as a Thanksgiving-week stream (3.5 hours, 7
 - [[SP-GS01 — Handout — The Cipher Ledger]]
 - [[SP-GS01 — Handout — Who's Who in Hommlet]]
 - [[SP-GS01 — Art Brief]]
+- [[SP-GS01 — Map Assets]] — T1 Maps 2–5 (copied) and the four new maps with their CharGen prompts
 
 ## Publishing
 - [ ] Editing pass complete

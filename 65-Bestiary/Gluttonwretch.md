@@ -164,7 +164,7 @@ The Wretch's wishbone, a forked bone as long as a spear, can be broken by two cr
 **Still worth watching:** Gobble of Gluttony can stun a whole party at once, and Feast on Fear feeds on exactly that. If your table finds the combination too swingy, give Gobble a Recharge of 6 only.
 
 ## Appears In
-- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — the villain of a Brewfest one-shot for APL 12: [[Scene 06 — The Hunt on Emridy Meadows]] (3 rounds at its roost) and [[Scene 07 — The Brewfest Feast]] (with lair actions and its Second Helpings form). There it is Old Gobbler, the Old Faith's sacred turkey of Hommlet, starved by the village and raised by a priest of Zuggtmoy; six offerings of first fruits can lay it to rest. Its wishbone is the [[The Wishbone of Old Gobbler|Wishbone of Old Gobbler]].
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — the villain of a Brewfest one-shot for APL 12: [[Scene 06 — The Hunt on Emridy Meadows]] (one round at its roost, then a chase) and [[Scene 07 — The Brewfest Feast]] (with lair actions, and its Second Helpings form when the table has time). There it is Old Gobbler, the Old Faith's sacred turkey of Hommlet, starved by the village and raised by a priest of Zuggtmoy; six offerings of first fruits can lay it to rest. Its wishbone is the [[The Wishbone of Old Gobbler|Wishbone of Old Gobbler]].
 
 ## Art Prompt
 ```

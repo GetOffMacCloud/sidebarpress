@@ -7,14 +7,14 @@
   "sessions": [
     {
       "start": "2026-11-18T19:18:44.456Z",
-      "total": 357353,
+      "total": 357854,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
           "scenes": {}
         },
         "65-Bestiary/00 — Bestiary Index.md": {
-          "total": 187464,
+          "total": 187472,
           "scenes": {
             "01 — Introduction": 328,
             "02 — Reading an Entry": 309,
@@ -82,7 +82,7 @@
             "The Endless Howl": 2348,
             "Eylandra Stormchant": 3674,
             "Glazryth, the Pale Terror": 2668,
-            "Gluttonwretch": 5482,
+            "Gluttonwretch": 5490,
             "Gorzak the Flaymaster": 2413,
             "Grakh Unscarred": 2742,
             "The Marrowmother": 2906,
@@ -340,15 +340,15 @@
           }
         },
         "10-Adventures/In Development/SP-GS01 — The Gluttonwretch of Hommlet/Scenes/00 — Scene Index.md": {
-          "total": 10849,
+          "total": 11342,
           "scenes": {
-            "Scene 01 — Brewfest Eve": 1142,
-            "Scene 02 — What Hommlet Isn't Saying": 1982,
+            "Scene 01 — Brewfest Eve": 1169,
+            "Scene 02 — What Hommlet Isn't Saying": 2052,
             "Scene 03 — The War Council": 916,
             "Scene 04 — The Grove and the Offering-Heap": 1615,
             "Scene 05 — The Smokehouse": 1379,
-            "Scene 06 — The Hunt on Emridy Meadows": 922,
-            "Scene 07 — The Brewfest Feast": 2200,
+            "Scene 06 — The Hunt on Emridy Meadows": 1191,
+            "Scene 07 — The Brewfest Feast": 2327,
             "Scene 08 — The Last Toast": 693
           }
         }

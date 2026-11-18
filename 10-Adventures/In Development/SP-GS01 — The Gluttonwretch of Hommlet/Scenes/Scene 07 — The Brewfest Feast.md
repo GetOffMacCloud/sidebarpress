@@ -15,7 +15,7 @@ session: 1
 
 ## Purpose
 The climax. The village sits down to the Brewfest feast, names its thanks, and the Wretch walks in through the Open Door. All three ways of ending it stay live in the same fight: the First Fruits, the Wishbone, and the Carving.
-**Budget:** 70 minutes. Running long? If phase 2 triggers with under 50 minutes left, skip Second Helpings and let the Wretch fall.
+**Budget:** 70 minutes. Running long? Second Helpings is off unless you are ahead of the clock (see The Carving).
 
 ## Climax at a Glance
 | Solution | What it takes | Seeded in | Cost |
@@ -55,6 +55,7 @@ Roll initiative. The Wretch starts with any damage carried over from [[Scene 06 
 
 ### 1. The First Fruits
 An **Offering** is delivered by bringing first fruits from a won household to the Wretch's beak: **an action within 15 feet**, inside the aura. **A creature carrying an Offering is ignored by the Aura of Endless Hunger;** the Wretch wants what it carries, not the one carrying it. A villager can carry their own basket if a PC escorts them (the PC moves with them and takes the Dodge or Help action); otherwise a PC carries it.
+- **One Offering per round.** The Wretch eats slowly, savoring each gift, and accepts only one Offering per round. A second carrier who reaches it in the same round waits, basket in hand, until the next round. Six Offerings means six rounds of guarding the carriers.
 - **Each Offering** costs the Wretch **1 legendary action per round**.
 - **At 3 Offerings** it **loses all its damage resistances**, and it will not rise in Second Helpings.
 - **At 6 Offerings** it stops fighting, eats, and lies down. **[[Jaroo Ashstaff]]**'s rite (1 round, uninterrupted, within 30 feet) lays Old Gobbler to rest. Ending A.
@@ -82,7 +83,7 @@ Two creatures, each holding one end and using an action, make a **contested Stre
 - **If Brindlewick holds the Wishbone,** he has to be pried off it first (a grapple, or dropping him). He will snap it himself only if he is about to be captured: "If she can't have the village, she'll have the bird."
 
 ### 3. The Carving
-Bring the Wretch to 0 hit points. **Unless 3 or more Offerings were made or the Wishbone was snapped, it splits its own skin and rises as the Gluttonwretch, Second Helpings** (a separate statblock and Fantasy Grounds record; see [[SP-GS01 — Bestiary]]), at its own initiative, legendary actions reset. Bring that to 0 too. Ending B.
+Bring the Wretch to 0 hit points. **Unless 3 or more Offerings were made or the Wishbone was snapped, **and you are ahead of the clock** (it drops with at least 30 minutes left before 3:20 on the run sheet), it splits its own skin and rises as the Gluttonwretch, Second Helpings** (a separate statblock and Fantasy Grounds record; see [[SP-GS01 — Bestiary]]), at its own initiative, legendary actions reset. Bring that to 0 too. Ending B. **If you are behind the clock, it simply falls.** The one exception: if the party killed it at the Hunt, it always rises at the feast as Second Helpings, because that is the climax.
 
 ## Lair Actions
 On initiative count 20 (losing ties), the Wretch takes one lair action. It can't use the same one two rounds running.
@@ -91,7 +92,7 @@ On initiative count 20 (losing ties), the Wretch takes one lair action. It can't
 3. **Second Hunger.** Every stomach in range growls at once, in harmony. Each creature that has eaten at the feast makes a DC 16 Wisdom saving throw. On a failure it takes 7 (2d6) necrotic damage and loses its reaction until its next turn.
 
 ## Pacing at a Seven-Player Table
-A round with seven players, the Wretch, its legendary actions and a lair action takes about 20–25 minutes at a stream table. The 70-minute budget is about three rounds. Keep the Naming of Thanks under 10 minutes, use a turn timer if your table likes one, and treat Second Helpings as optional: run it only if you are ahead of the clock.
+A round with seven players, the Wretch, its legendary actions and a lair action takes about 20–25 minutes at a stream table. The 70-minute budget is about three rounds. Keep the Naming of Thanks under 10 minutes and use a turn timer if your table likes one. **Second Helpings is off by default:** run it only if the Wretch drops with at least 30 minutes left before 3:20. Six Offerings at one per round is about six rounds, so a First Fruits ending runs long; start the Offerings early.
 
 ## The Clock
 - **After round 3,** if no Offering has yet been made, one more household gorges at the end of each round. Cross it off the households; its members join the fight as one more Gorger (700 XP each). Take the households in the order listed in [[SP-GS01 — The Gorgings]]: the Thistlewoods first, the Elder's last.

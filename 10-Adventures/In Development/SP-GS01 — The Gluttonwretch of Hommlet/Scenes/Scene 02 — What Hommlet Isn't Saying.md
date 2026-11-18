@@ -23,6 +23,9 @@ The party wakes on Day 2 (or works through the night of Day 1). Hommlet is setti
 **To the table:** *"You've got one day before the feast bell. Who in this village do you lean on first?"* Point the players to Terjon's list, [[SP-GS01 — Handout — Who's Who in Hommlet]].
 
 ## Hommlet at a Glance
+> [!art]- Map — the Village of Hommlet (T1 Map 2)
+> ![[SP-GS01 - T1 Map 2 - Village of Hommlet - Print (300dpi, 10in).png|500]]
+
 | # | Place | Who | What it gives | Full entry |
 |---|---|---|---|---|
 | H1 | The Elder's house | [[The Elder of Hommlet]] | The 575 vote; the rotted offering in his cellar | ✱ |
@@ -33,6 +36,9 @@ The party wakes on Day 2 (or works through the night of Day 1). Hommlet is setti
 | H6 | Welcome Wench common room | [[Ostler Gundigoot]], drinkers | Rumors (see [[SP-GS01 — Front Matter]]) | one line |
 
 **H5. CHURCH OF ST. CUTHBERT** *(gorgings 1–3; see [[SP-GS01 — The Gorgings]])*
+> [!art]- Map — Church of St Cuthbert (T1 Map 5)
+> ![[SP-GS01 - T1 Map 5 - Church of St Cuthbert - Print (300dpi, 7.5in).png|400]]
+
 > *The vestry smells of candle smoke and chewed paper. Two cots stand against the wall, each with a figure tied to it by soft cords. A third cot is empty, its cords bitten through. Torn hymnal pages litter the floor.*
 
 **Creatures:** **[[Canon Terjon]]** (1), keeping watch; **Old Ma Dunwold** (1), the farrier's mother; **Tam Thistlewood** (1), Wat's older brother. Both are at the Gorging stage.
@@ -88,6 +94,9 @@ She cries, then insists the party take honey cakes. She will give her first hone
 ---
 
 **H3. THE TRADERS' ESTABLISHMENT**
+> [!art]- Map — Traders' Establishment (T1 Map 4)
+> ![[SP-GS01 - T1 Map 4 - Traders' Establishment - Print (300dpi, 7.5in).png|400]]
+
 > *The shop's shelves are nearly bare: rope, lamp oil, a single pair of boots. Crates are stacked to the ceiling along the back wall, each stenciled PRESERVES — CRANBERRY. Two men behind the counter stop talking as the door opens. One smiles too widely; the other doesn't smile at all.*
 
 **Creatures:** **[[Rannos Davl]]** (1), who does the talking, and **[[Gremag]]** (1), who watches the door. Use their statblocks from the T1 conversion (see each NPC note). A **cultist clerk** (1), blank-faced, sweeps the same patch of floor for the entire scene.

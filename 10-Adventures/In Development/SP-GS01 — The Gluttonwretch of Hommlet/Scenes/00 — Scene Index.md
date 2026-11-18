@@ -52,8 +52,8 @@ Act 2 runs two of its three scenes, or all three in parallel if the party splits
 | 03 | [[Scene 03 — The War Council]] | 1 | 10 min | 1:05 | Give each NPC one line and let the players pick. | The party chooses its paths, splits or not, and knows the clock. |
 | 04 | [[Scene 04 — The Grove and the Offering-Heap]] | 2 | 25 min | (parallel) | Calm the Heap with one check; run three households, not eight. | Households won over (Offerings banked); the Heap calmed or fought. |
 | 05 | [[Scene 05 — The Smokehouse]] | 2 | 30 min | (parallel) | Skip the upper floor; open in the cellar chapel. | The Wishbone taken or smashed; Brindlewick captured, killed or fled. |
-| 06 | [[Scene 06 — The Hunt on Emridy Meadows]] | 2 | 25 min | 2:10 | End after the Wretch's third round, whatever has happened. | Damage on the Wretch that carries into the feast. |
-| 07 | [[Scene 07 — The Brewfest Feast]] | 3 | 70 min | 3:20 | If phase 2 triggers with under 50 minutes left, skip Second Helpings. | The Wretch laid to rest, destroyed, or victorious. |
+| 06 | [[Scene 06 — The Hunt on Emridy Meadows]] | 2 | 25 min | 2:10 | Skip the chase; the Wretch flies off after one round. | Damage on the Wretch that carries into the feast. |
+| 07 | [[Scene 07 — The Brewfest Feast]] | 3 | 70 min | 3:20 | Second Helpings only if the Wretch drops with 30+ minutes left before 3:20. | The Wretch laid to rest, destroyed, or victorious. |
 | 08 | [[Scene 08 — The Last Toast]] | 3 | 10 min | 3:30 | — | The village gives thanks; the players get the last word. |
 
 **Slack:** 3:30–4:00 is overrun buffer only. Never plan into it.

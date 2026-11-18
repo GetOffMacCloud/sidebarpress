@@ -23,6 +23,9 @@ Show the hunger in action, plant the Open Door, and get Jaroo's letter into a PC
 **To the table:** *"You're the guests of honor at the biggest feast this village has thrown in seven years. What does your character do when a whole village is staring at them?"*
 
 ## Beats
+> [!art]- Map — Inn of the Welcome Wench (T1 Map 3)
+> ![[SP-GS01 - T1 Map 3 - Inn of the Welcome Wench - Print (300dpi, 7.5in).png|400]]
+
 
 **1. The welcome.** **[[Ostler Gundigoot]]** comes down the steps with a barrel on his shoulder and a grin that doesn't reach his eyes.
 > "Heroes! In Hommlet! At Brewfest! First pour's yours, second's for anyone who helps me carry the third. Mind the goat. She's called Pudding, and she has no friends."
