@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-11-18T19:18:44.456Z",
-      "total": 80827,
+      "total": 89305,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -339,16 +339,16 @@
           }
         },
         "10-Adventures/In Development/SP-GS01 — The Gluttonwretch of Hommlet/Scenes/00 — Scene Index.md": {
-          "total": 1566,
+          "total": 10044,
           "scenes": {
             "Scene 01 — Brewfest Eve": 1122,
-            "Scene 02 — What Hommlet Isn't Saying": 71,
-            "Scene 03 — The War Council": 69,
-            "Scene 04 — The Grove and the Offering-Heap": 63,
-            "Scene 05 — The Smokehouse": 62,
-            "Scene 06 — The Hunt on Emridy Meadows": 62,
-            "Scene 07 — The Brewfest Feast": 68,
-            "Scene 08 — The Last Toast": 49
+            "Scene 02 — What Hommlet Isn't Saying": 1595,
+            "Scene 03 — The War Council": 832,
+            "Scene 04 — The Grove and the Offering-Heap": 1477,
+            "Scene 05 — The Smokehouse": 1379,
+            "Scene 06 — The Hunt on Emridy Meadows": 902,
+            "Scene 07 — The Brewfest Feast": 2044,
+            "Scene 08 — The Last Toast": 693
           }
         }
       }

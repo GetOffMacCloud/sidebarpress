@@ -11,6 +11,8 @@ The master index of every ongoing storyline across Sidebar Press adventures. Ind
 | [[The Girl on the Levy]] | [[SP-GQ01-The-Gaolers-Link]] | Kermin wants Liesl Amsel, a gifted Probationer, for his school of mages. |
 | [[The Molag Seal]] | [[SP-GQ01-The-Gaolers-Link]] | A Kermin agent's letter carries a Horned Society seal forged with Panshazek's tools: two arms of Iuz, one prize. |
 | [[Who Keeps the Link]] | [[SP-GQ01-The-Gaolers-Link]] | The relic that blinds Iuz is in Ritterstadt, and now Iuz knows it. |
+| [[The Rotting Table]] | [[SP-GS01-The-Gluttonwretch-of-Hommlet]] | A Zuggtmoy cell survived the Temple's fall; Brindlewick raised the Gluttonwretch to gorge Hommlet at Brewfest. His cipher book names "the second table" under the Temple. |
+| [[The Temple's Long Shadow]] | [[SP-GS01-The-Gluttonwretch-of-Hommlet]] | Hommlet's thin harvests since 569; the 577 harvest depends on how SP-GS01 ends. |
 
 ## Advancing
 | Thread | Last Seen In | Next Planned |
