@@ -41,7 +41,7 @@ Top-down battle map of a medieval village green at night during a harvest festiv
 ```
 Top-down battle map of a burned timber barn on the edge of a forest, true overhead view, 20 by 16 squares of 5 feet. A muddy yard to the south with an empty pigpen and deep cart ruts leading to sagging double doors. Inside, a long smoking hall with a brick firepit down the middle, iron meat hooks hanging from blackened rafters, a spit over the fire, holes in the scorched roof. At the north end, three large iron vats of dark brown liquid and a stone staircase leading down. Charred beams, ash, scattered straw. No text, no labels.
 ```
-**Cellar, 18 × 14 squares:**
+**Cellar, 20 × 16 squares** (rendered at 1500 × 1200, so laid out to match the ground floor):
 ```
 Top-down battle map of a damp stone cellar turned into a fungus chapel, true overhead view, 18 by 14 squares of 5 feet. Stairs down in the south-east corner. Two rows of rough wooden pews face a long table at the north end, the table black with mold. Above the table, a giant wishbone taller than a man hangs from chains. Candles stuck in rotten gourds light the room; pale mushrooms and patches of black mold grow on the walls and floor. A narrow side room to the west holds a cot, a wooden lectern with an open book, and shelves of jars; in its corner, a sloping coal chute leads up to daylight. Stone walls with cracked foundation blocks. No text, no labels.
 ```
@@ -63,7 +63,7 @@ FGU versions at 100 px per 5-ft square; Print versions at 300 dpi, 7.5 in wide (
 |---|---|---|---|
 | M1 Feast Green | 30 × 24 | 3,000 × 2,400 | 2,250 × 1,800 |
 | M2a Smokehouse, ground floor | 20 × 16 | 2,000 × 1,600 | 2,250 × 1,800 |
-| M2b Smokehouse, cellar | 18 × 14 | 1,800 × 1,400 | 2,250 × 1,750 |
+| M2b Smokehouse, cellar | 20 × 16 | 2,000 × 1,600 | 2,250 × 1,800 |
 | M3 Jaroo's Grove | 24 × 24 | 2,400 × 2,400 | 2,250 × 2,250 |
 | M4 Emridy Meadows | 30 × 30 | 3,000 × 3,000 | 2,250 × 2,250 |
 | T1 Map 2 Village of Hommlet *(existing)* | 20-ft scale | 7,318 × 5,654 | 3,000 × 2,450 (10 in) |
@@ -73,8 +73,8 @@ FGU versions at 100 px per 5-ft square; Print versions at 300 dpi, 7.5 in wide (
 
 ## Checklist
 - [x] T1 Maps 2–5 copied to `99-Assets/SP-GS01/maps/`
-- [ ] M1 Feast Green
-- [ ] M2 Smokehouse (ground floor and cellar)
+- [x] M1 Feast Green (Player No Grid; CharGen original in `_source/`)
+- [x] M2 Smokehouse, ground floor and cellar (Player No Grid; CharGen originals in `_source/`)
 - [ ] M3 Jaroo's Grove
 - [ ] M4 Emridy Meadows
 - [ ] All maps exported as GM, Player, Player (No Grid) at 100 px per square, plus Print
