@@ -1,22 +1,24 @@
 ---
+
 kanban-plugin: board
 type: board
-adventure: "SP-GS01"
+adventure: SP-GS01
 section: internal
 publish: false
+
 ---
 
 ## 1 · Frame
 
 - [x] Adventure code assigned and folder created from [[90-Templates/Adventure]]
 - [x] Pitch paragraph and Design Frame written (thesis, expectation broken, what it refuses to do)
-- [ ] In-world date set (`in_world_date`) and logged in [[Timeline]]
+- [x] In-world date set (`in_world_date`) and logged in [[Timeline]]
 - [x] Hooks written (at least 3 variants)
 - [x] PC Objectives listed, each with 2+ routes
 - [x] Act structure and scene list in [[10-Adventures/In Development/SP-GS01 — The Gluttonwretch of Hommlet/Scenes/00 — Scene Index|00 — Scene Index]] with time budgets
 - [x] Climax-at-a-Glance table: every solution seeded in an earlier scene
 - [x] Signature mechanic note created (`type: adventure-mechanic`)
-- [ ] Canon research done; every canon claim has a Lore note in `20-World/Greyhawk-Canon`
+- [x] Canon research done; every canon claim has a Lore note in `20-World/Greyhawk-Canon`
 
 
 ## 2 · Write
@@ -24,7 +26,7 @@ publish: false
 - [x] Every scene note exists with `status: outline`
 - [x] Every scene `status: drafted` (Purpose, read-aloud, beats, Sensory Palette, Alternates, Transition)
 - [x] Clue Ledger complete: every conclusion has 3+ routes
-- [ ] Every named NPC has a note in `30-NPCs` with Appearances filled
+- [x] Every named NPC has a note in `30-NPCs` with Appearances filled *(the seven canon Hommlet NPCs keep their notes in the T1 conversion folder, by ruling; SP-GS01 Appearances added there)*
 - [x] Every location has a note in `40-Locations`
 - [x] Every item has a note in `50-Items`
 - [x] Encounter table filled with APL bands and DMG difficulty math
@@ -75,6 +77,6 @@ publish: false
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
+{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
 ```
 %%

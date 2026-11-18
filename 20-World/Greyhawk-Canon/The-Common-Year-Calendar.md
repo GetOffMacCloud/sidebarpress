@@ -57,5 +57,8 @@ Counting from the canon anchors (Luna full Fireseek 11 and Richfest 4; Celene fu
   2. **Calendar fix:** move the adventure to **Goodmonth 11, "Dark Night,"** when both moons are new. That is a perfect night for a Nerullite, but it requires re-keying the deadline away from Celene, which would no longer appear in the sky.
 - Nights with notable moon conditions (Dark Night, Great Moon's Glory, the double full moon at Richfest) are strong hooks for rites. Log their use in [[Timeline]].
 
+- **Brewfest in Hommlet (SP-GS01, homebrew):** the harvest-feast festival; Hommlet's first-fruits offering to the Old Faith and the Welcome Wench's Open Door are local customs, not canon. The SP-GS01 feast falls on **Brewfest 4**, under a full Celene.
+
 ## Linked Adventures
 - [[SP-GA02-The-Bones-of-the-Dreadverge]]
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Brewfest 3–4, 576 CY

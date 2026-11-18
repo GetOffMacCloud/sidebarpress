@@ -33,4 +33,4 @@ Canon: T1 places an Old Faith grove and its offering shrine at Hommlet, tended b
 See the area map in the adventure's main note; battlemaps to come in `99-Assets/SP-GS01/`.
 
 ## Canon Notes
-T1-4 (1985), Jaroo Ashstaff and the grove (PDF p. 13); the village "tends towards the Druidical faith (Ehlonna, Obad-hai, and most of all Beory)" (PDF p. 121). See [[Obad-Hai and the Old Faith]]. Homebrew additions as listed.
+T1-4 (1985), Jaroo Ashstaff and the grove (PDF p. 13); the village "tends towards the Druidical faith (Ehlonna, Obad-hai, and most of all Beory)" (PDF p. 121). See [[Obad-Hai]]. Homebrew additions as listed.

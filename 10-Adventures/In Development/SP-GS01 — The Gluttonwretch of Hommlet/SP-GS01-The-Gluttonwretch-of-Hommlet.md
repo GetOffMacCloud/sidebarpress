@@ -98,7 +98,7 @@ Dangling hooks: Brindlewick's cipher book names a "second table" under the Templ
 Deviations:
 | Topic | Source says | This adventure | Why |
 |---|---|---|---|
-| Hommlet–Nulb distance | T1-4 contradicts itself: "but 6 miles distant" (PDF p. 6) against a day and a half's journey on its Map 1 and Interlude; the vault's T1 conversion follows the map (about 33 miles) | 6 miles (PDF p. 6); Emridy Meadows placed 12 miles north | Greybeard ruling 2026-11-18. Nobody travels to Nulb in this adventure; only the Meadows distance matters. See [[Viscounty of Verbobonc]] |
+| Hommlet–Nulb distance | T1-4 contradicts itself: "but 6 miles distant" (PDF p. 6) against a day and a half's journey on its Map 1 and Interlude; the vault's T1 conversion follows the map (about 33 miles) | 6 miles (PDF p. 6); Emridy Meadows placed 12 miles north | Greybeard ruling 2026-11-18. Nobody travels to Nulb in this adventure; only the Meadows distance matters. See [[Viscounty-of-Verbobonc|Viscounty of Verbobonc]] |
 | Old Gobbler, the grove's sacred turkey | Not in canon | Homebrew | The adventure's premise |
 | Brindlewick and the Rotting Table | Not in canon | Homebrew Zuggtmoy remnant | Zuggtmoy is the Temple's patron in T1-4 |
 | The Moathouse and Elmo | Present in T1 | Not used | Kept free for other tables' Hommlet campaigns |

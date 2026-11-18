@@ -79,6 +79,7 @@ status: drafted
 | 14 | 11,500 | [[Bloodfiend]] | Large fiend | contributed | Bestiary |
 | 15 | 13,000 | [[Dorukai Thunderclub]] | Large giant | contributed | Rogues' Gallery |
 | 15 | 13,000 | [[Hellborne]] | Huge fiend | contributed | Bestiary |
+| 15 | 13,000 | [[Offering-Heap]] | Huge plant | new | Bestiary |
 | 15 | 13,000 | [[Pale Chimera]] | Large monstrosity | contributed | Bestiary |
 | 16 | 15,000 | [[Drevnar Soulreaver]] | Medium humanoid | contributed | Rogues' Gallery |
 | 16 | 15,000 | [[Sylvarith, the Venomous Wyrm]] | Huge dragon | contributed | Rogues' Gallery |
