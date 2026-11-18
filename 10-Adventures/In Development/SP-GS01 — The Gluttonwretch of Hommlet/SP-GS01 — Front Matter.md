@@ -132,7 +132,7 @@ New NPCs have full notes in `30-NPCs`. The canon Hommlet NPCs keep their T1 note
 
 ### Aftermath and Rewards
 - **Ending A:** the [[Feather of the First Fruits]]; Jaroo's friendship; free board at the Wench for life.
-- **Ending B:** [[Brindlewick's Cipher Book]] and the Deacon's hoard (a *spell scroll* of a 5th-level spell); with the Wishbone snapped, its larger half gives one automatic natural 20 before dawn.
+- **Ending B:** [[Brindlewick's Cipher Book]] and the Deacon's hoard (a *spell scroll* of a 5th-level spell); with the Wishbone snapped, whoever keeps its larger half gains a single *wish*, limited to duplicating a spell of 7th level or lower.
 - **All endings:** the village knows who stood at its table. Canon Terjon writes to Verbobonc naming the party.
 
 ### Continuing the Adventure

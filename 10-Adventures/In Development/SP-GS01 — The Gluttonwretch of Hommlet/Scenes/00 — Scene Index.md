@@ -6,7 +6,7 @@ publish_order: 0
 publish: false
 longform:
   format: scenes
-  title: "The Gluttonwretch of Hommlet"
+  title: The Gluttonwretch of Hommlet
   workflow: Default Workflow
   sceneFolder: /
   scenes:

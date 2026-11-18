@@ -20,59 +20,61 @@ Thresholds (2014 DMG): Easy 7,000 · Medium 14,000 · Hard 21,000 · Deadly 31,5
 |---|---|---|---|---|
 | Offering-Heap (S04) | Offering-Heap | 13,000 | 6,500 (×0.5) | Easy on paper; lethal to one PC a round |
 | Smokehouse (S05) | Brindlewick, 2 Brothers, 2 earth elementals | 9,500 | 14,250 (×1.5) | Medium; attrition |
-| The Hunt (S06) | Gluttonwretch for 3 rounds, 3 Gorgers, 3 Flingers | 15,700 | 31,400 (×2) | Hard in practice (it leaves) |
-| The Feast (S07) | Gluttonwretch, Brindlewick, 2 Gorgers, 2 Flingers | 16,600 | 24,900 (×1.5) | Hard, plus lair actions and Second Helpings |
-| Feast, dial up | Default + 1 Gorger, 1 Flinger | 18,000 | 36,000 (×2) | Deadly |
-| Feast, dial down | Gluttonwretch, 1 Gorger, 1 Flinger | 12,900 | 19,350 (×1.5) | Medium-Hard |
+| The Hunt (S06) | Gluttonwretch for 3 rounds, 1 Gorger, 1 Flinger | 26,400 | 39,600 (×1.5) | Deadly on paper; it leaves after round 3 |
+| The Feast (S07), best case | Gluttonwretch, Hob Tanner (Gorger) | 25,700 | 25,700 (×1) | Hard, plus lair actions and Second Helpings |
+| The Feast, one thread left loose | + Brindlewick *or* + the barrels' Flinger | 28,000 / 26,400 | 42,000 / 39,600 (×1.5) | Deadly |
+| The Feast, worst case | Gluttonwretch, Hob, the barrels' Flinger, Brindlewick | 28,700 | 43,050 (×1.5) | Deadly |
 
-**Adventuring day.** Running all four encounters comes to about 77,000 adjusted XP (most tables run three, about 50,000–60,000) against a 2014 adventuring-day budget of 105,000 for seven 12th-level characters (15,000 each), with a short rest likely between Act 2 and the feast. It is a hard day, not a killing one.
+**Act 2 sets the feast's difficulty.** Taking Brindlewick at the Smokehouse and exposing the traders before noon each remove one foe from the feast. A party that does both fights a Hard climax; a party that does neither fights a Deadly one.
 
-**Live dials during play:** add or remove Hollow Guests in pairs (one Gorger, one Flinger). Hold back Second Helpings if the party is already bloodied. Give Canon Terjon's *spirit guardians* if they are struggling.
+**Adventuring day.** Running all four encounters comes to about 86,000–103,000 adjusted XP, against a 2014 adventuring-day budget of 105,000 for seven 12th-level characters (15,000 each), with a short rest likely before the feast. Most tables run three of the four. It is a day that pushes the party to its limits.
+
+**Live dials during play:** add or remove Hollow Guests one at a time (700 XP each). Hold back Second Helpings if the party is already bloodied. Give Canon Terjon's *spirit guardians* if they are struggling.
 
 ---
 
 ## The Gluttonwretch
-*Huge undead, chaotic evil* — new. CR 14 (11,500 XP).
+*Huge undead, chaotic evil* — contributed by **GrimmGrixis** (Writers Guild); the Fell Harvest retune. CR 20 (25,000 XP). **Source of truth: [[Gluttonwretch]]** in the bestiary; copy any statblock change from there.
 
-> Old Gobbler, the Old Faith's sacred turkey, starved by Hommlet and raised by a priest of Zuggtmoy. It leaks gravy-dark ichor that hardens into razor-sharp cranberry shards, and it speaks one sentence in Sylvan: *"You did not feed me."*
+> In Hommlet, the Gluttonwretch is Old Gobbler, the Old Faith's sacred turkey, starved by the village and raised by a priest of Zuggtmoy. It leaks gravy-dark ichor that hardens into razor-sharp cranberry shards, and it speaks one sentence in Sylvan: *"You did not feed me."*
 
-**Armor Class** 17 (natural armor) · **Hit Points** 230 (20d12 + 100) · **Speed** 40 ft., fly 60 ft. (hover)
+**Armor Class** 17 (natural armor) · **Hit Points** 276 (24d12 + 120) · **Speed** 40 ft., fly 60 ft. (hover)
 
 | STR | DEX | CON | INT | WIS | CHA |
 |---|---|---|---|---|---|
 | 24 (+7) | 12 (+1) | 20 (+5) | 10 (+0) | 16 (+3) | 19 (+4) |
 
-**Saving Throws** Con +10, Wis +8, Cha +9 · **Skills** Intimidation +9, Perception +8
+**Saving Throws** Con +11, Wis +9, Cha +10 · **Skills** Intimidation +10, Perception +9
 **Damage Vulnerabilities** radiant
 **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 **Damage Immunities** necrotic, poison
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-**Senses** darkvision 120 ft., passive Perception 18 · **Languages** Sylvan (spoken in a wet, gobbling rasp)
-**Challenge** 14 (11,500 XP)
+**Senses** darkvision 120 ft., passive Perception 19 · **Languages** Sylvan (spoken in a wet, gobbling rasp)
+**Challenge** 20 (25,000 XP)
 
-***Aura of Endless Hunger.*** Any creature that starts its turn within 30 feet of the Gluttonwretch must succeed on a DC 17 Wisdom saving throw or be compelled to devour the nearest edible substance (including allies' rations, wooden weapons, or its own flesh if nothing else is available). On a failure, the creature uses its action to eat and takes 10 (3d6) necrotic damage, ignoring resistance and immunity. A creature that succeeds is immune to this aura for 24 hours.
+***Aura of Endless Hunger.*** Any creature that starts its turn within 30 feet of the Gluttonwretch must succeed on a DC 18 Wisdom saving throw or be compelled to devour the nearest edible substance (allies' rations, wooden weapons, or even its own flesh if nothing else is available). On a failed save, the creature uses its action to eat and takes 10 (3d6) necrotic damage, ignoring resistance and immunity. A creature that succeeds on the saving throw is immune to this aura for 24 hours.
 
-***Aura of the Corrupted Spirit.*** The Gluttonwretch's body constantly leaks gravy-like ichor that hardens into razor-sharp cranberry shards. Any creature that hits it with a melee attack while within 5 feet of it takes 7 (2d6) piercing damage.
+***Aura of the Corrupted Spirit.*** Any creature within 5 feet of the Gluttonwretch that hits it with a melee attack takes 7 (2d6) piercing damage.
 
 ***Incorporeal Movement.*** The Gluttonwretch can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
 ***Legendary Resistance (3/Day).*** If the Gluttonwretch fails a saving throw, it can choose to succeed instead.
 
-***Bound by the Wishbone.*** While the Wishbone of Old Gobbler is unbroken, the Gluttonwretch can't be banished, turned, or held by any effect for longer than the end of its next turn, and it always comes to the Brewfest feast.
-
-***First Fruits.*** Each Offering delivered to it (see [[SP-GS01 — The First Fruits]]) reduces its legendary actions by 1 per round. At 3 Offerings it loses all damage resistances. At 6 it stops fighting.
+**In SP-GS01 only** (adventure riders, not part of the bestiary entry):
+- ***Bound by the Wishbone.*** While the Wishbone of Old Gobbler is unbroken, the Gluttonwretch can't be banished, turned, or held by any effect for longer than the end of its next turn, and it always comes to the Brewfest feast.
+- ***First Fruits.*** Each Offering delivered to it (see [[SP-GS01 — The First Fruits]]) reduces its legendary actions by 1 per round. At 3 Offerings it loses all damage resistances. At 6 it stops fighting.
 
 ### Actions
-***Gluttony's Peck.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 23 (3d10 + 7) slashing damage plus 14 (4d6) necrotic damage. If the target is a creature, it must succeed on a DC 17 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. The target dies if this reduces its hit point maximum to 0. The reduction lasts until removed by *greater restoration* or similar magic.
+***Gluttony's Peck.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 23 (3d10 + 7) slashing damage plus 14 (4d6) necrotic damage. If the target is a creature, it must succeed on a DC 18 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. The target dies if this effect reduces its hit point maximum to 0. The reduction lasts until it is removed by the *greater restoration* spell or similar magic.
 
-***Razorberry Barrage.*** The Gluttonwretch flaps its wings and throws two fist-sized shards of crystallized cranberry in rapid succession at up to two creatures it can see within 90 feet of it. It makes a separate attack roll for each: *Ranged Weapon Attack:* +12 to hit, range 90 ft., one target. *Hit:* 35 (10d6) piercing damage. A 5-foot-radius patch of ground around the target becomes difficult terrain until cleared (10 minutes of work per 5-foot square).
+***Razorberry Barrage.*** The Gluttonwretch beats its wings and hurls two fist-sized shards of crystallized cranberry, making a separate ranged attack against each of two creatures it can see within 90 feet of it. *Ranged Weapon Attack:* +13 to hit, range 90 ft., one target. *Hit:* 35 (10d6) piercing damage. A 5-foot-radius patch of ground around the target becomes difficult terrain until it is cleared (10 minutes of work per 5-foot square).
 
-***Gobble of Gluttony (Recharge 5–6).*** The Gluttonwretch emits a deafening gobble in a 60-foot radius. Each creature in the area must succeed on a DC 17 Constitution saving throw or be stunned until the end of its next turn and pulled 30 feet toward the Gluttonwretch as ghostly spirits drag it in. On a successful save, the creature is deafened until the end of its next turn and is not moved.
+***Gobble of Gluttony (Recharge 5–6).*** The Gluttonwretch lets out a deafening gobble. Each creature within 60 feet of it must make a DC 18 Constitution saving throw. On a failed save, ghostly spirits drag the creature up to 30 feet toward the Gluttonwretch, and it is stunned until the end of its next turn. On a successful save, the creature is deafened until the end of its next turn and isn't moved.
 
 ### Legendary Actions
-The Gluttonwretch can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn.
-- **Attack (Costs 1 Action).** The Gluttonwretch makes one Gluttony's Peck attack.
-- **Wing Buffet (Costs 1 Action).** The Gluttonwretch beats its wings. Each creature within 20 feet of it must succeed on a DC 18 Strength saving throw or be pushed 15 feet and knocked prone.
+The Gluttonwretch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Gluttonwretch regains spent legendary actions at the start of its turn.
+- **Attack (Costs 2 Actions).** The Gluttonwretch makes one Gluttony's Peck attack.
+- **Wing Buffet (Costs 1 Action).** Each creature within 20 feet of the Gluttonwretch must succeed on a DC 21 Strength saving throw or be pushed 15 feet away from it and knocked prone.
 - **Feast on Fear (Costs 3 Actions).** The Gluttonwretch targets one frightened or stunned creature it can see within 60 feet of it. The target takes 21 (6d6) psychic damage, and the Gluttonwretch regains hit points equal to half the damage dealt.
 
 ### Lair Actions
@@ -81,45 +83,47 @@ At the feast only. See [[Scene 07 — The Brewfest Feast]]: Gravy Flood, The Tab
 ---
 
 ## The Gluttonwretch, Second Helpings
-*Huge undead, chaotic evil* — new; phase 2 of the same creature. Build as a **second Fantasy Grounds NPC record** and drop it into the combat tracker at the first record's initiative. **No extra XP** (same creature).
+*Huge undead, chaotic evil* — new; phase 2 of the same creature, built from the CR 20 block. Build it as a **second Fantasy Grounds NPC record** and drop it into the combat tracker at the first record's initiative. **No extra XP** (same creature). Also printed as an extra form in [[Gluttonwretch]].
 
 > At 0 hit points, unless 3 or more Offerings were made or the Wishbone was snapped, the Wretch splits its own skin and rises, bloated and slower and hungrier.
 
-**Armor Class** 15 (natural armor) · **Hit Points** 115 (10d12 + 50) · **Speed** 20 ft., fly 30 ft. (hover)
+**Armor Class** 15 (natural armor) · **Hit Points** 138 (12d12 + 60) · **Speed** 20 ft., fly 30 ft. (hover)
 
 | STR | DEX | CON | INT | WIS | CHA |
 |---|---|---|---|---|---|
 | 24 (+7) | 8 (−1) | 20 (+5) | 10 (+0) | 16 (+3) | 19 (+4) |
 
-**Saving Throws** Con +10, Wis +8, Cha +9 · **Skills** Intimidation +9, Perception +8
+**Saving Throws** Con +11, Wis +9, Cha +10 · **Skills** Intimidation +10, Perception +9
 **Damage Vulnerabilities** radiant
 **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
 **Damage Immunities** necrotic, poison
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-**Senses** darkvision 120 ft., passive Perception 18 · **Languages** Sylvan
-**Challenge** 14 (counts as the same creature; no extra XP)
+**Senses** darkvision 120 ft., passive Perception 19 · **Languages** Sylvan
+**Challenge** 20 (counts as the same creature; no extra XP)
 
 ***Overstuffed.*** It is too full to pass through anything. It loses Incorporeal Movement.
 
-***Aura of Endless Hunger.*** As phase 1, but the save DC is 18, and immunity earned in phase 1 no longer protects anyone.
+***Aura of Endless Hunger.*** As phase 1, but the save DC is 19, and immunity earned in phase 1 no longer protects anyone. A failed save still deals 10 (3d6) necrotic damage.
 
-***Aura of the Corrupted Spirit.*** As phase 1: 7 (2d6) piercing damage to any creature that hits it with a melee attack within 5 feet.
+***Aura of the Corrupted Spirit.*** As phase 1: 7 (2d6) piercing damage to any creature within 5 feet that hits it with a melee attack.
 
 ***Legendary Resistance.*** It keeps whatever uses it had left from phase 1.
 
-***Burst Seams.*** When reduced to 0 hit points, it bursts and sprays stuffing like confetti. Each creature within 20 feet must make a DC 17 Dexterity saving throw, taking 21 (6d6) necrotic damage on a failure, or half as much on a success. The area becomes difficult terrain.
+***Burst Seams.*** When reduced to 0 hit points, it bursts and sprays stuffing like confetti. Each creature within 20 feet must make a DC 19 Dexterity saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one. The area becomes difficult terrain.
 
 ### Actions
 ***Multiattack.*** It makes one Gluttony's Peck attack and one Razorberry Shard attack.
 
-***Gluttony's Peck.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 23 (3d10 + 7) slashing damage plus 14 (4d6) necrotic damage. DC 17 Constitution saving throw or hit point maximum reduced, as phase 1.
+***Gluttony's Peck.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 23 (3d10 + 7) slashing damage plus 14 (4d6) necrotic damage. DC 18 Constitution saving throw or hit point maximum reduced, as phase 1.
 
-***Razorberry Shard.*** *Ranged Weapon Attack:* +12 to hit, range 90 ft., one target. *Hit:* 35 (10d6) piercing damage, and a 5-foot radius around the target becomes difficult terrain.
+***Razorberry Shard.*** *Ranged Weapon Attack:* +13 to hit, range 90 ft., one target. *Hit:* 35 (10d6) piercing damage, and a 5-foot radius around the target becomes difficult terrain.
 
-***Gobble of Gluttony (Recharge 5–6).*** As phase 1, but the save DC is 18.
+***Gobble of Gluttony (Recharge 5–6).*** As phase 1, but the save DC is 19.
 
 ### Legendary Actions
-3, reset at the start of phase 2: Attack (1 action), Wing Buffet (1 action, DC 18 Strength), Feast on Fear (3 actions, 21 (6d6) psychic), all as phase 1. Offerings made in phase 1 still reduce them.
+3, reset at the start of phase 2: Attack (costs 2 actions), Wing Buffet (costs 1 action, DC 21 Strength), Feast on Fear (costs 3 actions, 21 (6d6) psychic). Offerings made in phase 1 still reduce them.
+
+**CR check.** Phase 2 adds 138 hit points and one extra Shard a turn to a CR 20 fight. It is the reason the feast rates Hard even in the best case; skip it if the party is already bloodied or the clock is short.
 
 ---
 
@@ -202,14 +206,4 @@ Gorged villagers and travelers. A mix of melee and ranged; both are CR 3 (700 XP
 ---
 
 ## Deviations Log
-The Gluttonwretch block is Greybeard's original. Values that differ from the 2014 formulas are kept as printed and logged here (`canon-status: adapted`).
-
-| Field | Printed | By formula | Ruling |
-|---|---|---|---|
-| Gluttony's Peck Con save DC | 17 | 18 (8 + prof 5 + Con 5) | Keep 17, so failed saves don't stack too fast with the hit point maximum drain |
-| Wing Buffet Str save DC | 18 | 20 (8 + 5 + Str 7) | Keep 18 |
-| Razorberry Barrage to-hit | +12 | +6 with Dex | Keep +12; treat it as a thrown, Str-based attack. Note: 70 (20d6) a turn if both shards hit is its strongest action |
-| Feast on Fear | Needs frightened or stunned | Nothing in its own kit frightens | The Gorgers' Dreadful Glare supplies the fear; Gobble supplies the stun |
-| Razorberry text | "it's wings" | "its wings" | Typo fixed |
-
-The recalculated save DCs (18 and 20) are a further dial-up option.
+SP-GS01 uses the Fell Harvest retune of the Gluttonwretch (CR 20), not the CR 14 block as submitted. The retune's changes and its CR working are in [[Gluttonwretch]], under Design Notes. Second Helpings is new to this adventure and follows the retune's numbers (proficiency +6).

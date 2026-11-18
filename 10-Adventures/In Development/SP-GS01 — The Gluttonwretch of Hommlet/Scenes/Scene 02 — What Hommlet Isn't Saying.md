@@ -89,7 +89,7 @@ She cries, then insists the party take honey cakes. She will give her first hone
 
 **Tactics:** They do not fight twelfth-level heroes. Caught, Gremag bargains: the Smokehouse's location and "the bird's bone" in exchange for a head start.
 **Treasure:** the crates hold black, fizzing rot packed in cranberry jelly. A ledger under the counter is written in Temple cipher (DC 17 Intelligence (Investigation) to find it unnoticed; see [[SP-GS01 — Handout — The Cipher Ledger]]).
-**Development:** If the clerk reaches the Smokehouse, it goes to **Wary** (see [[Scene 05 — The Smokehouse]]). If the traders are exposed before noon on Day 2, the "preserves" never reach the green, and the Hollow Guests at the feast are reduced by one (one Gorger fewer).
+**Development:** If the clerk reaches the Smokehouse, it goes to **Wary** (see [[Scene 05 — The Smokehouse]]). If the traders are exposed before noon on Day 2, the "preserves" never reach the green, and no Flinger climbs out of the barrels at the feast.
 
 ---
 

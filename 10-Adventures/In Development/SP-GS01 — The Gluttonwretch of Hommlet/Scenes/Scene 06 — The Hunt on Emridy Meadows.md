@@ -30,8 +30,8 @@ The Carving path. The party catches the Wretch at its roost and hurts it before 
 **1. The roost.** The **Gluttonwretch** is resting in the oak, digesting. It wakes if anyone comes within 300 feet without hiding (a DC 18 group Dexterity (Stealth) check against its passive Perception). A party that reaches the oak unseen gets a surprise round.
 
 **2. The Hollow Guests.** Under the mounds lie villagers and travelers the Wretch has gorged since Harvester. When it wakes, they claw out of the turf.
-- **Gorgers** (3) rise beside the party (melee).
-- **Flingers** (3) rise on the mounds 60 feet away and throw bones and razorberry shards (ranged).
+- **Gorger** (1) rises beside the party (melee).
+- **Flinger** (1) rises on a mound 60 feet away and throw bones and razorberry shards (ranged).
 Use the barks table in [[SP-GS01 — Comedy Kit]] freely.
 
 **3. Three rounds.** The Wretch fights for **three rounds**, then its hunger pulls it home: at the end of its third turn, it takes off and flies toward Hommlet at 60 feet a round. It will not be held. Anything that would stop it (a *forcecage*, a grapple) holds it only until the end of its next turn, then the binding drags it free. *(While the Wishbone is unbroken, it cannot be kept from the feast.)*
@@ -43,12 +43,12 @@ Use the barks table in [[SP-GS01 — Comedy Kit]] freely.
 ## Encounter
 | APL | Creatures | Adjusted XP (7 PCs) | Difficulty |
 |---|---|---|---|
-| 11 | Gluttonwretch (3 rounds), 2 Gorgers, 2 Flingers | 21,450 (×1.5) | Hard in practice |
-| 12 | Gluttonwretch (3 rounds), 3 Gorgers, 3 Flingers | 31,400 (×2) | Hard in practice |
-| 13 | Gluttonwretch (3 rounds), 4 Gorgers, 4 Flingers | 34,200 (×2) | Deadly on paper; it leaves |
+| 11 | Gluttonwretch (3 rounds), 1 Gorger | 25,700 (×1) | Deadly on paper; it leaves after round 3 |
+| 12 | Gluttonwretch (3 rounds), 1 Gorger, 1 Flinger | 39,600 (×1.5) | Deadly on paper; it leaves after round 3 |
+| 13 | Gluttonwretch (3 rounds), 2 Gorgers, 2 Flingers | 41,700 (×1.5) | Deadly on paper; it leaves after round 3 |
 
 **Terrain:** grave mounds (Flingers on top have half cover), the stripped oak, razorberry crusts (difficult terrain in 5-foot patches; clearing one takes 10 minutes).
-**Tactics:** the Wretch opens with Gobble of Gluttony to pull the party into its aura, then Pecks whoever is frightened or stunned. The Gorgers mob anyone the Gobble stunned. The Flingers stay on the mounds.
+**Tactics:** the Wretch opens with Gobble of Gluttony to pull the party into its aura, then Pecks whoever is frightened or stunned. The Gorger mobs anyone the Gobble stunned. The Flinger stays on its mound.
 **DM direction:** this is a raid, not a kill. If the party is about to finish it here, let them (a dead Wretch at noon is a fine ending), but the binding drags it free at the end of round 3 unless it is at 0 hit points.
 
 > [!warning] If the party kills it here

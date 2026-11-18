@@ -74,8 +74,8 @@ Thresholds for 7 PCs at level 12 (2014 DMG): Easy 7,000 · Medium 14,000 · Hard
 |---|---|---|---|---|---|
 | 1 | The Offering-Heap ([[Scene 04 — The Grove and the Offering-Heap\|S04]]) | social or combat | Offering-Heap (CR 15) | 6,500 (×0.5) | Easy on paper; hits for 87 (12d10 + 21) a round. Meant to be calmed |
 | 2 | The Brothers of the Rotting Table ([[Scene 05 — The Smokehouse\|S05]]) | combat | Brindlewick (Mage), 2 Gladiators, 2 Earth Elementals | 14,250 (×1.5) | Medium; attrition |
-| 3 | The Hunt ([[Scene 06 — The Hunt on Emridy Meadows\|S06]]) | combat, chase | 3 Gorgers, 3 Flingers, the Gluttonwretch for 3 rounds | 31,400 (×2) | Hard in practice (the Wretch leaves) |
-| 4 | The Brewfest Feast ([[Scene 07 — The Brewfest Feast\|S07]]) | combat + skill | Gluttonwretch, Brindlewick, 2 Gorgers, 2 Flingers, lair actions, Second Helpings | 24,900 (×1.5) | Hard; Deadly with dials up |
+| 3 | The Hunt ([[Scene 06 — The Hunt on Emridy Meadows\|S06]]) | combat, chase | Gluttonwretch for 3 rounds (CR 20), 1 Gorger, 1 Flinger | 39,600 (×1.5) | Deadly on paper; it leaves after round 3 |
+| 4 | The Brewfest Feast ([[Scene 07 — The Brewfest Feast\|S07]]) | combat + skill | Gluttonwretch (CR 20), Hob Tanner; + Brindlewick and a Flinger if Act 2 left them loose; lair actions; Second Helpings | 25,700–43,050 | Hard if Act 2 tied off both threads; Deadly otherwise |
 
 Full math and dials: [[SP-GS01 — Bestiary]].
 

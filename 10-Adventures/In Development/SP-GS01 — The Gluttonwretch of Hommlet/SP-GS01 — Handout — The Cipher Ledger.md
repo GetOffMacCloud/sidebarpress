@@ -30,4 +30,4 @@ title: "The Cipher Ledger"
 
 ## DM Notes
 - **Clues:** the Smokehouse (where the gravy comes from), the forty barrels (the "preserves" on the green), the bone (the Wishbone), and the timing (grace at the Naming of Thanks).
-- If the traders are exposed before noon on Day 2, the barrels never reach the green and the feast has one Gorger fewer.
+- If the traders are exposed before noon on Day 2, the barrels never reach the green and no Flinger rises from them at the feast.

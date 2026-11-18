@@ -46,7 +46,7 @@ The **Gluttonwretch** speaks in Sylvan, a wet gobbling rasp: *"Gwolloch… ne'fe
 Roll initiative. The Wretch starts with any damage carried over from [[Scene 06 — The Hunt on Emridy Meadows]].
 
 **Who else is here.**
-- **Hollow Guests:** **Gorgers** (2) and **Flingers** (2) rise from the benches where they were sitting a moment ago. One is **Hob Tanner**, missing since Scene 02. *(Minus one Gorger if the traders' "preserves" never reached the green.)*
+- **Hollow Guests:** **Hob Tanner** (1), missing since Scene 02, rises from the bench where he was sitting a moment ago (a Gorger). If the traders' "preserves" reached the green, a **Flinger** (1) climbs out of the barrels as well.
 - **[[Deacon Mungo Brindlewick]]**, if he is still free, stands up from the crowd with the Wishbone and starts saying grace.
 - **The Offering-Heap**, if calmed in Scene 04, waits at the edge of the green.
 - **The village:** two hundred people, most of them frozen. Those holding baskets look at the party.
@@ -77,7 +77,7 @@ An **Offering** is delivered by bringing first fruits from a won household to th
 
 ### 2. The Wishbone
 Two creatures, each holding one end and using an action, make a **contested Strength check**.
-- **Snap:** the Wretch loses Legendary Resistance, Incorporeal Movement and its necrotic immunity, and its current hit points are halved. It will not rise in Second Helpings. Whoever wins the contest keeps the big half: **one automatic natural 20** on any d20 roll before dawn.
+- **Snap:** the Wretch loses Legendary Resistance, Incorporeal Movement and its necrotic immunity, and its current hit points are halved. It will not rise in Second Helpings. Whoever wins the contest keeps the big half and gains a single ***wish***, limited to duplicating a spell of 7th level or lower (see [[Gluttonwretch]], Spoils).
 - **The cost:** Old Gobbler's spirit is destroyed, not laid to rest. The First Fruits can no longer end the fight (there is no one left to feed). Obad-Hai's blessing leaves the grove, Hommlet's 577 harvest fails, and Jaroo never forgives it. Ending B.
 - **If Brindlewick holds the Wishbone,** he has to be pried off it first (a grapple, or dropping him). He will snap it himself only if he is about to be captured: "If she can't have the village, she'll have the bird."
 
@@ -91,18 +91,18 @@ On initiative count 20 (losing ties), the Wretch takes one lair action. It can't
 3. **Second Hunger.** Every stomach in range growls at once, in harmony. Each creature that has eaten at the feast makes a DC 16 Wisdom saving throw. On a failure it takes 7 (2d6) necrotic damage and loses its reaction until its next turn.
 
 ## The Clock
-- **After round 3,** if no Offering has yet been made, one more household gorges at the end of each round. Cross it off the households; its members join the fight as one more Gorger.
+- **After round 3,** if no Offering has yet been made, one more household gorges at the end of each round. Cross it off the households; its members join the fight as one more Gorger (700 XP each).
 - **Canon Terjon** casts *spirit guardians* once (his safety valve). Use it the first time two or more PCs drop.
 - **Jaroo's last gift** (safety valve): if the party is losing badly, Jaroo can complete the rite with only **four** Offerings by giving his own life. Ending B: the bird rests, the druid dies.
 
 ## Encounter
-| APL | Creatures | Adjusted XP (7 PCs) | Difficulty |
+| Act 2 outcome | Creatures | Adjusted XP (7 PCs) | Difficulty at APL 12 |
 |---|---|---|---|
-| 11 | Gluttonwretch, Brindlewick, 1 Gorger, 1 Flinger | 22,800 (×1.5) | Hard, plus lair and phase 2 |
-| 12 | Gluttonwretch, Brindlewick, 2 Gorgers, 2 Flingers | 24,900 (×1.5) | Hard, plus lair and phase 2 |
-| 13 | Gluttonwretch, Brindlewick, 3 Gorgers, 3 Flingers | 36,000 (×2) | Deadly |
+| Brindlewick taken **and** traders exposed | Gluttonwretch, Hob (Gorger) | 25,700 (×1) | Hard (Deadly at APL 11) |
+| One of the two left loose | + Brindlewick, or + the barrels' Flinger | 42,000 / 39,600 (×1.5) | Deadly |
+| Neither | Gluttonwretch, Hob, the Flinger, Brindlewick | 43,050 (×1.5) | Deadly |
 
-Drop Brindlewick's 2,300 XP if he was taken at the Smokehouse.
+Lair actions and Second Helpings come on top of every row. At APL 13, add one Flinger to each row.
 **Terrain:** long tables (half cover; standing on one counts for The Table Turns), benches (difficult terrain), the open door, two hundred panicking villagers (difficult terrain anywhere on the green until round 3, when most have fled).
 **Tactics:** the Wretch opens with Gobble of Gluttony to drag PCs into its aura and stun them, then Pecks the stunned and uses Feast on Fear on anyone frightened by a Gorger's Dreadful Glare. It goes after anyone carrying a basket. Brindlewick stays in the crowd casting.
 **DM direction:** keep pointing at the baskets. The players should always know the First Fruits are on the table.

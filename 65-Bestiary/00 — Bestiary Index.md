@@ -55,6 +55,7 @@ longform:
     - Maulbone
     - Mnemophage
     - Nuckelavee
+    - Offering-Heap
     - Pale Chimera
     - Root Guardian
     - Rot-Wargen
