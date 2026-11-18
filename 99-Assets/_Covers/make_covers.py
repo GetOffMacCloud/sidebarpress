@@ -42,6 +42,9 @@ COVERS = [  # art path (vault-relative), series line, title, subtitle, code, ban
      "The Gluttonwretch of Hommlet", "A Sidebar Press Greyhawk Adventure", "GS1", "An adventure for 12th-level characters"),
 ]
 
+# push art down (px) when the subject's head would sit under the title block
+ART_SHIFT = {}   # e.g. {"GS1": 200}
+
 def font(name, size): return ImageFont.truetype(str(FONTS / name), size)
 
 def cached(path, build):
@@ -87,6 +90,14 @@ def make(artpath, series, title, subtitle, code, band):
     s = max(W / art.width, H / art.height)
     art = art.resize((round(art.width * s), round(art.height * s)), Image.LANCZOS)
     art = art.crop(((art.width - W) // 2, (art.height - H) // 2, (art.width - W) // 2 + W, (art.height - H) // 2 + H))
+    sh = ART_SHIFT.get(code, 0)
+    if sh:
+        moved = Image.new("RGB", (W, H), "white"); moved.paste(art, (0, sh))
+        fade = Image.new("L", (W, H), 0); fd = ImageDraw.Draw(fade)
+        for y in range(sh, sh + 320):                            # feather the art's top edge into paper
+            fd.line([(0, y), (W, y)], fill=int(255 * (1 - (y - sh) / 320) ** 1.5))
+        fd.rectangle([0, 0, W, sh], fill=255)
+        art = Image.composite(Image.new("RGB", (W, H), "white"), moved, fade)
     img = art.convert("RGBA")
     # soft white wash behind the title block so it reads at thumbnail size
     wash = Image.new("RGBA", (W, H), (0, 0, 0, 0)); wd = ImageDraw.Draw(wash)
