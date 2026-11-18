@@ -32,7 +32,7 @@ Copy onto an index card, or show it on screen for stream viewers.
 ## Rules
 1. **What counts.** Only the first portion of a household's own 576 harvest, freely given by that household. Bought food, the heroes' food and the rotted 575 hoard never count.
 2. **Winning a household** (Scene 04, or mid-feast). One success: DC 15 Persuasion, Insight or Performance in Act 2; DC 18 Persuasion and an action at the feast. A good story wins a household outright. Two failures in a row with the same household loses it.
-3. **Delivering an Offering** (Scene 07). An action within 15 feet of the Gluttonwretch, inside its aura. A villager can carry their own basket if a PC escorts them.
+3. **Delivering an Offering** (Scene 07). An action within 15 feet of the Gluttonwretch, inside its aura. A villager can carry their own basket if a PC escorts them. A creature carrying an Offering is ignored by the Aura of Endless Hunger.
 4. **Each Offering delivered:** the Wretch has 1 fewer legendary action per round.
 5. **At 3 Offerings:** it loses all damage resistances and will not rise in Second Helpings.
 6. **At 6 Offerings:** it stops fighting and eats. Jaroo's rite (1 round, uninterrupted, within 30 feet) lays it to rest. Ending A.

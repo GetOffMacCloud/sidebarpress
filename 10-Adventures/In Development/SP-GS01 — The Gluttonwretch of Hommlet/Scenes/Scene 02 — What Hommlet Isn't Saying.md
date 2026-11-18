@@ -4,7 +4,7 @@ adventure: "SP-GS01"
 section: act-1
 publish_order: 120
 publish: true
-status: drafted # outline | drafted | edited | final
+status: edited # outline | drafted | edited | final
 scene: 2
 session: 1
 ---
@@ -32,7 +32,7 @@ The party wakes on Day 2 (or works through the night of Day 1). Hommlet is setti
 | H5 | Church of St. Cuthbert | [[Canon Terjon]] | The four gorged; one gone missing | one line |
 | H6 | Welcome Wench common room | [[Ostler Gundigoot]], drinkers | Rumors (see [[SP-GS01 — Front Matter]]) | one line |
 
-**H5. CHURCH OF ST. CUTHBERT.** Terjon has the three gorged villagers abed in the vestry, tied gently to their cots. The fourth, **Hob Tanner**, slipped his cords in the night and is gone. He is Hollow now and will rise at the feast.
+**H5. CHURCH OF ST. CUTHBERT.** Terjon has two gorged villagers abed in the vestry, tied gently to their cots. The third, **Hob Tanner**, slipped his cords in the night and is gone. He is Hollow now and will rise at the feast.
 
 **H6. WELCOME WENCH COMMON ROOM.** Roll or choose from the rumor table. Gundigoot denies everything cheerfully.
 
@@ -79,7 +79,7 @@ She cries, then insists the party take honey cakes. She will give her first hone
 **H3. THE TRADERS' ESTABLISHMENT**
 > *The shop's shelves are nearly bare: rope, lamp oil, a single pair of boots. Crates are stacked to the ceiling along the back wall, each stenciled PRESERVES — CRANBERRY. Two men behind the counter stop talking as the door opens. One smiles too widely; the other doesn't smile at all.*
 
-**Creatures:** **[[Rannos Davl]]** (1), who does the talking, and **[[Gremag]]** (1), who watches the door. Use the **Spy** statblock for both. A **cultist clerk** (1), blank-faced, sweeps the same patch of floor for the entire scene.
+**Creatures:** **[[Rannos Davl]]** (1), who does the talking, and **[[Gremag]]** (1), who watches the door. Use their statblocks from the T1 conversion (see each NPC note). A **cultist clerk** (1), blank-faced, sweeps the same patch of floor for the entire scene.
 
 **Escalation script.**
 1. **Deny.** "Preserves? Yes. Cranberry. For a… wedding."

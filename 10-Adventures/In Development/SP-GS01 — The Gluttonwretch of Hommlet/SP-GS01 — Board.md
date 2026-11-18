@@ -31,19 +31,19 @@ publish: false
 - [x] Every item has a note in `50-Items`
 - [x] Encounter table filled with APL bands and DMG difficulty math
 - [x] Adventuring-day XP check written
-- [ ] Bestiary note complete, every statblock 2014 5e, MM pages cited
+- [x] Bestiary note complete, every statblock 2014 5e, MM pages cited
 - [x] Handouts written (`type: handout`)
 - [x] Continuity section filled: threads opened / advanced / closed; hooks logged in [[Plot-Threads]]
 
 
 ## 3 · Edit
 
-- [ ] Developmental edit: structure, pacing, railroad check
-- [ ] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max)
+- [x] Developmental edit: structure, pacing, railroad check
+- [x] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max)
 - [ ] Every read-aloud read aloud once; stumbles cut
-- [ ] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve
+- [x] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve
 - [ ] Canon Check table complete and page numbers verified against print
-- [ ] Every scene `status: edited`
+- [x] Every scene `status: edited`
 - [ ] Playtest #1 run; session log in `80-Sessions`; fixes applied
 - [ ] Every scene `status: final`
 
@@ -77,6 +77,6 @@ publish: false
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
+{"kanban-plugin":"board","list-collapse":[true,true,false,false,false,false],"show-checkboxes":true,"new-note-folder":"","hide-tags-in-title":true}
 ```
 %%

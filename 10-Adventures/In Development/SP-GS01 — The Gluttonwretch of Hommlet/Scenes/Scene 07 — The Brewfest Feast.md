@@ -4,7 +4,7 @@ adventure: "SP-GS01"
 section: act-3
 publish_order: 170
 publish: true
-status: drafted # outline | drafted | edited | final
+status: edited # outline | drafted | edited | final
 scene: 7
 session: 1
 ---
@@ -39,7 +39,7 @@ Go around the table and let each player answer in character. **A sincere answer 
 That is the cue. Every candle flame leans toward the open door.
 
 ## Part B — The Guest Arrives
-> *Something fills the Welcome Wench's doorway from the inside, though nothing went in. It ducks under the lintel and comes out onto the green: feathers like wet slate, wattles dripping gravy-dark ichor, eyes like coals in a banked oven. It is taller than the inn. It looks down the length of the feast, and opens its beak.*
+> *Something fills the Welcome Wench's doorway from the inside, though nothing went in. It ducks under the lintel and comes out onto the green: slate-grey feathers, wattles dripping gravy-dark ichor, eyes like coals in a banked oven. It is taller than the inn. It looks down the length of the feast, and opens its beak.*
 
 The **Gluttonwretch** speaks in Sylvan, a wet gobbling rasp: *"Gwolloch… ne'feddh… gwolloch."* Anyone who understands Sylvan hears: ***"You did not feed me."***
 
@@ -54,7 +54,7 @@ Roll initiative. The Wretch starts with any damage carried over from [[Scene 06 
 ## Part C — The Three Ways
 
 ### 1. The First Fruits
-An **Offering** is delivered by bringing first fruits from a won household to the Wretch's beak: **an action within 15 feet**, inside the aura. A villager can carry their own basket if a PC escorts them (the PC moves with them and takes the Dodge or Help action); otherwise a PC carries it.
+An **Offering** is delivered by bringing first fruits from a won household to the Wretch's beak: **an action within 15 feet**, inside the aura. **A creature carrying an Offering is ignored by the Aura of Endless Hunger;** the Wretch wants what it carries, not the one carrying it. A villager can carry their own basket if a PC escorts them (the PC moves with them and takes the Dodge or Help action); otherwise a PC carries it.
 - **Each Offering** costs the Wretch **1 legendary action per round**.
 - **At 3 Offerings** it **loses all its damage resistances**, and it will not rise in Second Helpings.
 - **At 6 Offerings** it stops fighting, eats, and lies down. **[[Jaroo Ashstaff]]**'s rite (1 round, uninterrupted, within 30 feet) lays Old Gobbler to rest. Ending A.
@@ -89,6 +89,9 @@ On initiative count 20 (losing ties), the Wretch takes one lair action. It can't
 1. **Gravy Flood.** A brown tidal wave sweeps down the green with a single crouton riding the crest. A 20-foot radius within 120 feet becomes difficult terrain; each creature there makes a DC 16 Dexterity saving throw or is restrained until the end of its next turn.
 2. **The Table Turns.** Plates, carving knives and candlesticks whirl; the carving knife has clearly been waiting years for this. Each creature on or beside the feast table makes a DC 16 Dexterity saving throw, taking 14 (4d6) slashing damage on a failure, or half as much on a success.
 3. **Second Hunger.** Every stomach in range growls at once, in harmony. Each creature that has eaten at the feast makes a DC 16 Wisdom saving throw. On a failure it takes 7 (2d6) necrotic damage and loses its reaction until its next turn.
+
+## Pacing at a Seven-Player Table
+A round with seven players, the Wretch, its legendary actions and a lair action takes about 20–25 minutes at a stream table. The 70-minute budget is about three rounds. Keep the Naming of Thanks under 10 minutes, use a turn timer if your table likes one, and treat Second Helpings as optional: run it only if you are ahead of the clock.
 
 ## The Clock
 - **After round 3,** if no Offering has yet been made, one more household gorges at the end of each round. Cross it off the households; its members join the fight as one more Gorger (700 XP each).

@@ -4,7 +4,7 @@ adventure: "SP-GS01"
 section: act-2
 publish_order: 150
 publish: true
-status: drafted # outline | drafted | edited | final
+status: edited # outline | drafted | edited | final
 scene: 5
 session: 1
 ---

@@ -128,7 +128,7 @@ At the feast only. See [[Scene 07 — The Brewfest Feast]]: Gravy Flood, The Tab
 ---
 
 ## The Offering-Heap
-*Huge plant, unaligned* — new. CR 15 (13,000 XP).
+*Huge plant, unaligned* — new; defenses follow the **shambling mound** (MM 270). CR 15 (13,000 XP). **Source of truth: [[Offering-Heap]]** in the bestiary; copy any statblock change from there.
 
 > Forty years of rotted offerings behind Jaroo's grove — gourds for knuckles, a corn-husk mane, a pumpkin where a head should be — pulled upright by grief and the Temple's rot. It guards the empty roost because nobody told it to stop. It is not evil. It is a sad, enormous dog that has been hit.
 
@@ -154,7 +154,7 @@ At the feast only. See [[Scene 07 — The Brewfest Feast]]: Gravy Flood, The Tab
 
 ***Burning Layers.*** Whenever the Heap takes fire damage, it sheds a burning layer. Each creature within 10 feet of it must make a DC 19 Dexterity saving throw, taking 14 (4d6) fire damage on a failure, or half as much on a success.
 
-***Gifts.*** As a bonus action, the Heap presses a rotten pumpkin into the hands of a creature within 15 feet. This has no effect. It means well.
+***Gift (Bonus Action).*** The Heap presses a rotten pumpkin into the hands of a creature within 15 feet. This has no effect. It means well.
 
 ### Actions
 ***Multiattack.*** The Heap makes three Slam attacks.
@@ -200,8 +200,8 @@ Gorged villagers and travelers. A mix of melee and ranged; both are CR 3 (700 XP
 ## Earth Elementals
 *Large elemental* — **Earth Elemental** (MM 124), unchanged. CR 5 (1,800 XP). The Smokehouse's old foundation stones, bound by the Temple before 569. They step out of the cellar walls when the site goes to **Alert**.
 
-## Spies (Rannos Davl and Gremag)
-*Medium humanoid (human), neutral evil* — **Spy** (MM 349), unchanged. CR 1 (200 XP). They do not fight twelfth-level heroes. See [[Rannos Davl]] and [[Gremag]].
+## Rannos Davl and Gremag
+Use their statblocks from the T1 conversion (`T1 - Bestiary (5e)` and their NPC notes). They do not fight twelfth-level heroes, so their numbers rarely matter. See [[Rannos Davl]] and [[Gremag]].
 
 ---
 

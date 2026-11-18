@@ -4,7 +4,7 @@ adventure: "SP-GS01"
 section: act-1
 publish_order: 110
 publish: true
-status: drafted # outline | drafted | edited | final
+status: edited # outline | drafted | edited | final
 scene: 1
 session: 1
 ---
@@ -37,7 +37,7 @@ Plant it now so it lands later: in [[Scene 07 — The Brewfest Feast]], the Wret
 **3. The patron.** **[[Canon Terjon]]** finds the party within the hour. He is warm, tired and a little too relieved to see them.
 > "You'll bless the table tomorrow at the Naming of Thanks. Short and plain, mind. Saint Cuthbert prefers plain speech." *(Quieter.)* "And keep your weapons close at supper. I'd rather not say why in front of the children."
 
-A DC 14 Wisdom (Insight) check shows he is frightened. Pressed, he admits only that "the fever" has taken four people this week and that he does not think it is a fever.
+A DC 14 Wisdom (Insight) check shows he is frightened. Pressed, he admits only that "the fever" has taken three people this week and that he does not think it is a fever.
 
 **4. Jaroo's letter.** A crow lands on the shoulder of the PC with the Old Faith or Emridy Meadows hook (or the party's druid or ranger) and drops a strip of birch bark: [[SP-GS01 — Handout — Jaroo's Letter]]. The crow waits for an answer. It will lead anyone to [[Jaroo's Grove]] tonight or tomorrow.
 

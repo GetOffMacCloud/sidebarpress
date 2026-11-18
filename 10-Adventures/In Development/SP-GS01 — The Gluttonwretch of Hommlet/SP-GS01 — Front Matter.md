@@ -97,7 +97,7 @@ New NPCs have full notes in `30-NPCs`. The canon Hommlet NPCs keep their T1 note
 | [[The Elder of Hommlet]] | His reputation; his granddaughter Lissa safe | The 575 vote; the rotted offering in his cellar | Deny → blame the economy → redirect to Jaroo → confess (Scene 02) |
 | [[Ostler Gundigoot]] | The feast to go ahead; Brewfest pays his winter | The gorgings; the Elder's jam | Denies everything cheerfully; never cancels Brewfest; brings the bread at the end |
 | [[Goodwife Gundigoot]] | The Open Door kept | Why the door stays open | Explains while working; stands in the doorway during the fight |
-| [[Canon Terjon]] | Nobody dying at his table; rebuilding money | Four gorged, Hob Tanner missing; drovers' sightings on the Meadows | Fights at the feast; casts *spirit guardians* once |
+| [[Canon Terjon]] | Nobody dying at his table; rebuilding money | Four gorged this week (Pip the fourth), Hob Tanner missing; drovers' sightings on the Meadows | Fights at the feast; casts *spirit guardians* once |
 | [[Mytch the Miller]] | A good year, in coin | The traders bought every cranberry in the Viscounty | Won only by a reason that pays |
 | [[Rannos Davl]] and [[Gremag]] | Zuggtmoy's favor, then out of Hommlet | The supply line; the Smokehouse; the "preserves" | Deny → worse cover story → infiltrate → betray (Scene 02) |
 | [[Lissa (Hommlet)\|Lissa]], the Elder's granddaughter | Attention | That "turkeys don't have friends" | Says the quiet part out loud |
