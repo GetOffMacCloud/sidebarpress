@@ -12,6 +12,8 @@ Adventures are written for the DM, not the players. Clear, direct, skimmable. Bo
 ## Stat Blocks
 2014 5e only. Reference the Monster Manual by name where possible; custom stat blocks go inline in the adventure note and get an NPC/Item note if they recur.
 
+Every damage figure carries its dice: write `6 (1d6 + 3)`, never a bare `6`. This applies to statblocks, traps, hazards, lair actions and summaries alike.
+
 ## Greyhawk Canon
 - Cite edition, book, page for every canon claim
 - Never use 5.5e-only lore
