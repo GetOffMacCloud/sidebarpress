@@ -12,26 +12,26 @@ publish: false
 - [x] Pitch paragraph and Design Frame written (thesis, expectation broken, what it refuses to do)
 - [ ] In-world date set (`in_world_date`) and logged in [[Timeline]]
 - [x] Hooks written (at least 3 variants)
-- [ ] PC Objectives listed, each with 2+ routes
+- [x] PC Objectives listed, each with 2+ routes
 - [x] Act structure and scene list in [[10-Adventures/In Development/SP-GS01 — The Gluttonwretch of Hommlet/Scenes/00 — Scene Index|00 — Scene Index]] with time budgets
-- [ ] Climax-at-a-Glance table: every solution seeded in an earlier scene
-- [ ] Signature mechanic note created (`type: adventure-mechanic`)
+- [x] Climax-at-a-Glance table: every solution seeded in an earlier scene
+- [x] Signature mechanic note created (`type: adventure-mechanic`)
 - [ ] Canon research done; every canon claim has a Lore note in `20-World/Greyhawk-Canon`
 
 
 ## 2 · Write
 
-- [ ] Every scene note exists with `status: outline`
-- [ ] Every scene `status: drafted` (Purpose, read-aloud, beats, Sensory Palette, Alternates, Transition)
-- [ ] Clue Ledger complete: every conclusion has 3+ routes
+- [x] Every scene note exists with `status: outline`
+- [x] Every scene `status: drafted` (Purpose, read-aloud, beats, Sensory Palette, Alternates, Transition)
+- [x] Clue Ledger complete: every conclusion has 3+ routes
 - [ ] Every named NPC has a note in `30-NPCs` with Appearances filled
-- [ ] Every location has a note in `40-Locations`
-- [ ] Every item has a note in `50-Items`
-- [ ] Encounter table filled with APL bands and DMG difficulty math
-- [ ] Adventuring-day XP check written
+- [x] Every location has a note in `40-Locations`
+- [x] Every item has a note in `50-Items`
+- [x] Encounter table filled with APL bands and DMG difficulty math
+- [x] Adventuring-day XP check written
 - [ ] Bestiary note complete, every statblock 2014 5e, MM pages cited
-- [ ] Handouts written (`type: handout`)
-- [ ] Continuity section filled: threads opened / advanced / closed; hooks logged in [[Plot-Threads]]
+- [x] Handouts written (`type: handout`)
+- [x] Continuity section filled: threads opened / advanced / closed; hooks logged in [[Plot-Threads]]
 
 
 ## 3 · Edit
@@ -51,7 +51,7 @@ publish: false
 - [ ] Manifest in [[10-Adventures/In Development/SP-GS01 — The Gluttonwretch of Hommlet/Scenes/00 — Scene Index|00 — Scene Index]] reviewed: `section`, `publish_order`, `publish` correct on every file
 - [ ] Longform compile run; output saved as `SP-PBS-NN — Compiled.md`
 - [ ] Battlemaps (DM + Player) in `99-Assets/SP-PBS-NN/`; Map Assets note written
-- [ ] Art brief / Midjourney prompt pack written
+- [x] Art brief / Midjourney prompt pack written
 - [ ] Title block and cover art done
 - [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported
 - [ ] Fantasy Grounds module built and exported (per FG checklist in adventure note)
