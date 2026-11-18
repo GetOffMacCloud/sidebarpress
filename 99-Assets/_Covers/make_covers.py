@@ -38,6 +38,8 @@ COVERS = [  # art path (vault-relative), series line, title, subtitle, code, ban
      "Nobody's Colors", "A Sidebar Press Greyhawk Adventure", "GA0", "An adventure for characters of levels 1–4"),
     ("99-Assets/SP-SQ/cover/SP-GQ00 — Cover.png", "Greyhawk University · Field Wardens",
      "The Shadow on the Quag", "Arc Guide & Prologue", "GQ0", "An adventure for levels 1–4"),
+    ("99-Assets/SP-GS01/cover/SP-GS01 cover.png", "Greyhawk Special · A Brewfest Adventure",
+     "The Gluttonwretch of Hommlet", "A Sidebar Press Greyhawk Adventure", "GS1", "An adventure for 12th-level characters"),
 ]
 
 def font(name, size): return ImageFont.truetype(str(FONTS / name), size)
