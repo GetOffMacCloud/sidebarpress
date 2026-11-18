@@ -2,7 +2,8 @@
 Uses the shared builder in 70-Company/Tools/fgu-module-builder (see the fgu-module-build skill).
 v1 (2026-11-06): no battlemaps or scene plates yet; rebuild when the art lands in 99-Assets/SP-SQ/."""
 import os,sys,re,glob,shutil
-HERE=os.path.dirname(os.path.abspath(__file__)); ADV=os.path.dirname(os.path.dirname(HERE)); VAULT=os.path.dirname(os.path.dirname(ADV))
+HERE=os.path.dirname(os.path.abspath(__file__)); ADV=os.path.dirname(os.path.dirname(HERE)); VAULT=ADV
+while not os.path.isdir(os.path.join(VAULT,'70-Company')): VAULT=os.path.dirname(VAULT)  # works at any folder depth (In Development/, Completed/)
 sys.path.insert(0,os.path.join(VAULT,'70-Company','Tools','fgu-module-builder'))
 from fgmod import Mod, conv, body, sections
 FG=os.environ.get('FG_DIR',os.path.expanduser('~/mnt/Fantasy Grounds'))
@@ -24,7 +25,7 @@ for f in sorted(glob.glob(os.path.join(ASSETS,'handouts','Sigil *.png'))):
 for f in sorted(glob.glob(os.path.join(ASSETS,'plates','*.png'))): stage(f,'scene-'+re.sub(r'[^a-z0-9]+','-',os.path.basename(f)[:-4].lower().replace(CODE.lower(),'')).strip('-'))
 for f in sorted(glob.glob(os.path.join(ASSETS,'scenes','SP-GQ01 — S0*.png'))):
     b=os.path.basename(f)[:-4].split(' — ',1)[1]; stage(f,'scene-'+re.sub(r'[^a-z0-9]+','-',b.lower()).strip('-'))
-stage(os.path.join(VAULT,'10-Adventures','SP-GA01 — The False Arrow','images','scene-ritterstadt.png'),'scene-ritterstadt')
+stage(glob.glob(os.path.join(VAULT,'10-Adventures','**','SP-GA01 — *','images','scene-ritterstadt.png'),recursive=True)[0],'scene-ritterstadt')
 for f in sorted(glob.glob(os.path.join(ASSETS,'maps','*.*'))): stage(f,'battlemap-'+re.sub(r'[^a-z0-9]+','-',os.path.basename(f).rsplit('.',1)[0].lower().replace(CODE.lower(),'')).strip('-'))
 SL=lambda n: re.sub(r'[^a-z0-9]+','-',n.lower()).strip('-')
 PORTN={}
