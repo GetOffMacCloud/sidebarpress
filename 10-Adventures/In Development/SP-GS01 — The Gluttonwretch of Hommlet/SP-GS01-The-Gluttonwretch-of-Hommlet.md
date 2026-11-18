@@ -104,13 +104,23 @@ Deviations:
 | The Moathouse and Elmo | Present in T1 | Not used | Kept free for other tables' Hommlet campaigns |
 
 ## Fantasy Grounds Build
-- [ ] Story entries written (one per scene)
-- [ ] Encounters built and linked to story
-- [ ] NPCs created/linked (two custom records for the Gluttonwretch: base and Second Helpings)
+Built as a **reference manual** (not story entries), with the vault builder (`70-Company/Tools/fgu-module-builder`).
+
+**Links.** Every `[[wikilink]]` on a page becomes a clickable **See also** link at the foot of that page, and NPC, item and spell records get a **Records for this page** sidebar. Clicking either opens the target in its own window. A link only works if its target is in the module, so **every note below is built as a page or record**. None may be left as plain text.
+
+**Pages and records to build** (every note the shipping files link to):
+- **Adventure:** main note, Front Matter, Scenes 01–08, Bestiary, The First Fruits, The Gorgings, Comedy Kit, and the three handouts (shareable to players).
+- **Notes outside the folder (one page each):** [[Brindlewick's Cipher Book]], [[Canon Terjon]], [[Deacon Mungo Brindlewick]], [[Emridy Meadows]], [[Feather of the First Fruits]], [[Gluttonwretch]], [[Goodwife Gundigoot]], [[Gremag]], [[Hommlet]], [[Inn of the Welcome Wench]], [[Jaroo Ashstaff]], [[Jaroo's Grove]], [[Lissa (Hommlet)]], [[Mytch the Miller]], [[Offering-Heap]], [[Ostler Gundigoot]], [[Pip Haddle]], [[Pudding]], [[Rannos Davl]], [[The Elder of Hommlet]], [[The Rotting Table]], [[The Smokehouse (Hommlet)]], [[The Temple's Long Shadow]], [[The Wishbone of Old Gobbler]], [[The-Common-Year-Calendar]], [[Viscounty-of-Verbobonc]], [[Wat Thistlewood]], [[Widow Marta Bree]]
+- **NPC records:** the Gluttonwretch and the Gluttonwretch, Second Helpings (two records), the Offering-Heap, Brindlewick (Mage reskin), Gorger (Mummy reskin), Flinger (Wight reskin), Brother of the Rotting Table (Gladiator reskin), earth elemental, and Rannos and Gremag from the T1 conversion.
+- **Item records:** [[Feather of the First Fruits]], [[The Wishbone of Old Gobbler]], [[Brindlewick's Cipher Book]].
+
+**Checklist**
+- [ ] Every page above built; `lint` reports no leaked `[[` links
+- [ ] Encounters built and linked from their scene pages
+- [ ] NPC records created and linked (both Gluttonwretch forms)
 - [ ] Parcels (treasure) assigned
 - [ ] Maps/images added with pins and LOS
 - [ ] Player handouts flagged shareable
-- [ ] Reference manual chapter drafted
 - [ ] Module exported and versioned
 
 ## Playtest Notes
@@ -122,9 +132,11 @@ Link session logs: first run planned as a Thanksgiving-week stream (3.5 hours, 7
 - [[SP-GS01 — Board]] — definition of done
 - [[SP-GS01 — Bestiary]]
 - [[SP-GS01 — The First Fruits]] — the signature mechanic
+- [[SP-GS01 — The Gorgings]] — who gorges, when, and where
 - [[SP-GS01 — Comedy Kit]]
 - [[SP-GS01 — Handout — Jaroo's Letter]]
 - [[SP-GS01 — Handout — The Cipher Ledger]]
+- [[SP-GS01 — Handout — Who's Who in Hommlet]]
 - [[SP-GS01 — Art Brief]]
 
 ## Publishing

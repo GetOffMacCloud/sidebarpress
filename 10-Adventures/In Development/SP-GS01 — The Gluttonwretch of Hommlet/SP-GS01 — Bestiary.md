@@ -25,7 +25,7 @@ Thresholds (2014 DMG): Easy 7,000 · Medium 14,000 · Hard 21,000 · Deadly 31,5
 | The Feast, one thread left loose | + Brindlewick *or* + the barrels' Flinger | 28,000 / 26,400 | 42,000 / 39,600 (×1.5) | Deadly |
 | The Feast, worst case | Gluttonwretch, Hob, the barrels' Flinger, Brindlewick | 28,700 | 43,050 (×1.5) | Deadly |
 
-**Act 2 sets the feast's difficulty.** Taking Brindlewick at the Smokehouse and exposing the traders before noon each remove one foe from the feast. A party that does both fights a Hard climax; a party that does neither fights a Deadly one.
+**Act 2 sets the feast's difficulty.** Taking Brindlewick at the Smokehouse and exposing the traders before noon each remove one foe from the feast. A party that does both fights a Hard climax; a party that does neither fights a Deadly one. Ma Dunwold and Tam Thistlewood, if never cured in Scene 02, add two more Gorgers (700 XP each).
 
 **Adventuring day.** Running all four encounters comes to about 86,000–103,000 adjusted XP, against a 2014 adventuring-day budget of 105,000 for seven 12th-level characters (15,000 each), with a short rest likely before the feast. Most tables run three of the four. It is a day that pushes the party to its limits.
 

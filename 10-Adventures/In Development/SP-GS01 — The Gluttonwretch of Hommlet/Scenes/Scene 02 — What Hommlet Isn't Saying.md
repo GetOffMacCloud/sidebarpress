@@ -20,7 +20,7 @@ Hommlet as the home base, keyed in the order the party will most likely play it.
 ## Arrival
 The party wakes on Day 2 (or works through the night of Day 1). Hommlet is setting up for the feast and pretending nothing is wrong. Let them choose where to go; the keyed entries below are in the likeliest order.
 
-**To the table:** *"You've got one day before the feast bell. Who in this village do you lean on first?"*
+**To the table:** *"You've got one day before the feast bell. Who in this village do you lean on first?"* Point the players to Terjon's list, [[SP-GS01 — Handout — Who's Who in Hommlet]].
 
 ## Hommlet at a Glance
 | # | Place | Who | What it gives | Full entry |
@@ -32,7 +32,16 @@ The party wakes on Day 2 (or works through the night of Day 1). Hommlet is setti
 | H5 | Church of St. Cuthbert | [[Canon Terjon]] | The four gorged; one gone missing | one line |
 | H6 | Welcome Wench common room | [[Ostler Gundigoot]], drinkers | Rumors (see [[SP-GS01 — Front Matter]]) | one line |
 
-**H5. CHURCH OF ST. CUTHBERT.** Terjon has two gorged villagers abed in the vestry, tied gently to their cots. The third, **Hob Tanner**, slipped his cords in the night and is gone. He is Hollow now and will rise at the feast.
+**H5. CHURCH OF ST. CUTHBERT** *(gorgings 1–3; see [[SP-GS01 — The Gorgings]])*
+> *The vestry smells of candle smoke and chewed paper. Two cots stand against the wall, each with a figure tied to it by soft cords. A third cot is empty, its cords bitten through. Torn hymnal pages litter the floor.*
+
+**Creatures:** **[[Canon Terjon]]** (1), keeping watch; **Old Ma Dunwold** (1), the farrier's mother; **Tam Thistlewood** (1), Wat's older brother. Both are at the Gorging stage.
+- **Ma Dunwold** works through the hymnal Terjon gave her to read, a page at a time. "Pages taste of nothing. Why do they taste of nothing, Canon?"
+- **Tam Thistlewood** has chewed one cord strap through and is starting on the next. "Tell Wat I didn't eat Mabel. I didn't." *(A beat.)* "I thought about it."
+- **The empty cot** was **Hob Tanner**'s, a widowed tanner who slipped his cords last night. He is Hollow now and will rise at the feast.
+
+**Cures:** *lesser restoration*, or a DC 15 Wisdom (Medicine) check each. Terjon has used every spell he had on the first night and has nothing left.
+**Development:** curing Ma Dunwold gives advantage on winning the Dunwold household; curing Tam gives advantage on the Thistlewoods. **Left uncured, both are Hollow by the feast** and rise beside Hob as two more Gorgers.
 
 **H6. WELCOME WENCH COMMON ROOM.** Roll or choose from the rumor table. Gundigoot denies everything cheerfully.
 
@@ -43,7 +52,9 @@ The party wakes on Day 2 (or works through the night of Day 1). Hommlet is setti
 
 The Elder is spending Brewfest planning a perfect feast so that nobody will ask about the last one. He led the 575 vote and knows exactly what it cost.
 
-**Creatures:** **[[The Elder of Hommlet]]** (1), and his granddaughter **[[Lissa (Hommlet)|Lissa]]** (1), age eight, who answers questions nobody asked her.
+**Creatures:** **[[The Elder of Hommlet]]** (1), Peckish (gorging 6), and his granddaughter **[[Lissa (Hommlet)|Lissa]]** (1), age eight, who answers questions nobody asked her.
+
+**The quill.** The Elder has been eating the 575 jam every night so it wouldn't be wasted, and the hunger has him. Throughout the interview he chews the end of his quill, then the feather, then the nib. A DC 13 Wisdom (Perception) check notices; pointing it out gives advantage on the check to move him one step. Talking him down (DC 12 Wisdom (Medicine) or Charisma (Persuasion)) ends the gorging and moves him one step anyway.
 
 **Escalation script.** Play him through these in order. A DC 16 Wisdom (Insight) or Charisma (Persuasion) check, the jam from Scene 01, or opening the cellar moves him one step.
 1. **Deny.** "Fever. Brewfest fever. We've had it before." *(We haven't.)*
@@ -97,7 +108,12 @@ She cries, then insists the party take honey cakes. She will give her first hone
 > *The millwheel turns slowly over brown water. Flour dust hangs in the doorway in a pale haze. Sacks of new flour stand stacked against one wall, and a single sack sits apart from the rest on a stool, tied with a red ribbon.*
 
 **Creatures:** **[[Mytch the Miller]]** (1), flour to the elbows.
-> "That's my first sack. I tie a ribbon on it every year. Didn't take it up the hill last year, did I? Nobody did." *(Lower.)* "Those traders bought every cranberry in the Viscounty. Who needs that many cranberries? Nobody needs that many cranberries."
+> "That's my first sack. I tie a ribbon on it every year. Didn't take it up the hill last year, did I? Nobody did."
+
+**Benno** (gorging 5). Mytch's apprentice went out last night "to check the wheel" and hasn't come back. Three sacks in the loft are gnawed open, and the twine is eaten too. A trail of flour leads out of the mill and north along the field track (a DC 12 Wisdom (Survival) check follows it for a mile toward Emridy Meadows).
+> "Ate his supper and then he ate the bag it came in. I thought he was joking."
+
+Benno is Hollow. He is the Flinger that rises at the Hunt ([[Scene 06 — The Hunt on Emridy Meadows]]), still in his floury apron. *(Lower.)* "Those traders bought every cranberry in the Viscounty. Who needs that many cranberries? Nobody needs that many cranberries."
 
 **Development:** Mytch's household is the hardest to win: he wants a reason that pays (see the good stories in Scene 04). The ribboned sack is his offering if he is won.
 

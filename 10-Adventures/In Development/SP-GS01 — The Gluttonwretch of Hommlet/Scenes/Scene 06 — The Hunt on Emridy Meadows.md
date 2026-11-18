@@ -31,7 +31,7 @@ The Carving path. The party catches the Wretch at its roost and hurts it before 
 
 **2. The Hollow Guests.** Under the mounds lie villagers and travelers the Wretch has gorged since Harvester. When it wakes, they claw out of the turf.
 - **Gorger** (1) rises beside the party (melee).
-- **Flinger** (1) rises on a mound 60 feet away and throw bones and razorberry shards (ranged).
+- **Flinger** (1) rises on a mound 60 feet away: **Benno**, Mytch's apprentice, still in his floury apron (gorging 5) and throw bones and razorberry shards (ranged).
 Use the barks table in [[SP-GS01 — Comedy Kit]] freely.
 
 **3. Three rounds.** The Wretch fights for **three rounds**, then its hunger pulls it home: at the end of its third turn, it takes off and flies toward Hommlet at 60 feet a round. It will not be held. Anything that would stop it (a *forcecage*, a grapple) holds it only until the end of its next turn, then the binding drags it free. *(While the Wishbone is unbroken, it cannot be kept from the feast.)*

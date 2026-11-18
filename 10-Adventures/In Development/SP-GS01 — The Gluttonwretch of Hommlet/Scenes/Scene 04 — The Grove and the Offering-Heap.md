@@ -34,6 +34,13 @@ Jaroo can lay Old Gobbler to rest only if the offering is *freely given by Homml
 | The Rheddens, a young family | First apples and new cider | Fear of the monster |
 | Dunwold the farrier's family | First ears of corn | Thinks it's all superstition |
 
+**Arlo Rhedden's orchard** (gorging 8). When the party reaches the Rheddens, the young father **Arlo Rhedden** is sitting under his best tree with the family's basket of first apples, eating them core, stem and all. His wife is trying to pull the basket away; their children are watching from the door.
+> "Just one more. They're ours, aren't they? They're *ours*."
+
+- He is Peckish: a DC 12 Wisdom (Medicine) or Charisma (Persuasion) check stops him, and the Rhedden household is **won outright**, in thanks.
+- If the party takes more than a minute or so to act, he is Gorging (DC 15 to cure) and the basket is half gone. Enough remains for an Offering only if he is stopped this round.
+- Uncured, he finishes the apples. The Rhedden household is lost.
+
 **What a good story looks like.** It is true to the character, it speaks to that household's fear, and it asks them to give. Examples the players might find:
 1. **To the Elder (shame).** A paladin tells of an oath they once broke and what it took to make it right. "I didn't fix it by hiding it. I fixed it by walking back through the door and saying it out loud."
 2. **To the Haddles (Pip).** "Pip has carried your cranberries to that grove every year since he could walk. Let him carry them one more time, with me right beside him."

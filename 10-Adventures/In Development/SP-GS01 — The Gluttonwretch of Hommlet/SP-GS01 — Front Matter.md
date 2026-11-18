@@ -30,7 +30,7 @@ This is a one-session Brewfest adventure for high-level heroes, set in the villa
 ### What's Really Happening
 For three generations a giant wild turkey called **Old Gobbler** has lived in Jaroo Ashstaff's Old Faith grove, holy to Obad-Hai. Every Brewfest, each household carries the **first fruits** of its harvest to the grove — the first sheaf cut, the first berries picked, the first pour from the new cask — and Old Gobbler eats first. The harvest is blessed.
 
-The fields are still sour seven years after the Temple's blight. In 575 CY the village council, led by the Elder, voted to keep the offering in their own cellars "just this once." Jaroo was outvoted. Old Gobbler wandered the Gnarley edge looking for a feast that never came, and starved over the winter. The hoarded 575 offering rotted, uneaten, in the Elder's cellar.
+The fields are still sour seven years after the Temple's blight. In 575 CY the village council, led by the Elder, voted to keep the offering in their own cellars "just this once." Jaroo was outvoted. Old Gobbler wandered the Gnarley edge looking for a feast that never came, and starved over the winter. The hoarded 575 offering rotted in the Elder's cellar. Ashamed, and unable to throw away the gods' own food, he spent the year slipping crocks of it to neighbors as "last year's jam"; everyone who ate it can gorge (see [[SP-GS01 — The Gorgings]]).
 
 **Deacon Mungo Brindlewick**, a surviving priest of the Temple who serves the imprisoned demon queen Zuggtmoy, found the carcass in the spring. In the cellar of a burned Temple-era rendering house, **the Smokehouse**, he raised it with a rite to the Lady of Rot and bound it with its own wishbone. Every soul it gorges feeds Zuggtmoy's rot. The traders **Rannos Davl** and **Gremag** supply him.
 
@@ -77,8 +77,9 @@ The **Gluttonwretch** still wants what Old Gobbler always wanted: to be fed firs
 | When | What happens if the PCs do nothing |
 |---|---|
 | Day 1 (Brewfest 3), dusk | Pip Haddle gorges in the Wench's kitchen. |
-| Day 1, night | Two more villagers gorge. One reaches the Hollow stage and goes missing. |
-| Day 2, dawn | The Wretch is seen over the fields. Wat Thistlewood's last pig vanishes. |
+| Day 1, night | Benno, Mytch's apprentice, gorges to Hollow and walks north to the Meadows. Ma Dunwold and Tam Thistlewood worsen in the church. |
+| Day 2, dawn | The Wretch is seen over the fields. Gundigoot starts eating candles (Scene 03). |
+| Day 2, midday | Arlo Rhedden starts eating his family's first apples (Scene 04). |
 | Day 2, noon | Rannos and Gremag deliver the "preserves" to the green. |
 | Day 2 (Brewfest 4), dusk | **The feast bell**, under a full Celene. The Naming of Thanks; the Wretch rises through the table. |
 | Feast, each round after the 3rd | If no Offering has been made, one more household gorges and joins the Hollow Guests. |

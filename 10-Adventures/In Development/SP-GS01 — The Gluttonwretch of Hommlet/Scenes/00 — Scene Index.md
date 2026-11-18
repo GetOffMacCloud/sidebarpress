@@ -23,7 +23,7 @@ longform:
 ---
 # Scene Index — The Gluttonwretch of Hommlet
 
-Back to [[SP-GS01-The-Gluttonwretch-of-Hommlet]] · Front matter: [[SP-GS01 — Front Matter]] · Mechanic: [[SP-GS01 — The First Fruits]] · Statblocks: [[SP-GS01 — Bestiary]] · Board: [[SP-GS01 — Board]]
+Back to [[SP-GS01-The-Gluttonwretch-of-Hommlet]] · Front matter: [[SP-GS01 — Front Matter]] · Mechanics: [[SP-GS01 — The First Fruits]], [[SP-GS01 — The Gorgings]] · Statblocks: [[SP-GS01 — Bestiary]] · Board: [[SP-GS01 — Board]]
 
 > [!info] This note is the **build manifest** and the **Longform project index**. The table below is the canonical paste order for the compiled book. Reorder by changing `publish_order`; drop a file with `publish: false`. See [[Build-Pipeline]].
 

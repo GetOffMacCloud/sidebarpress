@@ -36,7 +36,12 @@ Jaroo, Wat and Terjon each argue for one path, and the party sets its plan for t
 **4. The Wishbone warning.** If anyone suggests breaking the bone, Jaroo goes still.
 > "Break the bone and the priest loses his leash. So does the bird. You'd be killing him twice. There'd be nothing left of him to lay down, and nothing left of the grove's blessing either."
 
-**5. The plan.** The players decide. Say the clock out loud: the feast bell rings at dusk, everyone is pulled back to the green, and whatever isn't done by then stays undone.
+**5. Gundigoot's candle** (gorging 7). While the others argue, **[[Ostler Gundigoot]]** stands at the bar, absent-mindedly eating a candle stub. He's halfway down the second when someone notices.
+> "It's the fever. Brewfest fever. Very—" *(He looks at the candle. He keeps chewing.)* "—seasonal."
+
+A DC 12 Wisdom (Medicine) or Charisma (Persuasion) check talks him down. He laughs it off, badly. Uncured, he is Gorging by the feast and pours ale with one hand while eating the bar towel with the other.
+
+**6. The plan.** The players decide. Say the clock out loud: the feast bell rings at dusk, everyone is pulled back to the green, and whatever isn't done by then stays undone.
 
 ## DM Note: Presenting the Three Paths
 Don't announce "three paths." The NPCs above do the work; each promises something in story terms (rest for the bird, control of the bird, a weaker bird). Never state the mechanics.

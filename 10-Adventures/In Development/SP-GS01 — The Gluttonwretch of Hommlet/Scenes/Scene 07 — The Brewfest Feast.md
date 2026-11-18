@@ -46,7 +46,7 @@ The **Gluttonwretch** speaks in Sylvan, a wet gobbling rasp: *"Gwolloch… ne'fe
 Roll initiative. The Wretch starts with any damage carried over from [[Scene 06 — The Hunt on Emridy Meadows]].
 
 **Who else is here.**
-- **Hollow Guests:** **Hob Tanner** (1), missing since Scene 02, rises from the bench where he was sitting a moment ago (a Gorger). If the traders' "preserves" reached the green, a **Flinger** (1) climbs out of the barrels as well.
+- **Hollow Guests:** **Hob Tanner** (1), missing since Scene 02, rises from the bench where he was sitting a moment ago (a Gorger). If the traders' "preserves" reached the green, a **Flinger** (1) climbs out of the barrels as well. If **Ma Dunwold** and **Tam Thistlewood** were never cured (Scene 02), they rise beside Hob as two more **Gorgers** (see [[SP-GS01 — The Gorgings]]).
 - **[[Deacon Mungo Brindlewick]]**, if he is still free, stands up from the crowd with the Wishbone and starts saying grace.
 - **The Offering-Heap**, if calmed in Scene 04, waits at the edge of the green.
 - **The village:** two hundred people, most of them frozen. Those holding baskets look at the party.
@@ -94,7 +94,7 @@ On initiative count 20 (losing ties), the Wretch takes one lair action. It can't
 A round with seven players, the Wretch, its legendary actions and a lair action takes about 20–25 minutes at a stream table. The 70-minute budget is about three rounds. Keep the Naming of Thanks under 10 minutes, use a turn timer if your table likes one, and treat Second Helpings as optional: run it only if you are ahead of the clock.
 
 ## The Clock
-- **After round 3,** if no Offering has yet been made, one more household gorges at the end of each round. Cross it off the households; its members join the fight as one more Gorger (700 XP each).
+- **After round 3,** if no Offering has yet been made, one more household gorges at the end of each round. Cross it off the households; its members join the fight as one more Gorger (700 XP each). Take the households in the order listed in [[SP-GS01 — The Gorgings]]: the Thistlewoods first, the Elder's last.
 - **Canon Terjon** casts *spirit guardians* once (his safety valve). Use it the first time two or more PCs drop.
 - **Jaroo's last gift** (safety valve): if the party is losing badly, Jaroo can complete the rite with only **four** Offerings by giving his own life. Ending B: the bird rests, the druid dies.
 
