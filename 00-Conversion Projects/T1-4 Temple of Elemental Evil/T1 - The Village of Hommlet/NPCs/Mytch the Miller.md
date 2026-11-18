@@ -27,6 +27,7 @@ Guard (MM); see the area 22 key.
 
 ## Appearances
 - [[T1-01 Village of Hommlet#22. MILL AND ATTACHED HOME]]
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Scenes 02, 04 — a household holding out on its first fruits
 
 ## Canon Notes
 T1-4 (1985), area 22.

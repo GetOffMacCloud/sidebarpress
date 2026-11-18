@@ -16,6 +16,7 @@ A two-story inn on the green with a big common room and a busy kitchen. At Brewf
 ## Notable Features
 - **The Open Door** (homebrew, SP-GS01): every Brewfest the door doesn't shut, and anyone who walks in gets fed, because a stranger fed Gundigoot once.
 - The kitchen, where Pip Haddle gorges in Scene 01
+- Full site key: [[T1-02 Inn of the Welcome Wench]] (T1 conversion)
 
 ## Inhabitants
 - [[Ostler Gundigoot]] and Goodwife Gundigoot

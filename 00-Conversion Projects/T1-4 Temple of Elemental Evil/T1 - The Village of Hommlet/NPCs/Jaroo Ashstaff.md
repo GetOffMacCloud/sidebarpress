@@ -30,6 +30,7 @@ Repress any rise of Temple-style evil. He gives aid by spells but won't accompan
 ## Appearances
 - [[T1-01 Village of Hommlet#24. THE GROVE]]
 - [[T1-01 Village of Hommlet#27. WALLED MANOR HOUSE]]: senior council member
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Scenes 01 (letter), 03, 04, 07, 08 — keeper of Old Gobbler and the First Fruits rite; safety valve at the feast
 
 ## Canon Notes
 T1-4 (1985), area 24.

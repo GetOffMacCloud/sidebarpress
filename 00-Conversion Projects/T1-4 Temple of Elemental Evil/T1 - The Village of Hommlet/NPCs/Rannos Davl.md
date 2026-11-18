@@ -30,6 +30,7 @@ Spy on Hommlet for the Temple, through a brigand courier; supply Lareth with wag
 ## Appearances
 - [[T1-01 Village of Hommlet#13. WOODEN BUILDING WITH SHUTTERED WINDOWS (Trading Post)]]
 - [[T1-03 Traders' Establishment]]
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Scene 02 — runs the Rotting Table's supply line; flees to Nulb if exposed
 
 ## Canon Notes
 T1-4 (1985), area 13.

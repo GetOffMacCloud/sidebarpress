@@ -9,7 +9,7 @@ status: drafted # outline | drafted | edited | final
 
 # The Gluttonwretch of Hommlet — Front Matter
 
-**APL 12 (levels 11–13) · 5–7 characters (written for 7) · one 3½-hour session** · Setting: Greyhawk, Brewfest 576 CY · Region: Hommlet, Viscounty of Verbobonc
+**APL 12 (levels 11–13) · 5–7 characters (written for 7) · one 3½-hour session** · Setting: Greyhawk, Brewfest 3–4, 576 CY · Region: Hommlet, Viscounty of Verbobonc
 
 ## Introduction
 This is a one-session Brewfest adventure for high-level heroes, set in the village of Hommlet seven years after the Battle of Emridy Meadows. Read the Background first; everything else follows from it. Run Act 1 in Hommlet, let the party choose its paths in Act 2, and keep the feast bell at dusk on Day 2 no matter what.
@@ -76,11 +76,11 @@ The **Gluttonwretch** still wants what Old Gobbler always wanted: to be fed firs
 ### Timeline and Clocks
 | When | What happens if the PCs do nothing |
 |---|---|
-| Day 1, dusk | Pip Haddle gorges in the Wench's kitchen. |
+| Day 1 (Brewfest 3), dusk | Pip Haddle gorges in the Wench's kitchen. |
 | Day 1, night | Two more villagers gorge. One reaches the Hollow stage and goes missing. |
 | Day 2, dawn | The Wretch is seen over the fields. Wat Thistlewood's last pig vanishes. |
 | Day 2, noon | Rannos and Gremag deliver the "preserves" to the green. |
-| Day 2, dusk | **The feast bell.** The Naming of Thanks; the Wretch rises through the table. |
+| Day 2 (Brewfest 4), dusk | **The feast bell**, under a full Celene. The Naming of Thanks; the Wretch rises through the table. |
 | Feast, each round after the 3rd | If no Offering has been made, one more household gorges and joins the Hollow Guests. |
 
 ### Factions
@@ -96,11 +96,11 @@ New NPCs have full notes in `30-NPCs`. The canon Hommlet NPCs keep their T1 note
 | [[Jaroo Ashstaff]] | Old Gobbler at rest; the village to own its sin | The rite; the bird's forty years; that breaking the bone "kills him twice" | Stays out of the village until Day 2; helps calm the Heap; will die to finish the rite if the party is losing |
 | [[The Elder of Hommlet]] | His reputation; his granddaughter Lissa safe | The 575 vote; the rotted offering in his cellar | Deny → blame the economy → redirect to Jaroo → confess (Scene 02) |
 | [[Ostler Gundigoot]] | The feast to go ahead; Brewfest pays his winter | The gorgings; the Elder's jam | Denies everything cheerfully; never cancels Brewfest; brings the bread at the end |
-| Goodwife Gundigoot | The Open Door kept | Why the door stays open | Explains while working; stands in the doorway during the fight |
+| [[Goodwife Gundigoot]] | The Open Door kept | Why the door stays open | Explains while working; stands in the doorway during the fight |
 | [[Canon Terjon]] | Nobody dying at his table; rebuilding money | Four gorged, Hob Tanner missing; drovers' sightings on the Meadows | Fights at the feast; casts *spirit guardians* once |
 | [[Mytch the Miller]] | A good year, in coin | The traders bought every cranberry in the Viscounty | Won only by a reason that pays |
 | [[Rannos Davl]] and [[Gremag]] | Zuggtmoy's favor, then out of Hommlet | The supply line; the Smokehouse; the "preserves" | Deny → worse cover story → infiltrate → betray (Scene 02) |
-| Lissa, the Elder's granddaughter | Attention | That "turkeys don't have friends" | Says the quiet part out loud |
+| [[Lissa (Hommlet)\|Lissa]], the Elder's granddaughter | Attention | That "turkeys don't have friends" | Says the quiet part out loud |
 | Hob Tanner | Nothing; he is Hollow | — | Missing from the church; rises as a Gorger at the feast |
 
 ### Rumors

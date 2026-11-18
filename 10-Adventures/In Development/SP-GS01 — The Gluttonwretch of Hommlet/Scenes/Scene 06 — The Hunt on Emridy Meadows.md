@@ -18,7 +18,7 @@ The Carving path. The party catches the Wretch at its roost and hurts it before 
 **Budget:** about 25 minutes of Act 2's shared 65. Running long? End after the Wretch's third round, whatever has happened.
 
 ## Getting There
-[[Emridy Meadows]] lies 12 miles due north of Hommlet, along the Emridy Run (see the area map in the main note). On foot that is half a day; mounted, a few hours. Twelfth-level magic (*wind walk*, *teleport*, *phantom steed*) makes it a short hop. Compress the journey into one sentence unless the party wants to talk on the way.
+[[Emridy Meadows]] lies 12 miles due north of Hommlet, along the Emridy Run (see [[Emridy Meadows]] and [[Viscounty of Verbobonc]]). On foot that is half a day; mounted, a few hours. Twelfth-level magic (*wind walk*, *teleport*, *phantom steed*) makes it a short hop. Compress the journey into one sentence unless the party wants to talk on the way.
 
 ## Arrival
 > *Grass grows high and pale over long, low mounds where the dead of 569 were buried. Rusted spearheads and a broken shield poke through the turf. The ground between the mounds is crusted with red shards that crunch underfoot. At the center of the meadow, an old oak stands stripped of its bark. Something huge and dark is perched in its crown.*

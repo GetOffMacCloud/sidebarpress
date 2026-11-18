@@ -17,6 +17,7 @@ A ring of standing stones around brown grass; a flat stone shrine carved with bi
 - The offering shrine and its carvings (the First Fruits rite)
 - Old Gobbler's empty roost (homebrew)
 - The Offering-Heap behind the oak (homebrew, SP-GS01)
+- Canon key: Jaroo's grove in [[T1-01 Village of Hommlet]] (T1 conversion)
 
 ## Inhabitants
 - [[Jaroo Ashstaff]]
@@ -32,4 +33,4 @@ Canon: T1 places an Old Faith grove and its offering shrine at Hommlet, tended b
 See the area map in the adventure's main note; battlemaps to come in `99-Assets/SP-GS01/`.
 
 ## Canon Notes
-T1 *The Village of Hommlet* (1979). Homebrew additions as listed.
+T1-4 (1985), Jaroo Ashstaff and the grove (PDF p. 13); the village "tends towards the Druidical faith (Ehlonna, Obad-hai, and most of all Beory)" (PDF p. 121). See [[Obad-Hai and the Old Faith]]. Homebrew additions as listed.

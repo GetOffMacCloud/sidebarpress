@@ -30,6 +30,7 @@ Holds the church since the Canoness Y'dey left unexpectedly. He doesn't know of 
 ## Appearances
 - [[T1-04 Church of St Cuthbert]]
 - [[T1-01 Village of Hommlet#27. WALLED MANOR HOUSE]]: the council
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Scenes 01, 03, 07, 08 — patron; leads the Naming of Thanks and the last toast; casts *spirit guardians* once
 
 ## Canon Notes
 T1-4 (1985), area 20.

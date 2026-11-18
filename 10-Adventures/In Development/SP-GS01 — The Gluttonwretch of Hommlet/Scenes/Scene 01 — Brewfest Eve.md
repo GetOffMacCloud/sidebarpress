@@ -29,7 +29,7 @@ Show the hunger in action, plant the Open Door, and get Jaroo's letter into a PC
 
 **[[Pudding]]** follows the party everywhere from now on. She eats whatever they set down.
 
-**2. The Open Door.** **Goodwife Gundigoot** is wedging the door wider with the churn. If anyone asks, she explains without stopping work:
+**2. The Open Door.** **[[Goodwife Gundigoot]]** is wedging the door wider with the churn. If anyone asks, she explains without stopping work:
 > "Every Brewfest since we opened, this door doesn't shut. Ostler walked into Hommlet with nothing after the battle, and a family he'd never met fed him. So anyone who walks in, gets fed. Nobody's ever taken us up on it but drunks and tinkers. That's not the point."
 
 Plant it now so it lands later: in [[Scene 07 — The Brewfest Feast]], the Wretch comes in through this door.

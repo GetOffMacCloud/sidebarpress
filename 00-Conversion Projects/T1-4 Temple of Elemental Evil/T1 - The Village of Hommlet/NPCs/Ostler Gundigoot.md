@@ -28,6 +28,7 @@ Run the best inn for many miles. If anyone of highly suspicious nature appears, 
 ## Appearances
 - [[T1-02 Inn of the Welcome Wench]]
 - [[T1-01 Village of Hommlet#7. LARGE BUILDING WITH SIGN]]
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Scenes 01, 03, 07, 08 — will not cancel Brewfest; keeps the Open Door
 
 ## Canon Notes
 T1-4 (1985), area 7 and the Inn key.

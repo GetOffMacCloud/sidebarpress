@@ -30,6 +30,7 @@ As Rannos: spy, recruit, supply, and remove anyone who threatens the Temple's wo
 ## Appearances
 - [[T1-01 Village of Hommlet#13. WOODEN BUILDING WITH SHUTTERED WINDOWS (Trading Post)]]
 - [[T1-03 Traders' Establishment]]
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Scene 02 — Rannos's partner; bargains the Smokehouse's location for a head start
 
 ## Canon Notes
 T1-4 (1985), area 13.

@@ -11,7 +11,7 @@ party_size: "5-7"
 estimated_hours: 3.5
 setting: Greyhawk
 region: "Hommlet, Viscounty of Verbobonc"
-in_world_date: "Brewfest, 576 CY"
+in_world_date: "Brewfest 3–4, 576 CY"
 created: 2026-11-18
 fg_module: ""
 tags: [brewfest, thanksgiving, seasonal, one-shot, hommlet, undead, folk-horror, comedy, old-faith, zuggtmoy]
@@ -29,7 +29,7 @@ tags: [brewfest, thanksgiving, seasonal, one-shot, hommlet, undead, folk-horror,
 `SP-GS01` — Greyhawk **Special** (seasonal), first of the GS line. Printed as **GS1**. Never reuse codes, even for scrapped adventures.
 
 ## Date
-**Brewfest week, 576 CY**, the festival between Harvester and Patchwall. The feast falls on the second night of the festival. *(The vault's festival length — Folio's 7 days or Bloch's 6 — is still an open Canon Ruling; nothing here depends on it.)*
+**Brewfest 3–4, 576 CY.** Brewfest is the 7-day festival between Harvester and Patchwall (see [[The-Common-Year-Calendar]]). The party arrives on Brewfest 3; the feast is the night of **Brewfest 4**, when the small moon Celene is full.
 
 ## Design Frame
 - **Thesis:** Gratitude is something you *do*. The village's sin was taking without giving; the cure is giving when you have little.
@@ -57,6 +57,8 @@ tags: [brewfest, thanksgiving, seasonal, one-shot, hommlet, undead, folk-horror,
 | [[Wat Thistlewood]] | Swineherd; followed his pigs to the Smokehouse | New |
 | [[Pip Haddle]] | Scullery boy at the Wench; the first gorging the party sees | New |
 | [[Widow Marta Bree]] | Loved Old Gobbler; keeps bees | New |
+| [[Goodwife Gundigoot]] | Keeps the Open Door; the Gundigoot household's first pour is hers to give | New |
+| [[Lissa (Hommlet)\|Lissa]] | The Elder's granddaughter; says the quiet part out loud | New |
 | [[Pudding]] | The village goat; immune to the hunger curse because she was already like this | New |
 
 ## Key Locations
@@ -96,7 +98,7 @@ Dangling hooks: Brindlewick's cipher book names a "second table" under the Templ
 Deviations:
 | Topic | Source says | This adventure | Why |
 |---|---|---|---|
-| Hommlet–Nulb distance | T1-4 and the vault conversion: a day and a half on foot, about 30 miles | T1's 6 miles; Emridy Meadows 12 miles north | Greybeard ruling 2026-11-18; keeps the one-day clock |
+| Hommlet–Nulb distance | T1-4 contradicts itself: "but 6 miles distant" (PDF p. 6) against a day and a half's journey on its Map 1 and Interlude; the vault's T1 conversion follows the map (about 33 miles) | 6 miles (PDF p. 6); Emridy Meadows placed 12 miles north | Greybeard ruling 2026-11-18. Nobody travels to Nulb in this adventure; only the Meadows distance matters. See [[Viscounty of Verbobonc]] |
 | Old Gobbler, the grove's sacred turkey | Not in canon | Homebrew | The adventure's premise |
 | Brindlewick and the Rotting Table | Not in canon | Homebrew Zuggtmoy remnant | Zuggtmoy is the Temple's patron in T1-4 |
 | The Moathouse and Elmo | Present in T1 | Not used | Kept free for other tables' Hommlet campaigns |

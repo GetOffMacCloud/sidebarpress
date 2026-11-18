@@ -27,6 +27,7 @@ Commoner (MM). His sons and hired hand are listed in the area 27 key.
 
 ## Appearances
 - [[T1-01 Village of Hommlet#27. WALLED MANOR HOUSE]]
+- [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Scenes 02, 04, 07, 08 — led the 575 vote to keep the offering; escalation deny → "the economy" → redirect → confess
 
 ## Canon Notes
 T1-4 (1985), area 27; unnamed in the text.

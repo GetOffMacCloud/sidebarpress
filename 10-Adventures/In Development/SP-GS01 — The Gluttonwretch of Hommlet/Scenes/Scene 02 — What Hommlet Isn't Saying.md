@@ -43,7 +43,7 @@ The party wakes on Day 2 (or works through the night of Day 1). Hommlet is setti
 
 The Elder is spending Brewfest planning a perfect feast so that nobody will ask about the last one. He led the 575 vote and knows exactly what it cost.
 
-**Creatures:** **[[The Elder of Hommlet]]** (1), and his granddaughter **Lissa** (1), age eight, who answers questions nobody asked her.
+**Creatures:** **[[The Elder of Hommlet]]** (1), and his granddaughter **[[Lissa (Hommlet)|Lissa]]** (1), age eight, who answers questions nobody asked her.
 
 **Escalation script.** Play him through these in order. A DC 16 Wisdom (Insight) or Charisma (Persuasion) check, the jam from Scene 01, or opening the cellar moves him one step.
 1. **Deny.** "Fever. Brewfest fever. We've had it before." *(We haven't.)*

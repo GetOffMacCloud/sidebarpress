@@ -21,7 +21,7 @@ Pale grass over long, low grave mounds; rusted spearheads in the turf. In SP-GS0
 - The dead of 569 CY
 
 ## History
-Canon: the Battle of Emridy Meadows, 569 CY (T1-4; *World of Greyhawk*, 1983). Sources place the meadows south of the Velverdyva, northwest of Nulb, along the Emridy Run, which flows into Imeryds Run from the west.
+Canon: see [[The Battle of Emridy Meadows]]. T1-4 describes the great battle but never names the field. Sources place the meadows south of the Velverdyva, northwest of Nulb, along the Emridy Run, which flows into Imeryds Run from the west.
 
 ## Adventure Use
 - [[SP-GS01-The-Gluttonwretch-of-Hommlet]] — Scene 06, the Hunt.
