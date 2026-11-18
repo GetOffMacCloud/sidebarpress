@@ -40,11 +40,11 @@ publish: false
 
 - [x] Developmental edit: structure, pacing, railroad check
 - [x] Prose checklist passed on every read-aloud (≤100 words, no PC feelings, one metaphor max)
-- [ ] Every read-aloud read aloud once; stumbles cut
+- [x] Every read-aloud read aloud once; stumbles cut
 - [x] Copy edit: grammar, names consistent with NPC notes, wikilinks resolve
-- [ ] Canon Check table complete and page numbers verified against print
+- [x] Canon Check table complete and page numbers verified against print
 - [x] Every scene `status: edited`
-- [ ] Playtest #1 run; session log in `80-Sessions`; fixes applied
+- [x] Playtest #1 run; session log in `80-Sessions`; fixes applied
 - [ ] Every scene `status: final`
 
 

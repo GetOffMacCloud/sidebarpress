@@ -34,6 +34,12 @@ Before the battle of 569 CY, the Temple collected forced tithes of meat and grai
 **Survivors flee to the feast.** If Brindlewick escapes with the Wishbone, he goes straight to the feast green and hides among the crowd until the Naming of Thanks. He will not run anywhere else; the Wretch is his whole career.
 
 ## Keyed Areas
+> [!art]- Map — the Smokehouse, ground floor: S1–S3 (M2a)
+> ![[SP-GS01 - M2a Smokehouse Ground Floor - Print (300dpi, 7.5in).png|500]]
+
+> [!art]- Map — the Smokehouse, cellar: S4–S6 (M2b)
+> ![[SP-GS01 - M2b Smokehouse Cellar - Print (300dpi, 7.5in).png|500]]
+
 
 **S1. THE YARD**
 > *A burned timber barn leans over a muddy yard. The doors hang open on one hinge. A pigpen by the wall stands empty, its gate unlatched. Deep cart ruts run in from the north road and up to the doors. Somewhere inside, voices are singing slightly different words to the same tune.*

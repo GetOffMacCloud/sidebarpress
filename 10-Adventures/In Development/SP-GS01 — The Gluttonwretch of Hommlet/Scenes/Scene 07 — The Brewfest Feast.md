@@ -25,6 +25,9 @@ The climax. The village sits down to the Brewfest feast, names its thanks, and t
 | **The Carving** | Bring it to 0 hit points, then do it again | Scene 06 (carried damage) | The hardest fight; the village's debt unpaid |
 
 ## Part A — The Naming of Thanks
+> [!art]- Map — the Feast Green (M1)
+> ![[SP-GS01 - M1 Feast Green - Print (300dpi, 7.5in).png|500]]
+
 > *Long tables run the length of the green under two hundred candles. Every bench is full: farmers in clean shirts, children with their hair wet-combed, Pudding the goat under the head table. The Welcome Wench's door stands wide open at the end of the green, spilling yellow light onto the grass. Baskets of first fruits wait at the households' feet. Canon Terjon stands and raises his cup.*
 
 Hommlet's custom: before anyone eats, each household stands and names one thing it is thankful for. **[[Canon Terjon]]** turns to the guests of honor first.

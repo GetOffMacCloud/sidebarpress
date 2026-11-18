@@ -52,6 +52,9 @@ Jaroo can lay Old Gobbler to rest only if the offering is *freely given by Homml
 Record each household won on the [[SP-GS01 — The First Fruits|First Fruits tracker]].
 
 ## Part B — The Grove
+> [!art]- Map — Jaroo's Grove (M3)
+> ![[SP-GS01 - M3 Jaroos Grove - Print (300dpi, 7.5in).png|500]]
+
 
 > *A ring of standing stones encloses a clearing of brown autumn grass. At its center, a flat stone shrine is carved with birds, sheaves and open hands, and a moss-covered feeding trough stands beside it. A great empty roost of woven branches sags from the largest oak. Behind the oak, a mound of rotted vegetables taller than a barn is moving. It is breathing.*
 

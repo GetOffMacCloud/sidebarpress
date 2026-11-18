@@ -57,15 +57,17 @@ Top-down battle map of an old battlefield meadow at dusk, true overhead view, 30
 ```
 
 ## Pixel Sizes
-FGU versions at 100 px per 5-ft square; Print versions at 300 dpi, 7.5 in wide (2,250 px).
+FGU versions at 100 px per 5-ft square. Print versions are 300 dpi: the map is 7.5 in (2,250 px) wide inside a parchment frame with the title and a 25-ft scale bar, so the whole file is about 7.75 in wide.
+
+**What each version shows.** *Player (No Grid)*: the CharGen art, resized. *Player*: plus a 5-ft grid. *GM*: plus labels (S1–S6 on the Smokehouse; landmarks on the other maps). *Print*: the GM version in a titled frame.
 
 | Map | Squares | FGU (GM / Player / No Grid) | Print |
 |---|---|---|---|
-| M1 Feast Green | 30 × 24 | 3,000 × 2,400 | 2,250 × 1,800 |
-| M2a Smokehouse, ground floor | 20 × 16 | 2,000 × 1,600 | 2,250 × 1,800 |
-| M2b Smokehouse, cellar | 20 × 16 | 2,000 × 1,600 | 2,250 × 1,800 |
-| M3 Jaroo's Grove | 24 × 24 | 2,400 × 2,400 | 2,250 × 2,250 |
-| M4 Emridy Meadows | 30 × 30 | 3,000 × 3,000 | 2,250 × 2,250 |
+| M1 Feast Green | 30 × 24 | 3,000 × 2,400 | 2,330 × 2,100 |
+| M2a Smokehouse, ground floor | 20 × 16 | 2,000 × 1,600 | 2,330 × 2,100 |
+| M2b Smokehouse, cellar | 20 × 16 | 2,000 × 1,600 | 2,330 × 2,100 |
+| M3 Jaroo's Grove | 24 × 24 | 2,400 × 2,400 | 2,330 × 2,550 |
+| M4 Emridy Meadows | 30 × 30 | 3,000 × 3,000 | 2,330 × 2,550 |
 | T1 Map 2 Village of Hommlet *(existing)* | 20-ft scale | 7,318 × 5,654 | 3,000 × 2,450 (10 in) |
 | T1 Map 3 Welcome Wench *(existing)* | 10-ft oblique | 2,712 × 4,968 | 2,250 × 4,388 |
 | T1 Map 4 Traders' Establishment *(existing)* | 5 ft | 1,636 × 2,364 | 2,250 × 4,132 |
@@ -75,7 +77,7 @@ FGU versions at 100 px per 5-ft square; Print versions at 300 dpi, 7.5 in wide (
 - [x] T1 Maps 2–5 copied to `99-Assets/SP-GS01/maps/`
 - [x] M1 Feast Green (Player No Grid; CharGen original in `_source/`)
 - [x] M2 Smokehouse, ground floor and cellar (Player No Grid; CharGen originals in `_source/`)
-- [ ] M3 Jaroo's Grove
-- [ ] M4 Emridy Meadows
-- [ ] All maps exported as GM, Player, Player (No Grid) at 100 px per square, plus Print
+- [x] M3 Jaroo's Grove (Player No Grid; CharGen original in `_source/`)
+- [x] M4 Emridy Meadows (Player No Grid; CharGen original in `_source/`)
+- [x] All maps exported as GM, Player, Player (No Grid) at 100 px per square, plus Print
 - [ ] Added to the FGU module with pins on the keyed areas (H1–H5, S1–S6)
