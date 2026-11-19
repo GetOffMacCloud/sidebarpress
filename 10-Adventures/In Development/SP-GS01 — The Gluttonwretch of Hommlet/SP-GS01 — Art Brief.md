@@ -30,22 +30,24 @@ Color tail: `--v 8.1 --stylize 250 --seed 112601 --no text, letters, signature, 
 
 ## Shot List
 
+All 14 images exist in color and ink in `99-Assets/SP-GS01/` (`SP-GS01 - NN Name (color|ink).png`), made in Canva on 2026-11-18. Color versions were repainted from the ink plates so the compositions match. The cover was changed to **The Open Door** (no monster on the cover); the finished trade-dress cover is `99-Assets/_Covers/Cover — The Gluttonwretch of Hommlet.png`. #08 color is the Midjourney bestiary portrait.
+
 | # | Image | Used in | Color | Print |
 |---|---|---|---|---|
-| 01 | Cover — The Guest Arrives | cover; also Scene 07 opener | ☐ | ☐ |
-| 02 | Brewfest Eve | Scene 01 | ☐ | ☐ |
-| 03 | The Elder's Cellar | Scene 02 | ☐ | ☐ |
-| 04 | The Offering-Heap | Scene 04; bestiary plate | ☐ | ☐ |
-| 05 | Chapel of the Rotting Table | Scene 05 | ☐ | ☐ |
-| 06 | The Roost on Emridy Meadows | Scene 06 | ☐ | ☐ |
-| 07 | The Last Toast | Scene 08 | ☐ | ☐ |
-| 08 | The Gluttonwretch | bestiary plate | ☐ | ☐ |
-| 09 | Second Helpings | bestiary plate | ☐ | ☐ |
-| 10 | Hollow Guests | bestiary plate | ☐ | ☐ |
-| 11 | Deacon Mungo Brindlewick | NPC portrait | ☐ | ☐ |
-| 12 | Wat Thistlewood | NPC portrait | ☐ | ☐ |
-| 13 | Widow Marta Bree | NPC portrait | ☐ | ☐ |
-| 14 | Pudding | spot illustration | ☐ | ☐ |
+| 01 | Cover — The Open Door | cover; also Scene 07 opener | ☑ | ☑ |
+| 02 | Brewfest Eve | Scene 01 | ☑ | ☑ |
+| 03 | The Elder's Cellar | Scene 02 | ☑ | ☑ |
+| 04 | The Offering-Heap | Scene 04; bestiary plate | ☑ | ☑ |
+| 05 | Chapel of the Rotting Table | Scene 05 | ☑ | ☑ |
+| 06 | The Roost on Emridy Meadows | Scene 06 | ☑ | ☑ |
+| 07 | The Last Toast | Scene 08 | ☑ | ☑ |
+| 08 | The Gluttonwretch | bestiary plate | ☑ | ☑ |
+| 09 | Second Helpings | bestiary plate | ☑ | ☑ |
+| 10 | Hollow Guests | bestiary plate | ☑ | ☑ |
+| 11 | Deacon Mungo Brindlewick | NPC portrait | ☑ | ☑ |
+| 12 | Wat Thistlewood | NPC portrait | ☑ | ☑ |
+| 13 | Widow Marta Bree | NPC portrait | ☑ | ☑ |
+| 14 | Pudding | spot illustration | ☑ | ☑ |
 
 ## 01 — Cover — The Guest Arrives
 *Used in: cover; also Scene 07 opener. Print spine: SCENE.*

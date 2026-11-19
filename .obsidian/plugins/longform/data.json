@@ -7,14 +7,14 @@
   "sessions": [
     {
       "start": "2026-11-18T19:18:44.456Z",
-      "total": 357947,
+      "total": 357948,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
           "scenes": {}
         },
         "65-Bestiary/00 — Bestiary Index.md": {
-          "total": 187472,
+          "total": 187473,
           "scenes": {
             "01 — Introduction": 328,
             "02 — Reading an Entry": 309,
@@ -61,7 +61,7 @@
             "Maulbone": 1410,
             "Mnemophage": 3083,
             "Nuckelavee": 1788,
-            "Offering-Heap": 1848,
+            "Offering-Heap": 1849,
             "Pale Chimera": 2592,
             "Root Guardian": 2354,
             "Rot-Wargen": 1693,
