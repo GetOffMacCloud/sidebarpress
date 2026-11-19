@@ -11,7 +11,9 @@ The ironwork and logo are pre-rendered in _logos/ ("_cover band (ironwork).png",
 To redraw them after editing ornament.py, delete those PNGs; that needs rsvg-convert (brew install librsvg),
 scipy and the Cinzel fonts installed.
 
-Usage:  python3 make_covers.py [extra folders to search for downloaded Canva art …]
+Usage:  python3 make_covers.py            ink covers (print)
+        python3 make_covers.py --color    colour covers for codes in COLOR_ART (FGU + PDF)
+        python3 make_covers.py --all      both
   1. Finds the Canva downloads (by their Canva file names) in _Inbox/, the CC-HUB Art/_Inbox and any
      folders passed on the command line, and files them in art/ under readable names.
   2. Writes "Cover — <Title>.png" (1600×2400) next to this script for every leap whose art is present.
@@ -41,6 +43,30 @@ COVERS = [  # art path (vault-relative), series line, title, subtitle, code, ban
     ("99-Assets/SP-GS01/cover/SP-GS01 cover.png", "Greyhawk Special · A Brewfest Adventure",
      "The Gluttonwretch of Hommlet", "A Sidebar Press Greyhawk Adventure", "GS1", "An adventure for 12th-level characters"),
 ]
+
+# full-colour cover art (screen: FGU module and PDF). `python3 make_covers.py --color` builds
+# "Cover — <Title> (color).png" for every code listed here; plain `make_covers.py` still builds the ink covers.
+COLOR_ART = {
+    "GS1": "99-Assets/SP-GS01/SP-GS01 - 01 Cover - The Open Door (color).png",
+}
+
+# colour trade dress: night-dark washes instead of paper, cream lettering, antique-gold ironwork and rules
+INK = dict(paper=(255, 255, 255), wash=235, foot=240, text="black", halo="white", title="black",
+           rule="black", metal=None, plate=None)
+COLOR = dict(paper=(14, 11, 10), wash=225, foot=235, text=(242, 230, 204), halo=(10, 8, 7), title=(240, 212, 148),
+             rule=(196, 156, 82), metal=(196, 156, 82), plate=(243, 233, 210))
+
+def tint(im, metal, plate):
+    """recolour the B&W ironwork/logo: dark line work -> metal, white fills -> plate"""
+    if metal is None: return im
+    px = im.load()
+    for yy in range(im.height):
+        for xx in range(im.width):
+            r, g, b, a = px[xx, yy]
+            if a == 0: continue
+            t = (r + g + b) / 765                                  # 0 = ink line, 1 = white fill
+            px[xx, yy] = tuple(round(m * (1 - t) + p * t) for m, p in zip(metal, plate)) + (a,)
+    return im
 
 # push art down (px) when the subject's head would sit under the title block
 ART_SHIFT = {}   # e.g. {"GS1": 200}
@@ -85,33 +111,34 @@ def centred(draw, y, text, f, fill, stroke=0, stroke_fill="white", spacing=0):
     draw.text(((W - w) / 2, y), text, font=f, fill=fill, stroke_width=stroke, stroke_fill=stroke_fill)
     return y + draw.textbbox((0, 0), text, font=f, stroke_width=stroke)[3]
 
-def make(artpath, series, title, subtitle, code, band):
+def make(artpath, series, title, subtitle, code, band, color=False):
+    st = COLOR if color else INK
     art = Image.open(artpath).convert("RGB")
     s = max(W / art.width, H / art.height)
     art = art.resize((round(art.width * s), round(art.height * s)), Image.LANCZOS)
     art = art.crop(((art.width - W) // 2, (art.height - H) // 2, (art.width - W) // 2 + W, (art.height - H) // 2 + H))
     sh = ART_SHIFT.get(code, 0)
     if sh:
-        moved = Image.new("RGB", (W, H), "white"); moved.paste(art, (0, sh))
+        moved = Image.new("RGB", (W, H), st["paper"]); moved.paste(art, (0, sh))
         fade = Image.new("L", (W, H), 0); fd = ImageDraw.Draw(fade)
         for y in range(sh, sh + 320):                            # feather the art's top edge into paper
             fd.line([(0, y), (W, y)], fill=int(255 * (1 - (y - sh) / 320) ** 1.5))
         fd.rectangle([0, 0, W, sh], fill=255)
-        art = Image.composite(Image.new("RGB", (W, H), "white"), moved, fade)
+        art = Image.composite(Image.new("RGB", (W, H), st["paper"]), moved, fade)
     img = art.convert("RGBA")
     # soft white wash behind the title block so it reads at thumbnail size
     wash = Image.new("RGBA", (W, H), (0, 0, 0, 0)); wd = ImageDraw.Draw(wash)
     top = 640
     for y in range(top):
-        a = int(235 * (1 - (y / top) ** 2.2))
-        wd.line([(0, y), (W, y)], fill=(255, 255, 255, a))
+        a = int(st["wash"] * (1 - (y / top) ** 2.2))
+        wd.line([(0, y), (W, y)], fill=st["paper"] + (a,))
     img = Image.alpha_composite(img, wash)
     d = ImageDraw.Draw(img)
     # thin double rule frame, classic module trade dress
     for inset, wdt in ((28, 6), (44, 2)):
-        d.rectangle([inset, inset, W - inset, H - inset], outline="black", width=wdt)
+        d.rectangle([inset, inset, W - inset, H - inset], outline=st["rule"], width=wdt)
     y = 92
-    y = centred(d, y, series.upper(), font("Cinzel_700Bold.ttf", 38), "black", spacing=6) + 26
+    y = centred(d, y, series.upper(), font("Cinzel_700Bold.ttf", 38), st["text"], spacing=6, stroke=2 if color else 0, stroke_fill=st["halo"]) + 26
     words, lines = title.split(), []
     if len(title) > 15 and len(words) > 1:                       # two-line title, balanced
         best = min(range(1, len(words)), key=lambda i: abs(len(" ".join(words[:i])) - len(" ".join(words[i:]))))
@@ -120,22 +147,23 @@ def make(artpath, series, title, subtitle, code, band):
         lines = [title]
     tf = min((fit(d, ln.upper(), "Cinzel_900Black.ttf", W - 300, 190) for ln in lines), key=lambda f: f.size)
     for ln in lines:
-        y = centred(d, y, ln.upper(), tf, "black", stroke=max(6, tf.size // 16), stroke_fill="white") + 6
-    y = centred(d, y + 14, subtitle, font("EBGaramond_500Medium_Italic.ttf" if (FONTS / "EBGaramond_500Medium_Italic.ttf").exists() else "EBGaramond_400Regular_Italic.ttf", 64), "black", stroke=4)
+        y = centred(d, y, ln.upper(), tf, st["title"], stroke=max(6, tf.size // 16), stroke_fill=st["halo"]) + 6
+    y = centred(d, y + 14, subtitle, font("EBGaramond_500Medium_Italic.ttf" if (FONTS / "EBGaramond_500Medium_Italic.ttf").exists() else "EBGaramond_400Regular_Italic.ttf", 64), st["text"], stroke=4, stroke_fill=st["halo"])
     # foot: wrought-iron frieze with ivy, Sidebar Press shield in a medallion, code and level plaques
     svg, (lx, lcy), pl, pr, bh = ornament.band_svg(W, 360, logo_w=470)
     y0 = H - 50 - bh
     wash = Image.new("RGBA", (W, H), (0, 0, 0, 0)); wd = ImageDraw.Draw(wash)
     for y in range(y0 - 220, H):                                  # fade the art to paper behind the ironwork
         t = min(1, max(0, (y - (y0 - 220)) / 300))
-        wd.line([(0, y), (W, y)], fill=(255, 255, 255, int(240 * t ** 1.6)))
+        wd.line([(0, y), (W, y)], fill=st["paper"] + (int(st["foot"] * t ** 1.6),))
     img = Image.alpha_composite(img, wash)
-    img.alpha_composite(cached(LOGOS / "_cover band (ironwork).png", lambda: ornament.render(svg, W, bh)), (0, y0))
+    img.alpha_composite(tint(cached(LOGOS / "_cover band (ironwork).png", lambda: ornament.render(svg, W, bh)).copy(), st["metal"], st["plate"]), (0, y0))
     lg = cached(LOGOS / "SidebarPress (B&W).png", lambda: ornament.logo(MASCOT)).resize((470, 263), Image.LANCZOS)
+    lg = tint(lg, st["metal"] and (20, 16, 14), st["plate"])          # colour cover: warm black lines on cream
     img.alpha_composite(lg, (round(lx), round(y0 + lcy - lg.height / 2)))
     d = ImageDraw.Draw(img)
     for inset, wdt in ((28, 6), (44, 2)):                         # redraw the frame over the wash
-        d.rectangle([inset, inset, W - inset, H - inset], outline="black", width=wdt)
+        d.rectangle([inset, inset, W - inset, H - inset], outline=st["rule"], width=wdt)
     # left plaque: optional DMs Guild logo + product code
     x, y, w, h = pl; cf = font("Cinzel_900Black.ttf", 66)
     dg = LOGOS / "DMsGuild.png"
@@ -155,12 +183,19 @@ def make(artpath, series, title, subtitle, code, band):
     for i, ln in enumerate((l1, l2)):
         tw = d.textlength(ln, font=bf)
         d.text((x + (w - tw) / 2, y0 + y + 14 + i * 46), ln, font=bf, fill="black")
-    out = HERE / f"Cover — {title}.png"
+    out = HERE / (f"Cover — {title} (color).png" if color else f"Cover — {title}.png")
     img.convert("RGB").save(out, optimize=True)
     return out
 
 if __name__ == "__main__":
+    args = sys.argv[1:]
+    want_color, want_ink = "--color" in args or "--all" in args, "--color" not in args
     for artrel, series, title, subtitle, code, band in COVERS:
-        art = VAULT / artrel
-        if not art.exists(): print("waiting for art:", artrel); continue
-        print("cover →", make(art, series, title, subtitle, code, band).name)
+        if want_ink:
+            art = VAULT / artrel
+            if not art.exists(): print("waiting for art:", artrel)
+            else: print("cover →", make(art, series, title, subtitle, code, band).name)
+        if want_color and code in COLOR_ART:
+            art = VAULT / COLOR_ART[code]
+            if not art.exists(): print("waiting for colour art:", COLOR_ART[code])
+            else: print("cover →", make(art, series, title, subtitle, code, band, color=True).name)
