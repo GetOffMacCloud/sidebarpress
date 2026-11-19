@@ -56,7 +56,7 @@ publish: false
 - [x] Art brief / Midjourney prompt pack written
 - [ ] Title block and cover art done
 - [ ] Homebrewery brew assembled per [[Build-Pipeline]]; PDF exported
-- [ ] Fantasy Grounds module built and exported (per FG checklist in adventure note)
+- [x] Fantasy Grounds module built and exported (per FG checklist in adventure note)
 
 
 ## 5 · Release

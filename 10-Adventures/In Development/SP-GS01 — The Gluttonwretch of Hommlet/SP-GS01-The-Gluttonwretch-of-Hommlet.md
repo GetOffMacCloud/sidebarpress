@@ -121,14 +121,16 @@ Built as a **reference manual** (not story entries), with the vault builder (`70
   - Leave out `99-Assets/SP-GS01/_alternates/` (unused first-pass art and the monster covers).
 - **Item records:** [[Feather of the First Fruits]], [[The Wishbone of Old Gobbler]], [[Brindlewick's Cipher Book]].
 
+**Build:** `FGU Kit/build/module.py` (+ `module_npcs.py`, `module_pages.py`). Run `FG_DIR="$HOME/mnt/Fantasy Grounds" python3 module.py --test`, then `--install`. First built 2026-11-18: 48 pages, 11 NPCs, 10 encounters (7 PCs), 3 items, 33 images (color art + player/GM maps), 14.8 MB. Private stream edition: includes the traced T1 maps.
+
 **Checklist**
-- [ ] Every page above built; `lint` reports no leaked `[[` links
-- [ ] Encounters built and linked from their scene pages
-- [ ] NPC records created and linked (both Gluttonwretch forms)
+- [x] Every page above built; `lint` reports no leaked `[[` links
+- [x] Encounters built and linked from their scene pages
+- [x] NPC records created and linked (both Gluttonwretch forms)
 - [ ] Parcels (treasure) assigned
 - [ ] Maps/images added with pins and LOS
-- [ ] Player handouts flagged shareable
-- [ ] Module exported and versioned
+- [x] Player handouts flagged shareable
+- [x] Module exported and versioned
 
 ## Playtest Notes
 Link session logs: first run planned as a Thanksgiving-week stream (3.5 hours, 7 players).
