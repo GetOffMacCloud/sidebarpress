@@ -27,7 +27,8 @@ WORK=os.path.expanduser(os.environ.get('FG_WORK','~/work/fgu')+'/'+CODE); FLAT=W
 ART={'01 Cover - The Open Door':'cover-art','02 Brewfest Eve':'scene-brewfest-eve',"03 The Elder's Cellar":'scene-the-elders-cellar',
      '04 The Offering-Heap':'npc-offering-heap','05 Chapel of the Rotting Table':'scene-chapel-of-the-rotting-table','06 The Roost on Emridy Meadows':'scene-the-roost',
      '07 The Last Toast':'scene-the-last-toast','08 The Gluttonwretch':'npc-gluttonwretch','09 Second Helpings':'npc-second-helpings','10 Hollow Guests':'npc-hollow-guests',
-     '11 Deacon Mungo Brindlewick':'npc-brindlewick','12 Wat Thistlewood':'npc-wat-thistlewood','13 Widow Marta Bree':'npc-widow-bree','14 Pudding':'npc-pudding'}
+     '11 Deacon Mungo Brindlewick':'npc-brindlewick','12 Wat Thistlewood':'npc-wat-thistlewood','13 Widow Marta Bree':'npc-widow-bree','14 Pudding':'npc-pudding',
+     '15 Brother of the Rotting Table':'npc-brother','16 Earth Elemental':'npc-earth-elemental','17 Rannos Davl':'npc-rannos','18 Gremag':'npc-gremag'}
 MAPS={'M1 Feast Green':'m1-feast-green','M2a Smokehouse Ground Floor':'m2a-smokehouse-ground-floor','M2b Smokehouse Cellar':'m2b-smokehouse-cellar',
       'M3 Jaroos Grove':'m3-jaroos-grove','M4 Emridy Meadows':'m4-emridy-meadows','T1 Map 2 - Village of Hommlet':'t1-village-of-hommlet',
       'T1 Map 3 - Inn of the Welcome Wench':'t1-inn-of-the-welcome-wench',"T1 Map 4 - Traders' Establishment":'t1-traders-establishment',
@@ -82,6 +83,8 @@ def fullnote(p):  # body without the title line and the navigation line under it
 pick=lambda S,*n: '\n'.join('## %s\n%s'%(x,S[x]) for x in n if x in S)
 M=sections(body(MAIN)); F=sections(body(FM)); X=sections(body(IDX))
 exec(open(os.path.join(HERE,'module_npcs.py')).read())
+exec(open(os.path.join(HERE,'module_parcels.py')).read())
+exec(open(os.path.join(HERE,'module_walls.py')).read())
 exec(open(os.path.join(HERE,'module_loc.py')).read())
 exec(open(os.path.join(HERE,'module_pages.py')).read())
 # ---- build ----

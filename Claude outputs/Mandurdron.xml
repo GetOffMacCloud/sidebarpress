@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.4" dataversion="20230911" release="8.1|CoreRPG:6">
+	<character>
+		<name type="string">Mandurdron</name>
+		<race type="string">Octon (Hierarch Modron)</race>
+		<background type="string">Acolyte (Mechanus Functionary)</background>
+		<alignment type="string">Lawful Neutral</alignment>
+		<size type="string">Medium</size>
+		<level type="number">11</level>
+		<profbonus type="number">4</profbonus>
+		<exp type="number">85000</exp>
+		<senses type="string">Darkvision 60 ft., telepathy 60 ft.</senses>
+		<appearance type="string">A squat, drum-shaped hull of riveted brass and grey stone resting on a slowly turning ring. Eight evenly spaced tentacles hang from the ring; a band of unblinking eyes circles the hull so nothing escapes its notice.</appearance>
+		<personalitytraits type="string">I speak in reports, ledgers and directives. Every situation is a sector to be brought into compliance.</personalitytraits>
+		<ideals type="string">Order. A properly assigned task, properly completed, is the highest good.</ideals>
+		<bonds type="string">My sector of Mechanus still awaits my return report. I will deliver it.</bonds>
+		<flaws type="string">I cannot leave a disorganized thing alone, even when it is not my business, or someone else's mess.</flaws>
+		<abilities>
+			<strength>
+				<score type="number">14</score>
+				<bonus type="number">2</bonus>
+				<save type="number">2</save>
+				<saveprof type="number">0</saveprof>
+			</strength>
+			<dexterity>
+				<score type="number">10</score>
+				<bonus type="number">0</bonus>
+				<save type="number">0</save>
+				<saveprof type="number">0</saveprof>
+			</dexterity>
+			<constitution>
+				<score type="number">15</score>
+				<bonus type="number">2</bonus>
+				<save type="number">2</save>
+				<saveprof type="number">0</saveprof>
+			</constitution>
+			<intelligence>
+				<score type="number">11</score>
+				<bonus type="number">0</bonus>
+				<save type="number">0</save>
+				<saveprof type="number">0</saveprof>
+			</intelligence>
+			<wisdom>
+				<score type="number">20</score>
+				<bonus type="number">5</bonus>
+				<save type="number">9</save>
+				<saveprof type="number">1</saveprof>
+			</wisdom>
+			<charisma>
+				<score type="number">8</score>
+				<bonus type="number">-1</bonus>
+				<save type="number">3</save>
+				<saveprof type="number">1</saveprof>
+			</charisma>
+		</abilities>
+		<hp>
+			<total type="number">80</total>
+			<wounds type="number">0</wounds>
+			<temporary type="number">0</temporary>
+		</hp>
+		<defenses>
+			<ac>
+				<armor type="number">6</armor>
+				<shield type="number">2</shield>
+				<misc type="number">0</misc>
+				<total type="number">18</total>
+				<dexbonus type="string">no</dexbonus>
+			</ac>
+		</defenses>
+		<initiative>
+			<misc type="number">0</misc>
+			<total type="number">0</total>
+		</initiative>
+		<speed>
+			<base type="number">30</base>
+			<total type="number">30</total>
+			<special type="string">swim 30 ft.</special>
+		</speed>
+		<perception type="number">19</perception>
+		<classes>
+			<id-00001>
+				<name type="string">Cleric</name>
+				<level type="number">11</level>
+				<hddie type="dice">d8</hddie>
+				<hdused type="number">0</hdused>
+				<casterlevelinvmult type="number">1</casterlevelinvmult>
+				<casterpactmagic type="number">0</casterpactmagic>
+				<specialization type="string">Hierarch Domain</specialization>
+			</id-00001>
+		</classes>
+		<skilllist>
+			<id-00001>
+				<name type="string">Acrobatics</name>
+				<stat type="string">dexterity</stat>
+				<prof type="number">0</prof>
+				<total type="number">0</total>
+			</id-00001>
+			<id-00002>
+				<name type="string">Animal Handling</name>
+				<stat type="string">wisdom</stat>
+				<prof type="number">0</prof>
+				<total type="number">5</total>
+			</id-00002>
+			<id-00003>
+				<name type="string">Arcana</name>
+				<stat type="string">intelligence</stat>
+				<prof type="number">0</prof>
+				<total type="number">0</total>
+			</id-00003>
+			<id-00004>
+				<name type="string">Athletics</name>
+				<stat type="string">strength</stat>
+				<prof type="number">0</prof>
+				<total type="number">2</total>
+			</id-00004>
+			<id-00005>
+				<name type="string">Deception</name>
+				<stat type="string">charisma</stat>
+				<prof type="number">0</prof>
+				<total type="number">-1</total>
+			</id-00005>
+			<id-00006>
+				<name type="string">History</name>
+				<stat type="string">intelligence</stat>
+				<prof type="number">1</prof>
+				<total type="number">4</total>
+			</id-00006>
+			<id-00007>
+				<name type="string">Insight</name>
+				<stat type="string">wisdom</stat>
+				<prof type="number">1</prof>
+				<total type="number">9</total>
+			</id-00007>
+			<id-00008>
+				<name type="string">Intimidation</name>
+				<stat type="string">charisma</stat>
+				<prof type="number">0</prof>
+				<total type="number">-1</total>
+			</id-00008>
+			<id-00009>
+				<name type="string">Investigation</name>
+				<stat type="string">intelligence</stat>
+				<prof type="number">0</prof>
+				<total type="number">0</total>
+			</id-00009>
+			<id-00010>
+				<name type="string">Medicine</name>
+				<stat type="string">wisdom</stat>
+				<prof type="number">1</prof>
+				<total type="number">9</total>
+			</id-00010>
+			<id-00011>
+				<name type="string">Nature</name>
+				<stat type="string">intelligence</stat>
+				<prof type="number">0</prof>
+				<total type="number">0</total>
+			</id-00011>
+			<id-00012>
+				<name type="string">Perception</name>
+				<stat type="string">wisdom</stat>
+				<prof type="number">1</prof>
+				<total type="number">9</total>
+			</id-00012>
+			<id-00013>
+				<name type="string">Performance</name>
+				<stat type="string">charisma</stat>
+				<prof type="number">0</prof>
+				<total type="number">-1</total>
+			</id-00013>
+			<id-00014>
+				<name type="string">Persuasion</name>
+				<stat type="string">charisma</stat>
+				<prof type="number">1</prof>
+				<total type="number">3</total>
+			</id-00014>
+			<id-00015>
+				<name type="string">Religion</name>
+				<stat type="string">intelligence</stat>
+				<prof type="number">1</prof>
+				<total type="number">4</total>
+			</id-00015>
+			<id-00016>
+				<name type="string">Sleight of Hand</name>
+				<stat type="string">dexterity</stat>
+				<prof type="number">0</prof>
+				<total type="number">0</total>
+			</id-00016>
+			<id-00017>
+				<name type="string">Stealth</name>
+				<stat type="string">dexterity</stat>
+				<prof type="number">0</prof>
+				<total type="number">0</total>
+			</id-00017>
+			<id-00018>
+				<name type="string">Survival</name>
+				<stat type="string">wisdom</stat>
+				<prof type="number">0</prof>
+				<total type="number">5</total>
+			</id-00018>
+		</skilllist>
+		<proficiencylist>
+			<id-00001>
+				<name type="string">Armor: Light, medium, heavy, shields</name>
+			</id-00001>
+			<id-00002>
+				<name type="string">Weapons: Simple weapons, tentacles</name>
+			</id-00002>
+			<id-00003>
+				<name type="string">Tools: Calligrapher's supplies</name>
+			</id-00003>
+		</proficiencylist>
+		<languagelist>
+			<id-00001>
+				<name type="string">Common</name>
+			</id-00001>
+			<id-00002>
+				<name type="string">Modron</name>
+			</id-00002>
+			<id-00003>
+				<name type="string">Celestial</name>
+			</id-00003>
+			<id-00004>
+				<name type="string">Auran</name>
+			</id-00004>
+		</languagelist>
+		<traitlist>
+			<id-00001>
+				<name type="string">Ability Score Increase</name>
+				<text type="formattedtext">
+					<p>Your Wisdom score increases by 2, and your Intelligence score increases by 1.</p>
+				</text>
+			</id-00001>
+			<id-00002>
+				<name type="string">Size</name>
+				<text type="formattedtext">
+					<p>Hierarch octons of Mechanus are Large, but Mandurdron is a field-deployed unit compacted to Medium size.</p>
+				</text>
+			</id-00002>
+			<id-00003>
+				<name type="string">Speed</name>
+				<text type="formattedtext">
+					<p>Your base walking speed is 30 feet, and you have a swimming speed of 30 feet.</p>
+				</text>
+			</id-00003>
+			<id-00004>
+				<name type="string">Living Construct</name>
+				<text type="formattedtext">
+					<p>You don't need to eat, drink, or breathe, and you are immune to disease. You have advantage on saving throws against poison and resistance to poison damage. You don't sleep; you finish a long rest by spending 6 hours in an inactive, motionless state, during which you remain aware of your surroundings.</p>
+				</text>
+			</id-00004>
+			<id-00005>
+				<name type="string">All-Around Vision</name>
+				<text type="formattedtext">
+					<p>A ring of eyes circles your hull. You have darkvision out to 60 feet and proficiency in the Perception skill, and you can't be surprised while you are conscious and not blinded.</p>
+				</text>
+			</id-00005>
+			<id-00006>
+				<name type="string">Axiomatic Mind</name>
+				<text type="formattedtext">
+					<p>You have advantage on saving throws against being charmed, and magic can't compel you to act against your alignment or your standing orders.</p>
+				</text>
+			</id-00006>
+			<id-00007>
+				<name type="string">Hierarchy Link</name>
+				<text type="formattedtext">
+					<p>You can speak telepathically to any creature you can see within 60 feet of you that understands at least one language. The creature can answer you through the link.</p>
+				</text>
+			</id-00007>
+			<id-00008>
+				<name type="string">Clockwork Cadence</name>
+				<text type="formattedtext">
+					<p>Modrons act on a fixed schedule. When you roll initiative, you can choose to use 10 + your Dexterity modifier as your result instead of rolling.</p>
+				</text>
+			</id-00008>
+			<id-00009>
+				<name type="string">Tentacle Ring</name>
+				<text type="formattedtext">
+					<p>Your eight tentacles are natural weapons with a reach of 10 feet, which you can use to make unarmed strikes. On a hit, a tentacle deals bludgeoning damage equal to 1d6 + your Strength modifier. You can use your tentacles to manipulate objects, but you can wield no more than one weapon or shield in them at a time.</p>
+				</text>
+			</id-00009>
+			<id-00010>
+				<name type="string">Octon Innate Magic</name>
+				<text type="formattedtext">
+					<p>You can cast water walk on yourself at will, without expending a spell slot. You can also cast detect evil and good once, and you regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells.</p>
+				</text>
+			</id-00010>
+			<id-00011>
+				<name type="string">Hover Field</name>
+				<text type="formattedtext">
+					<p>As a bonus action, you can gain a flying speed of 30 feet for 1 minute, and you can hover. Once you use this trait, you can't use it again until you finish a long rest.</p>
+				</text>
+			</id-00011>
+			<id-00012>
+				<name type="string">Disintegration</name>
+				<text type="formattedtext">
+					<p>If you die, your body disintegrates into dust, leaving behind your gear. Spells that restore life can still return you if cast on your dust.</p>
+				</text>
+			</id-00012>
+			<id-00013>
+				<name type="string">Languages</name>
+				<text type="formattedtext">
+					<p>You can speak, read, and write Common and Modron.</p>
+				</text>
+			</id-00013>
+		</traitlist>
+		<featurelist>
+			<id-00001>
+				<name type="string">Spellcasting</name>
+				<text type="formattedtext">
+					<p>You prepare cleric spells using Wisdom (spell save DC 17, spell attack +9). You can prepare 16 cleric spells per long rest, plus your domain spells, which are always prepared.</p>
+				</text>
+			</id-00001>
+			<id-00002>
+				<name type="string">Channel Divinity (2/rest)</name>
+				<text type="formattedtext">
+					<p>You can channel divine energy twice between rests, choosing Turn Undead or Sector Command each time. You regain expended uses when you finish a short or long rest.</p>
+				</text>
+			</id-00002>
+			<id-00003>
+				<name type="string">Channel Divinity: Turn Undead</name>
+				<text type="formattedtext">
+					<p>As an action, each undead within 30 feet that can see or hear you must make a Wisdom save or be turned for 1 minute or until it takes damage.</p>
+				</text>
+			</id-00003>
+			<id-00004>
+				<name type="string">Destroy Undead (CR 2)</name>
+				<text type="formattedtext">
+					<p>When an undead of CR 2 or lower fails its save against your Turn Undead, it is destroyed instead.</p>
+				</text>
+			</id-00004>
+			<id-00005>
+				<name type="string">Divine Intervention</name>
+				<text type="formattedtext">
+					<p>As an action, call on Primus for aid. Roll percentile dice; if you roll 11 or lower, the intervention occurs. Once it succeeds, you can't use this feature for 7 days; otherwise, you can try again after a long rest.</p>
+				</text>
+			</id-00005>
+			<id-00006>
+				<name type="string">Ability Score Improvements</name>
+				<text type="formattedtext">
+					<p>Level 4: Wisdom +2. Level 8: Wisdom +1, Constitution +1.</p>
+				</text>
+			</id-00006>
+			<id-00007>
+				<name type="string">Hierarch Domain</name>
+				<text type="formattedtext">
+					<p>Your god is the Great Wheel's engine of law, embodied in Primus. You are an octon: a governor of one sector of Mechanus, directing the units beneath you.</p>
+				</text>
+			</id-00007>
+			<id-00008>
+				<name type="string">Hierarch Domain Spells</name>
+				<text type="formattedtext">
+					<p>Always prepared: 1st command, shield of faith; 3rd hold person, zone of truth; 5th clairvoyance, haste; 7th compulsion, dimension door; 9th telekinesis, wall of force.</p>
+				</text>
+			</id-00008>
+			<id-00009>
+				<name type="string">Bonus Proficiencies</name>
+				<text type="formattedtext">
+					<p>At 1st level, you gain proficiency with heavy armor and the History skill.</p>
+				</text>
+			</id-00009>
+			<id-00010>
+				<name type="string">Chain of Command</name>
+				<text type="formattedtext">
+					<p>At 1st level, as a bonus action, you issue a directive to one ally within 60 feet who can hear you or is linked to you telepathically. That ally can immediately use its reaction to make one weapon attack or move up to half its speed without provoking opportunity attacks. You can use this feature a number of times equal to your Wisdom modifier (5), and regain all uses when you finish a long rest.</p>
+				</text>
+			</id-00010>
+			<id-00011>
+				<name type="string">Channel Divinity: Sector Command</name>
+				<text type="formattedtext">
+					<p>At 2nd level, as an action, you speak a single directive to any number of creatures of your choice within 30 feet. Each must make a Wisdom saving throw. On a failure, it follows the directive on its next turn, as the command spell. Creatures immune to being charmed are unaffected.</p>
+				</text>
+			</id-00011>
+			<id-00012>
+				<name type="string">Lawful Ward</name>
+				<text type="formattedtext">
+					<p>At 6th level, you have resistance to psychic damage. When a creature you can see within 30 feet must make a saving throw against being charmed or frightened, you can use your reaction to give it advantage on the save.</p>
+				</text>
+			</id-00012>
+			<id-00013>
+				<name type="string">Octon's Lash</name>
+				<text type="formattedtext">
+					<p>At 8th level, once on each of your turns when you hit a creature with a weapon attack or tentacle, you can deal an extra 1d8 force damage to it. The extra damage increases to 2d8 at 14th level.</p>
+				</text>
+			</id-00013>
+		</featurelist>
+		<weaponlist>
+			<id-00001>
+				<name type="string">Tentacle</name>
+				<type type="number">0</type>
+				<attackstat type="string">strength</attackstat>
+				<prof type="number">1</prof>
+				<attackbonus type="number">0</attackbonus>
+				<properties type="string">Reach (10 ft.)</properties>
+				<handling type="number">0</handling>
+				<damagelist>
+					<id-00001>
+						<dice type="dice">d6</dice>
+						<stat type="string">strength</stat>
+						<bonus type="number">0</bonus>
+						<type type="string">bludgeoning</type>
+					</id-00001>
+				</damagelist>
+			</id-00001>
+		</weaponlist>
+		<inventorylist>
+			<id-00001>
+				<name type="string">Chain mail</name>
+				<type type="string">Armor</type>
+				<subtype type="string">Heavy Armor</subtype>
+				<ac type="number">16</ac>
+				<strength type="string">Str 13</strength>
+				<stealth type="string">Disadvantage</stealth>
+				<count type="number">1</count>
+				<weight type="number">55</weight>
+				<carried type="number">2</carried>
+				<isidentified type="number">1</isidentified>
+			</id-00001>
+			<id-00002>
+				<name type="string">Shield (embossed brass gear)</name>
+				<type type="string">Armor</type>
+				<subtype type="string">Shield</subtype>
+				<ac type="number">2</ac>
+				<count type="number">1</count>
+				<weight type="number">6</weight>
+				<carried type="number">2</carried>
+				<isidentified type="number">1</isidentified>
+			</id-00002>
+			<id-00003>
+				<name type="string">Holy symbol (brass gear of Primus)</name>
+				<type type="string">Adventuring Gear</type>
+				<subtype type="string">Holy Symbol</subtype>
+				<count type="number">1</count>
+				<weight type="number">1</weight>
+				<carried type="number">1</carried>
+				<isidentified type="number">1</isidentified>
+			</id-00003>
+			<id-00004>
+				<name type="string">Sector ledger (iron-bound)</name>
+				<type type="string">Adventuring Gear</type>
+				<count type="number">1</count>
+				<weight type="number">3</weight>
+				<carried type="number">1</carried>
+				<isidentified type="number">1</isidentified>
+			</id-00004>
+			<id-00005>
+				<name type="string">Healer's kit</name>
+				<type type="string">Adventuring Gear</type>
+				<count type="number">1</count>
+				<weight type="number">3</weight>
+				<carried type="number">1</carried>
+				<isidentified type="number">1</isidentified>
+			</id-00005>
+			<id-00006>
+				<name type="string">Calligrapher's supplies</name>
+				<type type="string">Tools</type>
+				<count type="number">1</count>
+				<weight type="number">5</weight>
+				<carried type="number">1</carried>
+				<isidentified type="number">1</isidentified>
+			</id-00006>
+		</inventorylist>
+		<powermeta>
+			<spellslots1>
+				<max type="number">4</max>
+				<used type="number">0</used>
+			</spellslots1>
+			<spellslots2>
+				<max type="number">3</max>
+				<used type="number">0</used>
+			</spellslots2>
+			<spellslots3>
+				<max type="number">3</max>
+				<used type="number">0</used>
+			</spellslots3>
+			<spellslots4>
+				<max type="number">3</max>
+				<used type="number">0</used>
+			</spellslots4>
+			<spellslots5>
+				<max type="number">2</max>
+				<used type="number">0</used>
+			</spellslots5>
+			<spellslots6>
+				<max type="number">1</max>
+				<used type="number">0</used>
+			</spellslots6>
+		</powermeta>
+		<powergroup>
+			<id-00001>
+				<name type="string">Spells</name>
+				<castertype type="string">memorization</castertype>
+				<stat type="string">wisdom</stat>
+				<atkstat type="string">wisdom</atkstat>
+				<savestat type="string">wisdom</savestat>
+			</id-00001>
+			<id-00002>
+				<name type="string">Octon Innate Magic</name>
+				<stat type="string">wisdom</stat>
+				<atkstat type="string">wisdom</atkstat>
+				<savestat type="string">wisdom</savestat>
+			</id-00002>
+			<id-00003>
+				<name type="string">Hierarch Domain</name>
+				<stat type="string">wisdom</stat>
+				<atkstat type="string">wisdom</atkstat>
+				<savestat type="string">wisdom</savestat>
+			</id-00003>
+			<id-00004>
+				<name type="string">Channel Divinity</name>
+				<stat type="string">wisdom</stat>
+				<atkstat type="string">wisdom</atkstat>
+				<savestat type="string">wisdom</savestat>
+			</id-00004>
+		</powergroup>
+		<powers>
+			<id-00001>
+				<name type="string">Guidance</name>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<school type="string">Divination</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Touch</range>
+				<duration type="string">Concentration, up to 1 minute</duration>
+				<description type="formattedtext">
+					<p>Touch a willing creature; once before the spell ends it can add 1d4 to one ability check.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">effect</type>
+						<label type="string">Guidance; CHECK: 1d4</label>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+					</id-00001>
+				</actions>
+			</id-00001>
+			<id-00002>
+				<name type="string">Sacred Flame</name>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<school type="string">Evocation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Radiant flame descends on a creature you can see within range. Dexterity save or 3d8 radiant damage; no benefit from cover.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">dexterity</savetype>
+					</id-00001>
+					<id-00002>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d8,d8,d8</dice>
+								<type type="string">radiant</type>
+							</id-00001>
+						</damagelist>
+					</id-00002>
+				</actions>
+			</id-00002>
+			<id-00003>
+				<name type="string">Toll the Dead</name>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<school type="string">Necromancy</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>A creature you can see within range makes a Wisdom save or takes 3d8 necrotic damage, or 3d12 if it is missing any hit points.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">wisdom</savetype>
+					</id-00001>
+					<id-00002>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d8,d8,d8</dice>
+								<type type="string">necrotic</type>
+							</id-00001>
+						</damagelist>
+					</id-00002>
+					<id-00003>
+						<order type="number">3</order>
+						<type type="string">damage</type>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d12,d12,d12</dice>
+								<type type="string">necrotic</type>
+							</id-00001>
+						</damagelist>
+					</id-00003>
+				</actions>
+			</id-00003>
+			<id-00004>
+				<name type="string">Spare the Dying</name>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<school type="string">Necromancy</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Touch</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Touch a living creature at 0 hit points; it becomes stable.</p>
+				</description>
+			</id-00004>
+			<id-00005>
+				<name type="string">Thaumaturgy</name>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<school type="string">Transmutation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">30 feet</range>
+				<duration type="string">Up to 1 minute</duration>
+				<description type="formattedtext">
+					<p>Create a minor wonder: booming voice, flickering flames, tremors, sounds, slammed doors or altered eyes.</p>
+				</description>
+			</id-00005>
+			<id-00006>
+				<name type="string">Command</name>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<school type="string">Enchantment</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">1 round</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. Speak a one-word command to a creature; Wisdom save or it obeys on its next turn. +1 target per slot level above 1st.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">wisdom</savetype>
+					</id-00001>
+				</actions>
+			</id-00006>
+			<id-00007>
+				<name type="string">Shield of Faith</name>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<school type="string">Abjuration</school>
+				<castingtime type="string">1 bonus action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. A creature within range gains +2 AC.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">effect</type>
+						<label type="string">Shield of Faith; AC: 2</label>
+						<durmod type="number">10</durmod>
+						<durunit type="string">minute</durunit>
+					</id-00001>
+				</actions>
+			</id-00007>
+			<id-00008>
+				<name type="string">Hold Person</name>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<school type="string">Enchantment</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Concentration, up to 1 minute</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. A humanoid makes a Wisdom save or is paralyzed; it repeats the save at the end of each of its turns.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">wisdom</savetype>
+					</id-00001>
+					<id-00002>
+						<order type="number">2</order>
+						<type type="string">effect</type>
+						<label type="string">Paralyzed</label>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+					</id-00002>
+				</actions>
+			</id-00008>
+			<id-00009>
+				<name type="string">Zone of Truth</name>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<school type="string">Enchantment</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">10 minutes</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. A 15-foot-radius sphere where creatures that fail a Charisma save can't knowingly lie.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">charisma</savetype>
+					</id-00001>
+				</actions>
+			</id-00009>
+			<id-00010>
+				<name type="string">Clairvoyance</name>
+				<group type="string">Spells</group>
+				<level type="number">3</level>
+				<school type="string">Divination</school>
+				<castingtime type="string">10 minutes</castingtime>
+				<range type="string">1 mile</range>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. Create an invisible sensor at a familiar or obvious location within 1 mile to see or hear through.</p>
+				</description>
+			</id-00010>
+			<id-00011>
+				<name type="string">Haste</name>
+				<group type="string">Spells</group>
+				<level type="number">3</level>
+				<school type="string">Transmutation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">30 feet</range>
+				<duration type="string">Concentration, up to 1 minute</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. A willing creature gains doubled speed, +2 AC, advantage on Dexterity saves, and an extra limited action each turn. It loses a turn when the spell ends.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">effect</type>
+						<label type="string">Haste; AC: 2; ADVSAV: dexterity</label>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+					</id-00001>
+				</actions>
+			</id-00011>
+			<id-00012>
+				<name type="string">Compulsion</name>
+				<group type="string">Spells</group>
+				<level type="number">4</level>
+				<school type="string">Enchantment</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">30 feet</range>
+				<duration type="string">Concentration, up to 1 minute</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. Creatures of your choice within range make a Wisdom save or you can use a bonus action to direct their movement.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">wisdom</savetype>
+					</id-00001>
+				</actions>
+			</id-00012>
+			<id-00013>
+				<name type="string">Dimension Door</name>
+				<group type="string">Spells</group>
+				<level type="number">4</level>
+				<school type="string">Conjuration</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">500 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. Teleport yourself, and one willing creature, to a spot within 500 feet.</p>
+				</description>
+			</id-00013>
+			<id-00014>
+				<name type="string">Telekinesis</name>
+				<group type="string">Spells</group>
+				<level type="number">5</level>
+				<school type="string">Transmutation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. Move creatures (contested check) or objects up to 1,000 pounds with your mind.</p>
+				</description>
+			</id-00014>
+			<id-00015>
+				<name type="string">Wall of Force</name>
+				<group type="string">Spells</group>
+				<level type="number">5</level>
+				<school type="string">Evocation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">120 feet</range>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<description type="formattedtext">
+					<p>Hierarch Domain spell. Create an invisible, indestructible wall of force, as a dome, sphere or ten 10-foot panels.</p>
+				</description>
+			</id-00015>
+			<id-00016>
+				<name type="string">Bless</name>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<school type="string">Enchantment</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">30 feet</range>
+				<duration type="string">Concentration, up to 1 minute</duration>
+				<description type="formattedtext">
+					<p>Up to three creatures add 1d4 to attack rolls and saving throws.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">effect</type>
+						<label type="string">Bless; ATK: 1d4; SAVE: 1d4</label>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+					</id-00001>
+				</actions>
+			</id-00016>
+			<id-00017>
+				<name type="string">Cure Wounds</name>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<school type="string">Evocation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Touch</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>A creature you touch regains 1d8 + your Wisdom modifier hit points (+1d8 per slot level above 1st).</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">heal</type>
+						<heallist>
+							<id-00001>
+								<dice type="dice">d8</dice>
+								<stat type="string">base</stat>
+							</id-00001>
+						</heallist>
+					</id-00001>
+				</actions>
+			</id-00017>
+			<id-00018>
+				<name type="string">Healing Word</name>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<school type="string">Evocation</school>
+				<castingtime type="string">1 bonus action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>A creature you can see regains 1d4 + your Wisdom modifier hit points (+1d4 per slot level above 1st).</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">heal</type>
+						<heallist>
+							<id-00001>
+								<dice type="dice">d4</dice>
+								<stat type="string">base</stat>
+							</id-00001>
+						</heallist>
+					</id-00001>
+				</actions>
+			</id-00018>
+			<id-00019>
+				<name type="string">Aid</name>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<school type="string">Abjuration</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">30 feet</range>
+				<duration type="string">8 hours</duration>
+				<description type="formattedtext">
+					<p>Up to three creatures gain 5 to their maximum and current hit points (+5 per slot level above 2nd).</p>
+				</description>
+			</id-00019>
+			<id-00020>
+				<name type="string">Lesser Restoration</name>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<school type="string">Abjuration</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Touch</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>End one disease or the blinded, deafened, paralyzed or poisoned condition on a creature you touch.</p>
+				</description>
+			</id-00020>
+			<id-00021>
+				<name type="string">Spiritual Weapon</name>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<school type="string">Evocation</school>
+				<castingtime type="string">1 bonus action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">1 minute</duration>
+				<description type="formattedtext">
+					<p>A floating spectral weapon makes a melee spell attack for 1d8 + your Wisdom modifier force damage; move it and attack again as a bonus action.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<atktype type="string">melee</atktype>
+					</id-00001>
+					<id-00002>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d8</dice>
+								<type type="string">force</type>
+								<stat type="string">base</stat>
+							</id-00001>
+						</damagelist>
+					</id-00002>
+				</actions>
+			</id-00021>
+			<id-00022>
+				<name type="string">Dispel Magic</name>
+				<group type="string">Spells</group>
+				<level type="number">3</level>
+				<school type="string">Abjuration</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">120 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>End spells of 3rd level or lower on a target; higher-level spells need an ability check.</p>
+				</description>
+			</id-00022>
+			<id-00023>
+				<name type="string">Revivify</name>
+				<group type="string">Spells</group>
+				<level type="number">3</level>
+				<school type="string">Necromancy</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Touch</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Return a creature dead no longer than 1 minute to life with 1 hit point (300 gp diamonds, consumed).</p>
+				</description>
+			</id-00023>
+			<id-00024>
+				<name type="string">Spirit Guardians</name>
+				<group type="string">Spells</group>
+				<level type="number">3</level>
+				<school type="string">Conjuration</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Self (15-foot radius)</range>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<description type="formattedtext">
+					<p>Guardian spirits fill a 15-foot radius around you. Enemies have half speed there and take 3d8 radiant damage (Wisdom save for half) when they enter or start their turn there.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">wisdom</savetype>
+						<onmissdamage type="string">half</onmissdamage>
+					</id-00001>
+					<id-00002>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d8,d8,d8</dice>
+								<type type="string">radiant</type>
+							</id-00001>
+						</damagelist>
+					</id-00002>
+				</actions>
+			</id-00024>
+			<id-00025>
+				<name type="string">Banishment</name>
+				<group type="string">Spells</group>
+				<level type="number">4</level>
+				<school type="string">Abjuration</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Concentration, up to 1 minute</duration>
+				<description type="formattedtext">
+					<p>A creature makes a Charisma save or is banished to a harmless demiplane, or to its home plane if it is native elsewhere.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">charisma</savetype>
+					</id-00001>
+				</actions>
+			</id-00025>
+			<id-00026>
+				<name type="string">Death Ward</name>
+				<group type="string">Spells</group>
+				<level type="number">4</level>
+				<school type="string">Abjuration</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Touch</range>
+				<duration type="string">8 hours</duration>
+				<description type="formattedtext">
+					<p>The first time the target would drop to 0 hit points, it drops to 1 instead.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">effect</type>
+						<label type="string">Death Ward</label>
+						<durmod type="number">8</durmod>
+						<durunit type="string">hour</durunit>
+					</id-00001>
+				</actions>
+			</id-00026>
+			<id-00027>
+				<name type="string">Greater Restoration</name>
+				<group type="string">Spells</group>
+				<level type="number">5</level>
+				<school type="string">Abjuration</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Touch</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Remove one level of exhaustion, a charm, a petrification, a curse, or an ability or hit point maximum reduction (100 gp diamond dust).</p>
+				</description>
+			</id-00027>
+			<id-00028>
+				<name type="string">Mass Cure Wounds</name>
+				<group type="string">Spells</group>
+				<level type="number">5</level>
+				<school type="string">Evocation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Up to six creatures in a 30-foot-radius sphere each regain 3d8 + your Wisdom modifier hit points.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">heal</type>
+						<heallist>
+							<id-00001>
+								<dice type="dice">d8,d8,d8</dice>
+								<stat type="string">base</stat>
+							</id-00001>
+						</heallist>
+					</id-00001>
+				</actions>
+			</id-00028>
+			<id-00029>
+				<name type="string">Planar Ally</name>
+				<group type="string">Spells</group>
+				<level type="number">6</level>
+				<school type="string">Conjuration</school>
+				<castingtime type="string">10 minutes</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Petition Primus to send an otherworldly servant, which bargains for payment for its service.</p>
+				</description>
+			</id-00029>
+			<id-00030>
+				<name type="string">Heroes' Feast</name>
+				<group type="string">Spells</group>
+				<level type="number">6</level>
+				<school type="string">Conjuration</school>
+				<castingtime type="string">10 minutes</castingtime>
+				<range type="string">30 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Ten creatures share a feast that cures disease and poison, grants immunity to poison and fear, advantage on Wisdom saves, and 2d10 extra hit points for 24 hours.</p>
+				</description>
+			</id-00030>
+			<id-00031>
+				<name type="string">Blade Barrier</name>
+				<group type="string">Spells</group>
+				<level type="number">6</level>
+				<school type="string">Evocation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">90 feet</range>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<description type="formattedtext">
+					<p>A wall of whirling blades; creatures entering it make a Dexterity save or take 6d10 slashing damage (half on a success).</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">dexterity</savetype>
+						<onmissdamage type="string">half</onmissdamage>
+					</id-00001>
+					<id-00002>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d10,d10,d10,d10,d10,d10</dice>
+								<type type="string">slashing</type>
+							</id-00001>
+						</damagelist>
+					</id-00002>
+				</actions>
+			</id-00031>
+			<id-00032>
+				<name type="string">Water Walk (self)</name>
+				<group type="string">Octon Innate Magic</group>
+				<level type="number">0</level>
+				<school type="string">Transmutation</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Self</range>
+				<duration type="string">1 hour</duration>
+				<description type="formattedtext">
+					<p>At will: you can move across any liquid surface as if it were solid ground.</p>
+				</description>
+			</id-00032>
+			<id-00033>
+				<name type="string">Detect Evil and Good</name>
+				<group type="string">Octon Innate Magic</group>
+				<level type="number">1</level>
+				<school type="string">Divination</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">Self</range>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<description type="formattedtext">
+					<p>Once per long rest: sense aberrations, celestials, elementals, fey, fiends and undead within 30 feet.</p>
+				</description>
+				<prepared type="number">1</prepared>
+				<usesperiod type="string">daily</usesperiod>
+			</id-00033>
+			<id-00034>
+				<name type="string">Hover Field</name>
+				<group type="string">Octon Innate Magic</group>
+				<level type="number">0</level>
+				<castingtime type="string">1 bonus action</castingtime>
+				<range type="string">Self</range>
+				<duration type="string">1 minute</duration>
+				<description type="formattedtext">
+					<p>Bonus action: gain a 30-foot flying speed and hover for 1 minute. Once per long rest.</p>
+				</description>
+				<prepared type="number">1</prepared>
+				<usesperiod type="string">daily</usesperiod>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">effect</type>
+						<label type="string">Hover Field; fly 30 ft. (hover)</label>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+					</id-00001>
+				</actions>
+			</id-00034>
+			<id-00035>
+				<name type="string">Chain of Command</name>
+				<group type="string">Hierarch Domain</group>
+				<level type="number">0</level>
+				<castingtime type="string">1 bonus action</castingtime>
+				<range type="string">60 feet</range>
+				<duration type="string">Instantaneous</duration>
+				<description type="formattedtext">
+					<p>Bonus action: one ally within 60 feet who can hear you or is telepathically linked uses its reaction to make one weapon attack or move half its speed without provoking opportunity attacks.</p>
+				</description>
+				<prepared type="number">5</prepared>
+				<usesperiod type="string">daily</usesperiod>
+			</id-00035>
+			<id-00036>
+				<name type="string">Octon's Lash</name>
+				<group type="string">Hierarch Domain</group>
+				<level type="number">0</level>
+				<description type="formattedtext">
+					<p>Once per turn, when you hit with a weapon attack or tentacle, deal an extra 1d8 force damage.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">damage</type>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d8</dice>
+								<type type="string">force</type>
+							</id-00001>
+						</damagelist>
+					</id-00001>
+				</actions>
+			</id-00036>
+			<id-00037>
+				<name type="string">Lawful Ward</name>
+				<group type="string">Hierarch Domain</group>
+				<level type="number">0</level>
+				<castingtime type="string">1 reaction</castingtime>
+				<range type="string">30 feet</range>
+				<description type="formattedtext">
+					<p>Reaction: when a creature you can see within 30 feet makes a save against being charmed or frightened, give it advantage. You also resist psychic damage.</p>
+				</description>
+			</id-00037>
+			<id-00038>
+				<name type="string">Sector Command</name>
+				<group type="string">Channel Divinity</group>
+				<level type="number">0</level>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">30 feet</range>
+				<duration type="string">1 round</duration>
+				<description type="formattedtext">
+					<p>Action: speak one directive to any number of creatures of your choice within 30 feet. Each makes a Wisdom save or follows it on its next turn, as command. Shares Channel Divinity uses with Turn Undead (2 per short rest).</p>
+				</description>
+				<prepared type="number">2</prepared>
+				<usesperiod type="string">enc</usesperiod>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">wisdom</savetype>
+					</id-00001>
+				</actions>
+			</id-00038>
+			<id-00039>
+				<name type="string">Turn Undead</name>
+				<group type="string">Channel Divinity</group>
+				<level type="number">0</level>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">30 feet</range>
+				<duration type="string">1 minute</duration>
+				<description type="formattedtext">
+					<p>Action: each undead within 30 feet makes a Wisdom save or is turned for 1 minute. Undead of CR 2 or lower that fail are destroyed. Shares uses with Sector Command.</p>
+				</description>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+						<savetype type="string">wisdom</savetype>
+					</id-00001>
+					<id-00002>
+						<order type="number">2</order>
+						<type type="string">effect</type>
+						<label type="string">Turned</label>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+					</id-00002>
+				</actions>
+			</id-00039>
+		</powers>
+	</character>
+</root>

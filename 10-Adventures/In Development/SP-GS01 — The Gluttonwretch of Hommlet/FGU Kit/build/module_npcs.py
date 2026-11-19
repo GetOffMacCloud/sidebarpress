@@ -136,10 +136,15 @@ for it in m._cat('npc').find('brindlewick').find('spells'):
         if nm.startswith(old+' - '): it.find('name').text=new+nm[len(old):]; it.find('desc').text=spelldesc(new)
 # ---- round tokens (combat tracker / map) ----
 for k,t in (('gluttonwretch','token-gluttonwretch'),('secondhelpings','token-second-helpings'),('offeringheap','token-offering-heap'),('gorger','token-gorger'),
-            ('hobtanner','token-gorger'),('flinger','token-flinger'),('brindlewick','token-brindlewick')):
+            ('hobtanner','token-gorger'),('flinger','token-flinger'),('brindlewick','token-brindlewick'),
+            ('brother','token-brother'),('earthelemental','token-earth-elemental'),('rannos','token-rannos'),('gremag','token-gremag')):
     e=m._cat('npc').find(k); old=e.find('token')
     if old is not None: e.remove(old)
     _S(e,'token','token',m.imgpath(t)); m.TOK[k]=m.imgpath(t)
+for k,pic in (('brother','npc-brother'),('earthelemental','npc-earth-elemental'),('rannos','npc-rannos'),('gremag','npc-gremag')):
+    e=m._cat('npc').find(k); old=e.find('picture')
+    if old is not None: e.remove(old)
+    _S(e,'picture','token',m.imgpath(pic))
 # ---- encounters (7 PCs at level 12) ----
 m.battle('E1','04 The Offering-Heap',[('offeringheap',1)],'map-m3-jaroos-grove')
 m.battle('E2','05 The Smokehouse (Alert)',[('brindlewick',1),('brother',2),('earthelemental',2)],'map-m2b-smokehouse-cellar')
@@ -152,7 +157,7 @@ m.battle('X4','07 Second Helpings (phase 2; no extra XP)',[('secondhelpings',1)]
 m._cat('battle').find(m.BAT['X4'].split('.')[1]).find('exp').text='0'
 m.battle('M4','07 Uncured Gorgers (Ma Dunwold and Tam Thistlewood)',[('gorger',2)],'map-m1-feast-green')
 m.battle('T2','02 The Traders (if it comes to blades)',[('rannos',1),('gremag',1)],'map-t1-traders-establishment')
-# ---- token positions on each encounter's map (pixels from the map's top-left; FGU stores them from the centre, y down) ----
+# ---- token positions on each encounter's map (pixels from the map's top-left; FGU stores them from the centre, y UP) ----
 from PIL import Image as _Im
 def _size(k): return _Im.open(os.path.join(m.img,m.IMG[k][1])).size
 def place(code,pos):
@@ -164,7 +169,7 @@ def place(code,pos):
         ml=_S(it,'maplink')
         for j,(x,y) in enumerate(pts,1):
             e=_S(ml,ids(j)); r=_S(e,'imageref','windowreference'); _S(r,'class',None,'imagewindow'); _S(r,'recordname',None,mk+'.image')
-            _S(e,'imagex','number',int(x-W/2)); _S(e,'imagey','number',int(y-H/2))
+            _S(e,'imagex','number',int(x-W/2)); _S(e,'imagey','number',int(H/2-y))
 FEAST={'gluttonwretch':[(1450,350)],'hobtanner':[(550,1150)],'flinger':[(2650,1150)],'brindlewick':[(1350,1850)]}
 place('E1',{'offeringheap':[(1650,450)]})
 place('E2',{'brindlewick':[(1250,450)],'brother':[(1150,650),(1350,650)],'earthelemental':[(700,800),(1800,700)]})

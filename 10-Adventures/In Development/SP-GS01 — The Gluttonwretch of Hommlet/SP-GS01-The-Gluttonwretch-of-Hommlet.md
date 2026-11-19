@@ -127,8 +127,8 @@ Built as a **reference manual** (not story entries), with the vault builder (`70
 - [x] Every page above built; `lint` reports no leaked `[[` links
 - [x] Encounters built and linked from their scene pages
 - [x] NPC records created and linked (both Gluttonwretch forms)
-- [ ] Parcels (treasure) assigned
-- [ ] Maps/images added with pins and LOS
+- [x] Parcels (treasure) assigned
+- [x] Maps/images added with pins and LOS (walls on the 5 battlemaps and the traders' map; token start positions on every encounter)
 - [x] Player handouts flagged shareable
 - [x] Module exported and versioned
 

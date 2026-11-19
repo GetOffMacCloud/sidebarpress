@@ -30,31 +30,31 @@ def scene(sec,n,links=(),place=None):
 G=lambda k: m.I('gm-'+k)
 scene(A1,1,[L('welcomewench'),H("Who's Who in Hommlet"),H("Jaroo's Letter"),m.I('map-t1-inn-of-the-welcome-wench'),G('t1-inn-of-the-welcome-wench')],
       {'scene-brewfest-eve':'Woodsmoke and cider','map-t1-inn-of-the-welcome-wench':'1. The welcome','npc-pudding':'2. The Open Door'})
-scene(A1,2,B('T2')+[L('hommlet'),m.N('rannos'),m.N('gremag'),m.N('gorger'),H('The Cipher Ledger'),m.I('map-t1-village-of-hommlet'),G('t1-village-of-hommlet'),G('t1-traders-establishment'),G('t1-church-of-st-cuthbert')],
+scene(A1,2,B('T2')+[PL('p02bree'),PL('p02traders'),L('hommlet'),m.N('rannos'),m.N('gremag'),m.N('gorger'),H('The Cipher Ledger'),m.I('map-t1-village-of-hommlet'),G('t1-village-of-hommlet'),G('t1-traders-establishment'),G('t1-church-of-st-cuthbert')],
       {'map-t1-village-of-hommlet':'Hommlet at a Glance','map-t1-church-of-st-cuthbert':'H5. CHURCH','scene-the-elders-cellar':'Steps lead down','npc-widow-bree':'>H2. WIDOW','map-t1-traders-establishment':'>H3. THE TRADERS'})
 scene(A1,3,[],{'npc-wat-thistlewood':'2. Wat speaks'})
-scene(A2,4,B('E1')+[L('jaroosgrove'),m.Q('firstfruits'),m.N('offeringheap'),m.I('map-m3-jaroos-grove'),G('m3-jaroos-grove')],{'map-m3-jaroos-grove':'A ring of standing stones','npc-offering-heap':'$end'})
-scene(A2,5,B('E2')+[L('smokehouse'),m.Q('rottingtable'),m.N('brindlewick'),m.N('brother'),m.N('earthelemental'),m.IT('wishbone'),m.IT('cipherbook'),m.I('map-m2a-smokehouse-ground-floor'),G('m2a-smokehouse-ground-floor'),m.I('map-m2b-smokehouse-cellar'),G('m2b-smokehouse-cellar')],
-      {'map-m2a-smokehouse-ground-floor':'S1. THE YARD','map-m2b-smokehouse-cellar':'S4. THE CELLAR','scene-chapel-of-the-rotting-table':'>S5. CHAPEL','npc-brindlewick':'S6. BRINDLEWICK'})
+scene(A2,4,B('E1')+[PL('p04grove'),L('jaroosgrove'),m.Q('firstfruits'),m.N('offeringheap'),m.I('map-m3-jaroos-grove'),G('m3-jaroos-grove')],{'map-m3-jaroos-grove':'A ring of standing stones','npc-offering-heap':'$end'})
+scene(A2,5,B('E2')+[PL('p05smokehouse'),L('smokehouse'),m.Q('rottingtable'),m.N('brindlewick'),m.N('brother'),m.N('earthelemental'),m.IT('wishbone'),m.IT('cipherbook'),m.I('map-m2a-smokehouse-ground-floor'),G('m2a-smokehouse-ground-floor'),m.I('map-m2b-smokehouse-cellar'),G('m2b-smokehouse-cellar')],
+      {'map-m2a-smokehouse-ground-floor':'S1. THE YARD','map-m2b-smokehouse-cellar':'S4. THE CELLAR','scene-chapel-of-the-rotting-table':'>S5. CHAPEL','npc-brindlewick':'S6. BRINDLEWICK','npc-brother':'>S5. CHAPEL'})
 scene(A2,6,B('E3')+[L('emridymeadows'),m.Q('roost'),m.N('gluttonwretch'),m.N('gorger'),m.N('flinger'),m.I('map-m4-emridy-meadows'),G('m4-emridy-meadows')],{'map-m4-emridy-meadows':'Grass grows high','scene-the-roost':'1. The roost'})
-scene(A3,7,B('E4a','E4b','E4c','E4d','X4','M4')+[L('feastgreen'),m.Q('brewfest'),m.N('gluttonwretch'),m.N('secondhelpings'),m.N('hobtanner'),m.N('flinger'),m.N('brindlewick'),m.IT('wishbone'),m.IT('feather'),m.I('map-m1-feast-green'),G('m1-feast-green')],
+scene(A3,7,B('E4a','E4b','E4c','E4d','X4','M4')+[PL('p07endinga'),PL('p07endingb'),L('feastgreen'),m.Q('brewfest'),m.N('gluttonwretch'),m.N('secondhelpings'),m.N('hobtanner'),m.N('flinger'),m.N('brindlewick'),m.IT('wishbone'),m.IT('feather'),m.I('map-m1-feast-green'),G('m1-feast-green')],
       {'map-m1-feast-green':'Long tables run','cover-art':'Something fills','npc-gluttonwretch':'Part C'})
-scene(A3,8,[m.IT('feather')],{'scene-the-last-toast':'Nobody goes home'})
-m.page(A3,'Concluding the Adventure',C(pick(F,'Concluding the Adventure')),links=[m.IT('feather'),m.IT('wishbone'),m.IT('cipherbook')])
+scene(A3,8,[m.IT('feather'),PL('p07endinga'),PL('p07endingb')],{'scene-the-last-toast':'Nobody goes home'})
+m.page(A3,'Concluding the Adventure',C(pick(F,'Concluding the Adventure')),links=[m.IT('feather'),m.IT('wishbone'),m.IT('cipherbook'),PL('p07endinga'),PL('p07endingb')])
 BI=['npc-gluttonwretch','npc-second-helpings','npc-offering-heap','npc-hollow-guests','npc-brindlewick']
 m.page(AP,'Bestiary',C(fullnote(BEST)),images=BI,place={'npc-gluttonwretch':'>The Gluttonwretch','npc-second-helpings':'>The Gluttonwretch, Second Helpings','npc-offering-heap':'>The Offering-Heap',
        'npc-hollow-guests':'>Hollow Guests','npc-brindlewick':'>Deacon Mungo Brindlewick'},links=[m.N(k) for k in m.NPC])
 for nm in ('The First Fruits','The Gorgings','Comedy Kit'): m.page(AP,nm,C(fullnote(P('*— %s.md'%nm))))
 for title,(h,ln) in sorted(HO.items()): m.page(AP,title,C(fullnote(h)),links=[ln])
 m.page(AP,'Magic Items','<h>Magic Items</h><p>Click a name to open the item record, which you can drag to a character sheet.</p>'+''.join(
-       '<p><b>%s</b></p><linklist><link class="item" recordname="%s">%s</link></linklist>'%(html.escape(m.ITEMN[k]),m.ITEM[k],html.escape(m.ITEMN[k])) for k in ('feather','wishbone','cipherbook')))
+       '<p><b>%s</b></p><linklist><link class="item" recordname="%s">%s</link></linklist>'%(html.escape(m.ITEMN[k]),m.ITEM[k],html.escape(m.ITEMN[k])) for k in ('feather','wishbone','cipherbook','hearthfeather','lastfeather','scroll','wishbonehalf','ledger','slate')))
 MP=['map-'+k for k in MAPS.values()]+['gm-'+k for k in MAPS.values()]
 m.page(AP,'Maps','<p>Player maps have no grid: in Fantasy Grounds set the grid to <b>100 px = 5 ft.</b> The GM versions carry the area keys. The four T1 maps are traced from the 1979 module for private use.</p>',images=[],links=[m.I(k) for k in MP])
 # ---- People & Places: every outside note the adventure links to ----
 OUTSIDE=['Hommlet','Inn of the Welcome Wench',"Jaroo's Grove",'The Smokehouse (Hommlet)','Emridy Meadows','Viscounty-of-Verbobonc','The-Common-Year-Calendar',
          'Canon Terjon','Deacon Mungo Brindlewick','Goodwife Gundigoot','Ostler Gundigoot','Jaroo Ashstaff','Lissa (Hommlet)','Mytch the Miller','Pip Haddle','Pudding',
          'Rannos Davl','Gremag','The Elder of Hommlet','Wat Thistlewood','Widow Marta Bree','The Rotting Table',"The Temple's Long Shadow"]
-PIC={'Deacon Mungo Brindlewick':'npc-brindlewick','Wat Thistlewood':'npc-wat-thistlewood','Widow Marta Bree':'npc-widow-bree','Pudding':'npc-pudding'}
+PIC={'Rannos Davl':'npc-rannos','Gremag':'npc-gremag','Deacon Mungo Brindlewick':'npc-brindlewick','Wat Thistlewood':'npc-wat-thistlewood','Widow Marta Bree':'npc-widow-bree','Pudding':'npc-pudding'}
 REC={'Deacon Mungo Brindlewick':[m.N('brindlewick')],'Rannos Davl':[m.N('rannos'),m.B('T2')],'Gremag':[m.N('gremag'),m.B('T2')]}
 for n in OUTSIDE:
     t=fullnote(NOTEP(n)); im=[PIC[n]] if n in PIC else []
