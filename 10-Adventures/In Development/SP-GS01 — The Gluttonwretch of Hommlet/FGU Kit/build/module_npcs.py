@@ -134,6 +134,12 @@ for it in m._cat('npc').find('brindlewick').find('spells'):
     nm=it.findtext('name')
     for old,new in (('Fireball','Stinking Cloud'),('Ice Storm','Blight'),('Cone Of Cold','Cloudkill'),('Cone of Cold','Cloudkill')):
         if nm.startswith(old+' - '): it.find('name').text=new+nm[len(old):]; it.find('desc').text=spelldesc(new)
+# ---- round tokens (combat tracker / map) ----
+for k,t in (('gluttonwretch','token-gluttonwretch'),('secondhelpings','token-second-helpings'),('offeringheap','token-offering-heap'),('gorger','token-gorger'),
+            ('hobtanner','token-gorger'),('flinger','token-flinger'),('brindlewick','token-brindlewick')):
+    e=m._cat('npc').find(k); old=e.find('token')
+    if old is not None: e.remove(old)
+    _S(e,'token','token',m.imgpath(t)); m.TOK[k]=m.imgpath(t)
 # ---- encounters (7 PCs at level 12) ----
 m.battle('E1','04 The Offering-Heap',[('offeringheap',1)],'map-m3-jaroos-grove')
 m.battle('E2','05 The Smokehouse (Alert)',[('brindlewick',1),('brother',2),('earthelemental',2)],'map-m2b-smokehouse-cellar')
@@ -146,6 +152,27 @@ m.battle('X4','07 Second Helpings (phase 2; no extra XP)',[('secondhelpings',1)]
 m._cat('battle').find(m.BAT['X4'].split('.')[1]).find('exp').text='0'
 m.battle('M4','07 Uncured Gorgers (Ma Dunwold and Tam Thistlewood)',[('gorger',2)],'map-m1-feast-green')
 m.battle('T2','02 The Traders (if it comes to blades)',[('rannos',1),('gremag',1)],'map-t1-traders-establishment')
+# ---- token positions on each encounter's map (pixels from the map's top-left; FGU stores them from the centre, y down) ----
+from PIL import Image as _Im
+def _size(k): return _Im.open(os.path.join(m.img,m.IMG[k][1])).size
+def place(code,pos):
+    b=m._cat('battle').find(m.BAT[code].split('.')[1]); mk=b.find('maplink').findtext('recordname'); key=[k for k,v in m.IMG.items() if 'image.'+v[0]==mk][0]
+    W,H=_size(key); used={}
+    for it in b.find('npclist'):
+        n=it.find('link').findtext('recordname').split('.')[1]; pts=pos[n][used.get(n,0):used.get(n,0)+int(it.findtext('count'))]; used[n]=used.get(n,0)+len(pts)
+        assert len(pts)==int(it.findtext('count')),'%s: need %s positions for %s'%(code,it.findtext('count'),n)
+        ml=_S(it,'maplink')
+        for j,(x,y) in enumerate(pts,1):
+            e=_S(ml,ids(j)); r=_S(e,'imageref','windowreference'); _S(r,'class',None,'imagewindow'); _S(r,'recordname',None,mk+'.image')
+            _S(e,'imagex','number',int(x-W/2)); _S(e,'imagey','number',int(y-H/2))
+FEAST={'gluttonwretch':[(1450,350)],'hobtanner':[(550,1150)],'flinger':[(2650,1150)],'brindlewick':[(1350,1850)]}
+place('E1',{'offeringheap':[(1650,450)]})
+place('E2',{'brindlewick':[(1250,450)],'brother':[(1150,650),(1350,650)],'earthelemental':[(700,800),(1800,700)]})
+place('E3',{'gluttonwretch':[(1750,1050)],'gorger':[(1050,1550)],'flinger':[(2550,1250)]})
+for c in ('E4a','E4b','E4c','E4d'): place(c,FEAST)
+place('X4',{'secondhelpings':[(1450,650)]})
+place('M4',{'gorger':[(650,750),(2250,750)]})
+place('T2',{'rannos':[(710,2090)],'gremag':[(1118,1920)]})
 # ---- items ----
 def itemtext(p):
     t=fullnote(p); t=re.split(r'\n## (?:Found In|Continuity)',t)[0]

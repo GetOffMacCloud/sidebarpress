@@ -45,10 +45,16 @@ for t,k in MAPS.items():
     for f in glob.glob(os.path.join(ASSETS,'maps','%s - %s - *.png'%(CODE,t))):
         if ' - Player (No Grid) (FGU' in f: put(f,'map-'+k)
         elif ' - GM (FGU' in f: put(f,'gm-'+k)
+TOKENS={'token-gluttonwretch':os.path.join(VAULT,'99-Assets','Bestiary','FGU','Tokens','Gluttonwretch — Token.png'),
+        'token-offering-heap':os.path.join(VAULT,'99-Assets','Bestiary','FGU','Tokens','Offering-Heap — Token.png')}
+for f in glob.glob(os.path.join(ASSETS,'tokens','%s token-*.png'%CODE)): TOKENS[os.path.basename(f)[len(CODE)+1:-4]]=f
+for k,f in TOKENS.items(): put(f,k)
 put(os.path.join(VAULT,'99-Assets','_Covers','Cover — The Gluttonwretch of Hommlet (color).png'),'cover')  # the colour trade-dress cover
 m=Mod(NAME,DISPLAY,'Sidebar Press','Sidebar Press',FG,WORK,text_map=TEXT_MAP)
 _pretty=m.pretty; m.pretty=lambda n: PRETTY.get(n) or _pretty(n)
 m.images(FLAT)
+for k in [k for k in m.IMG if re.match(r'(map|gm)-m\d',k)]:  # Sidebar Press battlemaps are drawn at 100 px = 5 ft.
+    im=m._cat('image').find(m.IMG[k][0]).find('image'); g=ET.Element('grid'); g.text='on'; gs=ET.Element('gridsize'); gs.text='100,100'; im.insert(0,gs); im.insert(0,g)
 P=lambda pat: glob.glob(os.path.join(SRC,pat))[0]
 SC=lambda n: P('Scenes/Scene %02d —*.md'%n)
 def NOTEP(name):
@@ -76,6 +82,7 @@ def fullnote(p):  # body without the title line and the navigation line under it
 pick=lambda S,*n: '\n'.join('## %s\n%s'%(x,S[x]) for x in n if x in S)
 M=sections(body(MAIN)); F=sections(body(FM)); X=sections(body(IDX))
 exec(open(os.path.join(HERE,'module_npcs.py')).read())
+exec(open(os.path.join(HERE,'module_loc.py')).read())
 exec(open(os.path.join(HERE,'module_pages.py')).read())
 # ---- build ----
 m.LINT=[r'SP-GS01-The',r'SP-GS01 — (?!The Gluttonwretch of Hommlet)',r'Fantasy Grounds NPC record',r'Source of truth']

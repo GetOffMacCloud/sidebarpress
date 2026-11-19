@@ -259,7 +259,7 @@ class Mod:
         libkey=re.sub(r'[^a-z0-9]','',s.name.lower()); le=_S(_S(s.root,'library'),libkey); le.set('static','true')
         _S(le,'categoryname','string',s.category); _S(le,'name','string',libkey); en=_S(le,'entries')
         x=_S(en,'_story_book'); _WR(x,'librarylink','reference_manual','reference.refmanualindex'); _S(x,'name','string','Book - '+s.display)
-        for tag,label in (('battle','Encounters'),('encounter','Story'),('image','Images'),('item','Items'),('npc','NPCs'),('quest','Quests'),('spell','Spells')):
+        for tag,label in (('battle','Encounters'),('encounter','Story'),('image','Images'),('item','Items'),('location','Locations'),('npc','NPCs'),('quest','Quests'),('spell','Spells')):
             if tag in s.cat: x=_S(en,tag); _WR(x,'librarylink','reference_list','..'); _S(x,'name','string',label); _S(x,'recordtype','string',tag)
         ET.indent(s.root,'\t'); db=b'<?xml version="1.0" encoding="utf-8"?>\n'+ET.tostring(s.root,encoding='utf-8'); s.check(db); s.lint(db)
         d='<?xml version="1.0" encoding="utf-8"?>\n<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">\n\t<name>%s</name>\n\t<displayname>%s</displayname>\n\t<category>%s</category>\n\t<author>%s</author>\n\t<ruleset>5E</ruleset>\n</root>\n'%tuple(html.escape(x) for x in (s.name,s.display,s.category,s.author))

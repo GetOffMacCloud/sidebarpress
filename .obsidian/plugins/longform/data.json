@@ -7,14 +7,14 @@
   "sessions": [
     {
       "start": "2026-11-18T19:18:44.456Z",
-      "total": 357948,
+      "total": 357951,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
           "scenes": {}
         },
         "65-Bestiary/00 — Bestiary Index.md": {
-          "total": 187473,
+          "total": 187476,
           "scenes": {
             "01 — Introduction": 328,
             "02 — Reading an Entry": 309,
@@ -61,7 +61,7 @@
             "Maulbone": 1410,
             "Mnemophage": 3083,
             "Nuckelavee": 1788,
-            "Offering-Heap": 1849,
+            "Offering-Heap": 1850,
             "Pale Chimera": 2592,
             "Root Guardian": 2354,
             "Rot-Wargen": 1693,
@@ -82,7 +82,7 @@
             "The Endless Howl": 2348,
             "Eylandra Stormchant": 3674,
             "Glazryth, the Pale Terror": 2668,
-            "Gluttonwretch": 5490,
+            "Gluttonwretch": 5492,
             "Gorzak the Flaymaster": 2413,
             "Grakh Unscarred": 2742,
             "The Marrowmother": 2906,
