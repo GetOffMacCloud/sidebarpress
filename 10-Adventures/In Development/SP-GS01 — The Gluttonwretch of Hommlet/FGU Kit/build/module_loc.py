@@ -22,7 +22,7 @@ def locnote(n): return C(fullnote(NOTEP(n)))
 S2=sections(fullnote(SC(2))); S5=sections(fullnote(SC(5))); S4=sections(fullnote(SC(4))); S7=sections(fullnote(SC(7)))
 H=keyed(S2['Hommlet at a Glance'],'H'); SK=keyed(S5['Keyed Areas'],'S')
 HPIC={'H2':'npc-widow-bree','H3':'map-t1-traders-establishment','H5':'map-t1-church-of-st-cuthbert','H1':'scene-the-elders-cellar'}
-HREC={'H3':[m.N('rannos'),m.N('gremag'),m.B('T2')],'H5':[m.N('gorger')]}
+HREC={'H3':[m.N('rannos'),m.N('gremag'),m.B('T2'),m.I('npc-rannos-and-gremag'),m.I('token-rannos-alt'),m.I('token-gremag-alt')],'H5':[m.N('gorger')]}
 for c,(t,b) in H.items():
     location('hommlet'+c.lower(),'%s. %s'%(c,t),'Building',links(C(b),HREC.get(c,[])),picture=HPIC.get(c))
 SPIC={'S5':'scene-chapel-of-the-rotting-table'}

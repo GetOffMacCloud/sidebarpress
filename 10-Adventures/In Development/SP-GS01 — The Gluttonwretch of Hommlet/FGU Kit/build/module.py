@@ -28,12 +28,12 @@ ART={'01 Cover - The Open Door':'cover-art','02 Brewfest Eve':'scene-brewfest-ev
      '04 The Offering-Heap':'npc-offering-heap','05 Chapel of the Rotting Table':'scene-chapel-of-the-rotting-table','06 The Roost on Emridy Meadows':'scene-the-roost',
      '07 The Last Toast':'scene-the-last-toast','08 The Gluttonwretch':'npc-gluttonwretch','09 Second Helpings':'npc-second-helpings','10 Hollow Guests':'npc-hollow-guests',
      '11 Deacon Mungo Brindlewick':'npc-brindlewick','12 Wat Thistlewood':'npc-wat-thistlewood','13 Widow Marta Bree':'npc-widow-bree','14 Pudding':'npc-pudding',
-     '15 Brother of the Rotting Table':'npc-brother','16 Earth Elemental':'npc-earth-elemental','17 Rannos Davl':'npc-rannos','18 Gremag':'npc-gremag'}
+     '15 Brother of the Rotting Table':'npc-brother','16 Earth Elemental':'npc-earth-elemental','17 Rannos Davl':'npc-rannos','18 Gremag':'npc-gremag','19 Rannos and Gremag':'npc-rannos-and-gremag'}
 MAPS={'M1 Feast Green':'m1-feast-green','M2a Smokehouse Ground Floor':'m2a-smokehouse-ground-floor','M2b Smokehouse Cellar':'m2b-smokehouse-cellar',
       'M3 Jaroos Grove':'m3-jaroos-grove','M4 Emridy Meadows':'m4-emridy-meadows','T1 Map 2 - Village of Hommlet':'t1-village-of-hommlet',
       'T1 Map 3 - Inn of the Welcome Wench':'t1-inn-of-the-welcome-wench',"T1 Map 4 - Traders' Establishment":'t1-traders-establishment',
       'T1 Map 5 - Church of St Cuthbert':'t1-church-of-st-cuthbert'}
-PRETTY={'cover':'Cover','cover-art':'Scene Art — The Open Door','npc-brindlewick':'NPC — Deacon Mungo Brindlewick','npc-widow-bree':'NPC — Widow Marta Bree',
+PRETTY={'npc-rannos-and-gremag':'NPC — Rannos Davl and Gremag (the traders)','token-rannos-alt':'Token — Rannos Davl (alternate)','token-gremag-alt':'Token — Gremag (alternate)','cover':'Cover','cover-art':'Scene Art — The Open Door','npc-brindlewick':'NPC — Deacon Mungo Brindlewick','npc-widow-bree':'NPC — Widow Marta Bree',
         'scene-the-elders-cellar':"Scene Art — The Elder's Cellar",'scene-the-roost':'Scene Art — The Roost on Emridy Meadows'}
 for t,k in MAPS.items():
     lab=t.replace('Jaroos',"Jaroo's").replace(' - ',': ')
@@ -91,6 +91,9 @@ exec(open(os.path.join(HERE,'module_pages.py')).read())
 m.LINT=[r'SP-GS01-The',r'SP-GS01 — (?!The Gluttonwretch of Hommlet)',r'Fantasy Grounds NPC record',r'Source of truth']
 OUT=os.path.join(ADV,'FGU Kit',NAME+'.mod'); os.makedirs(os.path.dirname(OUT),exist_ok=True)
 m.build(WORK+'.mod',cover_image='cover')
+# every round token also goes in the module's token bag (Tokens window)
+with zipfile.ZipFile(WORK+'.mod','a') as z:
+    for k,f in sorted(TOKENS.items()): z.write(f,'tokens/%s.png'%PRETTY.get(k,m.pretty(k)).replace('Token — ','').replace('Token ','').replace('/','-'))
 if '--test' in sys.argv: sys.exit(0)  # build and lint only; leave the shipped .mod alone
 shutil.copyfile(WORK+'.mod',OUT)
 if '--install' in sys.argv: shutil.copyfile(OUT,os.path.join(FG,'modules',NAME+'.mod')); print('installed to FG modules')

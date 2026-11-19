@@ -31,7 +31,7 @@ G=lambda k: m.I('gm-'+k)
 scene(A1,1,[L('welcomewench'),H("Who's Who in Hommlet"),H("Jaroo's Letter"),m.I('map-t1-inn-of-the-welcome-wench'),G('t1-inn-of-the-welcome-wench')],
       {'scene-brewfest-eve':'Woodsmoke and cider','map-t1-inn-of-the-welcome-wench':'1. The welcome','npc-pudding':'2. The Open Door'})
 scene(A1,2,B('T2')+[PL('p02bree'),PL('p02traders'),L('hommlet'),m.N('rannos'),m.N('gremag'),m.N('gorger'),H('The Cipher Ledger'),m.I('map-t1-village-of-hommlet'),G('t1-village-of-hommlet'),G('t1-traders-establishment'),G('t1-church-of-st-cuthbert')],
-      {'map-t1-village-of-hommlet':'Hommlet at a Glance','map-t1-church-of-st-cuthbert':'H5. CHURCH','scene-the-elders-cellar':'Steps lead down','npc-widow-bree':'>H2. WIDOW','map-t1-traders-establishment':'>H3. THE TRADERS'})
+      {'map-t1-village-of-hommlet':'Hommlet at a Glance','map-t1-church-of-st-cuthbert':'H5. CHURCH','scene-the-elders-cellar':'Steps lead down','npc-widow-bree':'>H2. WIDOW','map-t1-traders-establishment':'>H3. THE TRADERS','npc-rannos-and-gremag':'>H3. THE TRADERS'})
 scene(A1,3,[],{'npc-wat-thistlewood':'2. Wat speaks'})
 scene(A2,4,B('E1')+[PL('p04grove'),L('jaroosgrove'),m.Q('firstfruits'),m.N('offeringheap'),m.I('map-m3-jaroos-grove'),G('m3-jaroos-grove')],{'map-m3-jaroos-grove':'A ring of standing stones','npc-offering-heap':'$end'})
 scene(A2,5,B('E2')+[PL('p05smokehouse'),L('smokehouse'),m.Q('rottingtable'),m.N('brindlewick'),m.N('brother'),m.N('earthelemental'),m.IT('wishbone'),m.IT('cipherbook'),m.I('map-m2a-smokehouse-ground-floor'),G('m2a-smokehouse-ground-floor'),m.I('map-m2b-smokehouse-cellar'),G('m2b-smokehouse-cellar')],
@@ -55,7 +55,7 @@ OUTSIDE=['Hommlet','Inn of the Welcome Wench',"Jaroo's Grove",'The Smokehouse (H
          'Canon Terjon','Deacon Mungo Brindlewick','Goodwife Gundigoot','Ostler Gundigoot','Jaroo Ashstaff','Lissa (Hommlet)','Mytch the Miller','Pip Haddle','Pudding',
          'Rannos Davl','Gremag','The Elder of Hommlet','Wat Thistlewood','Widow Marta Bree','The Rotting Table',"The Temple's Long Shadow"]
 PIC={'Rannos Davl':'npc-rannos','Gremag':'npc-gremag','Deacon Mungo Brindlewick':'npc-brindlewick','Wat Thistlewood':'npc-wat-thistlewood','Widow Marta Bree':'npc-widow-bree','Pudding':'npc-pudding'}
-REC={'Deacon Mungo Brindlewick':[m.N('brindlewick')],'Rannos Davl':[m.N('rannos'),m.B('T2')],'Gremag':[m.N('gremag'),m.B('T2')]}
+REC={'Deacon Mungo Brindlewick':[m.N('brindlewick')],'Rannos Davl':[m.N('rannos'),m.B('T2'),m.I('token-rannos-alt')],'Gremag':[m.N('gremag'),m.B('T2'),m.I('token-gremag-alt')]}
 for n in OUTSIDE:
-    t=fullnote(NOTEP(n)); im=[PIC[n]] if n in PIC else []
+    t=fullnote(NOTEP(n)); im=([PIC[n]] if n in PIC else [])+(['npc-rannos-and-gremag'] if n in ('Rannos Davl','Gremag') else [])
     m.page(PP,fgconv.NAMES.get(n,n),C(t),images=im,links=REC.get(n,[]))
