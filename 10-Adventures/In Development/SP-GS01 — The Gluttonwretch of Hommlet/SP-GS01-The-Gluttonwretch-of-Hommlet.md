@@ -113,6 +113,12 @@ Built as a **reference manual** (not story entries), with the vault builder (`70
 - **Notes outside the folder (one page each):** [[Brindlewick's Cipher Book]], [[Canon Terjon]], [[Deacon Mungo Brindlewick]], [[Emridy Meadows]], [[Feather of the First Fruits]], [[Gluttonwretch]], [[Goodwife Gundigoot]], [[Gremag]], [[Hommlet]], [[Inn of the Welcome Wench]], [[Jaroo Ashstaff]], [[Jaroo's Grove]], [[Lissa (Hommlet)]], [[Mytch the Miller]], [[Offering-Heap]], [[Ostler Gundigoot]], [[Pip Haddle]], [[Pudding]], [[Rannos Davl]], [[The Elder of Hommlet]], [[The Rotting Table]], [[The Smokehouse (Hommlet)]], [[The Temple's Long Shadow]], [[The Wishbone of Old Gobbler]], [[The-Common-Year-Calendar]], [[Viscounty-of-Verbobonc]], [[Wat Thistlewood]], [[Widow Marta Bree]]
 - **NPC records:** the Gluttonwretch and the Gluttonwretch, Second Helpings (two records), the Offering-Heap, Brindlewick (Mage reskin), Gorger (Mummy reskin), Flinger (Wight reskin), Brother of the Rotting Table (Gladiator reskin), earth elemental, and Rannos and Gremag from the T1 conversion.
 - **Images:** the maps in [[SP-GS01 — Map Assets]] (GM and Player versions, pinned to H1–H5 and S1–S6), plus the color art from the [[SP-GS01 — Art Brief]].
+- **Art: color only.** The module uses the `(color)` files; the `(ink)` files are print-only and must never go into the build. Everything is in place:
+  - **Module cover and thumbnail:** `99-Assets/_Covers/Cover — The Gluttonwretch of Hommlet (color).png` (not the B&W `Cover — The Gluttonwretch of Hommlet.png`). The bare painting, `SP-GS01 - 01 Cover - The Open Door (color).png`, is `cover-art`.
+  - **Scene art:** `99-Assets/SP-GS01/SP-GS01 - 02–07 … (color).png`, one per scene as listed in the Art Brief.
+  - **NPC portraits:** `SP-GS01 - 11 Deacon Mungo Brindlewick (color).png`, `12 Wat Thistlewood (color)`, `13 Widow Marta Bree (color)`, `14 Pudding (color)`.
+  - **Creature portraits:** Gluttonwretch and Offering-Heap from `99-Assets/Bestiary/FGU/Portraits/`; Second Helpings and Hollow Guests from `SP-GS01 - 09` and `10 … (color).png`.
+  - Leave out `99-Assets/SP-GS01/_alternates/` (unused first-pass art and the monster covers).
 - **Item records:** [[Feather of the First Fruits]], [[The Wishbone of Old Gobbler]], [[Brindlewick's Cipher Book]].
 
 **Checklist**
