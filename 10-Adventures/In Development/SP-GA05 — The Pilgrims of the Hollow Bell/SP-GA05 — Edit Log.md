@@ -36,7 +36,7 @@ publish: false
 
 **Still open**
 - Canva handout edits are drafted and waiting for approval to save, then export and rebuild.
-- Re-renders needed (not Canva): dark beacon scene; Halse, clerk and Grukka portraits; four top-down battle maps with grid and labels, plus a tower floor plan; route overview; one token frame; Beory card art (figurine, not a disk); number the Nerull card.
+- Re-renders needed: dark beacon scene; Halse, clerk and Grukka portraits; top-down battle maps for Hollen Ford relay (incl. tower floor plan), orc camp and Bell-Tor; route overview (ford, not bridge); one token frame. Done 2026-11-19/20: Canva handouts, god cards (Beory and Nerull fixed), Kalbach map, cover.
 - Playtest in Fantasy Grounds. Canon Check page numbers. Kalbach into RG-07. Confirm the clerk's name.
 
 ## 2026-11-19 — God Cards rebuilt
