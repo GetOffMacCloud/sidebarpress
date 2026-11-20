@@ -46,6 +46,14 @@ for x in glob.glob(os.path.join(FLAT,'cover.*')):
     if x.endswith('cover.png'): os.remove(x); continue  # our own copy from a previous run
     os.replace(x,os.path.join(FLAT,'cover-art'+os.path.splitext(x)[1]))
 shutil.copyfile(_fc,os.path.join(FLAT,'cover.png'))
+# Round, transparent tokens for FGU (print art keeps its white ground). Creature tokens are converted in place;
+# NPCs whose portrait doubles as their token get a separate round 'token-<name>' copy.
+import fgtoken
+for f in glob.glob(os.path.join(FLAT,'token-*.jpg'))+glob.glob(os.path.join(FLAT,'token-*.jpeg')):
+    fgtoken.make(f,os.path.splitext(f)[0]+'.png'); os.remove(f)
+PORTRAIT_TOKENS=['ansgar-vell','sister-halse','grukka-one-tusk','cathal-red-torc']
+for k in PORTRAIT_TOKENS:
+    src=glob.glob(os.path.join(FLAT,'portrait-'+k+'.*'))[0]; fgtoken.make(src,os.path.join(FLAT,'token-'+k+'.png'),ringed=False)
 m=Mod(NAME,DISPLAY,'Sidebar Press','Sidebar Press',FG,WORK,text_map=TEXT_MAP)
 m.images(FLAT)
 P=lambda pat: glob.glob(os.path.join(SRC,pat))[0]
@@ -113,10 +121,10 @@ def srd(src,name,key,token,dress,**kw):
     if old is not None: e.remove(old)
     _S(e,'token','token',m.imgpath(token)); m.TOK[key]=m.imgpath(token)
 # ---- NPCs ----
-homebrew('ansgar',NOTE('30-NPCs','Brother-Reaper Ansgar Vell'),picture='portrait-ansgar-vell',token='portrait-ansgar-vell')
-homebrew('halse',NOTE('30-NPCs','Sister Halse'),picture='portrait-sister-halse',token='portrait-sister-halse')
-homebrew('grukka',NOTE('30-NPCs','Grukka One-Tusk'),picture='portrait-grukka-one-tusk',token='portrait-grukka-one-tusk')
-homebrew('cathal',NOTE('30-NPCs','Cathal Red-Torc'),picture='portrait-cathal-red-torc',token='portrait-cathal-red-torc')
+homebrew('ansgar',NOTE('30-NPCs','Brother-Reaper Ansgar Vell'),picture='portrait-ansgar-vell',token='token-ansgar-vell')
+homebrew('halse',NOTE('30-NPCs','Sister Halse'),picture='portrait-sister-halse',token='token-sister-halse')
+homebrew('grukka',NOTE('30-NPCs','Grukka One-Tusk'),picture='portrait-grukka-one-tusk',token='token-grukka-one-tusk')
+homebrew('cathal',NOTE('30-NPCs','Cathal Red-Torc'),picture='portrait-cathal-red-torc',token='token-cathal-red-torc')
 homebrew('barrowdead',NOTE('65-Bestiary/'+CODE,'Barrow Dead'),token='token-barrow-skeleton')
 homebrew('pennyrisen',NOTE('65-Bestiary/'+CODE,'Penny-Risen'),token='token-zombie-villager')
 
