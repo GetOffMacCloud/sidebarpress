@@ -50,6 +50,8 @@ Each prompt is **subject + composition + spine + parameter tail**.
 **PORTRAIT — character head and shoulders** (NPC portraits). Use with `--ar 4:5`.
 > `classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art`
 
+**Portrait framing: vignette (Greybeard, 2026-11-20).** Every NPC portrait is a vignette: the figure alone on bare white paper, the hatching fading out at the edges, no room, desk or scenery behind them. Props stay only if the character holds them (Halse's ledger, a spade). Add to the subject: `vignette, the figure fading into bare white paper at the edges, no background scenery`, and add `background, room, interior, scenery, frame, border` to `--no`. Reference: `SP-GA05 portrait-sister-halse.jpg`. (The GA5 clerk portrait is a full scene and is kept as a one-off.)
+
 **MAP — printed map** (module maps, not VTT). Use with `--ar 3:2`.
 > `classic 1970s fantasy role-playing game module map, hand-inked black line cartography on white paper, hatched hills and mountains, stippled marsh, tree symbols, ruled grid, clean labels left blank, high contrast black and white line art`
 

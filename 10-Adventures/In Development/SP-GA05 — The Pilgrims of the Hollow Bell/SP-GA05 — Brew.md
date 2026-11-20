@@ -1714,7 +1714,7 @@ The Field Office clerk at the Ritterstadt Field Station. He signs wardens out. H
 ![Portrait](https://lh3.googleusercontent.com/d/1Sx2T1aeUwwAAj1dUTjOH9YK_79JKD6vs){width:45%}
 
 - **Loyalty:** The Field Office and its ledgers. [Delleb]
-- **Appearance:** Thin, ink to the wrists, spectacles pushed up into uncombed hair.
+- **Appearance:** Thickset, ink to the wrists, wild grey curls, two pairs of spectacles: one on his nose, one forgotten in his hair.
 - **Manner:** Dry and exact. Stamps things while he talks. Never says "north" if he can say "the line".
 - **Wants:** Every warden he signs out signed back in.
 - **Fears:** The drawer of tokens that came back without their wardens.
