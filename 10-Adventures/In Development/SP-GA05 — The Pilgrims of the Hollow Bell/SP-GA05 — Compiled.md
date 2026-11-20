@@ -1676,7 +1676,7 @@ What the token means:
 5. **Write it down.** Names, dates, signs, what the locals say. The best field reports are the ones the masters argue about.
 
 ### III. The Uplands
-Ritterstadt sits at the edge of the **Sepia Uplands**: hill pasture, gorse, drove roads, cold streams, sheep, and very few people. Weather turns fast. In **Patchwall** the first frosts come, the days shorten, and the drovers bring the flocks down.
+Ritterstadt sits at the edge of the **Sepia Uplands**: hill pasture, gorse, drove roads, cold streams, sheep and very few people. Weather turns fast. In **Patchwall** the first frosts come, the days shorten, and the drovers bring the flocks down.
 
 **Places on your map:**
 - **Kalbach.** A sheep hamlet of forty or fifty souls around a stone well, a day's walk southeast. A sexton, a churchyard, turf roofs. Friendly enough to students who pay for their bread.
@@ -1690,7 +1690,7 @@ Ritterstadt sits at the edge of the **Sepia Uplands**: hill pasture, gorse, drov
 **Things the hills are full of:**
 - **Barrows.** Grave mounds of the old Flan kings and their people. **Do not dig. Do not take.** The Department of Antiquities will pay well for a drawing; it will not pay for a curse.
 - **Old stones and old shrines** to gods nobody in Ritterstadt prays to anymore.
-- **Wolves, weather, and bad footing.** More students are lost to scree and cold than to monsters.
+- **Wolves, weather and bad footing.** More students are lost to scree and cold than to monsters.
 
 ### IV. Folk Ways Worth Knowing
 - Hill folk **cut down anything they find hanging**, even a sheep in a stranger's field. Ask a Yati why, if they'll tell you.

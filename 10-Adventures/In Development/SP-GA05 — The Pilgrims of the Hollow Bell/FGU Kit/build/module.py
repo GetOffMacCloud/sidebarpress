@@ -37,6 +37,7 @@ def ikey(f):  # vault asset file name -> module image key
     for pre in (CODE+' ','SP-PBS-05 '): n=n[len(pre):] if n.startswith(pre) else n  # old-code asset names
     return RENAME_IMAGES.get(n,n)
 for f in glob.glob(os.path.join(ASSETS,'*','*')):
+    if os.path.basename(os.path.dirname(f)).startswith('_'): continue  # _brew-hosted etc. are not module art
     k=ikey(os.path.basename(f)); dst=os.path.join(FLAT,k+os.path.splitext(f)[1].lower())
     if os.path.isfile(f) and k not in EXCLUDE_IMAGES and (not os.path.exists(dst) or os.path.getmtime(f)>os.path.getmtime(dst)): shutil.copyfile(f,dst)  # skip folders; refresh changed art
 # The finished cover (title + Sidebar Press logo) is the module cover and thumbnail; the bare painting stays as 'cover-art'.

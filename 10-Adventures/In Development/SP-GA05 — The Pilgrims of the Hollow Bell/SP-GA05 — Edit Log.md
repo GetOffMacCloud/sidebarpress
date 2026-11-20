@@ -65,3 +65,12 @@ publish: false
 - Finished cover rebuilt with `99-Assets/_Covers/make_covers.py` (title, GA5 plaque, Sidebar Press medallion). The old art and old finished cover are in the `_superseded` folders.
 - Cover art swapped the same day for the 1,792 × 2,688 upscale of the same render, so the cover is no longer enlarged.
 - In the art the ash circle is on the ground. In the text it is on the doors of the houses that drank.
+
+## 2026-11-20 — Before-listing pass
+- Greybeard confirmed the five assumptions (whole-winter relief, Wendel Krafft, Patchwall 27 casting, the List markings, "The dead know our red"). Playtest in FGU done.
+- **Canon check:** Sources table now cites pages from the 1983 *Guide* and *Glossography* and the 1998 *Player's Guide* (PDFs in the Tourist vault), plus *LGG* p. 166 for Beory. Luna new on Ready'reat 4 confirmed (*Glossography* p. 19). Correction: the 1983 *Guide* (p. 26) gives the Horned Society's religion as deviltry, so "patron of the Horned Society" became "patron of assassins and thieves" (*Guide* p. 72) in the DM's Notes. The Old Faith winter myth is not in the 1983/1998 sources; it stays as Brenna's folk telling.
+- **RG-07:** Kalbach was already listed under "The Towns Within a Week"; Kalbach note updated.
+- **Serial comma:** house style is no serial comma (Style-Guide). Two instances fixed in the Player Primer. Stat blocks keep official 5e wording. The players' Primer PDF was not rebuilt for this.
+- **AI disclosure:** none, by Greybeard's ruling. Publishing-Checklist notes the DMs Guild flag.
+- **Homebrewery:** brew images are greyscale print copies in `99-Assets/SP-GA05/_brew-hosted`, linked by Drive file id. Link sharing on that folder must be turned on by hand. Pagination tuned by `FGU Kit/build/paginate.mjs` against Homebrewery's own renderer: 55 pages, none overflowing, none ending on a heading. `module.py` now skips asset folders that start with "_".
+- **Art prompts:** `SP-GA05 — Art Re-render Prompts.md` (Midjourney, `--v 8.1`) for Halse, Krafft, Grukka, the dark beacon, four maps, the route overview and the zombie fox token.

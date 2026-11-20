@@ -25,3 +25,4 @@ Run every adventure through this before release. Copy into the adventure's note 
 - [ ] Listed in [[Release Tracker]]
 - [ ] Announced on RPGSidebar.com
 - [ ] Product page copy written
+- [ ] DMs Guild "Creation Method": the marketplace policy (2023) asks sellers to flag products that contain AI-generated art. Decide per release; GA5 ruling 2026-11-20: no AI flag (art and text being redone before listing)
