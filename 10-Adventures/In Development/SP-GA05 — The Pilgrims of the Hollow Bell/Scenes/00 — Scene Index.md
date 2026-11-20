@@ -60,7 +60,7 @@ SORT publish_order ASC
 | 4 | Hollen Ford (E2, Medium) | 40 min | 1:50 | Give the short rest, skip its roleplay | F3; Halse's notes |
 | — | *Break* | 10 min | 2:00 | — | — |
 | 5 | The Orc Camp (E3, Hard) | 35 min | 2:35 | Grukka offers the duel at once | The road up; maybe allies |
-| 6 | Thirteen Tolls (E4, Deadly) | 60 min | 3:35 | Next muffle, grapple or consecration ends it | An ending |
+| 6 | Thirteen Tolls (E4, Deadly) | 60 min | 3:35 | Next muffle, grapple, or consecration ends it | An ending |
 | — | Conclusion and credits | 15 min | 3:50 | — | The report |
 
 ## Clue Ledger

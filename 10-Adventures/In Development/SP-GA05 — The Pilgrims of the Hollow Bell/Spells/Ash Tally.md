@@ -24,7 +24,7 @@ tags: [spell, homebrew, divination, nerull, grey-sickle]
 - **Duration:** 13 days
 - **Classes:** Cleric, Warlock *(priests of Nerull)*
 
-You draw a circle of ash on the door of a dwelling, a gravestone or a coffin lid, and count the souls behind it. For the duration:
+You draw a circle of ash on the door of a dwelling, a gravestone, or a coffin lid, and count the souls behind it. For the duration:
 - You know the direction and distance to each of your circles while you are on the same plane.
 - You know the moment any creature that sleeps behind the circle dies, and how many such creatures are still living.
 - Undead you create or control are drawn to the circle: they move toward it in preference to other targets.

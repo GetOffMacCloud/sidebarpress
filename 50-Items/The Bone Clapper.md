@@ -41,7 +41,7 @@ If the wardens bring the clapper home, the Department of Antiquities locks it in
 **Boon: the Counted Hours.** The staff copy the hours of the dead from the linen and learn to read the Reaper's count.
 - *The churchyard sleeps.* No corpse buried inside the palisade can be raised as undead by any spell of 3rd level or lower, and a [[Reaper's Penny]] dropped in a town well is found by the staff within a day, before anyone sickens.
 - *The mark is known.* Any [[Ash Tally]] drawn inside the town is noticed and reported to the Field Office by the next dawn.
-- *Study.* A student who spends a day of downtime with the Antiquities notes has advantage on Intelligence (Religion) and Intelligence (History) checks about Nerull, his clergy and the Flan barrows until their next sanctioned assignment. A field report that uses the notes earns the *Lore of the Gods* extra credit automatically.
+- *Study.* A student who spends a day of downtime with the Antiquities notes has advantage on Intelligence (Religion) and Intelligence (History) checks about Nerull, his clergy, and the Flan barrows until their next sanctioned assignment. A field report that uses the notes earns the *Lore of the Gods* extra credit automatically.
 
 **Bane: the Thirteenth Hour.** The Reaper noticed the clapper being carried into a town of the living, and so did his priests.
 - *It tolls.* On each dark of Luna, everyone asleep inside the palisade hears thirteen slow tolls. That night nobody in town gains the benefit of a long rest unless they succeed on a DC 12 Wisdom saving throw. Animals won't settle and the hearths burn low.
@@ -55,9 +55,9 @@ If the wardens bring the clapper home, the Department of Antiquities locks it in
 | 4 | The newest grave in the churchyard is found open from the inside, and empty. One [[Penny-Risen]] is loose in the town. |
 | 5+ | Each dark of Luna, one more of the town's dead answers. The Counted Hours no longer protects the churchyard. |
 
-- *Lowering the count:* a service for the dead held by a priest of Pelor, Wee Jas or the Old Faith removes 1 Hour (once a month). Destroying the clapper removes them all.
+- *Lowering the count:* a service for the dead held by a priest of Pelor, Wee Jas, or the Old Faith removes 1 Hour (once a month). Destroying the clapper removes them all.
 
-**The choice it sets up.** The staff want another month with it. The Reeve, the Yati and every priest in town want it burned. The wardens brought it, so both sides ask them.
+**The choice it sets up.** The staff want another month with it. The Reeve, the Yati, and every priest in town want it burned. The wardens brought it, so both sides ask them.
 
 ## Found In
 - [[SP-GA05 — E4 — Thirteen Tolls]]: in Ansgar's hands, or Halse's if he flees.

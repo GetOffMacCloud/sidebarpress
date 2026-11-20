@@ -31,9 +31,9 @@ You lay a bone clapper against the lip of a great bell and name the hours of the
 
 **Each toll** is audible for 3 miles and wakes one corpse buried within 1 mile of the bell, chosen by the DM, oldest first. It claws free and arrives 2 rounds later as a [[Barrow Dead|skeleton]] (or a zombie, if the corpse still has flesh). The undead are hostile to all living creatures except you and creatures wearing your faith's vestments, and they obey your spoken commands.
 
-**A muffled toll** does nothing and isn't counted. A toll is muffled if the bell's lip is wrapped in cloth, hide or fleece (an action), if the bell is inside a *silence* spell, or if the bell is consecrated.
+**A muffled toll** does nothing and isn't counted. A toll is muffled if the bell's lip is wrapped in cloth, hide, or fleece (an action), if the bell is inside a *silence* spell, or if the bell is consecrated.
 
-**The thirteenth toll.** If the bell tolls thirteen times in a single casting, or across castings on the same night of a new moon, and the bell is a holy relic of a god of the sun, light or rest, the bell is **hollowed**: it becomes a relic of the Reaper (see [[The Sun-Bell of Carn Aedh]]), and the oldest and greatest of the dead within 1 mile rises with it. Tolls already struck are kept if your concentration breaks and you cast the spell again before dawn.
+**The thirteenth toll.** If the bell tolls thirteen times in a single casting, or across castings on the same night of a new moon, and the bell is a holy relic of a god of the sun, light, or rest, the bell is **hollowed**: it becomes a relic of the Reaper (see [[The Sun-Bell of Carn Aedh]]), and the oldest and greatest of the dead within 1 mile rises with it. Tolls already struck are kept if your concentration breaks and you cast the spell again before dawn.
 
 **On an ordinary bell,** the spell raises no more than three corpses in total and can't hollow it.
 

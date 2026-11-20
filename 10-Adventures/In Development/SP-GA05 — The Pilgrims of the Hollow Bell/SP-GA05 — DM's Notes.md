@@ -26,7 +26,7 @@ Each Part takes away one more source of help. Hit these beats on purpose, then l
 | 4 | The road | The only living people nearby are orcs, and they're for hire. |
 | 5 | Time | Thirteen tolls. No reinforcements, no second try. |
 
-**Danger.** This is the wardens' first mission, and the game should tell them early that it is real. Let a ghoul paralyze someone at the relay. Let the climax start already losing. Never fudge a toll. Do give honest warning: the boxed text, the bodies and the relay log are all telling them how bad it is.
+**Danger.** This is the wardens' first mission, and the game should tell them early that it is real. Let a ghoul paralyze someone at the relay. Let the climax start already losing. Never fudge a toll. Do give honest warning: the boxed text, the bodies, and the relay log are all telling them how bad it is.
 
 ---
 
@@ -48,7 +48,7 @@ Each Part takes away one more source of help. Hit these beats on purpose, then l
 - **At 1:10:** run the Kalbach dead as a 2-round fight; the survivors stumble off into the dark.
 - **At 1:50:** skip the short-rest roleplay; give the rest and move on.
 - **At 2:35:** Grukka offers the duel at once, or the north-face climb is automatic for anyone roped.
-- **At 3:15:** the next successful muffle, grapple or consecration ends the ritual outright.
+- **At 3:15:** the next successful muffle, grapple, or consecration ends the ritual outright.
 
 ---
 
@@ -133,12 +133,12 @@ Let the weather tell the Winter Myth: grey and wet while the dead are seeded; a 
 ---
 
 ## Learning the Gods (the Lore Ladder)
-Players should leave knowing who Nerull is, how ordinary folk live alongside him, and the Old Faith's answer, because they *found it out*. A character with a fitting background (Acolyte, Hermit, Sage, a cleric or druid) gets rung 1 automatically and advantage on the rest.
+Players should leave knowing who Nerull is, how ordinary folk live alongside him, and the Old Faith's answer, because they *found it out*. A character with a fitting background (Acolyte, Hermit, or Sage, or a cleric or druid) gets rung 1 automatically and advantage on the rest.
 
 | Rung | They learn | Where | Check | Payoff |
 |---|---|---|---|---|
 | **1 — Common fear** | Folk don't say his name: *the Reaper*, *Him Below*. They don't pray to him: appeasing him draws his eye. | Pfaff; any villager; the clerk. | Automatic. | Why Kalbach let the "mendicants of Wee Jas" in. Religion DC 12: Wee Jas's clergy don't travel in grey or bless wells. |
-| **2 — The god** | Nerull: Flan god of death, darkness, murder and the underworld; to the Old Faith, god of winter. A black-robed skeleton, rust-red beneath, with **Lifecutter**, a staff that grows a scythe blade of red light. Symbol: skull and scythe. | The lychgate; the Pelorite elder; the clapper's wrappings. | Religion DC 10. | Unlocks F1. |
+| **2 — The god** | Nerull: Flan god of death, darkness, murder, and the underworld; to the Old Faith, god of winter. A black-robed skeleton, rust-red beneath, with **Lifecutter**, a staff that grows a scythe blade of red light. Symbol: skull and scythe. | The lychgate; the Pelorite elder; the clapper's wrappings. | Religion DC 10. | Unlocks F1. |
 | **3 — The clergy** | Murderers who call murder worship; rust-red robes; hidden temples; prayer in total darkness; made priests by being **buried alive**. Assassins and thieves take him as patron. This cell is the **Grey Sickle**, marking the owed with circles of ash. | Halse's notes; a captured acolyte; Ansgar; the ash circles. | Religion or History DC 13. | Rust-red under grey is a sure sign; an ash circle means that house drank. |
 | **4 — The winter myth** | Nerull hangs Obad-Hai; Pelor cuts him down; Beory's tears bring him back. | Brenna; any druid; the Pelorite elder. | Religion or Nature DC 12, or ask Brenna. | Unlocks the Hanged Stag; explains what the bell is *for*. |
 | **5 — The name** | Nerull grows strong where his name goes unspoken. His priests fear it said aloud by someone unafraid. | Ansgar's fear; the lintel carving; DC 16 on rung 2. | Religion DC 16 (advantage for divine casters). | **Name Him.** |
@@ -160,7 +160,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 |---|---|---|
 | Pelor or a sun/Light god | A relic of their god turned to the enemy. | Consecration takes **1 action**. |
 | Old Faith, druids, rangers | Their myth staged as desecration. | The Hanged Stag rite. |
-| Wee Jas, Grave or Twilight | The bell gives the dead sleep; hollowing denies it to the whole valley. | Advantage on Cathal's parley. |
+| Wee Jas, Grave, or Twilight | The bell gives the dead sleep; hollowing denies it to the whole valley. | Advantage on Cathal's parley. |
 | Any good faith | Poisoned wells, murdered villagers. Plain duty. | Turn Undead all session. |
 | No faith | F4 still leads to muffling or the clapper. | — |
 
@@ -195,7 +195,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 | [[The Copper-Torc Dead]] | +15 | The field report notes the copper torcs and connects them to the dead walking out of the Vesve |
 | [[The Grave-Silver]] | +10 | The wardens bring back a green Flan coin and the report identifies it as barrow-struck |
 | [[Ansgar Returns]] | +10 | After Ending B only: the report says Ansgar escaped, names him, and warns that he will come for the clapper and the bell. Ending E pays nothing: a hollowed bell is a crisis, not a lead |
-| [[Grukka's Deserters]] | +5 | Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off |
+| [[Grukka's Deserters]] | +5 | Grukka is alive and the report covers his band, the debt, and his Furyondian cloak with the knight's badge cut off |
 | [[Hollen Ford Must Be Manned]] | +5 | The report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it |
 
 **Outside the University frame:** 50 gp each on A, 30 gp on B–D. XP as normal, or advance to 4th level on A–D with milestones.
@@ -203,7 +203,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 ---
 
 ## Canon Notes
-**Canon:** Nerull's titles, portfolio, alignment (NE), appearance, Lifecutter, rust-red clergy, burial-alive initiation, services in darkness, appeasement drawing his eye, the Old Faith winter myth, patron of assassins and thieves (WoG 1983 *Guide* p. 72, later sources). His holy day is the Blood Moon Festival (Coldeven 11). Iuz free since 570 CY; war in the Vesve.
+**Canon:** Nerull's titles, portfolio, alignment (NE), appearance, Lifecutter, rust-red clergy, burial-alive initiation, services in darkness, appeasement drawing his eye, the Old Faith winter myth, and patron of assassins and thieves (WoG 1983 *Guide* p. 72, later sources). His holy day is the Blood Moon Festival (Coldeven 11). Iuz free since 570 CY; war in the Vesve.
 
 | Name | Type | Ruling |
 |---|---|---|

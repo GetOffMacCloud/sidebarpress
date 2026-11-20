@@ -22,13 +22,13 @@ publish: false
 
 ## How to Use This Note
 This is the whole adventure, start to finish, in order of play. Supporting notes:
-- [[SP-GA05 — DM's Notes]]: the Notice track, the time budget, scaling, alert states, rumors, the Lore Ladder, weather, credits and canon notes. **Read it once before running.**
-- Encounter notes, each with its map, tokens, tactics, scaling and loot: [[SP-GA05 — E1 — The Kalbach Churchyard]] · [[SP-GA05 — E2 — The Hollen Ford Relay]] · [[SP-GA05 — E3 — The Orc Camp]] · [[SP-GA05 — E4 — Thirteen Tolls]]
+- [[SP-GA05 — DM's Notes]]: the Notice track, the time budget, scaling, alert states, rumors, the Lore Ladder, weather, credits, and canon notes. **Read it once before running.**
+- Encounter notes, each with its map, tokens, tactics, scaling, and loot: [[SP-GA05 — E1 — The Kalbach Churchyard]] · [[SP-GA05 — E2 — The Hollen Ford Relay]] · [[SP-GA05 — E3 — The Orc Camp]] · [[SP-GA05 — E4 — Thirteen Tolls]]
 - [[SP-GA05 — Bestiary]] (all statblocks, with FGU import text in each creature note).
 - New spells: [[Ash Tally]] · [[Reaper's Tithe]] · [[Hollowing Toll]]. New items: [[Reaper's Penny]] · [[The Bone Clapper]] · [[The Sun-Bell of Carn Aedh]] · [[The Yati Lambskin]] · [[Red Torc of Cathal]].
 - For the players: [[SP-GA05 — Player Gazetteer — The Field Warden's Primer]] and six handouts.
 
-**Boxed text:** read it as written or paraphrase it, but keep every clue. **Conventions:** creature counts in parentheses are the scaling dial (see each encounter note for 4, 5 and 6 PCs). Stats are 2014 5e. **ESSENTIAL CLUE** marks a fact the players must not miss.
+**Boxed text:** read it as written or paraphrase it, but keep every clue. **Conventions:** creature counts in parentheses are the scaling dial (see each encounter note for 4, 5, and 6 PCs). Stats are 2014 5e. **ESSENTIAL CLUE** marks a fact the players must not miss.
 
 ---
 
@@ -36,7 +36,7 @@ This is the whole adventure, start to finish, in order of play. Supporting notes
 - **Theme:** *Nobody's coming to save you.* Every scene removes one more source of outside help, until the wardens understand the job is theirs. Say the line, then prove it.
 - **Thesis:** the first real job is never the one on the notice. *Watch and report* becomes *stop it or watch it happen.*
 - **Danger:** this is the wardens' first sanctioned mission and it is built to kill. The curve runs Easy → Medium → Hard → Deadly, and the Deadly fight is meant to be survived by cleverness, not hit points. Don't soften it once play begins; do signal it.
-- **What it refuses to do:** no fight is required to win. Every major obstacle has a talk, stealth or ritual answer that the clues point to.
+- **What it refuses to do:** no fight is required to win. Every major obstacle has a talk, stealth, or ritual answer that the clues point to.
 - **Tone:** late autumn in hill country. Drizzle, mud, crows, frost coming. Grief in small houses. A bronze bell on a hill under a moonless sky.
 
 ---
@@ -46,7 +46,7 @@ This is the whole adventure, start to finish, in order of play. Supporting notes
 
 > *Dusk, five days ago. A woman in Kalbach carries her bucket to the square well and stops. Someone has drawn a circle on her door in ash. It will not rub off.*
 
-*Read or paraphrase at the start. It sets the station, the season and the common knowledge, and reveals nothing from What's Really Happening.*
+*Read or paraphrase at the start. It sets the station, the season, and the common knowledge, and reveals nothing from What's Really Happening.*
 
 > *A year ago you came up the lake to Ritterstadt as students, and this morning the Field Office gave you the warden's token: a pewter disc stamped with the University's tower, on a cord. It means, the clerk said as he handed them out, that if something goes wrong out there, you are the people the University sent.*
 >
@@ -54,7 +54,7 @@ This is the whole adventure, start to finish, in order of play. Supporting notes
 
 **To the table:** *"Before you pick it up: what is each of you carrying that you'd hate to lose out there?"* Then go to **Part 1**.
 
-**What the players know** (hand them [[SP-GA05 — Player Gazetteer — The Field Warden's Primer]]): they are new Field Wardens, a year into their studies; this is their first sanctioned mission; the relay system carries reports; Kalbach, Hollen Ford and Carn Aedh are names on a map; folk in the Uplands don't speak of the Reaper; and something is wrong in the north.
+**What the players know** (hand them [[SP-GA05 — Player Gazetteer — The Field Warden's Primer]]): they are new Field Wardens, a year into their studies; this is their first sanctioned mission; the relay system carries reports; Kalbach, Hollen Ford, and Carn Aedh are names on a map; folk in the Uplands don't speak of the Reaper; and something is wrong in the north.
 
 ---
 
@@ -62,13 +62,13 @@ This is the whole adventure, start to finish, in order of play. Supporting notes
 
 ### What the Locals Know
 - Nine or ten pilgrims in undyed grey walk the drove roads behind a handcart. They have circled the valley for a week. They say they are mendicants of Wee Jas, and in each hamlet they offer to pray safe passage for the dead and to bless the well. They pay for bread in old coin. After they leave, someone finds a circle of ash on a door or two.
-- At **Kalbach**, three days after the pilgrims first passed, the old miller, two infants and a sick shepherd died in one night. They were buried in one mound on the fourth day. The sexton says the mound "won't settle."
+- At **Kalbach**, three days after the pilgrims first passed, the old miller, two infants, and a sick shepherd died in one night. They were buried in one mound on the fourth day. The sexton says the mound "won't settle."
 - The grass has died in a ring around every well the pilgrims blessed. Sheep won't graze there. The crows follow the procession.
 - The Field Office keeps a courier relay at **Hollen Ford**: two riders and a signaller. Reports are left there, and the riders carry them south. If the beacon is lit, the garrison rides.
 - Above the Ford stands the **Bell-Tor at Carn Aedh**, a Flan shrine to the sun with an old oak growing from its wall. The Yati say a bronze bell there "rang the dead to sleep" when the barrow-kings were buried. Nobody climbs the Tor after dark.
 
 ### What's Really Happening
-- The pilgrims are the **Grey Sickle**, the Nerullite barrow-cell of Schwartzenbruin (Ritterstadt gazetteer, RG-06), on a field pilgrimage. They serve **Nerull**, the Reaper: the Flan god of death, darkness, murder and the underworld, whom the Old Faith also names the god of winter. Their leader in the field is **Brother-Reaper Ansgar Vell**. Under the grey, they wear Nerull's rust-red.
+- The pilgrims are the **Grey Sickle**, the Nerullite barrow-cell of Schwartzenbruin (Ritterstadt gazetteer, RG-06), on a field pilgrimage. They serve **Nerull**, the Reaper: the Flan god of death, darkness, murder, and the underworld, whom the Old Faith also names the god of winter. Their leader in the field is **Brother-Reaper Ansgar Vell**. Under the grey, they wear Nerull's rust-red.
 - The Sickle keeps **a list** of old graves on old nodes, copied from the Ritterstadt Historical Society's archive. It opened the Hound-Mother's barrow at the Dreadverge (SP-GA02). **Carn Aedh's barrows are next.**
 - In each hamlet, a priest casts [[Reaper's Tithe]] through a [[Reaper's Penny]] dropped into the well. The weak who drink (the old, the sick, infants, lambs) die within three days and rise as zombies on the fifth night. Halse marks each house that drank with an [[Ash Tally]].
 - The [[The Sun-Bell of Carn Aedh|Sun-Bell of Carn Aedh]] is a Flan relic of **Pelor**. It was rung once, to lay the barrow-kings to rest. Ansgar means to **hollow** it with the [[Hollowing Toll]]: thirteen tolls on the dark of Luna, struck with [[The Bone Clapper|a clapper of human bone]]. Each toll wakes barrow dead; the thirteenth wakes the barrow-king **Cathal Red-Torc** as a wight. Hollowed, the bell *raises* the dead instead of laying them down: a Nerullite relic that can empty any graveyard it is carried to.
@@ -136,7 +136,7 @@ The Field Office sends the new wardens to shadow a procession of pilgrims and re
 > [!art]+ Handout 4 — The Field Office Notice
 > ![[SP-GA05 handout-4-field-office-notice.png|400]]
 
-**Wendel Krafft**, the Field Office clerk, gives the wardens a sketch map marking Kalbach, Hollen Ford and Carn Aedh, and adds, quietly: *"The Reeve's watch is stretched thin. Half the garrison's gone north. Just watch them. Somebody else will deal with them."* The riders at the Ford will "take it from there." Deliver personal hooks here.
+**Wendel Krafft**, the Field Office clerk, gives the wardens a sketch map marking Kalbach, Hollen Ford, and Carn Aedh, and adds, quietly: *"The Reeve's watch is stretched thin. Half the garrison's gone north. Just watch them. Somebody else will deal with them."* The riders at the Ford will "take it from there." Deliver personal hooks here.
 
 > [!art]+ Handout 1 — The Clerk's Sketch Map
 > ![[SP-GA05 handout-1-sketch-map.jpg|500]]
@@ -161,8 +161,8 @@ The Field Office sends the new wardens to shadow a procession of pilgrims and re
 
 Run three legs on Day 1 (Ready'reat 2). Low cloud and drizzle; the hills are lightly obscured past 150 feet. The scout team rolls; armored characters stay a mile back. Each leg shows the wardens something different.
 - **Leg 1, the sung note.** The procession halts at a wayside stone and Ansgar sings his one low note. *Success by 5 or more:* the overheard prayer, *"Reaper, keep the hours. Thirteen for the king under the hill."* (F1). **Under the sacking** (Stealth DC 15, one try, this leg only): a long white clapper wrapped in black linen, and a sack of lead coins.
-- **Leg 2, the trough.** From a ridge the wardens watch the pilgrims water at a drover's trough. The small one at the rear lingers, speaks over the water and lets something fall. The grass around the trough is already brown from their last circuit. *Success by 5 or more:* a scout who goes down afterward finds the lead penny (F2).
-- **Leg 3, the count.** Halse stops, turns and counts the hills aloud, as if one were missing. *Success by 5 or more:* a scout within 30 feet sees rust-red under her grey hem (F1) and hears the number she reaches: thirteen.
+- **Leg 2, the trough.** From a ridge the wardens watch the pilgrims water at a drover's trough. The small one at the rear lingers, speaks over the water, and lets something fall. The grass around the trough is already brown from their last circuit. *Success by 5 or more:* a scout who goes down afterward finds the lead penny (F2).
+- **Leg 3, the count.** Halse stops, turns, and counts the hills aloud, as if one were missing. *Success by 5 or more:* a scout within 30 feet sees rust-red under her grey hem (F1) and hears the number she reaches: thirteen.
 - **Notice 3:** Halse doubles back that night and drops a penny in the wardens' water (Constitution DC 12 or poisoned until the next long rest; Religion or Medicine DC 12 finds it first). A warden on watch who succeeds on a DC 14 Wisdom (Perception) check sees her come. She runs and doesn't fight; if caught she says only, *"You're counted now. That's all. You're counted."*
 - **Notice 6:** the orc camp goes on Alert (Part 4).
 
@@ -240,7 +240,7 @@ Ansgar and Halse can be seen at a distance: the tall, shaven-headed one at the f
 > [!art]+ Handout 2 — The Relay Log
 > ![[SP-GA05 handout-2-relay-log.png|400]]
 
-**Who is here:** the two riders (**ghouls**, in the stable loft, waiting for the wardens to split up) and the signaller, two travellers and a fox (**zombies**). The signaller still holds the unlit beacon torch (F3).
+**Who is here:** the two riders (**ghouls**, in the stable loft, waiting for the wardens to split up) and the signaller, two travellers, and a fox (**zombies**). The signaller still holds the unlit beacon torch (F3).
 
 > [!art]+ The signaller
 > ![[SP-GA05 token-zombie-signaller.jpg|140]]
@@ -289,7 +289,7 @@ Full encounter: **[[SP-GA05 — E2 — The Hollen Ford Relay]]**.
 - (shown the notes) *"Read it again. Slow. ...'The hired beasts.' He shook my hand."*
 - (the duel) *"One of you. One of me. No bows, no spells, nobody behind. I yield, we walk. You yield, you're mine till dawn."*
 
-**Ways through:** fight; **turn them** with Halse's notes ("the hired beasts go to the bell last"; Persuasion or Intimidation DC 12 with the notes, DC 18 without; turned orcs fight for the wardens in the climax); **the challenge** (Grukka accepts single combat and honors the result); **sabotage**; or **sneak past** and climb the north face (Athletics DC 16; armored characters need rope, flight or teleportation).
+**Ways through:** fight; **turn them** with Halse's notes ("the hired beasts go to the bell last"; Persuasion or Intimidation DC 12 with the notes, DC 18 without; turned orcs fight for the wardens in the climax); **the challenge** (Grukka accepts single combat and honors the result); **sabotage**; or **sneak past** and climb the north face (Athletics DC 16; armored characters need rope, flight, or teleportation).
 
 Full encounter: **[[SP-GA05 — E3 — The Orc Camp]]**.
 
@@ -335,7 +335,7 @@ Full encounter: **[[SP-GA05 — E3 — The Orc Camp]]**.
 > ![[SP-GA05 item-sun-bell.jpg|260]] ![[SP-GA05 item-bone-clapper.jpg|260]]
 
 **Ways to stop the bell (F4):**
-- **Muffle it:** a lambskin, cloak or bedroll wrapped over the lip (an action; Athletics DC 12 if an acolyte is adjacent). A muffled toll raises nothing and doesn't count. So does a toll under *silence*.
+- **Muffle it:** a lambskin, cloak, or bedroll wrapped over the lip (an action; Athletics DC 12 if an acolyte is adjacent). A muffled toll raises nothing and doesn't count. So does a toll under *silence*.
 - **Take the clapper:** a contested grapple or a disarm.
 - **Consecrate the bell:** a divine caster holds a holy symbol to it for 2 consecutive actions (1 for a priest of Pelor or another sun god), or two do it for 1 action each in the same round. A caster who takes damage before the consecration is complete must succeed on a DC 10 Constitution save or lose the action spent. The bell rings once on its own, clear and warm; every barrow dead on the Tor falls; the bell can't be hollowed.
 - **Break Ansgar's concentration:** hard while he holds the clapper (he has advantage on the save), easy once it is taken from him. The tolls stop until he recasts the Hollowing Toll (one 3rd-level slot left; the count is kept).
@@ -358,7 +358,7 @@ Full encounter: **[[SP-GA05 — E4 — Thirteen Tolls]]**.
 
 ## Concluding the Adventure
 
-**A — The Bell Sleeps (full success).** The bell was consecrated or muffled before toll 13; Ansgar is dead, captured or fled. The Yati give the wardens a [[The Yati Lambskin|lambskin from the Tor]], and Pelor's people in Ritterstadt take notice of them.
+**A — The Bell Sleeps (full success).** The bell was consecrated or muffled before toll 13; Ansgar is dead, captured, or fled. The Yati give the wardens a [[The Yati Lambskin|lambskin from the Tor]], and Pelor's people in Ritterstadt take notice of them.
 
 > [!art]+ The Yati Lambskin
 > ![[SP-GA05 item-yati-lambskin.jpg|220]]
@@ -425,13 +425,13 @@ Checked 2026-11-20 against the PDFs in the Tourist vault (`z_Assets/7_PDFs`). *G
 | Nerull's clergy wear rust-red or blackish-rust, carry the skull-and-scythe symbol, fight with sickles; worship in full darkness; the scythe-staff Life Cutter; assassins and thieves take him as patron | *Guide* p. 72 | Verified |
 | Obad-Hai, "the Shalm": nature, wildlands, hunting; Flan in origin; his clerics wear russet | *Guide* pp. 72–73; *PGG* p. 19 | Verified |
 | Pelor: sun, strength, light, healing; neutral good | *Guide* p. 63; *PGG* p. 19 | Verified |
-| Beory, the Oerth Mother: Flan greater goddess of the Oerth, nature and rain; symbol a green disk marked with a circle or a rotund woman figurine (the card uses the figurine) | *Guide* p. 63; *PGG* pp. 18–19; *LGG* p. 166 | Verified |
+| Beory, the Oerth Mother: Flan greater goddess of the Oerth, nature, and rain; symbol a green disk marked with a circle or a rotund woman figurine (the card uses the figurine) | *Guide* p. 63; *PGG* pp. 18–19; *LGG* p. 166 | Verified |
 | The Old Faith winter myth (Beory between Pelor and Nerull; Obad-Hai her son) | Living Greyhawk–era lore (*LGG* ch. 7 and later articles) | Not found in the 1983 or 1998 sources. Presented as Brenna's folk telling, so it stands either way |
 | Blood Moon Festival, Coldeven 11 | *LGG* p. 156 (as indexed) | Index only; not checked against print |
-| Luna's 28-day cycle; full on the 11th Fireseek–Coldeven; **new on the 4th of Patchwall, Ready'reat and Sunsebb**; Celene new on Ready'reat 11 (so a thin waning crescent on Ready'reat 2–4) | *Glossography* p. 19; *Guide* p. 4; *PGG* p. 13 | Verified |
+| Luna's 28-day cycle; full on the 11th Fireseek–Coldeven; **new on the 4th of Patchwall, Ready'reat, and Sunsebb**; Celene new on Ready'reat 11 (so a thin waning crescent on Ready'reat 2–4) | *Glossography* p. 19; *Guide* p. 4; *PGG* p. 13 | Verified |
 | Iuz freed from Castle Greyhawk in 570 CY; war in the Vesve | *Guide* pp. 27, 58; *PGG* p. 10 | Verified |
 | ~~Horned Society patronage of Nerull~~ | *Guide* p. 26 gives the Society's religion as deviltry, not Nerull | **Corrected 2026-11-20:** the DM's Notes now say assassins and thieves take Nerull as patron (*Guide* p. 72) |
-| Kalbach, Hollen Ford, Carn Aedh, the Yati, the Grey Sickle, the Sun-Bell, all spells and items | — | Homebrew, labeled |
+| Kalbach, Hollen Ford, Carn Aedh, the Yati, the Grey Sickle, the Sun-Bell, and all spells and items | — | Homebrew, labeled |
 
 No 5.5e-only lore is used.
 
@@ -471,7 +471,7 @@ Each Part takes away one more source of help. Hit these beats on purpose, then l
 | 4 | The road | The only living people nearby are orcs, and they're for hire. |
 | 5 | Time | Thirteen tolls. No reinforcements, no second try. |
 
-**Danger.** This is the wardens' first mission, and the game should tell them early that it is real. Let a ghoul paralyze someone at the relay. Let the climax start already losing. Never fudge a toll. Do give honest warning: the boxed text, the bodies and the relay log are all telling them how bad it is.
+**Danger.** This is the wardens' first mission, and the game should tell them early that it is real. Let a ghoul paralyze someone at the relay. Let the climax start already losing. Never fudge a toll. Do give honest warning: the boxed text, the bodies, and the relay log are all telling them how bad it is.
 
 ---
 
@@ -493,7 +493,7 @@ Each Part takes away one more source of help. Hit these beats on purpose, then l
 - **At 1:10:** run the Kalbach dead as a 2-round fight; the survivors stumble off into the dark.
 - **At 1:50:** skip the short-rest roleplay; give the rest and move on.
 - **At 2:35:** Grukka offers the duel at once, or the north-face climb is automatic for anyone roped.
-- **At 3:15:** the next successful muffle, grapple or consecration ends the ritual outright.
+- **At 3:15:** the next successful muffle, grapple, or consecration ends the ritual outright.
 
 ---
 
@@ -578,12 +578,12 @@ Let the weather tell the Winter Myth: grey and wet while the dead are seeded; a 
 ---
 
 ## Learning the Gods (the Lore Ladder)
-Players should leave knowing who Nerull is, how ordinary folk live alongside him, and the Old Faith's answer, because they *found it out*. A character with a fitting background (Acolyte, Hermit, Sage, a cleric or druid) gets rung 1 automatically and advantage on the rest.
+Players should leave knowing who Nerull is, how ordinary folk live alongside him, and the Old Faith's answer, because they *found it out*. A character with a fitting background (Acolyte, Hermit, or Sage, or a cleric or druid) gets rung 1 automatically and advantage on the rest.
 
 | Rung | They learn | Where | Check | Payoff |
 |---|---|---|---|---|
 | **1 — Common fear** | Folk don't say his name: *the Reaper*, *Him Below*. They don't pray to him: appeasing him draws his eye. | Pfaff; any villager; the clerk. | Automatic. | Why Kalbach let the "mendicants of Wee Jas" in. Religion DC 12: Wee Jas's clergy don't travel in grey or bless wells. |
-| **2 — The god** | Nerull: Flan god of death, darkness, murder and the underworld; to the Old Faith, god of winter. A black-robed skeleton, rust-red beneath, with **Lifecutter**, a staff that grows a scythe blade of red light. Symbol: skull and scythe. | The lychgate; the Pelorite elder; the clapper's wrappings. | Religion DC 10. | Unlocks F1. |
+| **2 — The god** | Nerull: Flan god of death, darkness, murder, and the underworld; to the Old Faith, god of winter. A black-robed skeleton, rust-red beneath, with **Lifecutter**, a staff that grows a scythe blade of red light. Symbol: skull and scythe. | The lychgate; the Pelorite elder; the clapper's wrappings. | Religion DC 10. | Unlocks F1. |
 | **3 — The clergy** | Murderers who call murder worship; rust-red robes; hidden temples; prayer in total darkness; made priests by being **buried alive**. Assassins and thieves take him as patron. This cell is the **Grey Sickle**, marking the owed with circles of ash. | Halse's notes; a captured acolyte; Ansgar; the ash circles. | Religion or History DC 13. | Rust-red under grey is a sure sign; an ash circle means that house drank. |
 | **4 — The winter myth** | Nerull hangs Obad-Hai; Pelor cuts him down; Beory's tears bring him back. | Brenna; any druid; the Pelorite elder. | Religion or Nature DC 12, or ask Brenna. | Unlocks the Hanged Stag; explains what the bell is *for*. |
 | **5 — The name** | Nerull grows strong where his name goes unspoken. His priests fear it said aloud by someone unafraid. | Ansgar's fear; the lintel carving; DC 16 on rung 2. | Religion DC 16 (advantage for divine casters). | **Name Him.** |
@@ -605,7 +605,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 |---|---|---|
 | Pelor or a sun/Light god | A relic of their god turned to the enemy. | Consecration takes **1 action**. |
 | Old Faith, druids, rangers | Their myth staged as desecration. | The Hanged Stag rite. |
-| Wee Jas, Grave or Twilight | The bell gives the dead sleep; hollowing denies it to the whole valley. | Advantage on Cathal's parley. |
+| Wee Jas, Grave, or Twilight | The bell gives the dead sleep; hollowing denies it to the whole valley. | Advantage on Cathal's parley. |
 | Any good faith | Poisoned wells, murdered villagers. Plain duty. | Turn Undead all session. |
 | No faith | F4 still leads to muffling or the clapper. | — |
 
@@ -640,7 +640,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 | [[The Copper-Torc Dead]] | +15 | The field report notes the copper torcs and connects them to the dead walking out of the Vesve |
 | [[The Grave-Silver]] | +10 | The wardens bring back a green Flan coin and the report identifies it as barrow-struck |
 | [[Ansgar Returns]] | +10 | After Ending B only: the report says Ansgar escaped, names him, and warns that he will come for the clapper and the bell. Ending E pays nothing: a hollowed bell is a crisis, not a lead |
-| [[Grukka's Deserters]] | +5 | Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off |
+| [[Grukka's Deserters]] | +5 | Grukka is alive and the report covers his band, the debt, and his Furyondian cloak with the knight's badge cut off |
 | [[Hollen Ford Must Be Manned]] | +5 | The report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it |
 
 **Outside the University frame:** 50 gp each on A, 30 gp on B–D. XP as normal, or advance to 4th level on A–D with milestones.
@@ -648,7 +648,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 ---
 
 ## Canon Notes
-**Canon:** Nerull's titles, portfolio, alignment (NE), appearance, Lifecutter, rust-red clergy, burial-alive initiation, services in darkness, appeasement drawing his eye, the Old Faith winter myth, patron of assassins and thieves (WoG 1983 *Guide* p. 72, later sources). His holy day is the Blood Moon Festival (Coldeven 11). Iuz free since 570 CY; war in the Vesve.
+**Canon:** Nerull's titles, portfolio, alignment (NE), appearance, Lifecutter, rust-red clergy, burial-alive initiation, services in darkness, appeasement drawing his eye, the Old Faith winter myth, and patron of assassins and thieves (WoG 1983 *Guide* p. 72, later sources). His holy day is the Blood Moon Festival (Coldeven 11). Iuz free since 570 CY; war in the Vesve.
 
 | Name | Type | Ruling |
 |---|---|---|
@@ -768,7 +768,7 @@ The relay's living quarters. The dead stand where they stopped.
 **Treasure:** the riders' pewter tokens, and the strongbox key on one of them.
 
 **R5. THE FORD**
-Knee-deep, fast and cold: difficult terrain. A prone creature in the water must succeed on a DC 10 Strength save or be swept 10 ft downstream. The ghouls retreat here when hurt.
+Knee-deep, fast, and cold: difficult terrain. A prone creature in the water must succeed on a DC 10 Strength save or be swept 10 ft downstream. The ghouls retreat here when hurt.
 
 ### Creatures
 | Party | Creatures | Adjusted XP |
@@ -904,7 +904,7 @@ No Luna, Celene not yet risen, and a hard frost. A torch ring lights the crown a
 Bright light inside the ring, darkness outside. The wall is waist-high rubble: half cover, and difficult terrain to cross.
 **Creatures:** **acolytes** (count by party size), spaced around the bell stair.
 **Tactics:** they hold the stair and don't chase into the dark.
-**Development:** the handcart at the ring's edge holds the sack of blank pennies, rope and a block and tackle.
+**Development:** the handcart at the ring's edge holds the sack of blank pennies, rope, and a block and tackle.
 
 **T2. THE BELL FRAME**
 > *A frame of black oak stands ten feet above the crown, with one narrow stair up its side. The bell hangs from it, green-bronze, twice a man's height. A tall priest stands at its lip with a long white clapper in both hands.*
@@ -955,7 +955,7 @@ The barrow dead claw out here and take 2 rounds to climb to the ring.
 ### Ways to Stop the Bell (F4)
 | Method | How | Effect |
 |---|---|---|
-| **Muffle it** | Wrap a lambskin, cloak or bedroll over the lip: an action, plus Athletics DC 12 if an acolyte is adjacent. *Silence* also works. | Tolls raise nothing and don't count while it stays on. An acolyte can tear it off with an action. |
+| **Muffle it** | Wrap a lambskin, cloak, or bedroll over the lip: an action, plus Athletics DC 12 if an acolyte is adjacent. *Silence* also works. | Tolls raise nothing and don't count while it stays on. An acolyte can tear it off with an action. |
 | **Take the clapper** | Contested grapple or a disarm (Ansgar is no wrestler). | No clapper, no toll. Whoever holds it becomes everyone's target; Cathal hunts its holder. |
 | **Consecrate the bell** | A divine caster holds a holy symbol to it for **2 consecutive actions** (1 for a priest of Pelor or another sun god), or two divine casters 1 action each in the same round. | The bell rings once on its own, clear and warm. Every barrow dead on the Tor falls; the bell can never be hollowed. Ending A. **Interrupting it:** a caster who takes damage before the consecration is complete makes a DC 10 Constitution save or loses the action spent. |
 | **Break concentration** | Damage Ansgar (Con save, DC 10 or half damage; he has **advantage while he holds the clapper**). | Tolls stop until he recasts with his last 3rd-level slot. The count is kept. Take the clapper first and this gets much easier. |
@@ -979,7 +979,7 @@ Cathal is **not** Ansgar's servant. He wants to know who woke him, and he kills 
 
 ### Development
 - **Ansgar flees** at half hp, without the clapper. Pursuit down the frozen scree is a chase, not a cutscene: he has no plot armor. If the wardens catch him, they catch him (Ending A); if he gets away, Ending B. Either way the clapper stays on the Tor for the wardens to carry home.
-- **Cathal and non-magical weapons:** if toll 13 sounds, remind the table that the barrow-king shrugs off ordinary steel. Parley, the lambskin and consecration are the real answers.
+- **Cathal and non-magical weapons:** if toll 13 sounds, remind the table that the barrow-king shrugs off ordinary steel. Parley, the lambskin, and consecration are the real answers.
 - **Turned orcs** arrive in round 2 from T5 and engage the acolytes.
 - **After the fight:** bury the stag with a seed on the Tor (*Beory's tears*). The Yati notice.
 
@@ -1264,7 +1264,7 @@ All statblocks are 2014 5e. Homebrew creatures have full notes with **FGU import
 - **Duration:** 13 days
 - **Classes:** Cleric, Warlock *(priests of Nerull)*
 
-You draw a circle of ash on the door of a dwelling, a gravestone or a coffin lid, and count the souls behind it. For the duration:
+You draw a circle of ash on the door of a dwelling, a gravestone, or a coffin lid, and count the souls behind it. For the duration:
 - You know the direction and distance to each of your circles while you are on the same plane.
 - You know the moment any creature that sleeps behind the circle dies, and how many such creatures are still living.
 - Undead you create or control are drawn to the circle: they move toward it in preference to other targets.
@@ -1291,13 +1291,13 @@ The ash can't be washed or scraped away by mundane means. *Remove curse*, *dispe
 - **Duration:** Until dispelled
 - **Classes:** Cleric, Warlock *(priests of Nerull and those who serve the Reaper)*
 
-You speak the hours of the dead over a lead coin and drop it into a well, spring, cistern or trough no larger than a 30-foot cube. Until the spell ends, the water is cursed. *Detect magic* reveals an aura of necromancy around the coin, not the water.
+You speak the hours of the dead over a lead coin and drop it into a well, spring, cistern, or trough no larger than a 30-foot cube. Until the spell ends, the water is cursed. *Detect magic* reveals an aura of necromancy around the coin, not the water.
 
 **The weak.** A creature that drinks the water while it has a level of exhaustion, a disease, fewer than half its hit points, or fewer than 10 hit points maximum (the old, the sick, infants, young animals) must succeed on a Constitution saving throw or contract **the Tithe**. It can't regain hit points by any means except magic and dies at the end of the third day. On the **fifth night** after it drank, its corpse rises as a [[Penny-Risen]] (zombie) that is hostile to all living creatures. A creature that dies of the Tithe is marked: [[Ash Tally]] cast on its home counts it as "owed."
 
 **The hale.** Any other creature that drinks must succeed on a Constitution saving throw or be **poisoned** until it finishes a long rest.
 
-**Ending it.** The curse ends if the coin is removed from the water and the water is blessed (an action and a DC 13 Religion check by a divine caster), or if the water is targeted by *purify food and drink*, *remove curse* or *dispel magic* (DC = the caster's spell save DC). A creature that has contracted the Tithe is cured by *lesser restoration*, or by a DC 15 Wisdom (Medicine) check with one use of a healer's kit made each day it is sick. A corpse that is blessed, or has its penny removed from its mouth, before the fifth night doesn't rise.
+**Ending it.** The curse ends if the coin is removed from the water and the water is blessed (an action and a DC 13 Religion check by a divine caster), or if the water is targeted by *purify food and drink*, *remove curse*, or *dispel magic* (DC = the caster's spell save DC). A creature that has contracted the Tithe is cured by *lesser restoration*, or by a DC 15 Wisdom (Medicine) check with one use of a healer's kit made each day it is sick. A corpse that is blessed, or has its penny removed from its mouth, before the fifth night doesn't rise.
 
 **At Higher Levels.** When you cast this spell using a slot of 4th level or higher, the corpses rise on the third night instead of the fifth, and a creature that dies of the Tithe after drinking a third or more of its weight in water a day (a horse, a courier after a long ride) rises as a [[Ghoul Rider|ghoul]] instead of a zombie.
 
@@ -1325,9 +1325,9 @@ You lay a bone clapper against the lip of a great bell and name the hours of the
 
 **Each toll** is audible for 3 miles and wakes one corpse buried within 1 mile of the bell, chosen by the DM, oldest first. It claws free and arrives 2 rounds later as a [[Barrow Dead|skeleton]] (or a zombie, if the corpse still has flesh). The undead are hostile to all living creatures except you and creatures wearing your faith's vestments, and they obey your spoken commands.
 
-**A muffled toll** does nothing and isn't counted. A toll is muffled if the bell's lip is wrapped in cloth, hide or fleece (an action), if the bell is inside a *silence* spell, or if the bell is consecrated.
+**A muffled toll** does nothing and isn't counted. A toll is muffled if the bell's lip is wrapped in cloth, hide, or fleece (an action), if the bell is inside a *silence* spell, or if the bell is consecrated.
 
-**The thirteenth toll.** If the bell tolls thirteen times in a single casting, or across castings on the same night of a new moon, and the bell is a holy relic of a god of the sun, light or rest, the bell is **hollowed**: it becomes a relic of the Reaper (see [[The Sun-Bell of Carn Aedh]]), and the oldest and greatest of the dead within 1 mile rises with it. Tolls already struck are kept if your concentration breaks and you cast the spell again before dawn.
+**The thirteenth toll.** If the bell tolls thirteen times in a single casting, or across castings on the same night of a new moon, and the bell is a holy relic of a god of the sun, light, or rest, the bell is **hollowed**: it becomes a relic of the Reaper (see [[The Sun-Bell of Carn Aedh]]), and the oldest and greatest of the dead within 1 mile rises with it. Tolls already struck are kept if your concentration breaks and you cast the spell again before dawn.
 
 **On an ordinary bell,** the spell raises no more than three corpses in total and can't hollow it.
 
@@ -1380,7 +1380,7 @@ If the wardens bring the clapper home, the Department of Antiquities locks it in
 **Boon: the Counted Hours.** The staff copy the hours of the dead from the linen and learn to read the Reaper's count.
 - *The churchyard sleeps.* No corpse buried inside the palisade can be raised as undead by any spell of 3rd level or lower, and a [[Reaper's Penny]] dropped in a town well is found by the staff within a day, before anyone sickens.
 - *The mark is known.* Any [[Ash Tally]] drawn inside the town is noticed and reported to the Field Office by the next dawn.
-- *Study.* A student who spends a day of downtime with the Antiquities notes has advantage on Intelligence (Religion) and Intelligence (History) checks about Nerull, his clergy and the Flan barrows until their next sanctioned assignment. A field report that uses the notes earns the *Lore of the Gods* extra credit automatically.
+- *Study.* A student who spends a day of downtime with the Antiquities notes has advantage on Intelligence (Religion) and Intelligence (History) checks about Nerull, his clergy, and the Flan barrows until their next sanctioned assignment. A field report that uses the notes earns the *Lore of the Gods* extra credit automatically.
 
 **Bane: the Thirteenth Hour.** The Reaper noticed the clapper being carried into a town of the living, and so did his priests.
 - *It tolls.* On each dark of Luna, everyone asleep inside the palisade hears thirteen slow tolls. That night nobody in town gains the benefit of a long rest unless they succeed on a DC 12 Wisdom saving throw. Animals won't settle and the hearths burn low.
@@ -1394,9 +1394,9 @@ If the wardens bring the clapper home, the Department of Antiquities locks it in
 | 4 | The newest grave in the churchyard is found open from the inside, and empty. One [[Penny-Risen]] is loose in the town. |
 | 5+ | Each dark of Luna, one more of the town's dead answers. The Counted Hours no longer protects the churchyard. |
 
-- *Lowering the count:* a service for the dead held by a priest of Pelor, Wee Jas or the Old Faith removes 1 Hour (once a month). Destroying the clapper removes them all.
+- *Lowering the count:* a service for the dead held by a priest of Pelor, Wee Jas, or the Old Faith removes 1 Hour (once a month). Destroying the clapper removes them all.
 
-**The choice it sets up.** The staff want another month with it. The Reeve, the Yati and every priest in town want it burned. The wardens brought it, so both sides ask them.
+**The choice it sets up.** The staff want another month with it. The Reeve, the Yati, and every priest in town want it burned. The wardens brought it, so both sides ask them.
 
 ## The Sun-Bell of Carn Aedh
 
@@ -1417,7 +1417,7 @@ The bell has three states.
 
 **Hollowed** (after the thirteenth toll of [[Hollowing Toll]]). The sun-faces blacken. The bell becomes a relic of the Reaper: anyone who rings it with the bone clapper can cast *animate dead* through it at will, raising every corpse within 1 mile at once. Carried to a churchyard, it empties the churchyard. Ending the hollowing would take a quest of its own.
 
-**Moving it.** It weighs nearly two tons. The Grey Sickle brought a handcart, rope and block, and enough acolytes. Students don't take it home.
+**Moving it.** It weighs nearly two tons. The Grey Sickle brought a handcart, rope, and block, and enough acolytes. Students don't take it home.
 
 ## The Yati Lambskin
 
@@ -1529,7 +1529,7 @@ A twisted torc of red gold as thick as a thumb, its ends shaped as two sleeping 
 
 ## Brenna
 
-> A Yati drover bringing her flock down for the winter, with a dog, a crook and no patience for students.
+> A Yati drover bringing her flock down for the winter, with a dog, a crook, and no patience for students.
 
 > [!art]+ Portrait
 > ![[SP-GA05 portrait-brenna.jpg|300]]
@@ -1568,7 +1568,7 @@ A twisted torc of red gold as thick as a thumb, its ends shaped as two sleeping 
 
 ## Handout 1 — The Clerk's Sketch Map
 
-Given by the Field Office clerk in Scene 1. Marks Ritterstadt, Kalbach, Hollen Ford and Carn Aedh on the drove roads.
+Given by the Field Office clerk in Scene 1. Marks Ritterstadt, Kalbach, Hollen Ford, and Carn Aedh on the drove roads.
 
 > [!art]+ Handout 1
 > ![[SP-GA05 handout-1-sketch-map.jpg|500]]
@@ -1664,7 +1664,7 @@ Congratulations. You have survived a year of lectures, the Scholar's Oath, the J
 
 What the token means:
 - **You may go.** The Field Office will send you where the masters can't spare a scholar and the Reeve can't spare a spear.
-- **You will be paid in credits** for what you bring back: a report, a sample, a rubbing, a survivor. Credits buy your tuition, your books and your standing. No report, no credits.
+- **You will be paid in credits** for what you bring back: a report, a sample, a rubbing, a survivor. Credits buy your tuition, your books, and your standing. No report, no credits.
 - **You represent the University.** Folk in the hills will judge every warden by you.
 - **You are not soldiers.** The token gives you no authority over anyone. Hill folk owe you nothing. Neither does the garrison.
 
@@ -1676,21 +1676,21 @@ What the token means:
 5. **Write it down.** Names, dates, signs, what the locals say. The best field reports are the ones the masters argue about.
 
 ### III. The Uplands
-Ritterstadt sits at the edge of the **Sepia Uplands**: hill pasture, gorse, drove roads, cold streams, sheep and very few people. Weather turns fast. In **Patchwall** the first frosts come, the days shorten, and the drovers bring the flocks down.
+Ritterstadt sits at the edge of the **Sepia Uplands**: hill pasture, gorse, drove roads, cold streams, sheep, and very few people. Weather turns fast. In **Patchwall** the first frosts come, the days shorten, and the drovers bring the flocks down.
 
 **Places on your map:**
 - **Kalbach.** A sheep hamlet of forty or fifty souls around a stone well, a day's walk southeast. A sexton, a churchyard, turf roofs. Friendly enough to students who pay for their bread.
-- **Hollen Ford.** A University courier relay on the river: a stone tower, a stable, two riders and a signaller. Report here.
+- **Hollen Ford.** A University courier relay on the river: a stone tower, a stable, two riders, and a signaller. Report here.
 - **Carn Aedh.** A hill with old stones on top, the **Bell-Tor**. There is a bell up there. Nobody goes up after dark, and the Field Office doesn't ask you to.
 
 **The people of the hills:**
-- **Hill folk** farm and graze. They are patient, practical and slow to trust anyone from the University. Pay for what you take.
+- **Hill folk** farm and graze. They are patient, practical, and slow to trust anyone from the University. Pay for what you take.
 - **The Yati** are highland clans, old Flan families who keep the old ways. They know the hills better than any map. Be courteous at their fires. If a Yati tells you not to do something, don't.
 
 **Things the hills are full of:**
 - **Barrows.** Grave mounds of the old Flan kings and their people. **Do not dig. Do not take.** The Department of Antiquities will pay well for a drawing; it will not pay for a curse.
 - **Old stones and old shrines** to gods nobody in Ritterstadt prays to anymore.
-- **Wolves, weather and bad footing.** More students are lost to scree and cold than to monsters.
+- **Wolves, weather, and bad footing.** More students are lost to scree and cold than to monsters.
 
 ### IV. Folk Ways Worth Knowing
 - Hill folk **cut down anything they find hanging**, even a sheep in a stranger's field. Ask a Yati why, if they'll tell you.
@@ -1703,7 +1703,7 @@ Ritterstadt sits at the edge of the **Sepia Uplands**: hill pasture, gorse, drov
 Honestly, students, we know less than we would like.
 - **North** lies the **Vesve Forest**, and there is a **war** in it. Orcs and worse come out of it, and some of the garrison has marched north to the line. Who commands the other side is a matter for the masters, not for first-years. You will hear a name in the taverns. Do not repeat it carelessly.
 - **East** lies **Kottsmort** and the deeper hills; **west**, the lake and the road home.
-- **The gods** of the Flanaess are many. Learn the ones your neighbors pray to. Every warden who comes back with a god's true name, symbol or story earns credit for it.
+- **The gods** of the Flanaess are many. Learn the ones your neighbors pray to. Every warden who comes back with a god's true name, symbol, or story earns credit for it.
 
 > [!tip] Lore of the Gods
 > Write down what you learn about the gods on this assignment, and how ordinary folk live alongside them. A field report that teaches the masters something true about the gods earns **extra credit**.
@@ -1714,7 +1714,7 @@ Warm cloak · bedroll · waterskin (**fill it yourself**) · rations for three d
 ### VII. When It Goes Wrong
 Assignments go wrong. When yours does:
 - **Stop. Count.** Who is here? Who is hurt? What do you still have?
-- **Think about what you know.** The answer is usually in something you already saw, heard or were told.
+- **Think about what you know.** The answer is usually in something you already saw, heard, or were told.
 - **Light the beacon** if there is one. Then keep going as if no one saw it.
 
 ---
@@ -1770,7 +1770,7 @@ Brother-Reaper Ansgar Vell escaped the Bell-Tor. The bell still hangs, the clapp
 Grukka One-Tusk's deserters owe the wardens a favor, and Iuz's army wants its deserters back.
 
 ### Lead Credit
-**+5** on top of the session's extra credit. Earned when Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off.
+**+5** on top of the session's extra credit. Earned when Grukka is alive and the report covers his band, the debt, and his Furyondian cloak with the knight's badge cut off.
 
 ### Links
 - [[Grukka One-Tusk]]. Links to **SEED-12, "The Perrenlander Recruiter"** (is the Sickle Molag's?).

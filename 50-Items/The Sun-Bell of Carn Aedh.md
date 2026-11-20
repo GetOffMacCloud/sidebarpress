@@ -33,7 +33,7 @@ The bell has three states.
 
 **Hollowed** (after the thirteenth toll of [[Hollowing Toll]]). The sun-faces blacken. The bell becomes a relic of the Reaper: anyone who rings it with the bone clapper can cast *animate dead* through it at will, raising every corpse within 1 mile at once. Carried to a churchyard, it empties the churchyard. Ending the hollowing would take a quest of its own.
 
-**Moving it.** It weighs nearly two tons. The Grey Sickle brought a handcart, rope and block, and enough acolytes. Students don't take it home.
+**Moving it.** It weighs nearly two tons. The Grey Sickle brought a handcart, rope, and block, and enough acolytes. Students don't take it home.
 
 ## Found In
 - [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]: Part 5, the Bell-Tor crown ([[SP-GA05 — E4 — Thirteen Tolls]]).

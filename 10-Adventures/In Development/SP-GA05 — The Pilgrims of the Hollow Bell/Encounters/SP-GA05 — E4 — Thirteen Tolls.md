@@ -30,7 +30,7 @@ No Luna, Celene not yet risen, and a hard frost. A torch ring lights the crown a
 Bright light inside the ring, darkness outside. The wall is waist-high rubble: half cover, and difficult terrain to cross.
 **Creatures:** **acolytes** (count by party size), spaced around the bell stair.
 **Tactics:** they hold the stair and don't chase into the dark.
-**Development:** the handcart at the ring's edge holds the sack of blank pennies, rope and a block and tackle.
+**Development:** the handcart at the ring's edge holds the sack of blank pennies, rope, and a block and tackle.
 
 **T2. THE BELL FRAME**
 > *A frame of black oak stands ten feet above the crown, with one narrow stair up its side. The bell hangs from it, green-bronze, twice a man's height. A tall priest stands at its lip with a long white clapper in both hands.*
@@ -81,7 +81,7 @@ The barrow dead claw out here and take 2 rounds to climb to the ring.
 ## Ways to Stop the Bell (F4)
 | Method | How | Effect |
 |---|---|---|
-| **Muffle it** | Wrap a lambskin, cloak or bedroll over the lip: an action, plus Athletics DC 12 if an acolyte is adjacent. *Silence* also works. | Tolls raise nothing and don't count while it stays on. An acolyte can tear it off with an action. |
+| **Muffle it** | Wrap a lambskin, cloak, or bedroll over the lip: an action, plus Athletics DC 12 if an acolyte is adjacent. *Silence* also works. | Tolls raise nothing and don't count while it stays on. An acolyte can tear it off with an action. |
 | **Take the clapper** | Contested grapple or a disarm (Ansgar is no wrestler). | No clapper, no toll. Whoever holds it becomes everyone's target; Cathal hunts its holder. |
 | **Consecrate the bell** | A divine caster holds a holy symbol to it for **2 consecutive actions** (1 for a priest of Pelor or another sun god), or two divine casters 1 action each in the same round. | The bell rings once on its own, clear and warm. Every barrow dead on the Tor falls; the bell can never be hollowed. Ending A. **Interrupting it:** a caster who takes damage before the consecration is complete makes a DC 10 Constitution save or loses the action spent. |
 | **Break concentration** | Damage Ansgar (Con save, DC 10 or half damage; he has **advantage while he holds the clapper**). | Tolls stop until he recasts with his last 3rd-level slot. The count is kept. Take the clapper first and this gets much easier. |
@@ -105,7 +105,7 @@ Cathal is **not** Ansgar's servant. He wants to know who woke him, and he kills 
 
 ## Development
 - **Ansgar flees** at half hp, without the clapper. Pursuit down the frozen scree is a chase, not a cutscene: he has no plot armor. If the wardens catch him, they catch him (Ending A); if he gets away, Ending B. Either way the clapper stays on the Tor for the wardens to carry home.
-- **Cathal and non-magical weapons:** if toll 13 sounds, remind the table that the barrow-king shrugs off ordinary steel. Parley, the lambskin and consecration are the real answers.
+- **Cathal and non-magical weapons:** if toll 13 sounds, remind the table that the barrow-king shrugs off ordinary steel. Parley, the lambskin, and consecration are the real answers.
 - **Turned orcs** arrive in round 2 from T5 and engage the acolytes.
 - **After the fight:** bury the stag with a seed on the Tor (*Beory's tears*). The Yati notice.
 

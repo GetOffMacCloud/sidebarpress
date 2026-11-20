@@ -54,7 +54,7 @@ The relay's living quarters. The dead stand where they stopped.
 **Treasure:** the riders' pewter tokens, and the strongbox key on one of them.
 
 **R5. THE FORD**
-Knee-deep, fast and cold: difficult terrain. A prone creature in the water must succeed on a DC 10 Strength save or be swept 10 ft downstream. The ghouls retreat here when hurt.
+Knee-deep, fast, and cold: difficult terrain. A prone creature in the water must succeed on a DC 10 Strength save or be swept 10 ft downstream. The ghouls retreat here when hurt.
 
 ## Creatures
 | Party | Creatures | Adjusted XP |

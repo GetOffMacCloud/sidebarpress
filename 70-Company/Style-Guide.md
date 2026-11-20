@@ -7,8 +7,8 @@ Adventures are written for the DM, not the players. Clear, direct, skimmable. Bo
 - **Bold** monster/NPC names on first mention in a scene
 - *Italics* for read-aloud text only
 - `Code` for adventure codes (A01) and FG module references
-- `[[Wikilinks]]` for every named NPC, location, item and plot thread
-- **No serial comma** ("pasture, gorse and drove roads", not "pasture, gorse, and drove roads"). Add it only where a list would otherwise misread. Stat block lines keep the official 5e wording ("bludgeoning, piercing, and slashing"). Ruled 2026-11-20.
+- `[[Wikilinks]]` for every named NPC, location, item, and plot thread
+- **Serial comma** in every list of three or more ("pasture, gorse, and drove roads"), matching the official D&D books. Ruled 2026-11-20 (replaces the no-serial-comma rule set earlier the same day).
 
 ## Stat Blocks
 2014 5e only. Reference the Monster Manual by name where possible; custom stat blocks go inline in the adventure note and get an NPC/Item note if they recur.

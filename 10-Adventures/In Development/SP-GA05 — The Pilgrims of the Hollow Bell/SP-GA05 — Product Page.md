@@ -28,7 +28,7 @@ You are new Field Wardens of Greyhawk University. Your orders are stamped in red
 
 Then you reach the relay, and everyone there is dead.
 
-**The Pilgrims of the Hollow Bell** is a one-session adventure of pursuit, dread and hard choices, built around a single idea: *nobody's coming to save you.*
+**The Pilgrims of the Hollow Bell** is a one-session adventure of pursuit, dread, and hard choices, built around a single idea: *nobody's coming to save you.*
 
 ### What you get
 - **A complete 4-hour adventure** for four to six 3rd-level characters, with scaling for every party size and cut lines if you run long.
@@ -36,7 +36,7 @@ Then you reach the relay, and everyone there is dead.
 - **A thirteen-toll climax** with seven ways to stop the bell, and five written endings, including the one where you lose.
 - **A villain with a plan and a calendar.** The Grey Sickle's scheme runs whether or not the characters interfere.
 - **Seven stat blocks** (the Penny-Risen, Ghoul Rider and Barrow Dead with full bestiary entries), **three new spells** and **five new magic items**.
-- **Six handouts**, including the relay log, a cultist's notes and a set of **God Cards** your players earn by learning who Nerull, Pelor, Obad-Hai and Beory are.
+- **Six handouts**, including the relay log, a cultist's notes, and a set of **God Cards** your players earn by learning who Nerull, Pelor, Obad-Hai, and Beory are.
 - **The Field Warden's Primer**, a two-page player handout that sets the scene and spoils nothing.
 - **Six side quests** that grow out of what your table did.
 - **Five maps** and more than thirty pen-and-ink illustrations.

@@ -9,7 +9,7 @@ tags: [yati, drover, old-faith, uplands, SP-GA05]
 
 # Brenna
 
-> A Yati drover bringing her flock down for the winter, with a dog, a crook and no patience for students.
+> A Yati drover bringing her flock down for the winter, with a dog, a crook, and no patience for students.
 
 > [!art]+ Portrait
 > ![[SP-GA05 portrait-brenna.jpg|300]]
