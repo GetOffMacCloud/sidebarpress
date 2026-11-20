@@ -46,6 +46,12 @@ for x in glob.glob(os.path.join(FLAT,'cover.*')):
     if x.endswith('cover.png'): os.remove(x); continue  # our own copy from a previous run
     os.replace(x,os.path.join(FLAT,'cover-art'+os.path.splitext(x)[1]))
 shutil.copyfile(_fc,os.path.join(FLAT,'cover.png'))
+# Colour/B&W pairs (Sidebar Press, 2026-11-20): FGU and Homebrewery use '<name>-color' when it exists, print uses '<name>-print'.
+for f in glob.glob(os.path.join(FLAT,'*-print.*')): os.remove(f)
+for f in glob.glob(os.path.join(FLAT,'*-color.*')):
+    base=os.path.splitext(f)[0][:-len('-color')]
+    for g in glob.glob(base+'.*'): os.remove(g)
+    os.replace(f,base+os.path.splitext(f)[1])
 # Round, transparent tokens for FGU (print art keeps its white ground). Creature tokens are converted in place;
 # NPCs whose portrait doubles as their token get a separate round 'token-<name>' copy.
 import fgtoken

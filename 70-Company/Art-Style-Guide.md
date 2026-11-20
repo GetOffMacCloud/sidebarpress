@@ -90,3 +90,9 @@ Every bestiary creature also gets a **full-color portrait** for the screen. It's
 - Put on the cover: the hook, the place, the mood, or an early threat the party meets in the first half.
 - Test: a player who has seen only the cover should not be able to say what the last fight is.
 - The same goes for the back cover, the product page preview and any promo image.
+
+## Colour and black-and-white pairs (Greybeard, 2026-11-20)
+Every module image needs two versions. **Colour** is for the Fantasy Grounds module and the Homebrewery brew; **black and white** is for the print PDF (physical printing constraints).
+- Name them `<CODE> <name>.<ext>` and `<CODE> <name>-color.<ext>`. Where the art was made in colour first (a CharGen battle map, a parchment handout), the plain file can be the colour one and the print version is `<name>-print.<ext>`, as with the GA5 Kalbach map.
+- The module build uses `-color` when it exists and never ships `-print`. The PDF uses `-print` when it exists; anything else is converted to greyscale.
+- A print version of a colour battle map is a traced ink redraw (crosshatched, readable in greyscale), not a filter.
