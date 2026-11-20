@@ -11,7 +11,7 @@ Written 2026-11-20 for the open art items from the audit. House rules: `--v 8.1`
 
 ## Portraits (square, print ink)
 
-All portraits are **vignettes** (Art-Style-Guide, 2026-11-20): figure alone on bare white paper, no scenery. Done 2026-11-20: Halse (approved, the reference vignette), Krafft (approved as a full-scene one-off). Grukka needs a re-roll or Vary (Region) on the mouth: the first render has two tusks.
+All portraits are **vignettes** (Art-Style-Guide, 2026-11-20): figure alone on bare white paper, no scenery. Done 2026-11-20: Halse (approved, the reference vignette), Krafft (approved as a full-scene one-off). Grukka done 2026-11-20: Greybeard's re-render, right-hand tusk painted down to a broken stump and the image mirrored so the missing tusk is his left.
 
 **Sister Halse** (replaces the current portrait: no cross pendant, add the tally ledger)
 ```
@@ -39,6 +39,8 @@ Night on a lonely moorland road, a squat round stone signal tower beside a shall
 None needed. The existing relay, orc camp, and Bell-Tor maps stay (grid and keyed labels to be added, as for Kalbach). The tower interior is `SP-GA05 map-hollen-ford-tower.png` (Greybeard, 2026-11-20). The bridge on the route overview was painted out and replaced with a stepping-stone ford (2026-11-20; original in `maps/_superseded`).
 
 ## Token
+Done 2026-11-20: Greybeard's fox render, enlarged to fill the token, inked darker, a little ground added, and redrawn in the lamb token's double ring.
+
 
 **Zombie fox** (match the thin single ring of the dog and lamb tokens)
 ```
