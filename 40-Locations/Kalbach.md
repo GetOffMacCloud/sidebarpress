@@ -20,4 +20,4 @@ tags: [uplands, ritterstadt, SP-GA05]
 - **Afterward:** if saved, Kalbach remembers the wardens and sends word to the Yati. If lost (Ending C), it is a village of the dead and a standing hazard on the drove road.
 
 ## Canon Notes
-Invented; **table canon** for Ritterstadt (ruled 2026-11-12). Still to be added to RG-07.
+Invented; **table canon** for Ritterstadt (ruled 2026-11-12). Listed in [[RG-07 — Perrenland & the Neighbours]] under "The Towns Within a Week".

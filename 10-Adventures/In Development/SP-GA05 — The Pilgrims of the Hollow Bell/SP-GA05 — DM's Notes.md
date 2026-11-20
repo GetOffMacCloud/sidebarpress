@@ -139,7 +139,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 |---|---|---|---|---|
 | **1 — Common fear** | Folk don't say his name: *the Reaper*, *Him Below*. They don't pray to him: appeasing him draws his eye. | Pfaff; any villager; the clerk. | Automatic. | Why Kalbach let the "mendicants of Wee Jas" in. Religion DC 12: Wee Jas's clergy don't travel in grey or bless wells. |
 | **2 — The god** | Nerull: Flan god of death, darkness, murder and the underworld; to the Old Faith, god of winter. A black-robed skeleton, rust-red beneath, with **Lifecutter**, a staff that grows a scythe blade of red light. Symbol: skull and scythe. | The lychgate; the Pelorite elder; the clapper's wrappings. | Religion DC 10. | Unlocks F1. |
-| **3 — The clergy** | Murderers who call murder worship; rust-red robes; hidden temples; prayer in total darkness; made priests by being **buried alive**. Patron of the Horned Society. This cell is the **Grey Sickle**, marking the owed with circles of ash. | Halse's notes; a captured acolyte; Ansgar; the ash circles. | Religion or History DC 13. | Rust-red under grey is a sure sign; an ash circle means that house drank. |
+| **3 — The clergy** | Murderers who call murder worship; rust-red robes; hidden temples; prayer in total darkness; made priests by being **buried alive**. Assassins and thieves take him as patron. This cell is the **Grey Sickle**, marking the owed with circles of ash. | Halse's notes; a captured acolyte; Ansgar; the ash circles. | Religion or History DC 13. | Rust-red under grey is a sure sign; an ash circle means that house drank. |
 | **4 — The winter myth** | Nerull hangs Obad-Hai; Pelor cuts him down; Beory's tears bring him back. | Brenna; any druid; the Pelorite elder. | Religion or Nature DC 12, or ask Brenna. | Unlocks the Hanged Stag; explains what the bell is *for*. |
 | **5 — The name** | Nerull grows strong where his name goes unspoken. His priests fear it said aloud by someone unafraid. | Ansgar's fear; the lintel carving; DC 16 on rung 2. | Religion DC 16 (advantage for divine casters). | **Name Him.** |
 
@@ -203,7 +203,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 ---
 
 ## Canon Notes
-**Canon:** Nerull's titles, portfolio, alignment (NE), appearance, Lifecutter, rust-red clergy, burial-alive initiation, services in darkness, appeasement drawing his eye, the Old Faith winter myth, Horned Society patronage (WoG 1983, later sources). His holy day is the Blood Moon Festival (Coldeven 11). Iuz free since 570 CY; war in the Vesve.
+**Canon:** Nerull's titles, portfolio, alignment (NE), appearance, Lifecutter, rust-red clergy, burial-alive initiation, services in darkness, appeasement drawing his eye, the Old Faith winter myth, patron of assassins and thieves (WoG 1983 *Guide* p. 72, later sources). His holy day is the Blood Moon Festival (Coldeven 11). Iuz free since 570 CY; war in the Vesve.
 
 | Name | Type | Ruling |
 |---|---|---|

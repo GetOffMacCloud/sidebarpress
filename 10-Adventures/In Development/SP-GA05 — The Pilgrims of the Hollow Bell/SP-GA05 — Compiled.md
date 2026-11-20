@@ -417,17 +417,20 @@ Each has its own note in `Side Quests/`:
 - Logged in [[Plot-Threads]] and [[Timeline]] (2026-11-19).
 
 ## Sources (Canon Check)
-Page numbers are still to be verified against print before release.
+Checked 2026-11-20 against the PDFs in the Tourist vault (`z_Assets/7_PDFs`). *Guide* = *A Guide to the World of Greyhawk Fantasy Setting* (TSR, 1983 boxed set); *Glossography* = the *Glossography* booklet from the same set; *PGG* = *Player's Guide to Greyhawk* (TSR 9578, 1998); *LGG* = *Living Greyhawk Gazetteer* (WotC, 2000), deities in chapter 7, pp. 164–190.
 
 | Claim | Source | Status |
 |---|---|---|
-| Nerull: the Reaper, god of death, darkness, murder and the underworld; neutral evil; rust-red clergy; Lifecutter | *World of Greyhawk* boxed set (1983), Glossography; *Living Greyhawk Gazetteer* (2000), deities chapter | Canon; page to verify |
-| The Old Faith winter myth (Nerull, Obad-Hai, Pelor, Beory) | *Living Greyhawk Gazetteer*, Obad-Hai and Beory entries | Canon in outline; Brenna's telling is ours; page to verify |
-| Pelor, Obad-Hai (the Shalm), Beory (the Oerth Mother): titles and symbols | *Living Greyhawk Gazetteer*, deities chapter | Canon; page to verify |
-| Blood Moon Festival, Coldeven 11, Luna full | *Living Greyhawk Gazetteer* p. 156 (as indexed) | Canon |
-| Luna's 28-day cycle; new on Ready'reat 4 | *World of Greyhawk* (1983) calendar; computed from Luna full on Coldeven 11 | Canon calendar, our arithmetic |
-| Iuz free since 570 CY; war in the Vesve | *Iuz the Evil* (WGR5); *Living Greyhawk Gazetteer* | Canon (house ruling follows canon) |
-| Horned Society patronage of Nerull | *World of Greyhawk* (1983) | Canon; page to verify |
+| Nerull: the Reaper, Foe of All Good, Hater of Life, Bringer of Darkness, King of All Gloom, Reaper of Flesh; death, darkness, the underworld; neutral evil | *Guide* p. 63 (deity table), p. 72 (Nerull); *PGG* p. 19 (deity table) | Verified |
+| Nerull's clergy wear rust-red or blackish-rust, carry the skull-and-scythe symbol, fight with sickles; worship in full darkness; the scythe-staff Life Cutter; assassins and thieves take him as patron | *Guide* p. 72 | Verified |
+| Obad-Hai, "the Shalm": nature, wildlands, hunting; Flan in origin; his clerics wear russet | *Guide* pp. 72–73; *PGG* p. 19 | Verified |
+| Pelor: sun, strength, light, healing; neutral good | *Guide* p. 63; *PGG* p. 19 | Verified |
+| Beory, the Oerth Mother: Flan greater goddess of the Oerth, nature and rain; symbol a green disk marked with a circle or a rotund woman figurine (the card uses the figurine) | *Guide* p. 63; *PGG* pp. 18–19; *LGG* p. 166 | Verified |
+| The Old Faith winter myth (Beory between Pelor and Nerull; Obad-Hai her son) | Living Greyhawk–era lore (*LGG* ch. 7 and later articles) | Not found in the 1983 or 1998 sources. Presented as Brenna's folk telling, so it stands either way |
+| Blood Moon Festival, Coldeven 11 | *LGG* p. 156 (as indexed) | Index only; not checked against print |
+| Luna's 28-day cycle; full on the 11th Fireseek–Coldeven; **new on the 4th of Patchwall, Ready'reat and Sunsebb**; Celene new on Ready'reat 11 (so a thin waning crescent on Ready'reat 2–4) | *Glossography* p. 19; *Guide* p. 4; *PGG* p. 13 | Verified |
+| Iuz freed from Castle Greyhawk in 570 CY; war in the Vesve | *Guide* pp. 27, 58; *PGG* p. 10 | Verified |
+| ~~Horned Society patronage of Nerull~~ | *Guide* p. 26 gives the Society's religion as deviltry, not Nerull | **Corrected 2026-11-20:** the DM's Notes now say assassins and thieves take Nerull as patron (*Guide* p. 72) |
 | Kalbach, Hollen Ford, Carn Aedh, the Yati, the Grey Sickle, the Sun-Bell, all spells and items | — | Homebrew, labeled |
 
 No 5.5e-only lore is used.
@@ -581,7 +584,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 |---|---|---|---|---|
 | **1 — Common fear** | Folk don't say his name: *the Reaper*, *Him Below*. They don't pray to him: appeasing him draws his eye. | Pfaff; any villager; the clerk. | Automatic. | Why Kalbach let the "mendicants of Wee Jas" in. Religion DC 12: Wee Jas's clergy don't travel in grey or bless wells. |
 | **2 — The god** | Nerull: Flan god of death, darkness, murder and the underworld; to the Old Faith, god of winter. A black-robed skeleton, rust-red beneath, with **Lifecutter**, a staff that grows a scythe blade of red light. Symbol: skull and scythe. | The lychgate; the Pelorite elder; the clapper's wrappings. | Religion DC 10. | Unlocks F1. |
-| **3 — The clergy** | Murderers who call murder worship; rust-red robes; hidden temples; prayer in total darkness; made priests by being **buried alive**. Patron of the Horned Society. This cell is the **Grey Sickle**, marking the owed with circles of ash. | Halse's notes; a captured acolyte; Ansgar; the ash circles. | Religion or History DC 13. | Rust-red under grey is a sure sign; an ash circle means that house drank. |
+| **3 — The clergy** | Murderers who call murder worship; rust-red robes; hidden temples; prayer in total darkness; made priests by being **buried alive**. Assassins and thieves take him as patron. This cell is the **Grey Sickle**, marking the owed with circles of ash. | Halse's notes; a captured acolyte; Ansgar; the ash circles. | Religion or History DC 13. | Rust-red under grey is a sure sign; an ash circle means that house drank. |
 | **4 — The winter myth** | Nerull hangs Obad-Hai; Pelor cuts him down; Beory's tears bring him back. | Brenna; any druid; the Pelorite elder. | Religion or Nature DC 12, or ask Brenna. | Unlocks the Hanged Stag; explains what the bell is *for*. |
 | **5 — The name** | Nerull grows strong where his name goes unspoken. His priests fear it said aloud by someone unafraid. | Ansgar's fear; the lintel carving; DC 16 on rung 2. | Religion DC 16 (advantage for divine casters). | **Name Him.** |
 
@@ -645,7 +648,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 ---
 
 ## Canon Notes
-**Canon:** Nerull's titles, portfolio, alignment (NE), appearance, Lifecutter, rust-red clergy, burial-alive initiation, services in darkness, appeasement drawing his eye, the Old Faith winter myth, Horned Society patronage (WoG 1983, later sources). His holy day is the Blood Moon Festival (Coldeven 11). Iuz free since 570 CY; war in the Vesve.
+**Canon:** Nerull's titles, portfolio, alignment (NE), appearance, Lifecutter, rust-red clergy, burial-alive initiation, services in darkness, appeasement drawing his eye, the Old Faith winter myth, patron of assassins and thieves (WoG 1983 *Guide* p. 72, later sources). His holy day is the Blood Moon Festival (Coldeven 11). Iuz free since 570 CY; war in the Vesve.
 
 | Name | Type | Ruling |
 |---|---|---|
