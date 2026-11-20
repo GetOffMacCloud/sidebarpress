@@ -820,6 +820,8 @@ The horse belonged to a rider and won't leave. The white thing is Sister Halse's
 
 **R2. TOWER, GROUND FLOOR**
 
+![Map — Tower interior (R2)](https://lh3.googleusercontent.com/d/1MKsTzrTOJRSNR5AIgVMkZASliYzOgYRb){width:100%}
+
 {{descriptive
 The tower door stands open on one round room: three bunks, a cold hearth, a desk with an open ledger. Figures stand in the dark, facing the door. None of them is breathing.
 }}
@@ -860,11 +862,11 @@ Knee-deep, fast, and cold: difficult terrain. A prone creature in the water must
 
 ![Tokens](https://lh3.googleusercontent.com/d/18hj_oR2Egq5caEZ-reZfKFCe5NKmBAAA){width:45%}
 
+\page
+
 ![Tokens](https://lh3.googleusercontent.com/d/1sGQ6NHYzSPLi5CR6Qjo497xh8RDEKj9Q){width:45%}
 
 ![Tokens](https://lh3.googleusercontent.com/d/1fzl_e0KfSpu_V8XYZz8L5iBoV_MkUqip){width:45%}
-
-\page
 
 ![Tokens](https://lh3.googleusercontent.com/d/1jf5I00WtqJDCQuhHX42Ki7jMI0ITWbHL){width:45%}
 
@@ -887,6 +889,8 @@ Knee-deep, fast, and cold: difficult terrain. A prone creature in the water must
 
 ![The relay horse](https://lh3.googleusercontent.com/d/1opQIOB6itBKFU75GD2jsEXGbOZf3n83g){width:45%}
 
+\page
+
 ### Loot
 | Item | Where | Notes |
 |---|---|---|
@@ -902,8 +906,6 @@ Knee-deep, fast, and cold: difficult terrain. A prone creature in the water must
 ## E3 — The Orc Camp (Hard)
 
 *Scene 5 of the adventure. Ready'reat 3, dusk, at the foot of Carn Aedh.*
-
-\page
 
 ![Map — The Orc Camp](https://lh3.googleusercontent.com/d/1Lw3bLHtr2jVQd7Qm37Y23RJw764ZKk5D){width:100%}
 
@@ -940,6 +942,8 @@ The remaining **orcs**, dicing for grave-silver and arguing in Orc. One says: *"
 The big tent is stitched from mismatched hides. Inside, a broad grey orc with one tusk sits on a chest, polishing a greataxe across his knees. A blue Furyondian cloak hangs from the tent pole.
 }}
 
+\page
+
 Grukka One-Tusk. The contract is a strip of hide with Ansgar's scythe seal. **Treasure** is in the chest he sits on.
 
 **O4. THE TOR PATH**
@@ -955,8 +959,6 @@ The only way up without climbing. North face: Athletics DC 16 in the frost skips
 *If the horn sounds:* +1 **orc** in round 3 at 4–5 PCs (1,500 and 2,375 adjusted XP: 5 PCs tips into Deadly, so let the picket be silenced), +2 at 6 PCs (about 2,300, top of Hard).
 
 ![Tokens](https://lh3.googleusercontent.com/d/1jWLtbZNhd8r0-xpa32zBcst5hfQnXuAv){width:45%}
-
-\page
 
 ![Tokens](https://lh3.googleusercontent.com/d/1E6_CtNnJnU1Irnc7YeaUBT0AaDOhg8Oz){width:45%}
 
@@ -988,13 +990,13 @@ The picket is doubled and Grukka is armed and awake. No sneaking or parley until
 | Signal horn; rations (3 days for six) | O1, O2 | |
 | **Grukka's debt** | If the orcs are turned or the duel is won | A band of orcs owes the wardens one favor (Grukka's Deserters). |
 
+\page
+
 ## E4 — Thirteen Tolls (Deadly)
 
 *Scene 6 of the adventure. Ready'reat 4, the dark of Luna.*
 
 ![Map — The Bell-Tor Crown](https://lh3.googleusercontent.com/d/1QNEbBkkT3yWiueDhGTwX-bDZ_pMSt7LI){width:100%}
-
-\page
 
 ### Setup
 No Luna, Celene not yet risen, and a hard frost. A torch ring lights the crown and nothing beyond it. Ansgar is casting the Hollowing Toll on The Sun-Bell of Carn Aedh with The Bone Clapper. The barrow field at the Tor's foot browns in a widening circle with every stroke.
@@ -1049,6 +1051,8 @@ Frozen scree: difficult terrain, and a creature moving on it must succeed on a D
 Below the north face the ground is humped with long mounds. The grass on them is browning as you watch, in a ring that widens with every stroke of the bell.
 }}
 
+\page
+
 The barrow dead claw out here and take 2 rounds to climb to the ring.
 
 ### Creatures
@@ -1060,8 +1064,6 @@ The barrow dead claw out here and take 2 rounds to climb to the ring.
 
 **Waves:** each new toll raises **1 barrow dead** in T6, which reaches the ring 2 rounds later. This is by design: at 4 PCs the fight passes 2,800 adjusted XP after three tolls. Don't add anything to it.
 **Toll 13:** Cathal Red-Torc rises in the ring, and the bell is hollowed.
-
-\page
 
 ![Tokens](https://lh3.googleusercontent.com/d/1l1DhnL3DpUM7eAozG6-xpUbC9C0foJor){width:45%}
 

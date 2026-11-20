@@ -236,7 +236,7 @@ for h in sorted(glob.glob(os.path.join(SRC,'*Handout —*.md')),key=lambda p: re
     t=fullnote(h); hi=imgs(t); m.page(AP,re.search(r'^title: "(.*)"',open(h).read(),re.M).group(1),C(t),images=hi,place={k:'$end' for k in hi})  # heading first, handout under it
 m.page(AP,"The Field Warden's Primer",C(fullnote(PRIMER)),images=imgs(fullnote(PRIMER)),links=[PRIM])
 m.page(AP,'Continuing: Side Quests',''.join(C('## '+os.path.basename(q)[:-3]+'\n'+fullnote(q).split('## Theme')[0]) for q in sorted(glob.glob(os.path.join(SRC,'Side Quests','*.md')))),links=[m.Q(k) for k in m.QUEST])
-MAPS=['map-route-overview','map-kalbach','map-hollen-ford-relay','map-orc-camp','map-bell-tor']
+MAPS=['map-route-overview','map-kalbach','map-hollen-ford-relay','map-hollen-ford-tower','map-orc-camp','map-bell-tor']
 m.page(AP,'Maps','<p>Top-down ink maps for the four encounters and the route. No grid is set: calibrate it in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
 # ---- build ----
 m.LINT=[r'SP-GA05-The',r'SP-GA05 — (E\d|Bestiary|Handout|Player)',r'\bParts? [1-5]\b',r'table canon']

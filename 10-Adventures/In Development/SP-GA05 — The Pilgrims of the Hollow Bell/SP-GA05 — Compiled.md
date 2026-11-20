@@ -747,6 +747,9 @@ The horse belonged to a rider and won't leave. The white thing is Sister Halse's
 **Development:** calming the horse (Animal Handling DC 10) wins a mount for the Tor path.
 
 **R2. TOWER, GROUND FLOOR**
+> [!art]- Map — Tower interior (R2)
+> ![[SP-GA05 map-hollen-ford-tower.png|500]]
+
 > *The tower door stands open on one round room: three bunks, a cold hearth, a desk with an open ledger. Figures stand in the dark, facing the door. None of them is breathing.*
 
 The relay's living quarters. The dead stand where they stopped.
