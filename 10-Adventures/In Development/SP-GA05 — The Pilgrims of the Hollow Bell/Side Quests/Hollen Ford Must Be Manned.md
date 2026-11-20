@@ -20,13 +20,13 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 - **Band:** APL 3–4 · sandbox / downtime
 
 ## The Seed
-- The Field Office has no riders to spare. The wardens hold Hollen Ford for a tenday until Readying's relief: light the beacon, carry reports, bury the dead properly.
+- The Field Office has no riders to spare. The log says no relief before Readying, three months off. The wardens hold Hollen Ford for a tenday while the Field Office hires winter riders: light the beacon, carry reports, bury the dead properly.
 - **Every night is a scene:** a Yati rider with news; a refugee family from the Vesve; a courier with sealed orders who isn't who she says; a fox with a lead penny in its mouth.
 - The well still needs cleansing if the wardens didn't do it.
 - The theme pays off: this time, *they* are the help that someone else is waiting for.
 
 ## Player Lead
-The Hollen Ford relay has no riders and no signaller. Somebody has to hold it until Readying.
+The Hollen Ford relay has no riders and no signaller. The log says no relief before Readying. Somebody has to hold it until then.
 
 ## Lead Credit
 **+5** on top of the session's extra credit. Earned when the report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it.

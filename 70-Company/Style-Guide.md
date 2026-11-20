@@ -24,3 +24,6 @@ Every damage figure carries its dice: write `6 (1d6 + 3)`, never a bare `6`. Thi
 - Every adventure opens, advances, or closes at least one plot thread
 - Dangling hooks are deliberate and logged in [[Plot-Threads]]
 - Session logs feed back into thread statuses
+
+## Covers
+The cover never shows the final monster, the final villain or the climax scene. See [[Art-Style-Guide]] (Cover rule).

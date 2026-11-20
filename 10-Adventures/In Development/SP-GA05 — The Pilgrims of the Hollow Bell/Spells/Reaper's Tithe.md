@@ -10,7 +10,7 @@ school: necromancy
 ritual: true
 classes: [cleric, warlock]
 edition: "2014"
-status: draft
+status: edited
 tags: [spell, homebrew, necromancy, nerull, grey-sickle]
 ---
 
@@ -38,6 +38,8 @@ You speak the hours of the dead over a lead coin and drop it into a well, spring
 **At Higher Levels.** When you cast this spell using a slot of 4th level or higher, the corpses rise on the third night instead of the fifth, and a creature that dies of the Tithe after drinking a third or more of its weight in water a day (a horse, a courier after a long ride) rises as a [[Ghoul Rider|ghoul]] instead of a zombie.
 
 ## Notes for the DM
-- Use the caster's spell save DC. Sister Halse's is 11; for the Notice-3 water poisoning, the adventure uses a flat DC 12.
+- Use the caster's spell save DC. Sister Halse's is 12 (the Notice-3 water poisoning).
+- **Not a player spell.** It is a rite of Nerull's priesthood, taught at the burial-alive. No player character class list includes it.
+- Neither Halse nor Ansgar has a 4th-level slot. The Hollen Ford casting used [[The Bone Clapper]]'s *Reaper's measure*.
 - The spell is the mechanism behind every death in the adventure: Kalbach (E1), the Hollen Ford relay (E2), and the wardens' own water at Notice 3.
 - **Found in:** [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]; prepared by [[Sister Halse]].

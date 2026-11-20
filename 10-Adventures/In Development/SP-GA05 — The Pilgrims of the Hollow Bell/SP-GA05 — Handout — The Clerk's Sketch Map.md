@@ -5,7 +5,7 @@ section: appendix-handouts
 publish_order: 610
 publish: true
 title: "Handout 1 — The Clerk's Sketch Map"
-status: draft
+status: edited
 tags: [handout, player-facing, sp-pbs-05]
 ---
 

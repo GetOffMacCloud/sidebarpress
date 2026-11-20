@@ -27,6 +27,13 @@ Hooks planted but never followed up. Review monthly — either promote to Open o
 | Who wanted the mare? | [[SP-GA00-Nobodys-Colors]] | A Rhennee barge offered 600 marks for a farm mare, and was told to watch that boat. Nobody knows who told them. |
 | The Kettenhaus paper behind Erlenhof | [[SP-GA00-Nobodys-Colors]] | Sivert Vuurzward's 400-mark note and Hessel Amtmann's 60 both run on Kettenhaus credit, the house that holds Ritter Konrad's Schuldbrief. See [[The Kettenhaus]]. |
 | The Spring Return (Yecha) | [[SP-GA01-The-False-Arrow]] | Only if the table got *Truth without trust*, *Heard and refused*, or *Cast out*: Cligir told Brennin to come in spring and speak himself. |
+| [[The Grey Sickle's List]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | The next barrows are Hex G5 and the Larch tree line; someone in Ritterstadt made the Sickle a fair copy. |
+| [[The Grave-Silver]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | Barrow-struck Flan silver is paying death-priests and orcs. Who is opening the howes? |
+| [[Ansgar Returns]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | If Ansgar escaped, he comes to Ritterstadt for the bone clapper, then the bell. |
+| [[The Copper-Torc Dead]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | The Tor's barrow dead wear the same torcs as the dead walking out of the Vesve. |
+| [[Grukka's Deserters]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | A band of orc deserters owes the wardens a favor; Iuz's recruiters want them back. |
+| [[Hollen Ford Must Be Manned]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | The relay is empty and the log says no relief before Readying. |
+| [[The Bone Clapper]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | Held at the Field Station for study: the Counted Hours (boon) and the Thirteenth Hour (bane) run until it leaves or is destroyed. |
 
 ## Closed
 | Thread | Resolved In | Outcome |

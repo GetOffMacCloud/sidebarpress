@@ -21,6 +21,7 @@ Run every adventure through this before release. Copy into the adventure's note 
 - [ ] Export versioned (v1.0, v1.1...)
 
 ## Release
+- [ ] Cover checked: it does not show the final monster, the final villain or the climax scene
 - [ ] Listed in [[Release Tracker]]
 - [ ] Announced on RPGSidebar.com
 - [ ] Product page copy written

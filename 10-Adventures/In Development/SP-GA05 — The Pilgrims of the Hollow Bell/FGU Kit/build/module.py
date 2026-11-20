@@ -11,7 +11,7 @@ FG=os.environ.get('FG_DIR',os.path.expanduser('~/mnt/Fantasy Grounds'))
 # ---- edition settings (a renamed edition changes only this block) ----
 CODE='SP-GA05'; NAME='SP-GA05 The Pilgrims of the Hollow Bell'; DISPLAY='SP-GA05 — The Pilgrims of the Hollow Bell'
 SRC=ADV; ASSETS=os.path.join(VAULT,'99-Assets',CODE); TEXT_MAP={}
-EXCLUDE_IMAGES=('portrait-pip-thistlebottom',)                       # Friday-table only
+EXCLUDE_IMAGES=('portrait-pip-thistlebottom','map-kalbach-print','hollen-ford-waystation')                       # Friday-table only
 RENAME_IMAGES={'token-zombie-pip':'token-zombie-signaller','portrait-elrics-squire':'portrait-kalbach-letter-writer','SP-PBS-05 map-orc-camp':'map-orc-camp'}
 DROP_SECTIONS=('Friday Night Field Trips Insert','Open Items')       # DM's Notes sections left out of the sold module
 FRAME='Greyhawk University'
@@ -206,23 +206,23 @@ m.page(I1,'Cast & Locations',C(pick(M,'Key NPCs','Key Locations')),images=['port
 def scene(sec,part,i,links=(),place=None):  # place: {image: anchor}; only placed images go on scene pages
     h,t=PART[part][i]; m.page(sec,h,C(t),images=list(place or {}),links=links,place=place)
 P1,P2,P3,P4,P5=[k for k in PART]
-scene(A1,P1,0,[PRIM],{'handout-4-field-office-notice':'>The Field Office smells','portrait-field-office-clerk':'The clerk gives','handout-1-sketch-map':'$end','map-route-overview':'$end'})
+scene(A1,P1,0,[PRIM],{'handout-4-field-office-notice':'>The Field Office smells','portrait-field-office-clerk':'Wendel Krafft','handout-1-sketch-map':'$end','map-route-overview':'$end'})
 scene(A1,P1,1,(),{'scene-procession':'Ten figures'})
 scene(A1,P2,0,B3('E1')+[m.N(PR),m.IT('reaperspenny')],{'scene-kalbach-dusk':'Kalbach is a dozen','portrait-udo-pfaff':'Sexton Udo Pfaff','portrait-brenna':'Brenna, a Yati','handout-5-winter-telling':'>Brenna, a Yati','item-reapers-penny':'The well.'})
 def encpage(sec,n,links,place):
     t=fullnote(ENC(n)); m.page(sec,os.path.basename(ENC(n))[len(CODE)+3:-3],C(t),images=list(place),links=links,place=place)
 encpage(A1,1,B3('E1')+[m.N(PR),m.N('pennyrisenlamb'),m.N('pennyrisendog'),m.I('map-kalbach'),m.IT('reaperspenny')],{'map-kalbach':'Creatures'})
 scene(A2,P3,0,B3('E2')+[m.N(GH),m.N('relayhorse')],{'handout-2-relay-log':'Who is here','handout-3-halse-notes-p1':'Theme beat','handout-3-halse-notes-p2':'Theme beat','scene-hollen-ford-beacon':'Theme beat'})
-encpage(A2,2,B3('E2')+[m.N(GH),m.N('pennyrisensignaller'),m.N('pennyrisenfox'),m.N('relayhorse'),m.I('map-hollen-ford-relay')],{'map-hollen-ford-relay':'Areas:'})
-scene(A2,P4,0,B3('E3')+[m.N('grukka')],{'portrait-grukka-one-tusk':'Grukka One-Tusk (orog)'})
+encpage(A2,2,B3('E2')+[m.N(GH),m.N('pennyrisensignaller'),m.N('pennyrisenfox'),m.N('relayhorse'),m.I('map-hollen-ford-relay')],{'map-hollen-ford-relay':'Site Key'})
+scene(A2,P4,0,B3('E3')+[m.N('grukka')],{'portrait-grukka-one-tusk':'Grukka One-Tusk'})
 encpage(A2,3,B3('E3')+[m.B('R3'),m.N('grukka'),m.N('orcdeserter'),m.I('map-orc-camp')],{'map-orc-camp':'Site Key','portrait-grukka-one-tusk':'O3. GRUKKA'})
 scene(A3,P5,0,B3('E4')+[m.B('W4'),m.B('X4'),m.IT('sunbell'),m.IT('boneclapper')],{'scene-bell-tor':"The Tor's crown",'portrait-ansgar-vell':"Ansgar's greeting",'portrait-sister-halse':"Ansgar's greeting",
   'portrait-cathal-red-torc':'Ways to stop the bell','item-sun-bell':'Ways to stop the bell','item-bone-clapper':'Ways to stop the bell'})
 encpage(A3,4,B3('E4')+[m.B('W4'),m.B('X4'),m.N('ansgar'),m.N('halse'),m.N('sickleacolyte'),m.N('barrowdead'),m.N('cathal'),m.I('map-bell-tor'),m.IT('sunbell'),m.IT('boneclapper'),m.IT('redtorc'),m.SP('hollowingtoll')],
-  {'map-bell-tor':'Areas:','portrait-ansgar-vell':'Tactics','portrait-sister-halse':'Tactics','portrait-cathal-red-torc':'Toll 13 —'})
+  {'map-bell-tor':'Site Key','portrait-ansgar-vell':'Tactics','portrait-sister-halse':'Tactics','portrait-cathal-red-torc':'Toll 13 —'})
 _cc=M['Concluding the Adventure']; _pre,_rew=_cc.split('### Rewards Beyond Credits',1); _pre=re.sub(r'### Credits\n.*','',_pre,flags=re.S)  # one credits table: the DM's Notes version
 m.page(A3,'Concluding the Adventure',C('## Concluding the Adventure\n'+_pre)+C(pick(D,'Credits (Greyhawk University frame)'))+C('### Rewards Beyond Credits'+_rew),images=['item-yati-lambskin'],
-  links=[m.IT('yatilambskin'),m.IT('redtorc')],place={'item-yati-lambskin':'B — The Bell Taken'})
+  links=[m.IT('yatilambskin'),m.IT('redtorc')],place={'item-yati-lambskin':'B — The Reaper'})
 m.page(AP,'Bestiary',C(re.sub(r'^# .*\n','',body(BEST),count=1)),links=[m.N(k) for k in m.NPC])
 for s in ('Ash Tally',"Reaper's Tithe",'Hollowing Toll'): m.page(AP,'Spell — '+s,C(fullnote(P('Spells/%s.md'%s))),links=[m.SP(re.sub(r'[^a-z]','',s.lower()))])
 MI=[('reaperspenny','item-reapers-penny'),('boneclapper','item-bone-clapper'),('sunbell','item-sun-bell'),('yatilambskin','item-yati-lambskin'),('redtorc',None)]

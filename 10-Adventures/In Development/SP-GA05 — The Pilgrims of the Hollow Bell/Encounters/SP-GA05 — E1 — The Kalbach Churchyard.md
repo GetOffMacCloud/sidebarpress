@@ -7,22 +7,32 @@ publish: true
 title: "E1 — The Kalbach Churchyard"
 rating: Easy
 scene: "Scene 3 — The Hamlet That Was Blessed"
-map: "99-Assets/SP-GA05/maps/SP-GA05 map-kalbach.jpg"
-status: draft
+map: "99-Assets/SP-GA05/maps/SP-GA05 map-kalbach.png"
+status: edited
 tags: [encounter, easy, undead, kalbach]
 ---
 
 # E1 — The Kalbach Churchyard (Easy)
 
-*Scene 3 of [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]. Nightfall, Patchwall 23: the fifth night.*
+*Scene 3 of [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]. Nightfall, Ready'reat 2: the fifth night.*
 
 > [!art]+ Map — Kalbach
-> ![[SP-GA05 map-kalbach.jpg|600]]
+> ![[SP-GA05 map-kalbach.png|600]]
 
 ## Setup
 The dead were buried yesterday in one wide mound. Tonight is the fifth night since they drank. Wet dusk turns to a cold, windy dark; torches gutter. Two houses near the square well carry ash circles on their doors: that's where the dead are walking *to*.
 
 > *The mound in the churchyard shifts. Earth slides off it in wet clumps. A hand comes up, then a shoulder in a shroud, then a lamb's small skull, its wool black with mud. Behind you a shutter slams, and somewhere a dog is barking at nothing.*
+
+## Site Key
+
+**K1. THE SQUARE WELL.** Low stone wall (half cover), a ring of dead grass, a [[Reaper's Penny]] in the silt (**ESSENTIAL CLUE**, F2).
+**K2. THE MARKED HOUSES.** Two houses nearest the well, an ash circle on each door ([[Ash Tally]]). The dead walk here. Doors are wood (AC 15, 18 hp); the families inside bar them.
+**K3. THE LYCHGATE.** A 5-ft. chokepoint between churchyard and lane. A skull-and-scythe is scratched into the post (F1). The two infants lie under it in blessed linen.
+**K4. THE CHURCHYARD AND THE MOUND.** Raw earth, too wide for one body: difficult terrain. The dead rise here at nightfall. The small slate-roofed chapel in the corner has been locked since Kalbach's last priest died; Pfaff keeps the key and the blessed linen there.
+**K5. PFAFF'S HOUSE.** Beside the churchyard. Bread, cheese, dry blankets, the two potions.
+**K6. BRENNA'S FIRE.** In the lee of the sheepfold at the hamlet's edge, where she tells the Winter Telling.
+**K7. THE LANE.** Mud: difficult terrain after the drizzle.
 
 ## Creatures
 | Party | Creatures | Adjusted XP |

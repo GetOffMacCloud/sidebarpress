@@ -20,13 +20,13 @@ tags: [side-quest, seed, sp-pbs-05, sepia-uplands]
 - **Band:** APL 3–4 · investigation + site
 
 ## The Seed
-- The page lists old graves on old nodes in the Uplands, copied in the Illuminators' Guild's fair hand from the Ritterstadt Historical Society archive. Carn Aedh is crossed out.
+- The page lists old graves on old nodes in the Uplands, copied in the Illuminators' Guild's fair hand from the Ritterstadt Historical Society archive. The Hound-Mother's barrow is struck through. Carn Aedh is marked for Ready'reat.
 - **Next names:** the Flan judgment circle at **Hex G5**, and the barrows under the **Larch tree line**.
 - **Who made the copy?** The archive's sign-out ledger shows a commission paid in old coin. **Hesta Varnholm** of the Pale Ledger made a second copy for someone else.
 - **The Ritterstadt beat:** the week the wardens get home, a circle of ash appears on a door in Peat-cutters' Row ([[Ash Tally]]).
 
 ## Player Lead
-A page from a list of old graves, folded inside Sister Halse's notes at Hollen Ford. Carn Aedh is crossed out. The other names are not.
+A page from a list of old graves, folded inside Sister Halse's notes at Hollen Ford. The first name is struck through. Carn Aedh is next. The others are waiting.
 
 ## Lead Credit
 **+15** on top of the session's extra credit. Earned when the field report includes the list page and names the next targets: Hex G5 and the Larch tree line.

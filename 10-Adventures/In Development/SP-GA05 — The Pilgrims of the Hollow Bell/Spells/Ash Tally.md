@@ -10,7 +10,7 @@ school: divination
 ritual: true
 classes: [cleric, warlock]
 edition: "2014"
-status: draft
+status: edited
 tags: [spell, homebrew, divination, nerull, grey-sickle]
 ---
 

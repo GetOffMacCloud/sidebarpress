@@ -5,7 +5,7 @@ section: internal
 publish_order: 20
 publish: true
 title: "DM's Notes — The Pilgrims of the Hollow Bell"
-status: draft
+status: edited
 tags: [dm-only, running-notes, one-shot, nerull, grey-sickle]
 ---
 
@@ -58,7 +58,7 @@ Track **Notice** from 0 to 6 while the wardens shadow the procession.
 - **Or** one character makes a **Survival check, DC 14** to follow the trail from far off. Nobody rolls Stealth that leg; Notice can't change.
 - **Failure:** Notice +1. **Success by 5+:** one F1 or F2 route for free.
 - *Pass without trace* = automatic success that leg. A scout in beast shape or *invisible* removes 1 Notice once per day.
-- **Notice 3:** Sister Halse doubles back at night and drops a penny in the wardens' water. Anyone who drank from shared skins: Constitution DC 12 or **poisoned until their next long rest**. Checking first (Religion or Medicine DC 12) finds the penny. No fight.
+- **Notice 3:** Sister Halse doubles back at night and drops a penny in the wardens' water. Anyone who drank from shared skins: Constitution DC 12 (Halse's spell save DC) or **poisoned until their next long rest**. Checking first (Religion or Medicine DC 12) finds the penny. No fight.
 - **Notice 6:** the Sickle knows it's followed. The orc camp goes on **Alert**, and Ansgar is Alert.
 
 ## Ansgar's Alert States
@@ -77,14 +77,14 @@ Track **Notice** from 0 to 6 while the wardens shadow the procession.
 - **The University** (absent): wants a report. Can't send anyone.
 
 ## Rumors (d6)
-| d6 | Rumor (in the speaker's voice) | Truth |
-|---|---|---|
-| 1 | "The grey folk paid the inn in Flan coin. Green with age. Barrow coin." | True (sequel) |
-| 2 | "They're heading for the bell on Carn Aedh. My gran said it's not to be rung." | True |
-| 3 | "They're Pelorites, going to restore the shrine." | False |
-| 4 | "There's orcs camped under the Tor. Deserters from the Vesve. They're not raiding." | True |
-| 5 | "Hollen Ford's beacon's been dark two nights. Riders must be lazy." | True, but they're not lazy |
-| 6 | "The dead at Kalbach won't lie still because the sexton buried 'em facing north." | False |
+| d6 | Rumor (in the speaker's voice) | Heard from | Truth |
+|---|---|---|---|
+| 1 | "The grey folk paid the inn in Flan coin. Green with age. Barrow coin." | A Ritterstadt taproom | True (sequel) |
+| 2 | "They're heading for the bell on Carn Aedh. My gran said it's not to be rung." | A drover on the road | True |
+| 3 | "They're Pelorites, going to restore the shrine." | Anka Roth, Kalbach | False |
+| 4 | "There's orcs camped under the Tor. Deserters from the Vesve. They're not raiding." | Brenna | True |
+| 5 | "Hollen Ford's beacon's been dark four nights. Riders must be lazy." | Wendel Krafft's junior, Ritterstadt | True, but they're not lazy |
+| 6 | "The dead at Kalbach won't lie still because the sexton buried 'em facing north." | Dieter Kalb, Kalbach | False |
 
 ---
 
@@ -118,17 +118,17 @@ Level-3 thresholds: **4 PCs** Easy 300 · Medium 600 · Hard 900 · Deadly 1,600
 
 ---
 
-## Weather and Sky (Patchwall 23–25, 576 CY)
+## Weather and Sky (Ready'reat 2–4, 576 CY)
 Let the weather tell the Winter Myth: grey and wet while the dead are seeded; a hard, starry frost the night the Reaper's priest tries to make winter permanent.
 
 | When | Weather | Temp | Effects |
 |---|---|---|---|
-| **Day 1** (Patchwall 23) | Low cloud, slow cold drizzle; mist in the valleys | ~45°F | Lightly obscured beyond 150 ft. Bowstrings need covering. Kalbach fight in wet dusk. |
+| **Day 1** (Ready'reat 2) | Low cloud, slow cold drizzle; mist in the valleys | ~45°F | Lightly obscured beyond 150 ft. Bowstrings need covering. Kalbach fight in wet dusk. |
 | **Night 1** (Kalbach) | Drizzle stops; north wind rises | ~35°F | Torches gutter. Wet clothes and no fire: Con DC 10 or no benefit from a short rest overnight. |
-| **Day 2** (Patchwall 24) | Cloud breaks by afternoon; first sleet showers | ~38°F | Lighting the beacon in wind: action + DC 10 check (tinderbox) or any fire spell. Orc fires visible a mile off. |
-| **Night 2** (Patchwall 25, dark of Luna) | Clear, still, freezing; thick stars | ~20°F | **Hard frost:** scree slide save DC 14. Outside the torch ring: darkness. Every toll is heard in Kalbach. |
+| **Day 2** (Ready'reat 3) | Cloud breaks by afternoon; first sleet showers | ~38°F | Lighting the beacon in wind: action + DC 10 check (tinderbox) or any fire spell. Orc fires visible a mile off. |
+| **Night 2** (into Ready'reat 4, the dark of Luna) | Clear, still, freezing; thick stars | ~20°F | **Hard frost:** scree slide save DC 14. Outside the torch ring: darkness. Every toll is heard in Kalbach. |
 
-**Celene**, the Handmaiden, is a thin waning crescent. She doesn't rise until the small hours, low in the east before dawn, so the climax begins under stars and frost alone. No useful light, but a cleric or druid may know the Flan said Celene "watches the dead when Luna won't."
+**Luna** is new on Ready'reat 4 (she is full on Patchwall 18 and Ready'reat 18). **Celene**, the Handmaiden, is a thin waning crescent. She doesn't rise until the small hours, low in the east before dawn, so the climax begins under stars and frost alone. No useful light, but a cleric or druid may know the Flan said Celene "watches the dead when Luna won't."
 
 ---
 
@@ -152,8 +152,8 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 
 - **Nerull**, the Reaper. Symbol: a skull and scythe.
 - **Pelor**, the Sun Father, the Shining One. Symbol: a sun.
-- **Obad-Hai**, the Shalm. Symbol: an oak leaf and acorn, often shown as a face of oak leaves.
-- **Beory**, the Oerth Mother. Symbol: a rounded female figurine.
+- **Obad-Hai**, the Shalm. Symbol: a face of oak leaves.
+- **Beory**, the Oerth Mother. Symbol: a seated stone mother figurine.
 
 **What the stakes mean by faith:**
 | Faith at the table | What this is to them | Lane |
@@ -180,7 +180,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 | Ending | Base (each) | Extra credit |
 |---|---|---|
 | A — The Bell Sleeps | 300 | up to 75 |
-| B — The Bell Taken | 225 | up to 55 |
+| B — The Reaper's Man Walks | 225 | up to 55 |
 | C — Kalbach Lost | 225 | up to 55 (not *Kalbach saved*) |
 | D — The King Walks (laid down or defeated) | 225 | up to 55 |
 | E — Retreat | 0 | — (Academic Probation in a West Marches game) |
@@ -194,7 +194,7 @@ Players should leave knowing who Nerull is, how ordinary folk live alongside him
 | [[The Grey Sickle's List]] | +15 | The field report includes the list page and names the next targets: Hex G5 and the Larch tree line |
 | [[The Copper-Torc Dead]] | +15 | The field report notes the copper torcs and connects them to the dead walking out of the Vesve |
 | [[The Grave-Silver]] | +10 | The wardens bring back a green Flan coin and the report identifies it as barrow-struck |
-| [[Ansgar Returns]] | +10 | After Ending B only: the report says Ansgar escaped with the clapper and will come back for the bell at the next new moon. Ending E pays nothing: a hollowed bell is a crisis, not a lead |
+| [[Ansgar Returns]] | +10 | After Ending B only: the report says Ansgar escaped, names him, and warns that he will come for the clapper and the bell. Ending E pays nothing: a hollowed bell is a crisis, not a lead |
 | [[Grukka's Deserters]] | +5 | Grukka is alive and the report covers his band, the debt and his Furyondian cloak with the knight's badge cut off |
 | [[Hollen Ford Must Be Manned]] | +5 | The report says the relay is unmanned and recommends it be held, or the wardens volunteer to hold it |
 
@@ -221,7 +221,7 @@ For Greybeard's table only (`publish: false` material): run the **6-PC** column.
 - **Elric** (Battle Master): holds the bell stair; Grukka's duel. His squire is from Kalbach and his grandfather is one of the three sick. *(Name the squire.)*
 
 > [!art]- Elric's squire
-> ![[SP-GA05 portrait-elrics-squire.jpg|200]]
+> ![[SP-GA05 portrait-kalbach-letter-writer.jpg|200]]
 
 - **Aeliana** (Light): consecration is 1 action if she takes Pelor. *(Deity still open.)*
 - **Tu'ree** (Twilight): *Eyes of Night* for the moonless Tor; Ansgar tempts her ("Even spring ends").
@@ -236,7 +236,9 @@ For Greybeard's table only (`publish: false` material): run the **6-PC** column.
 
 ## Open Items
 - [ ] Confirm adventure code SP-GA05.
-- [x] Verify Pelor/Obad-Hai/Beory card titles and symbols (LGG); Luna and Celene phases for Patchwall 25, 576. (Done 2026-11-13: Celene waning crescent; titles as on the God Cards list.)
-- [ ] Fix the relay-log typo in Canva ("Reading" → "Readying").
-- [ ] Add Kalbach to RG-07 in both vaults; add a Timeline row (Patchwall 23–25, 576 CY).
+- [x] Verify Pelor/Obad-Hai/Beory card titles and symbols (LGG); Luna and Celene phases. (Done 2026-11-13: Celene waning crescent; titles as on the God Cards list. 2026-11-19: adventure moved from Patchwall 23–25 to Ready'reat 2–4 so the climax falls on the true dark of Luna.)
+- [x] Fix the relay-log typo in Canva ("Reading" → "Readying").
+- [ ] Redo handout art for the 2026-11-19 changes: relay log dates (Patchwall 20–27), notice (300 credits, "wardens"), the List ("Carn Aedh — Ready'reat", crossed out).
+- [ ] Add Kalbach to RG-07 in both vaults. (Timeline row added 2026-11-19.)
+- [ ] **Wendel Krafft** is a placeholder name for the Field Office clerk. Swap in the real Field Station clerk from the Tourist vault if there is one.
 - [ ] Test-import the FGU blocks.

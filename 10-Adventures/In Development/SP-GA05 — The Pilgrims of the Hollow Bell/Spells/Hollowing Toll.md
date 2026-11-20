@@ -10,7 +10,7 @@ school: necromancy
 ritual: false
 classes: [cleric]
 edition: "2014"
-status: draft
+status: edited
 tags: [spell, homebrew, necromancy, nerull, grey-sickle, sun-bell]
 ---
 
@@ -38,7 +38,8 @@ You lay a bone clapper against the lip of a great bell and name the hours of the
 **On an ordinary bell,** the spell raises no more than three corpses in total and can't hollow it.
 
 ## Notes for the DM
-- In [[SP-GA05 — E4 — Thirteen Tolls]], the count starts at 4 (plus modifiers) and Ansgar has one 3rd-level slot left to recast.
-- **Concentration** is Ansgar's weak point: any damage forces a Constitution save. Let the table discover it.
+- In [[SP-GA05 — E4 — Thirteen Tolls]], the count starts at 7 (plus modifiers) and Ansgar has one 3rd-level slot left to recast.
+- **Concentration** is Ansgar's weak point once the clapper is out of his hands: while he holds it he has advantage on the save (*Keeper of the Hours*). Let the table discover it.
+- **Vestments:** the woken dead ignore anyone in the Sickle's rust-red. A stolen habit is a legitimate way onto the Tor.
 - Toll 13 raises [[Cathal Red-Torc]].
 - **Found in:** [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]; prepared by [[Brother-Reaper Ansgar Vell]].

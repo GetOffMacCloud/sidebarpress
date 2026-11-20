@@ -5,7 +5,7 @@ section: appendix-handouts
 publish_order: 640
 publish: true
 title: "Handout 4 — The Field Office Notice"
-status: draft
+status: edited
 tags: [handout, player-facing, sp-pbs-05]
 ---
 

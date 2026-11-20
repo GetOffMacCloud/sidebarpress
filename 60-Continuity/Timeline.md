@@ -39,6 +39,7 @@ Reference only — link to Lore notes for the deep canon.
 | c. 505 CY | Gerhard von Eisfeld files a complaint of breach against the Hundred; it is never answered. *(Homebrew)* | [[The Hundred]] |
 | 491 CY | Iggwilv loses control of Graz'zt; her rule collapses and Perrenland throws off her yoke | [[Iggwilvs-Conquest-of-Perrenland]] |
 | 569 CY | The Battle of Emridy Meadows: the Horde of Elemental Evil is routed and the Temple of Elemental Evil besieged and broken | [[The-Battle-of-Emridy-Meadows]], [[The-Temple-of-Elemental-Evil]] |
+| 576 CY, Ready'reat 2–4 | The Grey Sickle tries to hollow the Sun-Bell of Carn Aedh on the dark of Luna; Kalbach's dead rise; the Hollen Ford relay is lost | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] |
 | 583 CY | Perrenland signs its non-aggression pact with Iuz | [[Perrenland]] |
 
 ---

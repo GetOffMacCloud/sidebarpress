@@ -5,7 +5,7 @@ section: appendix-handouts
 publish_order: 650
 publish: true
 title: "Handout 5 — The Winter Telling"
-status: draft
+status: edited
 tags: [handout, player-facing, sp-pbs-05]
 ---
 

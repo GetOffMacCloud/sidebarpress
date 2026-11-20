@@ -17,12 +17,14 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 > [!art]+ Portrait
 > ![[SP-GA05 portrait-sister-halse.jpg|300]]
 
-*Homebrew variant of the cult fanatic (MM); *ash tally* and *reaper's tithe* added. 2014 rules.*
+*Homebrew variant of the cult fanatic (MM p. 345): Wisdom 15; *ash tally* and *reaper's tithe* added. 2014 rules.*
+- **Loyalty:** Ansgar first, the Sickle second. [Nerull]
+- **Fears:** Losing count. An unfinished tally is the one thing that rattles her.
 
 - **Appearance:** Small and sharp-faced, with ink-stained fingers and a satchel of notes.
 - **Wants:** To be the one who rings the thirteenth toll.
 - **Knows:** The ritual's rules (her notes are Handout 3), the list of barrows, which houses drank.
-- **Escalation:** Doubles back at Notice 3 to poison the wardens' water. Drops her notes at the relay. On the Tor, *hold person* on whoever reaches the frame; takes the clapper if Ansgar flees. Fights to the end.
+- **Escalation:** Doubles back at Notice 3 to poison the wardens' water. Drops her notes at the relay. On the Tor, *hold person* on whoever reaches the frame; takes the clapper if Ansgar flees and rings for as long as his concentration lasts. Fights to the end.
 - **In this adventure:** Tallykeeper of the procession. Fought in [[SP-GA05 — E4 — Thirteen Tolls|E4]].
 
 ## Statblock
@@ -37,10 +39,10 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 > ___
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
+> | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 15 (+2) | 14 (+2) |
 > ___
 > - **Skills** Deception +4, Persuasion +4, Religion +2
-> - **Senses** passive Perception 11
+> - **Senses** passive Perception 12
 > - **Languages** Common, Flan
 > - **Challenge** 2 (450 XP)  **Proficiency Bonus** +2
 > ___
@@ -48,7 +50,7 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 >
 > ***The Count.*** Halse counts everything aloud: tolls, steps, the dead. While she is conscious, the party always knows the current toll count.
 >
-> ***Spellcasting.*** Halse is a 4th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). She has the following cleric spells prepared:
+> ***Spellcasting.*** Halse is a 4th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 > >
 > > Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 > 1st level (4 slots): *ash tally* (ritual), *command*, *inflict wounds*, *shield of faith*
@@ -75,15 +77,15 @@ Armor Class 13 (leather armor)
 Hit Points 33 (6d8 + 6)
 Speed 30 ft.
 STR DEX CON INT WIS CHA
-11 (+0) 14 (+2) 12 (+1) 10 (+0) 13 (+1) 14 (+2)
+11 (+0) 14 (+2) 12 (+1) 10 (+0) 15 (+2) 14 (+2)
 Skills Deception +4, Persuasion +4, Religion +2
-Senses passive Perception 11
+Senses passive Perception 12
 Languages Common, Flan
 Challenge 2 (450 XP)
 Proficiency Bonus +2
 Dark Devotion. Halse has advantage on saving throws against being charmed or frightened.
 The Count. Halse counts everything aloud: tolls, steps, the dead. While she is conscious, the party always knows the current toll count.
-Spellcasting. Halse is a 4th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). She has the following cleric spells prepared:
+Spellcasting. Halse is a 4th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 
 Cantrips (at will): light, sacred flame, thaumaturgy
 1st level (4 slots): ash tally (ritual), command, inflict wounds, shield of faith

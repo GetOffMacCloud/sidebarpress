@@ -81,3 +81,10 @@ Every bestiary creature also gets a **full-color portrait** for the screen. It's
 
 ## Out of scope (screen-only art)
 **VTT battlemap props and Inkarnate custom stamps** stay in their own style. They're never printed, color costs nothing on screen, and black-and-white props would look wrong on a color battlemap. **Covers** are black and white by default. An option worth considering is a monochrome cover: black ink printed on colored cardstock, the classic single-color module cover.
+
+## Cover rule (Greybeard, 2026-11-19)
+**The cover never shows the final monster.** This applies to every Sidebar Press module, in print and on the Fantasy Grounds thumbnail.
+- Keep off the cover: the final villain, the climax creature, and the climax scene itself.
+- Put on the cover: the hook, the place, the mood, or an early threat the party meets in the first half.
+- Test: a player who has seen only the cover should not be able to say what the last fight is.
+- The same goes for the back cover, the product page preview and any promo image.

@@ -6,7 +6,7 @@ publish_order: 590
 publish: true
 title: "The Field Warden's Primer"
 audience: players
-status: draft
+status: edited
 tags: [gazetteer, player-facing, handout, greyhawk-university, ritterstadt, field-wardens]
 ---
 

@@ -5,7 +5,7 @@ section: appendix-handouts
 publish_order: 660
 publish: true
 title: "Handout 6 — The God Cards"
-status: draft
+status: edited
 tags: [handout, player-facing, sp-pbs-05]
 ---
 
@@ -29,7 +29,7 @@ One card per god, given as each is learned (see the Lore Ladder in [[SP-GA05 —
 
 | God | Titles | Symbol |
 |---|---|---|
-| Nerull | The Reaper | Skull and scythe |
+| Nerull | The Reaper, Foe of All Good, Hater of Life, King of All Gloom | A skull and scythe |
 | Pelor | The Sun Father, the Shining One | A sun |
-| Obad-Hai | The Shalm | Oak leaf and acorn (a face of oak leaves) |
-| Beory | The Oerth Mother | A rounded female figurine |
+| Obad-Hai | The Shalm | A face of oak leaves |
+| Beory | The Oerth Mother | A seated stone mother figurine |

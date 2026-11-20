@@ -5,8 +5,8 @@ section: appendix-bestiary
 publish_order: 210
 publish: true
 title: "Bestiary — The Pilgrims of the Hollow Bell"
-status: draft
-tags: [bestiary, appendix, sp-pbs-05]
+status: edited
+tags: [bestiary, appendix, sp-ga05]
 ---
 
 # Bestiary — The Pilgrims of the Hollow Bell
@@ -20,7 +20,7 @@ All statblocks are 2014 5e. Homebrew creatures have full notes with **FGU import
 > *Medium humanoid (human), neutral evil*
 > ___
 > - **Armor Class** 13 (chain shirt)
-> - **Hit Points** 27 (5d8 + 5)
+> - **Hit Points** 44 (8d8 + 8)
 > - **Speed** 25 ft.
 > ___
 > | STR | DEX | CON | INT | WIS | CHA |
@@ -34,7 +34,7 @@ All statblocks are 2014 5e. Homebrew creatures have full notes with **FGU import
 > ___
 > ***Divine Eminence.*** As a bonus action, Ansgar can expend a spell slot to cause his melee weapon attacks to magically deal an extra 10 (3d6) necrotic damage to a target on a hit. This benefit lasts until the end of the turn. If he expends a slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 >
-> ***Keeper of the Hours.*** While Ansgar maintains *hollowing toll* and holds the bone clapper within 5 feet of the Sun-Bell, he strikes the bell on initiative count 20 (losing ties) without using an action.
+> ***Keeper of the Hours.*** While Ansgar maintains *hollowing toll* and holds the bone clapper within 5 feet of the Sun-Bell, he strikes the bell on initiative count 20 (losing ties) without using an action, and he has advantage on Constitution saving throws made to maintain concentration on the spell.
 >
 > ***Spellcasting.*** Ansgar is a 5th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). He has the following cleric spells prepared:
 > >
@@ -58,10 +58,10 @@ All statblocks are 2014 5e. Homebrew creatures have full notes with **FGU import
 > ___
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
+> | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 15 (+2) | 14 (+2) |
 > ___
 > - **Skills** Deception +4, Persuasion +4, Religion +2
-> - **Senses** passive Perception 11
+> - **Senses** passive Perception 12
 > - **Languages** Common, Flan
 > - **Challenge** 2 (450 XP)  **Proficiency Bonus** +2
 > ___
@@ -69,7 +69,7 @@ All statblocks are 2014 5e. Homebrew creatures have full notes with **FGU import
 >
 > ***The Count.*** Halse counts everything aloud: tolls, steps, the dead. While she is conscious, the party always knows the current toll count.
 >
-> ***Spellcasting.*** Halse is a 4th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). She has the following cleric spells prepared:
+> ***Spellcasting.*** Halse is a 4th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 > >
 > > Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 > 1st level (4 slots): *ash tally* (ritual), *command*, *inflict wounds*, *shield of faith*
@@ -127,7 +127,7 @@ All statblocks are 2014 5e. Homebrew creatures have full notes with **FGU import
 > - **Skills** Perception +3, Stealth +4
 > - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 > - **Damage Immunities** poison
-> - **Condition Immunities** poisoned, exhaustion
+> - **Condition Immunities** exhaustion, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 13
 > - **Languages** Old Flan
 > - **Challenge** 3 (700 XP)  **Proficiency Bonus** +2

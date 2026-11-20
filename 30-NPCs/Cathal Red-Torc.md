@@ -42,7 +42,7 @@ tags: [npc, homebrew, sp-pbs-05, undead]
 > - **Skills** Perception +3, Stealth +4
 > - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 > - **Damage Immunities** poison
-> - **Condition Immunities** poisoned, exhaustion
+> - **Condition Immunities** exhaustion, poisoned
 > - **Senses** darkvision 60 ft., passive Perception 13
 > - **Languages** Old Flan
 > - **Challenge** 3 (700 XP)  **Proficiency Bonus** +2
@@ -82,7 +82,7 @@ STR DEX CON INT WIS CHA
 Skills Perception +3, Stealth +4
 Damage Resistances necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 Damage Immunities poison
-Condition Immunities poisoned, exhaustion
+Condition Immunities exhaustion, poisoned
 Senses darkvision 60 ft., passive Perception 13
 Languages Old Flan
 Challenge 3 (700 XP)

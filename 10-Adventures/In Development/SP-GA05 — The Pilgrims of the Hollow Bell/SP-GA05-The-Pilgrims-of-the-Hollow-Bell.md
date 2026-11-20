@@ -5,14 +5,14 @@ section: overview
 publish_order: 10
 publish: true
 title: "The Pilgrims of the Hollow Bell"
-status: draft # draft | playtesting | editing | published
+status: editing # draft | playtesting | editing | published
 levels: "3"
 apl: 3
 party_size: "4-6"
 estimated_hours: 4
 setting: Greyhawk
 region: "Sepia Uplands hill pastures, one to two days east-southeast of Ritterstadt: Kalbach, the Hollen Ford relay, and the Bell-Tor at Carn Aedh"
-in_world_date: "Patchwall 23–25, 576 CY (climax on the dark of Luna)"
+in_world_date: "Ready'reat 2–4, 576 CY (climax on the dark of Luna)"
 created: 2026-11-12
 cover: "99-Assets/SP-GA05/cover/SP-GA05 cover.jpg"
 theme: "Nobody's coming to save you"
@@ -32,7 +32,7 @@ tags: [one-shot, investigation, pursuit, undead, nerull, grey-sickle, old-faith,
 
 > *Nobody's coming to save you.*
 
-**Pitch.** It is Patchwall, and the first frost is on the Uplands. A procession of grey-robed pilgrims is crossing the hills toward a ruined Flan sun-shrine, and every hamlet they bless buries its weakest a few days later. The new Field Wardens are sent to shadow them and report, and they are told not to engage. Then they find the relay they were supposed to report to, and everyone there is dead. Nobody is coming. If the wardens don't stop the pilgrims, no one will.
+**Pitch.** It is Ready'reat, and the frost is hard on the Uplands. A procession of grey-robed pilgrims is crossing the hills toward a ruined Flan sun-shrine, and every hamlet they bless buries its weakest a few days later. The new Field Wardens are sent to shadow them and report, and they are told not to engage. Then they find the relay they were supposed to report to, and everyone there is dead. Nobody is coming. If the wardens don't stop the pilgrims, no one will.
 
 ## Adventure Code
 `SP-GA05` (provisional: SP-GA04 is held by *The Eclipse Circle*). Never reuse codes.
@@ -59,15 +59,15 @@ This is the whole adventure, start to finish, in order of play. Supporting notes
 ---
 
 ## Opening Narration
+**Optional cold open** (thirty seconds, before anything else):
+
+> *Dusk, five days ago. A woman in Kalbach carries her bucket to the square well and stops. Someone has drawn a circle on her door in ash. It will not rub off.*
+
 *Read or paraphrase at the start. It sets the station, the season and the common knowledge, and reveals nothing from What's Really Happening.*
 
-> *A year ago you came up the lake to Ritterstadt as students. You learned the Scholar's Oath, the Job Board, the Field Office's long table under the pinned maps, and the rule every master repeats: the Uplands do not care who you are.*
+> *A year ago you came up the lake to Ritterstadt as students, and this morning the Field Office gave you the warden's token: a pewter disc stamped with the University's tower, on a cord. It means, the clerk said as he handed them out, that if something goes wrong out there, you are the people the University sent.*
 >
-> *This morning the Field Office gave you the warden's token: a pewter disc stamped with the University's tower, on a cord. It means you may take sanctioned field assignments. It means you will be paid in credits for what you bring back. It means, the clerk said, handing them out, that if something goes wrong out there, you are the people the University sent.*
->
-> *It is Patchwall, 576. The first frost was on the palisade at dawn. Half the garrison marched north to the Vesve line ten days ago, and nobody has said why.*
->
-> *The clerk has one assignment left on the table. He slides it toward you.*
+> *It is Ready'reat, 576, and the frost was white on the palisade at dawn. Half the garrison marched north to the Vesve line ten days ago, and nobody has said why. The clerk has one assignment left on the table, and he slides it toward you.*
 
 **To the table:** *"Before you pick it up: what is each of you carrying that you'd hate to lose out there?"* Then go to **Part 1**.
 
@@ -91,13 +91,13 @@ This is the whole adventure, start to finish, in order of play. Supporting notes
 - The [[The Sun-Bell of Carn Aedh|Sun-Bell of Carn Aedh]] is a Flan relic of **Pelor**. It was rung once, to lay the barrow-kings to rest. Ansgar means to **hollow** it with the [[Hollowing Toll]]: thirteen tolls on the dark of Luna, struck with [[The Bone Clapper|a clapper of human bone]]. Each toll wakes barrow dead; the thirteenth wakes the barrow-king **Cathal Red-Torc** as a wight. Hollowed, the bell *raises* the dead instead of laying them down: a Nerullite relic that can empty any graveyard it is carried to.
 - Ansgar has hung a **white stag** from the oak on the Tor, staging the Old Faith's winter myth as a sermon: *this year, nobody cuts the god down.*
 - The Sickle hired a band of **orc deserters** from Iuz's war in the Vesve, paid in old Flan grave-silver. Ansgar means to give the orcs to the bell as well.
-- **Why nobody is coming:** the Sickle passed Hollen Ford two nights ago, and Sister Halse dropped a penny in the relay's well. The riders and the signaller are dead and walking. The last order in the relay log reads: *"Second patrol recalled north to the Vesve line. Hold position. No relief before Readying."*
+- **Why nobody is coming:** the Sickle passed Hollen Ford four nights ago (Patchwall 27), and Ansgar himself cast the Tithe on the relay's well through the bone clapper, at its full strength (see [[The Bone Clapper]]). The riders and the signaller died on the third day and rose that night. The last order in the relay log reads: *"Second patrol recalled north to the Vesve line. Hold position. No relief before Readying."*
 
 ### The Grey Sickle's Scheme (if nobody interferes)
-1. **Patchwall 23:** the procession passes Kalbach a second time without stopping. The Kalbach dead rise that night, the fifth night.
-2. **Patchwall 24, morning:** the procession passes the orc camp and collects its escort.
-3. **Patchwall 24, dusk:** the orcs hold the Tor path. The Sickle climbs the Tor and readies the bell.
-4. **Patchwall 25, dark of Luna:** the Hollowing Toll begins. One toll per round.
+1. **Ready'reat 2:** the procession passes Kalbach a second time without stopping. The Kalbach dead rise that night, the fifth night.
+2. **Ready'reat 3, morning:** the procession passes the orc camp and collects its escort.
+3. **Ready'reat 3, dusk:** the orcs hold the Tor path. The Sickle climbs the Tor and readies the bell.
+4. **Ready'reat 4, dark of Luna:** the Hollowing Toll begins. One toll per round.
 5. **Toll 13:** Cathal Red-Torc rises and the bell is hollowed. The Sickle carries it south toward Ritterstadt's churchyard and leaves the orcs dead on the Tor.
 
 ---
@@ -113,7 +113,7 @@ The Field Office sends the new wardens to shadow a procession of pilgrims and re
 |---|---|---|---|---|---|
 | F1 | **The pilgrims are priests of Nerull.** | Skull-and-scythe scratched on the Kalbach lychgate (Religion DC 10; automatic for a cleric or paladin). | Rust-red under a grey hem, seen while shadowing (Part 1). | An acolyte's prayer: "Reaper, keep the hours." | Ansgar names his god on the Tor. |
 | F2 | **The pennies kill through the wells; the dead rise on the fifth night.** | A Reaper's penny in Kalbach's well (Investigation DC 12, or *detect magic*: necromancy). | Sexton Pfaff: "Only the ones who drank from the square well." | Dead-grass rings at each well (Nature or Survival DC 11), and ash circles on the doors of houses that drank. | The Kalbach mound breaks open; a zombie has a lead penny under its tongue. |
-| F3 | **No relief is coming.** | The Hollen Ford relay log (Handout 2). | The dead signaller still holding the unlit beacon torch. | The relay horse, via *speak with animals*: "The riders drank. Then they stopped being the riders." | Ansgar: "Your riders are mine, children." |
+| F3 | **No relief is coming.** | The Hollen Ford relay log (Handout 2). | The dead signaller still holding the unlit beacon torch. | The relay horse, via *speak with animals*: "The riders drank. Then they stopped being the riders." | Ansgar: "Your riders are mine now. They kept better hours dead." |
 | F4 | **The bell can be stopped: muffle it, consecrate it, take the clapper, or break the ringer's concentration.** | The Pelorite lintel carving on the Tor: a sun over a bell bound in cloth (Religion or History DC 12). | Brenna: "When the old priests rang it, they wrapped it in a lambskin after. So the sound would sleep." | Halse's notes (Handout 3): "The clapper must be bone and the bell bare." | A toll struck through a cloak raises nothing, and the wardens can see it. |
 
 **Nudge list:** (1) A Kalbach child asks why the grey people "fed the well a penny." (2) A crow drops a lead penny at someone's feet. (3) Approaching Hollen Ford, the beacon is visibly unlit. It should be burning.
@@ -130,13 +130,13 @@ The Field Office sends the new wardens to shadow a procession of pilgrims and re
 - **Family in the hills:** a cousin writes from Kalbach that "the grey people blessed the well," and Grandfather has taken sick.
 
 > [!art]- The letter-writer from Kalbach (family hook)
-> ![[SP-GA05 portrait-elrics-squire.jpg|260]]
+> ![[SP-GA05 portrait-kalbach-letter-writer.jpg|260]]
 
 - **A soldier's or courier's past:** one of the Hollen Ford riders served with them. Her horse is still there and still loyal.
 - **Scholarship:** Antiquities wants a rubbing of the Tor's lintel carving (+extra credit).
 - **A criminal past:** a Ritterstadt fence was offered green, barrow-struck silver by "orcs who want to buy rope."
 
-**Decline path.** If the wardens won't go, Hollen Ford's beacon is still dark two days later. A Yati rider comes in: Kalbach's dead are walking, and a bell is ringing on Carn Aedh. Start at Part 3 with the toll count at 6.
+**Decline path.** If the wardens won't go, Hollen Ford's beacon is still dark two days later. A Yati rider comes in: Kalbach's dead are walking, and a bell is ringing on Carn Aedh. Start at Part 3 with the toll count at 9.
 
 ---
 
@@ -153,7 +153,7 @@ The Field Office sends the new wardens to shadow a procession of pilgrims and re
 > [!art]+ Handout 4 — The Field Office Notice
 > ![[SP-GA05 handout-4-field-office-notice.png|400]]
 
-The clerk gives the wardens a sketch map marking Kalbach, Hollen Ford and Carn Aedh, and adds, quietly: *"The Reeve's watch is stretched thin. Half the garrison's gone north. Just watch them. Somebody else will deal with them."* The riders at the Ford will "take it from there." Deliver personal hooks here.
+**Wendel Krafft**, the Field Office clerk, gives the wardens a sketch map marking Kalbach, Hollen Ford and Carn Aedh, and adds, quietly: *"The Reeve's watch is stretched thin. Half the garrison's gone north. Just watch them. Somebody else will deal with them."* The riders at the Ford will "take it from there." Deliver personal hooks here.
 
 > [!art]+ Handout 1 — The Clerk's Sketch Map
 > ![[SP-GA05 handout-1-sketch-map.jpg|500]]
@@ -161,7 +161,12 @@ The clerk gives the wardens a sketch map marking Kalbach, Hollen Ford and Carn A
 > [!art]- DM map — The Route (overview)
 > ![[SP-GA05 map-route-overview.jpg|600]]
 
-**The clerk** knows the relay is "two riders and a signaller" and that the beacon "brings the garrison by noon." He believes it.
+**Wendel Krafft** [Delleb]. *Wants:* every warden he signs out signed back in. *Knows:* the relay is "two riders and a signaller" and the beacon "brings the garrison by noon." He believes it. *Reacts:* answers any question about procedure, none about the north.
+
+**Krafft's lines:**
+- *"Sign here. And here. That one's so we know whose token it was."*
+- *"You're not to speak to them. You're not to be seen by them. You're a pair of eyes and a pencil."*
+- (if asked what happens if it goes wrong) *"You light the beacon. The garrison comes. That's what it's for."*
 
 ### Scene 2: Shadowing the Procession (20 min)
 *Purpose:* the Notice track (see [[SP-GA05 — DM's Notes#The Notice Track|DM's Notes]]), F1, the scouts' spotlight.
@@ -171,10 +176,11 @@ The clerk gives the wardens a sketch map marking Kalbach, Hollen Ford and Carn A
 
 > *Ten figures in undyed grey walk the drove road in single file, heads bowed. A handcart creaks between them, its load roped under sacking. Every so often they stop together, and one of them sings a single low note.*
 
-Run three legs on Day 1 (Patchwall 23). Low cloud and drizzle; the hills are lightly obscured past 150 feet. The scout team rolls; armored characters stay a mile back.
-- **Success by 5 or more:** the overheard prayer, *"Reaper, keep the hours. Thirteen for the king under the hill."* A scout within 30 feet sees rust-red under a grey hem (F1).
-- **Under the sacking** (Stealth DC 15, one try): a long white clapper wrapped in black linen, and a sack of lead coins.
-- **Notice 3:** Halse doubles back that night and drops a penny in the wardens' water (Constitution DC 12 or poisoned until the next long rest; Religion or Medicine DC 12 finds it first). No fight.
+Run three legs on Day 1 (Ready'reat 2). Low cloud and drizzle; the hills are lightly obscured past 150 feet. The scout team rolls; armored characters stay a mile back. Each leg shows the wardens something different.
+- **Leg 1, the sung note.** The procession halts at a wayside stone and Ansgar sings his one low note. *Success by 5 or more:* the overheard prayer, *"Reaper, keep the hours. Thirteen for the king under the hill."* (F1). **Under the sacking** (Stealth DC 15, one try, this leg only): a long white clapper wrapped in black linen, and a sack of lead coins.
+- **Leg 2, the trough.** From a ridge the wardens watch the pilgrims water at a drover's trough. The small one at the rear lingers, speaks over the water and lets something fall. The grass around the trough is already brown from their last circuit. *Success by 5 or more:* a scout who goes down afterward finds the lead penny (F2).
+- **Leg 3, the count.** Halse stops, turns and counts the hills aloud, as if one were missing. *Success by 5 or more:* a scout within 30 feet sees rust-red under her grey hem (F1) and hears the number she reaches: thirteen.
+- **Notice 3:** Halse doubles back that night and drops a penny in the wardens' water (Constitution DC 12 or poisoned until the next long rest; Religion or Medicine DC 12 finds it first). A warden on watch who succeeds on a DC 14 Wisdom (Perception) check sees her come. She runs and doesn't fight; if caught she says only, *"You're counted now. That's all. You're counted."*
 - **Notice 6:** the orc camp goes on Alert (Part 4).
 
 Ansgar and Halse can be seen at a distance: the tall, shaven-headed one at the front who sings; the small one at the rear who counts.
@@ -198,17 +204,22 @@ Ansgar and Halse can be seen at a distance: the tall, shaven-headed one at the f
 > [!art]+ Sexton Udo Pfaff
 > ![[SP-GA05 portrait-udo-pfaff.jpg|260]]
 
-- **Sexton Udo Pfaff.** *Wants:* his dead to stay in the ground. *Knows:* only the square-well houses sickened (F2). *Reacts:* begs the wardens to stay the night; if they do, he gives them the hamlet's last two *potions of healing*.
+- **[[Udo Pfaff|Sexton Udo Pfaff]]** [Pelor]. *Wants:* his dead to stay in the ground. *Knows:* only the square-well houses sickened (F2). *Reacts:* begs the wardens to stay the night; if they do, he gives them the hamlet's last two *potions of healing*.
+  - *"Only the ones who drank from the square well. I dug for four and I'll be digging for three more."*
+  - *"I'm not asking the University. I'm asking you. One night. I've a spade and a lantern and I am sixty-one years old."*
 
 > [!art]+ Brenna, Yati drover
 > ![[SP-GA05 portrait-brenna.jpg|260]]
 
-- **Brenna, a Yati drover.** *Wants:* her flock out of the valley before dark. *Knows:* the lambskin custom (F4), the Hanged Stag rite, and the Winter Telling, which she'll tell to anyone who sits at her fire. *Reacts:* wary of University people; warms to anyone who knows the Old Faith or helps with the sheep.
+- **[[Brenna]], a Yati drover** [Obad-Hai, Beory]. *Wants:* her flock out of the valley before dark. *Knows:* the lambskin custom (F4), the Hanged Stag rite, and the Winter Telling, which she'll tell to anyone who sits at her fire. *Reacts:* wary of University people; warms to anyone who knows the Old Faith or helps with the sheep. *Flaw:* she leaves at first light whatever happens. **She is the adventure's safety valve:** if the table is lost, Brenna says what she has seen.
+  - *"University. You'll be wanting to write us down, then."*
+  - *"When the old priests rang it, they wrapped it in a lambskin after. So the sound would sleep."*
+- **Others in Kalbach** (one line each, for color and rumors): **Anka Roth**, a widow who liked the pilgrims and insists they were Pelorites (*"They prayed over my Josef. Nobody else came."*); **Lise**, the child with the spoon, who saw the grey people "feed the well a penny"; **Dieter Kalb**, the miller's son, who wants someone to blame and has picked Brenna's Yati.
 
 > [!art]+ Handout 5 — The Winter Telling
 > ![[SP-GA05 handout-5-winter-telling.png|400]]
 
-**The well.** A [[Reaper's Penny]] lies in the silt (F2). Removing it and cleansing the water (a prayer with Religion DC 13, *purify food and drink*, *remove curse*, or a druid's Nature DC 13 to divert the spring overnight) ends the curse.
+**The well.** A [[Reaper's Penny]] lies in the silt (**ESSENTIAL CLUE**, F2). Removing it and cleansing the water (a prayer with Religion DC 13, *purify food and drink*, *remove curse*, or a druid's Nature DC 13 to divert the spring overnight) ends the curse.
 
 > [!art]+ The Reaper's Penny
 > ![[SP-GA05 item-reapers-penny.jpg|220]]
@@ -217,15 +228,17 @@ Ansgar and Halse can be seen at a distance: the tall, shaven-headed one at the f
 
 **The lychgate.** A skull-and-scythe scratched into the post (F1).
 
-**Nightfall: Encounter 1.** The mound breaks open. The dead, and two lambs, walk toward the houses. Full encounter: **[[SP-GA05 — E1 — The Kalbach Churchyard]]**.
+**Running short?** Hand out the Winter Telling (Handout 5) and have Brenna say only its last line. Treat the three sick villagers as background: they recover if the well is cleansed.
+
+**Nightfall: Encounter 1.** The mound breaks open. The dead, and a lamb or two, walk toward the houses. Full encounter: **[[SP-GA05 — E1 — The Kalbach Churchyard]]**.
 
 > [!art]- Map — Kalbach
-> ![[SP-GA05 map-kalbach.jpg|600]]
+> ![[SP-GA05 map-kalbach.png|600]]
 
 > [!art]- Tokens — the Kalbach dead
 > ![[SP-GA05 token-zombie-villager.jpg|140]] ![[SP-GA05 token-zombie-lamb.jpg|140]] ![[SP-GA05 token-zombie-dog.jpg|140]]
 
-**Choice:** staying the night costs time. The procession gets well ahead, and the wardens reach Hollen Ford after dark on Day 2, so the ritual has already begun when they reach the Tor (starting toll +1). If they leave, Kalbach is overrun (Conclusion C).
+**Choice:** staying the night costs time. Burning or blessing the dead and cleansing the well takes until noon, so the procession gets well ahead and the wardens reach Hollen Ford after dark on Day 2, so the ritual has already begun when they reach the Tor (starting toll +1). If they leave, Kalbach is overrun (Conclusion C).
 
 ---
 
@@ -247,7 +260,7 @@ Ansgar and Halse can be seen at a distance: the tall, shaven-headed one at the f
 **Who is here:** the two riders (**ghouls**, in the stable loft, waiting for the wardens to split up) and the signaller, two travellers and a fox (**zombies**). The signaller still holds the unlit beacon torch (F3).
 
 > [!art]+ The signaller
-> ![[SP-GA05 token-zombie-pip.jpg|140]]
+> ![[SP-GA05 token-zombie-signaller.jpg|140]]
 
 Full encounter: **[[SP-GA05 — E2 — The Hollen Ford Relay]]**.
 
@@ -259,7 +272,7 @@ Full encounter: **[[SP-GA05 — E2 — The Hollen Ford Relay]]**.
 
 **After the fight:**
 - **The beacon** can be lit (an action and a DC 10 check in the wind). Nobody answers it. Let it burn all night, and let the players watch the dark.
-- **Halse's notes** were dropped in the yard (Handout 3; F4). Folded inside is one page of the Grey Sickle's list of barrows, in a copyist's fair hand.
+- **Halse's notes** were dropped in the yard (Handout 3; **ESSENTIAL CLUE**, F4). Folded inside is one page of the Grey Sickle's list of barrows, in a copyist's fair hand.
 
 > [!art]+ Handout 3 — Sister Halse's Notes
 > ![[SP-GA05 handout-3-halse-notes-p1.png|400]] ![[SP-GA05 handout-3-halse-notes-p2.png|400]]
@@ -285,9 +298,15 @@ Full encounter: **[[SP-GA05 — E2 — The Hollen Ford Relay]]**.
 
 > *Firelight shows in a hollow at the foot of the hill: hide tents, a fire ringed with stones, a big tent of stitched hides, and a lookout squatting on a boulder above the path with a horn across his knees. Somebody is arguing in Orc about silver.*
 
-**Grukka One-Tusk** (orog) and his deserters were paid in old Flan grave-silver to hold this path until the dark of the moon. One of them says the silver is cursed: *"It's barrow coin, Grukka. The dead want it back."* Grukka's contract is a strip of hide with Ansgar's scythe seal.
+**Grukka One-Tusk** and his deserters were paid in old Flan grave-silver to hold this path until the dark of the moon. One of them says the silver is cursed: *"It's barrow coin, Grukka. The dead want it back."* Grukka's contract is a strip of hide with Ansgar's scythe seal.
 
-**Ways through:** fight; **turn them** with Halse's notes ("the hired beasts go to the bell last"; Persuasion or Intimidation DC 12 with the notes, DC 18 without; turned orcs fight for the wardens in the climax); **the challenge** (Grukka accepts single combat and honors the result); **sabotage**; or **sneak past** and climb the north face (Athletics DC 15; armored characters need rope, flight or teleportation).
+**Grukka's lines:**
+- (threat) *"Road's closed. Paid closed. Walk back the way you came and you keep your feet."*
+- (the bribe) *"Here. Old silver. More than your school pays. Take it and be somewhere else till morning."*
+- (shown the notes) *"Read it again. Slow. ...'The hired beasts.' He shook my hand."*
+- (the duel) *"One of you. One of me. No bows, no spells, nobody behind. I yield, we walk. You yield, you're mine till dawn."*
+
+**Ways through:** fight; **turn them** with Halse's notes ("the hired beasts go to the bell last"; Persuasion or Intimidation DC 12 with the notes, DC 18 without; turned orcs fight for the wardens in the climax); **the challenge** (Grukka accepts single combat and honors the result); **sabotage**; or **sneak past** and climb the north face (Athletics DC 16; armored characters need rope, flight or teleportation).
 
 Full encounter: **[[SP-GA05 — E3 — The Orc Camp]]**.
 
@@ -319,7 +338,15 @@ Full encounter: **[[SP-GA05 — E3 — The Orc Camp]]**.
 
 **Ansgar's greeting** (if the wardens show themselves): *"Wardens. The University sends children now. No matter. The Reaper takes the young as gladly as the old, and nobody is coming for you either."*
 
-**The ritual clock.** Ansgar maintains the [[Hollowing Toll]] (concentration) and strikes the bell once each round on initiative 20 with [[The Bone Clapper]]. The count starts at **4** (+1 if the wardens stayed at Kalbach, +1 if Ansgar is Alert). Each new toll raises **1 barrow dead**, which reaches the ring 2 rounds later. **Toll 13:** Cathal Red-Torc rises and the bell is hollowed.
+**More lines for the Tor:**
+- Ansgar, when the bell is muffled: *"Take that off. Take it OFF. You don't know what you're keeping from them."*
+- Ansgar, as he runs: *"Count, Halse. Whatever happens, count."*
+- Halse, each toll: the number, flatly, and nothing else. On twelve: *"One more."*
+- Halse, taking the clapper: *"He always said I'd ring the last one."*
+- Halse, if the count is lost: *"No. No, I had it. I had it."*
+- An acolyte who surrenders (**Brother Emeric**, the youngest; see [[SP-GA05 — E4 — Thirteen Tolls|E4]]): *"I was buried four days. He dug me up himself. You don't say no after that."*
+
+**The ritual clock.** Ansgar maintains the [[Hollowing Toll]] (concentration) and strikes the bell once each round on initiative 20 with [[The Bone Clapper]]. The count starts at **7** (+1 if the wardens stayed at Kalbach, +1 if Ansgar is Alert, +1 if an orc fled uphill to warn him). Each new toll raises **1 barrow dead**, which reaches the ring 2 rounds later. **Toll 13:** Cathal Red-Torc rises and the bell is hollowed.
 
 > [!art]+ The Sun-Bell and the Bone Clapper
 > ![[SP-GA05 item-sun-bell.jpg|260]] ![[SP-GA05 item-bone-clapper.jpg|260]]
@@ -327,9 +354,9 @@ Full encounter: **[[SP-GA05 — E3 — The Orc Camp]]**.
 **Ways to stop the bell (F4):**
 - **Muffle it:** a lambskin, cloak or bedroll wrapped over the lip (an action; Athletics DC 12 if an acolyte is adjacent). A muffled toll raises nothing and doesn't count. So does a toll under *silence*.
 - **Take the clapper:** a contested grapple or a disarm.
-- **Consecrate the bell:** a divine caster holds a holy symbol to it for 2 consecutive actions (1 for a priest of Pelor or another sun god), or two do it for 1 action each in the same round. The bell rings once on its own, clear and warm; every barrow dead on the Tor falls; the bell can't be hollowed.
-- **Break Ansgar's concentration:** the tolls stop until he recasts the Hollowing Toll (one 3rd-level slot left; the count is kept).
-- **Kill or rout Ansgar:** at half hit points he passes the clapper to Halse and flees down the south face.
+- **Consecrate the bell:** a divine caster holds a holy symbol to it for 2 consecutive actions (1 for a priest of Pelor or another sun god), or two do it for 1 action each in the same round. A caster who takes damage before the consecration is complete must succeed on a DC 10 Constitution save or lose the action spent. The bell rings once on its own, clear and warm; every barrow dead on the Tor falls; the bell can't be hollowed.
+- **Break Ansgar's concentration:** hard while he holds the clapper (he has advantage on the save), easy once it is taken from him. The tolls stop until he recasts the Hollowing Toll (one 3rd-level slot left; the count is kept).
+- **Kill or rout Ansgar:** at half hit points (22) he passes the clapper to Halse and flees down the south face, still concentrating. Halse rings until his concentration ends. He never leaves with the clapper.
 - **Name Him** (Lore Ladder rung 5): speak the Reaper's name as a challenge. Acolytes save or are frightened; Ansgar stops ringing for a round to answer.
 - **The Hanged Stag:** cutting the stag down (an action) halves the barrow dead's speed for the rest of the fight.
 
@@ -353,7 +380,7 @@ Full encounter: **[[SP-GA05 — E4 — Thirteen Tolls]]**.
 > [!art]+ The Yati Lambskin
 > ![[SP-GA05 item-yati-lambskin.jpg|220]]
 
-**B — The Bell Taken (partial).** The bell was stopped, but Ansgar escaped with the bone clapper. Hollowing needs both, so he will come back for the bell.
+**B — The Reaper's Man Walks (partial).** The bell was stopped and the wardens hold the bone clapper, but Ansgar escaped. Hollowing needs both, and he knows where both are going.
 
 **C — Kalbach Lost (cost).** The wardens went straight past Kalbach. The bell is saved, but Kalbach is a village of the dead. The Field Office's report mentions it in one line. Let that sit.
 
@@ -362,7 +389,7 @@ Full encounter: **[[SP-GA05 — E4 — Thirteen Tolls]]**.
 **E — Retreat.** The wardens leave the Tor. The bell is hollowed and gone, and the valley's wells sour one by one. Ritterstadt hears it from a Yati rider a week later.
 
 ### The Report
-Back at the Field Office, the clerk reads the relay log, then the wardens' report, then the log again. He signs the credit chit without a word. The beacon was seen from the palisade, he admits. There was no one to send.
+Back at the Field Office, the clerk reads the relay log, then the wardens' report, then the log again. He signs the credit chit without a word. If the wardens carry the bone clapper, he won't touch it: he sends for Antiquities, and it goes into a locked case at the Field Station (see [[The Bone Clapper#Held in Ritterstadt]]). The beacon was seen from the palisade, he admits. There was no one to send.
 
 ### Credits
 | Ending | Base (each) | Extra credit available |
@@ -379,7 +406,7 @@ Back at the Field Office, the clerk reads the relay log, then the wardens' repor
 > [!art]+ Handout 6 — The God Cards
 > ![[SP-GA05 handout-6-god-cards-p1.png|200]] ![[SP-GA05 handout-6-god-cards-p2.png|200]] ![[SP-GA05 handout-6-god-cards-p3.png|200]] ![[SP-GA05 handout-6-god-cards-p4.png|200]]
 
-- **The bone clapper** (if recovered): evidence and a quest seed. See [[The Bone Clapper]].
+- **The bone clapper** (if recovered): the wardens bring it back to Ritterstadt for the Department of Antiquities to study. While it is held in the town it gives Ritterstadt a boon, **the Counted Hours**, and a bane, **the Thirteenth Hour**. See [[The Bone Clapper#Held in Ritterstadt]].
 - **The Sun-Bell's blessing** (consecration ending): each divine caster who helped gains one extra Channel Divinity, usable once next session.
 - **Grukka's debt** (orcs turned or the duel won): a band of orcs owes the wardens one favor.
 - **Old Faith goodwill** (land restored): a Yati guide or a hierophant's favor later.
@@ -389,26 +416,48 @@ Back at the Field Office, the clerk reads the relay log, then the wardens' repor
 Each has its own note in `Side Quests/`:
 - [[The Grey Sickle's List]]: the next barrows are Hex G5 and the Larch tree line, and someone made a fair copy for the Sickle.
 - [[The Grave-Silver]]: who is robbing the Flan barrows to pay death-priests?
-- [[Ansgar Returns]]: if Ansgar escaped (B or E), he comes back for the bell.
+- [[Ansgar Returns]]: if Ansgar escaped (B or E), he comes for the clapper in Ritterstadt, then the bell.
 - [[Grukka's Deserters]]: reluctant allies against Iuz's recruiters.
 - [[The Copper-Torc Dead]]: barrow dead in the Vesve wearing the same torcs.
 - [[Hollen Ford Must Be Manned]]: "No one is coming. So it's you."
 
-**Recurrence.** Ansgar, if alive, returns with new pilgrims and the clapper. Halse, if alive, keeps the list. Grukka, if spared, can turn up anywhere orcs are hated.
+**Recurrence.** Ansgar, if alive, returns with new pilgrims to take the clapper back. Halse, if alive, keeps the list. Grukka, if spared, can turn up anywhere orcs are hated.
 
 **Previous play.** If an earlier group failed here, the Bell-Tor is empty, the Sun-Bell is gone, and a lead penny turns up in Ritterstadt's own well.
 
 ---
 
+## Continuity
+- **Opens:** [[The Grey Sickle's List]] · [[The Grave-Silver]] · [[The Copper-Torc Dead]] · [[Grukka's Deserters]] · [[Hollen Ford Must Be Manned]] · [[Ansgar Returns]] (Ending B or E) · the bone clapper held in Ritterstadt.
+- **Advances:** the Grey Sickle (Ritterstadt gazetteer RG-06; SP-GA02's Hound-Mother barrow); Iuz's war in the Vesve.
+- **Closes:** none.
+- Logged in [[Plot-Threads]] and [[Timeline]] (2026-11-19).
+
+## Sources (Canon Check)
+Page numbers are still to be verified against print before release.
+
+| Claim | Source | Status |
+|---|---|---|
+| Nerull: the Reaper, god of death, darkness, murder and the underworld; neutral evil; rust-red clergy; Lifecutter | *World of Greyhawk* boxed set (1983), Glossography; *Living Greyhawk Gazetteer* (2000), deities chapter | Canon; page to verify |
+| The Old Faith winter myth (Nerull, Obad-Hai, Pelor, Beory) | *Living Greyhawk Gazetteer*, Obad-Hai and Beory entries | Canon in outline; Brenna's telling is ours; page to verify |
+| Pelor, Obad-Hai (the Shalm), Beory (the Oerth Mother): titles and symbols | *Living Greyhawk Gazetteer*, deities chapter | Canon; page to verify |
+| Blood Moon Festival, Coldeven 11, Luna full | *Living Greyhawk Gazetteer* p. 156 (as indexed) | Canon |
+| Luna's 28-day cycle; new on Ready'reat 4 | *World of Greyhawk* (1983) calendar; computed from Luna full on Coldeven 11 | Canon calendar, our arithmetic |
+| Iuz free since 570 CY; war in the Vesve | *Iuz the Evil* (WGR5); *Living Greyhawk Gazetteer* | Canon (house ruling follows canon) |
+| Horned Society patronage of Nerull | *World of Greyhawk* (1983) | Canon; page to verify |
+| Kalbach, Hollen Ford, Carn Aedh, the Yati, the Grey Sickle, the Sun-Bell, all spells and items | — | Homebrew, labeled |
+
+No 5.5e-only lore is used.
+
 ## Key NPCs
 - [[Brother-Reaper Ansgar Vell]] (priest of Nerull; the villain). [[Sister Halse]] (his tallykeeper).
 - [[Grukka One-Tusk]] (orc war-chief, deserter).
 - [[Cathal Red-Torc]] (the barrow-king; a wight if woken).
-- Sexton Udo Pfaff and Brenna (Kalbach); the Field Office clerk.
+- [[Udo Pfaff]] and [[Brenna]] (Kalbach); [[Wendel Krafft]], the Field Office clerk.
 - **Offstage:** the Hollen Ford riders and signaller (dead before play); the Pelorite elder; the Yati hierophant.
 
 ## Key Locations
-- **Kalbach** (house hamlet, table canon; ~1 day SE of Ritterstadt). **The Hollen Ford relay.** **The Bell-Tor at Carn Aedh.** Transit on the drove roads gets no note.
+- [[Kalbach]] (house hamlet, table canon; ~1 day SE of Ritterstadt). [[Hollen Ford Relay|The Hollen Ford relay]]. [[The Bell-Tor at Carn Aedh]]. Transit on the drove roads gets no note.
 
 ## Encounters
 | # | Note | Rating | Map |

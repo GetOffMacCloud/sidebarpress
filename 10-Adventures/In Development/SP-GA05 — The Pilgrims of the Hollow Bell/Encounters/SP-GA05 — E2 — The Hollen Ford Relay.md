@@ -8,26 +8,53 @@ title: "E2 — The Hollen Ford Relay"
 rating: Medium
 scene: "Scene 4 — The Relay"
 map: "99-Assets/SP-GA05/maps/SP-GA05 map-hollen-ford-relay.jpg"
-status: draft
+status: edited
 tags: [encounter, medium, undead, ghoul, hollen-ford, relay]
 ---
 
 # E2 — The Hollen Ford Relay (Medium)
 
-*Scene 4 of [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]. Patchwall 24, afternoon (or after dark if the wardens stayed at Kalbach).*
+*Scene 4 of [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]. Ready'reat 3, afternoon (or after dark if the wardens stayed at Kalbach).*
 
 > [!art]+ Map — Hollen Ford Relay
 > ![[SP-GA05 map-hollen-ford-relay.jpg|600]]
 
 ## Setup
-Halse dropped a penny in the relay's well two nights ago. The riders drank the most, after a long ride, and came back as ghouls. The signaller, two travellers who stopped to water their mules, and a fox from the riverbank came back as zombies. The signaller still holds the unlit beacon torch.
+Four nights ago (Patchwall 27) the Sickle stopped at the ford, and Ansgar cast the Tithe on the relay's well through the bone clapper, at its full strength. The dead of that casting rise on the third night, and those who drank deep rise as ghouls. The riders drank the most, after a long ride. The signaller, two travellers who stopped to water their mules, and a fox from the riverbank came back as zombies. The signaller still holds the unlit beacon torch.
 
-**Areas:**
-- **R1. Yard.** The saddled relay horse, reins trailing. The well, with its ring of dead grass.
-- **R2. Tower, ground floor.** The desk and the relay log (Handout 2). Bunks, a cold hearth, the strongbox.
-- **R3. Tower roof.** The beacon cage, cold. Reached by ladder and trapdoor.
-- **R4. Stable.** Stalls below, hay loft above (the ghouls wait here).
-- **R5. The ford.** Knee-deep, fast, cold. Difficult terrain.
+## Site Key
+
+**R1. THE YARD**
+> *A saddled horse stands in the yard with its reins trailing. Beside the well the grass is dead in a ring. Something white lies trodden into the mud by the gate.*
+
+The horse belonged to a rider and won't leave. The white thing is Sister Halse's notes, dropped when the Sickle watered here.
+**Creatures:** the relay horse (1), frightened, not hostile.
+**Treasure:** Halse's notes (Handout 3, **ESSENTIAL CLUE**) and a page of the list. A [[Reaper's Penny]] in the well.
+**Development:** calming the horse (Animal Handling DC 10) wins a mount for the Tor path.
+
+**R2. TOWER, GROUND FLOOR**
+> *The tower door stands open on one round room: three bunks, a cold hearth, a desk with an open ledger. Figures stand in the dark, facing the door. None of them is breathing.*
+
+The relay's living quarters. The dead stand where they stopped.
+**Creatures:** **penny-risen** (count by party size): the signaller at the foot of the roof ladder with an unlit torch in his fist, the travellers, the fox.
+**Tactics:** they attack whoever enters and don't leave the room.
+**Treasure:** the relay log on the desk (Handout 2, F3); the signaller's unfinished letter under it; the strongbox under a bunk; the relay kit.
+**Development:** noise here is the ghouls' cue (R4).
+
+**R3. TOWER ROOF**
+> *A ladder and a trapdoor lead to the roof. The beacon cage is full of dry wood and has never been lit. South, the road runs away into dusk with nothing on it.*
+
+**Development:** lighting the beacon takes an action and a DC 10 check in the wind, or any fire spell. Nobody answers it.
+
+**R4. THE STABLE**
+> *Four stalls, two of them kicked to splinters. A ladder goes up to a hay loft. Two pairs of riding boots stand neatly at its foot.*
+
+**Creatures:** **ghoul riders** (count by party size), lying flat in the loft.
+**Tactics:** they wait until the wardens are split between tower and yard, then drop on the smaller group.
+**Treasure:** the riders' pewter tokens, and the strongbox key on one of them.
+
+**R5. THE FORD**
+Knee-deep, fast and cold: difficult terrain. A prone creature in the water must succeed on a DC 10 Strength save or be swept 10 ft downstream. The ghouls retreat here when hurt.
 
 ## Creatures
 | Party | Creatures | Adjusted XP |
@@ -37,11 +64,11 @@ Halse dropped a penny in the relay's well two nights ago. The riders drank the m
 | 6 PCs | [[Ghoul Rider]] (2), [[Penny-Risen]] (4): signaller, two travellers, fox | 900 |
 
 > [!art]- Tokens
-> ![[SP-GA05 token-ghoul-rider.jpg|140]] ![[SP-GA05 token-zombie-pip.jpg|140]] ![[SP-GA05 token-zombie-villager.jpg|140]] ![[SP-GA05 token-zombie-fox.jpg|140]]
+> ![[SP-GA05 token-ghoul-rider.jpg|140]] ![[SP-GA05 token-zombie-signaller.jpg|140]] ![[SP-GA05 token-zombie-villager.jpg|140]] ![[SP-GA05 token-zombie-fox.jpg|140]]
 
 ## Tactics
 - **The zombies** stand in the tower (R2), facing the door. The signaller is at the foot of the roof ladder with the torch in his fist. They attack whoever comes in.
-- **The ghouls** lie in the stable loft (R4) and **wait for the wardens to split up**. When the party is divided between tower and yard, they drop on the smaller group from the loft hatch (Stealth +2 vs. passive Perception; surprise is likely).
+- **The ghouls** lie in the stable loft (R4) and **wait for the wardens to split up**. When the party is divided between tower and yard, they drop on the smaller group from the loft hatch (Stealth +4 vs. passive Perception; surprise is likely).
 - **Paralysis is the real threat.** Each ghoul targets a different warden, then both pile onto anyone paralyzed. Elves are immune; say so when the claws fail to take.
 - The ghouls flee into the ford at 5 hp or less and come back the next round. They're hungry, not brave.
 

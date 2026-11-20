@@ -5,7 +5,7 @@ section: appendix-handouts
 publish_order: 620
 publish: true
 title: "Handout 2 — The Relay Log"
-status: draft
+status: edited
 tags: [handout, player-facing, sp-pbs-05]
 ---
 
@@ -17,9 +17,9 @@ Found on the desk at Hollen Ford (E2). Fact F3. Returning it earns +10 credits.
 > ![[SP-GA05 handout-2-relay-log.png|500]]
 
 ## Text
-*Last order:* "Second patrol recalled north to the Vesve line. Hold position. No relief before Readying."
+- Patchwall 20 – No traffic
+- Patchwall 22 – Riders S. at dawn
+- Patchwall 24 – Second patrol recalled north to the Vesve line. Hold position. No relief before Readying.
+- Patchwall 27 – Grey pilgrims at the ford. Kind folk. Blessed the well for us.
 
 *Below it, in a different hand:* "Toll for the reaped, toll for the sown; ring the bell hollow and the dead walk home."
-
-> [!warning] Art fix
-> Fixed 2026-11-13: the art reads "Readying" (Canva design DAHawMLhgak), the PNG is in the vault, and the GA5 FGU module was rebuilt with it.

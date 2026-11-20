@@ -8,13 +8,13 @@ title: "E3 — The Orc Camp"
 rating: Hard
 scene: "Scene 5 — The Orc Camp"
 map: "99-Assets/SP-GA05/maps/SP-GA05 map-orc-camp.jpg"
-status: draft
+status: edited
 tags: [encounter, hard, orcs, grukka, carn-aedh]
 ---
 
 # E3 — The Orc Camp (Hard)
 
-*Scene 5 of [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]. Patchwall 24, dusk, at the foot of Carn Aedh.*
+*Scene 5 of [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]. Ready'reat 3, dusk, at the foot of Carn Aedh.*
 
 > [!art]+ Map — The Orc Camp
 > ![[SP-GA05 map-orc-camp.jpg|600]]
@@ -27,11 +27,11 @@ Grukka's deserters fled Iuz's war in the Vesve and took the Sickle's grave-silve
 **O1. THE PICKET**
 > *A boulder sits above the path where it narrows between gorse. Someone squats on top of it, wrapped in a stolen cloak, a curled horn across his knees.*
 
-One or two **orcs** (one at 4 PCs, two at 5–6), passive Perception 10. If either acts, the horn sounds and the rest arrive in 2 rounds.
+One or two **orcs** (one at 4 PCs, two at 5–6), bored and not watchful. If either acts, the horn sounds and the rest arrive in 2 rounds.
 **Tactics:** blow the horn first, fight second. *Sleep* or a silent kill before the horn changes the whole fight.
 
 > [!danger] The Foraging Party
-> If the horn sounds, **2 more orcs** come back from foraging and arrive at the camp's edge at the **start of round 3** (from the direction the wardens didn't come). Skip this if the picket is silenced before the horn. 5–6 PC tables only; at 4 PCs, send 1.
+> If the horn sounds, more orcs come back from foraging and arrive at the camp's edge at the **start of round 3** (from the direction the wardens didn't come): **2 orcs** at 6 PCs, **1 orc** at 4–5 PCs. Skip this if the picket is silenced before the horn.
 
 **O2. THE FIRE**
 > *Five or six hide tents ring a stone-circled fire. Orcs sit close to it, dicing on a shield. One of them flicks a green coin into the flames and spits.*
@@ -44,7 +44,7 @@ The remaining **orcs**, dicing for grave-silver and arguing in Orc. One says: *"
 [[Grukka One-Tusk]]. The contract is a strip of hide with Ansgar's scythe seal. **Treasure** is in the chest he sits on.
 
 **O4. THE TOR PATH**
-The only way up without climbing. North face: Athletics DC 15 skips the camp; heavily armored characters need a rope from above (the relay rope works), teleportation or flight. Frost after dark: DC 16.
+The only way up without climbing. North face: Athletics DC 16 in the frost skips the camp; heavily armored characters need a rope from above (the relay rope works), teleportation or flight.
 
 ## Creatures
 | Party | Creatures | Adjusted XP |
@@ -53,7 +53,7 @@ The only way up without climbing. North face: Athletics DC 15 skips the camp; he
 | 5 PCs | [[Grukka One-Tusk]], **orcs** (4) | 1,700 |
 | 6 PCs | [[Grukka One-Tusk]], **orcs** (5) | 1,425 |
 
-*If the horn sounds:* +2 **orcs** in round 3 (6 PCs: about 2,300 adjusted XP, top of Hard).
+*If the horn sounds:* +1 **orc** in round 3 at 4–5 PCs (1,500 and 2,375 adjusted XP: 5 PCs tips into Deadly, so let the picket be silenced), +2 at 6 PCs (about 2,300, top of Hard).
 
 > [!art]- Tokens
 > ![[SP-GA05 token-orc-deserter.jpg|140]] ![[SP-GA05 portrait-grukka-one-tusk.jpg|140]]
