@@ -11,7 +11,7 @@ FG=os.environ.get('FG_DIR',os.path.expanduser('~/mnt/Fantasy Grounds'))
 # ---- edition settings (a renamed edition changes only this block) ----
 CODE='SP-GA05'; NAME='SP-GA05 The Pilgrims of the Hollow Bell'; DISPLAY='SP-GA05 — The Pilgrims of the Hollow Bell'
 SRC=ADV; ASSETS=os.path.join(VAULT,'99-Assets',CODE); TEXT_MAP={}
-EXCLUDE_IMAGES=('portrait-pip-thistlebottom','map-kalbach-print','hollen-ford-waystation')                       # Friday-table only
+EXCLUDE_IMAGES=('portrait-pip-thistlebottom','map-kalbach-print')                       # Friday-table only
 RENAME_IMAGES={'token-zombie-pip':'token-zombie-signaller','portrait-elrics-squire':'portrait-kalbach-letter-writer','SP-PBS-05 map-orc-camp':'map-orc-camp'}
 DROP_SECTIONS=('Friday Night Field Trips Insert','Open Items')       # DM's Notes sections left out of the sold module
 FRAME='Greyhawk University'

@@ -275,9 +275,9 @@ The relay is a stone tower and a stable on the near bank of the ford. The beacon
 
 Full encounter: **E2: The Hollen Ford Relay**.
 
-\page
-
 ![Map — Hollen Ford Relay](https://lh3.googleusercontent.com/d/19aYHu14vdjyQ4d1byKe1O9mVLPYDLSry){width:100%}
+
+\page
 
 ![Tokens — the relay dead](https://lh3.googleusercontent.com/d/18hj_oR2Egq5caEZ-reZfKFCe5NKmBAAA){width:45%}
 
@@ -293,8 +293,6 @@ Full encounter: **E2: The Hollen Ford Relay**.
 
 - **The horse** of a dead rider follows the wardens and will carry one of them up the Tor path at full speed.
 
-\page
-
 ![The relay horse](https://lh3.googleusercontent.com/d/1opQIOB6itBKFU75GD2jsEXGbOZf3n83g){width:45%}
 
 - **Short rest.** The tower is defensible. Let them take one.
@@ -304,6 +302,8 @@ Full encounter: **E2: The Hollen Ford Relay**.
 }}
 
 ---
+
+\page
 
 ## Part 4 — Under the Tor
 
@@ -336,14 +336,14 @@ Full encounter: **E3: The Orc Camp**.
 
 ---
 
-\page
-
 ## Part 5 — The Bell-Tor (Climax)
 
 ### Scene 6: Thirteen Tolls (60 min) — Encounter 4, Deadly
 *Purpose:* the set piece. Every clue matters.
 
 ![The Bell-Tor at the Dark of Luna](https://lh3.googleusercontent.com/d/1X88db6QSXYy-PLcuUuvyBGtOjum0OMdY){width:100%}
+
+\page
 
 {{descriptive
 The Tor's crown is a ring of tumbled stone around a bronze bell twice a man's height, hung from a frame of black oak. From an old oak in the wall, a white stag hangs by its hind legs. The sky is moonless and the frost is hard. Torches burn in a circle. A tall priest stands at the bell's lip with a long white clapper in both hands.
@@ -369,8 +369,6 @@ The Tor's crown is a ring of tumbled stone around a bronze bell twice a man's he
 
 ![The Sun-Bell and the Bone Clapper](https://lh3.googleusercontent.com/d/1tizhl-DExzDTh_h95WhisLOpD3q4QB1c){width:45%}
 
-\page
-
 **Ways to stop the bell (F4):**
 - **Muffle it:** a lambskin, cloak, or bedroll wrapped over the lip (an action; Athletics DC 12 if an acolyte is adjacent). A muffled toll raises nothing and doesn't count. So does a toll under *silence*.
 - **Take the clapper:** a contested grapple or a disarm.
@@ -381,6 +379,8 @@ The Tor's crown is a ring of tumbled stone around a bronze bell twice a man's he
 - **The Hanged Stag:** cutting the stag down (an action) halves the barrow dead's speed for the rest of the fight.
 
 Full encounter: **E4: Thirteen Tolls**.
+
+\page
 
 ![Map — The Bell-Tor Crown](https://lh3.googleusercontent.com/d/1QNEbBkkT3yWiueDhGTwX-bDZ_pMSt7LI){width:100%}
 
@@ -400,8 +400,6 @@ Full encounter: **E4: Thirteen Tolls**.
 
 **B — The Reaper's Man Walks (partial).** The bell was stopped and the wardens hold the bone clapper, but Ansgar escaped. Hollowing needs both, and he knows where both are going.
 
-\page
-
 **C — Kalbach Lost (cost).** The wardens went straight past Kalbach. The bell is saved, but Kalbach is a village of the dead. The Field Office's report mentions it in one line. Let that sit.
 
 **D — The King Walks (late).** Toll 13 sounded. Cathal Red-Torc rises, but he is not Ansgar's servant; he demands to know who woke him. A divine caster or druid can parley (Religion or Persuasion DC 15; advantage with the lambskin, a Yati PC, or a faith that keeps the rest of the dead) and lay him down again, and he leaves the Red Torc on the stone. Otherwise he must be fought. If the wardens fall back, the Sickle carries off a hollowed bell (E).
@@ -418,6 +416,8 @@ Back at the Field Office, the clerk reads the relay log, then the wardens' repor
 | **B**, **C**, **D** (laid down or defeated) | 225 | up to 55 (C: up to 55, not *Kalbach saved*) |
 | **E** | 0 | — |
 
+\page
+
 **Extra credit:** Kalbach saved +20 · the bell intact +20 · **Lore of the Gods** in the field report +15 · the relay log returned +10 · the land restored (both wells cleansed and the stag cut down) +10. **Lead credits** on top: The Grey Sickle's List +15 · The Copper-Torc Dead +15 · The Grave-Silver +10 · Ansgar Returns +10 (Ending B) · Grukka's Deserters +5 · Hollen Ford Must Be Manned +5, each paid when the lead is written up in the field report. No student takes more than double base (600) from one quest. Details in Running the Adventure.
 
 ### Rewards Beyond Credits
@@ -429,8 +429,6 @@ Back at the Field Office, the clerk reads the relay log, then the wardens' repor
 
 ![Handout 6 — The God Cards](https://lh3.googleusercontent.com/d/1p-ME92lmPLP67J0bvqBFnCBmCHFlOtNq){width:45%}
 
-\page
-
 ![Handout 6 — The God Cards](https://lh3.googleusercontent.com/d/12HhCjqWSbkpyKrEkPmrI4j-BFuPoAUoo){width:45%}
 
 - **The bone clapper** (if recovered): the wardens bring it back to Ritterstadt for the Department of Antiquities to study. While it is held in the town it gives Ritterstadt a boon, **the Counted Hours**, and a bane, **the Thirteenth Hour**. See The Bone Clapper.
@@ -438,6 +436,8 @@ Back at the Field Office, the clerk reads the relay log, then the wardens' repor
 - **Grukka's debt** (orcs turned or the duel won): a band of orcs owes the wardens one favor.
 - **Old Faith goodwill** (land restored): a Yati guide or a hierophant's favor later.
 - Encounter loot is listed in each encounter note.
+
+\page
 
 ### Continuing the Adventure
 Each has its own note in Appendix F:
@@ -803,11 +803,11 @@ Behind at 1:10? Run it as a 2-round fight; the rest stumble off into the dark an
 ### Setup
 Four nights ago (Patchwall 27) the Sickle stopped at the ford, and Ansgar cast the Tithe on the relay's well through the bone clapper, at its full strength. The dead of that casting rise on the third night, and those who drank deep rise as ghouls. The riders drank the most, after a long ride. The signaller, two travellers who stopped to water their mules, and a fox from the riverbank came back as zombies. The signaller still holds the unlit beacon torch.
 
-\page
-
 ### Site Key
 
 **R1. THE YARD**
+
+\page
 
 {{descriptive
 A saddled horse stands in the yard with its reins trailing. Beside the well the grass is dead in a ring. Something white lies trodden into the mud by the gate.
