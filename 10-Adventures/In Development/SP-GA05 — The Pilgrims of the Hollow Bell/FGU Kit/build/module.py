@@ -251,11 +251,12 @@ for h in sorted(glob.glob(os.path.join(SRC,'*Handout —*.md')),key=lambda p: re
 m.page(AP,"The Field Warden's Primer",C(fullnote(PRIMER)),images=imgs(fullnote(PRIMER)),links=[PRIM])
 m.page(AP,'Continuing: Side Quests',''.join(C('## '+os.path.basename(q)[:-3]+'\n'+fullnote(q).split('## Theme')[0]) for q in sorted(glob.glob(os.path.join(SRC,'Side Quests','*.md')))),links=[m.Q(k) for k in m.QUEST])
 MAPS=['map-route-overview','map-kalbach','map-hollen-ford-relay','map-hollen-ford-tower','map-orc-camp','map-bell-tor']
-m.page(AP,'Maps','<p>Top-down ink maps for the four encounters and the route. No grid is set: calibrate it in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
+m.page(AP,'Maps','<p>Top-down colour maps for the route and the four encounters, the relay tower\'s interior, and a keyed GM copy of Kalbach. Encounter tokens are already placed: add an encounter to the Combat Tracker and its creatures appear on the map. No grid is set: calibrate it in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
 # ---- build ----
 m.LINT=[r'SP-GA05-The',r'SP-GA05 — (E\d|Bestiary|Handout|Player)',r'\bParts? [1-5]\b',r'table canon']
 OUT=os.path.join(ADV,'FGU Kit',NAME+'.mod')
 m.build(WORK+'.mod',cover_image='cover')
+import place_tokens; print('tokens placed on maps:',place_tokens.apply(WORK+'.mod'))
 if '--test' in sys.argv: sys.exit(0)  # build and lint only; leave the shipped .mod alone
 shutil.copyfile(WORK+'.mod',OUT)
 if '--install' in sys.argv: shutil.copyfile(OUT,os.path.join(FG,'modules',NAME+'.mod')); print('installed to FG modules')
