@@ -42,6 +42,7 @@ for f in glob.glob(os.path.join(ASSETS,'*','*')):
     if os.path.isfile(f) and k not in EXCLUDE_IMAGES and (not os.path.exists(dst) or os.path.getmtime(f)>os.path.getmtime(dst)): shutil.copyfile(f,dst)  # skip folders; refresh changed art
 # The finished cover (title + Sidebar Press logo) is the module cover and thumbnail; the bare painting stays as 'cover-art'.
 _fc=os.path.join(VAULT,'99-Assets','_Covers','Cover — '+NAME.split(' ',1)[1]+'.png')
+if os.path.exists(_fc[:-4]+' (color).png'): _fc=_fc[:-4]+' (color).png'   # the module always shows the colour cover when there is one
 for x in glob.glob(os.path.join(FLAT,'cover.*')):
     if x.endswith('cover.png'): os.remove(x); continue  # our own copy from a previous run
     os.replace(x,os.path.join(FLAT,'cover-art'+os.path.splitext(x)[1]))
@@ -50,13 +51,16 @@ shutil.copyfile(_fc,os.path.join(FLAT,'cover.png'))
 for f in glob.glob(os.path.join(FLAT,'*-print.*')): os.remove(f)
 for f in glob.glob(os.path.join(FLAT,'*-color.*')):
     base=os.path.splitext(f)[0][:-len('-color')]
+    if os.path.basename(base)=='cover': base=os.path.join(FLAT,'cover-art')   # colour cover painting; the titled cover is cover.png
     for g in glob.glob(base+'.*'): os.remove(g)
     os.replace(f,base+os.path.splitext(f)[1])
 # Round, transparent tokens for FGU (print art keeps its white ground). Creature tokens are converted in place;
 # NPCs whose portrait doubles as their token get a separate round 'token-<name>' copy.
 import fgtoken
-for f in glob.glob(os.path.join(FLAT,'token-*.jpg'))+glob.glob(os.path.join(FLAT,'token-*.jpeg')):
-    fgtoken.make(f,os.path.splitext(f)[0]+'.png'); os.remove(f)
+for f in glob.glob(os.path.join(FLAT,'token-*.*')):
+    if os.path.splitext(f)[1].lower() not in ('.jpg','.jpeg','.png','.webp'): continue
+    out=os.path.splitext(f)[0]+'.png'; fgtoken.make(f,out)
+    if f!=out: os.remove(f)
 PORTRAIT_TOKENS=['ansgar-vell','sister-halse','grukka-one-tusk','cathal-red-torc']
 for k in PORTRAIT_TOKENS:
     src=glob.glob(os.path.join(FLAT,'portrait-'+k+'.*'))[0]; fgtoken.make(src,os.path.join(FLAT,'token-'+k+'.png'),ringed=False)
