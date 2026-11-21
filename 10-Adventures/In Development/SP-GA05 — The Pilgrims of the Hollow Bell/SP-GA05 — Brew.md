@@ -190,11 +190,11 @@ Run three legs on Day 1 (Ready'reat 2). Low cloud and drizzle; the hills are lig
 - **Notice 3:** Halse doubles back that night and drops a penny in the wardens' water (Constitution DC 12 or poisoned until the next long rest; Religion or Medicine DC 12 finds it first). A warden on watch who succeeds on a DC 14 Wisdom (Perception) check sees her come. She runs and doesn't fight; if caught she says only, *"You're counted now. That's all. You're counted."*
 - **Notice 6:** the orc camp goes on Alert (Part 4).
 
+\page
+
 Ansgar and Halse can be seen at a distance: the tall, shaven-headed one at the front who sings; the small one at the rear who counts.
 
 ---
-
-\page
 
 ## Part 2 — Kalbach
 
@@ -942,9 +942,9 @@ The remaining **orcs**, dicing for grave-silver and arguing in Orc. One says: *"
 The big tent is stitched from mismatched hides. Inside, a broad grey orc with one tusk sits on a chest, polishing a greataxe across his knees. A blue Furyondian cloak hangs from the tent pole.
 }}
 
-\page
-
 Grukka One-Tusk. The contract is a strip of hide with Ansgar's scythe seal. **Treasure** is in the chest he sits on.
+
+\page
 
 **O4. THE TOR PATH**
 The only way up without climbing. North face: Athletics DC 16 in the frost skips the camp; heavily armored characters need a rope from above (the relay rope works), teleportation or flight.
@@ -1051,9 +1051,9 @@ Frozen scree: difficult terrain, and a creature moving on it must succeed on a D
 Below the north face the ground is humped with long mounds. The grass on them is browning as you watch, in a ring that widens with every stroke of the bell.
 }}
 
-\page
-
 The barrow dead claw out here and take 2 rounds to climb to the ring.
+
+\page
 
 ### Creatures
 | Party | At the start | Adjusted XP |
