@@ -54,6 +54,10 @@ for f in glob.glob(os.path.join(FLAT,'*-color.*')):
     if os.path.basename(base)=='cover': base=os.path.join(FLAT,'cover-art')   # colour cover painting; the titled cover is cover.png
     for g in glob.glob(base+'.*'): os.remove(g)
     os.replace(f,base+os.path.splitext(f)[1])
+# Daylight copies of the night battle maps (maps/_day): extra image records only; the reference manual shows the night maps.
+for f in glob.glob(os.path.join(ASSETS,'maps','_day','*-color (day).*')):
+    k=ikey(os.path.basename(f).replace('-color (day)','-day')); dst=os.path.join(FLAT,k+os.path.splitext(f)[1].lower())
+    if not os.path.exists(dst) or os.path.getmtime(f)>os.path.getmtime(dst): shutil.copyfile(f,dst)
 # Round, transparent tokens for FGU (print art keeps its white ground). Creature tokens are converted in place;
 # NPCs whose portrait doubles as their token get a separate round 'token-<name>' copy.
 import fgtoken
@@ -255,7 +259,8 @@ for h in sorted(glob.glob(os.path.join(SRC,'*Handout —*.md')),key=lambda p: re
 m.page(AP,"The Field Warden's Primer",C(fullnote(PRIMER)),images=imgs(fullnote(PRIMER)),links=[PRIM])
 m.page(AP,'Continuing: Side Quests',''.join(C('## '+os.path.basename(q)[:-3]+'\n'+fullnote(q).split('## Theme')[0]) for q in sorted(glob.glob(os.path.join(SRC,'Side Quests','*.md')))),links=[m.Q(k) for k in m.QUEST])
 MAPS=['map-route-overview','map-kalbach','map-hollen-ford-relay','map-hollen-ford-tower','map-orc-camp','map-bell-tor']
-m.page(AP,'Maps','<p>Top-down colour maps for the route and the four encounters, the relay tower\'s interior, and a keyed GM copy of Kalbach. Encounter tokens are already placed: add an encounter to the Combat Tracker and its creatures appear on the map. No grid is set: calibrate it in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS])
+DAYMAPS=['map-hollen-ford-relay-day','map-orc-camp-day','map-bell-tor-day']
+m.page(AP,'Maps','<p>Top-down colour maps for the route and the four encounters, the relay tower\'s interior, and a keyed GM copy of Kalbach. The relay, orc camp, and Bell-Tor are shown at night, as they are played; daylight versions of those three are linked below. Encounter tokens are already placed: add an encounter to the Combat Tracker and its creatures appear on the map. No grid is set: calibrate it in Fantasy Grounds (5-ft. squares) before play.</p>',images=MAPS,links=[m.I(k) for k in MAPS+DAYMAPS])
 # ---- build ----
 m.LINT=[r'SP-GA05-The',r'SP-GA05 — (E\d|Bestiary|Handout|Player)',r'\bParts? [1-5]\b',r'table canon']
 OUT=os.path.join(ADV,'FGU Kit',NAME+'.mod')
