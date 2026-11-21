@@ -68,7 +68,7 @@ for f in glob.glob(os.path.join(FLAT,'token-*.*')):
 PORTRAIT_TOKENS=['ansgar-vell','sister-halse','grukka-one-tusk','cathal-red-torc']
 for k in PORTRAIT_TOKENS:
     src=glob.glob(os.path.join(FLAT,'portrait-'+k+'.*'))[0]; fgtoken.make(src,os.path.join(FLAT,'token-'+k+'.png'),ringed=False)
-m=Mod(NAME,DISPLAY,'Sidebar Press','Sidebar Press',FG,WORK,text_map=TEXT_MAP)
+m=Mod(NAME,DISPLAY,'Sidebar Press','GetOffMacCloud',FG,WORK,text_map=TEXT_MAP)
 m.images(FLAT)
 P=lambda pat: glob.glob(os.path.join(SRC,pat))[0]
 NOTE=lambda folder,name: os.path.join(VAULT,folder,name+'.md')

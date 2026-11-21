@@ -24,6 +24,7 @@ SPOTS={  # encounter prefix -> npc name -> (map, [positions])
 }
 def _num(parent,tag,v):
     e=ET.SubElement(parent,tag,{'type':'number'}); e.text=str(int(round(v)))
+MODNAME='SP-GA05 The Pilgrims of the Hollow Bell'
 def apply(modpath):
     z=zipfile.ZipFile(modpath); items={n:z.read(n) for n in z.namelist()}; z.close()
     root=ET.fromstring(items['db.xml'])
@@ -48,7 +49,7 @@ def apply(modpath):
                     px,py=pos[i % len(pos)]
                     e=ET.SubElement(ml,'id-%05d'%(i+1))
                     r=ET.SubElement(e,'imageref',{'type':'windowreference'})
-                    ET.SubElement(r,'class').text='imagewindow'; ET.SubElement(r,'recordname').text=imgid[key]
+                    ET.SubElement(r,'class').text='imagewindow'; ET.SubElement(r,'recordname').text=imgid[key]+'.image@'+MODNAME   # the image control node, as FGU stores it
                     _num(e,'imagex',(px-50)/100*W); _num(e,'imagey',(py-50)/100*H); placed+=1
     items['db.xml']=ET.tostring(root,encoding='utf-8',xml_declaration=True)
     tmp=modpath+'.tmp'
