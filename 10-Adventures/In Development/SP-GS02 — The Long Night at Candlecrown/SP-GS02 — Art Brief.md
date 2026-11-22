@@ -20,8 +20,17 @@ Every image comes as a pair (the colour and black-and-white rule): ink for the p
 In the bestiary notes (PLATE ink prompt + colour portrait each): [[Immoth]], [[Tyrg]], [[Ice-Rune Guardian]]. Files: `99-Assets/SP-GS02/plates/`, `portraits/`, `tokens/`.
 
 ## Scenes and cover
+> [!note] Framing (Greybeard, 2026-11-22)
+> Plates 01–06 all use the same viewpoint: party in the foreground, seen from behind. Don't use it again. Vary it: side or three-quarter views, faces visible, villagers or NPCs as the focus, high or low angles, wide establishing shots with no party at all.
+
 ### 01 Cover — Candlecrown on the Tor
 *Cover rule: no immoth, no siege. The lit village and the Stair.*
+> [!success] Final (2026-11-22)
+> **Print (ink):** `99-Assets/SP-GS02/SP-GS02 - 01 Cover.png` (1-bit, 4400 × 6600 = 7.33 × 11 in at 600 dpi). Converted from the colour render to house crosshatching. Title goes in the sky.
+> **Colour (store page, FGU thumbnail, promo):** `SP-GS02 - 01 Cover-color.png`.
+> Passes the cover rule: village, lantern ring and the climb; no immoth, no siege.
+> ![[SP-GS02 - 01 Cover.png|350]]
+
 **Ink:**
 ```
 the cover: a small village of low turf-roofed stone houses and one long timber hall on the flat top of a tall mesa-like rock in falling snow, a ring of tiny lanterns along its rim, a switchback path cut into the cliff face below with three small cloaked adventurers climbing it seen from behind, the lanterns rendered as the only white-lined lights in a black night, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 2:3 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
@@ -98,6 +107,11 @@ a pale bareheaded man in a fine dark traveling cloak standing outside a timber g
 
 ### 06 The Long Night
 *Scene 10. Interior; the threat stays outside.*
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/SP-GS02 - 06 The Long Night.png` (1-bit, 4500 × 3000 at 600 dpi). Converted from the colour render to house crosshatching.
+> **Colour:** `SP-GS02 - 06 The Long Night-color.png`.
+> ![[SP-GS02 - 06 The Long Night.png|500]]
+
 **Ink:**
 ```
 the interior of a timber hall full of villagers singing on benches in their coats, breath steaming, a six-sided pierced lantern hanging over the hearth, shuttered windows rimed with frost from outside, two small adventurers at the door in the foreground seen from behind, holding spears, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
@@ -109,17 +123,27 @@ the interior of a timber hall full of villagers in winter coats singing on bench
 
 ### 07 The Seventh Verse
 *Scene 11. Interior art only; never the cover, the back cover, the FGU thumbnail or promo.*
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/SP-GS02 - 07 The Seventh Verse.png` (1-bit, 4500 × 3000 at 600 dpi). Converted from the colour render to house crosshatching; flames kept as white shapes with ink outlines.
+> **Colour:** `SP-GS02 - 07 The Seventh Verse-color.png`. **Interior only. Not for promo, store page or FGU thumbnail (cover rule).**
+> ![[SP-GS02 - 07 The Seventh Verse.png|500]]
+
 **Ink:**
 ```
-a towering giant of glazed ice covered in tiny carved runes climbing over the edge of a snowy cliff top into lantern light, a ring of lantern posts, small adventurers in the foreground seen from behind holding torches and a burning flask, the ice rendered in white engraved lines on solid black night, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+a towering giant of glazed ice covered in tiny carved runes climbing over the edge of a snowy cliff top into lantern light, a ring of lantern posts, seen from the side at a low angle, the adventurers in profile in the middle ground facing it, one hurling a burning flask, others raising torches, their faces lit, the ice rendered in white engraved lines on solid black night, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
 ```
 **Colour:**
 ```
-a towering giant of translucent blue ice covered in tiny glowing runes climbing over the edge of a snowy cliff top into lantern light, a ring of golden lantern posts, adventurers in the foreground seen from behind holding torches and a burning flask, blue night and orange fire, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light, strong readable silhouettes --ar 3:2 --v 8.1 --stylize 150 --seed 57602 --no text, letters, signature, watermark, frame, border
+a towering giant of translucent blue ice covered in tiny glowing runes climbing over the edge of a snowy cliff top into lantern light, a ring of golden lantern posts, seen from the side at a low angle, the adventurers in profile in the middle ground facing it, one hurling a burning flask, others raising torches, their faces lit by fire, blue night and orange fire, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light, strong readable silhouettes --ar 3:2 --v 8.1 --stylize 150 --seed 57602 --no text, letters, signature, watermark, frame, border
 ```
 
 ## NPC portraits (vignette)
 ### 11 Brannoc Tull
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 11 Brannoc Tull.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Colour:** `portraits/SP-GS02 - 11 Brannoc Tull-color.png`.
+> ![[SP-GS02 - 11 Brannoc Tull.png|250]]
+
 **Ink:**
 ```
 a broad sixty-year-old village elder and lantern-maker, grey beard singed short on one side, leather apron, burn-scarred hands holding a lantern-hook, vignette, the figure fading into bare white paper at the edges, no background scenery, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, background, room, interior, scenery, frame, border
@@ -130,6 +154,11 @@ a broad sixty-year-old village elder and lantern-maker with a grey beard singed 
 ```
 
 ### 12 Old Mother Sedge
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 12 Old Mother Sedge.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Colour:** `portraits/SP-GS02 - 12 Old Mother Sedge-color.png`.
+> ![[SP-GS02 - 12 Old Mother Sedge.png|250]]
+
 **Ink:**
 ```
 a tiny very old woman wrapped in many shawls, a single long white braid, pale almost white eyes, a small leafless-tree pendant, vignette, the figure fading into bare white paper at the edges, no background scenery, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, background, room, interior, scenery, frame, border
