@@ -39,6 +39,7 @@ One battlemap per encounter site, built top-down in CharGen (colour first), with
 - [ ] Optional: label "Corin's Fold" (a hut at the sheepfold)
 - [ ] Optional: the salt line under the gate; two dark posts by the sheepfold
 - [x] Ink version for print: `SP-GS02 - T1 Candlecrown Town.png` (2026-11-22; 1-bit, 4500 px = 7.5 in at 600 dpi). Made by converting the color map to house crosshatching (contour lines, four hatch directions by tone, solid blacks, lantern and window light kept white), not hand-traced. Good enough for the overview; a traced redraw is still the house standard for battlemaps.
+- [x] Labels reset in Canva (2026-11-22): baked-in labels removed, retyped in Magnolia Script, each with a thin white outline, merged back onto the ink map at 1-bit. Unlabeled base, Canva label overlay and the old baked-label version are in `_alternates/`. Canva source: design DAHbrq2Jsnw, page 2.
 
 **What it confirms for the notes:** the shrine is a cave in a rock outcrop beside the hall, with Mother Sedge's cottage against it; the hall and workshop sit toward the north rim, with the sealed mine shaft behind them; the green with the feast tables and sailcloth awning is south of the hall; the kiln, oil-house, cooperage, storehouse and sheepfold are on the east side; the warden's hut is just inside the gate; about a dozen homes stand in three rows on the west side; the gate and Stair are on the south face; the broken winch is on the southeast rim.
 
