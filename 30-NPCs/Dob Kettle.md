@@ -3,27 +3,27 @@ type: npc
 status: alive
 canon: false
 faction: Candlecrown
-location: Candlecrown
+location: '[[The Candlecrown Gate]]'
 aliases: []
-species: ''
+species: Human
 heritage: ''
-gender: ''
-age: ''
+gender: Male
+age: Adult
 alignment: ''
-occupation: ''
-class: ''
+occupation: Gate-warden
+class: None (NPC)
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: ally
+disposition: friendly
 party_trust: ''
 items: []
 connected_quests: []
 connected_groups: []
 parents: []
 partner: []
-children: []
+children: ['[[Tansy Kettle]]']
 siblings: []
 allies: []
 enemies: []

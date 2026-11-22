@@ -67,13 +67,15 @@ Run sheet, trackers, Clue Ledger and the Climax-at-a-Glance table: [[10-Adventur
 - [[Pell and Ash]] — toymaker twins; know the mine
 - [[Dob Kettle]] — gate-warden; [[Tansy Kettle]], his daughter
 - [[Hob Fallow]] and [[Marra Fallow]] — kiln-man and cook; gossip
+- Household heads: [[Ivo Pike]] (painter), [[Nell Amberson]] (tinsmith), [[Agna Rusk]] (straw-weaver), [[Garth Vossmer]] (carver), [[Edda Carrow]] (oil-house), [[Osric Teller]] (storehouse), [[Aldo Holm]] (village memory)
 - [[Aurel Vasch]] — the stranger at the gate (vampire spawn)
 - [[Hrimvald the Gatherer]] — the immoth
 
 Offstage, no note: Ardo Pennick (Loftwick toy-seller, hook 1), Sage Imra Vell (hook 3), Ilvan Dross (Aurel's dead master), Sir Edric Halvard (the dead hunter, M3), the apprentice (unnamed by choice).
 
 ## Key Locations
-- [[Candlecrown]] — the mesa-top village (C1–C9)
+- [[Candlecrown]] — the mesa-top village: full settlement note (12 households, districts, prices, information carriers)
+- Places in Candlecrown: [[The Candlecrown Gate]], [[The Stair-Head Winch]], [[The Lantern Workshop]], [[The Workshop Hall]], [[Mother Sedge's Shrine]], [[Candlecrown Green]], [[Corin's Fold]], [[The Mine Head (Candlecrown)]], [[The Fallow Kiln]], [[The Carrow Oil-House]], [[The Teller Storehouse]]
 - [[The Candle Stair]] — the one switchback path
 - [[The Old Workings (Candlecrown)]] — the Suel mine under the mesa (site key: [[SP-GS02 — The Old Workings]])
 - [[The Ice Library]] — Hrimvald's cave (optional)

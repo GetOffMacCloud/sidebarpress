@@ -3,29 +3,29 @@ type: npc
 status: alive
 canon: false
 faction: Candlecrown
-location: Candlecrown
-aliases: []
-species: ''
+location: '[[Candlecrown]]'
+aliases: [Pell Pike, Ash Pike]
+species: Human
 heritage: ''
-gender: ''
-age: ''
+gender: Male
+age: Young Adult
 alignment: ''
-occupation: ''
-class: ''
+occupation: Toymakers
+class: None (NPC)
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: ally
+disposition: friendly
 party_trust: ''
 items: []
 connected_quests: []
 connected_groups: []
-parents: []
+parents: [Jory Pike, Mab Pike]
 partner: []
 children: []
 siblings: []
-allies: []
+allies: ['[[Ivo Pike]]']
 enemies: []
 deceased_date: ''
 tags: [candlecrown, toymakers, twins, sp-gs02]
@@ -54,6 +54,8 @@ Cheerful, quick, brave in a careless way. Pell is the bolder; Ash is the clevere
 - **Reacts:** guide the party as far as M4. Ash turns back at the first sign of trouble; Pell stays if asked. On the Short Day they run oil and build anything the party asks. Pell is Aurel's first choice for a thrall.
 
 ## Role & Context
+The Pike twins: grandsons of [[Ivo Pike]], sons of Jory and Mab Pike (Pike household).
+
 
 ## Conversation Guide
 | Topic | Freely discussed? | Notes / sample line |

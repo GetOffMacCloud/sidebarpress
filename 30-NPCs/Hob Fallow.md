@@ -3,26 +3,26 @@ type: npc
 status: alive
 canon: false
 faction: Candlecrown
-location: Candlecrown
+location: '[[The Fallow Kiln]]'
 aliases: []
-species: ''
+species: Human
 heritage: ''
-gender: ''
-age: ''
+gender: Male
+age: Adult
 alignment: ''
-occupation: ''
-class: ''
+occupation: Kiln-man and glassblower
+class: None (NPC)
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: color
+disposition: friendly
 party_trust: ''
 items: []
 connected_quests: []
 connected_groups: []
 parents: []
-partner: []
+partner: ['[[Marra Fallow]]']
 children: []
 siblings: []
 allies: []

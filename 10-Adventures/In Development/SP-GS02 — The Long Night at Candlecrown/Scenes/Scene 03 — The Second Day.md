@@ -55,7 +55,9 @@ Confronted, Brannoc gives in: *"He can't speak. Not a word. If the village sees 
 
 **5. The goat tracks.** The Ambersons are a nanny goat short this morning. A DC 12 Wisdom (Survival) check: something dragged it from their shed (no blood, no tracks but the goat's) around the back of the workshop, to the coal store, where the trail stops at the nailed hatch. The nails have been pulled from below and pushed back. **ESSENTIAL CLUE (Fact 5):** something comes and goes through the coal store. (Aurel took the goat; he climbed up through the mine.)
 
-**6. Optional: the oil-wick crates.** If the party goes down the Stair to dig out the crates under the broken winch (C2): two hours, a DC 12 Strength (Athletics) group check to haul them up. Success means the lantern line has 18 posts lit from tonight (not 12). Tyrgs watch them from switchback 5 and don't attack in daylight.
+**6. Optional: old Aldo Holm.** A PC who visits the oldest man on the crown in the morning and lets him talk hears why the miners stopped going down: *"A hunter crawled in from the cliffs with a piece of blue ice and died of the cold in it. Grandad sealed the shaft. The chapel had the words in it, and the words were the dangerous part."* (**Facts 2 and 5**, extra route.) See [[Aldo Holm]].
+
+**7. Optional: the oil-wick crates.** If the party goes down the Stair to dig out the crates under the broken winch (C2): two hours, a DC 12 Strength (Athletics) group check to haul them up. Success means the lantern line has 18 posts lit from tonight (not 12). Tyrgs watch them from switchback 5 and don't attack in daylight.
 
 ## Development
 - **If Corin is found,** the village learns by evening that his voice is gone. Brannoc calls a meeting at the hall, which Mother Sedge turns into the case for going on: "We sing. We always sing."
@@ -67,6 +69,7 @@ Confronted, Brannoc gives in: *"He can't speak. Not a word. If the village sees 
 - Mother Sedge's warning → **Fact 1** (route b); ward-lore → **Fact 4** (route a).
 - The rim rune melting → **Fact 2** (confirms route a).
 - The goat tracks → **Fact 5** (route b).
+- Aldo Holm → **Facts 2 and 5** (extra route).
 
 ## Sensory Palette
 - **Sight:** white on white; a shepherd's crook by a door; charcoal on a board; a leafless tree carved in rock.

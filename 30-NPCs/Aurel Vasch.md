@@ -2,21 +2,21 @@
 type: npc
 status: alive
 canon: false
-faction: none
-location: Candlecrown
+faction: ''
+location: '[[The Old Workings (Candlecrown)]]'
 aliases: []
-species: ''
+species: Human
 heritage: ''
-gender: ''
+gender: Male
 age: ''
 alignment: ''
-occupation: ''
+occupation: Manservant (vampire spawn)
 class: ''
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: rival
+disposition: wary
 party_trust: ''
 items: []
 connected_quests: []

@@ -3,29 +3,29 @@ type: npc
 status: alive
 canon: false
 faction: Candlecrown
-location: Candlecrown
+location: '[[Candlecrown]]'
 aliases: []
-species: ''
+species: Human
 heritage: ''
-gender: ''
-age: ''
+gender: Male
+age: Elder
 alignment: ''
-occupation: ''
-class: ''
+occupation: Elder and master lantern-maker
+class: None (NPC)
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: patron
+disposition: friendly
 party_trust: ''
 items: []
 connected_quests: []
 connected_groups: []
 parents: []
 partner: []
-children: []
+children: ['[[Wenna Tull]]']
 siblings: []
-allies: []
+allies: ['[[Garth Vossmer]]', '[[Osric Teller]]']
 enemies: []
 deceased_date: ''
 tags: [candlecrown, the-tors, sp-gs02]

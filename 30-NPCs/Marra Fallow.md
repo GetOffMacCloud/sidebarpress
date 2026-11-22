@@ -3,26 +3,26 @@ type: npc
 status: alive
 canon: false
 faction: Candlecrown
-location: Candlecrown
+location: '[[The Fallow Kiln]]'
 aliases: []
-species: ''
+species: Human
 heritage: ''
-gender: ''
-age: ''
+gender: Female
+age: Adult
 alignment: ''
-occupation: ''
-class: ''
+occupation: Feast cook
+class: None (NPC)
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: color
+disposition: friendly
 party_trust: ''
 items: []
 connected_quests: []
 connected_groups: []
 parents: []
-partner: []
+partner: ['[[Hob Fallow]]']
 children: []
 siblings: []
 allies: []

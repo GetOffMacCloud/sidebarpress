@@ -3,25 +3,25 @@ type: npc
 status: alive
 canon: false
 faction: Candlecrown
-location: Candlecrown
+location: '[[The Candlecrown Gate]]'
 aliases: []
-species: ''
+species: Human
 heritage: ''
-gender: ''
-age: ''
+gender: Female
+age: Child
 alignment: ''
 occupation: ''
-class: ''
+class: None (NPC)
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: informant
+disposition: friendly
 party_trust: ''
 items: []
 connected_quests: []
 connected_groups: []
-parents: []
+parents: ['[[Dob Kettle]]']
 partner: []
 children: []
 siblings: []

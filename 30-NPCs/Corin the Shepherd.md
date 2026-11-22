@@ -3,20 +3,20 @@ type: npc
 status: alive
 canon: false
 faction: Candlecrown
-location: Candlecrown
+location: '[[Corin''s Fold]]'
 aliases: []
-species: ''
+species: Human
 heritage: ''
-gender: ''
-age: ''
+gender: Male
+age: Adult
 alignment: ''
-occupation: ''
-class: ''
+occupation: Shepherd
+class: None (NPC)
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: informant
+disposition: friendly
 party_trust: ''
 items: []
 connected_quests: []

@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-11-22T06:00:58.045Z",
-      "total": 1006,
+      "total": 1173,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -249,11 +249,11 @@
           "scenes": {}
         },
         "10-Adventures/In Development/SP-GS02 — The Long Night at Candlecrown/Scenes/00 — Scene Index.md": {
-          "total": 1006,
+          "total": 1173,
           "scenes": {
             "Scene 01 — The Candle Stair": 0,
-            "Scene 02 — Candlecrown at Needfest": 0,
-            "Scene 03 — The Second Day": 0,
+            "Scene 02 — Candlecrown at Needfest": 82,
+            "Scene 03 — The Second Day": 85,
             "Scene 04 — The Wind That Sings": 0,
             "Scene 05 — The Old Workings": 0,
             "Scene 06 — Dusk on the Stair": 0,

@@ -90,6 +90,7 @@ Three-clue rule: each conclusion has at least three routes plus a last resort. N
 **2. Fire is its weakness; edged weapons barely bite**
 - [ ] Ice runes melt under a lantern (Scene 01; again Scene 03)
 - [ ] The hunter's shield and the gnawed tail-tip (Scene 05, M3)
+- [ ] *Extra:* old Aldo Holm's "piece of blue ice" (Scene 03)
 - [ ] Arcana or Nature on first sight (Scene 06)
 - [ ] *Last resort:* lantern oil kills the rune-pillar in one splash (Scene 05, M7)
 
@@ -109,6 +110,7 @@ Three-clue rule: each conclusion has at least three routes plus a last resort. N
 - [ ] The miners' map in the workshop office (Scene 02)
 - [ ] The goat tracks into the coal store (Scene 03)
 - [ ] The draft under the workshop floor (Scene 02)
+- [ ] *Extra:* old Aldo Holm's story (Scene 03)
 - [ ] *Last resort:* a tyrg comes up out of the coal store (Scene 04)
 
 ## Climax at a Glance

@@ -2,21 +2,21 @@
 type: npc
 status: alive
 canon: false
-faction: the immoths
-location: Candlecrown, the Tors
+faction: ''
+location: '[[The Ice Library]]'
 aliases: []
-species: ''
+species: Other (NPC only)
 heritage: ''
 gender: ''
 age: ''
 alignment: ''
-occupation: ''
+occupation: Immoth; gatherer of words
 class: ''
 subclass: ''
 prestige_class: ''
 level: ''
-adventure_role: ''
-disposition: ''
+adventure_role: villain
+disposition: wary
 party_trust: ''
 items: []
 connected_quests: []

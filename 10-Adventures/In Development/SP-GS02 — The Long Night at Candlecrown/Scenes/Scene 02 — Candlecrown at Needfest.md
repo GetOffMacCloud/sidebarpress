@@ -27,7 +27,7 @@ The home base, in the order the party meets it. The players should come out of t
 **To the table:** *"A small girl in a red hood has come out to stare at you. What do you do?"*
 
 ## Who Is Here
-Summary census. Full dossiers for starred (*) names are in `30-NPCs`.
+Summary census. Full dossiers for starred (*) names are in `30-NPCs`; the full twelve-household key is in [[Candlecrown]].
 
 | Name | Where | Trade [deity] | Knows | Secret |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ Summary census. Full dossiers for starred (*) names are in `30-NPCs`.
 | [[Brannoc Tull]]* | C3 Workshop | elder and master lantern-maker [Fortubo] | The village, the trade, the carol's customs | From Needfest 2: hiding mute Corin in the wool loft (see [[Scene 03 — The Second Day]]). |
 | [[Wenna Tull]]* | C4 Hall | lead singer, the elder's daughter [Telchur] | All seven verses by ear; the seventh's sounds, not its meaning | She has secretly written the seventh verse's sounds on a lantern-paper, so it won't be lost "if Mother dies." It is in her sewing box. |
 | [[Old Mother Sedge]]* | C5 Shrine | shrine-keeper, oldest singer [Telchur] | The verse is a curse and must never be written; how the gate is hallowed | Sent for help (hook 4) and told no one. |
-| [[Pell and Ash]]* | C3 Workshop | toymaker twins, 19 [Fortubo] | The mine tunnels from childhood games | Ash has a key to the coal-store hatch, which they were never meant to have. |
+| [[Pell and Ash]]* | C3 Workshop | toymaker twins (Pike), 19 [Fortubo] | The mine tunnels from childhood games | Ash has a key to the coal-store hatch, which they were never meant to have. |
 | [[Corin the Shepherd]]* | C8 Fold | shepherd, 40, unmarried [Telchur] | Hums the carol, all seven verses, to his sheep every night | — |
 | [[Hob Fallow]]* | C7 Homes | kiln-man and glassblower [Fortubo] | Village gossip; the old silver story | Owes the elder 20 gp for kiln bricks. |
 | [[Marra Fallow]]* | C7 Homes | Hob's wife, cook for the feast [Telchur] | Who's sweet on whom; the Needfest menu | — |
@@ -45,23 +45,23 @@ Everyone in Candlecrown is human: Suel and Oeridian blood mixed for twenty gener
 
 ## Candlecrown in Play Order
 
-**C1. THE GATE AND THE WARDEN'S HUT.** A timber gate in a drystone wall across the top of the Stair, the only break in the wall around the crown. Mother Sedge renews its hallowing every Needfest with salt and a verse: the founders hallowed the whole crown as "one house," so the gate is a threshold to the undead (see [[Aurel Vasch]]). Dob Kettle and Tansy live in the hut beside it. A line of salt runs under the gate, crusted with snow.
+**C1. THE GATE AND THE WARDEN'S HUT.** A timber gate in a drystone wall across the top of the Stair, the only break in the wall around the crown. Mother Sedge renews its hallowing every Needfest with salt and a verse: the founders hallowed the whole crown as "one house," so the gate is a threshold to the undead (see [[Aurel Vasch]]). Dob Kettle and Tansy live in the hut beside it. A line of salt runs under the gate, crusted with snow. *(See [[The Candlecrown Gate]].)*
 
-**C2. THE STAIR-HEAD WINCH.** A timber crane and windlass for hauling crates up the cliff face. Its rope froze and snapped on Sunsebb 26; the crates of oil-wicks for the full lantern line are at the bottom of the cliff, buried in snow. (That is why only 12 posts are lit; see [[SP-GS02 — The Lantern Line]].)
+**C2. THE STAIR-HEAD WINCH.** A timber crane and windlass for hauling crates up the cliff face. Its rope froze and snapped on Sunsebb 26; the crates of oil-wicks for the full lantern line are at the bottom of the cliff, buried in snow. (That is why only 12 posts are lit; see [[SP-GS02 — The Lantern Line]].) *(See [[The Stair-Head Winch]].)*
 
-**C3. THE WORKSHOP.** Long benches of carvers, tinsmiths and painters; a forge at the north end; Needfest figures drying on racks (Telchur with his icicle beard, Fortubo with his hammer, a dozen fat geese). [[Brannoc Tull]] runs it from a glassed-in **office** where the founders' charter and the **miners' map** hang behind his desk (see [[SP-GS02 — Handout — The Miners' Map]]; Fact 5). Above, the **wool loft** stores packing fleece. At the back, a nailed-down **coal-store hatch** leads down into the [[SP-GS02 — The Old Workings|Old Workings]]. **ESSENTIAL CLUE (Fact 5):** a DC 12 Wisdom (Perception) check notices that the sawdust by the hatch lifts and settles in a cold draft, as if the floor were breathing.
+**C3. THE WORKSHOP.** Long benches of carvers, tinsmiths and painters; a forge at the north end; Needfest figures drying on racks (Telchur with his icicle beard, Fortubo with his hammer, a dozen fat geese). [[Brannoc Tull]] runs it from a glassed-in **office** where the founders' charter and the **miners' map** hang behind his desk (see [[SP-GS02 — Handout — The Miners' Map]]; Fact 5). Above, the **wool loft** stores packing fleece. At the back, a nailed-down **coal-store hatch** leads down into the [[SP-GS02 — The Old Workings|Old Workings]]. **ESSENTIAL CLUE (Fact 5):** a DC 12 Wisdom (Perception) check notices that the sawdust by the hatch lifts and settles in a cold draft, as if the floor were breathing. *(See [[The Lantern Workshop]].)*
 
-**C4. THE HALL.** The workshop hall, joined to the workshop by a wide door: rafters hung with lanterns of every kind the village has ever made, benches for forty singers, a great hearth. Over the hearth hangs the **Carol Lantern**, a six-sided lantern of pierced tin with six panes painted with the six Common verses (see [[The Long Night Lantern]]). There is no seventh pane.
+**C4. THE HALL.** The workshop hall, joined to the workshop by a wide door: rafters hung with lanterns of every kind the village has ever made, benches for forty singers, a great hearth. Over the hearth hangs the **Carol Lantern**, a six-sided lantern of pierced tin with six panes painted with the six Common verses (see [[The Long Night Lantern]]). There is no seventh pane. *(See [[The Workshop Hall]].)*
 
-**C5. MOTHER SEDGE'S SHRINE.** A windbreak cave cut into a knuckle of rock beside the hall, a shrine to Telchur: a leafless tree carved on the back wall over a bare stone altar, an ever-burning brazier. It is the safety valve ([[SP-GS02 — The Lantern Line#The Safety Valve]]). Old Mother Sedge sleeps here in winter.
+**C5. MOTHER SEDGE'S SHRINE.** A windbreak cave cut into a knuckle of rock beside the hall, a shrine to Telchur: a leafless tree carved on the back wall over a bare stone altar, an ever-burning brazier. It is the safety valve ([[SP-GS02 — The Lantern Line#The Safety Valve]]). Old Mother Sedge sleeps here in winter. *(See [[Mother Sedge's Shrine]].)*
 
-**C6. THE GREEN.** The open crown between the hall and the gate, where the feast tables stand under an awning of sailcloth. Twelve lantern posts are lit along the Stair side and the workshop side.
+**C6. THE GREEN.** The open crown between the hall and the gate, where the feast tables stand under an awning of sailcloth. Twelve lantern posts are lit along the Stair side and the workshop side. *(See [[Candlecrown Green]].)*
 
-**C7. THE HOMES.** Twelve households in low stone houses. One line each if the party visits: the Fallows (kiln, gossip), the Pikes (three generations of painters), the Ambersons (tinsmiths; a new baby), the widow Rusk (weaves the packing straw; deaf in one ear), and eight more as needed.
+**C7. THE HOMES.** Twelve households in low stone houses; full key in [[Candlecrown]]. One line each if the party visits: the Fallows ([[The Fallow Kiln]], gossip), the Pikes (three generations of painters, the twins' family; [[Ivo Pike]] painted the Carol Lantern), the Ambersons (tinsmiths; a new baby; a goat missing), the widow Rusk ([[Agna Rusk]], packing straw, deaf in one ear), the Vossmers (carvers, seven children), the Carrows ([[The Carrow Oil-House]]), the Tellers ([[The Teller Storehouse]]), and the Holms (old [[Aldo Holm]], who remembers why the mine was sealed).
 
-**C8. CORIN'S FOLD.** A drystone sheepfold on the east rim, the farthest building from the hall, with a one-room hut. Corin's forty sheep huddle in the lee of the wall. Two lantern posts here are dark.
+**C8. CORIN'S FOLD.** A drystone sheepfold on the east rim, the farthest building from the hall, with a one-room hut. Corin's forty sheep huddle in the lee of the wall. Two lantern posts here are dark. *(See [[Corin's Fold]].)*
 
-**C9. THE MINE HEAD.** A round stone cap the size of a cart, on the north rim, with a rusted iron ring. The old Suel shaft is under it, sealed with rubble two generations ago. (It is solid; the only open way down is the coal store, C3.)
+**C9. THE MINE HEAD.** A round stone cap the size of a cart, on the north rim, with a rusted iron ring. The old Suel shaft is under it, sealed with rubble two generations ago. (It is solid; the only open way down is the coal store, C3.) *(See [[The Mine Head (Candlecrown)]].)*
 
 ## Beats
 **1. The welcome.** Dob takes the party to the workshop, where [[Brannoc Tull]] greets them with both hands and a speech about Fortubo's hospitality. Every stranger at Needfest is a guest of the whole village. He'll pay the party's hook (the wagons, the shelter) with lodging in the hall and a seat at every feast.
