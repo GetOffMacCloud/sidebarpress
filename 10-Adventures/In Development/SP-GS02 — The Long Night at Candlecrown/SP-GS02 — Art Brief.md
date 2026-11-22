@@ -93,7 +93,7 @@ a small underground chapel cut in rock, a great hammer carved above a plain ston
 > [!success] Final (2026-11-22)
 > **Ink:** `99-Assets/SP-GS02/SP-GS02 - 05 The Knock at the Gate.png` (1-bit, 3000 × 4500 at 600 dpi). Converted from the colour render to house crosshatching.
 > **Colour:** `SP-GS02 - 05 The Knock at the Gate-color.png`.
-> Note: the render shows Aurel in front of a closed gate on the child's side, with no salt line. Caption it so he reads as standing at the threshold.
+> Note: this render shows Aurel as old and bald, but his portrait (17) and NPC note make him about thirty with dark hair. Re-roll to match. It also shows him in front of a closed gate on the child's side, with no salt line. Caption it so he reads as standing at the threshold.
 > ![[SP-GS02 - 05 The Knock at the Gate.png|400]]
 
 **Ink:**
@@ -140,7 +140,7 @@ a towering giant of translucent blue ice covered in tiny glowing runes climbing 
 ## NPC portraits (vignette)
 ### 11 Brannoc Tull
 > [!success] Final (2026-11-22)
-> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 11 Brannoc Tull.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 11 Brannoc Tull.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Second render; v1 in `_alternates/`.
 > **Colour:** `portraits/SP-GS02 - 11 Brannoc Tull-color.png`.
 > ![[SP-GS02 - 11 Brannoc Tull.png|250]]
 
@@ -155,7 +155,7 @@ a broad sixty-year-old village elder and lantern-maker with a grey beard singed 
 
 ### 12 Old Mother Sedge
 > [!success] Final (2026-11-22)
-> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 12 Old Mother Sedge.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 12 Old Mother Sedge.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Second render; v1 in `_alternates/`.
 > **Colour:** `portraits/SP-GS02 - 12 Old Mother Sedge-color.png`.
 > ![[SP-GS02 - 12 Old Mother Sedge.png|250]]
 
@@ -169,6 +169,11 @@ a tiny very old woman wrapped in many wool shawls of faded colors, a single long
 ```
 
 ### 13 Wenna Tull
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 13 Wenna Tull.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Colour:** `portraits/SP-GS02 - 13 Wenna Tull-color.png`.
+> ![[SP-GS02 - 13 Wenna Tull.png|250]]
+
 **Ink:**
 ```
 a tall broad-shouldered young woman with long hair, mouth closed, hands folded, a slate hung on a cord at her neck, vignette, the figure fading into bare white paper at the edges, no background scenery, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, background, room, interior, scenery, frame, border
@@ -179,6 +184,11 @@ a tall broad-shouldered young woman with long red hair, hands folded, a slate on
 ```
 
 ### 14 Corin the Shepherd
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 14 Corin the Shepherd.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Colour:** `portraits/SP-GS02 - 14 Corin the Shepherd-color.png`.
+> ![[SP-GS02 - 14 Corin the Shepherd.png|250]]
+
 **Ink:**
 ```
 a weathered gentle shepherd in a wool hood holding a crook, a scruffy sheepdog's head at his knee, vignette, the figure fading into bare white paper at the edges, no background scenery, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, background, room, interior, scenery, frame, border
@@ -189,6 +199,11 @@ a weathered gentle shepherd in a grey wool hood holding a crook, a scruffy brown
 ```
 
 ### 15 Pell and Ash
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 15 Pell and Ash.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Colour:** `portraits/SP-GS02 - 15 Pell and Ash-color.png`.
+> ![[SP-GS02 - 15 Pell and Ash.png|250]]
+
 **Ink:**
 ```
 identical freckled young twin brothers side by side, sawdust in their hair, one with a dark scarf and one with a pale scarf, grinning, vignette, the figure fading into bare white paper at the edges, no background scenery, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, background, room, interior, scenery, frame, border
@@ -199,6 +214,11 @@ identical freckled young twin brothers side by side, sawdust in their hair, one 
 ```
 
 ### 16 Dob Kettle and Tansy
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 16 Dob Kettle and Tansy.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Colour:** `portraits/SP-GS02 - 16 Dob Kettle and Tansy-color.png`.
+> ![[SP-GS02 - 16 Dob Kettle and Tansy.png|250]]
+
 **Ink:**
 ```
 a lean gate-warden with a frosted drooping moustache holding a lantern on a long pole, a small girl in an oversized hood at his side, vignette, the figure fading into bare white paper at the edges, no background scenery, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, background, room, interior, scenery, frame, border
@@ -209,6 +229,11 @@ a lean gate-warden with a frost-white drooping moustache holding a lantern on a 
 ```
 
 ### 17 Aurel Vasch
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/portraits/SP-GS02 - 17 Aurel Vasch.png` (1-bit, 3000 px wide at 600 dpi, plain white background). Converted from the colour render to house crosshatching.
+> **Colour:** `portraits/SP-GS02 - 17 Aurel Vasch-color.png`.
+> ![[SP-GS02 - 17 Aurel Vasch.png|250]]
+
 **Ink:**
 ```
 a pale handsome man of about thirty, dark hair, a fine frost-stiffened traveling cloak, polite tired eyes, snow on his shoulders, vignette, the figure fading into bare white paper at the edges, no background scenery, classic 1970s fantasy role-playing game module character portrait, black ink pen-and-ink drawing on pure white paper, head and shoulders, bold contour lines, crosshatched shadow on one side of the face, stippled skin texture, plain white background, high contrast black and white line art --ar 4:5 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark, background, room, interior, scenery, frame, border
@@ -223,14 +248,47 @@ a pale handsome man of about thirty with dark hair, a fine frost-stiffened dark 
 ```
 four rough charcoal sketches on a board of pale pine wood, made by an untrained hand: a giant covered in small scratch marks beside a tiny man with a shepherd's crook, a man at a sheepfold singing with little birds coming from his mouth, a line from the man's mouth to a circled mark on the giant's chest, a six-sided lantern beside a seventh pane scribbled over so hard the wood is torn, naive childlike drawing, smudged charcoal --ar 3:2 --v 8.1 --style raw --stylize 50 --seed 57602 --no color, text, letters, signature, watermark
 ```
+**Colour:**
+```
+a board of pale packing pine lying on a workbench, four rough charcoal sketches drawn on it by an untrained hand: a giant covered in small scratch marks beside a tiny man with a shepherd's crook, a man at a sheepfold with little birds flying from his open mouth, a line from his mouth to a circled mark on the giant's chest, a six-sided lantern beside a seventh pane scribbled over so hard the wood is torn, charcoal smudges and wood shavings, warm lantern light from one side, seen from above, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light --ar 3:2 --v 8.1 --stylize 150 --seed 57602 --no text, letters, words, writing, numbers, signature, watermark, frame, border
+```
 
 ### H2 The Apprentice's Carving
 ```
 a stone wall carved with close lines of two scripts side by side, one of plain old block letters and one of strange angular characters, a hammer carved above, chisel marks, rendered as a rubbing in black on white paper, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+**Colour:**
+```
+close-up of a rough stone chapel wall deep underground, a great hammer carved at the top, below it two columns of close-cut carved characters side by side, one of plain blocky marks and one of sharp angular runes, chisel marks, a sheet of paper half pressed against the stone with a charcoal rubbing begun on it, warm orange lantern light raking across the carving, cold blue shadows, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light --ar 3:2 --v 8.1 --stylize 150 --seed 57602 --no text, letters, words, writing, numbers, signature, watermark, frame, border
 ```
 *The script is decorative only; the readable text is in [[SP-GS02 — Handout — The Apprentice's Carving]]. Never put a readable seventh verse in any image.*
 
 ### H3 The Carol Lantern (spot)
 ```
 a six-sided lantern of pierced tin with six painted glass panes showing small winter scenes, hanging from a chain, a spot illustration alone on bare white paper with a small black cast shadow beneath it, classic 1970s fantasy role-playing game rulebook illustration, black ink pen-and-ink drawing on pure white paper, bold hand-inked contour lines, crosshatching and stippling for shadow --ar 3:4 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
+```
+**Colour:**
+```
+a six-sided lantern of pierced tin hanging from a chain, six painted glass panes glowing warm gold, each pane showing a tiny winter scene, holes in the tin throwing star-shaped specks of light, a spot illustration alone on a soft light cream background with a gentle vignette, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light --ar 3:4 --v 8.1 --stylize 150 --seed 57602 --no text, letters, words, writing, numbers, signature, watermark, dark background, black background, frame, border
+```
+
+### H4 Aunt Sedge's Letter (prop)
+*Background for the letter; the text from [[SP-GS02 — Handout — Aunt Sedge's Letter]] is set over it in layout.*
+**Colour:**
+```
+a folded letter on rough cream paper with a smear of red sealing wax, a sprig of dried pine and a small twist of grey wool lying on it, the paper left blank and empty for handwriting, a battered table by a window with snow outside, soft cold window light and a warm candle, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light --ar 3:4 --v 8.1 --stylize 150 --seed 57602 --no text, letters, words, writing, numbers, signature, watermark, ink, handwriting
+```
+
+### H5 The Long Night Carol (songsheet)
+*Decorated border only; the six verses are set in layout. Never add a seventh.*
+**Colour:**
+```
+a blank songsheet of thick cream paper with a painted border of holly, pine sprigs, little lanterns, snowflakes and a frost-bearded winter god at the top, the middle of the page left empty and clean for text, warm and festive, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light --ar 3:4 --v 8.1 --stylize 150 --seed 57602 --no text, letters, words, writing, numbers, signature, watermark, frame
+```
+
+### H6 The Miners' Map (player map)
+*Blank hide map; add the labels from [[SP-GS02 — Handout — The Miners' Map]] in Canva, as with T1.*
+**Colour:**
+```
+an old survey map of a mine drawn in faded brown ink on a stretched sheet of pale hide, a square at the top, a long shaft line running down, short side tunnels, a small hammer symbol, a circle for water, a crossing of four tunnels, a long seam running off to the ragged edge of the hide, stitched edges, stains and creases, no labels, seen flat from above, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light --ar 3:2 --v 8.1 --stylize 150 --seed 57602 --no text, letters, words, writing, numbers, signature, watermark, labels, compass rose
 ```
