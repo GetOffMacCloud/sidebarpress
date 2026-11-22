@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-11-22T05:37:26.093Z",
-      "total": 0,
+      "total": 20026,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -247,6 +247,24 @@
         "10-Adventures/In Development/SP-GA00 — Nobody's Colors/Scenes/00 — Scene Index.md": {
           "total": 0,
           "scenes": {}
+        },
+        "10-Adventures/In Development/SP-GS02 — The Long Night at Candlecrown/Scenes/00 — Scene Index.md": {
+          "total": 20026,
+          "scenes": {
+            "Scene 01 — The Candle Stair": 1565,
+            "Scene 02 — Candlecrown at Needfest": 1678,
+            "Scene 03 — The Second Day": 1313,
+            "Scene 04 — The Wind That Sings": 1579,
+            "Scene 05 — The Old Workings": 1502,
+            "Scene 06 — Dusk on the Stair": 1525,
+            "Scene 07 — The Rehearsal": 884,
+            "Scene 08 — The Knock at the Gate": 969,
+            "Scene 09 — The Short Day": 1388,
+            "Scene 10 — The Long Night": 1871,
+            "Scene 11 — The Seventh Verse": 3038,
+            "Scene 12 — Dawn at Candlecrown": 1064,
+            "Scene 13 — The Ice Library": 1650
+          }
         }
       }
     },

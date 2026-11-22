@@ -52,7 +52,56 @@ Whichever hook brought them, the party reaches the foot of the [[The Candle Stai
 **Tactics:** two tyrgs cut off the retreat downhill and two block the way up. The first to act uses Stunning Howl. They bite to knock prey prone near the edge, then rake. They go for the lantern-bearer last: a lit lantern held in hand makes its 10-foot radius difficult terrain to them.
 **DM direction:** this fight teaches the edge. Let the players shove tyrgs off (contested Strength (Athletics) versus the tyrg's Athletics or Acrobatics, +3/+2) and let the tyrgs try it back. Tyrgs flee down the Stair when two have fallen.
 
-{{MINION:tyrg|More of Hrimvald's pack come up the switchback behind the party.}}
+### Minion Pack (just in case)
+Use this when the fight needs more bodies: a pack of 4–8 **Tyrg** minions, built from [[Tyrg]] with the [[Skirmisher Minion]] template at **APL 6**. More of Hrimvald's pack come up the switchback behind the party. Each minion is worth **575 XP**, and every four count as one creature for the encounter multiplier ([[04 — Minions]]). Add them four at a time and recheck the encounter's adjusted XP.
+
+> [!example]- Tyrg, Skirmisher Minion (CR 6 minion, 575 XP)
+> *Large monstrosity, unaligned*
+> **Armor Class** 15 (natural armor) · **Hit Points** 1 (minion) · **Speed** 60 ft.
+>
+> | STR | DEX | CON | INT | WIS | CHA |
+> |---|---|---|---|---|---|
+> | 17 (+3) | 14 (+2) | 15 (+2) | 5 (−3) | 12 (+1) | 7 (−2) |
+>
+> **Damage Resistances** cold · **Senses** darkvision 60 ft., passive Perception 11 · **Languages** — · **Challenge** 6 (575 XP)
+>
+> ***Minion.*** If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+>
+> ***Flame-Shy.*** For the minion, any space within 10 feet of an open flame the size of a lantern or larger is difficult terrain.
+>
+> ***Pack Tactics (Skirmisher).*** The minion has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+> **Actions**
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+**At other APLs** (change only these numbers):
+
+| APL | AC | Attack | DC | Damage | XP each |
+|---|---|---|---|---|---|
+| 5 | 15 | +6 | 15 | 14 | 450 |
+| 6 (built) | 15 | +6 | 15 | 17 | 575 |
+| 7 | 15 | +6 | 15 | 19 | 725 |
+
+> [!info]- FGU Import (minion)
+> Paste into **NPCs → Import Text**, mode **2022 – Monsters of the Multiverse**.
+> ```text
+> Tyrg, Skirmisher Minion
+> Large monstrosity, unaligned
+> Armor Class 15 (natural armor)
+> Hit Points 1 (minion)
+> Speed 60 ft.
+> STR DEX CON INT WIS CHA
+> 17 (+3) 14 (+2) 15 (+2) 5 (-3) 12 (+1) 7 (-2)
+> Damage Resistances cold
+> Senses darkvision 60 ft., passive Perception 11
+> Languages -
+> Challenge 6 (575 XP) Proficiency Bonus +3
+> Minion. If the minion takes any damage, it drops to 0 hit points. If it succeeds on a saving throw against an effect that would deal half damage on a success, it takes no damage instead.
+> Flame-Shy. For the minion, any space within 10 feet of an open flame the size of a lantern or larger is difficult terrain.
+> Pack Tactics (Skirmisher). The minion has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> Actions
+> Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+> ```
 
 ## Development
 - **Every tyrg killed here** comes off Hrimvald's pack (see the roster in [[SP-GS02 — Bestiary]]).
