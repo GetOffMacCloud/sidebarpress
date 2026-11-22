@@ -23,10 +23,13 @@ One battlemap per encounter site, built top-down in CharGen (colour first), with
 ## Town Map
 | Map | Use | File | Status |
 |---|---|---|---|
-| **T1 Candlecrown (town)** | Player overview of the crown: every building, the green, the lantern ring, the gate and the top of the Stair. Not the siege battlemap (M2 stays top-down and gridded). | `99-Assets/SP-GS02/SP-GS02 - T1 Candlecrown Town-color.png` | Color final (2026-11-22); ink version needed. First draft in `_alternates/`. |
+| **T1 Candlecrown (town)** | Player overview of the crown: every building, the green, the lantern ring, the gate and the top of the Stair. Not the siege battlemap (M2 stays top-down and gridded). | `99-Assets/SP-GS02/SP-GS02 - T1 Candlecrown Town-color.png` | Color and ink final (2026-11-22). First draft in `_alternates/`. |
 
 > [!art]- T1 Candlecrown
 > ![[SP-GS02 - T1 Candlecrown Town-color.png|500]]
+>
+> **Ink (print):**
+> ![[SP-GS02 - T1 Candlecrown Town.png|500]]
 
 **Label fixes:**
 - [x] Title → CANDLECROWN; subtitle "Light Endures"; banner "No Lantern Dark, No Verse Unsung"
@@ -35,7 +38,7 @@ One battlemap per encounter site, built top-down in CharGen (colour first), with
 - [ ] Optional: the Loftwick and Hool Marshes arrows both point east from the bottom-right corner; move them to point north and south
 - [ ] Optional: label "Corin's Fold" (a hut at the sheepfold)
 - [ ] Optional: the salt line under the gate; two dark posts by the sheepfold
-- [ ] Ink version for print: `SP-GS02 - T1 Candlecrown Town.png`
+- [x] Ink version for print: `SP-GS02 - T1 Candlecrown Town.png` (2026-11-22; 1-bit, 4500 px = 7.5 in at 600 dpi). Made by converting the color map to house crosshatching (contour lines, four hatch directions by tone, solid blacks, lantern and window light kept white), not hand-traced. Good enough for the overview; a traced redraw is still the house standard for battlemaps.
 
 **What it confirms for the notes:** the shrine is a cave in a rock outcrop beside the hall, with Mother Sedge's cottage against it; the hall and workshop sit toward the north rim, with the sealed mine shaft behind them; the green with the feast tables and sailcloth awning is south of the hall; the kiln, oil-house, cooperage, storehouse and sheepfold are on the east side; the warden's hut is just inside the gate; about a dozen homes stand in three rows on the west side; the gate and Stair are on the south face; the broken winch is on the southeast rim.
 
