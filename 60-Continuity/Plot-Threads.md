@@ -13,11 +13,12 @@ The master index of every ongoing storyline across Sidebar Press adventures. Ind
 | [[Who Keeps the Link]] | [[SP-GQ01-The-Gaolers-Link]] | The relic that blinds Iuz is in Ritterstadt, and now Iuz knows it. |
 | [[The Rotting Table]] | [[SP-GS01-The-Gluttonwretch-of-Hommlet]] | A Zuggtmoy cell survived the Temple's fall; Brindlewick raised the Gluttonwretch to gorge Hommlet at Brewfest. His cipher book names "the second table" under the Temple. |
 | [[The Temple's Long Shadow]] | [[SP-GS01-The-Gluttonwretch-of-Hommlet]] | Hommlet's thin harvests since 569; the 577 harvest depends on how SP-GS01 ends. |
+| [[The Curse of Binding|The Hidden Verses]] | [[SP-GS02-The-Long-Night-at-Candlecrown]] | A Suel curse that binds the immoths is hidden verse by verse across the Sheldomar Valley, each verse in a local song, each with a hunter. Candlecrown's was the first found. |
 
 ## Advancing
 | Thread | Last Seen In | Next Planned |
 |--------|--------------|--------------|
-| | | |
+| [[Passage-of-Slerotin|The Passage and Bleak Gate]] | [[SP-GS02-The-Long-Night-at-Candlecrown]] | C12 (Bleak Gate); Aurel Vasch's master Ilvan Dross died at a sealed door in the Passage, Goodmonth 575. |
 
 ## Dangling
 Hooks planted but never followed up. Review monthly — either promote to Open or deliberately close.
@@ -34,6 +35,10 @@ Hooks planted but never followed up. Review monthly — either promote to Open o
 | [[Grukka's Deserters]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | A band of orc deserters owes the wardens a favor; Iuz's recruiters want them back. |
 | [[Hollen Ford Must Be Manned]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | The relay is empty and the log says no relief before Readying. |
 | [[The Bone Clapper]] | [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]] | Held at the Field Station for study: the Counted Hours (boon) and the Thirteenth Hour (bane) run until it leaves or is destroyed. |
+| The Sons of Marchanter want the verse | [[SP-GS02-The-Long-Night-at-Candlecrown]] | Melkot's arcane order hears that a curse-verse was sung at Candlecrown and sends someone polite to buy it. |
+| Aurel's Debt | [[SP-GS02-The-Long-Night-at-Candlecrown]] | If Aurel Vasch left under a kept bargain, he owes the party a favor (or they owe him); he knows where Ilvan Dross's papers lie at Bleak Gate. |
+| The bones of Sir Edric Halvard | [[SP-GS02-The-Long-Night-at-Candlecrown]] | A Keoish house still offers a reward for the monster-hunter lost in the Tors in 506 CY; his signet is in the Old Workings (M3). |
+| The Mountain of Ultimate Winter | [[SP-GS02-The-Long-Night-at-Candlecrown]] | Where the immoths take what they gather. If Hrimvald was Fooled, it returns from there in a year. |
 
 ## Closed
 | Thread | Resolved In | Outcome |

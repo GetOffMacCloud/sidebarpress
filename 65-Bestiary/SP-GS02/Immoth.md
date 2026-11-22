@@ -102,7 +102,7 @@ In the Flanaess, immoths are tales told in the Crystalmists, the Rakers and the 
 
 ## Spoils
 - **Ice runes:** while the immoth lives, each rune holds a voice. Once it dies, any runes left shatter in 1 minute unless kept below freezing. A *dispel magic* (DC 15) on a rune, or 10 fire damage to it, frees the voice.
-- **Heart-rune:** a fist-sized rune of blue ice that never melts below the summer solstice. Worth 1,000 gp to a sage, or used as an *ice knife* spell scroll that never needs a check.
+- **Heart-rune:** a fist-sized rune of blue ice that never melts below the summer solstice (in SP-GS02, [[Heart-Rune of Hrimvald]]): attuned, its bearer understands any spoken language; shattered, it casts *ice knife* at 3rd level. Worth 1,000 gp to a sage.
 - **Word-hoard:** the immoth's cave (if found) holds frozen phrases in dozens of tongues; a party that spends a day there with *comprehend languages* learns one secret per character (DM's choice).
 
 ## Design Notes
@@ -123,7 +123,7 @@ In the Flanaess, immoths are tales told in the Crystalmists, the Rakers and the 
 **Scaling:** for 4 PCs, 152 hit points (16d12 + 48 with Con 16, saves −2); for 6 PCs, Word-Theft recharges on 4–6.
 
 ## Appears In
-- [[SP-GS02-The-Long-Night-at-Candlecrown]] — Hrimvald the Gatherer: [[Scene 06 — Dusk on the Stair]] (it watches and speaks), [[Scene 10 — The Seventh Verse]] (the climax), [[Scene 12 — The Ice Library]] (optional rematch)
+- [[SP-GS02-The-Long-Night-at-Candlecrown]] — Hrimvald the Gatherer: [[Scene 06 — Dusk on the Stair]] (it watches and speaks), [[Scene 11 — The Seventh Verse]] (the climax), [[Scene 13 — The Ice Library]] (optional rematch)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

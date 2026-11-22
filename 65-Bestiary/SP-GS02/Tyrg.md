@@ -131,7 +131,7 @@ The howls' save DCs are Constitution-based (8 + proficiency + Con), on purpose: 
 - *Tyrg Alpha. Defensive:* 102 hit points is the CR 4 band (101–115); AC 14 is expected: **4**. *Offensive:* 24 a round (bite 13 + claws 11), the CR 3 band (21–26); +6 is one above the expected +5, with Pack Tactics and the Great Howl: **offensive 4**. *Average:* **CR 4**.
 
 ## Appears In
-- [[SP-GS02-The-Long-Night-at-Candlecrown]] — [[Scene 01 — The Candle Stair]] (the pack on the switchbacks), [[Scene 06 — Dusk on the Stair]] (wave 1), [[Scene 10 — The Seventh Verse]] (the siege waves; the alpha leads the gate wave)
+- [[SP-GS02-The-Long-Night-at-Candlecrown]] — [[Scene 01 — The Candle Stair]] (the pack on the switchbacks), [[Scene 06 — Dusk on the Stair]] (wave 1), [[Scene 10 — The Long Night]] (the siege waves; the alpha leads the gate wave), [[Scene 11 — The Seventh Verse]] (at Hrimvald's side, if alive)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

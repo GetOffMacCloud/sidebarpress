@@ -19,7 +19,7 @@ Session 1's ending. The party sees a voice taken (or nearly), glimpses what take
 **Budget:** 30 minutes. Running long? Skip the tyrg in the coal store and end on Dob.
 
 ## Arrival
-> *The wind has dropped. Snow falls straight down now, so thick the lanterns on the rim are only smudges. Out on the east rim, Dob Kettle walks his watch with a lantern, humming. You know the tune. He reaches the end of the sixth verse and keeps going, into words that aren't Common. Beyond him, at the rim, the falling snow stops falling.*
+> *The wind has dropped. Snow falls straight down now, so thick the lanterns on the rim are only smudges. Out on the east rim, Dob Kettle walks his watch with a lantern, humming the Long Night Carol. He reaches the end of the sixth verse and keeps going, into words that aren't Common. Beyond him, at the rim, the falling snow stops falling.*
 
 **To the table:** *"Who's close enough to see what happens next?"*
 

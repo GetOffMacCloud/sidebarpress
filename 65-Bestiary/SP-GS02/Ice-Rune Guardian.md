@@ -82,7 +82,7 @@ An immoth that wants a place watched cuts one of its lesser words (a "hush," a "
 **CR verification (DMG p. 274).** *Defensive:* 68 hit points; resistance to two physical types against fire vulnerability, treated as ×1.25 = 85 effective, the top of the CR 3 band; AC 14 is one above the expected 13: **defensive 3**. Rune Heart makes it far weaker against fire; the CR is rated for a party without fire. *Offensive:* two Rime Fists at 11.5 each = 23, the CR 3 band (21–26); +6 is two above the expected +4: **offensive 4**. *Average:* 3.5, rated **CR 3**.
 
 ## Appears In
-- [[SP-GS02-The-Long-Night-at-Candlecrown]] — [[Scene 05 — The Old Workings]] (area M7, the rune-pillar), [[Scene 10 — The Seventh Verse]] (wave 2 at the mine exit)
+- [[SP-GS02-The-Long-Night-at-Candlecrown]] — [[Scene 05 — The Old Workings]] (area M7, the rune-pillar), [[Scene 10 — The Long Night]] (wave 2 at the mine exit), [[Scene 13 — The Ice Library]] (I2)
 
 ## Art Prompt
 Style: black-and-white ink, per [[Art-Style-Guide]] (PLATE spine).

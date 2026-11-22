@@ -97,6 +97,54 @@ Two tricks were seeded. Both need preparation (Scene 09) or quick thinking now.
 - **The edge.** Hrimvald is Huge; it can't be shoved off the rim by a Medium creature unless it is prone (then contested Athletics, at disadvantage for the shover). If it goes over the north rim, it falls 400 feet (it has a fly speed; it doesn't fall far) and is out of reach of the singers for 2 rounds.
 - **Its freezing tail.** A PC restrained or paralyzed by it is freed by any fire damage: a villager with a lantern can do it, at the cost of 1 fire damage.
 
+## What the Night Built
+Read the Preparation Track from [[Scene 09 — The Short Day]] and the counts from [[Scene 10 — The Long Night]] before round 1. Each line below is already in the rules above; this is the checklist.
+
+| If the party... | ...then in the climax |
+|---|---|
+| has 12+ lantern posts lit | No surprise; readied actions fire as Hrimvald crests the rim. |
+| has 6 or fewer posts lit | Second Arrival box; Hrimvald acts first in round 1 and starts within 30 feet of a PC. |
+| built the bonfire | Whiteout fails within 30 feet of it; a creature shoved in takes 3d6 fire damage (Hrimvald 6d6). Hrimvald must cross its light to reach the hall door. |
+| made fire pots | Each pot that hits Hrimvald stops a line *and* (on 5+ fire damage, doubled to 10) melts a rune. |
+| built the singing room | Hrimvald must break in (AC 15, 60 hp) or use the door before it can gather lines or Word-Theft singers. Expect it to spend rounds 2–3 on the wall: that is the party's window. |
+| armed the militia | Once in the climax, the militia hurls oil: 1d4 flasks hit Hrimvald (5 fire each, doubled). |
+| learned the counter-verse | The choir can switch to it at the top of any round. It takes effect at the end of that round unless Hrimvald takes the leader's voice first (it isn't a spell, so *counterspell* can't stop it). |
+| wrote a false verse | The choir sings it from line 1. Hrimvald's first gather triggers the Insight contest. |
+| set the lure | Name the post. When Hrimvald sees it (it is lit by its own lantern), it goes for it on its next turn. |
+| left Aurel outside, bargained | Aurel calls up from the cliff in round 2: "The name! Give it the name!" He'll speak Ilvan Dross's true name to Hrimvald himself if a PC asks; it counts as the party's offer. |
+| let Aurel in | He is in the hall. He fights for himself; if the singers are in danger, he may take one for a shield. |
+
+## Hrimvald Talks
+It talks while it fights. Roll a d8 or choose, about once a round; it uses the voice of whichever rune suits (Wenna's, Dob's dead wife's, the Keoish envoy's).
+
+| d8 | Line |
+|---|---|
+| 1 | *"What is your name? Say it again. Slower."* |
+| 2 | *"A good fire. I will remember the shape of it."* |
+| 3 | (In Wenna's voice) *"Father, I'm cold. Let it in."* |
+| 4 | *"I have nine hundred words for snow. None of them are yours."* |
+| 5 | *"The old woman knows. Ask her what she swore."* |
+| 6 | *"I was not always this. I do not remember what I was."* (A hint for the counter-verse.) |
+| 7 | *"Every line you sing, I hear. Every line I hear, I keep."* |
+| 8 | *"One more verse, lanterns, and we can all go home."* |
+
+## Turning Points
+| If... | ...then |
+|---|---|
+| **the alpha is alive** | She fights at Hrimvald's side and guards it from melee. When she falls, Hrimvald spends a Word at once (it is shaken). |
+| **the choir breaks** | Hrimvald turns to the six who know the verse. Mother Sedge walks out to meet it; she will offer her voice and the verse unless a PC stops her. |
+| **two or more PCs are down** | Hrimvald stops attacking the fallen and offers terms at once (as if bloodied): it wants words, not corpses. |
+| **a PC offers a bargain mid-fight** | Hrimvald finishes its turn, then listens. It doesn't attack a creature that is speaking an offer to it, but its siege actions go on. |
+| **the party splits** (some at the singers, some at the rim) | Cut between them film-style each round; the singers' side is where the lines are won and lost. |
+| **Hrimvald is shoved over the rim** | It flies back up in 2 rounds; no lines are gathered while it's gone. Use the time. |
+| **dawn comes** (round 30, or the DM's call) | Hrimvald withdraws with what it has: *Driven Off* if fewer than seven lines. |
+
+## Scaling and Pacing
+- **Four PCs:** Hrimvald has 152 hit points; it flees at 40. Let the militia's oil volley happen twice.
+- **Six PCs:** Word-Theft recharges on 4–6; add one tyrg (or four minions) on The Pack Answers.
+- **Short slot:** start at round 3 with Hrimvald already at the hall's north wall and three lines gathered; run it for six rounds, then dawn.
+- **Long, loving slot:** let the parley in round 1 run as long as the table likes. A bargain scene is a climax too.
+
 ## Encounter
 | PCs (APL 6) | Creatures | Adjusted XP | Difficulty |
 |---|---|---|---|
@@ -160,6 +208,21 @@ Use this when the fight needs more bodies: a pack of 4–8 **Tyrg** minions, bui
 > Actions
 > Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 > ```
+
+## Outcome Read-Alouds
+Use the one that fits, then go to [[Scene 12 — Dawn at Candlecrown]].
+
+**Destroyed.**
+> *The giant of ice cracks from the crown of its head to its tail with a sound like a frozen lake breaking. It falls in pieces across the snow. Every rune on it flares blue and goes out, and in the hall, voice after voice joins the verse: Corin's, Dob's, Wenna's, rough and astonished.*
+
+**Unbound.**
+> *The runes on the immoth go dark, one by one, from its tail to its crown. It lowers its hands. For a long moment there is no sound but the choir. Then it turns from the hall and walks to the rim, and it steps off into the snow as if the snow were the ground, and is gone.*
+
+**Driven off.**
+> *The immoth goes up the north cliff faster than anything that size should move, trailing steam where the fire caught it. Its runes glitter as it climbs. Then the storm closes behind it. The choir is still singing, and some of the voices it took are still out there in the cold.*
+
+**Silenced.**
+> *The immoth bows, low and courtly, to the hall. Then it walks to the rim and climbs down into the dark, and the snow follows it. Inside the hall, the singing has stopped. Forty people stand on the benches with their mouths open, and none of them make a sound.*
 
 ## Development
 Note the outcome and go to [[Scene 12 — Dawn at Candlecrown]]:
