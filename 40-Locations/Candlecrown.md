@@ -151,6 +151,8 @@ See [[Mother Sedge's Shrine]] and [[Old Mother Sedge]].
 
 ## Districts (CAMPING)
 `BUTTON[button_place]` `BUTTON[button_person]`
+- *Layout (from T1):* the hall and workshop sit toward the north rim with the sealed shaft behind them and the shrine's rock outcrop beside them; the green lies south of the hall; the kiln, oil-house, storehouse and sheepfold are on the east side; the twelve homes stand in three rows (North, West and South Row) on the west side; the gate and the Stair are on the south face, the broken winch on the east rim.
+
 - **C**ommerce: [[The Teller Storehouse]] · **A**griculture: [[Corin's Fold]], [[The Mine Head (Candlecrown)]] · **M**ilitary: [[The Candlecrown Gate]], [[The Stair-Head Winch]] · **P**hilosophy: [[Mother Sedge's Shrine]] · **I**ndustrial: [[The Lantern Workshop]], [[The Fallow Kiln]], [[The Carrow Oil-House]] · **N**esting: [[Candlecrown Green]] and the twelve homes · **G**overnment: [[The Workshop Hall]]
 
 ```dataview
@@ -224,6 +226,10 @@ Distances are house figures; add a day each way in deep snow.
 - [[SP-GS02-The-Long-Night-at-Candlecrown]] — home base for every scene; the siege in [[Scene 10 — The Long Night]] and [[Scene 11 — The Seventh Verse]].
 
 ## Map Reference
+**Town map (T1, draft):** ![[SP-GS02 - T1 Candlecrown Town (draft, color).png|500]]
+
+**Region map (R1, draft):** ![[SP-GS02 - R1 Candlecrown Region (draft, color).png|500]]
+
 M2 Candlecrown (see [[SP-GS02 — Map Assets]]): the crown, the 24 lantern posts and the hall-and-workshop inset.
 
 ## Canon Notes

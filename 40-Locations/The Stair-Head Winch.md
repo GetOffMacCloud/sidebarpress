@@ -11,7 +11,7 @@ tags: [candlecrown, sp-gs02]
 
 # The Stair-Head Winch
 
-> A timber crane and windlass at the cliff edge for hauling crates up from the valley road; its rope snapped in the frost on Sunsebb 26.
+> A timber crane and windlass on the east rim for hauling crates up from the valley road; its rope snapped in the frost on Sunsebb 26.
 
 > [!abstract]- Quick edit (Meta Bind)
 > Kind `INPUT[template-location-kind][:kind]` · Place district `INPUT[template-place-category][:category]` · Point-of-interest type `INPUT[template-poi-type][:category]`

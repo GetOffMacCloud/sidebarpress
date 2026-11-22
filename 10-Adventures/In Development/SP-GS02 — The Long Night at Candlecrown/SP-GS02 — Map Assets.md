@@ -20,6 +20,45 @@ One battlemap per encounter site, built top-down in CharGen (colour first), with
 | **M3 The Old Workings** | 60 × 50 | [[Scene 05 — The Old Workings]], [[SP-GS02 — The Old Workings]] | M1–M10 as keyed; the main shaft M2→M9; M4a–f dead ends; the frozen sump (M6) with its east ledge; M7's four-way crossing; M8's three shafts; the long M9 stope; the M10 mouth and the cliff ledge. Rotten props marked P. |
 | **M4 The Ice Library** | 50 × 40 | [[Scene 13 — The Ice Library]] | I1–I6; the shelves of I3; the pool in I4; I5's 60-foot dome with the roof hole and throne. |
 
+## Town Map
+| Map | Use | File | Status |
+|---|---|---|---|
+| **T1 Candlecrown (town)** | Player overview of the crown: every building, the green, the lantern ring, the gate and the top of the Stair. Not the siege battlemap (M2 stays top-down and gridded). | `99-Assets/SP-GS02/SP-GS02 - T1 Candlecrown Town (draft, color).png` | Draft (2026-11-22); labels to fix, ink version needed |
+
+> [!art]- T1 Candlecrown (draft)
+> ![[SP-GS02 - T1 Candlecrown Town (draft, color).png|500]]
+
+**Label fixes before it ships:**
+- [ ] Title "FROSTHOLLOW" → "CANDLECROWN" (and the banner lines to taste)
+- [ ] "Northlight Gate" → "The Gate" (it's on the south face); add "Warden's Hut" beside it
+- [ ] "Shrine of the Stone" → "Winter-God Shrine" (Mother Sedge's shrine to Telchur)
+- [ ] "Workshop" → "Lantern Workshop"; "Great Hall" OK; "Oil Shed" → "Oil-House" (and add "Cooperage")
+- [ ] "Cliff Crane" → "Broken Winch" (its rope snapped on Sunsebb 26; the crane in the art still has its rope and a crate)
+- [ ] "South Trail to the Pass" → "The Candle Stair (six switchbacks)"
+- [ ] Stormspine Pass, Icetooth Pass, "To Far Pass", "To Glacier Way" → delete, or match R1 (north: Loftwick; west: Melkot; south: the Hool Marshes)
+- [ ] Add "Corin's Fold" (the hut by the sheepfold) and "Mother Sedge's cottage" if the art allows
+- [ ] Ink version for print
+
+**What it confirms for the notes:** the shrine is a cave in a rock outcrop beside the hall (as written); the hall and workshop sit toward the north rim, with the sealed mine shaft behind them; the green with the feast tables and sailcloth awning is south of the hall; the kiln, oil-house, storehouse and sheepfold are on the east side; about a dozen homes in three rows on the west side; the gate and Stair are on the south face.
+
+## Region Map
+| Map | Use | File | Status |
+|---|---|---|---|
+| **R1 Candlecrown and Environs** | Player overview and region map: the tor, the Candle Stair, the valley hamlets, the roads out | `99-Assets/SP-GS02/SP-GS02 - R1 Candlecrown Region (draft, color).png` | Draft (2026-11-22); labels to fix, ink version needed |
+
+> [!art]- R1 Candlecrown and Environs (draft)
+> ![[SP-GS02 - R1 Candlecrown Region (draft, color).png|500]]
+
+**Label fixes before it ships:**
+- [ ] "North Gate (warden's hut)" → "The Gate (warden's hut)" (the gate is on the south face)
+- [ ] "The Salt Line" on the cliff → delete, or move to the gate
+- [ ] Destinations → north: "To Loftwick (1 day)"; west: "To Melkot (4 days)"; south: "To the Hool Marshes". Replace Frostmere, Stonebridge, Eastwatch, Thunder Pass, Highwind Pass.
+- [ ] "High Folk Free Lands" → "Yeomanry Free Lands" (Highfolk is a real realm far to the north)
+- [ ] Decide on the homebrew names: Brackenholt and Goldspike (yeoman hamlets), Pinefall River, Snowmelt Run, Ivory Ridge
+- [ ] Ink version for print (traced redraw or 1-bit conversion per [[Art-Style-Guide]])
+
+**What it confirms for the notes:** the plateau is about 400 yards across; the gate and Stair are on the south face; the shrine, mine shaft and hall are toward the north rim; the sheepfold is east; the winch is on the east rim.
+
 **Player handout map:** [[SP-GS02 — Handout — The Miners' Map]] is a hide-and-ink version of M3 with only the miners' labels.
 
 **FGU:** walls and line of sight on M1–M4; lantern posts on M2 as light sources (10-foot bright radius) so the lantern line shows on the table; token start positions for each wave.
