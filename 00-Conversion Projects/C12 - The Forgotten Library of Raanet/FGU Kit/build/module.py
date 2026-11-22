@@ -108,7 +108,9 @@ intro=('<p>A 1e-to-5e conversion of <i>C12 The Forgotten Library of Raanet</i>, 
  'in Chapter One (the Temple Incandescent) and Chapter Two (the Burning Athenium). Each area page ends with its encounters and creatures. '
  'The DM maps carry a pin on every area number (the alcoves 25a–25j pin to Area 25); double-click a pin to open the page. '
  'Share the <b>(Player)</b> maps, which have the numbers, secret doors and treasure marks painted out. Both maps use a 5-ft grid.</p>'
- '<p>The full roster of 55 statblocks, including the summonable creatures for the Summoning Sigil and the <i>Monster Summoning</i> scrolls, is also in the <b>Sidebar Press Bestiary</b> module.</p>')
+ '<p>The full roster of 55 statblocks, including the summonable creatures for the Summoning Sigil and the <i>Monster Summoning</i> scrolls, is also in the <b>Sidebar Press Bestiary</b> module.</p>'
+ '<p><b>Credits.</b> <i>C12 The Forgotten Library of Raanet</i> by carlos a.s. lising, published by casl Entertainment (OSRIC, 2nd edition, December 2019). '
+ '5e conversion by Sidebar Press for private and ARPG table use only; not for sale or distribution.</p>')
 m.page('Introduction','Using This Module',intro,links=[m.I(M1),m.I(M1+'-player'),m.I(M2),m.I(M2+'-player')])
 tb='<table><tr><td><b>Code</b></td><td><b>Encounter</b></td><td><b>XP</b></td></tr>'+''.join('<tr><td>%s</td><td>%s</td><td>%s</td></tr>'%(c,html.escape(nm),sum(m.XP[k]*q for k,q in cr)) for c,nm,cr,_,_ in ENC)+'</table>'
 m.page('Introduction','Encounters',tb,links=[m.B(c) for c,*_ in ENC])

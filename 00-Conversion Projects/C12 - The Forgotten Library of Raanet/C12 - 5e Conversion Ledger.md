@@ -2,7 +2,7 @@
 tags: [adventure/C12, conversion, fgu-prep]
 adventure: "C12 - The Forgotten Library of Raanet"
 source: "C12 PDF (casl Entertainment, 2nd ed. Dec 2019, OSRIC)"
-status: review (round 2, 2026-11-08)
+status: checked against source (2026-11-21)
 created: 2026-11-08
 publish: false
 ---
@@ -650,7 +650,7 @@ Shown so the FG parcels can be checked later. Excludes the sage-only finds, whic
 ### Using the canon in play
 
 - **Who killed Raanet?** In canon it was Pyremius, by poison. Nothing in C12 names him, and Avraasha doesn't know (her *"dire revenge"* in the Epilogue is aimed at someone she hasn't learned of yet). A DM who restores the names gets a ready sequel hook: **Pyremius's cult**.
-- **Where is it?** Under the Hellfurnaces on the Yeomanry side, near the eastern mouth of Slerotin's Passage. ⚠️ The module gives two distances: *"nearly 30 miles north of Bleak Gate"* (Adventure Location, p. 3) and *"almost 60 miles northwest"* (Campaign Notes, p. 5). Pick one.
+- **Where is it?** Under the Hellfurnaces on the Yeomanry side, near the eastern mouth of Slerotin's Passage. 🔒 **Nearly 30 miles north of Bleak Gate** (2026-11-21). The module also says *"almost 60 miles northwest"* (Campaign Notes, p. 5); that line is changed to 30 miles north in the FG story entries so the two agree.
 - **Wee Jas** fits canon as written: the death-and-magic goddess whose priestess, Anras il-Fruztii (A33), stayed to tend the dead.
 
 Sources: [Ranet — Greyhawk Wiki](https://www.greyhawkonline.com/greyhawkwiki/Ranet) · [Pyremius — Greyhawk Wiki](https://greyhawkonline.com/greyhawkwiki/Pyremius)

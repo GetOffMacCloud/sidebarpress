@@ -215,7 +215,7 @@ publish: false
 | **Priced total** | | | **2,500** |
 
 ### P17 - Area 25 - In Memoriam
-*The urns, a to i. Touching any urn without Xuel heritage wakes the stone guardian.*
+*The urns, a to j. Touching any urn without Xuel heritage wakes the stone guardian.*
 
 | Item record | Qty | Source | Value (gp) |
 |---|---|---|---|

@@ -9,7 +9,7 @@ publish: false
 ## 1 · Source
 
 - [x] Source in hand
-- [ ] Sidebar Press code assigned (none yet)
+- [x] Code: keeps the original **C12** (same rule as ToEE's T codes, 2026-11-21)
 
 
 ## 2 · Convert
@@ -22,24 +22,24 @@ publish: false
 
 ## 3 · Edit
 
-- [ ] Conversion checked against the source: every stat, DC and treasure
-- [ ] Copy edit: names consistent, links resolve
+- [x] Checked against the source PDF (2026-11-21): statlines, creature counts, items and treasure all match; parcel P17 note fixed (urns a–j)
+- [x] Copy edit (2026-11-21): all links resolve, names consistent; A5 "His personal account" → "Her"; distance set to 30 miles north; credits added to the module
 - [ ] Playtest or table run; fixes applied
 
 
 ## 4 · Package
 
 - [x] FGU import files and story entries
-- [x] FGU module built
-- [ ] Print PDF built
+- [x] FGU module built (text fixes patched into the .mod 2026-11-21; `build/module.py` updated to match for the next full rebuild)
+- [x] Print PDF: skipped; the FGU module is the deliverable (2026-11-21)
 
 
 ## 5 · Release
 
-- [ ] Rights and credits confirmed for the release channel
-- [ ] Row added to [[Release-Tracker]]
-- [ ] Product page copy written
-- [ ] Announced on RPGSidebar.com and social schedule
+- [x] Release channel: private / ARPG use only (2026-11-21); casl Entertainment credited in the module
+- [x] Release Tracker: N/A (private)
+- [x] Product page: N/A (private)
+- [x] Announcement: N/A (private)
 
 
 ## Done
