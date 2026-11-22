@@ -5,7 +5,8 @@ canon: false
 faction: ""
 location: "" # link to the Settlement or Location note where they live
 aliases: []
-species: "" # link to a Sapient-Species note, or plain text
+species: "" # broad race: Human, Elf, Dwarf, Gnome, Halfling, Half-Elf, Half-Orc, Goliath, Other
+heritage: "" # Race — heritage (e.g. Elf — Grey (Faerie)); blank for Half-Elf, Half-Orc
 gender: ""
 age: "" # Infant | Child | Teenager | Young Adult | Adult | Elder
 alignment: "" # Lawful Good … Chaotic Evil, Unaligned
@@ -62,7 +63,7 @@ if (isNew) {
 
 > [!abstract]- Quick edit (Meta Bind)
 > Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
-> Species `INPUT[template-person-race][:species]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
 > Class `INPUT[template-person-class][:class]` · Subclass `INPUT[template-person-subclass][:subclass]` · Prestige class `INPUT[template-prestige-class][:prestige_class]` · Level `INPUT[number:level]`
 > Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
 > Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`

@@ -15,7 +15,7 @@
     },
     {
       "name": "template-person-race",
-      "declaration": "INPUT[inlineSelect(\n option(\"Human (Oeridian)\"),\n option(\"Human (Suel)\"),\n option(\"Human (Baklunish)\"),\n option(\"Human (Flan)\"),\n option(\"Human (Rhennee)\"),\n option(High Elf),\n option(Sylvan Elf),\n option(\"Grey Elf (Faerie)\"),\n option(Valley Elf),\n option(\"Wild Elf (Grugach)\"),\n option(Hill Dwarf),\n option(Mountain Dwarf),\n option(Rock Gnome),\n option(Svirfneblin),\n option(Lightfoot Halfling),\n option(Stout Halfling),\n option(Tallfellow Halfling),\n option(Half-Elf),\n option(Half-Orc),\n option(\"Goliath (Orakhan's Clan)\"),\n option(\"Goliath (Pomarj Warband)\"),\n option(\"Goliath (Rift Clan)\"),\n option(\"Goliath (Yatil Mountaineer)\"),\n option(\"Other (NPC only)\")\n)]"
+      "declaration": "INPUT[inlineSelect(\n option(Human),\n option(Elf),\n option(Dwarf),\n option(Gnome),\n option(Halfling),\n option(Half-Elf),\n option(Half-Orc),\n option(Goliath),\n option(\"Other (NPC only)\")\n)]"
     },
     {
       "name": "template-person-gender",
@@ -104,6 +104,10 @@
     {
       "name": "template-prestige-class",
       "declaration": "INPUT[suggester(\n option(Knights of Holy Shielding),\n option(Knights of the Hart),\n option(Knights of the Watch),\n option(Knight Protectors),\n option(Knights of Luna),\n option(Saphis of Zeif),\n option(Farises of Tusmit),\n option(Red Blades of Shar),\n option(Zealot of Pholtus),\n option(Imperial Guard of Aerdy),\n option(Ranger Knights of the Gnarley Forest),\n option(Wolf Nomad Pack Leader),\n option(Old Mare of the Paynims),\n option(Sea of Dust Diver),\n option(Mist Walkers of the Burneal),\n option(\"Dark Druid Circle (never Good)\"),\n option(Arms of Hextor \u26a0),\n option(Knights of Doom \u26a0),\n option(Knights of the Horn \u26a0),\n option(Scarlet Brotherhood Agent \u26a0),\n option(Iuzian Spooks \u26a0),\n option(Black Riders of the Tiger Nomads \u26a0)\n)]"
+    },
+    {
+      "name": "template-person-heritage",
+      "declaration": "INPUT[inlineSelect(\n option(Human \u2014 Oeridian),\n option(Human \u2014 Suel),\n option(Human \u2014 Baklunish),\n option(Human \u2014 Flan),\n option(Human \u2014 Rhennee),\n option(Elf \u2014 High),\n option(Elf \u2014 Sylvan),\n option(\"Elf \u2014 Grey (Faerie)\"),\n option(Elf \u2014 Valley),\n option(\"Elf \u2014 Wild (Grugach)\"),\n option(Dwarf \u2014 Hill),\n option(Dwarf \u2014 Mountain),\n option(Gnome \u2014 Rock),\n option(Gnome \u2014 Svirfneblin),\n option(Halfling \u2014 Lightfoot),\n option(Halfling \u2014 Stout),\n option(Halfling \u2014 Tallfellow),\n option(\"Goliath \u2014 Orakhan's Clan\"),\n option(Goliath \u2014 Pomarj Warband),\n option(Goliath \u2014 Rift Clan),\n option(Goliath \u2014 Yatil Mountaineer)\n)]"
     }
   ],
   "buttonTemplates": [
