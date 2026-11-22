@@ -226,7 +226,7 @@ Distances are house figures; add a day each way in deep snow.
 - [[SP-GS02-The-Long-Night-at-Candlecrown]] — home base for every scene; the siege in [[Scene 10 — The Long Night]] and [[Scene 11 — The Seventh Verse]].
 
 ## Map Reference
-**Town map (T1, draft):** ![[SP-GS02 - T1 Candlecrown Town (draft, color).png|500]]
+**Town map (T1):** ![[SP-GS02 - T1 Candlecrown Town-color.png|500]]
 
 **Region map (R1, draft):** ![[SP-GS02 - R1 Candlecrown Region (draft, color).png|500]]
 

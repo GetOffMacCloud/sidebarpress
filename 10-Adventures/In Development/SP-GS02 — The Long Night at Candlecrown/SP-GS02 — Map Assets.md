@@ -23,23 +23,21 @@ One battlemap per encounter site, built top-down in CharGen (colour first), with
 ## Town Map
 | Map | Use | File | Status |
 |---|---|---|---|
-| **T1 Candlecrown (town)** | Player overview of the crown: every building, the green, the lantern ring, the gate and the top of the Stair. Not the siege battlemap (M2 stays top-down and gridded). | `99-Assets/SP-GS02/SP-GS02 - T1 Candlecrown Town (draft, color).png` | Draft (2026-11-22); labels to fix, ink version needed |
+| **T1 Candlecrown (town)** | Player overview of the crown: every building, the green, the lantern ring, the gate and the top of the Stair. Not the siege battlemap (M2 stays top-down and gridded). | `99-Assets/SP-GS02/SP-GS02 - T1 Candlecrown Town-color.png` | Color final (2026-11-22); ink version needed. First draft in `_alternates/`. |
 
-> [!art]- T1 Candlecrown (draft)
-> ![[SP-GS02 - T1 Candlecrown Town (draft, color).png|500]]
+> [!art]- T1 Candlecrown
+> ![[SP-GS02 - T1 Candlecrown Town-color.png|500]]
 
-**Label fixes before it ships:**
-- [ ] Title "FROSTHOLLOW" → "CANDLECROWN" (and the banner lines to taste)
-- [ ] "Northlight Gate" → "The Gate" (it's on the south face); add "Warden's Hut" beside it
-- [ ] "Shrine of the Stone" → "Winter-God Shrine" (Mother Sedge's shrine to Telchur)
-- [ ] "Workshop" → "Lantern Workshop"; "Great Hall" OK; "Oil Shed" → "Oil-House" (and add "Cooperage")
-- [ ] "Cliff Crane" → "Broken Winch" (its rope snapped on Sunsebb 26; the crane in the art still has its rope and a crate)
-- [ ] "South Trail to the Pass" → "The Candle Stair (six switchbacks)"
-- [ ] Stormspine Pass, Icetooth Pass, "To Far Pass", "To Glacier Way" → delete, or match R1 (north: Loftwick; west: Melkot; south: the Hool Marshes)
-- [ ] Add "Corin's Fold" (the hut by the sheepfold) and "Mother Sedge's cottage" if the art allows
-- [ ] Ink version for print
+**Label fixes:**
+- [x] Title → CANDLECROWN; subtitle "Light Endures"; banner "No Lantern Dark, No Verse Unsung"
+- [x] The Gate · Warden's Hut · Winter-God Shrine · Mother Sedge's cottage · Lantern Workshop · Oil-House · Cooperage · Broken Winch (no crate) · The Candle Stair (six switchbacks)
+- [x] To Melkot (4 days, west) · The high Tors (east) · To Loftwick · To the Hool Marshes
+- [ ] Optional: the Loftwick and Hool Marshes arrows both point east from the bottom-right corner; move them to point north and south
+- [ ] Optional: label "Corin's Fold" (a hut at the sheepfold)
+- [ ] Optional: the salt line under the gate; two dark posts by the sheepfold
+- [ ] Ink version for print: `SP-GS02 - T1 Candlecrown Town.png`
 
-**What it confirms for the notes:** the shrine is a cave in a rock outcrop beside the hall (as written); the hall and workshop sit toward the north rim, with the sealed mine shaft behind them; the green with the feast tables and sailcloth awning is south of the hall; the kiln, oil-house, storehouse and sheepfold are on the east side; about a dozen homes in three rows on the west side; the gate and Stair are on the south face.
+**What it confirms for the notes:** the shrine is a cave in a rock outcrop beside the hall, with Mother Sedge's cottage against it; the hall and workshop sit toward the north rim, with the sealed mine shaft behind them; the green with the feast tables and sailcloth awning is south of the hall; the kiln, oil-house, cooperage, storehouse and sheepfold are on the east side; the warden's hut is just inside the gate; about a dozen homes stand in three rows on the west side; the gate and Stair are on the south face; the broken winch is on the southeast rim.
 
 ## Region Map
 | Map | Use | File | Status |
