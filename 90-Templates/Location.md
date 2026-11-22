@@ -2,7 +2,7 @@
 type: location
 canon: false
 kind: place # place (a building or business in a settlement) | point-of-interest (somewhere to explore) | site (a keyed dungeon or lair) | landmark
-category: "" # place: Commerce | Agriculture | Military | Philosophy | Industrial | Nesting | Government · point-of-interest: Encounter | Ruins | Dungeon | Landmark
+category: "" # place: Commerce | Agriculture | Military | Philosophy | Industrial | Nesting | Government · point-of-interest: Encounter | Ruins | Dungeon | Landmark | Lair | Cave | Shrine | Temple | Tomb | Barrow | Battlefield | Mine | Tower | Camp | Crossing | Waystation | Wreck | Grove | Standing Stones | Hazard | Portal
 region: ""
 parent_location: "" # link to the Settlement or Region it sits in
 aliases: []
@@ -32,7 +32,7 @@ const setFM = (obj) => setTimeout(() => {
 if (isNew) {
   let kind = tp.file.title.startsWith("NewPOI") ? "point-of-interest" : (tp.file.title.startsWith("NewPlace") ? "place" : null);
   if (!kind) kind = await tp.system.suggester(["place", "point-of-interest", "site", "landmark"], ["place", "point-of-interest", "site", "landmark"], false, "What kind of location?");
-  const cats = kind === "place" ? ["Commerce", "Agriculture", "Military", "Philosophy", "Industrial", "Nesting", "Government"] : ["Encounter", "Ruins", "Dungeon", "Landmark"];
+  const cats = kind === "place" ? ["Commerce", "Agriculture", "Military", "Philosophy", "Industrial", "Nesting", "Government"] : ["Encounter", "Ruins", "Dungeon", "Landmark", "Lair", "Cave", "Shrine", "Temple", "Tomb", "Barrow", "Battlefield", "Mine", "Tower", "Camp", "Crossing", "Waystation", "Wreck", "Grove", "Standing Stones", "Hazard", "Portal"];
   const category = await tp.system.suggester(cats, cats, false, "Category") ?? "";
   const parent_location = await pick("Which settlement or region is it in?", ["settlement", "region", "location"], ["20-World/Regions"]);
   setFM({ kind: kind ?? "place", category, parent_location });
