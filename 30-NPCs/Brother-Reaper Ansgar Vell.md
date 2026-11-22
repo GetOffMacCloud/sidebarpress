@@ -1,21 +1,63 @@
 ---
 type: npc
-adventure: "SP-GA05"
+status: draft
+canon: false
+faction: ''
+location: ''
+aliases: []
+species: ''
+heritage: ''
+gender: ''
+age: ''
+alignment: ''
+occupation: ''
+class: ''
+subclass: ''
+prestige_class: ''
+level: ''
+adventure_role: ''
+disposition: ''
+party_trust: ''
+items: []
+connected_quests: []
+connected_groups: []
+parents: []
+partner: []
+children: []
+siblings: []
+allies: []
+enemies: []
+deceased_date: ''
+tags: [npc, homebrew, sp-pbs-05, humanoid]
+adventure: SP-GA05
 section: appendix-bestiary
 publish: true
-title: "Brother-Reaper Ansgar Vell"
-cr: "2"
+title: Brother-Reaper Ansgar Vell
+cr: '2'
 xp: 450
-base_block: "priest (MM), *inflict wounds* in place of *spiritual weapon*; Hollowing Toll added"
-edition: "2014"
-status: draft
-tags: [npc, homebrew, sp-pbs-05, humanoid]
+base_block: priest (MM), *inflict wounds* in place of *spiritual weapon*; Hollowing Toll added
+edition: '2014'
 ---
 
 # Brother-Reaper Ansgar Vell
 
-> [!art]+ Portrait
 > ![[SP-GA05 portrait-ansgar-vell.jpg|300]]
+
+> [!abstract]- Quick edit (Meta Bind)
+> Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
+> Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Class `INPUT[template-person-class][:class]` · Subclass `INPUT[template-person-subclass][:subclass]` · Prestige class `INPUT[template-prestige-class][:prestige_class]` · Level `INPUT[number:level]`
+> Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
+> Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`
+
+## Appearance
+
+## Personality & Mannerisms
+
+## Goals & Secrets
+
+## Role & Context
+> [!art]+ Portrait
 
 *Homebrew variant of the priest (MM p. 348): 44 hit points (8 Hit Dice), *inflict wounds* and *blindness/deafness* in place of *spiritual weapon* and *spirit guardians*; Hollowing Toll and Keeper of the Hours added. 2014 rules.*
 - **Loyalty:** the Grey Sickle of Schwartzenbruin. [Nerull]
@@ -27,8 +69,33 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 - **Escalation:** Blesses ("The Reaper comes for all; we only keep the hours.") → warns (the penny in their water) → pays (Grukka's silver) → reaps. **Flees at half hit points (22)** down the south scree, passing the clapper to Halse and still concentrating on the toll. He never leaves with the clapper.
 - **In this adventure:** Leader of the Grey Sickle procession. Shadowed in Scene 2; fought in [[SP-GA05 — E4 — Thirteen Tolls|E4]].
 
-## Statblock
+## Conversation Guide
+| Topic | Freely discussed? | Notes / sample line |
+|---|:---:|---|
+| | | |
 
+## Services
+| Service | Cost / notes |
+|---|---|
+| | |
+
+## Quest Hooks
+| Hook | Leads to | Trigger |
+|---|---|---|
+| | | |
+
+## Relationships
+```dataview
+TABLE WITHOUT ID parents AS "Parents", partner AS "Partner", children AS "Children", siblings AS "Siblings", allies AS "Allies", enemies AS "Enemies"
+WHERE file.path = this.file.path
+```
+
+## Inventory
+```dataview
+LIST FROM "50-Items" WHERE contains(this.items, file.link)
+```
+
+## Stat Block
 > [!example]- Brother-Reaper Ansgar Vell (CR 2, 450 XP)
 > ## Brother-Reaper Ansgar Vell
 > *Medium humanoid (human), neutral evil*
@@ -62,6 +129,15 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 
 ## Appearances
 - [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]: Scenes 2 and 6. Recurs in [[Ansgar Returns]], where he comes to Ritterstadt for the clapper.
+
+## Player Log
+| Date (CY) | Party | What happened |
+|---|---|---|
+| | | |
+
+## Canon Notes
+
+## Continuity
 
 ## FGU Import
 Paste into **NPCs → Import Text** (mode "2022 – Monsters of the Multiverse"; the block is 2014 content).

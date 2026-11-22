@@ -1,9 +1,33 @@
 ---
 type: npc
-status: alive # alive | dead | missing | unknown
+status: alive
 canon: false
-faction: ""
-location: "[[Merrow's Rest]]"
+faction: ''
+location: '[[Merrow''s Rest]]'
+aliases: []
+species: ''
+heritage: ''
+gender: ''
+age: ''
+alignment: ''
+occupation: ''
+class: ''
+subclass: ''
+prestige_class: ''
+level: ''
+adventure_role: ''
+disposition: ''
+party_trust: ''
+items: []
+connected_quests: []
+connected_groups: []
+parents: []
+partner: []
+children: []
+siblings: []
+allies: []
+enemies: []
+deceased_date: ''
 tags: [drunaghul, aberration, villain, shapechanger, SP-OP01]
 ---
 
@@ -11,10 +35,16 @@ tags: [drunaghul, aberration, villain, shapechanger, SP-OP01]
 
 > The grateful keeper of Merrow's Rest, who is really a drunaghul wearing the face of the man it ate first.
 
-## The Man
-The real Brother Ossian kept Merrow's Rest for forty years: a stubborn, patient man with arthritic hands. He is the first entry in the larder ledger: *Ossian, brother. Tough.* A drunaghul came up the crawls eight months ago, ate him, and took his face. It runs Merrow's Rest better than he did, and everyone says how well he looks.
+> [!abstract]- Quick edit (Meta Bind)
+> Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
+> Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Class `INPUT[template-person-class][:class]` · Subclass `INPUT[template-person-subclass][:subclass]` · Prestige class `INPUT[template-prestige-class][:prestige_class]` · Level `INPUT[number:level]`
+> Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
+> Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`
 
 ## Appearance
+The real Brother Ossian kept Merrow's Rest for forty years: a stubborn, patient man with arthritic hands. He is the first entry in the larder ledger: *Ossian, brother. Tough.* A drunaghul came up the crawls eight months ago, ate him, and took his face. It runs Merrow's Rest better than he did, and everyone says how well he looks.
+
 In humanoid form: a hunched, soft-spoken brother in black wool, about sixty, with kind eyes that never blink and skin a little too wet in candlelight. His fingers bend backward one joint too far. He smells of sweet rot and the tang of air after lightning.
 
 True form: ten feet of glistening worm-flesh, six claw-tipped limbs, and a vertical lamprey mouth ringed with teeth.
@@ -30,11 +60,44 @@ True form: ten feet of glistening worm-flesh, six claw-tipped limbs, and a verti
 - **Secret:** the real Brother Ossian is the first line in the larder ledger (*Ossian, brother. Tough.*).
 - **If he escapes:** he takes a face from the road within a tenday and finds another chapel.
 
+## Role & Context
+
+## Conversation Guide
+| Topic | Freely discussed? | Notes / sample line |
+|---|:---:|---|
+| | | |
+
+## Services
+| Service | Cost / notes |
+|---|---|
+| | |
+
+## Quest Hooks
+| Hook | Leads to | Trigger |
+|---|---|---|
+| | | |
+
+## Relationships
+```dataview
+TABLE WITHOUT ID parents AS "Parents", partner AS "Partner", children AS "Children", siblings AS "Siblings", allies AS "Allies", enemies AS "Enemies"
+WHERE file.path = this.file.path
+```
+
+## Inventory
+```dataview
+LIST FROM "50-Items" WHERE contains(this.items, file.link)
+```
+
 ## Stat Block
 Custom: see the FGU Import below and [[SP-OP01 — Bestiary]]. CR 9 (5,000 XP).
 
 ## Appearances
 - [[SP-OP01-What-the-Dead-Fear]]: Scene 01 (as the caretaker), Scene 03 (the trap and the fight).
+
+## Player Log
+| Date (CY) | Party | What happened |
+|---|---|---|
+| | | |
 
 ## Canon Notes
 An original Sidebar Press creature: the drunaghul (named 2026-11-16). See the adventure's Canon Notes for its folklore roots.

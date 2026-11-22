@@ -1,21 +1,63 @@
 ---
 type: npc
-adventure: "SP-GA05"
+status: draft
+canon: false
+faction: ''
+location: ''
+aliases: []
+species: ''
+heritage: ''
+gender: ''
+age: ''
+alignment: ''
+occupation: ''
+class: ''
+subclass: ''
+prestige_class: ''
+level: ''
+adventure_role: ''
+disposition: ''
+party_trust: ''
+items: []
+connected_quests: []
+connected_groups: []
+parents: []
+partner: []
+children: []
+siblings: []
+allies: []
+enemies: []
+deceased_date: ''
+tags: [npc, homebrew, sp-pbs-05, humanoid]
+adventure: SP-GA05
 section: appendix-bestiary
 publish: true
-title: "Grukka One-Tusk"
-cr: "2"
+title: Grukka One-Tusk
+cr: '2'
 xp: 450
-base_block: "orog (MM); Duelist's Word added"
-edition: "2014"
-status: draft
-tags: [npc, homebrew, sp-pbs-05, humanoid]
+base_block: orog (MM); Duelist's Word added
+edition: '2014'
 ---
 
 # Grukka One-Tusk
 
-> [!art]+ Portrait
 > ![[SP-GA05 portrait-grukka-one-tusk.jpg|300]]
+
+> [!abstract]- Quick edit (Meta Bind)
+> Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
+> Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Class `INPUT[template-person-class][:class]` · Subclass `INPUT[template-person-subclass][:subclass]` · Prestige class `INPUT[template-prestige-class][:prestige_class]` · Level `INPUT[number:level]`
+> Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
+> Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`
+
+## Appearance
+
+## Personality & Mannerisms
+
+## Goals & Secrets
+
+## Role & Context
+> [!art]+ Portrait
 
 *Homebrew variant of the orog (MM); Duelist's Word added. 2014 rules.*
 
@@ -26,8 +68,33 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 - **Escalation:** Threatens → bargains (offers the wardens grave-silver to turn back) → accepts a duel → honors the result. Turns on the Sickle if shown Halse's notes (DC 12).
 - **In this adventure:** War-chief of the deserters holding the Tor path. [[SP-GA05 — E3 — The Orc Camp|E3]].
 
-## Statblock
+## Conversation Guide
+| Topic | Freely discussed? | Notes / sample line |
+|---|:---:|---|
+| | | |
 
+## Services
+| Service | Cost / notes |
+|---|---|
+| | |
+
+## Quest Hooks
+| Hook | Leads to | Trigger |
+|---|---|---|
+| | | |
+
+## Relationships
+```dataview
+TABLE WITHOUT ID parents AS "Parents", partner AS "Partner", children AS "Children", siblings AS "Siblings", allies AS "Allies", enemies AS "Enemies"
+WHERE file.path = this.file.path
+```
+
+## Inventory
+```dataview
+LIST FROM "50-Items" WHERE contains(this.items, file.link)
+```
+
+## Stat Block
 > [!example]- Grukka One-Tusk (CR 2, 450 XP)
 > ## Grukka One-Tusk
 > *Medium humanoid (orc), chaotic neutral*
@@ -58,6 +125,15 @@ tags: [npc, homebrew, sp-pbs-05, humanoid]
 
 ## Appearances
 - [[SP-GA05-The-Pilgrims-of-the-Hollow-Bell]]: Scene 5. Recurs in [[Grukka's Deserters]].
+
+## Player Log
+| Date (CY) | Party | What happened |
+|---|---|---|
+| | | |
+
+## Canon Notes
+
+## Continuity
 
 ## FGU Import
 Paste into **NPCs → Import Text** (mode "2022 – Monsters of the Multiverse"; the block is 2014 content).

@@ -1,64 +1,62 @@
 ---
-publish: false
-name: Wendel Klagenbach
-MyContainer: "[[The Guardhouse]]"
-MyCategory:
-image:
-tags:
-  - Category/People
-  - NPC
-  - ritterstadt-npc
-obsidianUIMode: preview
-aliases:
-  - Wendel
-  - The Sentry
-NoteStatus: 🌱
-type: NPC
-status: Alive
-ancestry: Human
-location: "[[02. World/Hubs/Ritterstadt|Ritterstadt]]"
-occupation: Garrison Soldier (night watch)
-town_role: Garrison — junior
+type: npc
+status: alive
+canon: false
+faction: ''
+location: '[[02. World/Hubs/Ritterstadt|Ritterstadt]]'
+aliases: [Wendel, The Sentry]
+species: Human
+heritage: ''
+gender: Male
+age: Young Adult
 alignment: Neutral Good
+occupation: Garrison Soldier (night watch)
+class: ''
+subclass: ''
+prestige_class: ''
+level: ''
+adventure_role: ''
 disposition: Friendly
-shop:
-founder: false
 party_trust: 1
-deceased_date:
-char_alignment: Neutral Good
-char_status: Alive
-char_race: Human
-char_gender: Male
-char_age: Young Adult
-char_items: []
+items: []
+connected_quests: ['[[Greyhawk University/04. Campaign Logs/Session Notes/0004 - The Man from the South|0004 - The Man from the South]]']
+connected_groups: []
 parents: []
+partner: []
 children: []
 siblings: []
-partner: []
+allies: [Hauptmann Hildegard Stahlwulf, Rowena Ithilbrook]
 enemies: []
-allies:
-  - Hauptmann Hildegard Stahlwulf
-  - Rowena Ithilbrook
-Connected_Quests:
-  - "[[Greyhawk University/04. Campaign Logs/Session Notes/0004 - The Man from the South|0004 - The Man from the South]]"
-Connected_Groups: []
-first_appearance: "0004, Session 1 — 22 Harvester 576 CY"
+deceased_date: ''
+tags: [Category/People, NPC, ritterstadt-npc]
+publish: false
+name: Wendel Klagenbach
+MyContainer: '[[The Guardhouse]]'
+MyCategory: null
+image: null
+obsidianUIMode: preview
+NoteStatus: 🌱
+town_role: Garrison — junior
+shop: null
+founder: false
+first_appearance: 0004, Session 1 — 22 Harvester 576 CY
 ---
 
-> [!info] Stub — created 2026-08-26 from table canon
-> Invented at the table during [[0004 - Session 1 Recap — What Actually Happened|0004 Session 1]] to pay off the empty sentry's bench in the Episode 1 read-aloud. Frontmatter matches the Ritterstadt NPC schema; the meta-bind dashboard has **not** been applied — insert the Town NPC template in Obsidian if you want the tabbed view.
+# Wendel Klagenbach
 
----
+> The night watch's youngest and least impressive soldier — the man who was on duty when the Guardhouse was robbed, and who contributed nothing at all to stopping it.
 
-# General
+> [!abstract]- Quick edit (Meta Bind)
+> Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
+> Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Class `INPUT[template-person-class][:class]` · Subclass `INPUT[template-person-subclass][:subclass]` · Prestige class `INPUT[template-prestige-class][:prestige_class]` · Level `INPUT[number:level]`
+> Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
+> Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`
 
-### Character Descriptor
-The night watch's youngest and least impressive soldier — the man who was on duty when the Guardhouse was robbed, and who contributed nothing at all to stopping it.
-
-### 📝 Appearance
+## Appearance
 Early twenties, thin, a helmet a half-size too large. Garrison issue kept technically correct and visibly unloved. Since the twenty-second he walks with a stick he does not need.
 
-### 🎭 Mannerisms
+## Personality & Mannerisms
 Loud in distress and quiet the rest of the time. Explains things nobody asked about. Says *"I'm not complaining"* immediately before complaining. Since his splinting he has developed a habit of appearing wherever Rowena Ithilbrook is, holding something, in case she wants it held.
 
 ### 🗣️ Voice
@@ -66,16 +64,55 @@ Loud in distress and quiet the rest of the time. Explains things nobody asked ab
 
 > **Wendel** *(later, to anyone, unprompted):* "I want it on the record that I was at my post. I was at my post and then I was behind the woodstack. I'm not saying those things are the same. I'm saying there was an order to them."
 
----
+## Goals & Secrets
 
-# Statblock
+## Role & Context
 
+## Conversation Guide
+| Topic | Freely discussed? | Notes / sample line |
+|---|:---:|---|
+| | | |
+
+## Services
+| Service | Cost / notes |
+|---|---|
+| | |
+
+## Quest Hooks
+| Hook | Leads to | Trigger |
+|---|---|---|
+| | | |
+
+## Relationships
+```dataview
+TABLE WITHOUT ID parents AS "Parents", partner AS "Partner", children AS "Children", siblings AS "Siblings", allies AS "Allies", enemies AS "Enemies"
+WHERE file.path = this.file.path
+```
+- **[[Greyhawk University/05. The Hamlet of Ritterstadt/Town NPCs/Hauptmann Hildegard Stahlwulf|Hauptmann Hildegard Stahlwulf]]** — his commander. Has said nothing to him about the twenty-second. He would rather she shouted.
+- **[[Rowena Ithilbrook]]** — set his leg. He is hers now, in the way of young men who have been shown a kindness they did not deserve.
+- **[[Greyhawk University/05. The Hamlet of Ritterstadt/Town NPCs/Ewald Wennerberg|Ewald Wennerberg]]** — served alongside him. Wendel thought he was fine. Everyone did.
+
+## Inventory
+```dataview
+LIST FROM "50-Items" WHERE contains(this.items, file.link)
+```
+Spear, garrison-issue. Shield. A splint and bandage he refuses to remove. A walking stick he does not need.
+
+## Stat Block
 **Guard** (MM p.347), unmodified. He will not win a fight and he knows it.
 
----
+## Appearances
 
-# GM Notes
+## Player Log
+| Date (CY) | Party | What happened |
+|---|---|---|
+| | | |
 
+## Canon Notes
+
+## Continuity
+
+## GM Notes
 **What happened on the 22nd.** He was the sentry on the Guardhouse door the night the Traft crew came over the wall. He was found afterward behind the woodstack, uninjured, weeping, and absolutely certain his leg was broken. It was a sprain. **Rowena Ithilbrook splinted it one-handed**, an hour after losing her left hand to her own *spiritual weapon*, and never said a word about the comparison. Neither did anyone else. Wendel has worked it out since.
 
 **How to play him now.** The comedy is real but it is the setup, not the payoff. The payoff is that **he is ashamed** — a robbery happened on his watch and he was not part of stopping it — and **Hildegard has never mentioned it to him**, which is worse than a reprimand. He is looking for a way to be useful once, to anybody, and the party are the obvious candidates.
@@ -89,23 +126,6 @@ Loud in distress and quiet the rest of the time. Explains things nobody asked ab
 > [!warning] Do not kill him for shock value
 > He is funny, and the table adopted him inside a minute. Spending him early buys one gasp; keeping him buys a recurring NPC the players will protect. If he must be endangered, let them get there in time — at least once.
 
----
-
-# Inventory
-
-Spear, garrison-issue. Shield. A splint and bandage he refuses to remove. A walking stick he does not need.
-
----
-
-# Connections
-
+## Connections
 - **Post:** [[The Guardhouse]] — night rotation, under [[Greyhawk University/05. The Hamlet of Ritterstadt/Town NPCs/Hauptmann Hildegard Stahlwulf|Hauptmann Hildegard Stahlwulf]]
 - **Debut:** [[Greyhawk University/04. Campaign Logs/Session Notes/0004 - The Man from the South|0004 — The Man from the South]] · [[0004 - Session 1 Recap — What Actually Happened]]
-
----
-
-# Relationships
-
-- **[[Greyhawk University/05. The Hamlet of Ritterstadt/Town NPCs/Hauptmann Hildegard Stahlwulf|Hauptmann Hildegard Stahlwulf]]** — his commander. Has said nothing to him about the twenty-second. He would rather she shouted.
-- **[[Rowena Ithilbrook]]** — set his leg. He is hers now, in the way of young men who have been shown a kindness they did not deserve.
-- **[[Greyhawk University/05. The Hamlet of Ritterstadt/Town NPCs/Ewald Wennerberg|Ewald Wennerberg]]** — served alongside him. Wendel thought he was fine. Everyone did.

@@ -1,89 +1,72 @@
 ---
-publish: false
-name: Dietrich Hammerschlag
-MyContainer: "[[The Smithy]]"
-MyCategory:
-image:
-tags:
-  - Category/People
-  - NPC
-  - ritterstadt-npc
-  - deceased
-  - wachturm-arc
-obsidianUIMode: preview
+type: npc
+status: dead
+canon: false
+faction: ''
+location: '[[Ritterstadt]]'
 aliases: []
-NoteStatus: ❓
-type: NPC
-status: Dead
-ancestry: Human
-location: "[[Ritterstadt]]"
-occupation: Blacksmith · trapper
-town_role: Founder of the Hammerschlag Forge (deceased)
+species: Human
+heritage: ''
+gender: Male
+age: Adult
 alignment: Neutral Good
+occupation: Blacksmith · trapper
+class: ''
+subclass: ''
+prestige_class: ''
+level: ''
+adventure_role: ''
 disposition: Absent
-shop: Hammerschlag Forge
-founder: true
 party_trust: 0
-deceased_date: 0573-Sunsebb
-char_alignment: Neutral Good
-char_status: Dead
-char_race: Human
-char_gender: Male
-char_age: Adult
-char_items: []
+items: []
+connected_quests: ['[[Greyhawk University/04. Campaign Logs/Session Notes/0002 - Cold Trails]]', '[[0003 - The Anchor Stone]]']
+connected_groups: []
 parents: []
+partner: ['[[Brunhilde Hammerschlag]]']
 children: []
 siblings: []
-partner:
-  - "[[Brunhilde Hammerschlag]]"
+allies: [Vater Sigmund Wolfherz]
 enemies: []
-allies:
-  - Vater Sigmund Wolfherz
-Connected_Quests:
-  - "[[Greyhawk University/04. Campaign Logs/Session Notes/0002 - Cold Trails]]"
-  - "[[0003 - The Anchor Stone]]"
-Connected_Groups: []
+deceased_date: 0573-Sunsebb
+tags: [Category/People, NPC, ritterstadt-npc, deceased, wachturm-arc]
+publish: false
+name: Dietrich Hammerschlag
+MyContainer: '[[The Smithy]]'
+MyCategory: null
+image: null
+obsidianUIMode: preview
+NoteStatus: ❓
+town_role: Founder of the Hammerschlag Forge (deceased)
+shop: Hammerschlag Forge
+founder: true
 ---
 
-> [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Hub),optionQuery(#Category/Region),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
-%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
+# Dietrich Hammerschlag
 
----
+> The village's first smith: a big, unhurried, methodical man who trapped the uplands in winter because the forge was slow in the cold and he did not like to be idle. Everyone in Ritterstadt over thirty remembers him. Nobody knows what he actually died of.
 
-# General
+> [!abstract]- Quick edit (Meta Bind)
+> Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
+> Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Class `INPUT[template-person-class][:class]` · Subclass `INPUT[template-person-subclass][:subclass]` · Prestige class `INPUT[template-prestige-class][:prestige_class]` · Level `INPUT[number:level]`
+> Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
+> Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`
 
-Name: `= this.file.name`
+## Appearance
+*From Bruni's account and the recollection of older residents; no portrait exists in the vault.* Powerfully built, thick through the forearms and shoulders in the way of a man who worked iron for twenty years. Dark hair going grey at the temples by the end. He wore a heavy oiled-canvas coat for the trapping season and mended it himself rather than replace it — badly, and visibly, and it became a joke he enjoyed.
 
-Alignment:  `INPUT[template-npc-alignment][:char_alignment]`
+## Personality & Mannerisms
+Slow to speak, and when he did speak it was usually a question about how something was made. He wrote nothing down: no journal, no trapline map, no ledger beyond the forge accounts. This is the single most inconvenient fact about him. Whatever he worked out about that chamber, he worked out in his head, and it went up the mountain with him.
 
-Status: `INPUT[template-person-status][:char_status]`
+## Goals & Secrets
+### 💡 Key Motivation
+Curiosity, of a practical and dangerous kind. He was a maker looking at something made. He did not take the stone because it was valuable — he had no idea what it was worth and no one to sell it to. He took it because it had been *fitted* to something, and he wanted to know what.
 
-Race/Species: `INPUT[template-person-race][:char_race]`
-
-Gender: `INPUT[template-person-gender][:char_gender]`
-
-Age: `INPUT[template-person-age-range][:char_age]`
-
----
-
+## Role & Context
 > [!danger] Deceased — winter of 573 CY, the northern pass
 > Ritterstadt's first blacksmith, husband of [[Brunhilde Hammerschlag]], and the man who found the iron spike three winters before anyone else went up that mountain. He is the reason the [[DM Reference — The Wachturm & The Binding Network|binding network]] arc exists. **He has never appeared on screen and never will** — he is a hole in the middle of the campaign that the party keeps finding the edges of.
 >
 > His remains were recovered from the inner chamber of the northern pass den by the Ritterstadt Questers during [[Greyhawk University/04. Campaign Logs/Session Notes/0002 - Cold Trails|0002 — Cold Trails]] and returned to his widow, who did not open the satchel in front of anyone.
-
-### Character Descriptor
-The village's first smith: a big, unhurried, methodical man who trapped the uplands in winter because the forge was slow in the cold and he did not like to be idle. Everyone in Ritterstadt over thirty remembers him. Nobody knows what he actually died of.
-
-### 📝 Appearance
-*From Bruni's account and the recollection of older residents; no portrait exists in the vault.* Powerfully built, thick through the forearms and shoulders in the way of a man who worked iron for twenty years. Dark hair going grey at the temples by the end. He wore a heavy oiled-canvas coat for the trapping season and mended it himself rather than replace it — badly, and visibly, and it became a joke he enjoyed.
-
-### 🎭 Mannerisms
-Slow to speak, and when he did speak it was usually a question about how something was made. He wrote nothing down: no journal, no trapline map, no ledger beyond the forge accounts. This is the single most inconvenient fact about him. Whatever he worked out about that chamber, he worked out in his head, and it went up the mountain with him.
-
-### 💡 Key Motivation
-Curiosity, of a practical and dangerous kind. He was a maker looking at something made. He did not take the stone because it was valuable — he had no idea what it was worth and no one to sell it to. He took it because it had been *fitted* to something, and he wanted to know what.
-
-## 🗺️ Role in the Campaign
 
 Dietrich is the arc's first mover. Every thread in the Wachturm sequence traces back to one winter afternoon in 573 when a village blacksmith walked into a limestone cave above the snowline, found a room that animals would not enter, and picked something up.
 
@@ -94,24 +77,55 @@ Dietrich is the arc's first mover. Every thread in the Wachturm sequence traces 
 | Died carrying it | Bruni's coffer, closed for three years; the 0002 → 0003 handoff |
 | Told nobody what he'd seen | The reason nobody could act on any of it until 576 |
 
-## 🔗 Relationship Web
+## Conversation Guide
+| Topic | Freely discussed? | Notes / sample line |
+|---|:---:|---|
+| | | |
 
+## Services
+| Service | Cost / notes |
+|---|---|
+| | |
+
+## Quest Hooks
+| Hook | Leads to | Trigger |
+|---|---|---|
+| | | |
+
+## Relationships
+```dataview
+TABLE WITHOUT ID parents AS "Parents", partner AS "Partner", children AS "Children", siblings AS "Siblings", allies AS "Allies", enemies AS "Enemies"
+WHERE file.path = this.file.path
+```
 | NPC | Relationship Type | Notes |
 | :--- | :--- | :--- |
 | [[Brunhilde Hammerschlag]] | Wife | She has never opened the coffer he brought home. She still runs his forge. |
 | Vater Sigmund Wolfherz | The man who brought the news | He told Bruni. What else he brought down that mountain is an open question — see GM Notes. |
 | [[Ritter Konrad von Eisfeld]] | Patron | Dietrich kept the garrison's arms; Bruni inherited the contract. |
 
-# Statblock
+## Inventory
+```dataview
+LIST FROM "50-Items" WHERE contains(this.items, file.link)
+```
 
+## Stat Block
 *None required — he cannot be encountered.* If you need him for a vision, a divination, or a speak-with-dead scene, use a **Commoner** with proficiency in smith's tools and Survival, and remember that he does not know what the stone was either.
 
-# GM Notes
+## Appearances
 
+## Player Log
+| Date (CY) | Party | Summary of Interaction |
+| :--- | :--- | :--- |
+| 0576-10-12 | [[Ritterstadt Questers]] | Remains and effects recovered from the inner chamber of the northern pass den; returned to his widow at the forge. |
+
+## Canon Notes
+
+## Continuity
+
+## GM Notes
 > [!danger] DM Eyes Only
 
 ## 🕵️ What Actually Happened
-
 The official story, and the one Bruni repeats without believing it: *"He died in the pass. Wolves. Three winters ago."*
 
 The truth, established across [[Greyhawk University/04. Campaign Logs/Session Notes/0002 - Cold Trails|0002]] and revised in [[0003 - The Anchor Stone|0003]]:
@@ -134,27 +148,10 @@ The truth, established across [[Greyhawk University/04. Campaign Logs/Session No
 > Whichever you pick, write it down here, because the party will eventually ask the obvious question: *if he died in that room, who brought the stone to his wife?*
 
 ## 🔑 What the Party Can Still Learn From Him
-
 - **From his kit** (recovered 0002): he was there deliberately, not by accident. Trapping tools set down neatly, not dropped. He had been in that chamber before, or intended to be there a while.
 - **From the forge**: no journal, no map. Bruni can confirm he never wrote anything down. Dead end, deliberately.
 - **From Bruni, at high trust**: the shape of the thing in the coffer, and eventually the coffer itself. This is the whole reason his note exists.
 - **From the chamber**: the empty oilcloth is the physical link between the site and the coffer. Showing it to Bruni — or describing it — is the trigger for her thread.
 
 ## 💭 Tone Note
-
 Resist making him a scholar or a secret adept. He was a competent tradesman who found something beyond him and did the most human possible thing with it: he picked it up and carried it toward home. The arc's inciting incident should read as an accident of curiosity, not a prophecy. His death is sad and small and it broke a four-thousand-year-old machine.
-
-# Connections
-Is the person linked to any groups or quests?
-
-Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
-%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
-
-Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
-%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
-
-# Player Log
-
-| Date (CY) | Party | Summary of Interaction |
-| :--- | :--- | :--- |
-| 0576-10-12 | [[Ritterstadt Questers]] | Remains and effects recovered from the inner chamber of the northern pass den; returned to his widow at the forge. |

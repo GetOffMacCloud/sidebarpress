@@ -2,15 +2,45 @@
 type: npc
 status: alive
 canon: false
-faction: "Chakyik (Tiger Nomads) — clergy of Istus"
-location: "Yecha"
-tags: [chakyik, shaman, istus, baklunish, SP-GA01]
+faction: Chakyik (Tiger Nomads) — clergy of Istus
+location: Yecha
 aliases: [Sarnai, Mother Sarnai]
+species: ''
+heritage: ''
+gender: ''
+age: ''
+alignment: ''
+occupation: ''
+class: ''
+subclass: ''
+prestige_class: ''
+level: ''
+adventure_role: ''
+disposition: ''
+party_trust: ''
+items: []
+connected_quests: []
+connected_groups: []
+parents: []
+partner: []
+children: []
+siblings: []
+allies: []
+enemies: []
+deceased_date: ''
+tags: [chakyik, shaman, istus, baklunish, SP-GA01]
 ---
 
 # Mother Sarnai
 
 > Shaman of Istus and the horde's fate-reader. She sets the three trials, translates for the Ilkhan, and cannot be lied to comfortably.
+
+> [!abstract]- Quick edit (Meta Bind)
+> Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
+> Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Class `INPUT[template-person-class][:class]` · Subclass `INPUT[template-person-subclass][:subclass]` · Prestige class `INPUT[template-prestige-class][:prestige_class]` · Level `INPUT[number:level]`
+> Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
+> Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`
 
 ## Appearance
 Ancient, blind in one eye (milky), the other dark and sharp. Bone and feather fetishes in grey hair. She smells of juniper smoke.
@@ -26,11 +56,44 @@ Quiet, certain, faintly kind. She has no spell for lies; she watches faces the w
 - **Knows:** that the party carries a second sealed letter (Batzorig told her), the custom of every trial, and what she leaves out when she translates.
 - **Escalation:** she tests first (the trials), then judges (the Fire), then acts (riders on Kezrin, the soft fail). Caught lying to, she turns to stone and stays that way.
 
+## Role & Context
+
+## Conversation Guide
+| Topic | Freely discussed? | Notes / sample line |
+|---|:---:|---|
+| | | |
+
+## Services
+| Service | Cost / notes |
+|---|---|
+| | |
+
+## Quest Hooks
+| Hook | Leads to | Trigger |
+|---|---|---|
+| | | |
+
+## Relationships
+```dataview
+TABLE WITHOUT ID parents AS "Parents", partner AS "Partner", children AS "Children", siblings AS "Siblings", allies AS "Allies", enemies AS "Enemies"
+WHERE file.path = this.file.path
+```
+
+## Inventory
+```dataview
+LIST FROM "50-Items" WHERE contains(this.items, file.link)
+```
+
 ## Stat Block
 **Priest** (MM p. 348), Istus's domain of fate. Noncombatant in this adventure.
 
 ## Appearances
 - [[SP-GA01-The-False-Arrow]] — Scenes 2, 3, 4, 5 (morning), 6, 7
+
+## Player Log
+| Date (CY) | Party | What happened |
+|---|---|---|
+| | | |
 
 ## Canon Notes
 Homebrew. Istus as the Baklunish goddess of fate is canon (*WoG* 1983; *Greyhawk Adventures* 1988).

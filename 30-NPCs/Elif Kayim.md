@@ -2,23 +2,46 @@
 type: npc
 status: alive
 canon: false
-source_canon: "A Tourist In Greyhawk — Wolf Nomad trader (planned arrival; formerly Temür Bayan)"
-faction: "The Wolf Nomads (Wegwiur)"
-location: "The road south to Ritterstadt"
-tags: [ritterstadt, wolf-nomads, wegwiur, trader, winter-vanguard, gazetteer]
+faction: The Wolf Nomads (Wegwiur)
+location: The road south to Ritterstadt
 aliases: [Kayim, Elif, the Wegwiur trader]
+species: ''
+heritage: ''
+gender: ''
+age: ''
+alignment: ''
+occupation: ''
+class: ''
+subclass: ''
+prestige_class: ''
+level: ''
+adventure_role: ''
+disposition: ''
+party_trust: ''
+items: []
+connected_quests: []
+connected_groups: []
+parents: []
+partner: []
+children: []
+siblings: []
+allies: []
+enemies: []
+deceased_date: ''
+tags: [ritterstadt, wolf-nomads, wegwiur, trader, winter-vanguard, gazetteer]
+source_canon: A Tourist In Greyhawk — Wolf Nomad trader (planned arrival; formerly Temür Bayan)
 ---
 
 # Elif Kayim
 
-> [!art]+ Portrait
 > ![[Ritterstadt elif-kayim.jpg|300]]
 
-
-> A garrulous, road-worn Wolf Nomad trader who has come a very long way south, half to sell amber and furs and half because the north has stopped feeling like home. The first of his people to trade at Ritterstadt, and an unwitting witness to something he can't name.
-
-## Source
-The campaign vault's Wolf Nomad trader, renamed from **Temür Bayan** to avoid a clash with Khan Temur in [[SP-GA01-The-False-Arrow]]. Everything below that isn't in that note is Gazetteer elaboration.
+> [!abstract]- Quick edit (Meta Bind)
+> Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
+> Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Class `INPUT[template-person-class][:class]` · Subclass `INPUT[template-person-subclass][:subclass]` · Prestige class `INPUT[template-prestige-class][:prestige_class]` · Level `INPUT[number:level]`
+> Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
+> Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`
 
 ## Appearance
 Weather-cured and wind-burned, in layered felt and white-fur travelling clothes hung with amber beads and horn trinkets. A string of shaggy ponies follows him. One hand is always drifting to the wolf-tooth charm at his neck.
@@ -42,9 +65,50 @@ Talks the way a man talks who has been alone on a cold road too long. Superstiti
 >
 > **Bringing him in.** He arrives with the first hard frosts, or whenever the north needs to come closer. His arrival is the Wolf Nomads' first trade at Ritterstadt; how the town treats him sets their relationship for years ([[RG-06 — Factions]], [[RG-07 — Perrenland & the Neighbours]]).
 
+## Role & Context
+> [!art]+ Portrait
+
+> A garrulous, road-worn Wolf Nomad trader who has come a very long way south, half to sell amber and furs and half because the north has stopped feeling like home. The first of his people to trade at Ritterstadt, and an unwitting witness to something he can't name.
+
+## Conversation Guide
+| Topic | Freely discussed? | Notes / sample line |
+|---|:---:|---|
+| | | |
+
+## Services
+| Service | Cost / notes |
+|---|---|
+| | |
+
+## Quest Hooks
+| Hook | Leads to | Trigger |
+|---|---|---|
+| | | |
+
+## Relationships
+```dataview
+TABLE WITHOUT ID parents AS "Parents", partner AS "Partner", children AS "Children", siblings AS "Siblings", allies AS "Allies", enemies AS "Enemies"
+WHERE file.path = this.file.path
+```
+
+## Inventory
+```dataview
+LIST FROM "50-Items" WHERE contains(this.items, file.link)
+```
+
 ## Stat Block
 **Scout** (MM p. 349), as a hardy long-road trader. Languages: Common (broken), the Wolf Nomad tongue.
 
 ## Appearances
 - [[SP-GQ00 — The Shadow on the Quag]]: the between-job beat after GQ3 (arrives with the first hard frosts)
 - [[Ritterstadt — Gazetteer (Book)]] — RG-03, RG-06, RG-07, RG-10
+
+## Player Log
+| Date (CY) | Party | What happened |
+|---|---|---|
+| | | |
+
+## Canon Notes
+The campaign vault's Wolf Nomad trader, renamed from **Temür Bayan** to avoid a clash with Khan Temur in [[SP-GA01-The-False-Arrow]]. Everything below that isn't in that note is Gazetteer elaboration.
+
+## Continuity
