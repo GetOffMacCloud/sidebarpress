@@ -64,3 +64,40 @@ One battlemap per encounter site, built top-down in CharGen (colour first), with
 **Player handout map:** [[SP-GS02 — Handout — The Miners' Map]] is a hide-and-ink version of M3 with only the miners' labels.
 
 **FGU:** walls and line of sight on M1–M4; lantern posts on M2 as light sources (10-foot bright radius) so the lantern line shows on the table; token start positions for each wave.
+
+## CharGen battlemap prompts (2026-11-22)
+*Same painted look as the colour plates. No grid and no text in the render: add the 5-foot grid, labels and walls in FGU/Canva. Aspect ratio matches the square count; scale to 100 px per square on export.*
+
+### M1 The Candle Stair (30 × 40, 3:4)
+```
+top-down orthographic battlemap of a narrow switchback path cut into a sheer grey cliff face at night in deep snow, four stacked switchbacks zigzagging up the map, each path 10 feet wide with wider 20-foot square landings at every turn, the cliff wall on the inside edge and a sheer drop with dark empty space on the outside edge, two dead frozen mules lying across the third switchback, a patch of blue glowing ice scratched with runes on the rock above them, a drystone wall with a timber gate across the top of the map, iron lantern posts at the head of the stair with warm pools of light, snow drifts and footprints, cold blue snow light, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, flat even lighting, no perspective, no grid, no text, no labels
+```
+
+### M2 Candlecrown (80 × 80, 1:1)
+```
+top-down orthographic battlemap of a flat snowy mesa top village at night, a ring of iron lantern posts with warm light pools running around the cliff edge, a long timber hall joined to a long workshop in the middle, a big open snowy green with feast tables under a sailcloth awning and a bonfire ring, a timber gate in a drystone wall at the south edge where a stair comes up the cliff, a timber crane and windlass beside the gate, a small rock shrine cave beside the hall, twelve low stone houses with turf roofs on the west side, a drystone sheepfold with a small hut on the east rim, a round stone cap over an old mine shaft on the north rim, sheer cliffs dropping away on every side, snow drifts and paths trodden through the snow, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, flat even lighting, no perspective, no grid, no text, no labels
+```
+
+### M2 inset: the Hall and Workshop (30 × 20, 3:2)
+```
+top-down orthographic battlemap interior of a timber hall joined by a wide double door to a long workshop, the hall with rows of wooden benches facing a great stone hearth, a six-sided lantern hanging above the hearth, lanterns hanging from the rafters, the workshop with long carving and tinsmith benches covered in toy geese and lantern parts, a forge at the far end, a small glassed-in office with a desk, a nailed-down hatch in the floor of a coal store at the back, a small inner storeroom, wood shavings on plank floors, warm firelight, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, flat even lighting, no perspective, no grid, no text, no labels
+```
+
+### M3 The Old Workings (60 × 50, 6:5)
+```
+top-down orthographic battlemap of an abandoned silver mine cut in dark grey rock, a coal store with broken bricks leading into a mine head chamber with a round vertical shaft, a winding main tunnel descending through the map, six short dead-end side galleries with pick marks and rotten timber props, a small square chapel with a great hammer carved on its wall and carved script covering the walls, a round chamber with a frozen pool of grey ice, a four-way tunnel crossing with a tall pillar of ice carved with runes in the middle, three narrow shafts going down, a long low worked-out stope with frost writing scratched over every wall, a tunnel ending in a mouth open onto a cliff ledge and night sky, a hunter's skeleton and a broken bow in a side tunnel, lantern light pools, frost on the walls, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, flat even lighting, no perspective, no grid, no text, no labels
+```
+
+### M4 The Ice Library (50 × 40, 5:4)
+```
+top-down orthographic battlemap of a cavern complex inside a glacier, all walls of translucent blue ice, a slick 20-foot wide entrance tunnel with wolf pawprints and a sleeping den, the tunnel ending at a door-shaped wall of ice with a single glowing rune and a tall ice pillar beside it, a long hall lined with shelves cut into the ice holding hundreds of small glowing runes, a round chamber with a still pool of black unfrozen water, a great domed chamber 60 feet across with a throne-shaped hollow in the far wall and a circle of moonlight falling through a hole in the roof, lines of frost writing on the floor around the throne, a narrow cleft behind the throne with a small heap of old satchels, bones and coins, cold blue light, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, flat even lighting, no perspective, no grid, no text, no labels
+```
+
+### First CharGen renders (2026-11-22, GPT Image 2.5 Sunburst, High; 64 gold)
+| Map | CharGen image | Status |
+|---|---|---|
+| M1 The Candle Stair | [911be4be](https://char-gen.com/images/911be4be-d899-49d5-a684-bde1ea306f5d) | Rendered; to review |
+| M2 Candlecrown | [e6d5cdb6](https://char-gen.com/images/e6d5cdb6-a2ea-496f-9685-c2d4969d0506) | Rendered; to review |
+| M2 inset Hall and Workshop | [841f7c1b](https://char-gen.com/images/841f7c1b-fa09-4592-9a75-f5fec52607d5) | Rendered; to review |
+| M3 The Old Workings | [3ee0b941](https://char-gen.com/images/3ee0b941-c9ca-41e0-965e-bdd07f926841) | Rendered; to review |
+| M4 The Ice Library | [23c62b04](https://char-gen.com/images/23c62b04-ce51-451c-83cc-ed43fafa2a0d) | Rendered; to review |
