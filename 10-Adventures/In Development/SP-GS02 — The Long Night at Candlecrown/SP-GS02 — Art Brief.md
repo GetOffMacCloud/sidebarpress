@@ -33,6 +33,11 @@ a small village of turf-roofed stone houses and a long timber hall on the flat t
 
 ### 02 The Candle Stair
 *Scene 01.*
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/SP-GS02 - 02 The Candle Stair.png` (1-bit, 4500 × 3000 = 7.5 × 5 in at 600 dpi). Midjourney's fake monogram removed from the bottom left.
+> **Colour:** `SP-GS02 - 02 The Candle Stair-color.png` (promo / FGU use).
+> ![[SP-GS02 - 02 The Candle Stair.png|500]]
+
 **Ink:**
 ```
 white wolf-like beasts the size of ponies coming silently up a narrow snowy switchback path cut into a cliff, a sheer drop on one side, two small adventurers on a landing in the foreground seen from behind, one holding up a lantern whose light is the only white-lined light, falling snow, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
@@ -44,6 +49,11 @@ huge white wolves the size of ponies coming silently up a narrow snowy switchbac
 
 ### 03 The Workshop at Needfest
 *Scene 02.*
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/SP-GS02 - 03 The Workshop at Needfest.png` (1-bit, 4500 × 3000 at 600 dpi). Converted from the colour render to house crosshatching, high-key (the dark MJ ink render was rejected).
+> **Colour:** `SP-GS02 - 03 The Workshop at Needfest-color.png`.
+> ![[SP-GS02 - 03 The Workshop at Needfest.png|500]]
+
 **Ink:**
 ```
 a long timber workshop crowded with carvers' benches, racks of painted wooden toy geese and little winter-god figures drying, lanterns of every shape hanging from the rafters, a forge glowing at the far end, villagers at work, two small adventurers in the foreground seen from behind, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
@@ -55,6 +65,11 @@ a long cozy timber workshop crowded with carvers' benches, racks of painted toy 
 
 ### 04 The Apprentice's Chapel
 *Scene 05, M5.*
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/SP-GS02 - 04 The Apprentice's Chapel.png` (1-bit, 4500 × 3013 at 600 dpi). Converted from the colour render to house crosshatching, shading deepening away from the lantern.
+> **Colour:** `SP-GS02 - 04 The Apprentice's Chapel-color.png`.
+> ![[SP-GS02 - 04 The Apprentice's Chapel.png|500]]
+
 **Ink:**
 ```
 a small underground chapel cut in rock, a great hammer carved above a plain stone altar, every wall covered in close-cut lines of two different scripts, one lantern held by a small adventurer in the foreground seen from behind as the single white-lined light, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 3:2 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
@@ -66,6 +81,12 @@ a small underground chapel cut in rock, a great hammer carved above a plain ston
 
 ### 05 The Knock at the Gate
 *Scene 08. Aurel is fine to show; he isn't the final monster.*
+> [!success] Final (2026-11-22)
+> **Ink:** `99-Assets/SP-GS02/SP-GS02 - 05 The Knock at the Gate.png` (1-bit, 3000 × 4500 at 600 dpi). Converted from the colour render to house crosshatching.
+> **Colour:** `SP-GS02 - 05 The Knock at the Gate-color.png`.
+> Note: the render shows Aurel in front of a closed gate on the child's side, with no salt line. Caption it so he reads as standing at the threshold.
+> ![[SP-GS02 - 05 The Knock at the Gate.png|400]]
+
 **Ink:**
 ```
 a pale bareheaded man in a fine traveling cloak standing outside a timber gate in a drystone wall at night, empty hands held open, snow settling on his shoulders, a lantern on a pole over the gate as the one white-lined light, a line of salt across the threshold, no shadow behind him, seen from inside the gate past a small figure of a child, classic 1970s fantasy role-playing game module illustration, black ink on white paper, heavy chiaroscuro with large masses of solid black, dense crosshatching and contour hatching, scratchboard-style white line work in the darkest areas, every surface richly textured by hand, hard torchlit shadows, high contrast black and white line art --ar 2:3 --v 8.1 --style raw --stylize 75 --seed 57602 --no color, grey wash, gradient shading, painting, watercolor, 3d render, photograph, text, letters, signature, watermark
