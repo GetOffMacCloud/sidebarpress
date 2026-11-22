@@ -84,8 +84,8 @@ The old main shaft (S) drops 120 feet to M9; the rubble-capped top is C9 above. 
 Seventy years ago, a monster-hunter from Keoland tracked an immoth in the high Tors, cut the tip from its tail, and fled with the trophy down the cliffs and into the mine through M10, where the tail's frost-poison finished him. Tyrgs gnawed the trophy but couldn't break it. **ESSENTIAL CLUE (Fact 2, route b):** the hunter scratched on the inside of his shield: *FIRE ONLY FIRE — EDGES SLIDE OFF IT — IT TALKS FIRST.* (Facts 2 and 3.)
 **Treasure:** the tail-tip (an immoth relic: as cold as ice that never melts; a sage pays 100 gp). The hunter's purse: 23 gp and a Keoish signet ring (the house of Halvard; 25 gp, and a sequel hook). His spear is rusted through.
 
-### M4. THE GALLERY OF PICKS (range: M4a–M4f)
-Six short dead-end galleries where the seam was followed and lost. Pick marks, old tallies scratched in Suel numerals, rotten props (P). Pell and Ash's childhood marks in charcoal ("ASH WAS HERE," "PELL IS A GOAT") are in M4b. Nothing of value.
+### M4. THE GALLERY OF PICKS (range: M4a–M4e)
+Five short dead-end galleries where the seam was followed and lost. Pick marks, old tallies scratched in Suel numerals, rotten props (P). Pell and Ash's childhood marks in charcoal ("ASH WAS HERE," "PELL IS A GOAT") are in M4b. Nothing of value.
 
 ### M5. THE APPRENTICE'S CHAPEL
 > *A low door of dressed stone opens into a small chapel. A hammer is carved large on the far wall, above a plain stone altar. Every other wall is covered in close-cut writing, two scripts side by side. Half of it is in plain old Common letters; the other half is in Suel characters. A lamp niche beside the altar still holds a clay lamp, dry as dust.*
@@ -131,8 +131,8 @@ The worked-out seam, and Hrimvald's ear: the frost-writing is its runes, and the
 **Development:** if a PC reads any of the writing aloud, it repeats back in their own voice from the far end of the stope.
 
 ### M10. THE CLIFF MOUTH
-> *The stope ends at a ragged opening onto the night, or the day, a hundred feet below the rim of the tor. Snow blows straight in. Outside, a narrow ledge runs along the cliff face to the west. Big pawprints come and go through the drift at the mouth. Beyond the ledge there is only white.*
+> *The stope ends at a ragged opening onto the open air, a hundred and twenty feet below the rim of the tor. Snow blows straight in. Outside, a narrow ledge runs along the cliff face to the west. Big pawprints come and go through the drift at the mouth. Beyond the ledge there is only white.*
 
-The miners' old spoil chute, onto the north cliff, 200 feet above the scree. The ledge runs 300 yards west and down to the Stair's fifth switchback (a DC 12 Dexterity (Acrobatics) or Strength (Athletics) check in the Howling stage; a failure is the edge rule).
+The miners' old spoil chute, onto the north cliff, 280 feet above the scree. The ledge runs 300 yards west and down to the Stair's fifth switchback (a DC 12 Dexterity (Acrobatics) or Strength (Athletics) check in the Howling stage; a failure is the edge rule).
 **Creatures:** a second **ice-rune guardian** stands outside the mouth on the ledge, 30 feet away, motionless (it comes up with wave 2 in [[Scene 10 — The Long Night]]); it attacks only if a creature comes within reach.
 **Development:** barring the mouth with stones (1 watch) or bringing down the stope roof (a deliberate cave-in, 20 damage to a prop) closes the mine to the tyrgs. Wave 2 then has to climb the north cliff (it arrives 3 rounds late).

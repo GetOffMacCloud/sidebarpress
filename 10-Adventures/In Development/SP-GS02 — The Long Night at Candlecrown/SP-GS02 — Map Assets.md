@@ -15,9 +15,9 @@ One battlemap per encounter site, built top-down in CharGen (colour first), with
 
 | Map | Size (squares) | Used in | Must show |
 |---|---|---|---|
-| **M1 The Candle Stair** | 30 × 40 | [[Scene 01 — The Candle Stair]], [[Scene 06 — Dusk on the Stair]], [[Scene 10 — The Long Night]] (wave 1) | Switchbacks 3–6 stacked, 2 squares wide, 4-square landings; the drop side marked; the frozen mules (sw 3) and the rune; the gate wall at the top; lantern posts at the Stair head. |
+| **M1 The Candle Stair** | 17 × 30 | [[Scene 01 — The Candle Stair]], [[Scene 06 — Dusk on the Stair]], [[Scene 10 — The Long Night]] (wave 1) | Switchbacks 3–6 stacked, 2 squares wide, 4-square landings; the drop side marked; the frozen mules (sw 3) and the rune; the gate wall at the top; lantern posts at the Stair head. |
 | **M2 Candlecrown** | 80 × 80 (the crown) + 30 × 20 inset (hall and workshop) | Scenes [[Scene 02 — Candlecrown at Needfest|02]], [[Scene 04 — The Wind That Sings|04]], 06, 10, 11 | C1–C9; the 24 lantern posts (6 per side: Stair, East Rim, North Rim, Workshop); the bonfire spot on the green; the north rim 30 feet from the hall's north wall; the inset: hall benches, hearth and Carol Lantern, workshop benches, forge, office, wool loft (upper), coal-store hatch, inner store (the singing room). |
-| **M3 The Old Workings** | 60 × 50 | [[Scene 05 — The Old Workings]], [[SP-GS02 — The Old Workings]] | M1–M10 as keyed; the main shaft M2→M9; M4a–f dead ends; the frozen sump (M6) with its east ledge; M7's four-way crossing; M8's three shafts; the long M9 stope; the M10 mouth and the cliff ledge. Rotten props marked P. |
+| **M3 The Old Workings** | 60 × 50 | [[Scene 05 — The Old Workings]], [[SP-GS02 — The Old Workings]] | M1–M10 as keyed; the main shaft M2→M9; M4a–e dead ends; the frozen sump (M6) with its east ledge; M7's four-way crossing; M8's three shafts; the long M9 stope; the M10 mouth and the cliff ledge. Rotten props marked P. |
 | **M4 The Ice Library** | 50 × 40 | [[Scene 13 — The Ice Library]] | I1–I6; the shelves of I3; the pool in I4; I5's 60-foot dome with the roof hole and throne. |
 
 ## Town Map
@@ -93,11 +93,13 @@ top-down orthographic battlemap of an abandoned silver mine cut in dark grey roc
 top-down orthographic battlemap of a cavern complex inside a glacier, all walls of translucent blue ice, a slick 20-foot wide entrance tunnel with wolf pawprints and a sleeping den, the tunnel ending at a door-shaped wall of ice with a single glowing rune and a tall ice pillar beside it, a long hall lined with shelves cut into the ice holding hundreds of small glowing runes, a round chamber with a still pool of black unfrozen water, a great domed chamber 60 feet across with a throne-shaped hollow in the far wall and a circle of moonlight falling through a hole in the roof, lines of frost writing on the floor around the throne, a narrow cleft behind the throne with a small heap of old satchels, bones and coins, cold blue light, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, flat even lighting, no perspective, no grid, no text, no labels
 ```
 
-### First CharGen renders (2026-11-22, GPT Image 2.5 Sunburst, High; 64 gold)
-| Map | CharGen image | Status |
-|---|---|---|
-| M1 The Candle Stair | [911be4be](https://char-gen.com/images/911be4be-d899-49d5-a684-bde1ea306f5d) | Rendered; to review |
-| M2 Candlecrown | [e6d5cdb6](https://char-gen.com/images/e6d5cdb6-a2ea-496f-9685-c2d4969d0506) | Rendered; to review |
-| M2 inset Hall and Workshop | [841f7c1b](https://char-gen.com/images/841f7c1b-fa09-4592-9a75-f5fec52607d5) | Rendered; to review |
-| M3 The Old Workings | [3ee0b941](https://char-gen.com/images/3ee0b941-c9ca-41e0-965e-bdd07f926841) | Rendered; to review |
-| M4 The Ice Library | [23c62b04](https://char-gen.com/images/23c62b04-ce51-451c-83cc-ed43fafa2a0d) | Rendered; to review |
+### CharGen renders, filed (2026-11-22, GPT Image 2.5 Sunburst, High; 64 gold)
+Colour in `99-Assets/SP-GS02/SP-GS02 - M#….png`; 1-bit ink in `…-print.png` (house crosshatch conversion).
+
+| Map | Pixels | px per 5 ft at listed size | Check against "Must show" |
+|---|---|---|---|
+| M1 The Candle Stair | 2550 × 4500 (Greybeard's 17 × 30 print export) | 150 (17 × 30 squares, not 30 × 40) | Four switchbacks, mules and blue rune ice on sw 3, gate wall and lantern posts at top. Lantern posts also drawn at the foot. Size column updated to 17 × 30 (2026-11-22). |
+| M2 Candlecrown | 2048 × 2048 | 25.6 at 80 × 80. Upscaled ×2 in CharGen (2026-11-22, [5063d314](https://char-gen.com/images/5063d314-bdc8-4e41-8c4a-556f8ac84285), 4096 px = 51 px/square); save over the colour file, then ×2 again for FGU | Hall + workshop, shrine cave, green with awning and bonfire, gate, winch, 12 houses W, fold E, mine cap N, lantern ring. Lantern posts are uneven, not 6 per side. |
+| M2 inset Hall and Workshop | 2304 × 1536 | 76.8 at 30 × 20 | Benches, hearth with six-sided lantern, office, forge, coal store with hatch, inner store, toy geese. No wool loft (upper floor; note only). |
+| M3 The Old Workings | 2304 × 1920 | 38.4 at 60 × 50 | Coal store, shaft, chapel with hammer, frozen sump, rune pillar, hunter's remains, three shafts, stope, cliff mouth. Key changed to five galleries, M4a–e, to match (2026-11-22). |
+| M4 The Ice Library | 2400 × 1920 | 48 at 50 × 40 | Entrance with pawprints and den, rune door, pool, throne dome with moonlight and frost lines. Re-keyed to the map (2026-11-22): I3 is the shelf-lined passage from the door to the pool; I6 is the cleft at the head of the dome behind the throne. |

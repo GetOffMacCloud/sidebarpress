@@ -19,7 +19,7 @@ The village decides whether to sing on Midwinter Night, knowing what it knows. W
 **Budget:** 25 minutes. Running long? Skip the vote and let Mother Sedge carry the hall.
 
 ## Arrival
-> *The hall is full. Forty people stand on the singers' benches in their coats, breath steaming even by the fire. The Carol Lantern turns slowly over the hearth, its six painted panes throwing colored light across the faces. Wenna Tull steps forward with her hands folded. Her father nods. She begins the first verse alone, and the hall comes in behind her.*
+> *The hall is full. Forty people stand on the singers' benches in their coats, breath steaming even by the fire. The Carol Lantern turns slowly over the hearth, its six painted panes throwing colored light across the faces. Wenna Tull steps forward, hands folded, and her father nods. She begins the first verse alone, and the hall comes in behind her.*
 
 **To the table:** *"Your characters know this tune by now. Does anyone sing?"*
 
@@ -29,9 +29,9 @@ The village decides whether to sing on Midwinter Night, knowing what it knows. W
 - **Hrimvald**, outside, in the wind.
 
 ## Beats
-**1. The choir.** Let any PC who joins in feel it: at the end of each verse, the room is warmer. Tell the players the Inspiration rule now ([[SP-GS02 — The Lantern Line#The Carol and the Choir]]): on Midwinter Night, a Full choir grants temporary hit points and Inspiration at the end of each verse.
+**1. The choir.** Any PC who joins in notices that at the end of each verse the room is warmer. Tell the players the Inspiration rule now ([[SP-GS02 — The Lantern Line#The Carol and the Choir]]): on Midwinter Night, a Full choir grants temporary hit points and Inspiration at the end of each verse.
 
-**2. The seventh verse.** Wenna starts the seventh verse. Four lines in, her voice stops: not a crack, a *stop*, as if a door shut. Outside, very faintly, her voice goes on singing the verse alone, in the wind, and then that stops too. The windows frost over from the outside. (If the party has been posting guards on the hall's doors with lanterns, it makes no difference: Hrimvald is within 30 feet of the north wall on the cliff, in the dark.)
+**2. The seventh verse.** Wenna starts the seventh verse. Four lines in, her voice stops: not a crack, a *stop*, as if a door shut. Outside, very faintly, her voice goes on singing the verse alone, in the wind, and then that stops too. The windows frost over from the outside. (Hrimvald is on the north cliff, 30 feet from the hall wall, in the dark. Guards on the doors don't reach it. **But a watchful party can stop it:** if a lit lantern or a PC is on the north rim above it, or the party talked Wenna out of singing the seventh verse tonight, it takes nothing. Instead its voice comes through the frosted glass: *"Then on the Long Night, lanterns."* Wenna keeps her voice; skip "Taking it back now" and adjust the counts below.)
 - **Taking it back now:** 10 or more fire damage to Hrimvald melts the newest rune, Wenna's. It's on the north cliff, 40 feet below the rim, 30 feet from the wall. A PC who runs out and leans over the rim sees it, glittering, already climbing away. It leaves after one round. A PC who hits it with fire this round gets Wenna's voice back, and Hrimvald's undivided attention.
 
 **3. Wenna's paper.** A DC 13 Wisdom (Insight) check (or her father, who knows her): Wenna is not just frightened, she's guilty. If asked kindly in private, she brings out the lantern-paper: the seventh verse's sounds, spelled out in Common letters, "so it wouldn't die with Mother." **This is the written verse.** Mother Sedge, if she sees it, goes white. Its uses and dangers are in [[Scene 11 — The Seventh Verse]] (the trick); in short, Hrimvald can't resist it, and it is the whole verse without anyone's voice.
@@ -39,7 +39,7 @@ The village decides whether to sing on Midwinter Night, knowing what it knows. W
 **4. The vote.** Brannoc calls for a show of hands: sing on Midwinter Night, or keep silent and let it pass? Let any PC speak. Mother Sedge speaks last: *"If we don't sing, it takes the verse anyway, from the six of us who know it, one by one, as long as it likes. If we sing, we sing together, and it has to come and get it."* The village votes to sing. (If the party argues hard for silence, a DC 15 Charisma (Persuasion) check carries it: see Alternates.)
 
 ## Development
-- **The choir now has 37 singers** (Wenna, Corin and Dob are out). Note it on the choir track.
+- **The choir now has 40 singers less one for each voice taken** (37 by default: Wenna, Corin and Dob). Note it on the choir track, and give Hrimvald one rune per voice in Scene 11.
 - **If the party destroyed or hid Wenna's paper,** the trick in Scene 11 needs another written verse (a PC who learned the sounds by ear can write one; Mother Sedge will hate it).
 
 ## Clues Available Here

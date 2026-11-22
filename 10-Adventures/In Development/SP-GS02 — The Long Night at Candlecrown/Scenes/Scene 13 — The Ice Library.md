@@ -29,7 +29,7 @@ Corin's drawing or Dob's tracking shows the route: east along the cliffs and up 
 > [!art]- Map — the Ice Library (M4)
 > ![[SP-GS02 - M4 The Ice Library - Print (300dpi, 7.5in).png|500]]
 
-> *High on a bare tor, a cave mouth opens in a wall of blue ice. Wind pours out of it, and with the wind come voices, faint, overlapping, in a dozen languages: a man reciting a list, a woman laughing, a child counting, someone singing a tune you know. Frost-runes cover the ice around the entrance, thick as moss.*
+> *High on a bare tor, a cave mouth opens in a wall of blue ice. Wind pours out of it, and with the wind come voices, faint, overlapping, in a dozen languages: a man reciting a list, a woman laughing, a child counting, someone singing the Long Night Carol. Frost-runes cover the ice around the entrance, thick as moss.*
 
 **To the table:** *"You can hear Wenna's voice in there. And Dob's. What's your approach?"*
 
@@ -45,7 +45,7 @@ Corin's drawing or Dob's tracking shows the route: east along the cliffs and up 
 > *The tunnel ends at a smooth wall of ice carved into the shape of a door. In its center, a single rune glows. Beside it stands a pillar of ice as thick as an ox.*
 **Creatures:** an **ice-rune guardian** (1; 2 for five or six PCs). Its word is "shut." The door opens when its rune melts (10 fire damage) or when someone speaks a word to it that it hasn't heard before (a real word in a language no one at the table has used tonight).
 
-**I3. THE GALLERY OF RUNES.** A long hall of shelves cut into the ice, each holding hundreds of runes, each rune a word or a voice. Most are centuries old: dead languages, strangers. **The Candlecrown runes** are together on one shelf near the far end, still warm (DC 12 Investigation to find among thousands; automatic if someone calls a villager's name and listens for the answer). Melting a rune (10 fire damage, or *dispel magic* DC 15) frees its voice, which flies home. Hrimvald hears anything said here.
+**I3. THE GALLERY OF RUNES.** The long, narrow passage from the Door of Words to the Still Pool, its walls cut into shelves on both sides, each holding hundreds of runes, each rune a word or a voice. Most are centuries old: dead languages, strangers. **The Candlecrown runes** are together on one shelf near the far end, still warm (DC 12 Investigation to find among thousands; automatic if someone calls a villager's name and listens for the answer). Melting a rune (10 fire damage, or *dispel magic* DC 15) frees its voice, which flies home. Hrimvald hears anything said here.
 
 **I4. THE STILL POOL.** A round chamber with a pool of black water that doesn't freeze. Here, and only here, every voice is quiet. Anyone who speaks over the pool hears their own words come back in the voice of someone they've lost (a dead parent, a friend). It is harmless and unbearable. The **Heart-Rune** sleeps at the bottom (see [[Heart-Rune of Hrimvald]]; 15 feet down, DC 15 Constitution save to dive in the cold).
 
@@ -54,7 +54,7 @@ Corin's drawing or Dob's tracking shows the route: east along the cliffs and up 
 **Tactics:** it parleys first, as always. It would trade the Candlecrown runes for the lines it lacks, line for voice. If fought, it uses the hole in the roof (fly) and the walls (Icewalking); it has no siege actions here, but the dome counts as a lair: on initiative 20 it can make the floor slick (a 20-foot square becomes difficult terrain; DC 13 Dexterity save or fall prone). It doesn't flee from its own home. It bargains when bloodied.
 **Development:** destroying it here frees every rune in the cave, Candlecrown's included.
 
-**I6. THE OLD HOARD.** Behind the throne, a cleft holding what the immoth's victims carried: a Keoish envoy's satchel (sealed letters to the Yeomanry dated 571 CY, a *ring of warmth*, 120 pp), a dwarf's carved bone wand (a *wand of web*, 7 charges), coin in a dozen mintings (340 gp in total).
+**I6. THE OLD HOARD.** Behind the throne, at the head of the dome where the moonlight falls, a narrow cleft holding what the immoth's victims carried: a Keoish envoy's satchel (sealed letters to the Yeomanry dated 571 CY, a *ring of warmth*, 120 pp), a dwarf's carved bone wand (a *wand of web*, 7 charges), coin in a dozen mintings (340 gp in total).
 
 ## Encounter
 | PCs (APL 7) | Creatures | Adjusted XP | Difficulty |

@@ -3,7 +3,7 @@ type: adventure
 adventure: "SP-GS02"
 section: overview
 publish_order: 10
-publish: true
+publish: false # designer note; the book opens with Front Matter
 title: "The Long Night at Candlecrown"
 status: draft # draft | playtesting | editing | published
 levels: "5-7"

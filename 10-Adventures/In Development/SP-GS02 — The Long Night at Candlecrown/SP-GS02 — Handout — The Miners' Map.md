@@ -13,7 +13,7 @@ title: "Handout — The Miners' Map"
 
 - A square at the top marked **HEAD** (M1–M2), with a line down to **THE DEEP** (M9).
 - A short branch marked **GOOD STRAW** (M3), scratched over later with a cross.
-- Six short lines marked **PICKS** (M4).
+- Five short lines marked **PICKS** (M4).
 - A small square with a hammer marked **CHAPEL — FORTUBO KEEP US** (M5).
 - A circle marked **WATER** (M6).
 - A crossing of four lines (M7), unlabeled.

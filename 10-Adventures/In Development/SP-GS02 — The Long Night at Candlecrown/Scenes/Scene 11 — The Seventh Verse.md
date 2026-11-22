@@ -21,7 +21,7 @@ The climax. Hrimvald the Gatherer comes over the north rim for the seventh verse
 ## Arrival
 Read the box that fits. If 12 or more lantern posts are lit, use the first; otherwise, the second.
 
-> *Mother Sedge's voice rises alone into the first line of the seventh verse, in words none of you know. Along the north rim, the lantern light catches movement: something climbing up out of the dark, hand over enormous hand, glazed and glittering. It stands. It is twenty feet tall, made of blue ice, and every inch of it is written on. Its eyes find the hall.*
+> *Mother Sedge's voice rises alone into the first line of the seventh verse, in words that aren't Common. Along the north rim, the lantern light catches movement: something climbing up out of the dark, hand over enormous hand, glazed and glittering. It stands. It is twenty feet tall, made of blue ice, and every inch of it is written on. Its eyes find the hall.*
 
 > *Mother Sedge's voice rises alone into the first line of the seventh verse. The north lanterns are dark. Then the dark itself stands up, twenty feet of glittering blue ice an arm's length from the nearest of you, and the snow around it stops falling.*
 

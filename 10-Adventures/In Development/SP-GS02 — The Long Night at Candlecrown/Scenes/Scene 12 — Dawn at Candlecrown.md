@@ -29,7 +29,7 @@ Use this box for every ending but *Silenced* and *Driven Off*. For those, the sn
 | Ending | What happened | Dawn |
 |---|---|---|
 | **Unbound** | The counter-verse freed Hrimvald. | Every voice comes home at dawn, including three strangers' (one is a Keoish envoy's; the sequel can find the others). The storm breaks. The lanterns go down to the valley on Needfest 7. |
-| **Saved** | Hrimvald destroyed, or bargained off with a word worth the verse. | As Unbound, except the strangers' voices are lost with the immoth (if destroyed) or kept by it (if bargained). The PC who paid with a word or confession can never say it again. |
+| **Saved** | Hrimvald destroyed, or bargained off with a word worth the verse. | As Unbound if Hrimvald was destroyed (every rune breaks; the strangers' voices go home too). If it was bargained off, it keeps the strangers' voices. The PC who paid with a word or confession can never say it again. |
 | **Fooled** | The false verse. | As Saved. In a year, the false verse reaches the Mountain of Ultimate Winter and doesn't fit. Hrimvald comes back, and it's not polite this time (a sequel). |
 | **Paid** | The verse given (sung, or Wenna's paper). | One voice is gone with Hrimvald (the singer's), unless the paper paid. The storm breaks. The village sings six verses next year, and the seventh is gone. Mother Sedge says nothing about it, ever. |
 | **Driven Off** | Hrimvald fled with some lines and runes. | The storm thins but doesn't break. It returns every dusk; each night it comes back for the lines it lacks. The voices it holds last until the spring thaw. Run [[Scene 13 — The Ice Library]] to get them back. |
