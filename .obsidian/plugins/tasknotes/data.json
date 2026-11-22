@@ -21,6 +21,7 @@
     "defaultContexts": "",
     "defaultTags": "",
     "defaultProjects": "",
+    "defaultProjectsOnlyWhenEmpty": false,
     "useParentNoteForTaskCreation": false,
     "useParentNoteAsProject": false,
     "useParentHeaderAsProject": false,
@@ -42,6 +43,7 @@
     "defaultView": "dayGridMonth",
     "customDayCount": 3,
     "slotDuration": "00:30:00",
+    "slotHeight": 24,
     "slotMinTime": "00:00:00",
     "slotMaxTime": "24:00:00",
     "scrollTime": "08:00:00",
@@ -51,11 +53,8 @@
     "locale": "",
     "defaultShowScheduled": true,
     "defaultShowDue": true,
-    "defaultShowDueWhenScheduled": true,
-    "defaultShowScheduledToDueSpan": false,
     "defaultShowTimeEntries": false,
     "defaultShowRecurring": true,
-    "defaultShowICSEvents": true,
     "enableTimeblocking": false,
     "defaultShowTimeblocks": true,
     "defaultTimeblockColor": "#6366f1",
@@ -65,6 +64,9 @@
     "weekNumbers": false,
     "showTodayHighlight": true,
     "eventMinHeight": 15,
+    "defaultShowDueWhenScheduled": true,
+    "defaultShowScheduledToDueSpan": false,
+    "defaultShowICSEvents": true,
     "slotEventOverlap": true,
     "eventMaxStack": null,
     "dayMaxEvents": true,
@@ -296,7 +298,6 @@
   "notificationSoundVolume": 50,
   "enableAPI": false,
   "apiPort": 8080,
-  "apiAuthToken": "",
   "enableMCP": false,
   "webhooks": [],
   "userFields": [],
@@ -393,6 +394,16 @@
         "visibleInEdit": true,
         "order": 1,
         "enabled": true
+      },
+      {
+        "id": "attachments",
+        "fieldType": "organization",
+        "group": "organization",
+        "displayName": "Attachments",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 2,
+        "enabled": true
       }
     ],
     "groups": [
@@ -461,8 +472,8 @@
     "open-tasks-view": "TaskNotes/Views/tasks-default.base",
     "open-advanced-calendar-view": "TaskNotes/Views/calendar-default.base",
     "open-agenda-view": "TaskNotes/Views/agenda-default.base",
-    "pomodoro-stats-base": "TaskNotes/Views/pomodoro-stats.base",
-    "relationships": "TaskNotes/Views/relationships.base"
+    "relationships": "TaskNotes/Views/relationships.base",
+    "pomodoro-stats-base": "TaskNotes/Views/pomodoro-stats.base"
   },
   "maintainDueDateOffsetInRecurring": false,
   "resetCheckboxesOnRecurrence": false,
@@ -483,15 +494,26 @@
     "syncOnTaskDelete": true,
     "eventTitleTemplate": "{{title}}",
     "includeDescription": true,
-    "eventColorId": null,
     "syncTrigger": "scheduled",
     "createAsAllDay": true,
     "showAllDayAsFree": false,
     "defaultEventDuration": 60,
     "includeObsidianLink": true,
-    "defaultReminderMinutes": null
+    "defaultReminderMinutes": null,
+    "syncTimeblocks": false,
+    "timeblockTargetCalendarId": "",
+    "timeblockEventTitleTemplate": "{{title}}",
+    "eventColorId": null
   },
   "enableDebugLogging": false,
-  "lastSeenVersion": "4.15.0",
-  "lastNotifiedReleaseVersion": "5.0.1"
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500
+  },
+  "lastPomodoroDate": "2026-11-22",
+  "dateDisplayFormat": "default",
+  "wrapTaskCardProperties": true,
+  "wrapInlineTaskProperties": false,
+  "hideMdbaseFolders": true,
+  "resetRecurringStatusAfterOccurrence": false
 }

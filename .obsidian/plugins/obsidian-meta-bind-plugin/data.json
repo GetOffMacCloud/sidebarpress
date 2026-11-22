@@ -1,0 +1,304 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": "Monday",
+  "syncInterval": 200,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [
+    {
+      "name": "template-poi-type",
+      "declaration": "INPUT[inlineSelect(\n  option(Encounter), \n  option(Ruins), \n  option(Dungeon), \n  option(Landmark)\n)]"
+    },
+    {
+      "name": "template-person-race",
+      "declaration": "INPUT[inlineSelect(\n  option(Hill Dwarf),\n  option(Mountain Dwarf),\n  option(High Elf),\n  option(Sylvan Elf),\n  option(Rock Gnome),\n  option(Deep Gnome),\n  option(Ash-Walker Goliath),\n  option(Crag-Hunter Goliath),\n  option(Glacier-Stalker Goliath),\n  option(Stone-Warden Goliath),\n  option(Half-Elf),\n  option(Half-Orc),\n  option(Lightfoot Halfling),\n  option(Stout Halfling),\n  option(Tallfellow Halfling),\n  option(Backlunish Human),\n  option(Flannae Human),\n  option(Oerdian Human),\n  option(Rhenee Human),\n  option(Suloise Human)\n)]"
+    },
+    {
+      "name": "template-person-gender",
+      "declaration": "INPUT[inlineSelect(option(Male), option(Female))]"
+    },
+    {
+      "name": "template-group-type",
+      "declaration": "INPUT[inlineSelect(\n option(Knightly Order),\n option(Indigenous Tribe),\n option(Military Organization),\n option(Law Enforcement),  \n option(Religious Order),\n option(Magic Academy),\n option(Artisan Guild),\n option(Merchant Consortium),\n option(Criminal Syndicate),\n option(Mercenary Company),\n option(Noble House),\n option(Secret Society or Cult), \n option(Adventurers\u2019 Guild))]"
+    },
+    {
+      "name": "template-hub-category",
+      "declaration": "INPUT[inlineSelect(\n option(City +1500),\n option(Town +200),\n option(Village +80),\n option(Hamlet <80),\n option(Encampment),\n option(Keep),\n option(Fortress),\n option(Stronghold)\n)]"
+    },
+    {
+      "name": "template-item-type",
+      "declaration": "INPUT[inlineListSuggester(\n option(Alchemical),\n option(Artifact),\n option(Consumable),\n option(Cursed),\n option(Intelligent),\n option(Invested),\n option(Magical),\n option(Relic),\n option(Rune),\n option(Snare),\n option(Stance),\n option(Talisman),\n option(Wondrous Item),\n option(Worn))]"
+    },
+    {
+      "name": "template-person-status",
+      "declaration": "INPUT[inlineSelect(option(Alive), option(Dead), option(MIA), option(Permanent))]"
+    },
+    {
+      "name": "template-person-age-range",
+      "declaration": "INPUT[inlineSelect(option(Infant), option(Child), option(Teenager), option(Young Adult), option(Adult), option(Elder))]"
+    },
+    {
+      "name": "template-place-category",
+      "declaration": "INPUT[\n inlineSelect(option(Commerce), option(Agriculture), option(Military), option(Philosophy), option(Industrial), option(Nesting), option(Government))]"
+    },
+    {
+      "name": "template-person-class",
+      "declaration": "INPUT[ inlineSelect(\n option(Barbarian), \n option(Bard), \n option(Cleric), \n option(Druid), \n option(Fighter),\n option(Monk),\n option(Paladin),\n option(Ranger),\n option(Rogue),\n option(Sorcerer),\n option(Warlock),\n option(Wizard))\n]"
+    },
+    {
+      "name": "template-npc-alignment",
+      "declaration": "INPUT[ inlineSelect(\n option(Lawful Good),\n option(Neutral Good),\n option(Chaotic Good),\n option(Lawful Neutral),\n option(True Neutral),\n option(Chaotic Neutral),\n option(Lawful Evil),\n option(Neutral Evil),\n option(Chaotic Evil),\n option(Unaligned)\n)]"
+    },
+    {
+      "name": "template-location-kind",
+      "declaration": "INPUT[inlineSelect(option(place), option(point-of-interest), option(site), option(landmark))]"
+    },
+    {
+      "name": "template-npc-disposition",
+      "declaration": "INPUT[inlineSelect(option(friendly), option(neutral), option(wary), option(hostile))]"
+    },
+    {
+      "name": "template-npc-trust",
+      "declaration": "INPUT[inlineSelect(option(0), option(1), option(2))]"
+    },
+    {
+      "name": "template-npc-role",
+      "declaration": "INPUT[inlineSelect(option(ally), option(patron), option(rival), option(villain), option(informant), option(color))]"
+    },
+    {
+      "name": "template-settlement-economy",
+      "declaration": "INPUT[inlineSelect(option(thriving), option(stable), option(strained), option(failing))]"
+    },
+    {
+      "name": "template-threat-level",
+      "declaration": "INPUT[inlineSelect(option(1), option(2), option(3), option(4), option(5))]"
+    },
+    {
+      "name": "template-faction-status",
+      "declaration": "INPUT[inlineSelect(option(active), option(covert), option(destroyed), option(defunct))]"
+    },
+    {
+      "name": "template-quest-status",
+      "declaration": "INPUT[inlineSelect(option(not-started), option(in-progress), option(complete), option(failed), option(abandoned))]"
+    },
+    {
+      "name": "template-item-rarity",
+      "declaration": "INPUT[inlineSelect(option(common), option(uncommon), option(rare), option(very rare), option(legendary), option(artifact))]"
+    },
+    {
+      "name": "template-session-status",
+      "declaration": "INPUT[inlineSelect(option(planned), option(played), option(cancelled))]"
+    },
+    {
+      "name": "template-status",
+      "declaration": "INPUT[inlineSelect(option(alive), option(dead), option(missing), option(unknown))]"
+    }
+  ],
+  "buttonTemplates": [
+    {
+      "label": "Person",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Person note in 30-NPCs.",
+      "id": "button_person",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/NPC.md",
+          "folderPath": "30-NPCs",
+          "fileName": "NewPerson",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Place",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Place note in 40-Locations.",
+      "id": "button_place",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Location.md",
+          "folderPath": "40-Locations",
+          "fileName": "NewPlace",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Point of Interest",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Point of Interest note in 40-Locations.",
+      "id": "button_pointofinterest",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Location.md",
+          "folderPath": "40-Locations",
+          "fileName": "NewPOI",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Hub",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Hub note in 40-Locations.",
+      "id": "button_hub",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Settlement.md",
+          "folderPath": "40-Locations",
+          "fileName": "NewHub",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Region",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Region note in 20-World/Regions.",
+      "id": "button_region",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Region.md",
+          "folderPath": "20-World/Regions",
+          "fileName": "NewRegion",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Continent",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Continent note in 20-World/Continents.",
+      "id": "button_continent",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Continent.md",
+          "folderPath": "20-World/Continents",
+          "fileName": "NewContinent",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Species",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Species note in 20-World/Species.",
+      "id": "button_species",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Sapient-Species.md",
+          "folderPath": "20-World/Species",
+          "fileName": "NewSpecies",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Group",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Group note in 20-World/Factions.",
+      "id": "button_group",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Faction.md",
+          "folderPath": "20-World/Factions",
+          "fileName": "NewGroup",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Quest",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Quest note in 60-Continuity/Quests.",
+      "id": "button_quest",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Quest.md",
+          "folderPath": "60-Continuity/Quests",
+          "fileName": "NewQuest",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Item",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Item note in 50-Items.",
+      "id": "button_item",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Item.md",
+          "folderPath": "50-Items",
+          "fileName": "NewItem",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Session Log",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Create a new Session Log note in 80-Sessions.",
+      "id": "button_journal",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "90-Templates/Session-Log.md",
+          "folderPath": "80-Sessions",
+          "fileName": "NewSession",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

@@ -7,8 +7,8 @@ location: "" # link to the Settlement or Location note where they live
 aliases: []
 species: "" # link to a Sapient-Species note, or plain text
 gender: ""
-age: "" # child | young | adult | middle-aged | old | venerable
-alignment: ""
+age: "" # Infant | Child | Teenager | Young Adult | Adult | Elder
+alignment: "" # Lawful Good … Chaotic Evil, Unaligned
 occupation: ""
 adventure_role: "" # ally | patron | rival | villain | informant | color
 disposition: neutral # friendly | neutral | wary | hostile
@@ -25,10 +25,42 @@ enemies: []
 deceased_date: "" # CY
 tags: []
 ---
+<%*
+// Sidebar Press world-note setup (Templater). Runs when the note is made from a Meta Bind button or Templater.
+const isNew = /^(New|Untitled)/.test(tp.file.title);
+let name = tp.file.title;
+if (isNew) {
+  name = await tp.system.prompt("Person's name", "");
+  if (!name) { new Notice("No name entered; note left as " + tp.file.title + "."); name = tp.file.title; }
+  else { await tp.file.rename(name); }
+}
+const pick = async (label, types, folders) => {
+  const files = app.vault.getMarkdownFiles().filter(f => {
+    const fm = app.metadataCache.getFileCache(f)?.frontmatter;
+    return (fm && types.includes(fm.type)) || folders.some(d => f.path.startsWith(d + "/"));
+  }).sort((a, b) => a.basename.localeCompare(b.basename));
+  const choice = await tp.system.suggester(["— none —", ...files.map(f => f.basename)], [null, ...files], false, label);
+  return choice ? "[[" + choice.basename + "]]" : "";
+};
+const setFM = (obj) => setTimeout(() => {
+  const f = tp.file.find_tfile(tp.file.path(true));
+  if (f) app.fileManager.processFrontMatter(f, fm => Object.assign(fm, obj));
+}, 300);
+if (isNew) {
+  const location = await pick("Where do they live?", ["settlement", "location"], []);
+  setFM({ location });
+}
+%>
 
-# {{name}}
+# <%* tR += name %>
 
 > One-line identity: who they are at a glance, the impression they leave on the party.
+
+> [!abstract]- Quick edit (Meta Bind)
+> Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
+> Species `INPUT[template-person-race][:species]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
+> Occupation `INPUT[text:occupation]` · Lives at `INPUT[suggester(optionQuery("40-Locations")):location]`
+> Quests `INPUT[inlineListSuggester(optionQuery("60-Continuity/Quests")):connected_quests]` · Groups `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew")):connected_groups]` · Items `INPUT[inlineListSuggester(optionQuery("50-Items")):items]`
 
 ## Appearance
 One or two physical details that are easy to recall and describe at the table.
@@ -71,6 +103,16 @@ What purpose they serve in the adventure, and what would break if they were gone
 | | | |
 
 ## Relationships
+`BUTTON[button_person]`
+
+| Parents | Partner | Children |
+|---|---|---|
+| `INPUT[inlineListSuggester(optionQuery("30-NPCs")):parents]` | `INPUT[inlineListSuggester(optionQuery("30-NPCs")):partner]` | `INPUT[inlineListSuggester(optionQuery("30-NPCs")):children]` |
+
+| Siblings | Allies | Enemies |
+|---|---|---|
+| `INPUT[inlineListSuggester(optionQuery("30-NPCs")):siblings]` | `INPUT[inlineListSuggester(optionQuery("30-NPCs"), optionQuery("20-World/Factions")):allies]` | `INPUT[inlineListSuggester(optionQuery("30-NPCs"), optionQuery("20-World/Factions")):enemies]` |
+
 Fill the frontmatter lists (parents, partner, children, siblings, allies, enemies) with links; they show here.
 
 ```dataview
@@ -83,6 +125,7 @@ WHERE file.path = this.file.path
 | | | |
 
 ## Inventory
+`BUTTON[button_item]`
 Items they carry (frontmatter `items`).
 
 ```dataview

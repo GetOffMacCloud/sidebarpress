@@ -6,7 +6,7 @@ publish_order: 150
 publish: true
 status: outline
 canon: false
-category: "" # city 1,500+ | town 200+ | village 80+ | hamlet under 80 | encampment | keep | fortress | stronghold
+category: "" # City +1500 | Town +200 | Village +80 | Hamlet <80 | Encampment | Keep | Fortress | Stronghold
 region: "" # link to the Region note
 sovereignty: "" # who rules it
 population: ""
@@ -18,10 +18,43 @@ influencers: [] # churches, guilds, factions (links to Faction notes)
 in_world_date: "576 CY"
 aliases: []
 ---
+<%*
+// Sidebar Press world-note setup (Templater). Runs when the note is made from a Meta Bind button or Templater.
+const isNew = /^(New|Untitled)/.test(tp.file.title);
+let name = tp.file.title;
+if (isNew) {
+  name = await tp.system.prompt("Settlement name", "");
+  if (!name) { new Notice("No name entered; note left as " + tp.file.title + "."); name = tp.file.title; }
+  else { await tp.file.rename(name); }
+}
+const pick = async (label, types, folders) => {
+  const files = app.vault.getMarkdownFiles().filter(f => {
+    const fm = app.metadataCache.getFileCache(f)?.frontmatter;
+    return (fm && types.includes(fm.type)) || folders.some(d => f.path.startsWith(d + "/"));
+  }).sort((a, b) => a.basename.localeCompare(b.basename));
+  const choice = await tp.system.suggester(["— none —", ...files.map(f => f.basename)], [null, ...files], false, label);
+  return choice ? "[[" + choice.basename + "]]" : "";
+};
+const setFM = (obj) => setTimeout(() => {
+  const f = tp.file.find_tfile(tp.file.path(true));
+  if (f) app.fileManager.processFrontMatter(f, fm => Object.assign(fm, obj));
+}, 300);
+if (isNew) {
+  const cats = ["City +1500", "Town +200", "Village +80", "Hamlet <80", "Encampment", "Keep", "Fortress", "Stronghold"];
+  const category = await tp.system.suggester(cats, cats, false, "What kind of settlement?") ?? "";
+  const region = await pick("Which region is it in?", ["region"], ["20-World/Regions", "20-World/Greyhawk-Canon"]);
+  setFM({ category, region });
+}
+%>
 
-# {{settlement}}
+# <%* tR += name %>
 
 > One line: what kind of place this is, and what the party will come back here for.
+
+> [!abstract]- Quick edit (Meta Bind)
+> Category `INPUT[template-hub-category][:category]` · Threat `INPUT[template-threat-level][:threat_level]` · Economy `INPUT[template-settlement-economy][:economic_stability]` · Capital `INPUT[toggle:capital]`
+> Region `INPUT[suggester(optionQuery("20-World/Regions"), optionQuery("20-World/Greyhawk-Canon")):region]` · Sovereignty `INPUT[text:sovereignty]` · Population `INPUT[text:population]`
+> Population mix `INPUT[inlineList:population_mix]` · Influencers `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("20-World/Homebrew"), optionQuery("20-World/Greyhawk-Canon")):influencers]`
 
 ## At a Glance
 Population and makeup · who rules · temples · coin · what the place is known for · threat level · economy.
@@ -47,6 +80,7 @@ Unkeyed houses: one blanket rule.
 - **Rooms:** (communal / semi-private / private; Overlooks:)
 
 ## Districts (CAMPING)
+`BUTTON[button_place]` `BUTTON[button_person]`
 Sort the places of the settlement by what they do. Each Location note with `kind: place`, `parent_location` set to this settlement and a `category` shows up below.
 - **C**ommerce: shops, markets, theaters · **A**griculture: farms, mines, fisheries, lumber · **M**ilitary: forts, walls, armories, docks · **P**hilosophy: temples, schools, libraries · **I**ndustrial: smiths, mills, bakers, artisans · **N**esting: houses, inns, bridges, parks · **G**overnment: halls, courts, monuments
 
@@ -58,6 +92,7 @@ SORT category ASC, file.name ASC
 ```
 
 ## People
+`BUTTON[button_person]`
 NPC notes whose `location` is this settlement.
 
 ```dataview

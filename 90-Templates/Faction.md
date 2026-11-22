@@ -20,8 +20,40 @@ allies: []
 enemies: []
 aliases: []
 ---
+<%*
+// Sidebar Press world-note setup (Templater). Runs when the note is made from a Meta Bind button or Templater.
+const isNew = /^(New|Untitled)/.test(tp.file.title);
+let name = tp.file.title;
+if (isNew) {
+  name = await tp.system.prompt("Group name", "");
+  if (!name) { new Notice("No name entered; note left as " + tp.file.title + "."); name = tp.file.title; }
+  else { await tp.file.rename(name); }
+}
+const pick = async (label, types, folders) => {
+  const files = app.vault.getMarkdownFiles().filter(f => {
+    const fm = app.metadataCache.getFileCache(f)?.frontmatter;
+    return (fm && types.includes(fm.type)) || folders.some(d => f.path.startsWith(d + "/"));
+  }).sort((a, b) => a.basename.localeCompare(b.basename));
+  const choice = await tp.system.suggester(["— none —", ...files.map(f => f.basename)], [null, ...files], false, label);
+  return choice ? "[[" + choice.basename + "]]" : "";
+};
+const setFM = (obj) => setTimeout(() => {
+  const f = tp.file.find_tfile(tp.file.path(true));
+  if (f) app.fileManager.processFrontMatter(f, fm => Object.assign(fm, obj));
+}, 300);
+if (isNew) {
+  const territory = await pick("Where do they operate?", ["region", "settlement"], ["20-World/Regions", "20-World/Greyhawk-Canon"]);
+  setFM({ territory });
+}
+%>
 
-# {{faction}}
+# <%* tR += name %>
+
+> [!abstract]- Quick edit (Meta Bind)
+> Category `INPUT[template-group-type][:category]` · Status `INPUT[template-faction-status][:status]` · Alignment `INPUT[template-npc-alignment][:alignment]` · Deity `INPUT[text:deity]` · Founded `INPUT[text:founded]`
+> Territory `INPUT[suggester(optionQuery("20-World/Regions"), optionQuery("40-Locations"), optionQuery("20-World/Greyhawk-Canon")):territory]` · Leader `INPUT[suggester(optionQuery("30-NPCs")):leader]` · Contact `INPUT[suggester(optionQuery("30-NPCs")):primary_contact]`
+> Officers `INPUT[inlineListSuggester(optionQuery("30-NPCs")):officers]` · Members `INPUT[inlineListSuggester(optionQuery("30-NPCs")):members]` · Initiates `INPUT[inlineListSuggester(optionQuery("30-NPCs")):initiates]`
+> Allies `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("30-NPCs")):allies]` · Enemies `INPUT[inlineListSuggester(optionQuery("20-World/Factions"), optionQuery("30-NPCs")):enemies]`
 
 **Wants** ___, **hopes to** ___.
 
@@ -48,6 +80,7 @@ WHERE file.path = this.file.path
 ```
 
 ## People
+`BUTTON[button_person]`
 NPC notes whose `faction` or `connected_groups` names this faction.
 
 ```dataview
@@ -73,6 +106,7 @@ What members (or paying outsiders) can get from them.
 The group's rise, fall and present, with CY dates.
 
 ## Sub-Factions
+`BUTTON[button_group]`
 | Sub-faction | Wants | Relation to the main body |
 |---|---|---|
 | | | |
