@@ -85,6 +85,7 @@ Three-clue rule: each conclusion has at least three routes plus a last resort. N
 - [ ] Corin's drawings (Scene 03)
 - [ ] Mother Sedge: "never write the seventh verse" (Scene 03)
 - [ ] The apprentice's warning in the chapel (Scene 05, M5)
+- [ ] *Character route:* a Telchur, Fortubo or Suel-god cleric or paladin, or a Suel-blooded PC, hears a binding in the seventh verse's metre (Scene 04)
 - [ ] *Last resort:* Hrimvald says so (Scene 06)
 
 **2. Fire is its weakness; edged weapons barely bite**

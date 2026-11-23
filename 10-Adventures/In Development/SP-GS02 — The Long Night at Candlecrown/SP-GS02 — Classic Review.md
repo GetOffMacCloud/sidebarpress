@@ -10,7 +10,7 @@ status: reviewed
 
 Developmental edit against [[Classic-Module-Review]], 2026-11-22 (Claude). Backups of every edited file: `Claude outputs/GS02 dev-edit backup (2026-11-22)/`.
 
-**Musts passed:** 9 / 12 before → **12 / 12 after fixes** · **Score:** 37 / 43 non-must items before → **38 / 43 after fixes**
+**Musts passed:** 9 / 12 before → **12 / 12 after fixes** · **Score:** 37 / 43 non-must items before → **42 / 43 after fixes** (only the player/DM battlemaps remain)
 
 **Book weight (publishable words, 29,678 after fixes):** front matter 6.4% (was 10.7%, see fix 1) · climax (Scenes 10–11) 21% · Old Workings + Scene 05 14%. No middle section outweighs the climax.
 
@@ -24,11 +24,11 @@ Developmental edit against [[Classic-Module-Review]], 2026-11-22 (Claude). Backu
 7. **Aurel's thrall timing.** "If he has fed twice" was impossible (one night between invitation and Midwinter). Now: if the Needfest 3 feeding went unnoticed.
 8. **Mine depths.** M10 was 100 ft below the rim and 200 ft above the scree on a 400-ft cliff, while M2's shaft drops 120 ft to M9. Now 120 ft below the rim, 280 ft above the scree. Also Miners' Map and key now have five pick galleries (M4a–e) to match the battlemap.
 
-## Still open (non-must; your call)
-- [ ] **Area names as players see them.** M3 "The Hunter's End" and M5 "The Apprentice's Chapel" name the secret. Suggest **M3. THE SKELETON IN THE STRAW** and **M5. THE CARVED CHAPEL** (links and the Art Brief would need renaming too).
-- [ ] **A character-gated clue.** Every clue is open to any skill check. Suggest: a cleric of Telchur or Fortubo, or a Suel-descended PC, recognizes the seventh verse's metre as a *binding* (not a hymn) on first hearing in Scene 02.
-- [ ] **Loyalty lines.** NPC notes have deity tags but no loyalty line (e.g. "Loyal to: the carol, then his daughter, then the village" for Brannoc).
-- [ ] **Local coin.** Everything is in gp. Give the Yeomanry its own coin names in prices and rewards.
+## Second pass (2026-11-22)
+- [x] **Area names as players see them.** M3 is now **THE SKELETON IN THE STRAW** and M5 **THE CARVED CHAPEL** (key headings only; the Art Brief plate keeps its production title).
+- [x] **A character-gated clue.** Scene 04, beat 1: a Telchur, Fortubo or Suel-god cleric or paladin, or a Suel-blooded PC, hears that the seventh verse's metre is a binding, not a hymn (Fact 1, character route; added to the Clue Ledger). Moved from Scene 02 because the feast sings only six verses.
+- [x] **Loyalty lines.** "Loyal to:" added under the one-liner in the 11 GS02 dossiers (Brannoc, Sedge, Wenna, Corin, Pell and Ash, Dob, Tansy, Hob, Marra, Aurel, Hrimvald). Household heads left as one-liners.
+- [x] **Local coin.** Yeomanry coinage (Living Greyhawk Gazetteer: freegold, halfgold, silver, common) added to the Conventions, the hooks and Brannoc's reward.
 - [ ] **Player vs DM maps.** Battlemaps are rendered; DM versions with area codes and clean player versions still to make (Package column).
 
 ## Checked and passing

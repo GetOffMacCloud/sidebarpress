@@ -78,7 +78,7 @@ The workshop's coal store was dug into the old mine head. The founders bricked t
 The old main shaft (S) drops 120 feet to M9; the rubble-capped top is C9 above. The letters say, in Suloise, *"Fortubo guards the deep."*
 **Development:** a rope down the shaft is the fast way to M9 (DC 10 Strength (Athletics)). The winding-drum is too rotten to use.
 
-### M3. THE HUNTER'S END
+### M3. THE SKELETON IN THE STRAW
 > *A side passage ends at a bed of old straw and a collapsed lean-to of boards. A skeleton in rusted mail sits against the wall with a broken spear across its knees. Beside it, half-buried in the straw, lies a long, curved shard of something like blue glass, as thick as a man's arm and gnawed all over by teeth.*
 
 Seventy years ago, a monster-hunter from Keoland tracked an immoth in the high Tors, cut the tip from its tail, and fled with the trophy down the cliffs and into the mine through M10, where the tail's frost-poison finished him. Tyrgs gnawed the trophy but couldn't break it. **ESSENTIAL CLUE (Fact 2, route b):** the hunter scratched on the inside of his shield: *FIRE ONLY FIRE — EDGES SLIDE OFF IT — IT TALKS FIRST.* (Facts 2 and 3.)
@@ -87,7 +87,7 @@ Seventy years ago, a monster-hunter from Keoland tracked an immoth in the high T
 ### M4. THE GALLERY OF PICKS (range: M4a–M4e)
 Five short dead-end galleries where the seam was followed and lost. Pick marks, old tallies scratched in Suel numerals, rotten props (P). Pell and Ash's childhood marks in charcoal ("ASH WAS HERE," "PELL IS A GOAT") are in M4b. Nothing of value.
 
-### M5. THE APPRENTICE'S CHAPEL
+### M5. THE CARVED CHAPEL
 > *A low door of dressed stone opens into a small chapel. A hammer is carved large on the far wall, above a plain stone altar. Every other wall is covered in close-cut writing, two scripts side by side. Half of it is in plain old Common letters; the other half is in Suel characters. A lamp niche beside the altar still holds a clay lamp, dry as dust.*
 
 The miners' chapel to Fortubo, sealed by the founders. The **apprentice's carving** fills the walls: a warning in archaic Common and, beside it, the **counter-verse** in Suloise (see [[SP-GS02 — Handout — The Apprentice's Carving]]).

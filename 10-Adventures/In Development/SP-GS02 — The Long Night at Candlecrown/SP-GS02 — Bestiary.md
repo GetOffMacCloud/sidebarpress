@@ -66,7 +66,7 @@ Thresholds (2014 DMG p. 82), five 6th-level characters: Easy 1,500 · Medium 3,0
 **Riders (SP-GS02):**
 - **Languages:** Common, Keolandish, and enough Suloise to read a grave-marker.
 - **The threshold.** Forbiddance is the whole of his problem. The gate of Candlecrown counts as a residence's threshold (the village was hallowed as one household by its founders, and Mother Sedge renews it each Needfest). He can't pass the gate line, cross into any home, or enter the workshop without an invitation from someone who lives there. **An invitation from a PC doesn't count**; only a villager's does. He can climb the cliffs, but the mesa edge is inside the line.
-- **The thrall.** Each night he is inside, he drinks from one sleeping villager. A villager bitten on two nights becomes his thrall (DM's choice; Pell is his first choice) and will open doors, put out lanterns and hide him.
+- **The thrall.** Each night he is inside, he drinks from one sleeping villager. A villager he feeds on unnoticed becomes his thrall by the next night (DM's choice; Pell is his first choice) and will open doors, put out lanterns and hide him.
 - **No charm.** Aurel has no power to compel anyone. Everything he gets, he gets by asking.
 - **What he knows:** see the dossier. He'll trade it for an invitation, or for safe passage down the Stair after the storm.
 

@@ -35,6 +35,8 @@ tags: [candlecrown, toymakers, twins, sp-gs02]
 
 > Candlecrown's toymaker twins, nineteen, who know the old mine from childhood games and want their Needfest gifts delivered. [Fortubo]
 
+**Loyal to:** each other first, then the workshop; they keep each other's secrets, including the coal-store key.
+
 > [!abstract]- Quick edit (Meta Bind)
 > Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
 > Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`

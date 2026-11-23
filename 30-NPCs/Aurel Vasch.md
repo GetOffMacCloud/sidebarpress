@@ -35,6 +35,8 @@ tags: [vampire-spawn, undead, the-tors, sp-gs02, slerotin]
 
 > A polite vampire spawn whose master died in the Passage of Slerotin, sheltering in the mine under Candlecrown and asking, very nicely, to be let in. {Wee Jas, lapsed}
 
+**Loyal to:** himself, then his dead master's memory; he keeps every bargain to the letter.
+
 > [!abstract]- Quick edit (Meta Bind)
 > Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
 > Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`

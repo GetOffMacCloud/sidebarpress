@@ -35,6 +35,8 @@ tags: [candlecrown, shepherd, victim, sp-gs02]
 
 > Candlecrown's shepherd and the first voice Hrimvald takes; he can't read, but he can draw what he saw. [Telchur]
 
+**Loyal to:** his forty sheep and the fold, then whoever is patient enough to read his drawings.
+
 > [!abstract]- Quick edit (Meta Bind)
 > Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
 > Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`

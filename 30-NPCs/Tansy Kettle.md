@@ -35,6 +35,8 @@ tags: [candlecrown, child, sp-gs02]
 
 > Dob Kettle's seven-year-old daughter, who leaves milk at the gate for "the cold man" and says the thing nobody else will.
 
+**Loyal to:** her father, and (secretly) the cold man she gives milk to.
+
 > [!abstract]- Quick edit (Meta Bind)
 > Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
 > Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`

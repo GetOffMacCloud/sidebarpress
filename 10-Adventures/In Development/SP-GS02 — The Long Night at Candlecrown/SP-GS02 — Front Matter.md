@@ -23,7 +23,7 @@ Back to [[SP-GS02-The-Long-Night-at-Candlecrown]] · Index: [[10-Adventures/In D
 
 **Read-aloud text** is in italic boxes. Read it as written or paraphrase it, but keep every clue.
 
-**Conventions.** Creature names in **bold** have statblocks in the [[SP-GS02 — Bestiary]]. Numbers in parentheses after a creature are the count for five characters; each encounter table gives counts for four and six. Deities appear in square brackets after a name ([Telchur]); a deity in braces {Wee Jas} is lapsed or false.
+**Conventions.** Creature names in **bold** have statblocks in the [[SP-GS02 — Bestiary]]. Numbers in parentheses after a creature are the count for five characters; each encounter table gives counts for four and six. Deities appear in square brackets after a name ([Telchur]); a deity in braces {Wee Jas} is lapsed or false. **Money** is Yeomanry coin: the *freegold* (gp), *halfgold* (ep), *silver* (sp) and *common* (cp). Villagers count in freegolds and commons; the book writes gp.
 
 ## Background
 
@@ -55,9 +55,9 @@ Back to [[SP-GS02-The-Long-Night-at-Candlecrown]] · Index: [[10-Adventures/In D
 The party reaches Candlecrown as Needfest begins and a storm that won't break closes the Candle Stair. Over three nights, voices vanish, tyrgs climb the cliffs and a stranger asks to come in from the cold. The party learns that the carol's seventh verse is the prize of an immoth, an ice-giant hoarder of words, and that the old Suel mine beneath the village holds the truth. On Midwinter Night they hold the workshop hall while the village sings: fight the immoth with fire, trick it, or bargain with words worth more than the verse.
 
 ## Hooks
-1. **The gift wagons.** Ardo Pennick, a Loftwick toy-seller, paid in advance for Candlecrown's Needfest lanterns. The wagons never came down. He'll pay 150 gp to have them fetched before Needfest 7, and 50 more to know why they were late.
+1. **The gift wagons.** Ardo Pennick, a Loftwick toy-seller, paid in advance for Candlecrown's Needfest lanterns. The wagons never came down. He'll pay 150 freegolds (150 gp) to have them fetched before Needfest 7, and 50 more to know why they were late.
 2. **Shelter.** The party is on the valley road when the storm hits. Candlecrown's lights, high on the tor, are the only ones in sight. Dob Kettle waves them up the Stair with a lantern on a pole.
-3. **The carol.** Sage Imra Vell of Loftwick, a scholar of Suel hymns, wants a copy of "the Telchur carol with the verse in a dead tongue." She'll pay 200 gp for the seventh verse transcribed. The village won't let it be written. (She is honest. Her letters asking after the verse are how the Sons of Marchanter hear of it; see Continuing the Adventure in [[Scene 12 — Dawn at Candlecrown]].)
+3. **The carol.** Sage Imra Vell of Loftwick, a scholar of Suel hymns, wants a copy of "the Telchur carol with the verse in a dead tongue." She'll pay 200 freegolds (200 gp) for the seventh verse transcribed. The village won't let it be written. (She is honest. Her letters asking after the verse are how the Sons of Marchanter hear of it; see Continuing the Adventure in [[Scene 12 — Dawn at Candlecrown]].)
 4. **Personal.** A character's kin, aunt or grandmother, sang in the carol as a child, and has just written: "Come for Needfest. Something's wrong with the snow." See [[SP-GS02 — Handout — Aunt Sedge's Letter]]: by default it comes from Mother Sedge herself, the character's great-aunt.
 5. **Decline path.** If the party won't go, the wagons never come down. In spring the Yeomanry hears that Candlecrown has gone silent: the village is still there, and no one in it can speak. The immoth's library becomes a known place in the high Tors (see [[Scene 13 — The Ice Library]]).
 

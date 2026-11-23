@@ -35,6 +35,8 @@ tags: [immoth, villain, cold, the-tors, sp-gs02]
 
 > An immoth: a giant of written ice that has come to Candlecrown for the seventh verse of its carol, and will take the village's voices to get it.
 
+**Loyal to:** the curse that drives it to gather, then its own hoard of words; it keeps bargains to the letter.
+
 > [!abstract]- Quick edit (Meta Bind)
 > Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
 > Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`

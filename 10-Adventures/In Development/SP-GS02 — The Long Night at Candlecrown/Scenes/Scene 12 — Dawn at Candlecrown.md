@@ -44,7 +44,7 @@ Use this box for every ending but *Silenced* and *Driven Off*. For those, the sn
 ## Rewards
 - **The village's thanks.** For every ending but *Silenced*: on Needfest 7, the workshop makes a new Needfest figure, and it's the party (all of them, in painted tin, with lanterns). Every family in the valley will have one next year.
 - **[[The Long Night Lantern]]**, given by Brannoc and Mother Sedge to the party for Unbound, Saved, Fooled or Driven Off endings (they keep the Carol Lantern; this is its twin, made for the party in Scene 09's last watch by Pell and Ash).
-- **Coin.** Brannoc pays 50 gp each from the Needfest takings (the wagons go down late, but they go). Ardo Pennick pays hook 1 (150 gp, +50 for the story). Sage Imra Vell pays nothing, and is told nothing, unless the party gives her the curse-verse (don't).
+- **Coin.** Brannoc pays 50 freegolds (50 gp) each from the Needfest takings, counted out on the hall table in a clatter of commons (the wagons go down late, but they go). Ardo Pennick pays hook 1 (150 gp, +50 for the story). Sage Imra Vell pays nothing, and is told nothing, unless the party gives her the curse-verse (don't).
 - **Spoils** from Hrimvald (if destroyed): [[Heart-Rune of Hrimvald]]; the ice runes (see [[Immoth]]). From the mine: the hunter's purse and signet, the Fortubo pendant, the immoth tail-tip.
 - **Experience:** the encounters as fought (see [[SP-GS02 — Bestiary]]). If you use milestone advancement, the party reaches level 7 at dawn for any ending but *Silenced*.
 

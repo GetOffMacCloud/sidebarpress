@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-11-22T06:00:58.045Z",
-      "total": 114955,
+      "total": 125237,
       "drafts": {
         "90-Templates/Scene-Index.md": {
           "total": 0,
@@ -249,12 +249,12 @@
           "scenes": {}
         },
         "10-Adventures/In Development/SP-GS02 — The Long Night at Candlecrown/Scenes/00 — Scene Index.md": {
-          "total": 22468,
+          "total": 22533,
           "scenes": {
             "Scene 01 — The Candle Stair": 1565,
             "Scene 02 — Candlecrown at Needfest": 1842,
             "Scene 03 — The Second Day": 1483,
-            "Scene 04 — The Wind That Sings": 1579,
+            "Scene 04 — The Wind That Sings": 1631,
             "Scene 05 — The Old Workings": 1502,
             "Scene 06 — Dusk on the Stair": 1525,
             "Scene 07 — The Rehearsal": 953,
@@ -262,13 +262,24 @@
             "Scene 09 — The Short Day": 1388,
             "Scene 10 — The Long Night": 1871,
             "Scene 11 — The Seventh Verse": 5048,
-            "Scene 12 — Dawn at Candlecrown": 1070,
+            "Scene 12 — Dawn at Candlecrown": 1083,
             "Scene 13 — The Ice Library": 1673
           }
         },
         "10-Adventures/In Development/SP-GA00 — Nobody's Colors/Scenes/00 — Scene Index (1).md": {
           "total": 0,
           "scenes": {}
+        },
+        "Claude outputs/GS02 dev-edit backup (2026-11-22)/00 — Scene Index.md": {
+          "total": 10217,
+          "scenes": {
+            "Scene 04 — The Wind That Sings": 1579,
+            "Scene 07 — The Rehearsal": 884,
+            "Scene 08 — The Knock at the Gate": 969,
+            "Scene 11 — The Seventh Verse": 4042,
+            "Scene 12 — Dawn at Candlecrown": 1070,
+            "Scene 13 — The Ice Library": 1673
+          }
         }
       }
     },

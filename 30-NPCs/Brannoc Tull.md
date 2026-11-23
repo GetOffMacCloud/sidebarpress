@@ -35,6 +35,8 @@ tags: [candlecrown, the-tors, sp-gs02]
 
 > Elder of Candlecrown and master lantern-maker, who would rather lie than cancel Needfest. [Fortubo]
 
+**Loyal to:** the carol and Needfest, then Wenna, then Candlecrown's good name (he'll lie to protect all three).
+
 > [!abstract]- Quick edit (Meta Bind)
 > Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
 > Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`

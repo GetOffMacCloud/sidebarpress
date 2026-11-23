@@ -32,6 +32,7 @@ Use this box if a PC is on the east rim or within sight of it. Otherwise, run be
 
 ## Beats
 **1. The verse.** Dob gets four lines into the seventh verse. Anyone listening and making a DC 15 Intelligence (History) check recognizes the sound of it as Suloise, the old Suel tongue: "the tongue of grave-markers in the Lortmils" (no one here reads it).
+- **Character clue:** a cleric or paladin of Telchur, Fortubo or any Suel god, or a PC of Suel blood, needs no check. The metre is wrong for a hymn: it is the shape of a binding, the kind of chant that holds something rather than praises it. (**Fact 1, character route.**)
 
 **2. The taking.** The snow at the rim rises into a shape twice the height of the gate, glazed and glittering, and leans toward Dob. A thread of frost runs from his mouth to its chest. His humming stops mid-word. Then the shape falls apart into snow and is gone over the rim.
 - A PC who sees it makes a DC 15 Intelligence (Arcana) or Wisdom (Religion) check: a cold elemental of some kind, not a ghost; it *took* something (Fact 1, partial).

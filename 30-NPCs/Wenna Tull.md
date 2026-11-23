@@ -35,6 +35,8 @@ tags: [candlecrown, singer, sp-gs02]
 
 > Lead singer of the Long Night Carol, the elder's daughter, and the one person in Candlecrown who wrote the seventh verse down. [Telchur]
 
+**Loyal to:** the carol itself, then Mother Sedge, then her father (which is why she wrote the verse down).
+
 > [!abstract]- Quick edit (Meta Bind)
 > Status `INPUT[template-status][:status]` · Disposition `INPUT[template-npc-disposition][:disposition]` · Party trust `INPUT[template-npc-trust][:party_trust]` · Role `INPUT[template-npc-role][:adventure_role]`
 > Race `INPUT[template-person-race][:species]` · Heritage `INPUT[template-person-heritage][:heritage]` · Gender `INPUT[template-person-gender][:gender]` · Age `INPUT[template-person-age-range][:age]` · Alignment `INPUT[template-npc-alignment][:alignment]`
