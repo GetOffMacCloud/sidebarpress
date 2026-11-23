@@ -10,16 +10,9 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Scene 01 — The Candle Stair
-    - Scene 02 — Candlecrown at Needfest
-    - Scene 03 — The Second Day
     - Scene 04 — The Wind That Sings
-    - Scene 05 — The Old Workings
-    - Scene 06 — Dusk on the Stair
     - Scene 07 — The Rehearsal
     - Scene 08 — The Knock at the Gate
-    - Scene 09 — The Short Day
-    - Scene 10 — The Long Night
     - Scene 11 — The Seventh Verse
     - Scene 12 — Dawn at Candlecrown
     - Scene 13 — The Ice Library
