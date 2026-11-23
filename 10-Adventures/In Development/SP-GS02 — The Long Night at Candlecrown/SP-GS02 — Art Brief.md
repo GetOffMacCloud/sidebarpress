@@ -292,6 +292,3 @@ a blank songsheet of thick cream paper with a painted border of holly, pine spri
 ```
 an old survey map of a mine drawn in faded brown ink on a stretched sheet of pale hide, a square at the top, a long shaft line running down, short side tunnels, a small hammer symbol, a circle for water, a crossing of four tunnels, a long seam running off to the ragged edge of the hide, stitched edges, stains and creases, no labels, seen flat from above, stylized fantasy tabletop RPG illustration, crisp painted digital game art, clean confident linework with painterly cel-like shading, vivid but controlled color, soft rim light --ar 3:2 --v 8.1 --stylize 150 --seed 57602 --no text, letters, words, writing, numbers, signature, watermark, labels, compass rose
 ```
-
-> [!success] Handouts filed (2026-11-22)
-> Colour and 1-bit ink versions of H1–H6 are in `99-Assets/SP-GS02/handouts/`. H1: the fake watermark was removed. H4 and H5 are backgrounds for the text, which is set in layout. H6: add the miners' labels in Canva.
