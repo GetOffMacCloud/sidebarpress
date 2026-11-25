@@ -2,7 +2,7 @@
 tags: [adventure/A1, conversion, fgu-prep, slave-lords]
 adventure: "A1 - Slave Pits of the Undercity"
 source: "A0–A4 Against the Slave Lords (WotC 2013), A1 by David Cook (TSR 1980), PDF pp. 30–55"
-status: draft for review (2026-11-25) — D5–D10 open
+status: draft (2026-11-25) — D5, D6, D8–D10 decided; D7 open
 created: 2026-11-25
 publish: false
 ---
@@ -32,7 +32,7 @@ Every number the 5e table or the FGU build has to touch: the 1e source, the 5e c
 
 **Entrances.** The party can come in by the back secret door (T1, the tournament start), the stable (T6), the front gate posing as slave buyers (T16), or straight down into the sewers by the tournament's boulder shaft (S1). Posing as buyers routes them to T12 first (the false slavers' test), as printed.
 
-**Party size (D3).** Numbers as printed are the **6-PC** version. For **4 PCs**, every group of two or more identical creatures is cut to ⅔ (rounded); single creatures and named NPCs never change. **A1 was written for 6–8 1e characters, and several rooms land well past Deadly in 5e even at the printed size** (§6). The original builds most of them as waves or alarms (T12's assassins strike from the shadows, S6's ants arrive over five rounds, S12's reserves wait out of sight, S15's orcs call for help), and the per-area notes say how to stage them. ⚑ **D5** asks whether to cap the worst four.
+**Party size (D3).** Numbers as printed are the **6-PC** version. For **4 PCs**, every group of two or more identical creatures is cut to ⅔ (rounded); single creatures and named NPCs never change. **A1 was written for 6–8 1e characters, and several rooms land well past Deadly in 5e even at the printed size** (§5). **They stay as printed and are staged in waves (D5)**: T12's assassins strike from the shadows, S6's ants arrive over five rounds, S12's reserves wait out of sight, S15's orcs call for help; each area page carries its wave plan.
 
 ---
 
@@ -154,23 +154,23 @@ Thresholds: 4th level 4 PCs E 500 / M 1,000 / H 1,500 / D 2,000; 6 PCs E 750 / M
 
 | Area | 6 PCs (printed) | 4 PCs | Adjusted XP 6 / 4 | Difficulty 6 / 4 | Staging |
 |---|---|---|---|---|---|
-| T3 Guard room | 8 ghouls, 2 ghasts | 5 ghouls, 1 ghast | 5,000 / 2,900 | **Deadly ×1.7 / Deadly** | Ambush from the ledge (surprise); ⚑ D5 |
+| T3 Guard room | 8 ghouls, 2 ghasts | 5 ghouls, 1 ghast | 5,000 / 2,900 | **Deadly ×1.7 / Deadly** | Ambush from the ledge; waves (D5) |
 | T5b Sundew | sundew | sundew | 550 / 1,100 | Easy / Medium | Vinegar trivialises it, as designed |
 | T6 Stable | 4 half-orcs, doppelganger | 3, doppelganger | 1,350 / 1,700 | Easy / Hard | The horn brings a wall patrol in 2–5 rounds |
 | T7 Shed | 6 orcs (halberds) | 4 | 900 / 800 | Easy / Easy | They flee if surprised |
 | T9 Courtyard | wight | wight | 350 / 700 | Easy | |
 | T10 Basilisks | 2 (1 in 6 each round) | 1 | 1,400 / 700 | Easy / Easy | Gaze; usually met one at a time |
-| T12 False slavers | 17 half-orcs, 2 cutthroats, slaver priest, 3 orcs | 11, 2, priest, 2 | 8,250 / 7,600 | **Deadly ×2.8 / ×3.8** | The trap the slavers built; ⚑ D5 |
+| T12 False slavers | 17 half-orcs, 2 cutthroats, slaver priest, 3 orcs | 11, 2, priest, 2 | 8,250 / 7,600 | **Deadly ×2.8 / ×3.8** | The trap the slavers built; waves (D5) |
 | T14 Garden | 4 harpies | 3 | 1,200 / 1,200 | Easy / Medium | They break off after two die |
 | T16a Courtyard | 6 orcs, 4 half-orcs + flame cart | 4, 3 + cart | 1,600 / 1,375 | Medium / Medium (+ cart) | Behind cover; the cart is the real danger |
 | T16b Winch | gatekeeper | gatekeeper | 225 / 450 | Trivial | He runs for help |
 | T16c Winch | half-orc, doppelganger | same | 750 / 1,125 | Easy / Medium | A social puzzle first |
-| T18 Temple | high priestess, 3 temple guards, troll, assassin | priestess, 2 guards, troll, assassin | 5,925 / 7,500 | **Deadly ×2.0 / ×3.8** | The climax of the temple; the troll arrives in round 2, the assassin from behind; ⚑ D5 |
+| T18 Temple | high priestess, 3 temple guards, troll, assassin | priestess, 2 guards, troll, assassin | 5,925 / 7,500 | **Deadly ×2.0 / ×3.8** | The climax of the temple; the troll arrives in round 2, the assassin from behind; waves (D5) |
 | T19 Chapel | 10 stirges | 7 | 500 / 437 | Trivial | |
 | S2 Hatchery | 5 larvae | 3 | 1,500 / 1,200 | Easy | The pit is the danger |
 | S3 Egg chamber | 3 drones | 2 | 3,150 / 2,100 | Medium / Medium | They whistle for S5 (50%) |
 | S5 Aspis chamber | 4 drones, 5 worker ants | 3, 3 | 6,600 / 4,800 | Deadly / Deadly | Nets first; drones retreat to S6 |
-| S6 Breeding chamber | cow, 6 drones (+ 2–4 soldiers in 2–5 rounds, then 10 workers over 5 rounds) | cow, 4 drones (+ 2 soldiers, 7 workers) | 12,000 / 9,200 (cow and drones only) | **Deadly ×1.8 / ×2.1** | Ant tunnels can be blocked (2 rounds each); a brandished flame turns ants; ⚑ D5 |
+| S6 Breeding chamber | cow, 6 drones (+ 2–4 soldiers in 2–5 rounds, then 10 workers over 5 rounds) | cow, 4 drones (+ 2 soldiers, 7 workers) | 12,000 / 9,200 (cow and drones only) | **Deadly ×1.8 / ×2.1** | Ant tunnels can be blocked (2 rounds each); a brandished flame turns ants; waves (D5) |
 | S8b Queen | 10 soldiers, 10 workers | 7, 7 | 9,000 / 6,300 | Deadly | Optional; the workers flee with the eggs |
 | S12 Outpost | 18 orcs, 3 ogres | 12, 2 | 9,450 / 6,300 | **Deadly ×1.4** | Six on the steps, six behind, six with an ogre flanking: run it in those three waves |
 | S14 Guard post | 6 orcs | 4 | 900 / 800 | Trivial | They run to warn S15 |
@@ -179,7 +179,7 @@ Thresholds: 4th level 4 PCs E 500 / M 1,000 / H 1,500 / D 2,000; 6 PCs E 750 / M
 | S16a+b Witch-doctor | 14 orcs, witch-doctor | 9, witch-doctor | 4,800 / 2,750 | Hard / Medium | Across the water, behind walls |
 | S18 Pits | 2 drones (+ booth drone) | 1 (+ 1) | 1,400 / 700 | Easy | The beams are the danger |
 | S19a Slave chamber | veteran, mage, merchant, 5 orcs (+ doppelganger) | same, 3 orcs | 4,620 / 4,220 | Hard / Hard | |
-| S21 Den | den master, 5 weasels, 10 orcs | den master, 3, 7 | 9,300 / 7,200 | **Deadly ×1.4 / ×1.6** | Weasels leap the moat; the orcs only shoot until the alcove is reached; ⚑ D5 |
+| S21 Den | den master, 5 weasels, 10 orcs | den master, 3, 7 | 9,300 / 7,200 | **Deadly ×1.4 / ×1.6** | Weasels leap the moat; the orcs only shoot until the alcove is reached; waves (D5) |
 
 
 ---
@@ -293,12 +293,12 @@ The campaign maps are 1-bit scans (2,654 × 4,112). Same treatment as A0: crop, 
 | D2 | Pregen form | **Decided: real FG pregen sheets** |
 | D3 | Scaling | **Decided: 6 PCs as printed, 4 PCs ⅔** |
 | D4 | Magic items | **Decided: cap at rare, consumables kept** |
-| **D5** | **Four rooms run far past Deadly even as printed**: T3 (×1.7), T12 (×2.8), T18 (×2.0), S6 (×1.8; ×3.5 with all the ants). Keep them, or trim? | **Keep T12 and S6 as printed but staged as waves** (the text already does this). **Trim T3 to 6 ghouls and 2 ghasts** and **T18 to the priestess, 2 temple guards, the troll and the assassin** for the 6-PC version (both then about Deadly ×1.3). The 4-PC versions follow at ⅔ |
-| **D6** | Area numbering: the temple and the sewers both number from 1. In the module, prefix **T** and **S** (T18, S21)? | **Yes**: "T18. Temple Chamber", "S21. Slave Lord's Den"; the maps keep their printed numbers |
+| **D5** | **Four rooms run far past Deadly even as printed**: T3 (×1.7), T12 (×2.8), T18 (×2.0), S6 (×1.8; ×3.5 with all the ants) | **Decided (2026-11-25): all four as printed, staged in waves.** T3: four ghouls drop first, the rest and the ghasts a round later. T12: the "slaves" rise first; the priest casts from the door; the assassins strike from the shadows in round 2. T18: the guards and priestess first, the troll from the poorbox in round 2, the assassin when the party is engaged. S6: the cow and drones, then the ants over 2–5 rounds as printed. Each area page gets the wave plan |
+| **D6** | Area numbering prefixes | **Decided: T and S prefixes** ("T18. Temple Chamber", "S21. Slave Lord's Den"); the maps keep their printed numbers |
 | **D7** | *Pearl of wisdom* (+1 Wisdom for clerics) has no 5e item | **A custom uncommon "Pearl of Wisdom"**: attuned, +1 to Wisdom saving throws and checks. Alternative: the DMG *pearl of power* |
-| **D8** | Gauntlets of dexterity as a custom twin of *gauntlets of ogre power* (Dex 19, uncommon) | **Yes** |
-| **D9** | The pregens' 1e magic goes past the cap in places (+3 chain, +2 splint, wand of fire) | **Cap the same way**: armor +1 (rare), *wand of fireballs* (rare) for the wand of fire; scroll of *raise dead* → *revivify* |
-| **D10** | Convention Mode's time limit (not printed in A1) | **4 hours** for the full module; 2 hours per half if run as two rounds |
+| **D8** | Gauntlets of dexterity | **Decided: custom twin of *gauntlets of ogre power*** (Dexterity 19, uncommon, attunement) |
+| **D9** | Pregens' items past the cap | **Decided: capped the same way**: armor +1 (rare), *wand of fireballs* for the wand of fire, *revivify* for *raise dead* |
+| **D10** | Convention Mode time limit | **Decided: 4 hours** for the full module; 2 hours per half if run as two rounds |
 
 ## 12 · Errata and source notes
 
