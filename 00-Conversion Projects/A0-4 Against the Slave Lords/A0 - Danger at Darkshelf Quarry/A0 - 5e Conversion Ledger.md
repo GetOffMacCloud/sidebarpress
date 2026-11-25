@@ -2,7 +2,7 @@
 tags: [adventure/A0, conversion, fgu-prep, slave-lords]
 adventure: "A0 - Danger at Darkshelf Quarry"
 source: "A0–A4 Against the Slave Lords (WotC 2013 compilation), A0 by Skip Williams, PDF pp. 5–29"
-status: draft for review (2026-11-25) — D1–D8 open
+status: final (2026-11-25) — D1–D8 decided; vault notes written
 created: 2026-11-25
 publish: false
 ---
@@ -15,7 +15,7 @@ This ledger records every number the 5e table or the FGU build has to touch: the
 > - **Rules:** 5e 2014 (PHB, DMG, MM), with the C12 / T1 ledger rules (§1). MM statblocks wherever an equivalent exists; custom blocks are marked **(custom)**.
 > - **Text:** stays close to Williams. This ledger changes numbers, not prose.
 > - **Deliverable:** the FGU module only (no print PDF). Maps are cleaned scans for now (§9); traced house-style maps come in a later pass.
-> - **Decisions waiting on Greybeard** are marked **⚑ D#** and collected in §10.
+> - **Decisions** are marked **⚑ D#** and collected in §10 (all decided 2026-11-25).
 
 ---
 
@@ -152,7 +152,7 @@ The C12 / T1 rules, plus the A0 lines marked 🆕.
 ### 4.1 Mudtiger (three sizes)
 *1e: AC 6, MV 6"//12" (3"), HD 2–5, bite 2–5 (2–3 HD) or 2–8 (4–5 HD); electric burst 10 ft, 2–8 or 2–12, save vs breath for half, recharges on 5–6 (d6); magnetize; immune to electricity.*
 
-| | **Mudtiger Fingerling-grown** (2 HD) | **Mudtiger** (4 HD) | **Great Mudtiger** (5 HD, area 64) |
+| | **Young Mudtiger** (2 HD) | **Mudtiger** (4 HD) | **Great Mudtiger** (5 HD, area 64) |
 |---|---|---|---|
 | CR | 1/2 (100 XP) | 1 (200 XP) | 2 (450 XP) |
 | AC / HP | 13 (natural) / 22 (4d8 + 4) | 13 / 37 (5d8 + 15) | 13 / 52 (7d8 + 21) |
@@ -205,7 +205,7 @@ Thresholds for 4 PCs (2014 DMG): L1 E 100 / M 200 / H 300 / D 400 · L2 200 / 40
 | 10 Armory | Sergeant | Sergeant | 100 | L1 Easy |
 | 12 Kitchen | Zodznog, 4 cooks | Zodznog, 3 cooks | 160 | L1 Easy–Medium |
 | 17 North posts (night) | 4 goblins | 3 goblins | 300 | L1 Hard |
-| 17 / 22 (day) | 2 guards each | 2 guards each | 75 | L1 Easy |
+| 17 / 22 (day) | 2 guards each | 1 guard each | 25 | L1 trivial |
 | 18 Glyrthiel | Glyrthiel | Glyrthiel | 200 | L1 Medium (*sleep*) |
 | 19 Brubgrok | Brubgrok | Brubgrok | 450 | **L1 Deadly**, L2 Medium |
 | 18 + 19 together | | | 1,300 | L2 Deadly, L3 Hard |
@@ -301,16 +301,16 @@ Per map: crop to the frame, level and despeckle, upscale ×2 (Lanczos), and expo
 
 ## 10 · Decisions for Greybeard
 
-| # | Question | Recommendation |
+| # | Question | Decision (Greybeard, 2026-11-25) |
 |---|---|---|
-| **D1** | Guards' AC. T1's rule says use the armor named; the armory rack holds **chain mail**, which with a shield is AC 18, and six of them become Deadly at 1st level. | **Use the MM Guard as is (AC 16, chain shirt and shield).** 1e AC 4 is the plain armored soldier, which is what the MM Guard is. The sergeant and Brubgrok keep plate (AC 20) |
-| **D2** | Treasure: ÷ 5 with DMG-tier snapping (2,640 gp + 500 reward), or another method? | **÷ 5.** It lands on the DMG hoard budget and keeps every description, as T1 did with its budget |
-| **D3** | Distances. The Background puts the quarry **half a mile** from the village (p. 6); Darkshelf and Environs says **about three miles inland** (p. 7). The tributary to the jetty "twists for more than a mile" (p. 8), but area 56 says "a little more than a quarter mile" (p. 23). | **Three miles inland; a mile of tributary** (the Environs section is the more detailed and the patrols need room). Recorded in Development Notes |
-| **D4** | *Cause fear* isn't in the 2014 PHB (it's in *Xanathar's*, which isn't in the SRD that the FGU build copies from). | **Keep *cause fear* (XGE)** as a homebrew spell record in the module (the build supports homebrew spells), so the clerics play as printed. Fallback: a second *command* |
-| **D5** | Water weird: MM CR 3, and it re-forms in 2 rounds. Fair in a 3rd-level section, but harsh if the party comes in by the river at 1st level. | **Keep both.** It only attacks those who linger, and the Introduction warns about the river entry |
-| **D6** | Kwon as a PC replacement? | **Yes**, as an option on his NPC page; he stays a 2nd-level monk unless the DM levels him |
+| **D1** | Guards' AC. T1's rule says use the armor named; the armory rack holds **chain mail**, which with a shield is AC 18, and six of them become Deadly at 1st level. | **Decided: MM Guard, AC 16.** 1e AC 4 is the plain armored soldier, which is what the MM Guard is. The sergeant and Brubgrok keep plate (AC 20) |
+| **D2** | Treasure: ÷ 5 with DMG-tier snapping (2,640 gp + 500 reward), or another method? | **Decided: ÷ 5.** It lands on the DMG hoard budget and keeps every description, as T1 did with its budget |
+| **D3** | Distances. The Background puts the quarry **half a mile** from the village (p. 6); Darkshelf and Environs says **about three miles inland** (p. 7). The tributary to the jetty "twists for more than a mile" (p. 8), but area 56 says "a little more than a quarter mile" (p. 23). | **Decided: three miles inland; a mile of tributary** (the Environs section is the more detailed and the patrols need room). Recorded in Development Notes |
+| **D4** | *Cause fear* isn't in the 2014 PHB (it's in *Xanathar's*, which isn't in the SRD that the FGU build copies from). | **Decided: homebrew [[Cause Fear]]**, written in our own words, kept in the vault spell list (`57-Spells`) and built into the module as a spell record |
+| **D5** | Water weird: MM CR 3, and it re-forms in 2 rounds. Fair in a 3rd-level section, but harsh if the party comes in by the river at 1st level. | **Decided: keep both.** It only attacks those who linger, and the Introduction warns about the river entry |
+| **D6** | Kwon as a PC replacement? | **Decided: yes, as an option** on his NPC page; he stays a 2nd-level monk unless the DM levels him |
 | **D7** | Tournament extras: A0 has none (it was written in 2013). Nothing to add | — (A1–A4 get pregens and a convention-mode page) |
-| **D8** | FGU book layout: one page per keyed area (66 pages) or one page per section with areas as headings? | **One page per keyed area**, grouped in chapters: Introduction · Guardhouse · Quarry · Caverns · Conclusion · Appendices (Bestiary, Treasure, Development Notes). Matches the C12 module and makes every area linkable |
+| **D8** | FGU book layout: one page per keyed area (66 pages) or one page per section with areas as headings? | **Decided: one page per keyed area**, grouped in chapters: Introduction · Guardhouse · Quarry · Caverns · Conclusion · Appendices (Bestiary, Treasure, Development Notes). Matches the C12 module and makes every area linkable |
 
 ---
 
