@@ -7,7 +7,7 @@ publish: true
 ---
 # Blodgett
 
-> *Tournament character 5.* Lightfoot Halfling Rogue 5, Thief (Neutral Good). Criminal background. The scout: Stealth +11 (advantage with the boots of elvenkind), thieves' tools +11. The 1e tournament scored a bonus for casting invisibility on him at the start..
+> *Tournament character 5.* Lightfoot Halfling Rogue 5, Thief (Neutral Good). Criminal background. The scout: Stealth +11 (advantage with the boots of elvenkind), thieves' tools +11. The 1e tournament scored a bonus for casting invisibility on him at the start.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,9 +25,9 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Shortsword | +8 | 1d6+5 piercing |
-| Dagger | +8 | 1d4+5 piercing |
-| Sling | +8 | 1d4+5 bludgeoning |
+| Shortsword | +8 | 1d6 + 5 piercing |
+| Dagger | +8 | 1d4 + 5 piercing |
+| Sling | +8 | 1d4 + 5 bludgeoning |
 
 ## Features
 

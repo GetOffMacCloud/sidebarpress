@@ -7,7 +7,7 @@ publish: true
 ---
 # Phanstern
 
-> *Tournament character 7.* Human Wizard 5, School of Illusion (Chaotic Good). Charlatan background. Control and trickery: hypnotic pattern, hold person, fog cloud. In 1e he was an illusionist; the 5e Illusion school keeps his spell list close..
+> *Tournament character 7.* Human Wizard 5, School of Illusion (Chaotic Good). Charlatan background. Control and trickery: hypnotic pattern, hold person, fog cloud. In 1e he was an illusionist; the 5e Illusion school keeps his spell list close.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Dagger (silvered) | +7 | 1d4+4 piercing |
+| Dagger (silvered) | +7 | 1d4 + 4 piercing |
 
 ## Features
 

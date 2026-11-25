@@ -9,7 +9,7 @@ FIELDS=[('Saving Throws','savingthrows'),('Skills','skills'),('Damage Vulnerabil
         ('Damage Resistances','damageresistances'),('Damage Immunities','damageimmunities'),
         ('Condition Immunities','conditionimmunities'),('Senses','senses'),('Languages','languages')]
 SECT={'Actions':'actions','Bonus Actions':'bonusactions','Reactions':'reactions','Legendary Actions':'legendaryactions','Mythic Actions':'legendaryactions','Lair Actions':'lairactions'}
-NAME=re.compile(r"^((?:[A-Z0-9][\w'’\-+/,]*|of|the|and|a|an|in|to|on|with|from|or)(?: (?:[A-Z0-9(][\w'’\-+/,()]*|of|the|and|a|an|in|to|on|with|from|or|\d[\w/\-]*\)?|\([^)]*\)))*)\. (.+)$")
+NAME=re.compile(r"^((?:[A-Z0-9][\w'’\-+/,]*|of|the|and|a|an|in|to|on|with|from|or)(?: (?:[A-Z0-9(][\w'’\-+/,()]*|of|the|and|a|an|in|to|on|with|from|or|\d[\w/\-]*\)?|\([^)]*\)|\+\d+))*)\. (.+)$")
 def _norm(x): return x.replace('−','-').replace('–','-').replace('—','-').strip()
 def blocks_md(txt):
     """```text fenced blocks that look like statblocks."""

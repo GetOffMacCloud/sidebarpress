@@ -7,7 +7,7 @@ publish: true
 ---
 # Karraway
 
-> *Tournament character 4.* Human Cleric 5, Life Domain (Lawful Good). Acolyte background. The healer. Life domain spells always prepared: bless, cure wounds, lesser restoration, spiritual weapon, beacon of hope, revivify..
+> *Tournament character 4.* Human Cleric 5, Life Domain (Lawful Good). Acolyte background. The healer. Life domain spells always prepared: bless, cure wounds, lesser restoration, spiritual weapon, beacon of hope, revivify.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,8 +25,8 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Mace | +3 | 1d6+0 bludgeoning |
-| Warhammer | +3 | 1d8+0 bludgeoning |
+| Mace | +3 | 1d6 bludgeoning |
+| Warhammer | +3 | 1d8 bludgeoning |
 
 ## Features
 

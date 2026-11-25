@@ -7,7 +7,7 @@ publish: true
 ---
 # "Ogre"
 
-> *Tournament character 2.* Human Fighter 5, Battle Master (Neutral Good). Soldier background. Strongest arm in the party; superiority dice knock foes prone or send them running..
+> *Tournament character 2.* Human Fighter 5, Battle Master (Neutral Good). Soldier background. Strongest arm in the party; superiority dice knock foes prone or send them running.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,9 +25,9 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Longsword +1 | +9 | 1d8+8 slashing |
-| Longbow | +4 | 1d8+1 piercing |
-| Dagger (throwing knife) | +8 | 1d4+5 piercing |
+| Longsword +1 | +9 | 1d8 + 8 slashing |
+| Longbow | +4 | 1d8 + 1 piercing |
+| Dagger (throwing knife) | +8 | 1d4 + 5 piercing |
 
 ## Features
 

@@ -7,7 +7,7 @@ publish: true
 ---
 # Freda
 
-> *Tournament character 3.* Human Ranger 5, Hunter (Chaotic Good). Outlander background. The archer: three ways to hit something far away, and the best tracker in the group..
+> *Tournament character 3.* Human Ranger 5, Hunter (Chaotic Good). Outlander background. The archer: three ways to hit something far away, and the best tracker in the group.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,11 +25,11 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Longsword | +6 | 1d8+3 slashing |
-| Longbow (Archery) | +10 | 1d8+5 piercing |
-| Longbow with arrow +1 | +11 | 1d8+6 piercing |
-| Dagger | +8 | 1d4+5 piercing |
-| Spear | +6 | 1d6+3 piercing |
+| Longsword | +6 | 1d8 + 3 slashing |
+| Longbow (Archery) | +10 | 1d8 + 5 piercing |
+| Longbow with arrow +1 | +11 | 1d8 + 6 piercing |
+| Dagger | +8 | 1d4 + 5 piercing |
+| Spear | +6 | 1d6 + 3 piercing |
 
 ## Features
 

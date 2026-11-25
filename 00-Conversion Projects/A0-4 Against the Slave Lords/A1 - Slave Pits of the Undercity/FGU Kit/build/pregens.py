@@ -99,7 +99,7 @@ def notes(srdsp):
     for p in P:
         nm=p['name'].strip('"'); cls=' / '.join('%s %d'%(c,l) for c,l,_ in p['cls'])
         L=['---','type: pregen','adventure: "A0–A4 Against the Slave Lords (Convention Mode)"','tags: [pregen, adventure/A1, slave-lords]','level: 5','publish: true','---',
-           '# %s'%p['name'],'','> *Tournament character %d.* %s %s, %s (%s). %s background. %s.'%(p['n'],p['race'],cls,p['sub'],p['al'],p['bg'],p['note']),'',
+           '# %s'%p['name'],'','> *Tournament character %d.* %s %s, %s (%s). %s background. %s'%(p['n'],p['race'],cls,p['sub'],p['al'],p['bg'],p['note']),'',
            '| Str | Dex | Con | Int | Wis | Cha |','|---|---|---|---|---|---|','| '+' | '.join('%d (%+d)'%(x,mod(x)) for x in p['sc'])+' |','',
            '- **Armor Class** %d (%s)'%(p['ac'],p['actext']),'- **Hit Points** %d · **Speed** %d ft. · **Proficiency** +3'%(p['hp'],p['speed']),
            '- **Saving Throws** '+', '.join('%s %+d'%(a[:3].title(),save_total(p,a)) for a in p['saves']),
@@ -107,7 +107,7 @@ def notes(srdsp):
            '- **Senses** '+((p['senses']+', ') if p['senses'] else '')+'passive Perception %d'%(10+(skill_total(p,'Perception') if 'Perception' in p['skills'] else mod(p['sc'][4]))),
            '- **Languages** '+', '.join(p['lang']),'- **Proficiencies** '+'; '.join(p['prof']),'','## Attacks','','| Weapon | To hit | Damage |','|---|---|---|']
         for w,st,d,t,ab,db,rg in p['wpn']:
-            sm=mod(p['sc'][AB.index(st)]); L.append('| %s | %+d | %s%+d %s |'%(w,sm+3+ab,'1'+d,sm+db,t))
+            sm=mod(p['sc'][AB.index(st)]); L.append('| %s | %+d | 1%s%s %s |'%(w,sm+3+ab,d,(' %+d'%(sm+db)).replace('+',' + ').replace('-',' − ').replace('  ',' ') if sm+db else '',t))
         L+=['','## Features','']+['- **%s.** %s'%(a,b) for a,b in p['feat']]
         if p['spells']:
             S=p['spells']; L+=['','## Spells','','Save DC %d, spell attack %+d (%s). Slots: %s.'%(spell_dc(p),spell_dc(p)-8,S['stat'].title(),', '.join('%s %d'%(ordl(i+1),n) for i,n in enumerate(S['slots']))),'']

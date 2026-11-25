@@ -7,7 +7,7 @@ publish: true
 ---
 # Elwita
 
-> *Tournament character 1.* Mountain Dwarf Fighter 5, Champion (Lawful Good). Soldier background. The party's wall: AC 22, two hammer blows a round, crits on 19..
+> *Tournament character 1.* Mountain Dwarf Fighter 5, Champion (Lawful Good). Soldier background. The party's wall: AC 22, two hammer blows a round, crits on 19.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,9 +25,9 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Warhammer +1 | +9 | 1d8+6 bludgeoning |
-| Heavy crossbow | +3 | 1d10+0 piercing |
-| Dagger | +8 | 1d4+5 piercing |
+| Warhammer +1 | +9 | 1d8 + 6 bludgeoning |
+| Heavy crossbow | +3 | 1d10 piercing |
+| Dagger | +8 | 1d4 + 5 piercing |
 
 ## Features
 

@@ -158,11 +158,12 @@ class Mod:
         s._slots(e)
         # NPC spell entries are plain strings and can't hold links, so link the module's own spells from the NPC's notes.
         tx=e.find('text')
-        if mine and tx is not None:
+        if mine and tx is not None and any(not any(x.get('recordname')==s.SPELL[k] for x in tx.iter('link')) for k,_ in mine):
             ordn=lambda l:{1:'1st',2:'2nd',3:'3rd'}.get(l,'%dth'%l)
             p=ET.SubElement(tx,'p'); b=ET.SubElement(p,'b'); b.text='Spells' ; b.tail=' (Sidebar Press homebrew; click for the full spell):'
             ll=ET.SubElement(tx,'linklist')
             for k,l in mine:
+                if any(x.get('recordname')==s.SPELL[k] for x in tx.iter('link')): continue  # already linked by the Spellcasting pass
                 a=ET.SubElement(ll,'link',{'class':'power','recordname':s.SPELL[k]}); a.text='Spell: %s (%s)'%(s.SPELLN[k],ordn(l) if l else 'cantrip')
     def _slots(s,e):
         """Fill spellslots from 'Nth level (N slots)' lines so FGU tracks them (the SRD copies ship with 0)."""

@@ -63,7 +63,7 @@ In Convention Mode, use these fixed numbers in place of the dice so every table 
 
 ## The Pregenerated Characters
 
-Nine 5th-level characters (5e 2014), the same party for A1–A4. Each is a ready-to-play pregenerated character in the Fantasy Grounds module, and a vault note: [[Elwita]], [["Ogre"]], [[Freda]], [[Karraway]], [[Blodgett]], [[Dread Delgath]], [[Phanstern]], [[Eljayess]], [[Kayen Telva]]. In Convention Mode players may not add to or change their lists; every magic item they carry is known to its owner.
+Nine 5th-level characters (5e 2014), the same party for A1–A4. Each is a ready-to-play pregenerated character in the Fantasy Grounds module, and a vault note: [[Elwita]], [[Ogre|"Ogre"]], [[Freda]], [[Karraway]], [[Blodgett]], [[Dread Delgath]], [[Phanstern]], [[Eljayess]], [[Kayen Telva]]. In Convention Mode players may not add to or change their lists; every magic item they carry is known to its owner.
 
 ## Scoring
 

@@ -7,7 +7,7 @@ publish: true
 ---
 # Eljayess
 
-> *Tournament character 8.* Half-Elf Cleric 3 / Fighter 2, War Domain (Chaotic Good). Soldier background. Cleric 3 / Fighter 2. War domain spells always prepared: divine favor, shield of faith, magic weapon, spiritual weapon..
+> *Tournament character 8.* Half-Elf Cleric 3 / Fighter 2, War Domain (Chaotic Good). Soldier background. Cleric 3 / Fighter 2. War domain spells always prepared: divine favor, shield of faith, magic weapon, spiritual weapon.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,10 +25,10 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Spear +1 | +7 | 1d6+6 piercing |
-| Longsword | +6 | 1d8+5 slashing |
-| Longbow | +4 | 1d8+1 piercing |
-| Light hammer | +6 | 1d4+5 bludgeoning |
+| Spear +1 | +7 | 1d6 + 6 piercing |
+| Longsword | +6 | 1d8 + 5 slashing |
+| Longbow | +4 | 1d8 + 1 piercing |
+| Light hammer | +6 | 1d4 + 5 bludgeoning |
 
 ## Features
 

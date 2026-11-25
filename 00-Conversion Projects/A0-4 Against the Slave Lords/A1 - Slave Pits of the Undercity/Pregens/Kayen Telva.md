@@ -7,7 +7,7 @@ publish: true
 ---
 # Kayen Telva
 
-> *Tournament character 9.* High Elf Fighter 2 / Wizard 3, School of Abjuration (Chaotic Good). Sage background. Fighter 2 / Wizard 3 in elven chain: casts in armor, keeps invisibility and knock from 1e..
+> *Tournament character 9.* High Elf Fighter 2 / Wizard 3, School of Abjuration (Chaotic Good). Sage background. Fighter 2 / Wizard 3 in elven chain: casts in armor, keeps invisibility and knock from 1e.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,10 +25,10 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Longsword | +5 | 1d8+2 slashing |
-| Longbow | +7 | 1d8+4 piercing |
-| Handaxe | +5 | 1d6+2 slashing |
-| Javelin of lightning | +5 | 1d6+2 piercing |
+| Longsword | +5 | 1d8 + 2 slashing |
+| Longbow | +7 | 1d8 + 4 piercing |
+| Handaxe | +5 | 1d6 + 2 slashing |
+| Javelin of lightning | +5 | 1d6 + 2 piercing |
 
 ## Features
 

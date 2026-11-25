@@ -7,7 +7,7 @@ publish: true
 ---
 # Dread Delgath
 
-> *Tournament character 6.* Human Wizard 5, School of Evocation (Neutral Good). Sage background. The artillery. Sculpt Spells lets him drop a fireball on a melee without roasting the party. The 1e scoring docks points for fireballing the slaves in T12..
+> *Tournament character 6.* Human Wizard 5, School of Evocation (Neutral Good). Sage background. The artillery. Sculpt Spells lets him drop a fireball on a melee without roasting the party. The 1e scoring docks points for fireballing the slaves in T12.
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
@@ -25,8 +25,8 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Quarterstaff | +2 | 1d6-1 bludgeoning |
-| Dagger | +3 | 1d4+0 piercing |
+| Quarterstaff | +2 | 1d6 − 1 bludgeoning |
+| Dagger | +3 | 1d4 piercing |
 
 ## Features
 
