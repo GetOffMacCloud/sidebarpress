@@ -60,7 +60,7 @@ Every number the 5e table or the FGU build has to touch: the 1e source, the 5e c
 | M1 | **Wall encounters** (d8, 1 in 6 each turn): ghouls (+1–3 ghasts 50%), zombies, skeletons, orc patrols (d4 table), stirges, harpies | Unchanged frequency (**1 on d6 each 10 minutes**). Orc patrols: (1) 2–8 orcs with short swords and light crossbows; (2) 2–12 orcs and a **Half-Orc Gatekeeper**; (3) 2–8 orcs with halberds, a Gatekeeper and a **Cutthroat**; (4) 2 Temple Guards, a Cutthroat and 2 Slaver Priests. Undead ignore the orcs and the High Priestess |
 | M2 | **Ruin encounters** (d6, 1 in 6 each turn): orc campfires (3–18 orcs; 10% slaver fighter, 25% 1–3 ogres, 50% half-orc fighter, 30% fighter/cleric), basilisks, ghouls, wight, slaver bands | Unchanged. Orc camps: shelters hold **1d100 ÷ 5 gp** each. Slaver band: a **Veteran** (the 8th–9th-level fighter), 3–10 **Guards**, 50% a **Priest**, else 75% a **Mage**, and 1–4 **Cutthroats** as interpreters |
 | M3 | **Wandering Monster Roster** (caps) | Kept as printed. Removing a basilisk here removes one from T10 |
-| M4 | **The cemetery's living plants** (T8, d8 table each turn on 1–3) | **1 on d6 each 10 minutes … no: 1–3 on d6**, as printed. (1) the path behind closes: cutting through takes 10 minutes; (2) branch: +3 to hit, 1d6 bludgeoning; (3) pickpocket: DC 13 Wisdom (Perception) to notice, else a small item is gone; (4) 2–8 giant worker ants; (5) weeds: **DC 12 Strength save** or restrained (escape DC 12, or another creature frees you as an action); (6) 2–5 ghouls; (7) the way ahead closes: speed 5 ft until cut through; (8) falling tree: +6 to hit, **4d6 bludgeoning** (Dangerous). **Off the path or destroying plants:** entangling weeds every step (as 5), constant branch attacks (as 2), and three **Guardian Trees** (custom, CR 3) block each exit |
+| M4 | **The cemetery's living plants** (T8, d8 table each turn on 1–3) | Checked every 10 minutes; an encounter on **1–3 on a d6**, as printed. (1) the path behind closes: cutting through takes 10 minutes; (2) branch: +3 to hit, 1d6 bludgeoning; (3) pickpocket: DC 13 Wisdom (Perception) to notice, else a small item is gone; (4) 2–8 giant worker ants; (5) weeds: **DC 12 Strength save** or restrained (escape DC 12, or another creature frees you as an action); (6) 2–5 ghouls; (7) the way ahead closes: speed 5 ft until cut through; (8) falling tree: +6 to hit, **4d6 bludgeoning** (Dangerous). **Off the path or destroying plants:** entangling weeds every step (as 5), constant branch attacks (as 2), and three **Guardian Trees** (custom, CR 3) block each exit |
 | M5 | **Undercity construction** (sewers p. 36): dirt tunnels with beams; a beam destroyed collapses 5–10 ft radius, 2–20 damage, >15 buries | Collapse: **DC 15 Dex save** or **4d10 bludgeoning** (half on a success) and **restrained** (buried); a buried creature starts suffocating (PHB) and is dug out by **DC 12 Strength (Athletics)** or 2 rounds of digging with tools |
 | M6 | **Sewer tunnels**: 5-ft ledge, water 5–12 ft deep (d8 + 4), 3"-per-turn undercurrent toward S2 | Swimming: **DC 10 Strength (Athletics)** each round (DC 15 against the current); swimming downstream adds 10 ft to speed, upstream subtracts 10 ft |
 | M7 | Characters wading in **small sewer channels** (S11): ¼ movement lost, −1 to hit | Difficult terrain; −1 to attack rolls |
@@ -154,7 +154,7 @@ Thresholds: 4th level 4 PCs E 500 / M 1,000 / H 1,500 / D 2,000; 6 PCs E 750 / M
 
 | Area | 6 PCs (printed) | 4 PCs | Adjusted XP 6 / 4 | Difficulty 6 / 4 | Staging |
 |---|---|---|---|---|---|
-| T3 Guard room | 8 ghouls, 2 ghasts | 5 ghouls, 2 ghasts* | 5,000 / 2,900 | **Deadly ×1.7 / Deadly** | Ambush from the ledge (surprise); ⚑ D5 |
+| T3 Guard room | 8 ghouls, 2 ghasts | 5 ghouls, 1 ghast | 5,000 / 2,900 | **Deadly ×1.7 / Deadly** | Ambush from the ledge (surprise); ⚑ D5 |
 | T5b Sundew | sundew | sundew | 550 / 1,100 | Easy / Medium | Vinegar trivialises it, as designed |
 | T6 Stable | 4 half-orcs, doppelganger | 3, doppelganger | 1,350 / 1,700 | Easy / Hard | The horn brings a wall patrol in 2–5 rounds |
 | T7 Shed | 6 orcs (halberds) | 4 | 900 / 800 | Easy / Easy | They flee if surprised |
@@ -181,7 +181,6 @@ Thresholds: 4th level 4 PCs E 500 / M 1,000 / H 1,500 / D 2,000; 6 PCs E 750 / M
 | S19a Slave chamber | veteran, mage, merchant, 5 orcs (+ doppelganger) | same, 3 orcs | 4,620 / 4,220 | Hard / Hard | |
 | S21 Den | den master, 5 weasels, 10 orcs | den master, 3, 7 | 9,300 / 7,200 | **Deadly ×1.4 / ×1.6** | Weasels leap the moat; the orcs only shoot until the alcove is reached; ⚑ D5 |
 
-\* Ghasts are a pair, so they drop to 1 for 4 PCs under D3. The table shows the pre-rounding count; the build uses 1.
 
 ---
 
