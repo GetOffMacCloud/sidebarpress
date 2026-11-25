@@ -11,12 +11,12 @@ publish: true
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
-| 20 (+5) | 11 (+0) | 20 (+5) | 12 (+1) | 8 (-1) | 15 (+2) |
+| 18 (+4) | 10 (+0) | 18 (+4) | 10 (+0) | 8 (-1) | 13 (+1) |
 
 - **Armor Class** 22 (plate, shield +1, Defense style)
-- **Hit Points** 59 · **Speed** 25 ft. · **Proficiency** +3
-- **Saving Throws** Str +8, Con +8
-- **Skills** Athletics +8, Intimidation +5, Perception +2, Survival +2
+- **Hit Points** 54 · **Speed** 25 ft. · **Proficiency** +3
+- **Saving Throws** Str +7, Con +7
+- **Skills** Athletics +7, Intimidation +4, Perception +2, Survival +2
 - **Senses** Darkvision 60 ft., passive Perception 12
 - **Languages** Common, Dwarvish
 - **Proficiencies** All armor, shields; Simple and martial weapons; Smith's tools; Dice set; Vehicles (land)
@@ -25,9 +25,9 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Warhammer +1 | +9 | 1d8 + 6 bludgeoning |
+| Warhammer +1 | +8 | 1d8 + 5 bludgeoning |
 | Heavy crossbow | +3 | 1d10 piercing |
-| Dagger | +8 | 1d4 + 5 piercing |
+| Dagger | +7 | 1d4 + 4 piercing |
 
 ## Features
 
@@ -38,10 +38,10 @@ publish: true
 - **Extra Attack.** Attack twice when you take the Attack action.
 - **Dwarven Resilience.** Advantage on saves against poison; resistance to poison damage.
 - **Stonecunning.** Double proficiency on History checks about stonework.
-- **Ability Score Improvement.** Strength 19 to 20.
+- **Ability Score Improvement.** Strength 17 to 18, Constitution 17 to 18.
 
 ## Equipment
 
 Plate armor, Shield +1, Warhammer +1, Heavy crossbow, 20 crossbow bolts, Dagger, Belt pouch (large), 12 iron spikes, Chisel, Large sack, Wineskin, 50 ft. of hempen rope.
 
-*1e original: A1 p. 48–49 (tournament characters). Built per [[A1 - 5e Conversion Ledger]] §8.*
+*1e original: A1 p. 48 (tournament characters). Scores rebuilt with 27-point buy, ranked by the 1e scores, then racial bonuses and the 4th-level Ability Score Improvement; see [[A1 - 5e Conversion Ledger]] §8.*

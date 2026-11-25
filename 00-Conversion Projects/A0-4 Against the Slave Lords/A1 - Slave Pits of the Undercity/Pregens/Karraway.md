@@ -11,12 +11,12 @@ publish: true
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
-| 10 (+0) | 16 (+3) | 18 (+4) | 13 (+1) | 18 (+4) | 14 (+2) |
+| 16 (+3) | 11 (+0) | 14 (+2) | 9 (-1) | 18 (+4) | 11 (+0) |
 
 - **Armor Class** 20 (plate, shield)
-- **Hit Points** 48 · **Speed** 20 ft. · **Proficiency** +3
-- **Saving Throws** Wis +7, Cha +5
-- **Skills** Insight +7, Religion +4, Medicine +7, History +4
+- **Hit Points** 38 · **Speed** 30 ft. · **Proficiency** +3
+- **Saving Throws** Wis +7, Cha +3
+- **Skills** Insight +7, Religion +2, Medicine +7, History +2
 - **Senses** passive Perception 14
 - **Languages** Common, Celestial, Dwarvish
 - **Proficiencies** All armor, shields; Simple weapons
@@ -25,16 +25,15 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Mace | +3 | 1d6 bludgeoning |
-| Warhammer | +3 | 1d8 bludgeoning |
+| Mace | +6 | 1d6 + 3 bludgeoning |
+| Warhammer | +6 | 1d8 + 3 bludgeoning |
 
 ## Features
 
 - **Disciple of Life.** Healing spells of 1st level or higher restore an extra 2 + the spell's level in hit points.
 - **Channel Divinity (1/rest).** Turn Undead, or Preserve Life: restore 25 hit points divided among creatures within 30 feet (up to half each one's maximum).
 - **Destroy Undead.** Turned undead of CR 1/2 or lower are destroyed.
-- **Heavy armor note.** Plate needs Strength 15: Karraway's speed is 20 feet in it.
-- **Ability Score Improvement.** Wisdom 17 to 18, Constitution 17 to 18.
+- **Ability Score Improvement.** Wisdom 16 to 18.
 
 ## Spells
 
@@ -49,4 +48,4 @@ Save DC 15, spell attack +7 (Wisdom). Slots: 1st 4, 2nd 3, 3rd 2.
 
 Plate armor, Shield, Mace (footman's mace), Warhammer, Spell scroll (clairvoyance), Spell scroll (revivify), Silver holy symbol, Vial of holy water, Hooded lantern, Flask of oil, Backpack, 10 iron spikes.
 
-*1e original: A1 p. 48–49 (tournament characters). Built per [[A1 - 5e Conversion Ledger]] §8.*
+*1e original: A1 p. 48 (tournament characters). Scores rebuilt with 27-point buy, ranked by the 1e scores, then racial bonuses and the 4th-level Ability Score Improvement; see [[A1 - 5e Conversion Ledger]] §8.*

@@ -11,13 +11,13 @@ publish: true
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
-| 17 (+3) | 12 (+1) | 17 (+3) | 9 (-1) | 17 (+3) | 15 (+2) |
+| 15 (+2) | 10 (+0) | 15 (+2) | 8 (-1) | 15 (+2) | 12 (+1) |
 
 - **Armor Class** 20 (plate, shield)
-- **Hit Points** 45 · **Speed** 30 ft. · **Proficiency** +3
-- **Saving Throws** Wis +6, Cha +5
-- **Skills** Athletics +6, Intimidation +5, Religion +2, Medicine +6, Perception +6, Persuasion +5
-- **Senses** Darkvision 60 ft., passive Perception 16
+- **Hit Points** 40 · **Speed** 30 ft. · **Proficiency** +3
+- **Saving Throws** Wis +5, Cha +4
+- **Skills** Athletics +5, Intimidation +4, Religion +2, Medicine +5, Perception +5, Persuasion +4
+- **Senses** Darkvision 60 ft., passive Perception 15
 - **Languages** Common, Elvish, Celestial
 - **Proficiencies** All armor, shields; Simple and martial weapons; Dice set; Vehicles (land)
 
@@ -25,10 +25,10 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Spear +1 | +7 | 1d6 + 6 piercing |
-| Longsword | +6 | 1d8 + 5 slashing |
-| Longbow | +4 | 1d8 + 1 piercing |
-| Light hammer | +6 | 1d4 + 5 bludgeoning |
+| Spear +1 | +6 | 1d6 + 5 piercing |
+| Longsword | +5 | 1d8 + 4 slashing |
+| Longbow | +3 | 1d8 piercing |
+| Light hammer | +5 | 1d4 + 4 bludgeoning |
 
 ## Features
 
@@ -41,14 +41,14 @@ publish: true
 
 ## Spells
 
-Save DC 14, spell attack +6 (Wisdom). Slots: 1st 4, 2nd 2.
+Save DC 13, spell attack +5 (Wisdom). Slots: 1st 4, 2nd 2.
 
 - **Cantrips:** *guidance*, *light*, *sacred flame*
-- **1st level:** *divine favor*, *shield of faith*, *bless*, *command*, *cure wounds*, *healing word*
+- **1st level:** *divine favor*, *shield of faith*, *bless*, *command*, *cure wounds*
 - **2nd level:** *magic weapon*, *spiritual weapon*, *hold person*, *silence*
 
 ## Equipment
 
 Plate armor, Shield, Spear +1, Longsword, Longbow, Quiver and 20 arrows, Light hammer, Potion of speed, Wooden holy symbol, Vial of holy water, Small pouch, 50 ft. of hempen rope, Waterskin.
 
-*1e original: A1 p. 48–49 (tournament characters). Built per [[A1 - 5e Conversion Ledger]] §8.*
+*1e original: A1 p. 48 (tournament characters). Scores rebuilt with 27-point buy, ranked by the 1e scores, then racial bonuses and the 4th-level Ability Score Improvement; see [[A1 - 5e Conversion Ledger]] §8.*

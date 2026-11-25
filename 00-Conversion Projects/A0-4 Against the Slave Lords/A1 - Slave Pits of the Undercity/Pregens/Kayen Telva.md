@@ -11,13 +11,13 @@ publish: true
 
 | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|
-| 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) | 10 (+0) | 9 (-1) |
+| 13 (+1) | 16 (+3) | 13 (+1) | 16 (+3) | 9 (-1) | 8 (-1) |
 
 - **Armor Class** 18 (elven chain (mithral chain shirt), shield, Defense style)
-- **Hit Points** 34 · **Speed** 30 ft. · **Proficiency** +3
-- **Saving Throws** Str +5, Con +5
-- **Skills** Perception +3, Athletics +5, Acrobatics +7, Arcana +7, History +7
-- **Senses** Darkvision 60 ft., passive Perception 13
+- **Hit Points** 29 · **Speed** 30 ft. · **Proficiency** +3
+- **Saving Throws** Str +4, Con +4
+- **Skills** Perception +2, Athletics +4, Acrobatics +6, Arcana +6, History +6
+- **Senses** Darkvision 60 ft., passive Perception 12
 - **Languages** Common, Elvish, Draconic, Gnoll
 - **Proficiencies** All armor, shields; Simple and martial weapons
 
@@ -25,10 +25,10 @@ publish: true
 
 | Weapon | To hit | Damage |
 |---|---|---|
-| Longsword | +5 | 1d8 + 2 slashing |
-| Longbow | +7 | 1d8 + 4 piercing |
-| Handaxe | +5 | 1d6 + 2 slashing |
-| Javelin of lightning | +5 | 1d6 + 2 piercing |
+| Longsword | +4 | 1d8 + 1 slashing |
+| Longbow | +6 | 1d8 + 3 piercing |
+| Handaxe | +4 | 1d6 + 1 slashing |
+| Javelin of lightning | +4 | 1d6 + 1 piercing |
 
 ## Features
 
@@ -42,14 +42,14 @@ publish: true
 
 ## Spells
 
-Save DC 15, spell attack +7 (Intelligence). Slots: 1st 4, 2nd 2.
+Save DC 14, spell attack +6 (Intelligence). Slots: 1st 4, 2nd 2.
 
 - **Cantrips:** *fire bolt*, *light*, *mage hand*, *shocking grasp*
-- **1st level:** *charm person*, *sleep*, *shield*, *magic missile*
+- **1st level:** *charm person*, *sleep*, *shield*
 - **2nd level:** *invisibility*, *knock*, *misty step*
 
 ## Equipment
 
 Elven chain (mithral chain shirt), Shield, Longsword, Longbow, Quiver and 12 arrows, Handaxe, Dagger, 2 javelins of lightning, Spell scroll (arcane lock), Spell scroll (suggestion), Spellbook, Component pouch, Small sack, Scroll case, Parchment, quill and ink, Brown candle.
 
-*1e original: A1 p. 48–49 (tournament characters). Built per [[A1 - 5e Conversion Ledger]] §8.*
+*1e original: A1 p. 48 (tournament characters). Scores rebuilt with 27-point buy, ranked by the 1e scores, then racial bonuses and the 4th-level Ability Score Improvement; see [[A1 - 5e Conversion Ledger]] §8.*

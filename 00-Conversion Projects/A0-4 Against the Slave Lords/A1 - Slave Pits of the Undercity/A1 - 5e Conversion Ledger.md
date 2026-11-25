@@ -244,7 +244,19 @@ Printed hoards total about **42,000 gp**. ÷ 5 with gems and art snapped to DMG 
 
 ## 8 · The pregenerated characters (D1, D2)
 
-The nine Open characters, built **once at 5th level** under the 2014 PHB and reused for Convention Mode in A1–A4 (A4's start strips their gear, as printed). Each becomes an **FG pregen sheet** in the module (the format copied from an existing 5E module's `pregencharsheet` records). **Ability scores:** the printed 1e scores, 18 (56) read as 18, plus racial increases; one Ability Score Improvement at 4th is spent where it helps the role. **Magic items** follow D4.
+The nine Open characters, built **once at 5th level** under the 2014 PHB and reused for Convention Mode in A1–A4 (A4's start strips their gear, as printed). Each becomes an **FG pregen sheet** in the module (the format copied from an existing 5E module's `pregencharsheet` records). **Ability scores (Greybeard, 2026-11-25; replaces copying the 1e scores, since the two editions' scales differ):** each character is rebuilt with **27-point buy**, abilities ranked by their printed 1e scores (WotC's "reassigning ability scores" conversion option), with the class's key ability kept high. Then racial increases, then the 4th-level Ability Score Improvement. Exceptions are noted: **Karraway** buys Strength 15 so he can wear plate at full speed. The same method applies to any 1e character converted in A2–A4.
+
+| Character | Str | Dex | Con | Int | Wis | Cha | HP | AC |
+|---|---|---|---|---|---|---|---|---|
+| Elwita | 18 | 10 | 18 | 10 | 8 | 13 | 54 | 22 |
+| "Ogre" | 18 | 15 | 16 | 9 | 11 | 9 | 49 | 20 |
+| Freda | 11 | 18 | 16 | 9 | 14 | 11 | 49 | 19 |
+| Karraway | 16 | 11 | 14 | 9 | 18 | 11 | 38 | 20 |
+| Blodgett | 9 | 18 | 16 | 12 | 12 | 9 | 43 | 16 |
+| Dread Delgath | 9 | 11 | 15 | 18 | 13 | 14 | 32 | 12 |
+| Phanstern | 9 | 16 | 13 | 18 | 12 | 11 | 27 | 13 |
+| Eljayess | 15 | 10 | 15 | 8 | 15 | 12 | 40 | 20 |
+| Kayen Telva | 13 | 16 | 13 | 16 | 9 | 8 | 29 | 18 | **Magic items** follow D4.
 
 | # | Name | 1e | 5e build (5th level) | Kit (5e) |
 |---|---|---|---|---|
@@ -309,3 +321,10 @@ The campaign maps are 1-bit scans (2,654 × 4,112). Same treatment as A0: crop, 
 - **S18b** "a **pearl of wisdom** set into a brooch" (D7).
 - **S19a** "one ot his fingers" → "one of his fingers".
 - **Same nine pregens** appear in A2 (p. 93), A3 (pp. 121, 123) and A4 (p. 158): checked by name; their gear changes per module (A4 starts with none).
+
+## Random numbers of creatures (Greybeard, 2026-11-25)
+
+Where the module rolls how many creatures appear, the FGU module keeps the dice instead of fixing a number:
+- **Wandering monsters:** the Wall (d8), Ruin (d6) and Sewer (d10) encounter tables are FG tables with output set to Encounter. A count is written `[2d4x]` beside the NPC link; percentage riders (50% ghasts, the campfire extras, the slaver band's caster) are d100 sub-tables linked from the row.
+- **Keyed rooms with rolled counts** (T8 ghouls 2–5 and worker ants 2–8; S8 chambers 2–12 workers and 1–3 soldiers) are FG random encounters: each creature has a dice expression, and the GM presses Generate.
+- **4 PCs:** every table and random encounter has a 4-PC version at about ⅔ of the printed range (2–8 → 1d4+1, 2–12 → 1d6+1, 3–18 → 2d6, 2–20 → 2d6, 1–4 → 1d3).

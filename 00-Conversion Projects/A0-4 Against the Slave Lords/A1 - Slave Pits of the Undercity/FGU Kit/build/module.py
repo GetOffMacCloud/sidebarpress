@@ -85,7 +85,7 @@ for nm_,txt in re.findall(r'^### ([^\n]+)\n(\*\*.*?)(?=^### |^## )',bst.split('#
     txt=re.sub(r'\[\[([^\]|]*?)(?: \(A1\))?\]\]',r'\1',txt)
     MMDRESS[nm_]=re.sub(r'\[\[[^\]|]*\|([^\]]*)\]\]',r'\1',re.sub(r'^\*\*[^*]+\*\* \([^)]*\)\.?\s*','',txt.strip())).replace('*','').strip() or 'As the Monster Manual.'
 SRDK={'Orc':'orc','Ogre':'ogre','Ghoul':'ghoul','Ghast':'ghast','Zombie':'zombie','Skeleton':'skeleton','Wight':'wight','Basilisk':'basilisk','Harpy':'harpy','Stirge':'stirge',
-      'Doppelganger':'doppelganger','Troll':'troll','Gray Ooze':'grayooze','Giant Rat':'giantrat','Crocodile':'crocodile','Veteran':'veteran','Commoner':'commoner'}
+      'Doppelganger':'doppelganger','Troll':'troll','Gray Ooze':'grayooze','Giant Rat':'giantrat','Crocodile':'crocodile','Veteran':'veteran','Commoner':'commoner','Guard':'guard','Priest':'priest','Mage':'mage'}
 for nm_,k in SRDK.items(): mm(k,nm_,k,MMDRESS.get(nm_,'As the Monster Manual.'))
 assert not fgtext.MISSES,fgtext.MISSES
 # ---------------------------------------------------------------- items (from each note's FGU Import block)
@@ -118,7 +118,7 @@ ENC=[ # (area, name, {4:[...],6:[...]} or [...] for both, map)
 ('T5a','Giant sundew',[('giantsundew',1)],T1),
 ('T6','Stable hands',D([('halforcslaver',3),('doppelganger',1)],[('halforcslaver',4),('doppelganger',1)]),T1),
 ('T7','Halberd orcs',D([('orc',4)],[('orc',6)]),T1),
-('T8','Guardian trees',[('guardiantree',3)],T1),('T8','Cemetery ghouls',D([('ghoul',2)],[('ghoul',4)]),T1),
+('T8','Guardian trees',[('guardiantree',3)],T1),
 ('T9','Wight',[('wight',1)],T1),
 ('T10','Basilisks',D([('basilisk',1)],[('basilisk',2)]),T1),
 ('T12','False slavers, wave 1',D([('halforcslaver',4),('slaverpriest',1)],[('halforcslaver',6),('slaverpriest',1)]),T1),
@@ -135,7 +135,6 @@ ENC=[ # (area, name, {4:[...],6:[...]} or [...] for both, map)
 ('S4','Gray ooze',[('grayooze',1)],S2),
 ('S5','Aspis chamber',D([('aspisdrone',3),('giantworkerant',3)],[('aspisdrone',4),('giantworkerant',5)]),S2),
 ('S6','Breeding chamber',D([('aspiscow',1),('aspisdrone',4)],[('aspiscow',1),('aspisdrone',6)]),S2),
-('S8','Ant chamber',D([('giantworkerant',5),('giantsoldierant',1)],[('giantworkerant',7),('giantsoldierant',2)]),S2),
 ('S8','The queen\'s chamber',D([('giantantqueen',1),('giantsoldierant',7),('giantworkerant',7)],[('giantantqueen',1),('giantsoldierant',10),('giantworkerant',10)]),S2),
 ('S12','Orc and ogre outpost',D([('ogre',2),('orc',12)],[('ogre',3),('orc',18)]),S2),
 ('S14','Orc guard post',D([('orc',4)],[('orc',6)]),S2),
@@ -149,11 +148,6 @@ ENC=[ # (area, name, {4:[...],6:[...]} or [...] for both, map)
 ('S19a','The doppelganger slave',[('doppelganger',1)],S2),
 ('S19a','Overseer drone (S19c)',[('aspisdrone',1)],S2),
 ('S21','Slave Lord\'s den',D([('denmaster',1),('giantweaselblooddrinker',3),('orc',7)],[('denmaster',1),('giantweaselblooddrinker',5),('orc',10)]),S2),
-('R','Wall: ghouls',D([('ghoul',2)],[('ghoul',3)]),None),('R','Wall: zombies',D([('zombie',4)],[('zombie',6)]),None),
-('R','Wall: skeletons',D([('skeleton',4)],[('skeleton',6)]),None),('R','Wall: harpies',[('harpy',2)],None),
-('R','Ruins: orc campfire',D([('orc',7)],[('orc',10)]),None),('R','Ruins: orc patrol with gatekeeper',D([('halforcgatekeeper',1),('orc',4)],[('halforcgatekeeper',1),('orc',7)]),None),
-('R','Sewers: giant rats',D([('giantrat',6)],[('giantrat',9)]),None),('R','Sewers: crocodiles',D([('crocodile',2)],[('crocodile',3)]),None),
-('R','Sewers: aspis drones',D([('aspisdrone',1)],[('aspisdrone',2)]),None),('R','Sewers: blood-drinker weasels',D([('giantweaselblooddrinker',2)],[('giantweaselblooddrinker',3)]),None),
 ]
 for _,_,cr,_ in ENC:
     for k,_ in (cr[6]+cr[4] if isinstance(cr,dict) else cr): assert k in m.NPC,k
@@ -165,6 +159,81 @@ for area,nm,cr,mp in ENC:
             m.battle(base+sfx,'%s%s (%d PCs)'%(('' if area=='R' else '%s: '%area),nm,band),cr[band],mp); ENCBY.setdefault(area,[]).append(base+sfx)
     else:
         m.battle(base,'%s%s'%(('' if area=='R' else '%s: '%area),nm),cr,mp); ENCBY.setdefault(area,[]).append(base)
+# ---------------------------------------------------------------- random encounters (rolled counts) and wandering-monster tables
+# Random encounter records (battlerandom): each creature has a dice expression; the GM presses Generate.
+# Tables: output Encounter; "[2d4x]" beside an NPC link rolls the count, a table link rolls the sub-table.
+RAND={}; RANDN={}; RANDBY={}
+def randenc(code,area,name,band,npcs):
+    c=m._cat('battlerandom'); rid=ids(len(c)+1); e=_S(c,rid)
+    _S(e,'name','string','%s: %s (%d PCs)'%(area,name,band)); L=_S(e,'npclist')
+    for i,(k,expr) in enumerate(npcs,1):
+        x=_S(L,ids(i)); _S(x,'count','number',1); _S(x,'expr','string',expr); _S(x,'faction','string','foe'); _S(x,'isidentified','number',0)
+        _WR(x,'link','npc',m.NPC[k]); _S(x,'name','string',m.npcname(k))
+    RAND[code]='battlerandom.'+rid; RANDN[code]=e.findtext('name'); RANDBY.setdefault(area,[]).append(code)
+RB=lambda c:('battlerandom',RAND[c],'Random encounter: '+RANDN[c])
+for b in (4,6):
+    s_=lambda six,four: six if b==6 else four
+    randenc('R1'+'ab'[b==6],'T8','Cemetery ghouls',b,[('ghoul',s_('1d4+1','1d3+1'))])
+    randenc('R2'+'ab'[b==6],'T8','Cemetery worker ants',b,[('giantworkerant',s_('2d4','1d4+1'))])
+    randenc('R3'+'ab'[b==6],'S8','Ant chamber',b,[('giantworkerant',s_('2d6','1d6+1')),('giantsoldierant',s_('1d3','1d2'))])
+TAB={}; TABN={}; TABG={}
+def table(key,name,group,label,rows,cols=1,notes=''):
+    """rows: [(from,to,[(text,(class,rec) or None), ...])]"""
+    c=m._cat('tables'); tid=ids(len(c)+1); e=_S(c,tid)
+    _S(e,'dice','dice',''); _S(e,'hiderollresults','number',0)
+    for i,l in enumerate(label if isinstance(label,list) else [label],1): _S(e,'labelcol%d'%i,'string',l)
+    _S(e,'mod','number',0); _S(e,'name','string',name); _S(e,'output','string','encounter'); _S(e,'resultscols','number',cols); _S(e,'table_positionoffset','number',0)
+    if notes: _FT(e,'notes','<p>%s</p>'%html.escape(notes))
+    R=_S(e,'tablerows')
+    for i,(fr,to,cells) in enumerate(rows,1):
+        r=_S(R,ids(i)); _S(r,'fromrange','number',fr); res=_S(r,'results')
+        for j,(txt,lk) in enumerate(cells,1):
+            x=_S(res,ids(j)); _S(x,'result','string',txt); w=_S(x,'resultlink','windowreference')
+            _S(w,'class',None,lk[0] if lk else ''); _S(w,'recordname',None,lk[1] if lk else '')
+        _S(r,'torange','number',to if to!=fr else 0)
+    TAB[key]='tables.'+tid; TABN[key]=name; TABG.setdefault(group,[]).append(key)
+TL=lambda g:[('table',TAB[k],'Table: '+TABN[k]) for k in TABG.get(g,[])]
+for b in (4,6):
+    s_=lambda six,four: six if b==6 else four
+    def N(k,six,four=None):
+        ex=s_(six,four if four is not None else six)
+        return ('[%sx] %s'%(ex,m.npcname(k)) if ex!='1' else m.npcname(k),('npc',m.NPC[k]))
+    T=lambda k:(TABN[k+str(b)],('table',TAB[k+str(b)]))
+    P='(%d PCs)'%b; X=lambda n:'%s %s'%(n,P)
+    # chance sub-tables (d100)
+    table('ghast%d'%b,X('Chance: ghasts with wall ghouls (50%)'),'sub','Ghasts',[(1,50,[N('ghast','1d3','1d2')]),(51,100,[('none',None)])])
+    table('wpat%d'%b,X('Wall: orc patrol'),'sub',['Orcs','Leaders','Leaders','Leaders'],[
+        (1,1,[N('orc','2d4','1d4+1')]),
+        (2,2,[N('orc','2d6','1d6+1'),N('halforcgatekeeper','1')]),
+        (3,3,[N('orc','2d4','1d4+1'),N('halforcgatekeeper','1'),N('cutthroat','1')]),
+        (4,4,[N('templeguard','2','1'),N('cutthroat','1'),N('slaverpriest','2','1')])],cols=4,
+        notes='Orcs carry short swords and light crossbows (1), or halberds (3). Orcs attack intruders on sight.')
+    table('cvet%d'%b,X('Chance: human slaver at the campfire (10%)'),'sub','Slaver',[(1,10,[N('veteran','1')]),(11,100,[('none',None)])])
+    table('cogr%d'%b,X('Chance: ogres at the campfire (25%)'),'sub','Ogres',[(1,25,[N('ogre','1d3','1d2')]),(26,100,[('none',None)])])
+    table('cgat%d'%b,X('Chance: half-orc fighter at the campfire (50%)'),'sub','Fighter',[(1,50,[N('halforcgatekeeper','1')]),(51,100,[('none',None)])])
+    table('cpri%d'%b,X('Chance: half-orc fighter/cleric at the campfire (30%)'),'sub','Fighter/cleric',[(1,30,[N('slaverpriest','1')]),(31,100,[('none',None)])])
+    table('scast%d'%b,X('Chance: slaver band spellcaster'),'sub','Caster',[(1,50,[N('priest','1')]),(51,87,[N('mage','1')]),(88,100,[('none',None)])],
+        notes='50% a priest; if not, 75% a mage.')
+    table('sogr%d'%b,X('Chance: ogre with sewer orcs (10%)'),'sub','Ogre',[(1,10,[N('ogre','1')]),(11,100,[('none',None)])])
+    table('sslv%d'%b,X('Chance: caravan fighter with the slave band (25%)'),'sub',['Fighter','Interpreter'],[(1,25,[N('veteran','1'),N('halforcslaver','1')]),(26,100,[('none',None),('',None)])],cols=2)
+    # main tables
+    table('wall%d'%b,X('A1 Wall Encounters'),'wall',['Creatures','Also','Also','Also'],[
+        (1,1,[N('ghoul','2d4','1d4+1'),T('ghast')]),
+        (2,2,[N('zombie','2d6','1d6+1')]),(3,3,[N('skeleton','2d6','1d6+1')]),
+        (4,6,[T('wpat')]),(7,7,[N('stirge','1d10','1d6')]),(8,8,[N('harpy','1d4','1d3')])],cols=2,
+        notes='Roll every 10 minutes on the wall; an encounter occurs on a 1 in 6. Ghouls are returning from the city 1 time in 4 (met climbing down the outer wall). Wall undead never attack orcs or the High Priestess.')
+    table('ruin%d'%b,X('A1 Ruin Encounters'),'ruin',['Creatures','Also','Also','Also','Also'],[
+        (1,2,[N('orc','3d6','2d6'),T('cvet'),T('cogr'),T('cgat'),T('cpri')]),
+        (3,3,[N('basilisk','1d2','1')]),(4,4,[N('ghoul','2d4','1d4+1')]),(5,5,[N('wight','1')]),
+        (6,6,[N('veteran','1'),N('guard','1d8+2','1d6+1'),T('scast'),N('cutthroat','1d4','1d3')])],cols=5,
+        notes='Roll every 10 minutes in the ruins; an encounter occurs on a 1 in 6. Basilisks met here are removed from T10; the wight is never the one in T9. The orc camp has 0-5 crude shelters, each holding 1d100/5 gp. Slavers try to deal with the party first.')
+    table('sewer%d'%b,X('A1 Sewer Encounters'),'sewer',['Creatures','Also','Also','Also'],[
+        (1,1,[N('aspisdrone','1d4','1d3')]),(2,3,[N('orc','2d6','1d6+1'),T('sogr')]),
+        (4,5,[N('commoner','2d6','1d6+1'),N('orc','2d4','1d4+1'),T('sslv')]),
+        (6,6,[N('giantrat','2d10','2d6')]),(7,7,[N('giantweaselblooddrinker','1d2','1')]),
+        (8,8,[('Green slime (DMG hazard; no creature to add)',None)]),
+        (9,9,[N('doppelganger','1d3','1d2')]),(10,10,[N('crocodile','1d6','1d4')])],cols=3,
+        notes='Roll every 10 minutes in the undercity; an encounter occurs on a 1 in 6. Slaves are shackled Commoners herded by orcs with whips and short swords. Doppelgangers pose as orcs half the time.')
 # ---------------------------------------------------------------- reference manual
 def split_h2(t):
     parts=re.split(r'(?m)^## (.+)$',t); return parts[0],[(parts[i].strip(),parts[i+1]) for i in range(1,len(parts),2)]
@@ -183,11 +252,11 @@ def area_pages(sec,t,levelmap):
         lead=((pre.strip()+'\n\n') if j==0 and pre.strip() else '')+parts[0].strip()
         imgs=list(levelmap.get(title,()))
         if lead or imgs:
-            links=[m.I(i) for i in imgs]+npclinks(lead)+itemlinks(lead)
+            links=[m.I(i) for i in imgs]+npclinks(lead)+itemlinks(lead)+(TL('sewer') if title=='Sewer Encounter Table' else [])
             m.page(sec,title,C('## '+title+'\n\n'+lead) if lead else '<h>%s</h>'%html.escape(title),images=imgs,links=links,place={i:'$end' for i in imgs})
         for i in range(1,len(parts),2):
             at=parts[i].strip(); body_=parts[i+1]; num=at.split('.')[0]
-            links=[m.B(c) for c in ENCBY.get(num,[])]
+            links=[m.B(c) for c in ENCBY.get(num,[])]+[RB(c) for c in RANDBY.get(num,[])]
             ln=[]
             for a_,nm_,cr_,_ in [x for x in ENC if x[0]==num]:
                 for k,_c in (cr_[6] if isinstance(cr_,dict) else cr_):
@@ -211,11 +280,11 @@ for title,txt in h2:
     if title in ('Credits',): continue
     imgs=[]; links=npclinks(txt)+itemlinks(txt)+([m.SP('causefear')] if 'Cause Fear' in txt else [])
     if title=='Maps': links=[m.I(k) for k in ALLMAPS]
-    if title in ('Wall Encounters',): links+=[m.B(c) for c in ENCBY['R'] if 'Wall' in m.BATN[c]]
-    if title in ('Ruin Encounters',): links+=[m.B(c) for c in ENCBY['R'] if 'Ruins' in m.BATN[c]]
+    if title=='Wall Encounters': links+=TL('wall')
+    if title=='Ruin Encounters': links+=TL('ruin')
     m.page('Introduction',title,C('## '+title+'\n'+txt),images=imgs,links=links)
 tb='<table><tr><td><b>Code</b></td><td><b>Encounter</b></td><td><b>XP</b></td></tr>'+''.join('<tr><td>%s</td><td>%s</td><td>%d</td></tr>'%(c,html.escape(m.BATN[c]),int(m._cat('battle').find(m.BAT[c].split('.')[1]).findtext('exp'))) for c in m.BAT)+'</table>'
-m.page('Introduction','Encounters','<h>Encounters</h><p>Every encounter in the module, with its total (unadjusted) XP. Area encounters have a 4-PC and a 6-PC version where the numbers change; random encounters are listed last.</p>'+tb,links=[m.B(c) for c in m.BAT])
+m.page('Introduction','Encounters','<h>Encounters</h><p>Every encounter in the module, with its total (unadjusted) XP. Area encounters have a 4-PC and a 6-PC version where the numbers change. Rooms whose numbers are rolled use random encounters (press Generate), and wandering monsters use the rollable tables.</p>'+tb,links=[m.B(c) for c in m.BAT])
 tb='<table><tr><td><b>Item</b></td><td><b>Where</b></td></tr>'+''.join('<tr><td>%s</td><td>%s</td></tr>'%(html.escape(m.ITEMN[k]),html.escape(g)) for k,g in GMI)+'</table>'
 m.page('Introduction','Magic Items and Treasure — GM Notes',tb,links=[m.IT(k) for k,_ in GMI])
 for sec,f,lv in (('Part 1: The Temple','A1-01 The Temple.md',{'Key to the Temple Level':(MK['1'],MP['1'])}),
@@ -268,6 +337,8 @@ def build_with_pregens(out_path,cover_image=None):
         e=orig(p,tag,typ,text)
         if tag=='entries' and p.tag==re.sub(r'[^a-z0-9]','',NAME.lower()):
             x=orig(e,'charsheet'); _WR(x,'librarylink','pregencharselect','pregencharsheet'); orig(x,'name','string','Pregenerated Characters')
+            for tg,lab in (('battlerandom','Encounters (Random)'),('tables','Tables')):
+                x=orig(e,tg); _WR(x,'librarylink','reference_list','..'); orig(x,'name','string',lab); orig(x,'recordtype','string','table' if tg=='tables' else tg)
         return e
     fgmod._S=S
     try: _build_lib(out_path,cover_image)
