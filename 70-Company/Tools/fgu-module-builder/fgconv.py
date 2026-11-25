@@ -15,7 +15,9 @@ NAMES={}   # vault note name -> name shown in the module (set by module.py)
 STRIP=[]   # note-name prefixes to drop when no NAMES entry (e.g. 'SP-GA05 — ')
 SEEN=[]    # wikilink targets met since the last page/record was built (for "See also" links)
 def resolve(target):
-    target=target.split('#')[0].split('/')[-1].strip()
+    note,_,head=target.partition('#')
+    if not note.strip(): SEEN.append(head.strip()); return head.strip()  # [[#Heading]] within the same note: show the heading as written
+    target=note.split('/')[-1].strip()
     SEEN.append(target)
     if target in NAMES: return NAMES[target]
     for pre in STRIP:
